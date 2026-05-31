@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "vin-diesel",
+  "name": "Vin Diesel",
+  "worksCount": 1,
+  "description": "acteur, réalisateur, scénariste et producteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vin%20Diesel%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-07-18",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q178166",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Vin_Diesel",
+    "imdb": "nm0004874",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "un-homme-a-part",
+      "title": "Un homme à part"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

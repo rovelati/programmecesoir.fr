@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "ulrich-thomsen",
+  "name": "Ulrich Thomsen",
+  "worksCount": 2,
+  "description": "acteur",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ulrich%20Thomsen%20o.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-12-06",
+  "nationality": "Royaume de Danemark",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q382210",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ulrich_Thomsen",
+    "imdb": "nm0860947",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-enquete",
+      "title": "L'enquête"
+    },
+    {
+      "type": "film",
+      "slug": "les-enquetes-du-departement-v-promesse",
+      "title": "Les enquêtes du département V : Promesse"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jane-birkin",
+  "name": "Jane Birkin",
+  "worksCount": 1,
+  "description": "actrice et chanteuse britannico-française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jane%20Birkin%20cropped%202009.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1946-12-14",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q212873",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jane_Birkin",
+    "imdb": "nm0000945",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-chemins-de-katmandou",
+      "title": "Les chemins de Katmandou"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

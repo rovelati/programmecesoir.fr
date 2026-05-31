@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "eva-green",
+  "name": "Eva Green",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Green%20(Headshot).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1980-07-06",
+  "nationality": "France",
+  "jobTitle": "compositeur ou compositrice",
+  "externalIds": {
+    "wikidata": "Q191644",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Eva_Green",
+    "imdb": "nm1200692",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "d-apres-une-histoire-vraie",
+      "title": "D'après une histoire vraie"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

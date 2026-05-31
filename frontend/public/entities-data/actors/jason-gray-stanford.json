@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "jason-gray-stanford",
+  "name": "Jason Gray-Stanford",
+  "worksCount": 2,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jason%20Gray-Stanford.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-05-19",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q918321",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jason_Gray-Stanford",
+    "imdb": "nm0337020",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-homme-d-exception",
+      "title": "Un homme d'exception"
+    },
+    {
+      "type": "series",
+      "slug": "monk",
+      "title": "Monk"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d862e1a4-552e-48d9-9c23-47c5470a23db",
+      "title": "Monk - Saison 5",
+      "programSlug": "monk-saison-5",
+      "programUrl": "/programme/rts-un/monk-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-25 14:25:00+00",
+      "endTime": "2026-04-25 15:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-25 14:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

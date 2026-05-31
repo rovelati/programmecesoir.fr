@@ -1,0 +1,125 @@
+{
+  "type": "film",
+  "slug": "late-night",
+  "title": "Late Night",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Late Night"
+  ],
+  "genres": [
+    "comédie",
+    "drame"
+  ],
+  "description": "Katherine Newbury, une présentatrice de Talk-show, mène son équipe d'auteurs à la baguette et n'hésite pas à les licencier s'ils ne font plus l'affaire. Elle-même va faire les frais du monde impitoyable de la télévision : sa productrice lui annonce que c'est sa dernière saison. Pour faire changer d'avis la direction de la chaîne, Katherine doit trouver un moyen pour remonter l'audience de son émission. Elle embauche Molly Patel, une jeune indienne talentueuse. Malgré des relations de travail compliquées, elle parvient à écrire des répliques qui font mouche. Peu à peu, le show renouvelle son public...",
+  "descriptionAi": "Cette comédie dramatique de 2019 plonge dans les coulisses impitoyables d’un talk-show new-yorkais. L’ambiance oscille entre l’humour acerbe des répliques et la tension palpable d’un univers médiatique en crise. Le film captive en explorant avec intelligence la collision entre deux générations de femmes, incarnées par une Katherine Newbury autoritaire et la fraîcheur de la jeune recrue Molly Patel. Leur alliance improbable, faite de frictions et de respect grandissant, offre un regard à la fois drôle et touchant sur la nécessité de se réinventer. Une histoire de résilience professionnelle et humaine, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:49:14.965Z",
+  "year": 2019,
+  "durationMinutes": 102,
+  "cast": [
+    {
+      "qid": "Q168724",
+      "slug": "emma-thompson",
+      "name": "Emma Thompson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q539917",
+      "slug": "mindy-kaling",
+      "name": "Mindy Kaling",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311271",
+      "slug": "john-lithgow",
+      "name": "John Lithgow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314603",
+      "slug": "hugh-dancy",
+      "name": "Hugh Dancy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2139900",
+      "slug": "reid-scott",
+      "name": "Reid Scott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26921822",
+      "slug": "paul-walter-hauser",
+      "name": "Paul Walter Hauser",
+      "role": "actor"
+    },
+    {
+      "qid": "Q629696",
+      "slug": "denis-o-hare",
+      "name": "Denis O'Hare",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16241504",
+      "slug": "john-early",
+      "name": "John Early",
+      "role": "actor"
+    },
+    {
+      "qid": "Q368913",
+      "slug": "max-casella",
+      "name": "Max Casella",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438065",
+      "slug": "megalyn-echikunwoke",
+      "name": "Megalyn Echikunwoke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231203",
+      "slug": "amy-ryan",
+      "name": "Amy Ryan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4767815",
+      "slug": "annaleigh-ashford",
+      "name": "Annaleigh Ashford",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1261154",
+    "slug": "nisha-ganatra",
+    "name": "Nisha Ganatra",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

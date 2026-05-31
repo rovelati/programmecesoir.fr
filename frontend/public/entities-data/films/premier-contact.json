@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "premier-contact",
+  "title": "Premier contact",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Premier contact"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm de science-fiction",
+    "thriller",
+    "film ou téléfilm à énigme"
+  ],
+  "description": "Une forme noire, gigantesque, lévite verticalement au-dessus de la Terre. Les extraterrestres ont débarqué et n'ont pour l'instant montré aucune agressivité. La situation est préoccupante car certains pays envisagent de frapper les astronefs, effrayés à l'idée que les visiteurs puissent être mal intentionnés. A la demande des forces armées, Louise Banks, experte en linguistique, s'introduit avec une équipe de spécialistes au sein de l'un des leurs douze vaisseaux. Alors qu'elle doit surmonter un deuil, elle tente de mener à bien sa mission, épaulée par Ian Donnelly, un physicien renommé, et par le colonel Weber...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arrival%202016%20Film.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4c3335d6-9cfe-4bd4-b927-32953d1a59ac",
+      "title": "Premier contact",
+      "programSlug": "premier-contact",
+      "programUrl": "/programme/cine-frisson/premier-contact",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 11:28:00+00",
+      "endTime": "2026-04-20 13:20:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q481832",
+      "slug": "amy-adams",
+      "name": "Amy Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23365",
+      "slug": "jeremy-renner",
+      "name": "Jeremy Renner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q182763",
+      "slug": "forest-whitaker",
+      "name": "Forest Whitaker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438445",
+      "slug": "michael-stuhlbarg",
+      "name": "Michael Stuhlbarg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q598178",
+      "slug": "tzi-ma",
+      "name": "Tzi Ma",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21063644",
+      "slug": "sangita-patel",
+      "name": "Sangita Patel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15867224",
+      "slug": "mark-o-brien",
+      "name": "Mark O'Brien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082790",
+      "slug": "frank-schorpion",
+      "name": "Frank Schorpion",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q548823",
+    "slug": "denis-villeneuve",
+    "name": "Denis Villeneuve",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 11:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

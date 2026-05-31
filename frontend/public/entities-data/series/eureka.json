@@ -1,0 +1,46 @@
+{
+  "type": "series",
+  "slug": "eureka",
+  "title": "Eureka !",
+  "airingsCount": 33,
+  "sourceTitles": [
+    "Eureka !"
+  ],
+  "genres": [
+    "Série TV"
+  ],
+  "description": "série télévisée animée d'animation américaine-irlandais",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-junior.png",
+      "airingsCount": 33
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2022,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

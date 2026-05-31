@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "katie-holmes",
+  "name": "Katie Holmes",
+  "worksCount": 1,
+  "description": "actrice, productrice et réalisatrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Katie%20Holmes%20WHCAD%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-12-18",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q174346",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Katie_Holmes",
+    "imdb": "nm0005017",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "logan-lucky",
+      "title": "Logan Lucky"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

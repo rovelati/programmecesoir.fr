@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "mon-meilleur-ami",
+  "title": "Mon meilleur ami",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Mon meilleur ami"
+  ],
+  "genres": [
+    "drame",
+    "comédie"
+  ],
+  "description": "François est un marchand d'art parisien. Lors d'une vente aux enchères, il acquiert pour une petite fortune un magnifique vase grec. Le soir même, il fête son anniversaire avec ses collègues. Parmi eux, Catherine, sa collaboratrice, lui déclare ouvertement qu'il n'a pas de vrais amis. François nie. Elle le met aussitôt au défi : si dans les dix jours, il ne lui a pas présenté son meilleur ami, le vase grec sera sien. François est sûr de gagner mais, à la réflexion, il s'aperçoit que si son carnet d'adresses est plein, il n'a que des collègues et des clients. Par hasard, il retrouve plusieurs fois de suite le même chauffeur de taxi, Bruno, un garçon qu'il trouve sympathique...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q106303",
+      "slug": "daniel-auteuil",
+      "name": "Daniel Auteuil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q468190",
+      "slug": "dany-boon",
+      "name": "Dany Boon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q435925",
+      "slug": "julie-gayet",
+      "name": "Julie Gayet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3189206",
+      "slug": "julie-durand",
+      "name": "Julie Durand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2829661",
+      "slug": "alain-choquet",
+      "name": "Alain Choquet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830228",
+      "slug": "alain-rimoux",
+      "name": "Alain Rimoux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848938",
+      "slug": "andree-damant",
+      "name": "Andrée Damant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851174",
+      "slug": "anne-le-ny",
+      "name": "Anne Le Ny",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2870859",
+      "slug": "audrey-marnay",
+      "name": "Audrey Marnay",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3008989",
+      "slug": "cyril-couton",
+      "name": "Cyril Couton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3051191",
+      "slug": "elizabeth-bourgine",
+      "name": "Élizabeth Bourgine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3591137",
+      "slug": "eric-frey",
+      "name": "Éric Frey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3591288",
+      "slug": "eric-naggar",
+      "name": "Éric Naggar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3592141",
+      "slug": "etienne-draber",
+      "name": "Étienne Draber",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3063686",
+      "slug": "fabienne-chaudat",
+      "name": "Fabienne Chaudat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3103256",
+      "slug": "georges-neri",
+      "name": "Georges Neri",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q106709",
+    "slug": "patrice-leconte",
+    "name": "Patrice Leconte",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

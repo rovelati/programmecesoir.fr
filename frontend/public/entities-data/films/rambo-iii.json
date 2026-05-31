@@ -1,0 +1,108 @@
+{
+  "type": "film",
+  "slug": "rambo-iii",
+  "title": "Rambo III",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Rambo III"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "film et téléfilm de guerre"
+  ],
+  "description": "John Rambo est de retour de sa dernière mission au Viêtnam. Discrètement retiré en Thaïlande, il vit tranquillement avec des moines bouddhistes. Il espère ainsi se tenir à l'écart de l'univers de violence qui a trop longtemps été le sien. Un jour, il reçoit la visite du colonel Trautman, son instructeur...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rambo%203%20de.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1988,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q40026",
+      "slug": "sylvester-stallone",
+      "name": "Sylvester Stallone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318607",
+      "slug": "richard-crenna",
+      "name": "Richard Crenna",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3288528",
+      "slug": "marc-de-jonge",
+      "name": "Marc de Jonge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1359402",
+      "slug": "sasson-gabai",
+      "name": "Sasson Gabai",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317228",
+      "slug": "kurtwood-smith",
+      "name": "Kurtwood Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1348019",
+      "slug": "spyros-fokas",
+      "name": "Spýros Fokás",
+      "role": "actor"
+    },
+    {
+      "qid": "Q549087",
+      "slug": "marcus-gilbert",
+      "name": "Marcus Gilbert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2438420",
+      "slug": "alon-abutbul",
+      "name": "Alon Abutbul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q657077",
+      "slug": "joseph-shiloach",
+      "name": "Joseph Shiloach",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q933856",
+    "slug": "peter-macdonald",
+    "name": "Peter MacDonald",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

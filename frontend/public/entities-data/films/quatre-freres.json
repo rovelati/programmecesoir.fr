@@ -1,0 +1,154 @@
+{
+  "type": "film",
+  "slug": "quatre-freres",
+  "title": "Quatre frères",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Quatre frères"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "film ou téléfilm criminel",
+    "drame",
+    "hood film",
+    "film ou téléfilm à énigme",
+    "film de vigilante"
+  ],
+  "description": "Habitante d'un quartier pauvre de Detroit, Evelyn a recueilli de nombreux enfants abandonnés au fil des années. Elle en a même adopté quatre, deux Blancs et deux Noirs. Tous les quatre se sont sortis de la misère. Lorsqu'Evelyn est assassinée, ses fils décident de la venger coûte que coûte...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2005,
+  "durationMinutes": 109,
+  "cast": [
+    {
+      "qid": "Q164119",
+      "slug": "mark-wahlberg",
+      "name": "Mark Wahlberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311232",
+      "slug": "tyrese-gibson",
+      "name": "Tyrese Gibson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q448837",
+      "slug": "andre-3000",
+      "name": "André 3000",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298371",
+      "slug": "garrett-hedlund",
+      "name": "Garrett Hedlund",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296500",
+      "slug": "terrence-howard",
+      "name": "Terrence Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q472282",
+      "slug": "josh-charles",
+      "name": "Josh Charles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231911",
+      "slug": "sofia-vergara",
+      "name": "Sofía Vergara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237579",
+      "slug": "fionnula-flanagan",
+      "name": "Fionnula Flanagan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317343",
+      "slug": "chiwetel-ejiofor",
+      "name": "Chiwetel Ejiofor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235511",
+      "slug": "taraji-p-henson",
+      "name": "Taraji P. Henson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q809099",
+      "slug": "barry-shabaka-henley",
+      "name": "Barry Shabaka Henley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3934552",
+      "slug": "riccardo-niseem-onorato",
+      "name": "Riccardo Niseem Onorato",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3938779",
+      "slug": "roberto-draghetti",
+      "name": "Roberto Draghetti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3896990",
+      "slug": "pasquale-anselmo",
+      "name": "Pasquale Anselmo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3750774",
+      "slug": "francesco-venditti",
+      "name": "Francesco Venditti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3796305",
+      "slug": "ilaria-latini",
+      "name": "Ilaria Latini",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q363005",
+    "slug": "john-singleton",
+    "name": "John Singleton",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

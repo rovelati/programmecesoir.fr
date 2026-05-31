@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "firmine-richard",
+  "name": "Firmine Richard",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Firmine%20Richard.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1947-09-25",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q447709",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Firmine_Richard",
+    "imdb": "nm0723796",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "3-zeros",
+      "title": "3 zéros"
+    },
+    {
+      "type": "film",
+      "slug": "maison-de-retraite",
+      "title": "Maison de retraite"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7d349440-fe84-4dd9-a53a-0fb4085d663d",
+      "title": "3 zéros",
+      "programSlug": "3-zeros",
+      "programUrl": "/programme/cine-family/3-zeros",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 09:41:00+00",
+      "endTime": "2026-04-24 11:17:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-24 09:41:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

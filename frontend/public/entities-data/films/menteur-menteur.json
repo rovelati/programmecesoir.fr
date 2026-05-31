@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "menteur-menteur",
+  "title": "Menteur, menteur",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Menteur, menteur"
+  ],
+  "genres": [
+    "comédie fantastique",
+    "film de procès"
+  ],
+  "description": "Jeune avocat sans scrupules, Fletcher Reede passe le plus clair de son temps à mentir à ceux qui l'entourent. Il abandonne sa femme, qu'il aime pourtant, et oublie l'anniversaire de son fils. Le petit Max se désespère de ce comportement désordonné et fait le voeu de voir son père ne plus mentir pendant 24 heures. Aussitôt désiré, aussitôt fait. En effet, Fletcher ne peut plus s'empêcher de dire la vérité, ce qui rend sa journée totalement déstabilisante. Cet excès de sincérité touche de plein fouet ses relations avec sa maîtresse, ses collègues, et le conduit, à la barre, à un désastre juridique...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1997,
+  "durationMinutes": 83,
+  "cast": [
+    {
+      "qid": "Q40504",
+      "slug": "jim-carrey",
+      "name": "Jim Carrey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233027",
+      "slug": "maura-tierney",
+      "name": "Maura Tierney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q495549",
+      "slug": "jennifer-tilly",
+      "name": "Jennifer Tilly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238052",
+      "slug": "swoosie-kurtz",
+      "name": "Swoosie Kurtz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262537",
+      "slug": "amanda-donohoe",
+      "name": "Amanda Donohoe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q555625",
+      "slug": "jason-bernard",
+      "name": "Jason Bernard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1662316",
+      "slug": "mitchell-ryan",
+      "name": "Mitchell Ryan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2628470",
+      "slug": "justin-cooper",
+      "name": "Justin Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311093",
+      "slug": "cary-elwes",
+      "name": "Cary Elwes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q530627",
+      "slug": "anne-haney",
+      "name": "Anne Haney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q525523",
+      "slug": "christopher-mayer",
+      "name": "Christopher Mayer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1058141",
+      "slug": "eric-pierpoint",
+      "name": "Eric Pierpoint",
+      "role": "actor"
+    },
+    {
+      "qid": "Q456178",
+      "slug": "cheri-oteri",
+      "name": "Cheri Oteri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5292891",
+      "slug": "don-keefer",
+      "name": "Don Keefer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3162786",
+      "slug": "jarrad-paul",
+      "name": "Jarrad Paul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240436",
+      "slug": "krista-allen",
+      "name": "Krista Allen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q722135",
+    "slug": "tom-shadyac",
+    "name": "Tom Shadyac",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

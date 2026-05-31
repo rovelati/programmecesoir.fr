@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "angry-birds-le-film",
+  "title": "Angry Birds : le film",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Angry Birds : le film"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Sur une île paradisiaque, des oiseaux incapables de voler mais dont certains disposent de capacités spéciales se font dérober leurs œufs par de méchants cochons verts. Red, volatile colérique et paria de sa communauté, lance une mission de sauvetage en propulsant les oiseaux sur la cité des pourceaux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

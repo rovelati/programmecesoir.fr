@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "les-aventures-d-arsene-lupin",
+  "title": "Les aventures d'Arsène Lupin",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Les aventures d'Arsène Lupin"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "comédie"
+  ],
+  "description": "Lors d'une réception, un attaché d'ambassade italien éblouit la haute société, et plus particulièrement la baronne Mina von Kraft, par ses talents de danseur. L'homme n'est autre que le célèbre cambrioleur Arsène Lupin. Après son départ, on constate la disparition de deux tableaux de maître. Déguisé en viticulteur bordelais, Lupin dérobe plus tard une collection de pierres précieuses, mais il est dénoncé par une complice involontaire. Lupin est arrêté, et libéré après un coup de fil. La belle Mina fait alors enlever le gentleman-cambrioleur et l'oblige à travailler pour le compte de Guillaume II, l'empereur d'Allemagne, qui le charge de vérifier l'inviolabilité de son coffre-fort...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "52430700-b42d-4bb3-8d16-c878be001c93",
+      "title": "Les aventures d'Arsène Lupin",
+      "programSlug": "les-aventures-d-arsene-lupin",
+      "programUrl": "/programme/tcm-cinema/les-aventures-d-arsene-lupin",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 05:20:00+00",
+      "endTime": "2026-04-23 07:00:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1957,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q2671274",
+      "slug": "robert-lamoureux",
+      "name": "Robert Lamoureux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2829927",
+      "slug": "alain-janey",
+      "name": "Alain Janey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2833873",
+      "slug": "alexandre-mihalesco",
+      "name": "Alexandre Mihalesco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2853654",
+      "slug": "antoine-baud",
+      "name": "Antoine Baud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2958599",
+      "slug": "charles-bouillaud",
+      "name": "Charles Bouillaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q663802",
+      "slug": "daniel-ceccaldi",
+      "name": "Daniel Ceccaldi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3579848",
+      "slug": "edouard-francomme",
+      "name": "Édouard Francomme",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1508842",
+      "slug": "georges-chamarat",
+      "name": "Georges Chamarat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3131932",
+      "slug": "henri-rollan",
+      "name": "Henri Rollan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3142127",
+      "slug": "hubert-de-lapparent",
+      "name": "Hubert de Lapparent",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55381",
+      "slug": "jacques-becker",
+      "name": "Jacques Becker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3159472",
+      "slug": "jacques-mancier",
+      "name": "Jacques Mancier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3167553",
+      "slug": "jean-marie-arnoux",
+      "name": "Jean-Marie Arnoux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q469759",
+      "slug": "liselotte-pulver",
+      "name": "Liselotte Pulver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3288665",
+      "slug": "marcel-bernier",
+      "name": "Marcel Bernier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3316004",
+      "slug": "mireille-ozy",
+      "name": "Mireille Ozy",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55381",
+    "slug": "jacques-becker",
+    "name": "Jacques Becker",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 05:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

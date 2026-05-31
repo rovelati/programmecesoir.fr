@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "jack-nicholson",
+  "name": "Jack Nicholson",
+  "worksCount": 3,
+  "description": "acteur, réalisateur et scénariste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Nicholson%202001.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1937-04-22",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q39792",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jack_Nicholson",
+    "imdb": "nm0000197",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sans-plus-attendre",
+      "title": "Sans plus attendre"
+    },
+    {
+      "type": "film",
+      "slug": "tout-peut-arriver",
+      "title": "Tout peut arriver"
+    },
+    {
+      "type": "film",
+      "slug": "les-infiltres",
+      "title": "Les infiltrés"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

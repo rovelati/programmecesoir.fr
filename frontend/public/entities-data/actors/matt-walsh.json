@@ -1,0 +1,66 @@
+{
+  "type": "actor",
+  "slug": "matt-walsh",
+  "name": "Matt Walsh",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Matt%20Walsh%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-10-13",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2278533",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Matt_Walsh_(acteur)",
+    "imdb": "nm0909768",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "s-o-s-fantomes",
+      "title": "S.O.S. Fantômes"
+    },
+    {
+      "type": "film",
+      "slug": "soyez-sympas-rembobinez",
+      "title": "Soyez sympas, rembobinez"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "72fb94fb-96a9-44cd-aec5-5b67673ddf87",
+      "title": "Soyez sympas, rembobinez",
+      "programSlug": "soyez-sympas-rembobinez",
+      "programUrl": "/programme/cine-festival/soyez-sympas-rembobinez",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-25 03:40:00+00",
+      "endTime": "2026-04-25 04:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "0ce70329-69a0-4dc2-9cda-c9680af3516c",
+      "title": "S.O.S. Fantômes",
+      "programSlug": "s-o-s-fantomes",
+      "programUrl": "/programme/syfy/s-o-s-fantomes",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-25 14:35:00+00",
+      "endTime": "2026-04-25 16:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 03:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

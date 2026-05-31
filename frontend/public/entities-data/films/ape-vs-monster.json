@@ -1,0 +1,72 @@
+{
+  "type": "film",
+  "slug": "ape-vs-monster",
+  "title": "Ape vs Monster",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Ape vs Monster"
+  ],
+  "genres": [
+    "Telefilms",
+    "Téléfilm"
+  ],
+  "description": "Une capsule spatiale, habitée par un chimpanzé pour des raisons d'expérimentations, revient sur Terre à l'issue de sa mission. Malheureusement, elle ramène avec elle une substance inconnue aux étranges propriétés, qui passe inaperçue à cause de son apparence de boue verdâtre. Sous l'influence de cette substance, le chimpanzé atteint une taille gigantesque, de même qu'un iguane qui se trouvait dans les parages. Aussitôt commence entre les deux bêtes une lutte à mort pour rien moins que la domination du monde. Quant aux humains, ils comptent les points en espérant survivre...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mcm.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "02d4696b-94c7-487b-9b31-2db3e189e0b8",
+      "title": "Ape vs Monster",
+      "programSlug": "ape-vs-monster",
+      "programUrl": "/programme/mcm/ape-vs-monster",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-21 20:40:00+00",
+      "endTime": "2026-04-21 22:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c4b29568-765d-4fe8-9542-ae0b4a16a803",
+      "title": "Ape vs Monster",
+      "programSlug": "ape-vs-monster",
+      "programUrl": "/programme/mcm/ape-vs-monster",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-25 12:25:00+00",
+      "endTime": "2026-04-25 14:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 20:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

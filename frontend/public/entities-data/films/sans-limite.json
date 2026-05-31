@@ -1,0 +1,147 @@
+{
+  "type": "film",
+  "slug": "sans-limite",
+  "title": "Sans limite",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Sans limite"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "film ou téléfilm de science-fiction",
+    "drame",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Un mécanicien endetté et son ami pilote enlèvent une star d'Instagram, provoquant une course-poursuite en Italie, qui fait d'eux des héros viraux malgré eux.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bbc5860c-c08f-4226-9760-9f6b92c55163",
+      "title": "Sans limite",
+      "programSlug": "sans-limite",
+      "programUrl": "/programme/eurochannel/sans-limite",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 15:20:00+00",
+      "endTime": "2026-04-20 17:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7e80775a-9aa1-4760-9e75-a3b0e5a11fa0",
+      "title": "Sans limite",
+      "programSlug": "sans-limite",
+      "programUrl": "/programme/eurochannel/sans-limite",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 05:25:00+00",
+      "endTime": "2026-04-26 07:10:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2011,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q205707",
+      "slug": "bradley-cooper",
+      "name": "Bradley Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236097",
+      "slug": "abbie-cornish",
+      "name": "Abbie Cornish",
+      "role": "actor"
+    },
+    {
+      "qid": "Q36949",
+      "slug": "robert-de-niro",
+      "name": "Robert De Niro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237594",
+      "slug": "anna-friel",
+      "name": "Anna Friel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2062198",
+      "slug": "johnny-whitworth",
+      "name": "Johnny Whitworth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q737369",
+      "slug": "tomas-arana",
+      "name": "Tomas Arana",
+      "role": "actor"
+    },
+    {
+      "qid": "Q935081",
+      "slug": "robert-john-burke",
+      "name": "Robert John Burke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2619712",
+      "slug": "caroline-winberg",
+      "name": "Caroline Winberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3499384",
+      "slug": "andrew-howard",
+      "name": "Andrew Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q454379",
+      "slug": "patricia-kalember",
+      "name": "Patricia Kalember",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3308103",
+      "slug": "t-v-carpio",
+      "name": "T. V. Carpio",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q706300",
+    "slug": "neil-burger",
+    "name": "Neil Burger",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 15:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

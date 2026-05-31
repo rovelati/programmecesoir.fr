@@ -1,0 +1,89 @@
+{
+  "type": "film",
+  "slug": "nettoyage-a-sec",
+  "title": "Nettoyage à sec",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Nettoyage à sec"
+  ],
+  "genres": [
+    "drame",
+    "film LGBT"
+  ],
+  "description": "Nicole et Jean-Marie Kunstler tiennent depuis quinze ans un pressing à Belfort. Ils travaillent dur et ne s'accordent jamais un jour de vacances. Un soir, un jeune homme leur demande un nettoyage urgent que Nicole, naturellement, accepte. Le soir même, dans un cabaret, \"La Nuit des temps\", le couple retrouve son client, Loïc, qui présente un numéro de travestis avec sa soeur, Marylin. Passablement émêchés, Jean-Marie et Nicole partent avec le frère et la soeur. A deux doigts de passer à l'acte, les couples se séparent sous l'impulsion de Jean-Marie. Quelque temps plus tard, Nicole et Jean-Marie retrouvent le frère et la soeur, qui vivotent dans une caravane...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1997,
+  "durationMinutes": 93,
+  "cast": [
+    {
+      "qid": "Q928366",
+      "slug": "charles-berling",
+      "name": "Charles Berling",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289040",
+      "slug": "mathilde-seigner",
+      "name": "Mathilde Seigner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3309047",
+      "slug": "michel-bompoil",
+      "name": "Michel Bompoil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234297",
+      "slug": "miou-miou",
+      "name": "Miou-Miou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1394368",
+      "slug": "stanislas-merhar",
+      "name": "Stanislas Merhar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2231625",
+      "slug": "gerard-blanc",
+      "name": "Gérard Blanc",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q291205",
+    "slug": "anne-fontaine",
+    "name": "Anne Fontaine",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

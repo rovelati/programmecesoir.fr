@@ -1,0 +1,301 @@
+{
+  "type": "series",
+  "slug": "bluey",
+  "title": "Bluey",
+  "airingsCount": 1398,
+  "sourceTitles": [
+    "Bluey"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série télévisée d'aventures"
+  ],
+  "description": "Dans le monde coloré et pétillant de Bluey, une jeune chienne bleu, l'aventure quotidienne prend une tournure ludique et imaginative. Accompagnée de sa petite sœur Bingo, Bluey transforme les situations banales en jeux captivants. Lorsque Bluey reçoit une invitation à une fête d'anniversaire, l'excitation est à son comble. Cependant, Bingo, avec sa plume magique, complique les préparatifs en introduisant des éléments inattendus et fantaisistes qui mettent à l'épreuve la patience de toute la famille. Parallèlement, leur père, Bandit (David McCormack), se retrouve confronté aux défis de la vie quotidienne lorsqu'il doit conduire ses filles à l'école. Les deux petites chiennes, avec leur créativité débordante, ne manqueront pas d'imaginer des scénarios hilarants et surprenants, rendant chaque moment mémorable. À travers des jeux qui reflètent leur quotidien, Bluey et Bingo apprennent des leçons précieuses sur l'amitié, la famille et l'imagination, tout en apportant joie et rires à ceux qui les entourent.",
+  "descriptionAi": "Bluey est une série télévisée d'aventures pour la jeunesse qui débute en 2018. Elle suit une jeune chienne bleue et sa famille dans un monde coloré et chaleureux. L'ambiance est joyeuse, inventive et profondément familiale, où les jeux imaginatifs des enfants transforment le quotidien en aventures extraordinaires. Ce qui la rend captivante, c'est son authenticité à dépeindre les relations familiales, son humour intelligent qui plaît aussi aux adultes, et les précieuses leçons de vie glissées avec subtilité dans chaque épisode. Une série réconfortante qui célèbre la créativité et les petits bonheurs, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bluey%20entertains%20the%20crowds%20at%20Under%205s%20Day.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "channelNumber": 5,
+      "logoUrl": "/loghi/france-5.png",
+      "airingsCount": 52
+    },
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 69
+    },
+    {
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-channel.png",
+      "airingsCount": 375
+    },
+    {
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disneychannelplus1.png",
+      "airingsCount": 375
+    },
+    {
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-junior.png",
+      "airingsCount": 527
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67df401f-235b-4a84-ab1b-8e8bba1ac651",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/france-5/bluey",
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "startTime": "2026-04-19 06:08:00+00",
+      "endTime": "2026-04-19 06:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0b8e4057-9e5d-4705-9ab1-4f75d9f50b28",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/france-5/bluey",
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "startTime": "2026-04-19 06:14:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8ab231a7-ff37-49e9-909b-b8f57f27afc2",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disneychannelplus1/bluey",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 06:15:00+00",
+      "endTime": "2026-04-19 06:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5e9d3509-fba3-4c95-85db-eeb9d607ea7e",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disneychannelplus1/bluey",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 06:25:00+00",
+      "endTime": "2026-04-19 06:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3cf84207-d78a-4d30-b7e3-86ce4845bf20",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disneychannelplus1/bluey",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 06:35:00+00",
+      "endTime": "2026-04-19 06:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dec5a7cd-b125-4de5-a510-e79c19350e80",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disneychannelplus1/bluey",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 06:40:00+00",
+      "endTime": "2026-04-19 06:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9cab3237-f692-4a70-8889-48ea94644c00",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disneychannelplus1/bluey",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 06:50:00+00",
+      "endTime": "2026-04-19 07:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "600a3ec8-372d-407b-90e6-a82ad5c5dd8d",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disneychannelplus1/bluey",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 07:00:00+00",
+      "endTime": "2026-04-19 07:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "25aa80f2-d54f-44dd-a882-e402685b7d3e",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disney-channel/bluey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 07:21:00+00",
+      "endTime": "2026-04-19 07:28:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2205dcd9-5e77-4ea3-a289-a5fa860f51cb",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disney-junior/bluey",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 07:21:00+00",
+      "endTime": "2026-04-19 07:28:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cfc25c27-6f62-4b6b-b192-41385c90063e",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disney-channel/bluey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 07:28:00+00",
+      "endTime": "2026-04-19 07:38:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "20ee140c-442b-47b5-b383-9aa25ace0241",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disney-junior/bluey",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 07:28:00+00",
+      "endTime": "2026-04-19 07:38:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ced04a39-c111-420c-9de2-bd69b3070c26",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disney-channel/bluey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 07:38:00+00",
+      "endTime": "2026-04-19 07:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1717f4b6-5acb-4d99-b4cf-cb693a6bce57",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disney-junior/bluey",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 07:38:00+00",
+      "endTime": "2026-04-19 07:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b9f85b23-6aad-4b7c-9b72-29c5fb080ef4",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disney-channel/bluey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 07:45:00+00",
+      "endTime": "2026-04-19 07:52:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d262336a-6c47-4aa5-a8ca-9acc46e17782",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disney-junior/bluey",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 07:45:00+00",
+      "endTime": "2026-04-19 07:52:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "affb8229-5a51-42e1-b641-d6874094e6e2",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disney-channel/bluey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 07:52:00+00",
+      "endTime": "2026-04-19 07:59:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "515a9fcb-7ebd-4d6f-8751-ff5887e4893c",
+      "title": "Bluey",
+      "programSlug": "bluey",
+      "programUrl": "/programme/disney-junior/bluey",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 07:52:00+00",
+      "endTime": "2026-04-19 07:59:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q39071378",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bluey_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d'animation)",
+    "imdb": "tt7678620",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:02.227Z",
+  "startYear": 2018,
+  "numberOfSeasons": 3,
+  "cast": [],
+  "creator": {
+    "qid": "Q111726587",
+    "slug": "joe-brumm",
+    "name": "Joe Brumm",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 06:08:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

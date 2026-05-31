@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "mali-harries",
+  "name": "Mali Harries",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mali%20Harries%20in%202018.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-07-06",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q6743287",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mali_Harries",
+    "imdb": "nm1036545",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "hinterland",
+      "title": "Hinterland"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7e252443-6905-41af-b91c-50532eea2b70",
+      "title": "Hinterland - Saison 2",
+      "programSlug": "hinterland-saison-2",
+      "programUrl": "/programme/polar/hinterland-saison-2",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-25 22:17:00+00",
+      "endTime": "2026-04-25 23:53:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 22:17:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

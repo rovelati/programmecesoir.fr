@@ -1,0 +1,131 @@
+{
+  "type": "film",
+  "slug": "un-americain-a-paris",
+  "title": "Un Américain à Paris",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Un Américain à Paris"
+  ],
+  "genres": [
+    "film ou téléfilm musical"
+  ],
+  "description": "Peu de temps après la guerre, Jerry Mulligan, un ancien GI, décide de s'installer à Paris pour y étudier la peinture. Il loue une chambre en plein coeur de Montmartre et se lie rapidement d'amitié avec Adam Cook, un pianiste, Américain exilé comme lui. Adam était autrefois l'accompagnateur d'Henri Baurel, un chanteur devenu célèbre. Celui-ci vient lui rendre visite. Il fait alors la connaissance de Jerry et lui parle de Lise Bouvier, une jeune fille dont il est tombé éperdument amoureux. Peu de temps après, Jerry rencontre la richissime Milo Roberts, qui lui propose de devenir son imprésario personnel afin de prendre sa carrière en main...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/An%20American%20in%20Paris%20(1951%20film%20poster).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0afcc99a-5a64-49cd-9907-094e01097ba3",
+      "title": "Un Américain à Paris",
+      "programSlug": "un-americain-a-paris",
+      "programUrl": "/programme/cine-classic/un-americain-a-paris",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-19 13:48:00+00",
+      "endTime": "2026-04-19 15:38:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1951,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q73089",
+      "slug": "gene-kelly",
+      "name": "Gene Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230023",
+      "slug": "leslie-caron",
+      "name": "Leslie Caron",
+      "role": "actor"
+    },
+    {
+      "qid": "Q945042",
+      "slug": "oscar-levant",
+      "name": "Oscar Levant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1508954",
+      "slug": "georges-guetary",
+      "name": "Georges Guétary",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235632",
+      "slug": "nina-foch",
+      "name": "Nina Foch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2552694",
+      "slug": "madge-blake",
+      "name": "Madge Blake",
+      "role": "actor"
+    },
+    {
+      "qid": "Q434466",
+      "slug": "anna-q-nilsson",
+      "name": "Anna Q. Nilsson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16224236",
+      "slug": "eugene-borden",
+      "name": "Eugene Borden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q100220",
+      "slug": "susan-cummings",
+      "name": "Susan Cummings",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20723206",
+      "slug": "jack-chefe",
+      "name": "Jack Chefe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4766328",
+      "slug": "ann-codee",
+      "name": "Ann Codee",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51535",
+    "slug": "vincente-minnelli",
+    "name": "Vincente Minnelli",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 13:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

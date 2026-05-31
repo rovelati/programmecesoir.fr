@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jennifer-lopez",
+  "name": "Jennifer Lopez",
+  "worksCount": 1,
+  "description": "actrice et chanteuse américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jennifer%20Lopez%20at%20the%202025%20Sundance%20Film%20Festival%20(cropped%203).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1969-07-24",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q40715",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jennifer_Lopez",
+    "imdb": "nm0000182",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sa-mere-ou-moi",
+      "title": "Sa mère ou moi !"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

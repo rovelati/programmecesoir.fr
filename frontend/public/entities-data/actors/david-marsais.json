@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "david-marsais",
+  "name": "David Marsais",
+  "worksCount": 1,
+  "description": "comédien français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Marsais%202022.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1984-04-04",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3018364",
+    "wikipedia": "https://fr.wikipedia.org/wiki/David_Marsais",
+    "imdb": "nm4698449",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-gazelles",
+      "title": "Les gazelles"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

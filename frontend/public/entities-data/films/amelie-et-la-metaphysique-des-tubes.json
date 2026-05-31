@@ -1,0 +1,81 @@
+{
+  "type": "film",
+  "slug": "amelie-et-la-metaphysique-des-tubes",
+  "title": "Amélie et la Métaphysique des tubes",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Amélie et la métaphysique des tubes",
+    "Amélie et la Métaphysique des tubes"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Fin des années 1960, dans la région de Kobe, au Japon. Amélie est une petite fille née au pays du Soleil-Levant de parents belges. Grâce à sa nounou Nishio-san, devenue sa plus fidèle amie, le monde n'est qu'aventures et découvertes. Mais le jour de ses trois ans, un événement vient changer le cours de sa vie : Amélie quitte la petite enfance pour entrer dans l'enfance. Mutique et placide jusqu'ici, elle se met soudain à hurler et devient capricieuse et intenable. Car à cet âge-là, pour Amélie, tout se joue : le bonheur comme la tragédie...",
+  "descriptionAi": "Ce film dramatique, situé dans le Japon de la fin des années 1960, offre une plongée délicate et poétique dans les tourments de la petite enfance. L’ambiance, à la fois intimiste et visuellement soignée, capture la perception magique et parfois cruelle du monde par une fillette de trois ans. Le récit se distingue par son approche sensible et métaphorique de ce passage fondateur où chaque émotion est vécue avec une intensité absolue, rendant le parcours d’Amélie profondément universel et captivant. Une belle réflexion sur les seuils de la vie, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3d5dd45b-318a-461d-b063-d60ef36f0634",
+      "title": "Amélie et la Métaphysique des tubes",
+      "programSlug": "amelie-et-la-metaphysique-des-tubes",
+      "programUrl": "/programme/canal-cinema/amelie-et-la-metaphysique-des-tubes",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 15:15:00+00",
+      "endTime": "2026-04-23 16:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "85782a03-b8af-4da3-9a85-59e2e263f338",
+      "title": "Amélie et la métaphysique des tubes",
+      "programSlug": "amelie-et-la-metaphysique-des-tubes",
+      "programUrl": "/programme/paramount-channel/amelie-et-la-metaphysique-des-tubes",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 15:15:00+00",
+      "endTime": "2026-04-23 16:30:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:46.565Z",
+  "year": 2025,
+  "durationMinutes": 77,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-23 15:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

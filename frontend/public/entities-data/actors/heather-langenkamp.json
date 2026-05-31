@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "heather-langenkamp",
+  "name": "Heather Langenkamp",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HeatherLangenkamp.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-07-17",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q238383",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Heather_Langenkamp",
+    "imdb": "nm0000486",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "star-trek-into-darkness",
+      "title": "Star Trek Into Darkness"
+    },
+    {
+      "type": "film",
+      "slug": "les-griffes-de-la-nuit",
+      "title": "Les griffes de la nuit"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

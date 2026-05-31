@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "esther-ralston",
+  "name": "Esther Ralston",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Esther%20Ralston%201941.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1902-09-17",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q448594",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Esther_Ralston",
+    "imdb": "nm0707803",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "court-circuit",
+      "title": "Court-circuit"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "602508c6-992f-4029-ae22-3c3eb445b52c",
+      "title": "Court-circuit",
+      "programSlug": "court-circuit",
+      "programUrl": "/programme/arte-belgique/court-circuit",
+      "channelId": "arte-belgique",
+      "channelName": "Arte Belgique",
+      "channelSlug": "arte-belgique",
+      "startTime": "2026-04-22 23:25:00+00",
+      "endTime": "2026-04-23 00:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "fa47b79c-1187-4723-9cc7-81a323b7cb31",
+      "title": "Court-circuit",
+      "programSlug": "court-circuit",
+      "programUrl": "/programme/arte/court-circuit",
+      "channelId": "arte",
+      "channelName": "Arte",
+      "channelSlug": "arte",
+      "startTime": "2026-04-22 23:25:00+00",
+      "endTime": "2026-04-23 00:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 23:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

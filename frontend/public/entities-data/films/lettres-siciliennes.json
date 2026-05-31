@@ -1,0 +1,104 @@
+{
+  "type": "film",
+  "slug": "lettres-siciliennes",
+  "title": "Lettres siciliennes",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Lettres siciliennes"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Sicile, début des années 2000. Après plusieurs années de prison pour collusion avec la mafia, Catello, un homme politique aguerri, a tout perdu. Lorsque les services secrets italiens sollicitent son aide pour capturer son filleul Matteo, le dernier chef mafieux en cavale, Catello saisit l'occasion pour se remettre en selle. Homme rusé, illusionniste infatigable qui transforme la vérité en mensonge et le mensonge en vérité, Catello entame une correspondance improbable et singulière avec le fugitif, cherchant à profiter de son vide affectif. Un pari qui, face à l'un des criminels les plus recherchés au monde, comporte un certain risque...",
+  "descriptionAi": "Ce drame criminel sicilien plonge dans l'atmosphère étouffante du début des années 2000, où trahisons et loyautés s'entremêlent. L'intérêt réside dans le duel psychologique intense entre Catello, un politique véreux cherchant sa rédemption, et son filleul mafieux Matteo. Leur correspondance singulière, tissée de mensonges et de manipulations, crée une tension palpable, explorant les frontières troubles de la famille et du pouvoir. Le téléspectateur est pris dans ce jeu dangereux où chaque mot peut être une arme, offrant un thriller aux accents shakespeariens sur les illusions et les conséquences du passé. Un film captivant à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "169fe4fa-6590-453e-ad58-8644888166fc",
+      "title": "Lettres siciliennes",
+      "programSlug": "lettres-siciliennes",
+      "programUrl": "/programme/paramount-channel/lettres-siciliennes",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-21 09:05:00+00",
+      "endTime": "2026-04-21 11:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "eab5202c-20c9-42e7-ae3e-5dca4ad9ffac",
+      "title": "Lettres siciliennes",
+      "programSlug": "lettres-siciliennes",
+      "programUrl": "/programme/canal-cinema/lettres-siciliennes",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-21 09:05:00+00",
+      "endTime": "2026-04-21 11:17:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q127785576",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lettres_siciliennes",
+    "imdb": "tt28297850",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:24.385Z",
+  "year": 2024,
+  "durationMinutes": 122,
+  "cast": [
+    {
+      "qid": "Q1231066",
+      "slug": "elio-germano",
+      "name": "Elio Germano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q603089",
+      "slug": "toni-servillo",
+      "name": "Toni Servillo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q435132",
+      "slug": "barbora-bobulova",
+      "name": "Barbora Bobulova",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q56194289",
+    "slug": "fabio-grassadonia",
+    "name": "Fabio Grassadonia",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 09:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "antoine-chappey",
+  "name": "Antoine Chappey",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": "Antoine Chappey incarne avec justesse des personnages complexes, souvent ancrés dans des drames psychologiques ou des comédies grinçantes. Sa présence à l'écran, à la fois discrète et intense, crée une atmosphère où la tension intérieure et la vérité des sentiments priment. Ce qui le rend captivant, c'est sa capacité à révéler les failles et les silences de l'âme humaine avec une économie de moyens remarquable, invitant le spectateur à lire entre les lignes. Pour découvrir ses rôles les plus marquants, c'est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Chappey%20-%202013%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-06-29",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1758568",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Antoine_Chappey",
+    "imdb": "nm0152647",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-grand-saut",
+      "title": "Le grand saut"
+    },
+    {
+      "type": "film",
+      "slug": "pauline-detective",
+      "title": "Pauline détective"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "336ec877-8b68-41d9-9cea-d826bb846024",
+      "title": "Le grand saut",
+      "programSlug": "le-grand-saut",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/le-grand-saut",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-23 15:30:00+00",
+      "endTime": "2026-04-23 15:37:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:53.872Z",
+  "nextAiringAt": "2026-04-23 15:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

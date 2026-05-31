@@ -1,0 +1,153 @@
+{
+  "type": "film",
+  "slug": "john-wick-2",
+  "title": "John Wick 2",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "John Wick 2"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm criminel",
+    "thriller",
+    "film de vigilante",
+    "film ou téléfilm gore",
+    "néo-noir"
+  ],
+  "description": "John Wick, l'ancien tueur à gages, parvient à récupérer sa voiture. Il compte donc enfin profiter de sa retraite. Mais il est contacté par Santino D'Antonio, un gangster italien qui a besoin de ses services. Il souhaite prendre la place de sa soeur dans son organisation mafieuse. Wick est obligé d'accepter car il a une importante dette envers D'Antonio. A Rome, il approche Gianna, la soeur de Santino, dans une boîte de nuit. Se sentant prise au piège, la jeune femme préfère se suicider plutôt qu'être abattue. Mais Cassian, son garde du corps, jure alors de la venger...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 122,
+  "cast": [
+    {
+      "qid": "Q43416",
+      "slug": "keanu-reeves",
+      "name": "Keanu Reeves",
+      "role": "actor"
+    },
+    {
+      "qid": "Q286022",
+      "slug": "common",
+      "name": "Common",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193048",
+      "slug": "laurence-fishburne",
+      "name": "Laurence Fishburne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q133787",
+      "slug": "riccardo-scamarcio",
+      "name": "Riccardo Scamarcio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3942185",
+      "slug": "ruby-rose",
+      "name": "Ruby Rose",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295233",
+      "slug": "john-leguizamo",
+      "name": "John Leguizamo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234141",
+      "slug": "ian-mcshane",
+      "name": "Ian McShane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q322056",
+      "slug": "lance-reddick",
+      "name": "Lance Reddick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q468793",
+      "slug": "claudia-gerini",
+      "name": "Claudia Gerini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232343",
+      "slug": "bridget-moynahan",
+      "name": "Bridget Moynahan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3525542",
+      "slug": "thomas-sadoski",
+      "name": "Thomas Sadoski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210076",
+      "slug": "david-patrick-kelly",
+      "name": "David Patrick Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311716",
+      "slug": "franco-nero",
+      "name": "Franco Nero",
+      "role": "actor"
+    },
+    {
+      "qid": "Q723256",
+      "slug": "peter-serafinowicz",
+      "name": "Peter Serafinowicz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5115999",
+      "slug": "chuk-iwuji",
+      "name": "Chuk Iwuji",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295148",
+      "slug": "peter-stormare",
+      "name": "Peter Stormare",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q22277301",
+    "slug": "chad-stahelski",
+    "name": "Chad Stahelski",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "robert-downey-jr",
+  "name": "Robert Downey Jr.",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Downey%20Jr%202014%20Comic%20Con%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-04-04",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q165219",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Robert_Downey_Jr.",
+    "imdb": "nm0000375",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "air-america",
+      "title": "Air America"
+    },
+    {
+      "type": "film",
+      "slug": "spider-man-homecoming",
+      "title": "Spider-Man: Homecoming"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

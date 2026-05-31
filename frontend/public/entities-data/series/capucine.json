@@ -1,0 +1,282 @@
+{
+  "type": "series",
+  "slug": "capucine",
+  "title": "Capucine",
+  "airingsCount": 71,
+  "sourceTitles": [
+    "Capucine",
+    "Capucine - Saison 1"
+  ],
+  "genres": [
+    "Série",
+    "Séries humoristiques",
+    "Series"
+  ],
+  "description": "Capucine, une fille de son temps, parle de tout devant tout le monde et aborde différents thèmes, de sa sexualité à ses soucis au travail.",
+  "descriptionAi": "Cette série humoristique suit le quotidien de Capucine, une jeune femme résolument moderne qui dit tout haut ce que beaucoup pensent tout bas. Avec une franchise désarmante et un humour mordant, elle aborde sans filtre des thèmes universels, de la sexualité aux tracas professionnels. L'ambiance est légère, incisive et profondément relatable, miroir des préoccupations d'une génération. Le personnage principal, par son authenticité et ses réflexions décalées, crée un lien immédiat avec le téléspectateur, qui se reconnaît dans ses doutes et ses éclats de rire. Une comédie piquante et libératrice, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab1.png",
+      "airingsCount": 37
+    },
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 13
+    },
+    {
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab3.png",
+      "airingsCount": 21
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8fd6452a-5891-44d1-814e-15e90d462392",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 01:10:00+00",
+      "endTime": "2026-04-20 01:11:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b2b60a9f-99ba-4f94-95b9-0c64cfb32a7a",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 01:11:00+00",
+      "endTime": "2026-04-20 01:13:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "242242ed-586e-4dd3-8c4e-afb97656e8e7",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 01:13:00+00",
+      "endTime": "2026-04-20 01:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c7df8bd0-6088-4a77-9227-1083a34854f0",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/rtl9/capucine-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 04:00:00+00",
+      "endTime": "2026-04-20 04:01:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fdecc4c1-8dda-4f03-a640-836cba76d079",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/rtl9/capucine-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 04:01:00+00",
+      "endTime": "2026-04-20 04:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "61674c32-7442-48a5-a97e-e2c9c0417316",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 01:10:00+00",
+      "endTime": "2026-04-21 01:11:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "47cbd9e6-f432-4b3f-b22a-7cbfe1a2bd21",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 01:11:00+00",
+      "endTime": "2026-04-21 01:13:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "f70f2107-1071-4ffe-9a70-a151720921ad",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 01:13:00+00",
+      "endTime": "2026-04-21 01:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "bf98a1ae-bbfc-4899-b5b5-815de4804ab4",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 01:10:00+00",
+      "endTime": "2026-04-22 01:11:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7ae43592-a6c0-45b0-8b9e-b6d6eca677ba",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 01:11:00+00",
+      "endTime": "2026-04-22 01:13:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f0098643-27be-42c0-8e1a-46a403a4eaee",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 01:13:00+00",
+      "endTime": "2026-04-22 01:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "51bfff1e-4c53-417f-9cbc-9ad4d4c37077",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/rtl9/capucine-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-22 04:00:00+00",
+      "endTime": "2026-04-22 04:05:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "b112113c-6211-4dac-b2c9-95c500ac3488",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-23 01:10:00+00",
+      "endTime": "2026-04-23 01:11:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "d9c98593-b0bb-46f6-83e6-0f05df624f71",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-23 01:11:00+00",
+      "endTime": "2026-04-23 01:13:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "2d3292d3-09a8-439e-bc39-bf2845a438b0",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-23 01:13:00+00",
+      "endTime": "2026-04-23 01:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "db2a1181-6e76-4668-864a-daeb2c9f4de9",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/rtl9/capucine-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-23 04:00:00+00",
+      "endTime": "2026-04-23 04:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "60ca9b48-e310-420e-a261-d9cfa4259e0e",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-24 01:10:00+00",
+      "endTime": "2026-04-24 01:11:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "3fa1664f-140a-4354-a39e-584c3e021faf",
+      "title": "Capucine - Saison 1",
+      "programSlug": "capucine-saison-1",
+      "programUrl": "/programme/ab1/capucine-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-24 01:11:00+00",
+      "endTime": "2026-04-24 01:13:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T22:41:15.461Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 01:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,66 @@
+{
+  "type": "actor",
+  "slug": "kate-mckinnon",
+  "name": "Kate McKinnon",
+  "worksCount": 2,
+  "description": "actrice et comédienne américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kate%20McKinnon%20at%20the%202026%20Sundance%20Film%20Festival%20for%20In%20the%20Blink%20of%20an%20Eye%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1984-01-06",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q723057",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kate_McKinnon",
+    "imdb": "nm0571952",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "minecraft-le-film",
+      "title": "Minecraft, le film"
+    },
+    {
+      "type": "film",
+      "slug": "s-o-s-fantomes",
+      "title": "S.O.S. Fantômes"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8204e0ae-3829-4b0a-93e6-49009eae0876",
+      "title": "Minecraft, le film",
+      "programSlug": "minecraft-le-film",
+      "programUrl": "/programme/canal/minecraft-le-film",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 13:37:00+00",
+      "endTime": "2026-04-22 15:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "0ce70329-69a0-4dc2-9cda-c9680af3516c",
+      "title": "S.O.S. Fantômes",
+      "programSlug": "s-o-s-fantomes",
+      "programUrl": "/programme/syfy/s-o-s-fantomes",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-25 14:35:00+00",
+      "endTime": "2026-04-25 16:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 13:37:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

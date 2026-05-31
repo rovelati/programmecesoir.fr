@@ -1,0 +1,206 @@
+{
+  "type": "film",
+  "slug": "l-ombre",
+  "title": "L'Ombre",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'Ombre"
+  ],
+  "genres": [
+    "thriller",
+    "film noir",
+    "drame",
+    "film ou téléfilm à énigme",
+    "thriller psychologique",
+    "drame psychologique",
+    "thriller policier",
+    "film policier dramatique",
+    "film et téléfilm d'action",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Dans les année 1890, un tueur en série sévit dans une petite ville. Juhan Liiv, un enquêteur souffrant des premiers stades de la schizophrénie, se lance à sa poursuite. Un thriller estonien audacieux.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Teresa%20Wright%20and%20Joseph%20Cotten%20in%20Shadow%20of%20a%20Doubt%20trailer.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b0d88fe-91da-421d-bf1b-ea7fa62062f9",
+      "title": "L'Ombre",
+      "programSlug": "l-ombre",
+      "programUrl": "/programme/eurochannel/l-ombre",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 20:15:00+00",
+      "endTime": "2026-04-21 21:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "02eb3ee2-8a20-4817-89bc-9aa45371475c",
+      "title": "L'Ombre",
+      "programSlug": "l-ombre",
+      "programUrl": "/programme/eurochannel/l-ombre",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 04:00:00+00",
+      "endTime": "2026-04-23 05:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "ebfcd350-ac1d-46f7-bc73-54158d2312ee",
+      "title": "L'Ombre",
+      "programSlug": "l-ombre",
+      "programUrl": "/programme/eurochannel/l-ombre",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 17:15:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "f977cf2c-dae8-4ca7-ab1d-d0f41209c52a",
+      "title": "L'Ombre",
+      "programSlug": "l-ombre",
+      "programUrl": "/programme/eurochannel/l-ombre",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-25 10:45:00+00",
+      "endTime": "2026-04-25 12:20:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1943,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q230136",
+      "slug": "teresa-wright",
+      "name": "Teresa Wright",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95148",
+      "slug": "joseph-cotten",
+      "name": "Joseph Cotten",
+      "role": "actor"
+    },
+    {
+      "qid": "Q304828",
+      "slug": "macdonald-carey",
+      "name": "Macdonald Carey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q177208",
+      "slug": "patricia-collinge",
+      "name": "Patricia Collinge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q960050",
+      "slug": "henry-travers",
+      "name": "Henry Travers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q395205",
+      "slug": "hume-cronyn",
+      "name": "Hume Cronyn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1704485",
+      "slug": "wallace-ford",
+      "name": "Wallace Ford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3116093",
+      "slug": "irving-bacon",
+      "name": "Irving Bacon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16093196",
+      "slug": "edna-may-wonacott",
+      "name": "Edna May Wonacott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2975569",
+      "slug": "clarence-muse",
+      "name": "Clarence Muse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7374",
+      "slug": "alfred-hitchcock",
+      "name": "Alfred Hitchcock",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1418567",
+      "slug": "minerva-urecal",
+      "name": "Minerva Urecal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3560666",
+      "slug": "virginia-brissac",
+      "name": "Virginia Brissac",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20109574",
+      "slug": "sarah-edwards",
+      "name": "Sarah Edwards",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16019558",
+      "slug": "janet-shaw",
+      "name": "Janet Shaw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16223225",
+      "slug": "frances-carson",
+      "name": "Frances Carson",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q7374",
+    "slug": "alfred-hitchcock",
+    "name": "Alfred Hitchcock",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 20:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,64 @@
+{
+  "type": "actor",
+  "slug": "stellan-skarsgard",
+  "name": "Stellan Skarsgård",
+  "worksCount": 4,
+  "description": "acteur suédois",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stellan%20Skarsg%C3%A5rd%20at%20the%202017%20Berlinalevds.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1951-06-13",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q208667",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Stellan_Skarsg%C3%A5rd",
+    "imdb": "nm0001745",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "valeur-sentimentale",
+      "title": "Valeur sentimentale"
+    },
+    {
+      "type": "film",
+      "slug": "anges-et-demons",
+      "title": "Anges et démons"
+    },
+    {
+      "type": "film",
+      "slug": "peur-bleue",
+      "title": "Peur bleue"
+    },
+    {
+      "type": "film",
+      "slug": "a-la-poursuite-d-octobre-rouge",
+      "title": "A la poursuite d'Octobre rouge"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "91404839-f165-4459-b75c-f5d052e91531",
+      "title": "Valeur sentimentale",
+      "programSlug": "valeur-sentimentale",
+      "programUrl": "/programme/canal/valeur-sentimentale",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 22:47:00+00",
+      "endTime": "2026-04-22 00:56:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-21 22:47:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

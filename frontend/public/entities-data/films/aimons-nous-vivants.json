@@ -1,0 +1,108 @@
+{
+  "type": "film",
+  "slug": "aimons-nous-vivants",
+  "title": "Aimons-nous vivants",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Aimons-nous vivants"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Antoine Toussaint, grande vedette de la chanson française, ne vit que pour son métier. Après avoir fait un AVC et se sentant incapable de remonter sur scène, il décide d'avoir recours au suicide assisté en Suisse. Dans le train pour Genève, il rencontre Victoire, une passagère très envahissante…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c53dcd94-56f9-4ba7-9d11-feefe81de682",
+      "title": "Aimons-nous vivants",
+      "programSlug": "aimons-nous-vivants",
+      "programUrl": "/programme/canal-box-office/aimons-nous-vivants",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 14:18:00+00",
+      "endTime": "2026-04-23 15:46:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q958831",
+      "slug": "gerard-darmon",
+      "name": "Gérard Darmon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q259940",
+      "slug": "valerie-lemercier",
+      "name": "Valérie Lemercier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466527",
+      "slug": "patrick-timsit",
+      "name": "Patrick Timsit",
+      "role": "actor"
+    },
+    {
+      "qid": "Q510002",
+      "slug": "alice-de-lencquesaing",
+      "name": "Alice de Lencquesaing",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16185771",
+      "slug": "eric-viellard",
+      "name": "Éric Viellard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3491010",
+      "slug": "sophie-mounicot",
+      "name": "Sophie Mounicot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3083941",
+      "slug": "francois-berland",
+      "name": "François Berland",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3168931",
+    "slug": "jean-pierre-ameris",
+    "name": "Jean-Pierre Améris",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 14:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

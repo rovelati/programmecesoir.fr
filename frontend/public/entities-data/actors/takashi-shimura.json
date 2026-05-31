@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "takashi-shimura",
+  "name": "Takashi Shimura",
+  "worksCount": 2,
+  "description": "acteur japonais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shimura%20Takashi.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1905-03-12",
+  "nationality": "Japon",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q40070",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Takashi_Shimura",
+    "imdb": "nm0793766",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "godzilla",
+      "title": "Godzilla"
+    },
+    {
+      "type": "film",
+      "slug": "les-sept-samourais",
+      "title": "Les sept samouraïs"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

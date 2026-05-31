@@ -1,0 +1,163 @@
+{
+  "type": "film",
+  "slug": "les-contrebandiers-de-moonfleet",
+  "title": "Les contrebandiers de Moonfleet",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Les contrebandiers de Moonfleet"
+  ],
+  "genres": [
+    "film de cape et d'épée",
+    "drame",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "La Grande-Bretagne en 1757. John Mohune, un jeune orphelin, arrive à Moonfleet, un petit village du bord de mer, où il espère retrouver un certain Jeremy Fox, jadis ami de sa défunte mère. C'est par le plus grand des hasards qu'il finit par découvrir le repaire de cet homme, à la tête d'une bande de contrebandiers. Toutefois, fidèle au souvenir de son amie, Fox décide de ne pas châtier l'enfant et de l'envoyer au collège, afin d'y parfaire son éducation. Mais John nourrit d'autres projets et s'enfuit bientôt de l'établissement pour regagner le château de ses ancêtres, où il est recueilli par madame Minton, la maîtresse de Jeremy Fox...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dd2a8b3e-41ba-4d80-9d21-6d69a77679bb",
+      "title": "Les contrebandiers de Moonfleet",
+      "programSlug": "les-contrebandiers-de-moonfleet",
+      "programUrl": "/programme/cine-classic/les-contrebandiers-de-moonfleet",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-22 10:06:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1954,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q310150",
+      "slug": "stewart-granger",
+      "name": "Stewart Granger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296491",
+      "slug": "george-sanders",
+      "name": "George Sanders",
+      "role": "actor"
+    },
+    {
+      "qid": "Q446064",
+      "slug": "joan-greenwood",
+      "name": "Joan Greenwood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q267217",
+      "slug": "viveca-lindfors",
+      "name": "Viveca Lindfors",
+      "role": "actor"
+    },
+    {
+      "qid": "Q500155",
+      "slug": "jack-elam",
+      "name": "Jack Elam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1444608",
+      "slug": "melville-cooper",
+      "name": "Melville Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q373306",
+      "slug": "alan-napier",
+      "name": "Alan Napier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15512268",
+      "slug": "jean-del-val",
+      "name": "Jean Del Val",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1700513",
+      "slug": "john-hoyt",
+      "name": "John Hoyt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1702859",
+      "slug": "jon-whiteley",
+      "name": "Jon Whiteley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q249968",
+      "slug": "lester-matthews",
+      "name": "Lester Matthews",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3240839",
+      "slug": "liliane-montevecchi",
+      "name": "Liliane Montevecchi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3430837",
+      "slug": "richard-hale",
+      "name": "Richard Hale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3476753",
+      "slug": "sean-mcclory",
+      "name": "Sean McClory",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7534529",
+      "slug": "skelton-knaggs",
+      "name": "Skelton Knaggs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q953504",
+      "slug": "dan-seymour",
+      "name": "Dan Seymour",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q52997",
+    "slug": "otto-preminger",
+    "name": "Otto Preminger",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 10:06:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "elisabeth-quin",
+  "name": "Élisabeth Quin",
+  "worksCount": 1,
+  "description": "journaliste française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89lisabeth%20Quin%20-%20La%20nuit%20se%20l%C3%A8ve%20%E2%80%94%20Librairie%20Mollat.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-03-23",
+  "nationality": "France",
+  "jobTitle": "journaliste",
+  "externalIds": {
+    "wikidata": "Q3587913",
+    "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Quin",
+    "imdb": "nm1353056",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "d-apres-une-histoire-vraie",
+      "title": "D'après une histoire vraie"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

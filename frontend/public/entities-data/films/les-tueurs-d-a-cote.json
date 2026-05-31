@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "les-tueurs-d-a-cote",
+  "title": "Les Tueurs d'à côté",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Les Tueurs d'à côté"
+  ],
+  "genres": [
+    "Cinéma",
+    "Film"
+  ],
+  "description": "Après avoir tué leur voisin, deux cambrioleurs dissimulent leur crime en éliminant d'autres personnes âgées du quartier, déguisant leurs meurtres en incidents fortuits.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "97e01b1e-3c0e-4dad-a3ef-6ce061d00880",
+      "title": "Les Tueurs d'à côté",
+      "programSlug": "les-tueurs-d-a-cote",
+      "programUrl": "/programme/eurochannel/les-tueurs-d-a-cote",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 18:50:00+00",
+      "endTime": "2026-04-20 20:35:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

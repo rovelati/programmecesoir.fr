@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jacqueline-porel",
+  "name": "Jacqueline Porel",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1918-10-14",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3157785",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jacqueline_Porel",
+    "imdb": "nm0691725",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-repos-du-guerrier",
+      "title": "Le repos du guerrier"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

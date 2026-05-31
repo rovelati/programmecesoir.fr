@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://programmecesoir.fr/sitemap.xml
+
+# Disallow admin or private areas if any
+Disallow: /admin/
+Disallow: /api/
+Disallow: /admin-url-inspection
+Disallow: /search-console/
+Disallow: /entities-data/
+Disallow: /birthday-data/

@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "florence-bates",
+  "name": "Florence Bates",
+  "worksCount": 2,
+  "description": "actrice américaine (1888-1954)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Florence%20Bates%20in%20Texas%2C%20Brooklyn%20and%20Heaven.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1888-04-15",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q457861",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Florence_Bates",
+    "imdb": "nm0060904",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-jour-a-new-york",
+      "title": "Un jour à New York"
+    },
+    {
+      "type": "film",
+      "slug": "tendresse",
+      "title": "Tendresse"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b8ea79a-899e-40bc-80c7-029d2b75ede3",
+      "title": "Tendresse",
+      "programSlug": "tendresse",
+      "programUrl": "/programme/tcm-cinema/tendresse",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-21 00:15:00+00",
+      "endTime": "2026-04-21 02:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "3087d344-6fd8-457d-aaf8-2f6a04783f6d",
+      "title": "Un jour à New York",
+      "programSlug": "un-jour-a-new-york",
+      "programUrl": "/programme/cine-classic/un-jour-a-new-york",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-21 08:17:00+00",
+      "endTime": "2026-04-21 09:58:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2c43dcca-7a98-40e2-8792-88283258bd79",
+      "title": "Tendresse",
+      "programSlug": "tendresse",
+      "programUrl": "/programme/tcm-cinema/tendresse",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-26 02:15:00+00",
+      "endTime": "2026-04-26 04:25:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 00:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

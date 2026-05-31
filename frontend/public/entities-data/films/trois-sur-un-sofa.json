@@ -1,0 +1,100 @@
+{
+  "type": "film",
+  "slug": "trois-sur-un-sofa",
+  "title": "Trois sur un sofa",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Trois sur un sofa"
+  ],
+  "genres": [
+    "comédie romantique"
+  ],
+  "description": "Jeune peintre publicitaire, Christopher vient de gagner un prix de dix mille dollars. Il se voit confier par ailleurs une importante commande à Paris. L'heure a enfin sonné, croit-il, de réaliser le plus cher de ses rêves : épouser sa brillante fiancée Elizabeth, une psychiatre de renom. Mais celle-ci préfère se consacrer à son métier. Christopher imagine alors un audacieux stratagème pour la détourner de sa passion...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1966,
+  "durationMinutes": 109,
+  "cast": [
+    {
+      "qid": "Q294927",
+      "slug": "jerry-lewis",
+      "name": "Jerry Lewis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q205314",
+      "slug": "janet-leigh",
+      "name": "Janet Leigh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q268084",
+      "slug": "james-best",
+      "name": "James Best",
+      "role": "actor"
+    },
+    {
+      "qid": "Q465615",
+      "slug": "mary-ann-mobley",
+      "name": "Mary Ann Mobley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272505",
+      "slug": "kathleen-freeman",
+      "name": "Kathleen Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449265",
+      "slug": "leslie-parrish",
+      "name": "Leslie Parrish",
+      "role": "actor"
+    },
+    {
+      "qid": "Q69645",
+      "slug": "fritz-feld",
+      "name": "Fritz Feld",
+      "role": "actor"
+    },
+    {
+      "qid": "Q501996",
+      "slug": "scatman-crothers",
+      "name": "Scatman Crothers",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q294927",
+    "slug": "jerry-lewis",
+    "name": "Jerry Lewis",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

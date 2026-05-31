@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "l-a-confidential",
+  "title": "L.A. Confidential",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "L.A. Confidential"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "néo-noir",
+    "film ou téléfilm à énigme",
+    "drame",
+    "thriller",
+    "police procedural film",
+    "film policier dramatique",
+    "thriller policier",
+    "film à suspense",
+    "film et téléfilm d'action"
+  ],
+  "description": "A Los Angeles, dans les années 50. Trois inspecteurs, Jack Vincennes, Bud White et Ed Exley, placés sous l'autorité de Dudley Smith, chef de police austère et autoritaire, enquêtent sur l'assassinat d'une call-girl, tuée dans un bar minable, puis sur un réseau de dealers. Vincennes, policier vedette, est en fait en cheville avec le propriétaire d'un journal à scandales, qui le paie pour pouvoir photographier les flagrants délits. White, pour sa part, se montre particulièrement sévère envers les hommes qui battent les femmes. Quant à Exley, le plus jeune et le plus ambitieux, il entend moraliser l'action policière. Trafics d'influence, prostitution de luxe, corruption : tout un monde s'ouvre à eux, doublé d'un véritable labyrinthe judiciaire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1997,
+  "durationMinutes": 132,
+  "cast": [
+    {
+      "qid": "Q25144",
+      "slug": "kevin-spacey",
+      "name": "Kevin Spacey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q129817",
+      "slug": "russell-crowe",
+      "name": "Russell Crowe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223745",
+      "slug": "guy-pearce",
+      "name": "Guy Pearce",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131380",
+      "slug": "kim-basinger",
+      "name": "Kim Basinger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26806",
+      "slug": "danny-devito",
+      "name": "Danny DeVito",
+      "role": "actor"
+    },
+    {
+      "qid": "Q299483",
+      "slug": "james-cromwell",
+      "name": "James Cromwell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310318",
+      "slug": "david-strathairn",
+      "name": "David Strathairn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2050449",
+      "slug": "paolo-seganti",
+      "name": "Paolo Seganti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q352547",
+      "slug": "ron-rifkin",
+      "name": "Ron Rifkin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q549507",
+      "slug": "matt-mccoy",
+      "name": "Matt McCoy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192021",
+      "slug": "simon-baker",
+      "name": "Simon Baker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q737369",
+      "slug": "tomas-arana",
+      "name": "Tomas Arana",
+      "role": "actor"
+    },
+    {
+      "qid": "Q509026",
+      "slug": "graham-beckel",
+      "name": "Graham Beckel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q464744",
+      "slug": "paul-guilfoyle",
+      "name": "Paul Guilfoyle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1942940",
+      "slug": "steve-rankin",
+      "name": "Steve Rankin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3507448",
+      "slug": "symba-smith",
+      "name": "Symba Smith",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q263486",
+    "slug": "curtis-hanson",
+    "name": "Curtis Hanson",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

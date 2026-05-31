@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "helen-martin",
+  "name": "Helen Martin",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1909-07-23",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q4282539",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Helen_Martin",
+    "imdb": "nm0552385",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-justicier-dans-la-ville",
+      "title": "Un justicier dans la ville"
+    },
+    {
+      "type": "film",
+      "slug": "le-collectionneur",
+      "title": "Le collectionneur"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b38a6330-ea1c-4f73-bbf8-2a20ef657bdc",
+      "title": "Un justicier dans la ville",
+      "programSlug": "un-justicier-dans-la-ville",
+      "programUrl": "/programme/tcm-cinema/un-justicier-dans-la-ville",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 20:20:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "loving-ibiza",
+  "title": "Loving Ibiza",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Loving Ibiza"
+  ],
+  "genres": [
+    "comédie romantique"
+  ],
+  "description": "Ibiza. Ses vastes plages de sable blanc, ses filles en bikini, ses clubs branchés et ses célèbres DJs. Kevin, fraîchement transféré au club de football de Barcelone, s'y est installé avec sa petite-amie Elza, une jeune femme légère et opportuniste. Jacky et sa voisine Irma, deux quadras en vacances, débarquent elles aussi sur l'île. L'une espère revivre son adolescence dans les bras des beaux garçons du coin, l'autre cherche la quiétude à l'ombre des palmiers. Lex, autrefois star du rock'n'roll, invite ses trois filles à célébrer son 55e anniversaire sous le soleil. Dylan et Boyd, eux, espèrent qu'Ibiza les aidera à faire décoller leur carrière de DJs...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e44b5a33-a9ca-49ac-bf2f-927cbec12c71",
+      "title": "Loving Ibiza",
+      "programSlug": "loving-ibiza",
+      "programUrl": "/programme/eurochannel/loving-ibiza",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 13:25:00+00",
+      "endTime": "2026-04-20 15:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "45737d6c-e385-47fe-a39f-b7eb04f16e96",
+      "title": "Loving Ibiza",
+      "programSlug": "loving-ibiza",
+      "programUrl": "/programme/eurochannel/loving-ibiza",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 10:15:00+00",
+      "endTime": "2026-04-23 12:10:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 117,
+  "cast": [
+    {
+      "qid": "Q447122",
+      "slug": "willeke-van-ammelrooy",
+      "name": "Willeke van Ammelrooy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2530009",
+      "slug": "jim-bakkum",
+      "name": "Jim Bakkum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2832711",
+      "slug": "rick-engelkes",
+      "name": "Rick Engelkes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2428097",
+      "slug": "simone-kleinsma",
+      "name": "Simone Kleinsma",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2393122",
+      "slug": "lone-van-roosendaal",
+      "name": "Lone van Roosendaal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2191447",
+      "slug": "gigi-ravelli",
+      "name": "Gigi Ravelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4974802",
+      "slug": "marly-van-der-velden",
+      "name": "Marly van der Velden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1904757",
+      "slug": "nienke-romer",
+      "name": "Nienke Römer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q62617",
+      "slug": "armin-van-buuren",
+      "name": "Armin van Buuren",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2045497",
+      "slug": "pip-pellens",
+      "name": "Pip Pellens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1891680",
+      "slug": "kimberley-klaver",
+      "name": "Kimberley Klaver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2300883",
+      "slug": "mitta-van-der-maat",
+      "name": "Mitta Van der Maat",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2486752",
+    "slug": "johan-nijenhuis",
+    "name": "Johan Nijenhuis",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 13:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "frank-schorpion",
+  "name": "Frank Schorpion",
+  "worksCount": 1,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-01-01",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3082790",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Frank_Schorpion",
+    "imdb": "nm0774891",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "premier-contact",
+      "title": "Premier contact"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4c3335d6-9cfe-4bd4-b927-32953d1a59ac",
+      "title": "Premier contact",
+      "programSlug": "premier-contact",
+      "programUrl": "/programme/cine-frisson/premier-contact",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 11:28:00+00",
+      "endTime": "2026-04-20 13:20:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 11:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

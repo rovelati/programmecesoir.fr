@@ -1,0 +1,163 @@
+{
+  "type": "film",
+  "slug": "intouchables",
+  "title": "Intouchables",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Intouchables"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm biographique",
+    "drame"
+  ],
+  "description": "A sa sortie de prison, Driss se doit de prouver aux Assedic qu'il est bien à la recherche d'un travail. Il se rend donc aux entretiens d'embauche qu'a organisés Philippe, un riche tétraplégique, dans son hôtel particulier, pour un poste d'aide à domicile. Driss l'emporte par son bagout qui fait sourire Philippe. Il est, quant à lui, sensible au charme de la chambre qu'on lui propose comme à celui de Magalie, la secrétaire particulière de son nouveau patron. Il apporte une bouffée d'air frais dans les salons silencieux, pour le plus grand plaisir de Philippe, qui renaît à la vie. Entre l'aristocrate paralysé et le jeune homme de banlieue survolté, une amitié naît...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "09e748f9-347d-43a5-8185-6ad0da211e4a",
+      "title": "Intouchables",
+      "programSlug": "intouchables",
+      "programUrl": "/programme/rts-un/intouchables",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 19:05:00+00",
+      "endTime": "2026-04-19 21:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2011,
+  "durationMinutes": 112,
+  "cast": [
+    {
+      "qid": "Q600051",
+      "slug": "francois-cluzet",
+      "name": "François Cluzet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q357387",
+      "slug": "omar-sy",
+      "name": "Omar Sy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830742",
+      "slug": "alba-gaia-bellugi",
+      "name": "Alba Gaïa Bellugi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851174",
+      "slug": "anne-le-ny",
+      "name": "Anne Le Ny",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457089",
+      "slug": "audrey-fleurot",
+      "name": "Audrey Fleurot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2979699",
+      "slug": "clotilde-mollet",
+      "name": "Clotilde Mollet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1044462",
+      "slug": "caroline-bourg",
+      "name": "Caroline Bourg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3009038",
+      "slug": "cyril-mendy",
+      "name": "Cyril Mendy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3084132",
+      "slug": "francois-bureloup",
+      "name": "François Bureloup",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3118485",
+      "slug": "gregoire-oestermann",
+      "name": "Grégoire Oestermann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165518",
+      "slug": "jean-francois-cayrey",
+      "name": "Jean-François Cayrey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3191017",
+      "slug": "jerome-pauwels",
+      "name": "Jérôme Pauwels",
+      "role": "actor"
+    },
+    {
+      "qid": "Q511485",
+      "slug": "josephine-de-meaux",
+      "name": "Joséphine de Meaux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15069878",
+      "slug": "marie-laure-descoureaux",
+      "name": "Marie-Laure Descoureaux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18326681",
+      "slug": "michel-winogradoff",
+      "name": "Michel Winogradoff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3525573",
+      "slug": "thomas-soliveres",
+      "name": "Thomas Solivérès",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q74428",
+    "slug": "olivier-nakache",
+    "name": "Olivier Nakache",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 19:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

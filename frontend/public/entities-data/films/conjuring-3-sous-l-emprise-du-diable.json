@@ -1,0 +1,67 @@
+{
+  "type": "film",
+  "slug": "conjuring-3-sous-l-emprise-du-diable",
+  "title": "Conjuring 3 : sous l'emprise du Diable",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Conjuring 3 : sous l'emprise du Diable"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "thriller",
+    "film ou téléfilm à énigme",
+    "film de fantômes"
+  ],
+  "description": "Arne Cheyenne Johnson se voit accusé d'un meurtre qu'il se défend d'avoir commis, arguant avoir été possédé par le diable au moment de poignarder son propriétaire, le dénommé Alan Bono. Les époux Warren vont donc être sollicités pour aider le prévenu à faire la lumière sur cette affaire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 112,
+  "cast": [
+    {
+      "qid": "Q264840",
+      "slug": "vera-farmiga",
+      "name": "Vera Farmiga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q351290",
+      "slug": "patrick-wilson",
+      "name": "Patrick Wilson",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q60351348",
+    "slug": "michael-chaves",
+    "name": "Michael Chaves",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

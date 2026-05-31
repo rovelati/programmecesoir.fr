@@ -1,0 +1,77 @@
+{
+  "type": "film",
+  "slug": "ballerina-de-l-univers-de-john-wick",
+  "title": "Ballerina : De l'univers de John Wick",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Ballerina : De l'univers de John Wick"
+  ],
+  "genres": [
+    "Cinema",
+    "Film d'aventures",
+    "Film"
+  ],
+  "description": "Alors qu'elle n'était encore qu'une adolescente qui rêvait de devenir une danseuse de ballet, Eve Macarro a vu son existence prendre une tournure dramatique après l'assassinat de son père. La jeune fille a alors été confiée à la Ruska Roma, un redoutable clan mafieux qui l'a formée afin de faire d'elle une tueuse à gages. Après des années d'entraînement, la jeune femme est enfin prête à accomplir les missions confiées par l'organisation. Mais Eve est avant tout focalisée sur un autre objectif : éliminer tous ceux qui sont impliqués dans la mort de son père...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8bd6de8e-883b-46ba-b123-7b5900f69f08",
+      "title": "Ballerina : De l'univers de John Wick",
+      "programSlug": "ballerina-de-l-univers-de-john-wick",
+      "programUrl": "/programme/canal-box-office/ballerina-de-l-univers-de-john-wick",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 11:13:00+00",
+      "endTime": "2026-04-25 13:14:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-25 11:13:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

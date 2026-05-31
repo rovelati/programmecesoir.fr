@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "la-nuit-au-musee",
+  "title": "La nuit au musée",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La nuit au musée"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "comédie d'action",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Aux Etats-Unis, un important muséum d'histoire naturelle passe une annonce pour recruter un gardien de nuit. Divorcé et sans emploi, Larry Daley saute sur l'occasion et se porte candidat. A sa grande satisfaction, il est embauché. Heureux de montrer à son fils son nouvel uniforme et le cadre peu banal dans lequel il va désormais travailler, Larry ne se doute pas du secret que renferme le vieux bâtiment. Bientôt, le nouveau gardien découvre que de mystérieux événements se produisent la nuit. Médusé, il constate que la collection de soldats romains attaque les cow-boys miniatures. Toutes les expositions prennent vie. La momie se sent à l'étroit dans son sarcophage et le squelette du tyrannosaure déambule dans les couloirs. Au milieu du chaos, Larry comprend que le musée est en péril...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab3.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q47100",
+      "slug": "ben-stiller",
+      "name": "Ben Stiller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228871",
+      "slug": "carla-gugino",
+      "name": "Carla Gugino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310295",
+      "slug": "dick-van-dyke",
+      "name": "Dick Van Dyke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104081",
+      "slug": "mickey-rooney",
+      "name": "Mickey Rooney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q862028",
+      "slug": "bill-cobbs",
+      "name": "Bill Cobbs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23517",
+      "slug": "ricky-gervais",
+      "name": "Ricky Gervais",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83338",
+      "slug": "robin-williams",
+      "name": "Robin Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q718446",
+      "slug": "jake-cherry",
+      "name": "Jake Cherry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q161916",
+      "slug": "owen-wilson",
+      "name": "Owen Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316709",
+      "slug": "steve-coogan",
+      "name": "Steve Coogan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230495",
+      "slug": "kim-raver",
+      "name": "Kim Raver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q276525",
+      "slug": "paul-rudd",
+      "name": "Paul Rudd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q444455",
+      "slug": "mizuo-peck",
+      "name": "Mizuo Peck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q375590",
+      "slug": "rami-malek",
+      "name": "Rami Malek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q555241",
+      "slug": "pierfrancesco-favino",
+      "name": "Pierfrancesco Favino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q119966",
+      "slug": "patrick-gallagher",
+      "name": "Patrick Gallagher",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q323076",
+    "slug": "shawn-levy",
+    "name": "Shawn Levy",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

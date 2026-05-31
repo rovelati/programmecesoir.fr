@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "pascal-elso",
+  "name": "Pascal Elso",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1955-07-31",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3367393",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Pascal_Elso",
+    "imdb": "nm0255693",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "j-ai-tue-mon-mari",
+      "title": "J'ai tué mon mari"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

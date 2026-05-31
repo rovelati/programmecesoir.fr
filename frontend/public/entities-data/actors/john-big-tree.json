@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "john-big-tree",
+  "name": "John Big Tree",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chief%20John%20Big%20Tree%20in%20Fighting%20Caravans.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1877-06-02",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1388924",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Big_Tree",
+    "imdb": "nm0081697",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-charge-heroique",
+      "title": "La charge héroïque"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

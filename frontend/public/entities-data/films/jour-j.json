@@ -1,0 +1,100 @@
+{
+  "type": "film",
+  "slug": "jour-j",
+  "title": "Jour J",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Jour J"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Mathias rencontre Juliette dans une boîte de nuit. Ils passent la nuit ensemble. Le lendemain, Alexia, la petite amie de longue date de Mathias, découvre une carte de visite au nom de Juliette dans la poche de son pantalon. Elle s'énerve et voit que la jeune femme est organisatrice de mariages. Alexia comprend que Mathias veut l'épouser. Au pied du mur, ce dernier ne la contredit pas. Mathias revoit donc Juliette, qui va planifier la cérémonie. Alors que les visites de lieux s'enchaînent, Mathias n'arrive pas à choisir entre les deux femmes. Son meilleur ami, Ben, tente de l'aider comme il peut...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 94,
+  "cast": [
+    {
+      "qid": "Q3423028",
+      "slug": "reem-kherici",
+      "name": "Reem Kherici",
+      "role": "actor"
+    },
+    {
+      "qid": "Q966867",
+      "slug": "nicolas-duvauchelle",
+      "name": "Nicolas Duvauchelle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242526",
+      "slug": "sylvie-testud",
+      "name": "Sylvie Testud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3189060",
+      "slug": "julia-piaton",
+      "name": "Julia Piaton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2956299",
+      "slug": "chantal-lauby",
+      "name": "Chantal Lauby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1450857",
+      "slug": "francois-xavier-demaison",
+      "name": "François-Xavier Demaison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380121",
+      "slug": "philippe-lacheau",
+      "name": "Philippe Lacheau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q360899",
+      "slug": "stephane-rousseau",
+      "name": "Stéphane Rousseau",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3423028",
+    "slug": "reem-kherici",
+    "name": "Reem Kherici",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

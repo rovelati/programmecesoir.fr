@@ -1,0 +1,230 @@
+{
+  "type": "film",
+  "slug": "le-cercle",
+  "title": "Le cercle",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Le cercle"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "horreur psychologique",
+    "film ou téléfilm à énigme",
+    "adaptation d'une œuvre littéraire au cinéma",
+    "thriller",
+    "film de fantômes"
+  ],
+  "description": "En ce début de printemps, le Cercle discute des premiers films du mois. À l’affiche, une sélection bigarrée placée sous le signe du duo : Lafitte et son double dans Alter Ego, la fiancée et  Frankenstein dans The Bride!, ou encore un couple en difficulté dans Is This Thing On?. Il sera aussi question de solitude et d’émancipation dans le film iranien Woman and Child et de frissons dans le dernier Scream. Enfin, Philippe reviendra sur une scène mythique de The Grandmaster de Wong Kar-wai, à l’occasion de sa ressortie en salle en Director’s Cut.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "40b7b691-2684-411f-ad94-e346b481ab44",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-cinema/le-cercle",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 18:14:00+00",
+      "endTime": "2026-04-20 19:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "6ed8c2c9-45c4-44bb-86e6-382272272592",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-grand-ecran/le-cercle",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-21 16:44:00+00",
+      "endTime": "2026-04-21 17:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1598a386-611c-48c9-acb8-867df420a180",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal/le-cercle",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 03:47:00+00",
+      "endTime": "2026-04-22 04:33:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "4c7b6975-db58-4949-9ea2-154bf8e9303e",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-cinema/le-cercle",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 14:55:00+00",
+      "endTime": "2026-04-22 15:41:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9635e81b-bbdb-4c02-b9ff-dd9fe8aae997",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-cinema/le-cercle",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 05:32:00+00",
+      "endTime": "2026-04-23 06:18:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2002,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q34975",
+      "slug": "brian-cox",
+      "name": "Brian Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132616",
+      "slug": "naomi-watts",
+      "name": "Naomi Watts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461278",
+      "slug": "martin-henderson",
+      "name": "Martin Henderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q708444",
+      "slug": "david-dorfman",
+      "name": "David Dorfman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242717",
+      "slug": "jane-alexander",
+      "name": "Jane Alexander",
+      "role": "actor"
+    },
+    {
+      "qid": "Q455956",
+      "slug": "rachael-bella",
+      "name": "Rachael Bella",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231128",
+      "slug": "amber-tamblyn",
+      "name": "Amber Tamblyn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q935143",
+      "slug": "lindsay-frost",
+      "name": "Lindsay Frost",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237774",
+      "slug": "daveigh-chase",
+      "name": "Daveigh Chase",
+      "role": "actor"
+    },
+    {
+      "qid": "Q542979",
+      "slug": "shannon-cochran",
+      "name": "Shannon Cochran",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231815",
+      "slug": "pauley-perrette",
+      "name": "Pauley Perrette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3430985",
+      "slug": "richard-lineback",
+      "name": "Richard Lineback",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240199",
+      "slug": "sara-rue",
+      "name": "Sara Rue",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3948175",
+      "slug": "sandra-thigpen",
+      "name": "Sandra Thigpen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294372",
+      "slug": "adam-brody",
+      "name": "Adam Brody",
+      "role": "actor"
+    },
+    {
+      "qid": "Q261104",
+      "slug": "kelly-stables",
+      "name": "Kelly Stables",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q295463",
+    "slug": "gore-verbinski",
+    "name": "Gore Verbinski",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 18:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

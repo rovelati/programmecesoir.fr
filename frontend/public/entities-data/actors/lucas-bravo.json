@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "lucas-bravo",
+  "name": "Lucas Bravo",
+  "worksCount": 1,
+  "description": "acteur et mannequin français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Bravo.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1988-03-26",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q99460747",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lucas_Bravo",
+    "imdb": "nm5575725",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-femmes-au-balcon",
+      "title": "Les femmes au balcon"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

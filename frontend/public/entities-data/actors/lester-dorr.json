@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "lester-dorr",
+  "name": "Lester Dorr",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lester%20Dorr%20in%20Quicksand.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1893-05-08",
+  "nationality": "États-Unis",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q3236787",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lester_Dorr",
+    "imdb": "nm0201728",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-jour-a-new-york",
+      "title": "Un jour à New York"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3087d344-6fd8-457d-aaf8-2f6a04783f6d",
+      "title": "Un jour à New York",
+      "programSlug": "un-jour-a-new-york",
+      "programUrl": "/programme/cine-classic/un-jour-a-new-york",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-21 08:17:00+00",
+      "endTime": "2026-04-21 09:58:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 08:17:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

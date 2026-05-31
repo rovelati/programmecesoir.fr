@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "les-griffes-de-la-nuit",
+  "title": "Les griffes de la nuit",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les griffes de la nuit"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "film pour adolescents",
+    "slasher",
+    "surnaturel horreur",
+    "thriller",
+    "film ou téléfilm gore",
+    "film à suspense",
+    "film ou téléfilm criminel",
+    "film et téléfilm de fantasy",
+    "film d'exploitation",
+    "thriller policier",
+    "drame psychologique",
+    "film policier dramatique",
+    "thriller psychologique",
+    "drame",
+    "cinéma indépendant",
+    "teen horror film",
+    "surnaturel",
+    "film de fantômes"
+  ],
+  "description": "Tina fait un terrible cauchemar. Elle se voit poursuivie par un monstre au visage brûlé et dont la main droite est dotée de longues griffes en métal tranchant. Obsédée par ce mauvais rêve, Tina le raconte à ses camarades de classe et constate qu'eux aussi sont victimes des mêmes visions. Un soir, alors qu'elle se trouve en compagnie de son ami Rod, Tina voit avec horreur le monstre sortir de son rêve et se jeter sur elle. Rod, impuissant, assiste au dépeçage sauvage de sa belle amie. Glacés d'horreur, les survivants constatent que l'assassin, s'il vit dans les rêves, peut aussi passer dans la réalité et même traverser les murs. Il tente maintenant de mutiler Nancy, une autre fille du groupe...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1984,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q238383",
+      "slug": "heather-langenkamp",
+      "name": "Heather Langenkamp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2415514",
+      "slug": "amanda-wyss",
+      "name": "Amanda Wyss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q37175",
+      "slug": "johnny-depp",
+      "name": "Johnny Depp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q470591",
+      "slug": "john-saxon",
+      "name": "John Saxon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q658690",
+      "slug": "charles-fleischer",
+      "name": "Charles Fleischer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271256",
+      "slug": "ronee-blakley",
+      "name": "Ronee Blakley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q255676",
+      "slug": "joseph-whipp",
+      "name": "Joseph Whipp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310389",
+      "slug": "robert-englund",
+      "name": "Robert Englund",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3084485",
+      "slug": "jsu-garcia",
+      "name": "Jsu Garcia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6212760",
+      "slug": "joe-unger",
+      "name": "Joe Unger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449822",
+      "slug": "lin-shaye",
+      "name": "Lin Shaye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q330801",
+      "slug": "david-andrews",
+      "name": "David Andrews",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3481546",
+      "slug": "shashawnee-hall",
+      "name": "Shashawnee Hall",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q223992",
+    "slug": "wes-craven",
+    "name": "Wes Craven",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,202 @@
+{
+  "type": "series",
+  "slug": "the-killing",
+  "title": "The Killing",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "The Killing - Saison 1"
+  ],
+  "genres": [
+    "série télévisée dramatique",
+    "néo-noir",
+    "série télévisée policière",
+    "thriller",
+    "enquête policière",
+    "série télévisée policière"
+  ],
+  "description": "Jan et Sarah se sont lancés sur une nouvelle piste grâce à un indice capital. Aussi, quand leur chef leur ordonne de freiner leurs investigations, ils ne comprennent plus rien à rien. Pourquoi fait-il cela ? A quoi riment des ordres aussi étranges ? Sarah, dont la vie privée est de plus en plus bousculée, décide de passer outre. Mais cela pourrait avoir de graves répercussions sur sa carrière...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "82c6d32e-e639-4042-ad48-986f5e9d7997",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 18:55:00+00",
+      "endTime": "2026-04-19 19:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5249034e-3a79-4f5c-abaa-57d7d7fda36f",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 19:54:00+00",
+      "endTime": "2026-04-19 20:58:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "76d25a74-c6fe-46f8-84bd-e9323e7ce6e6",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-24 22:07:00+00",
+      "endTime": "2026-04-24 23:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f3f6b132-b864-4320-b80d-03ff870bf553",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-24 23:05:00+00",
+      "endTime": "2026-04-25 00:02:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2011,
+  "numberOfSeasons": 4,
+  "cast": [
+    {
+      "qid": "Q28211",
+      "slug": "mireille-enos",
+      "name": "Mireille Enos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28262",
+      "slug": "joel-kinnaman",
+      "name": "Joel Kinnaman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q554506",
+      "slug": "liam-james",
+      "name": "Liam James",
+      "role": "actor"
+    },
+    {
+      "qid": "Q566923",
+      "slug": "annie-corley",
+      "name": "Annie Corley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q553813",
+      "slug": "billy-campbell",
+      "name": "Billy Campbell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239075",
+      "slug": "michelle-forbes",
+      "name": "Michelle Forbes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2924500",
+      "slug": "brent-sexton",
+      "name": "Brent Sexton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q470092",
+      "slug": "kristin-lehman",
+      "name": "Kristin Lehman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5386930",
+      "slug": "eric-ladin",
+      "name": "Eric Ladin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28498",
+      "slug": "brendan-sexton-iii",
+      "name": "Brendan Sexton III",
+      "role": "actor"
+    },
+    {
+      "qid": "Q73502",
+      "slug": "jamie-anne-allman",
+      "name": "Jamie Anne Allman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q379808",
+      "slug": "elias-koteas",
+      "name": "Elias Koteas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q377620",
+      "slug": "hugh-dillon",
+      "name": "Hugh Dillon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4749378",
+      "slug": "amy-seimetz",
+      "name": "Amy Seimetz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16832268",
+      "slug": "bex-taylor-klaus",
+      "name": "Bex Taylor-Klaus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315099",
+      "slug": "peter-sarsgaard",
+      "name": "Peter Sarsgaard",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q1460369",
+    "slug": "veena-sud",
+    "name": "Veena Sud",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 18:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "type": "series",
+  "slug": "lili-touil",
+  "title": "Lili Touil",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Lili Touil"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "L'univers des réseaux sociaux et le phénomène de la célébrité instantanée sur Internet, soulevant des questions sur ses limites et ses répercussions psychologiques et sociales.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 10
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "49d1d6fc-59f9-46d9-bb4b-a3bffa8d542a",
+      "title": "Lili Touil",
+      "programSlug": "lili-touil",
+      "programUrl": "/programme/2m-maroc/lili-touil",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-19 17:25:00+00",
+      "endTime": "2026-04-19 18:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "41ca93e4-ac8f-45f0-883f-b22bebbadd9d",
+      "title": "Lili Touil",
+      "programSlug": "lili-touil",
+      "programUrl": "/programme/2m-maroc/lili-touil",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-20 01:50:00+00",
+      "endTime": "2026-04-20 02:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7a8fa274-e728-4609-be82-becf50c3897f",
+      "title": "Lili Touil",
+      "programSlug": "lili-touil",
+      "programUrl": "/programme/2m-maroc/lili-touil",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-23 20:45:00+00",
+      "endTime": "2026-04-23 21:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "e0277c87-12b8-491d-9bcc-6e142e86670f",
+      "title": "Lili Touil",
+      "programSlug": "lili-touil",
+      "programUrl": "/programme/2m-maroc/lili-touil",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-24 07:30:00+00",
+      "endTime": "2026-04-24 08:20:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 17:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

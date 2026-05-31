@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "baby",
+  "title": "Baby",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Baby"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "A sa sortie d'un centre de détention pour mineurs, Wellington se retrouve seul, sans ressources et à la dérive dans les rues de São Paulo. Il fait la connaissance de Ronaldo, un homme mûr qui lui enseigne de nouvelles façons de survivre. Peu à peu, leur relation se transforme en passion conflictuelle...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baby%20mairie.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ba9c23b-16e8-4a06-a18b-b7441297dac6",
+      "title": "Baby",
+      "programSlug": "baby",
+      "programUrl": "/programme/cine-festival/baby",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-21 01:25:00+00",
+      "endTime": "2026-04-21 04:16:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 01:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

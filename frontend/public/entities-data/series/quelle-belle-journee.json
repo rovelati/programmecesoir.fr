@@ -1,0 +1,83 @@
+{
+  "type": "series",
+  "slug": "quelle-belle-journee",
+  "title": "Quelle belle journée",
+  "airingsCount": 24,
+  "sourceTitles": [
+    "Quelle belle journée"
+  ],
+  "genres": [
+    "science-fiction"
+  ],
+  "description": "Les routines quotidiennes n'ont jamais été aussi sympa ! Est-ce l'heure de jouer ou l'heure d'aller au lit ? L'heure de la sieste ou l'heure du déjeuner ? Le matin, l'après-midi et la nuit, chantez de nouvelles chansons fabuleuses qui apporteront une touche de gaieté à chaque instant de la journée !",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/babytv.png",
+      "airingsCount": 24
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "66bb8318-3a46-4bba-b626-fbc9c27d331a",
+      "title": "Quelle belle journée",
+      "programSlug": "quelle-belle-journee",
+      "programUrl": "/programme/babytv/quelle-belle-journee",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 08:22:00+00",
+      "endTime": "2026-04-19 08:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ebf81d29-e5af-4f9c-aee9-f2ab0fe26ade",
+      "title": "Quelle belle journée",
+      "programSlug": "quelle-belle-journee",
+      "programUrl": "/programme/babytv/quelle-belle-journee",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 11:17:00+00",
+      "endTime": "2026-04-19 11:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c7f27d2a-a62a-40e3-87a8-28cd6f51ed47",
+      "title": "Quelle belle journée",
+      "programSlug": "quelle-belle-journee",
+      "programUrl": "/programme/babytv/quelle-belle-journee",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 14:29:00+00",
+      "endTime": "2026-04-19 14:32:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1954,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 08:22:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jack-quaid",
+  "name": "Jack Quaid",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Quaid%20at%2053rd%20Saturn%20Awards%202026.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1992-04-24",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1139078",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jack_Quaid",
+    "imdb": "nm4425051",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "logan-lucky",
+      "title": "Logan Lucky"
+    },
+    {
+      "type": "film",
+      "slug": "companion",
+      "title": "Companion"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

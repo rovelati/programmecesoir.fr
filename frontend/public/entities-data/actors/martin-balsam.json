@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "martin-balsam",
+  "name": "Martin Balsam",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Marino%2C%20Steve%20Scott%20and%20Academy%20Award%20Winner%20Martin%20Balsam%20(cropped)%20-%20Martin%20Balsam.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1919-11-04",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de genre",
+  "externalIds": {
+    "wikidata": "Q312107",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Martin_Balsam",
+    "imdb": "nm0000842",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-ombre-d-un-tueur",
+      "title": "L'ombre d'un tueur"
+    },
+    {
+      "type": "film",
+      "slug": "le-justicier-de-new-york",
+      "title": "Le justicier de New York"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

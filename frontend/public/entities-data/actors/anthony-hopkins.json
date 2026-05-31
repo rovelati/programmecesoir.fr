@@ -1,0 +1,135 @@
+{
+  "type": "actor",
+  "slug": "anthony-hopkins",
+  "name": "Anthony Hopkins",
+  "worksCount": 4,
+  "description": "acteur, compositeur, scénariste, réalisateur et producteur de cinéma britannique naturalisé américain",
+  "descriptionAi": "Anthony Hopkins est un acteur britannique de renom, maître des rôles dramatiques et psychologiques. Ses performances, souvent empreintes d'une intensité calme et d'une profondeur troublante, captivent par leur précision et leur puissance introspective. Il excelle à incarner des personnages complexes, qu'ils soient géniaux ou tourmentés, révélant les nuances de l'âme humaine avec une autorité fascinante. Pour le téléspectateur, le jeu d'Anthony Hopkins est une leçon d'art dramatique, où chaque silence et chaque regard en disent long, créant une immersion totale dans l'histoire. Retrouvez ses films marquants à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Hopkins%20Red%20Sea%20Festival%202025%20Portrait.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1937-12-31",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q65932",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anthony_Hopkins",
+    "imdb": "nm0000164",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-grinch",
+      "title": "Le Grinch"
+    },
+    {
+      "type": "film",
+      "slug": "un-pont-trop-loin",
+      "title": "Un pont trop loin"
+    },
+    {
+      "type": "film",
+      "slug": "dracula",
+      "title": "Dracula"
+    },
+    {
+      "type": "film",
+      "slug": "mission-impossible",
+      "title": "Mission : Impossible"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b7403449-ac98-42e0-9bbe-2be9439c396b",
+      "title": "Dracula",
+      "programSlug": "dracula",
+      "programUrl": "/programme/canal-box-office/dracula",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 16:43:00+00",
+      "endTime": "2026-04-19 18:48:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "58a2888e-4f9d-4d4f-ae16-b609caf29b50",
+      "title": "Un pont trop loin",
+      "programSlug": "un-pont-trop-loin",
+      "programUrl": "/programme/cine-classic/un-pont-trop-loin",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-20 15:04:00+00",
+      "endTime": "2026-04-20 17:54:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "944f5cb4-68ec-4619-8641-a81bb4a7bbc7",
+      "title": "Le Grinch",
+      "programSlug": "le-grinch",
+      "programUrl": "/programme/cine-family/le-grinch",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 14:48:00+00",
+      "endTime": "2026-04-21 16:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "59f89142-9667-40a6-adf8-b098eac3855c",
+      "title": "Dracula",
+      "programSlug": "dracula",
+      "programUrl": "/programme/canal-box-office/dracula",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 21:44:00+00",
+      "endTime": "2026-04-21 23:48:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ad00c21f-597b-4cc1-bce2-4f86a09235de",
+      "title": "Mission : Impossible",
+      "programSlug": "mission-impossible",
+      "programUrl": "/programme/canal-grand-ecran/mission-impossible",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 13:55:00+00",
+      "endTime": "2026-04-22 15:42:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a18a487f-ddbb-4f19-b170-3df7c06edc9c",
+      "title": "Mission : Impossible",
+      "programSlug": "mission-impossible",
+      "programUrl": "/programme/canal-grand-ecran/mission-impossible",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 21:04:00+00",
+      "endTime": "2026-04-23 22:51:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "817de838-d3a2-4d1b-bb7a-213f377c5817",
+      "title": "Mission : Impossible",
+      "programSlug": "mission-impossible",
+      "programUrl": "/programme/canal-grand-ecran/mission-impossible",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 14:40:00+00",
+      "endTime": "2026-04-25 16:26:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:49.212Z",
+  "nextAiringAt": "2026-04-19 16:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

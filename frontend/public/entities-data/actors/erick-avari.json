@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "erick-avari",
+  "name": "Erick Avari",
+  "worksCount": 2,
+  "description": "acteur indien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/10.17.09ErickAvariByLuigiNovi.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1952-04-13",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q711035",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Erick_Avari",
+    "imdb": "nm0042805",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "stargate-la-porte-des-etoiles",
+      "title": "Stargate, la Porte des étoiles"
+    },
+    {
+      "type": "film",
+      "slug": "la-momie",
+      "title": "La momie"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

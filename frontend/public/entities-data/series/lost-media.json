@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "slug": "lost-media",
+  "title": "Lost Media",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Lost Media",
+    "Lost Media - Saison 1"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Émilie est sélectionnée pour participer à l’émission de télévision emblématique « Mais que fait Papy Chouette ? ». Ce qui s’annonçait comme une belle expérience prend vite une tournure étrange.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c56ca113-ed6e-4a63-ac5c-73088a33aada",
+      "title": "Lost Media - Saison 1",
+      "programSlug": "lost-media-saison-1",
+      "programUrl": "/programme/canal/lost-media-saison-1",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-23 16:36:00+00",
+      "endTime": "2026-04-23 16:48:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "1c413782-e43e-4ef2-b127-089eb82d5cfc",
+      "title": "Lost Media - Saison 1",
+      "programSlug": "lost-media-saison-1",
+      "programUrl": "/programme/canal/lost-media-saison-1",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-23 16:48:00+00",
+      "endTime": "2026-04-23 17:04:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-23 16:36:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

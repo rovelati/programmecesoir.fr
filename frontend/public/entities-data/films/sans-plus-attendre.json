@@ -1,0 +1,121 @@
+{
+  "type": "film",
+  "slug": "sans-plus-attendre",
+  "title": "Sans plus attendre",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Sans plus attendre"
+  ],
+  "genres": [
+    "buddy movie",
+    "comédie",
+    "drame",
+    "tragi-comédie"
+  ],
+  "description": "Carter Chambers et Edward Cole partagent la même chambre d'hôpital et le même avenir sinistre puisqu'ils souffrent tous les deux d'un cancer en phase terminale. Carter Chambers, mécanicien cultivé, a été marié 45 ans à une femme qu'il a tendrement aimée, Virginia. Ses deux enfants sont devenus l'un avocat, l'autre violoniste. Le richissime Edward Cole, lui, possède plusieurs hôpitaux, une collection de divorces et sa fille unique ne veut plus rien savoir de lui. Peu à peu, malgré toutes leurs différences, les deux hommes se lient d'amitié. Jusqu'à décider de s'offrir une journée exceptionnelle, durant laquelle ils feront tout ce qu'ils n'ont pas encore pu faire...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20bucket%20list.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2007,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q39792",
+      "slug": "jack-nicholson",
+      "name": "Jack Nicholson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q48337",
+      "slug": "morgan-freeman",
+      "name": "Morgan Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223033",
+      "slug": "sean-hayes",
+      "name": "Sean Hayes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q344567",
+      "slug": "rob-morrow",
+      "name": "Rob Morrow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q453065",
+      "slug": "beverly-todd",
+      "name": "Beverly Todd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3941977",
+      "slug": "rowena-king",
+      "name": "Rowena King",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189298",
+      "slug": "ian-anthony-dale",
+      "name": "Ian Anthony Dale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3183419",
+      "slug": "jonathan-mangum",
+      "name": "Jonathan Mangum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3193117",
+      "slug": "karen-maruyama",
+      "name": "Karen Maruyama",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4722037",
+      "slug": "alfonso-freeman",
+      "name": "Alfonso Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5488124",
+      "slug": "frank-maharajh",
+      "name": "Frank Maharajh",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q287607",
+    "slug": "rob-reiner",
+    "name": "Rob Reiner",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

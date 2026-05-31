@@ -1,0 +1,102 @@
+{
+  "type": "actor",
+  "slug": "wallace-ford",
+  "name": "Wallace Ford",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wallace%20ford.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1898-02-12",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1704485",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Wallace_Ford",
+    "imdb": "nm0285922",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-ombre",
+      "title": "L'Ombre"
+    },
+    {
+      "type": "film",
+      "slug": "nous-avons-gagne-ce-soir",
+      "title": "Nous avons gagné ce soir"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b0d88fe-91da-421d-bf1b-ea7fa62062f9",
+      "title": "L'Ombre",
+      "programSlug": "l-ombre",
+      "programUrl": "/programme/eurochannel/l-ombre",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 20:15:00+00",
+      "endTime": "2026-04-21 21:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "f9155799-2432-4eb5-a1bb-225147cd5c02",
+      "title": "Nous avons gagné ce soir",
+      "programSlug": "nous-avons-gagne-ce-soir",
+      "programUrl": "/programme/tcm-cinema/nous-avons-gagne-ce-soir",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 02:55:00+00",
+      "endTime": "2026-04-23 04:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "02eb3ee2-8a20-4817-89bc-9aa45371475c",
+      "title": "L'Ombre",
+      "programSlug": "l-ombre",
+      "programUrl": "/programme/eurochannel/l-ombre",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 04:00:00+00",
+      "endTime": "2026-04-23 05:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "ebfcd350-ac1d-46f7-bc73-54158d2312ee",
+      "title": "L'Ombre",
+      "programSlug": "l-ombre",
+      "programUrl": "/programme/eurochannel/l-ombre",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 17:15:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "f977cf2c-dae8-4ca7-ab1d-d0f41209c52a",
+      "title": "L'Ombre",
+      "programSlug": "l-ombre",
+      "programUrl": "/programme/eurochannel/l-ombre",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-25 10:45:00+00",
+      "endTime": "2026-04-25 12:20:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 20:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

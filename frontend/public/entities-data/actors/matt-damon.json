@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "matt-damon",
+  "name": "Matt Damon",
+  "worksCount": 6,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MKr347638%20Matt%20Damon%20(Small%20Things%20Like%20These%2C%20Berlinale%202024).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-10-08",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q175535",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Matt_Damon",
+    "imdb": "nm0000354",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-vengeance-dans-la-peau",
+      "title": "La vengeance dans la peau"
+    },
+    {
+      "type": "film",
+      "slug": "elysium",
+      "title": "Elysium"
+    },
+    {
+      "type": "film",
+      "slug": "true-grit",
+      "title": "True Grit"
+    },
+    {
+      "type": "film",
+      "slug": "la-memoire-dans-la-peau",
+      "title": "La mémoire dans la peau"
+    },
+    {
+      "type": "film",
+      "slug": "la-mort-dans-la-peau",
+      "title": "La mort dans la peau"
+    },
+    {
+      "type": "film",
+      "slug": "les-infiltres",
+      "title": "Les infiltrés"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0337b7ef-f2de-454a-a9b3-91061f89114c",
+      "title": "Elysium",
+      "programSlug": "elysium",
+      "programUrl": "/programme/canal-grand-ecran/elysium",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 21:05:00+00",
+      "endTime": "2026-04-19 22:52:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 21:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

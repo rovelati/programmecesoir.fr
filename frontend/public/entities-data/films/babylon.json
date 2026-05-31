@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "babylon",
+  "title": "Babylon",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Babylon"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "A South London en 1980. Les graffitis nationalistes sont sur tous les murs et les blancs réactionnaires rejettent les Indiens qui se sont installés dans le quartier. Blue y travaille comme mécanicien et mène également un carrière de Disc Jockey. Il passe une grande partie de son temps avec son meilleur ami blanc et fan de reagae Ronnie et avec des Jamaïcains, nés en Angleterre et cibles du racisme ambiant. Blue voudrait être le roi du sound system mais il a sur sa route le King de cette scène, le redouté Jah Shaka. Rien ne va dans la vie de Blue, acculé à la démission à cause d'un patron xénophobe, à quitter le domicile familial par son beau père, arrêté arbitrairement par la police et lâché par sa copine...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Babylon%20Town%20Hall%3B%20Front%20Sign.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

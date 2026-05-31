@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "jenny-wade",
+  "name": "Jenny Wade",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jenny%20Wade%20performs%20at%20Largo%20Theater%20in%20Los%20Angeles.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-10-06",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1489113",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jenny_Wade",
+    "imdb": "nm1023127",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-gout-de-la-vie",
+      "title": "Le goût de la vie"
+    },
+    {
+      "type": "film",
+      "slug": "sa-mere-ou-moi",
+      "title": "Sa mère ou moi !"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b00cd056-0a0b-457b-961a-c1ed3ba0cec4",
+      "title": "Le goût de la vie",
+      "programSlug": "le-gout-de-la-vie",
+      "programUrl": "/programme/cine-emotion/le-gout-de-la-vie",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 00:34:00+00",
+      "endTime": "2026-04-23 02:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 00:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

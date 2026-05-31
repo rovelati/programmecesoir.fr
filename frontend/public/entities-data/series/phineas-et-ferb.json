@@ -1,0 +1,289 @@
+{
+  "type": "series",
+  "slug": "phineas-et-ferb",
+  "title": "Phineas et Ferb",
+  "airingsCount": 550,
+  "sourceTitles": [
+    "Phineas et Ferb",
+    "Phinéas et Ferb"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série télévisée comique",
+    "série télévisée de science-fiction",
+    "série télévisée de fantasy",
+    "musical"
+  ],
+  "description": "Candice essaie de surmonter sa peur des araignées. Doofenshmirtz montre une liste de demandes d'agents qui doivent être remplies afin qu'il puisse remettre la Terre à sa place. Rodney feint de s'associer à Doofenshmirtz. Phinéas crée une fusée pour déplacer la Terre, mais en appuyant sur le mauvais levier, elle est envoyée trop loin et l'hiver s'installe. Candice découvre que le grenier est rempli d'araignées. La Terre finit par retrouver sa position initiale et Rodney est arrêté pour crimes contre l'humanité. La bande félicite Candice d'avoir sauvé le monde.",
+  "descriptionAi": "Cette série télévisée d'animation pour la jeunesse, mêlant comédie, science-fiction, fantasy et numéros musicaux, débute en 2007. Elle suit les aventures inventives de deux frères pendant leurs vacances d'été. L'ambiance est dynamique, colorée et pleine d'humour absurde, portée par des personnages attachants et des gags récurrents. Son intérêt réside dans son imagination débordante, son rythme enlevé et ses intrigues ingénieuses qui séduisent aussi bien les enfants que les adultes. Une série familiale inventive et drôle, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Diego%20Comic-Con%202011%20-%20Platybus%20from%20Phineas%20and%20Ferb%20(5991539873).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-channel.png",
+      "airingsCount": 213
+    },
+    {
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disneychannelplus1.png",
+      "airingsCount": 213
+    },
+    {
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-junior.png",
+      "airingsCount": 124
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5ac548c7-1cb5-4464-ab63-8f2b9dd384eb",
+      "title": "Phinéas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-channel/phineas-et-ferb",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 08:09:00+00",
+      "endTime": "2026-04-19 08:34:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "15ca356b-d706-43d2-a354-4de7912b3889",
+      "title": "Phinéas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-junior/phineas-et-ferb",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 08:09:00+00",
+      "endTime": "2026-04-19 08:34:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1f3392b6-f127-4786-9124-c2e265894232",
+      "title": "Phinéas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-channel/phineas-et-ferb",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 08:34:00+00",
+      "endTime": "2026-04-19 09:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3359ddef-a939-49f9-9d7e-9067da4e9bf2",
+      "title": "Phinéas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-junior/phineas-et-ferb",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 08:34:00+00",
+      "endTime": "2026-04-19 09:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "24e9c5d9-895b-40b4-82a6-bfb911cff04d",
+      "title": "Phineas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disneychannelplus1/phineas-et-ferb",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 09:10:00+00",
+      "endTime": "2026-04-19 09:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4f8b52de-dfba-4a4c-b82f-9c4be740f2c3",
+      "title": "Phineas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disneychannelplus1/phineas-et-ferb",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 09:35:00+00",
+      "endTime": "2026-04-19 10:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "632fd44a-0eea-456c-81a4-765b4abd6958",
+      "title": "Phinéas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-channel/phineas-et-ferb",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 17:26:00+00",
+      "endTime": "2026-04-19 17:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "99a237f3-f594-40b5-8738-855bb3dcd815",
+      "title": "Phinéas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-junior/phineas-et-ferb",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 17:26:00+00",
+      "endTime": "2026-04-19 17:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a289e87f-0799-4391-a6ee-87e070710767",
+      "title": "Phinéas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-channel/phineas-et-ferb",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 17:51:00+00",
+      "endTime": "2026-04-19 18:16:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4c87910e-c6f5-446a-9dba-291caaabb2f7",
+      "title": "Phinéas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-junior/phineas-et-ferb",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 17:51:00+00",
+      "endTime": "2026-04-19 18:16:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "aaf988cb-9499-4f52-b40c-be7f725c8f36",
+      "title": "Phineas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disneychannelplus1/phineas-et-ferb",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 18:25:00+00",
+      "endTime": "2026-04-19 18:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d49cb27d-4e48-448a-87e7-ece297d9b3c5",
+      "title": "Phineas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disneychannelplus1/phineas-et-ferb",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 18:50:00+00",
+      "endTime": "2026-04-19 19:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4e0ed4bf-4329-47f0-8fcd-43ff009577da",
+      "title": "Phinéas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-channel/phineas-et-ferb",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 21:56:00+00",
+      "endTime": "2026-04-19 22:19:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ae8677bd-22c4-4259-a92f-a542476acaab",
+      "title": "Phinéas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-junior/phineas-et-ferb",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 21:56:00+00",
+      "endTime": "2026-04-19 22:19:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "daf02aad-b6c7-42ac-be91-208c380cd2e7",
+      "title": "Phineas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-channel/phineas-et-ferb",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 22:00:00+00",
+      "endTime": "2026-04-19 22:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5f491e6d-177a-4098-976a-322358f5b01f",
+      "title": "Phineas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-channel/phineas-et-ferb",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 22:20:00+00",
+      "endTime": "2026-04-19 22:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "875833e5-9743-41e7-adb7-3fe962ef992f",
+      "title": "Phineas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disney-channel/phineas-et-ferb",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 22:40:00+00",
+      "endTime": "2026-04-19 23:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e3bf5a97-7989-4553-ad71-49e04a5e3fee",
+      "title": "Phineas et Ferb",
+      "programSlug": "phineas-et-ferb",
+      "programUrl": "/programme/disneychannelplus1/phineas-et-ferb",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 23:00:00+00",
+      "endTime": "2026-04-19 23:20:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q217679",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Phin%C3%A9as_et_Ferb",
+    "imdb": "tt0852863",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:07.139Z",
+  "startYear": 2007,
+  "numberOfSeasons": 5,
+  "cast": [],
+  "creator": {
+    "qid": "Q935609",
+    "slug": "dan-povenmire",
+    "name": "Dan Povenmire",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 08:09:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

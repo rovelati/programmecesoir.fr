@@ -1,0 +1,161 @@
+{
+  "type": "film",
+  "slug": "les-maries-de-l-an-ii",
+  "title": "Les mariés de l'an II",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Les mariés de l'an II"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "A Nantes, en 1787, Nicolas Philibert épouse Charlotte Gosselin, puis tue en duel un aristocrate trop galant. Il s'enfuit en Amérique, seul. En Caroline du Sud, il fait fortune dans le commerce des épices et s'éprend d'une riche héritière qu'il ne peut, hélas, épouser. Il décide donc de retourner sur le Vieux Continent, où le divorce a été légalisé par la Révolution. En pleine guerre civile, il retrouve Charlotte, qui a choisi le camp des royalistes. Aimée par un marquis et courtisée par un prince, Charlotte jubile. Les événements se précipitent. Nicolas, que les soubresauts politiques laissent indifférent, poursuit Charlotte à travers batailles et complots, dans l'espoir de l'amener devant le notaire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b7d284ca-d658-4945-a2cf-96952dc6aca3",
+      "title": "Les mariés de l'an II",
+      "programSlug": "les-maries-de-l-an-ii",
+      "programUrl": "/programme/cine-classic/les-maries-de-l-an-ii",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 15:35:00+00",
+      "endTime": "2026-04-23 17:11:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1971,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q106255",
+      "slug": "jean-paul-belmondo",
+      "name": "Jean-Paul Belmondo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272183",
+      "slug": "marlene-jobert",
+      "name": "Marlène Jobert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239404",
+      "slug": "laura-antonelli",
+      "name": "Laura Antonelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1324016",
+      "slug": "sami-frey",
+      "name": "Sami Frey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q566803",
+      "slug": "michel-auclair",
+      "name": "Michel Auclair",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1508798",
+      "slug": "georges-beller",
+      "name": "Georges Beller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1712249",
+      "slug": "julien-guiomar",
+      "name": "Julien Guiomar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q945890",
+      "slug": "pierre-brasseur",
+      "name": "Pierre Brasseur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q556278",
+      "slug": "paul-crauchet",
+      "name": "Paul Crauchet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1064099",
+      "slug": "charles-denner",
+      "name": "Charles Denner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1685348",
+      "slug": "jean-barney",
+      "name": "Jean Barney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2903658",
+      "slug": "billy-kearns",
+      "name": "Billy Kearns",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3023084",
+      "slug": "denise-peron",
+      "name": "Denise Péron",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3084155",
+      "slug": "francois-cadet",
+      "name": "François Cadet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1439965",
+      "slug": "henri-guybet",
+      "name": "Henri Guybet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95886070",
+      "slug": "herve-jolly",
+      "name": "Hervé Jolly",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q709973",
+    "slug": "jean-paul-rappeneau",
+    "name": "Jean-Paul Rappeneau",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 15:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

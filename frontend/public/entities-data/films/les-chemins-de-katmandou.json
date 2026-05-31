@@ -1,0 +1,125 @@
+{
+  "type": "film",
+  "slug": "les-chemins-de-katmandou",
+  "title": "Les chemins de Katmandou",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les chemins de Katmandou"
+  ],
+  "genres": [
+    "drame",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Olivier, après avoir activement participé aux événements de mai 68, est aujourd'hui en plein désarroi. Il décide de partir, à la recherche de son père au Népal, pour lui réclamer les 30 millions de francs représentant le total de la pension qu'il n'a jamais versé à sa mère, séduite puis abandonnée alors qu'elle était adolescente. C'est l'organisation des Equipes internationales de Solidarité qui lui paye le voyage. Arrivé sur place, il se met seul en quête de son père. En cours de route, il rencontre trois hippies. Parmi eux, il y a Jane. Olivier en tombe vite amoureux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1969,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q447879",
+      "slug": "arlene-dahl",
+      "name": "Arlene Dahl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466711",
+      "slug": "elsa-martinelli",
+      "name": "Elsa Martinelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3105918",
+      "slug": "gilberte-geniat",
+      "name": "Gilberte Géniat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212873",
+      "slug": "jane-birkin",
+      "name": "Jane Birkin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1685148",
+      "slug": "jean-paul-tribout",
+      "name": "Jean-Paul Tribout",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3288259",
+      "slug": "marc-michel",
+      "name": "Marc Michel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q328944",
+      "slug": "mike-marshall",
+      "name": "Mike Marshall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q468283",
+      "slug": "pascale-audret",
+      "name": "Pascale Audret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q772906",
+      "slug": "renaud-verley",
+      "name": "Renaud Verley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1358541",
+      "slug": "sacha-pitoeff",
+      "name": "Sacha Pitoëff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1698",
+      "slug": "serge-gainsbourg",
+      "name": "Serge Gainsbourg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3498913",
+      "slug": "steve-eckhardt",
+      "name": "Steve Eckhardt",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q517725",
+    "slug": "andre-cayatte",
+    "name": "André Cayatte",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

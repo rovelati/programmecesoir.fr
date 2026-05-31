@@ -1,0 +1,102 @@
+{
+  "type": "film",
+  "slug": "chair-de-poule-2-les-fantomes-d-halloween",
+  "title": "Chair de poule 2 : les fantômes d'Halloween",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Chair de poule 2 : les fantômes d'Halloween"
+  ],
+  "genres": [
+    "comédie horrifique",
+    "comédie",
+    "film basé sur des livres"
+  ],
+  "description": "Pour se faire un peu d'argent, Sonny et Sam, deux collégiens, proposent d'aider les gens de leur voisinage à se débarrasser d'objets vieillots dont ils ne veulent plus. A la veille d'Halloween, ils reçoivent un appel qui les conduit à se rendre dans une maison abandonnée à l'allure parfaitement lugubre...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q25999313",
+      "slug": "madison-iseman",
+      "name": "Madison Iseman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16980120",
+      "slug": "ben-o-brien",
+      "name": "Ben O'Brien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27922207",
+      "slug": "caleel-harris",
+      "name": "Caleel Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q39739164",
+      "slug": "jeremy-ray-taylor",
+      "name": "Jeremy Ray Taylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q165296",
+      "slug": "wendi-mclendon-covey",
+      "name": "Wendi McLendon-Covey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440910",
+      "slug": "ken-jeong",
+      "name": "Ken Jeong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1077635",
+      "slug": "chris-parnell",
+      "name": "Chris Parnell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q483907",
+      "slug": "jack-black",
+      "name": "Jack Black",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q653911",
+    "slug": "ari-sandel",
+    "name": "Ari Sandel",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

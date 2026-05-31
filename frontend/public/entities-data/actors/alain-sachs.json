@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "alain-sachs",
+  "name": "Alain Sachs",
+  "worksCount": 1,
+  "description": "acteur et metteur en scène français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alain%20Sachs%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1951-00-00",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2830250",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alain_Sachs",
+    "imdb": "nm0755125",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-petit-nicolas",
+      "title": "Le petit Nicolas"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fe63be11-7825-458c-9bcb-73d22b6422fa",
+      "title": "Le petit Nicolas",
+      "programSlug": "le-petit-nicolas",
+      "programUrl": "/programme/canal-grand-ecran/le-petit-nicolas",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 17:35:00+00",
+      "endTime": "2026-04-20 19:04:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 17:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

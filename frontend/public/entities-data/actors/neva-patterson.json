@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "neva-patterson",
+  "name": "Neva Patterson",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neva%20Patterson%201969.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1920-02-10",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q439216",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Neva_Patterson",
+    "imdb": "nm0666332",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "elle-et-lui",
+      "title": "Elle et lui"
+    },
+    {
+      "type": "film",
+      "slug": "la-symphonie-des-heros",
+      "title": "La symphonie des héros"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b5a393c-cb73-4b59-8c85-4bc4be080ce6",
+      "title": "Elle et lui",
+      "programSlug": "elle-et-lui",
+      "programUrl": "/programme/cine-classic/elle-et-lui",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-21 04:12:00+00",
+      "endTime": "2026-04-21 05:37:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 04:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

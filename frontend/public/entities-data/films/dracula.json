@@ -1,0 +1,184 @@
+{
+  "type": "film",
+  "slug": "dracula",
+  "title": "Dracula",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Dracula"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "film de vampires",
+    "drame d'époque",
+    "historical drama film",
+    "drame",
+    "adaptation d'un roman au cinéma",
+    "Gothic romance film",
+    "thriller",
+    "film d'horreur gothique",
+    "film gothique",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "En 1462, en Transylvanie, Vlad Dracul s'en va combattre les Turcs. La fausse nouvelle de sa mort pousse sa maîtresse au suicide. Désespéré, le veuf implore les puissances des ténèbres. Quatre siècles plus tard, un jeune clerc de notaire, Jonathan Harker, se rend dans le château du comte Dracula...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bram%20Stoker's%20Dracula%20movie%20horizontal%20gold%20logo.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paris-premiere.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b7403449-ac98-42e0-9bbe-2be9439c396b",
+      "title": "Dracula",
+      "programSlug": "dracula",
+      "programUrl": "/programme/canal-box-office/dracula",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 16:43:00+00",
+      "endTime": "2026-04-19 18:48:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "59f89142-9667-40a6-adf8-b098eac3855c",
+      "title": "Dracula",
+      "programSlug": "dracula",
+      "programUrl": "/programme/canal-box-office/dracula",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 21:44:00+00",
+      "endTime": "2026-04-21 23:48:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1992,
+  "durationMinutes": 128,
+  "cast": [
+    {
+      "qid": "Q83492",
+      "slug": "gary-oldman",
+      "name": "Gary Oldman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q101797",
+      "slug": "winona-ryder",
+      "name": "Winona Ryder",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65932",
+      "slug": "anthony-hopkins",
+      "name": "Anthony Hopkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43416",
+      "slug": "keanu-reeves",
+      "name": "Keanu Reeves",
+      "role": "actor"
+    },
+    {
+      "qid": "Q380856",
+      "slug": "richard-e-grant",
+      "name": "Richard E. Grant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311093",
+      "slug": "cary-elwes",
+      "name": "Cary Elwes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q553813",
+      "slug": "billy-campbell",
+      "name": "Billy Campbell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q283703",
+      "slug": "sadie-frost",
+      "name": "Sadie Frost",
+      "role": "actor"
+    },
+    {
+      "qid": "Q184805",
+      "slug": "tom-waits",
+      "name": "Tom Waits",
+      "role": "actor"
+    },
+    {
+      "qid": "Q81819",
+      "slug": "monica-bellucci",
+      "name": "Monica Bellucci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q633755",
+      "slug": "jay-robinson",
+      "name": "Jay Robinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1441807",
+      "slug": "michaela-bercu",
+      "name": "Michaela Bercu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20819230",
+      "slug": "florina-kendrick",
+      "name": "Florina Kendrick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12626679",
+      "slug": "alain-blazevic",
+      "name": "Alain Blazevic",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16106026",
+      "slug": "nancy-linehan-charles",
+      "name": "Nancy Linehan Charles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3199794",
+      "slug": "christina-fulton",
+      "name": "Christina Fulton",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q56094",
+    "slug": "francis-ford-coppola",
+    "name": "Francis Ford Coppola",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 16:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

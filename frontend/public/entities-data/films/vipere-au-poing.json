@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "vipere-au-poing",
+  "title": "Vipère au poing",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Vipère au poing"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Jean et Ferdinand Rézeau, deux frères, sont élevés par leur grand-mère paternelle, tandis que leurs parents séjournent à l'étranger. Mais à la mort de leur aïeule, la mère des deux enfants, de retour d'Indochine, reprend ses droits. Jugeant l'éducation de leur grand-mère trop laxiste, elle entend bien remettre ses fils dans le droit chemin. Rapidement, elle leur inflige des souffrances et des humiliations de toutes sortes. Négligeant leur bien-être, elle les nourrit mal et va jusqu'à les tondre ou planter sa fourchette dans leurs mains. Son tempérament tyrannique et cruel lui vaut d'être surnommée Folcoche, association de \"folle\" et \"cochonne\"...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q451776",
+      "slug": "catherine-frot",
+      "name": "Catherine Frot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q267244",
+      "slug": "jacques-villeret",
+      "name": "Jacques Villeret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2583177",
+      "slug": "jules-sitruk",
+      "name": "Jules Sitruk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4721362",
+      "slug": "alexia-barlier",
+      "name": "Alexia Barlier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2844759",
+      "slug": "amelie-lerma",
+      "name": "Amélie Lerma",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848415",
+      "slug": "andre-penvern",
+      "name": "André Penvern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q560554",
+      "slug": "anna-gaylor",
+      "name": "Anna Gaylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851563",
+      "slug": "annick-alane",
+      "name": "Annick Alane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q443174",
+      "slug": "cherie-lunghi",
+      "name": "Cherie Lunghi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18213901",
+      "slug": "alain-david",
+      "name": "Alain David",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1187592",
+      "slug": "denis-podalydes",
+      "name": "Denis Podalydès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3035372",
+      "slug": "dominique-paturel",
+      "name": "Dominique Paturel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3592141",
+      "slug": "etienne-draber",
+      "name": "Étienne Draber",
+      "role": "actor"
+    },
+    {
+      "qid": "Q437484",
+      "slug": "hannah-taylor-gordon",
+      "name": "Hannah Taylor-Gordon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2897108",
+      "slug": "louis-laguerre",
+      "name": "Louis Laguerre",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2319212",
+      "slug": "macha-beranger",
+      "name": "Macha Béranger",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q365141",
+    "slug": "philippe-de-broca",
+    "name": "Philippe de Broca",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

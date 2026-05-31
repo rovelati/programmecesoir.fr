@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "augustin-legrand",
+  "name": "Augustin Legrand",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Europe%20Ecologie%2092%20regional%20elections%202010-02-05%20n07.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-07-21",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q129451",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Augustin_Legrand",
+    "imdb": "nm1109880",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-heritage",
+      "title": "L'héritage"
+    },
+    {
+      "type": "film",
+      "slug": "l-ordre-et-la-morale",
+      "title": "L'ordre et la morale"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

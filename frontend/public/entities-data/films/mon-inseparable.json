@@ -1,0 +1,112 @@
+{
+  "type": "film",
+  "slug": "mon-inseparable",
+  "title": "Mon inséparable",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Mon inséparable"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Mona vit avec Joël, son fils trentenaire porteur d'une déficience intellectuelle, dans un petit appartement de Créteil. Joël travaille dans un établissement spécialisé, un ESAT, et aime passionnément sa collègue Océane, elle aussi en situation de handicap. Mona ignore tout de cette relation et tombe des nues lorsqu'elle apprend qu'Océane est enceinte. La relation fusionnelle entre mère et fils vacille. Mona, surprotectrice, a du mal à accepter que Joël vole de ses propres ailes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fd331744-f75c-4e3a-b221-b5cb14936e7d",
+      "title": "Mon inséparable",
+      "programSlug": "mon-inseparable",
+      "programUrl": "/programme/cine-emotion/mon-inseparable",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-19 09:31:00+00",
+      "endTime": "2026-04-19 11:03:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "af696919-284a-4704-bb78-ce8cf2d9fa4b",
+      "title": "Mon inséparable",
+      "programSlug": "mon-inseparable",
+      "programUrl": "/programme/cine-emotion/mon-inseparable",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-21 20:21:00+00",
+      "endTime": "2026-04-21 21:52:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "fdd7dce6-1654-45b3-8091-84e71d2e1af7",
+      "title": "Mon inséparable",
+      "programSlug": "mon-inseparable",
+      "programUrl": "/programme/cine-emotion/mon-inseparable",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 17:17:00+00",
+      "endTime": "2026-04-25 18:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q3218747",
+      "slug": "laure-calamy",
+      "name": "Laure Calamy",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q125422687",
+    "slug": "anne-sophie-bailly",
+    "name": "Anne-Sophie Bailly",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 09:31:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "type": "actor",
+  "slug": "rainer-matschurat",
+  "name": "Rainer Matschurat",
+  "worksCount": 1,
+  "description": "actor",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": null,
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q22337515",
+    "wikipedia": null,
+    "imdb": "nm0559334",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "haut-les-mains",
+      "title": "Haut les mains"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "15ab9030-1531-4b17-93d1-1ec40500aa9d",
+      "title": "Haut les mains",
+      "programSlug": "haut-les-mains",
+      "programUrl": "/programme/paramount-channel/haut-les-mains",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-19 17:35:00+00",
+      "endTime": "2026-04-19 19:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a2cdd5f8-6ef8-476f-a776-cafeedca9b6d",
+      "title": "Haut les mains",
+      "programSlug": "haut-les-mains",
+      "programUrl": "/programme/canal-cinema/haut-les-mains",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-19 17:38:00+00",
+      "endTime": "2026-04-19 19:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "22aa85f8-ab46-41ac-b0c2-8695c36a1d9a",
+      "title": "Haut les mains",
+      "programSlug": "haut-les-mains",
+      "programUrl": "/programme/canal-box-office/haut-les-mains",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 08:32:00+00",
+      "endTime": "2026-04-23 09:53:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "f55b7d48-cb6b-4712-a902-f66d8e5b0b7b",
+      "title": "Haut les mains",
+      "programSlug": "haut-les-mains",
+      "programUrl": "/programme/canal/haut-les-mains",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 00:05:00+00",
+      "endTime": "2026-04-25 01:27:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "cdd82b2f-16c7-4465-815a-3ef4cb07a7dd",
+      "title": "Haut les mains",
+      "programSlug": "haut-les-mains",
+      "programUrl": "/programme/paramount-channel/haut-les-mains",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-25 11:20:00+00",
+      "endTime": "2026-04-25 12:45:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "16be7b67-b636-4f25-b17d-83a82ca0911c",
+      "title": "Haut les mains",
+      "programSlug": "haut-les-mains",
+      "programUrl": "/programme/canal-cinema/haut-les-mains",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-25 11:23:00+00",
+      "endTime": "2026-04-25 12:44:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 17:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "alicia-vikander",
+  "name": "Alicia Vikander",
+  "worksCount": 2,
+  "description": "actrice suédoise",
+  "descriptionAi": "Alicia Vikander incarne une actrice de drame et de thriller, captivant par son intensité et sa grâce naturelle. Son jeu, d'une grande sensibilité et d'une précision remarquable, habite des personnages complexes aux prises avec des dilemmes intimes ou historiques. L'ambiance de ses films oscille souvent entre une mélancolie profonde et une tension palpable, portée par sa présence à l'écran. Elle séduit le téléspectateur par sa capacité à traduire une profondeur émotionnelle silencieuse, transformant chaque rôle en une expérience immersive. Pour découvrir ses performances les plus marquantes, c'est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alicia%20Vikander-7756%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1988-10-03",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q439314",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alicia_Vikander",
+    "imdb": "nm2539953",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "royal-affair",
+      "title": "Royal Affair"
+    },
+    {
+      "type": "film",
+      "slug": "memoires-de-jeunesse",
+      "title": "Mémoires de jeunesse"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1b2265b5-a18b-487f-b7ca-730cb0fd8c4f",
+      "title": "Royal Affair",
+      "programSlug": "royal-affair",
+      "programUrl": "/programme/cine-emotion/royal-affair",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 22:21:00+00",
+      "endTime": "2026-04-24 00:35:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "fdee0173-5282-453c-be35-6032c76f026c",
+      "title": "Mémoires de jeunesse",
+      "programSlug": "memoires-de-jeunesse",
+      "programUrl": "/programme/canal-grand-ecran/memoires-de-jeunesse",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 21:27:00+00",
+      "endTime": "2026-04-24 23:32:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:55.079Z",
+  "nextAiringAt": "2026-04-23 22:21:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

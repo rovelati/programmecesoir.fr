@@ -1,0 +1,143 @@
+{
+  "type": "film",
+  "slug": "lassie-la-route-de-l-aventure",
+  "title": "Lassie, La route de l'aventure",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Lassie, La route de l'aventure"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Florian considère son chien, Lassie, comme son meilleur ami. Le jeune garçon partage tout avec son fidèle compagnon. Issu d'une famille de fermiers, Florian apprend que ses parents sont contraints de vendre son chien, afin de faire face à des difficultés. Lassie est donc emmené à des milliers de kilomètres de Florian, chez une nouvelle famille, qui souhaite faire le bonheur d'une petite fille. Mais le brave colley parvient à s'échapper. Lassie s'embarque alors dans un long voyage, durant lequel il va vivre de multiples aventures, dans le but de retrouver son foyer et surtout son maître, Florian...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q63033",
+      "slug": "anna-maria-muhe",
+      "name": "Anna Maria Mühe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109304",
+      "slug": "sebastian-bezzel",
+      "name": "Sebastian Bezzel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17521534",
+      "slug": "bella-bading",
+      "name": "Bella Bading",
+      "role": "actor"
+    },
+    {
+      "qid": "Q63967",
+      "slug": "matthias-habich",
+      "name": "Matthias Habich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q67917",
+      "slug": "justus-von-dohnanyi",
+      "name": "Justus von Dohnányi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1085410",
+      "slug": "christoph-letkowski",
+      "name": "Christoph Letkowski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1696765",
+      "slug": "johann-von-bulow",
+      "name": "Johann von Bülow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q215565",
+      "slug": "jana-pallaske",
+      "name": "Jana Pallaske",
+      "role": "actor"
+    },
+    {
+      "qid": "Q29639828",
+      "slug": "sina-rei",
+      "name": "Sina Reiß",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1624991",
+      "slug": "elisabeth-pflanz",
+      "name": "Elisabeth Pflanz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23060894",
+      "slug": "moritz-heidelbach",
+      "name": "Moritz Heidelbach",
+      "role": "actor"
+    },
+    {
+      "qid": "Q53179071",
+      "slug": "sina-bianca-hentschel",
+      "name": "Sina Bianca Hentschel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19295011",
+      "slug": "luca-maric",
+      "name": "Luca Maric",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1935942",
+      "slug": "milton-welsh",
+      "name": "Milton Welsh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21209197",
+      "slug": "gode-benedix",
+      "name": "Gode Benedix",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1381393",
+    "slug": "hanno-olderdissen",
+    "name": "Hanno Olderdissen",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "eddie-redmayne",
+  "name": "Eddie Redmayne",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eddie%20Redmayne%20MFF%20Portrait.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1982-01-06",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q28288",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Eddie_Redmayne",
+    "imdb": "nm1519666",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jupiter-le-destin-de-l-univers",
+      "title": "Jupiter : le destin de l'univers"
+    },
+    {
+      "type": "film",
+      "slug": "les-miserables",
+      "title": "Les misérables"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

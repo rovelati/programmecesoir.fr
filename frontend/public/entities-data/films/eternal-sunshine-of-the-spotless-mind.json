@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "eternal-sunshine-of-the-spotless-mind",
+  "title": "Eternal Sunshine of the Spotless Mind",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Eternal Sunshine of the Spotless Mind"
+  ],
+  "genres": [
+    "comédie romantique",
+    "comédie dramatique",
+    "film ou téléfilm de science-fiction",
+    "mélodrame",
+    "film et téléfilm de fantasy"
+  ],
+  "description": "Un matin, dans le train qui le mène au travail, Joel croise une jeune femme qui l'intrigue, Clementine. Ils commencent à se fréquenter, jusqu'au jour où Clementine semble ne plus reconnaître Joel. Il découvre qu'elle a choisi de subir un lavage de cerveau pour oublier tout souvenir de leur relation...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0cdbad4-3041-4bec-b28c-8f9aac1db096",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "programSlug": "eternal-sunshine-of-the-spotless-mind",
+      "programUrl": "/programme/cine-emotion/eternal-sunshine-of-the-spotless-mind",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 13:29:00+00",
+      "endTime": "2026-04-20 15:16:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": 104,
+  "cast": [
+    {
+      "qid": "Q40504",
+      "slug": "jim-carrey",
+      "name": "Jim Carrey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202765",
+      "slug": "kate-winslet",
+      "name": "Kate Winslet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q76478",
+      "slug": "kirsten-dunst",
+      "name": "Kirsten Dunst",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41422",
+      "slug": "mark-ruffalo",
+      "name": "Mark Ruffalo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q483771",
+      "slug": "elijah-wood",
+      "name": "Elijah Wood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q211322",
+      "slug": "tom-wilkinson",
+      "name": "Tom Wilkinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436360",
+      "slug": "jane-adams",
+      "name": "Jane Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q362332",
+      "slug": "david-cross",
+      "name": "David Cross",
+      "role": "actor"
+    },
+    {
+      "qid": "Q215849",
+      "slug": "ellen-pompeo",
+      "name": "Ellen Pompeo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7791234",
+      "slug": "thomas-jay-ryan",
+      "name": "Thomas Jay Ryan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1524102",
+      "slug": "deirdre-o-connell",
+      "name": "Deirdre O'Connell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107676406",
+      "slug": "gerry-robert-byrne",
+      "name": "Gerry Robert Byrne",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q126098",
+    "slug": "michel-gondry",
+    "name": "Michel Gondry",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 13:29:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

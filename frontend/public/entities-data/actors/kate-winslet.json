@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "kate-winslet",
+  "name": "Kate Winslet",
+  "worksCount": 3,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/KateWinslet%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-10-05",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q202765",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kate_Winslet",
+    "imdb": "nm0000701",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-jardins-du-roi",
+      "title": "Les jardins du roi"
+    },
+    {
+      "type": "film",
+      "slug": "divergente",
+      "title": "Divergente"
+    },
+    {
+      "type": "film",
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "title": "Eternal Sunshine of the Spotless Mind"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0cdbad4-3041-4bec-b28c-8f9aac1db096",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "programSlug": "eternal-sunshine-of-the-spotless-mind",
+      "programUrl": "/programme/cine-emotion/eternal-sunshine-of-the-spotless-mind",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 13:29:00+00",
+      "endTime": "2026-04-20 15:16:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "928d1eb9-22c2-4dbf-9d58-21e9c5f19ed9",
+      "title": "Divergente",
+      "programSlug": "divergente",
+      "programUrl": "/programme/w9/divergente",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 19:25:00+00",
+      "endTime": "2026-04-20 21:50:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 13:29:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

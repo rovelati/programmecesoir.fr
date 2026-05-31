@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "nancy-travis",
+  "name": "Nancy Travis",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nancy%20Travis%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1961-09-21",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q233042",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Nancy_Travis",
+    "imdb": "nm0001802",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "air-america",
+      "title": "Air America"
+    },
+    {
+      "type": "series",
+      "slug": "becker",
+      "title": "Becker"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

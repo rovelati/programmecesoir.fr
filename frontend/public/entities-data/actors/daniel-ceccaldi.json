@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "daniel-ceccaldi",
+  "name": "Daniel Ceccaldi",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DanielCeccaldi-1946-Harcourt.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1927-07-25",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q663802",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Daniel_Ceccaldi",
+    "imdb": "nm0147561",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-aventures-d-arsene-lupin",
+      "title": "Les aventures d'Arsène Lupin"
+    },
+    {
+      "type": "film",
+      "slug": "du-rififi-a-paname",
+      "title": "Du rififi à Paname"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "52430700-b42d-4bb3-8d16-c878be001c93",
+      "title": "Les aventures d'Arsène Lupin",
+      "programSlug": "les-aventures-d-arsene-lupin",
+      "programUrl": "/programme/tcm-cinema/les-aventures-d-arsene-lupin",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 05:20:00+00",
+      "endTime": "2026-04-23 07:00:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 05:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

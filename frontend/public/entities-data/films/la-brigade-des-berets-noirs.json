@@ -1,0 +1,118 @@
+{
+  "type": "film",
+  "slug": "la-brigade-des-berets-noirs",
+  "title": "La brigade des bérets noirs",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La brigade des bérets noirs"
+  ],
+  "genres": [
+    "film et téléfilm de guerre"
+  ],
+  "description": "Cinq soldats alliés, capturés par les Allemands au cours d'une bataille dans le désert libyen, sont transférés dans un camp de prisonniers. Leurs geôliers ne tardent pas à découvrir que l'un d'eux, le sergent Thatcher, est recherché pour terrorisme en Allemagne. Après le décès de son épouse dans un camp de concentration, celui-ci a en effet tenté d'assassiner Joseph Goebbels. Pour sauver sa vie, Thatcher n'a pas d'autre choix que de s'évader du camp. Il entraîne ses quatre camarades dans une première tentative qui échoue. Le lendemain, les cinq hommes parviennent à voler une ambulance militaire et prennent la direction du désert...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1958,
+  "durationMinutes": 86,
+  "cast": [
+    {
+      "qid": "Q358317",
+      "slug": "victor-mature",
+      "name": "Victor Mature",
+      "role": "actor"
+    },
+    {
+      "qid": "Q946210",
+      "slug": "leo-genn",
+      "name": "Leo Genn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4941186",
+      "slug": "bonar-colleano",
+      "name": "Bonar Colleano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q573709",
+      "slug": "anthony-newley",
+      "name": "Anthony Newley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1349011",
+      "slug": "alfred-burke",
+      "name": "Alfred Burke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1507169",
+      "slug": "george-coulouris",
+      "name": "George Coulouris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q437806",
+      "slug": "luciana-paluzzi",
+      "name": "Luciana Paluzzi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q370026",
+      "slug": "percy-herbert",
+      "name": "Percy Herbert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3292613",
+      "slug": "richard-marner",
+      "name": "Richard Marner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830608",
+      "slug": "alan-tilvern",
+      "name": "Alan Tilvern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3938408",
+      "slug": "robert-rietti",
+      "name": "Robert Rietti",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q314882",
+    "slug": "terence-young",
+    "name": "Terence Young",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

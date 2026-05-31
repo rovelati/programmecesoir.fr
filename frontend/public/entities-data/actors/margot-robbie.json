@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "margot-robbie",
+  "name": "Margot Robbie",
+  "worksCount": 1,
+  "description": "actrice australienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SYDNEY%2C%20AUSTRALIA%20-%20JANUARY%2023%20Margot%20Robbie%20arrives%20at%20the%20Australian%20Premiere%20of%20'I%2C%20Tonya'%20on%20January%2023%2C%202018%20in%20Sydney%2C%20Australia%20(25980753838)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-07-02",
+  "nationality": "Australie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1924847",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Margot_Robbie",
+    "imdb": "nm3053338",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "diversion",
+      "title": "Diversion"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b2f75e9-9ef5-4493-8888-98692afcdd02",
+      "title": "Diversion",
+      "programSlug": "diversion",
+      "programUrl": "/programme/warnertv/diversion",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-23 07:30:00+00",
+      "endTime": "2026-04-23 09:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 07:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

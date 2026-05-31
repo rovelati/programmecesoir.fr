@@ -1,0 +1,185 @@
+{
+  "type": "actor",
+  "slug": "ariana-grande",
+  "name": "Ariana Grande",
+  "worksCount": 2,
+  "description": "chanteuse, compositrice et actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ariana%20Grande%20promoting%20Wicked%20(2024).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1993-06-26",
+  "nationality": "États-Unis",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q151892",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ariana_Grande",
+    "imdb": "nm3812858",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "victorious",
+      "title": "Victorious"
+    },
+    {
+      "type": "series",
+      "slug": "sam-cat",
+      "title": "Sam & Cat"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ac700466-4733-425d-82bf-2e2896bcfd10",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeon/victorious",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 19:50:00+00",
+      "endTime": "2026-04-19 20:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3ac115a5-45f7-4366-a23c-028afdca4563",
+      "title": "Sam & Cat",
+      "programSlug": "sam-cat",
+      "programUrl": "/programme/nickelodeon/sam-cat",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 20:14:00+00",
+      "endTime": "2026-04-19 20:36:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "76a27579-cfab-4993-bb60-b7d3fc8a4d98",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeonplus1fr/victorious",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 20:50:00+00",
+      "endTime": "2026-04-19 21:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cdfb6538-7996-4d86-a728-cc1bb5890532",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeon1/victorious",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 20:50:00+00",
+      "endTime": "2026-04-19 21:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d9fefca5-463e-4fe0-981b-03d714df0075",
+      "title": "Sam & Cat",
+      "programSlug": "sam-cat",
+      "programUrl": "/programme/nickelodeonplus1fr/sam-cat",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 21:14:00+00",
+      "endTime": "2026-04-19 21:36:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "64ae7469-ad30-47ae-bf78-b71bf3649bd4",
+      "title": "Sam & Cat",
+      "programSlug": "sam-cat",
+      "programUrl": "/programme/nickelodeon1/sam-cat",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 21:14:00+00",
+      "endTime": "2026-04-19 21:36:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1901500c-5f71-43c4-ab00-42412971538e",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeon/victorious",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 19:49:00+00",
+      "endTime": "2026-04-20 20:14:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "612235a5-02c7-40c4-87ca-73c80f706835",
+      "title": "Sam & Cat",
+      "programSlug": "sam-cat",
+      "programUrl": "/programme/nickelodeon/sam-cat",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 20:14:00+00",
+      "endTime": "2026-04-20 20:38:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "1e79ce38-4fe3-43e4-b942-50478a9f9646",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeonplus1fr/victorious",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 20:49:00+00",
+      "endTime": "2026-04-20 21:14:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "adca7ddf-2b0f-4289-9bf8-047e0db16201",
+      "title": "Sam & Cat",
+      "programSlug": "sam-cat",
+      "programUrl": "/programme/nickelodeonplus1fr/sam-cat",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 21:14:00+00",
+      "endTime": "2026-04-20 21:38:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "42dd5698-df55-4cc6-96c0-46f3643a94ec",
+      "title": "Victorious - Saison 1",
+      "programSlug": "victorious-saison-1",
+      "programUrl": "/programme/nickelodeon/victorious-saison-1",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-21 19:49:00+00",
+      "endTime": "2026-04-21 20:14:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6fb81dab-67e7-4066-b2bf-238b02d9d61c",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeonplus1fr/victorious",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-21 20:49:00+00",
+      "endTime": "2026-04-21 21:14:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 19:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

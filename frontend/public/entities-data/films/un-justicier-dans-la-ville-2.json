@@ -1,0 +1,123 @@
+{
+  "type": "film",
+  "slug": "un-justicier-dans-la-ville-2",
+  "title": "Un justicier dans la ville 2",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Un justicier dans la ville 2"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "rape and revenge",
+    "film ou téléfilm criminel",
+    "film de vigilante"
+  ],
+  "description": "Il y a sept ans, l'architecte new-yorkais Paul Kersey s'était vengé du meurtre de son épouse et du viol de sa fille Carol, sans demander son avis à la police. Il vit à présent à Los Angeles, avec Carol, toujours soignée en hôpital psychiatrique, et son amie journaliste, Geri Nichols. Un jour qu'il se promène dans la rue, Paul est bousculé par six individus. Tandis qu'il se bat avec l'un d'eux, les autres débarquent chez lui, enlèvent Carol et la violent à nouveau, ressuscitant ainsi son calvaire. Traumatisée, la jeune femme se défenestre et s'empale sur une grille. Une fois de plus, Paul n'a qu'une idée en tête : se venger. Il reprend les armes...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Death%20wish%202%20de.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "142592ba-131b-4c97-b5f6-9de02d9fee28",
+      "title": "Un justicier dans la ville 2",
+      "programSlug": "un-justicier-dans-la-ville-2",
+      "programUrl": "/programme/tcm-cinema/un-justicier-dans-la-ville-2",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-21 20:20:00+00",
+      "endTime": "2026-04-21 21:45:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1982,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q36105",
+      "slug": "charles-bronson",
+      "name": "Charles Bronson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q175571",
+      "slug": "jill-ireland",
+      "name": "Jill Ireland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q555590",
+      "slug": "vincent-gardenia",
+      "name": "Vincent Gardenia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q358360",
+      "slug": "anthony-franciosa",
+      "name": "Anthony Franciosa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7151931",
+      "slug": "paul-lambert",
+      "name": "Paul Lambert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193048",
+      "slug": "laurence-fishburne",
+      "name": "Laurence Fishburne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2927461",
+      "slug": "buck-young",
+      "name": "Buck Young",
+      "role": "actor"
+    },
+    {
+      "qid": "Q45796",
+      "slug": "silvana-gallardo",
+      "name": "Silvana Gallardo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2385752",
+      "slug": "thomas-f-duffy",
+      "name": "Thomas F. Duffy",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q722890",
+    "slug": "michael-winner",
+    "name": "Michael Winner",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 20:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "jacky-ido",
+  "name": "Jacky Ido",
+  "worksCount": 2,
+  "description": "acteur, réalisateur et slameur franco-burkinabé",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-05-14",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q731602",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jacky_Ido",
+    "imdb": "nm1784515",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "lock-out",
+      "title": "Lock Out"
+    },
+    {
+      "type": "film",
+      "slug": "radiostars",
+      "title": "Radiostars"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7cee21b-9787-4fb4-9cf0-ee09695438ea",
+      "title": "Radiostars",
+      "programSlug": "radiostars",
+      "programUrl": "/programme/cine-family/radiostars",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 13:09:00+00",
+      "endTime": "2026-04-21 14:48:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 13:09:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

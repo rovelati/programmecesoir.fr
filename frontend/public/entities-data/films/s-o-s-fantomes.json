@@ -1,0 +1,173 @@
+{
+  "type": "film",
+  "slug": "s-o-s-fantomes",
+  "title": "S.O.S. Fantômes",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "S.O.S. Fantômes"
+  ],
+  "genres": [
+    "comédie horrifique",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm de science-fiction",
+    "buddy film féminin",
+    "film de fantômes"
+  ],
+  "description": "Erin (Kristen Wiig) est une scientifique qui croit aux phénomènes paranormaux. Mais afin de continuer à enseigner, elle doit faire disparaître toutes traces d’un livre rédigé sur les fantômes. Elle se rend dans les bureaux de sa coauteure Abby (Melissa McCarthy) qui, en compagnie de sa brillante collègue Jillian (Kate McKinnon), a fabriqué une technologie pour repérer les esprits. C’est à ce moment qu’elles apprennent qu’un manoir est peut‐être hanté. En se rendant sur les lieux, les trois femmes découvrent une étrange apparition qui les pousse à poursuivre les recherches…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rmc-life.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0ce70329-69a0-4dc2-9cda-c9680af3516c",
+      "title": "S.O.S. Fantômes",
+      "programSlug": "s-o-s-fantomes",
+      "programUrl": "/programme/syfy/s-o-s-fantomes",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-25 14:35:00+00",
+      "endTime": "2026-04-25 16:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 117,
+  "cast": [
+    {
+      "qid": "Q231382",
+      "slug": "kristen-wiig",
+      "name": "Kristen Wiig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229048",
+      "slug": "melissa-mccarthy",
+      "name": "Melissa McCarthy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q723057",
+      "slug": "kate-mckinnon",
+      "name": "Kate McKinnon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6530936",
+      "slug": "leslie-jones",
+      "name": "Leslie Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q54314",
+      "slug": "chris-hemsworth",
+      "name": "Chris Hemsworth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q29250",
+      "slug": "bill-murray",
+      "name": "Bill Murray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q102124",
+      "slug": "sigourney-weaver",
+      "name": "Sigourney Weaver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105221",
+      "slug": "dan-aykroyd",
+      "name": "Dan Aykroyd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q471018",
+      "slug": "ernie-hudson",
+      "name": "Ernie Hudson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q189415",
+      "slug": "andy-garcia",
+      "name": "Andy García",
+      "role": "actor"
+    },
+    {
+      "qid": "Q921518",
+      "slug": "michael-k-williams",
+      "name": "Michael K. Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309690",
+      "slug": "charles-dance",
+      "name": "Charles Dance",
+      "role": "actor"
+    },
+    {
+      "qid": "Q464425",
+      "slug": "ed-begley-jr",
+      "name": "Ed Begley Jr.",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2278533",
+      "slug": "matt-walsh",
+      "name": "Matt Walsh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q253536",
+      "slug": "annie-potts",
+      "name": "Annie Potts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232047",
+      "slug": "elizabeth-perkins",
+      "name": "Elizabeth Perkins",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2031292",
+    "slug": "paul-feig",
+    "name": "Paul Feig",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 14:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,366 @@
+{
+  "type": "series",
+  "slug": "7-a-la-maison",
+  "title": "7 à la maison",
+  "airingsCount": 54,
+  "sourceTitles": [
+    "7 à la maison",
+    "7 à la maison - Saison 8"
+  ],
+  "genres": [
+    "série télévisée dramatique"
+  ],
+  "description": "Incapable de convaincre le père de Chandler de revoir son fils avant qu'il ne meure, Eric n'a pas d'autre solution que de lui jouer un tour. Annie, Eric et Rosina rendent une visite surprise à Matt pour le féliciter. Mary confie un grand secret à Lucy. Simon voit son rendez-vous annulé pour le bal des étudiants...",
+  "descriptionAi": "Cette série dramatique familiale, diffusée depuis 1996, dépeint avec justesse la vie quotidienne et les liens complexes unissant les membres de la famille Camden. L'ambiance, à la fois chaleureuse et empreinte de réalisme, navigue entre les joies, les drames et les défis de l'adolescence et de la parentalité. Son intérêt réside dans sa capacité à aborder avec sensibilité des thèmes universels et intemporels, créant un profond attachement aux personnages au fil des onze saisons. Une saga touchante sur les épreuves et les bonheurs de la vie commune, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rmc-life.png",
+      "airingsCount": 54
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0f7e90e-236d-4feb-8a36-678dab4ba6dc",
+      "title": "7 à la maison - Saison 8",
+      "programSlug": "7-a-la-maison-saison-8",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-8",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 11:00:00+00",
+      "endTime": "2026-04-20 11:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7436a3f4-8d96-4c42-a9c2-086ce77cf3e0",
+      "title": "7 à la maison - Saison 8",
+      "programSlug": "7-a-la-maison-saison-8",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-8",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 11:50:00+00",
+      "endTime": "2026-04-20 12:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "02cea111-8b8e-44da-80a3-5705d4caabe4",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 12:40:00+00",
+      "endTime": "2026-04-20 13:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0c020a38-a99c-40d5-8068-0822bc0eb138",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 13:30:00+00",
+      "endTime": "2026-04-20 14:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c0b4e6a0-cdcc-4526-98b1-3aa5372a34ae",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 14:25:00+00",
+      "endTime": "2026-04-20 15:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c7579418-803f-4718-9ea5-b67017809f0f",
+      "title": "7 à la maison - Saison 8",
+      "programSlug": "7-a-la-maison-saison-8",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-8",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-21 11:00:00+00",
+      "endTime": "2026-04-21 11:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "87e8f172-c365-4686-9d2c-440dc37161e4",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-21 11:50:00+00",
+      "endTime": "2026-04-21 12:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "99d6d80e-0d0d-486b-b938-76a5cc299616",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-21 12:40:00+00",
+      "endTime": "2026-04-21 13:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "193a3da8-5684-420f-9eee-6a13e3097db4",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-21 13:30:00+00",
+      "endTime": "2026-04-21 14:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e45a3c16-1d2d-4505-a5c5-bdd06a4fe571",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-21 14:25:00+00",
+      "endTime": "2026-04-21 15:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b4674e71-4ede-48e5-90f5-9108fc0e3fa9",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-22 11:00:00+00",
+      "endTime": "2026-04-22 11:50:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "6aa16f99-0fe4-460f-8333-a891a0bdd61d",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-22 11:50:00+00",
+      "endTime": "2026-04-22 12:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9e618449-0734-4453-8d84-729b27ebbe91",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-22 12:40:00+00",
+      "endTime": "2026-04-22 13:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "8b1d019c-95b1-4f77-b36f-92c1f95c6ee0",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-22 13:30:00+00",
+      "endTime": "2026-04-22 14:25:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9ef2875d-a416-4d33-972e-d3eaa0df2c53",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-22 14:25:00+00",
+      "endTime": "2026-04-22 15:25:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "eb696d31-b656-4683-a5ea-15fcbca84fe8",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-23 11:00:00+00",
+      "endTime": "2026-04-23 11:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "90e0912f-09e4-40ee-897e-51e4398adb69",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-23 11:50:00+00",
+      "endTime": "2026-04-23 12:40:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "62cdd027-6373-4710-a5cb-611d46742f06",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-23 12:40:00+00",
+      "endTime": "2026-04-23 13:30:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:41:50.581Z",
+  "startYear": 1996,
+  "numberOfSeasons": 11,
+  "cast": [
+    {
+      "qid": "Q435434",
+      "slug": "stephen-collins",
+      "name": "Stephen Collins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q432739",
+      "slug": "tyler-hoechlin",
+      "name": "Tyler Hoechlin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230789",
+      "slug": "catherine-hicks",
+      "name": "Catherine Hicks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q31741",
+      "slug": "barry-watson",
+      "name": "Barry Watson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q365484",
+      "slug": "david-gallagher",
+      "name": "David Gallagher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q163249",
+      "slug": "jessica-biel",
+      "name": "Jessica Biel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234487",
+      "slug": "beverley-mitchell",
+      "name": "Beverley Mitchell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232242",
+      "slug": "mackenzie-rosman",
+      "name": "Mackenzie Rosman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q589942",
+      "slug": "george-stults",
+      "name": "George Stults",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350251",
+      "slug": "adam-lavorgna",
+      "name": "Adam LaVorgna",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269673",
+      "slug": "rachel-blanchard",
+      "name": "Rachel Blanchard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1068591",
+      "slug": "chaz-lamar-shepherd",
+      "name": "Chaz Lamar Shepherd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q213521",
+      "slug": "ashlee-simpson",
+      "name": "Ashlee Simpson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189140",
+      "slug": "jeremy-london",
+      "name": "Jeremy London",
+      "role": "actor"
+    },
+    {
+      "qid": "Q469321",
+      "slug": "maureen-flannigan",
+      "name": "Maureen Flannigan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15053601",
+      "slug": "nikolas-brino",
+      "name": "Nikolas Brino",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q510376",
+    "slug": "brenda-hampton",
+    "name": "Brenda Hampton",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 11:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

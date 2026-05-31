@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jonathan-adams",
+  "name": "Jonathan Adams",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-07-16",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q983873",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jonathan_Adams_(acteur_am%C3%A9ricain)",
+    "imdb": "nm0011095",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "bones",
+      "title": "Bones"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

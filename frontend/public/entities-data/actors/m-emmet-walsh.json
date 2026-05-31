@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "m-emmet-walsh",
+  "name": "M. Emmet Walsh",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/M%20Emmet%20Walsh%20LF.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1935-03-22",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de genre",
+  "externalIds": {
+    "wikidata": "Q498420",
+    "wikipedia": "https://fr.wikipedia.org/wiki/M._Emmet_Walsh",
+    "imdb": "nm0001826",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-recidiviste",
+      "title": "Le récidiviste"
+    },
+    {
+      "type": "film",
+      "slug": "le-roi-scorpion-4-la-quete-du-pouvoir",
+      "title": "Le roi Scorpion 4 : la quête du pouvoir"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

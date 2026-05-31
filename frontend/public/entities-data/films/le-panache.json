@@ -1,0 +1,95 @@
+{
+  "type": "film",
+  "slug": "le-panache",
+  "title": "Le Panache",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le Panache"
+  ],
+  "genres": [
+    "comédie dramatique"
+  ],
+  "description": "Colin, âgé de 14 ans, ne peut pas cacher son inquiétude alors qu'il fait sa rentrée dans un nouveau collège. En effet, l'adolescent craint de devenir la cible des moqueries de ses camarades lorsque ces derniers découvriront qu'il est bègue. Sa rencontre avec monsieur Devarseau, son charismatique professeur de français, va le pousser à affronter ses peurs et, par la même occasion, à sortir de son isolement. Après seulement quelques semaines de cours, Colin a désormais une bande de copains fidèles, mais aussi et surtout un projet : monter sur scène pour jouer Cyrano devant toute l'école...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2ce12171-2240-402e-8332-aef67c023468",
+      "title": "Le Panache",
+      "programSlug": "le-panache",
+      "programUrl": "/programme/cine-family/le-panache",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 09:55:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8d6fda4a-a1c7-4571-b534-ce3fe8708cc4",
+      "title": "Le Panache",
+      "programSlug": "le-panache",
+      "programUrl": "/programme/cine-family/le-panache",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 12:56:00+00",
+      "endTime": "2026-04-23 14:26:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 93,
+  "cast": [
+    {
+      "qid": "Q778451",
+      "slug": "jose-garcia",
+      "name": "José Garcia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q291521",
+      "slug": "aure-atika",
+      "name": "Aure Atika",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131342364",
+      "slug": "maxime-de-toledo",
+      "name": "Maxime de Toledo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3177048",
+    "slug": "jennifer-devoldere",
+    "name": "Jennifer Devoldère",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 09:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

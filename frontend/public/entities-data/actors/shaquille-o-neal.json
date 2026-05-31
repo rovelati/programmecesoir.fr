@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "shaquille-o-neal",
+  "name": "Shaquille O'Neal",
+  "worksCount": 1,
+  "description": "joueur de basket-ball américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shaquille%20O'Neal%20October%202017%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-03-06",
+  "nationality": "États-Unis",
+  "jobTitle": "basketteur ou basketteuse",
+  "externalIds": {
+    "wikidata": "Q169452",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Shaquille_O'Neal",
+    "imdb": "nm0641944",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "famille-recomposee",
+      "title": "Famille recomposée"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

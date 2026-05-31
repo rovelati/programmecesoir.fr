@@ -1,0 +1,50 @@
+{
+  "type": "actor",
+  "slug": "sabine-azema",
+  "name": "Sabine Azéma",
+  "worksCount": 4,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AZEMA%20Sabine%20H-24x30-1996%20crop.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1949-09-20",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q106592",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sabine_Az%C3%A9ma",
+    "imdb": "nm0044535",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "raid-dingue",
+      "title": "Raid dingue"
+    },
+    {
+      "type": "film",
+      "slug": "un-dimanche-a-la-campagne",
+      "title": "Un dimanche à la campagne"
+    },
+    {
+      "type": "film",
+      "slug": "la-buche",
+      "title": "La bûche"
+    },
+    {
+      "type": "film",
+      "slug": "ma-famille-t-adore-deja",
+      "title": "Ma famille t'adore déjà"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

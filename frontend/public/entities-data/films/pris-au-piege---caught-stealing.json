@@ -1,0 +1,92 @@
+{
+  "type": "film",
+  "slug": "pris-au-piege---caught-stealing",
+  "title": "Pris au piège - Caught Stealing",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Pris au piège - Caught Stealing"
+  ],
+  "genres": [
+    "Cinema",
+    "Film de suspense"
+  ],
+  "description": "Ancien champion de baseball au lycée, Hank Thompson ne peut plus jouer. Depuis, il s'est reconverti comme barman de nuit dans un bar miteux à New York. Quand Russ, son voisin punk, lui demande de s'occuper de son chat pendant quelques jours, Hank ignore qu'il va se retrouver pourchassé par des gangsters...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4e7ec4d8-a9c6-4d75-8065-4cef16772e43",
+      "title": "Pris au piège - Caught Stealing",
+      "programSlug": "pris-au-piege-caught-stealing",
+      "programUrl": "/programme/canal-box-office/pris-au-piege-caught-stealing",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 14:58:00+00",
+      "endTime": "2026-04-19 16:43:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "72ddbd3d-7472-4d2d-999c-2f1d5586a684",
+      "title": "Pris au piège - Caught Stealing",
+      "programSlug": "pris-au-piege-caught-stealing",
+      "programUrl": "/programme/canal/pris-au-piege-caught-stealing",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-23 14:52:00+00",
+      "endTime": "2026-04-23 16:36:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "61d45ac3-1de9-40ea-8b8d-d8703b29dcdc",
+      "title": "Pris au piège - Caught Stealing",
+      "programSlug": "pris-au-piege-caught-stealing",
+      "programUrl": "/programme/canal-box-office/pris-au-piege-caught-stealing",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 15:11:00+00",
+      "endTime": "2026-04-25 16:55:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 14:58:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

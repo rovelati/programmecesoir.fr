@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "victor-mclaglen",
+  "name": "Victor McLaglen",
+  "worksCount": 2,
+  "description": "acteur britannique du XXe siècle",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Victor%20McLaglen%2C%201935.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1886-12-10",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q329577",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Victor_McLaglen",
+    "imdb": "nm0572142",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-charge-heroique",
+      "title": "La charge héroïque"
+    },
+    {
+      "type": "film",
+      "slug": "le-massacre-de-fort-apache",
+      "title": "Le massacre de Fort Apache"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

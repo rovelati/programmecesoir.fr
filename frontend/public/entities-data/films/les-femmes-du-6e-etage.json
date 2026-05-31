@@ -1,0 +1,156 @@
+{
+  "type": "film",
+  "slug": "les-femmes-du-6e-etage",
+  "title": "Les femmes du 6e étage",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Les femmes du 6e étage"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Paris, dans les années 1960. Jean-Louis Joubert est agent de change. Sa vie est terne, tout comme sa femme, Suzanne, et sa progéniture, deux fils, exilés quelque part en pension. La démission de la bonne, d'origine bretonne, conduit Suzanne à recruter une Espagnole débarquée de fraîche date, Maria. Très vite, Suzanne se montre satisfaite des services de Maria, une experte du ménage. Jean-Louis, lui, est sensible à son charme. Il découvre que la jolie bonne vit au 6e étage de leur immeuble, avec toute une tribu d'employées espagnoles, dont sa tante. Et Jean-Louis commence à grimper de plus en plus souvent au 6e étage, tout d'abord pour rendre service, puis pour son plaisir propre...",
+  "descriptionAi": "Cette comédie légère et charmante nous plonge dans le Paris des années 1960. Le film dépeint avec tendresse et humour la rencontre entre un bourgeois français, Jean-Louis, et une communauté de bonnes espagnoles vivant sous les toits. L'ambiance est chaleureuse et nostalgique, portée par des personnages attachants. L'intérêt réside dans ce délicieux contraste des mondes et la transformation joyeuse d'un homme à travers des rencontres inattendues et pleines de vie. Une parenthèse ensoleillée et réconfortante à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q2700632",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Les_Femmes_du_6e_%C3%A9tage",
+    "imdb": "tt1805297",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:27.192Z",
+  "year": 2010,
+  "durationMinutes": 107,
+  "cast": [
+    {
+      "qid": "Q620118",
+      "slug": "fabrice-luchini",
+      "name": "Fabrice Luchini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262822",
+      "slug": "sandrine-kiberlain",
+      "name": "Sandrine Kiberlain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234807",
+      "slug": "carmen-maura",
+      "name": "Carmen Maura",
+      "role": "actor"
+    },
+    {
+      "qid": "Q283513",
+      "slug": "lola-duenas",
+      "name": "Lola Dueñas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851684",
+      "slug": "annie-mercier",
+      "name": "Annie Mercier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457089",
+      "slug": "audrey-fleurot",
+      "name": "Audrey Fleurot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17176312",
+      "slug": "laurent-claret",
+      "name": "Laurent Claret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3291554",
+      "slug": "marie-armelle-deguy",
+      "name": "Marie-Armelle Deguy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3311621",
+      "slug": "michele-gleizer",
+      "name": "Michèle Gleizer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275949",
+      "slug": "natalia-verbeke",
+      "name": "Natalia Verbeke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3369254",
+      "slug": "patrick-bonnel",
+      "name": "Patrick Bonnel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3381025",
+      "slug": "philippe-du-janerand",
+      "name": "Philippe du Janerand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3379789",
+      "slug": "philippe-duquesne",
+      "name": "Philippe Duquesne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3524448",
+      "slug": "thierry-nenez",
+      "name": "Thierry Nenez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3559766",
+      "slug": "vincent-nemeth",
+      "name": "Vincent Nemeth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8247024",
+      "slug": "berta-ojea",
+      "name": "Berta Ojea",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q961970",
+    "slug": "philippe-le-guay",
+    "name": "Philippe Le Guay",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

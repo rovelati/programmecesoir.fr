@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "avant-l-effondrement",
+  "title": "Avant l'effondrement",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Avant l'effondrement"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Paris, en pleine canicule. Tristan est le directeur de campagne de Naïma Bouhoune, une candidate aux élections législatives. Un jour, il reçoit un courrier anonyme contenant un test de grossesse positif. Il se lance dans une enquête pour découvrir l'identité de la femme à l'origine de ce courrier. Atteint d'une maladie incurable, Tristan tente de comprendre les raisons qui ont amené cette inconnue à lui envoyer ce test. Il se demande notamment si ce geste n'a pas un lien avec la campagne politique, ou si c'est une vengeance. Il part alors dans un périple pour démêler le vrai du faux dans cette histoire…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "channelNumber": 2,
+      "logoUrl": "/loghi/france-2.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2023,
+  "durationMinutes": 100,
+  "cast": [],
+  "director": {
+    "qid": "Q2836679",
+    "slug": "alice-zeniter",
+    "name": "Alice Zeniter",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

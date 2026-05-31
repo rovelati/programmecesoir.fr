@@ -1,0 +1,122 @@
+{
+  "type": "film",
+  "slug": "demineurs",
+  "title": "Démineurs",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Démineurs"
+  ],
+  "genres": [
+    "thriller d'action",
+    "film et téléfilm de guerre",
+    "cinéma indépendant",
+    "drame",
+    "film et téléfilm d'action"
+  ],
+  "description": "A Bagdad, le sergent-chef James vient d'être nommé à la tête de la meilleure équipe de déminage de l'armée américaine. La mission de ses hommes est l'une des plus dangereuses qui soient : désamorcer des bombes. James surprend deux de ses subordonnés, Sanborn et Eldridge, par ses méthodes peu orthodoxes. Le sous-officier ne semble pas avoir peur de la mort et entraîne ses hommes dans des missions toujours plus dangereuses, sans vraiment se soucier de leur sécurité. Grisé par le danger, James est impossible à canaliser. Lorsque la ville plonge dans le chaos de la guérilla urbaine, la vraie nature de James se révèle. Elle va marquer pour toujours ses subordonnés...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20hurt%20locker.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 131,
+  "cast": [
+    {
+      "qid": "Q23365",
+      "slug": "jeremy-renner",
+      "name": "Jeremy Renner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q511554",
+      "slug": "anthony-mackie",
+      "name": "Anthony Mackie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460563",
+      "slug": "brian-geraghty",
+      "name": "Brian Geraghty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q456291",
+      "slug": "christian-camargo",
+      "name": "Christian Camargo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q160392",
+      "slug": "evangeline-lilly",
+      "name": "Evangeline Lilly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28493",
+      "slug": "ralph-fiennes",
+      "name": "Ralph Fiennes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223745",
+      "slug": "guy-pearce",
+      "name": "Guy Pearce",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296370",
+      "slug": "david-morse",
+      "name": "David Morse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3330735",
+      "slug": "malcolm-barrett",
+      "name": "Malcolm Barrett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1433961",
+      "slug": "sam-spruell",
+      "name": "Sam Spruell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q102632704",
+      "slug": "suhail-dabbach",
+      "name": "Suhail Dabbach",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q34816",
+    "slug": "kathryn-bigelow",
+    "name": "Kathryn Bigelow",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

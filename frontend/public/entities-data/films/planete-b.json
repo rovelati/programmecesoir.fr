@@ -1,0 +1,112 @@
+{
+  "type": "film",
+  "slug": "planete-b",
+  "title": "Planète B",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Planète B"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "En 2039, la France vit sous la coupe d'un régime totalitaire. Une nuit, des activistes traqués par l'Etat disparaissent sans laisser aucune trace. Julia Bombarth se trouve parmi eux. Elle se réveille enfermée dans un monde totalement inconnu dont elle ne tarde pas à découvrir le nom : Planète B. Quant à sa nature, Julia finira par l'apprendre bien assez tôt.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 118,
+  "cast": [
+    {
+      "qid": "Q2825427",
+      "slug": "q2825427",
+      "name": "Q2825427",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3491566",
+      "slug": "souheila-yacoub",
+      "name": "Souheila Yacoub",
+      "role": "actor"
+    },
+    {
+      "qid": "Q48847547",
+      "slug": "eliane-umuhire",
+      "name": "Eliane Umuhire",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15069815",
+      "slug": "india-hair",
+      "name": "India Hair",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3287782",
+      "slug": "marc-barbe",
+      "name": "Marc Barbé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q124898319",
+      "slug": "paul-beaurepaire",
+      "name": "Paul Beaurepaire",
+      "role": "actor"
+    },
+    {
+      "qid": "Q124338564",
+      "slug": "leo-chalie",
+      "name": "Léo Chalié",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27535445",
+      "slug": "theo-cholbi",
+      "name": "Théo Cholbi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q100530406",
+      "slug": "jonathan-couzinie",
+      "name": "Jonathan Couzinié",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3524303",
+      "slug": "thierry-hancisse",
+      "name": "Thierry Hancisse",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q63378729",
+    "slug": "aude-lea-rapin",
+    "name": "Aude Léa Rapin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

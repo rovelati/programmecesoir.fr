@@ -1,0 +1,176 @@
+{
+  "type": "film",
+  "slug": "la-haine",
+  "title": "La haine",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La haine",
+    "La Haine"
+  ],
+  "genres": [
+    "drame",
+    "hood film",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Une émeute éclate dans la cité des Muguets, à la suite d'une bavure policière. Au petit matin, trois copains se retrouvent. Il y a là Vinz, un apôtre de la haine comme méthode de survie, très fier d'avoir récupéré le pistolet perdu par un policier, Saïd, un petit délinquant, et Hubert, un jeune boxeur impliqué dans l'action associative pacifiste, désolé de voir la salle d'entraînement qu'il a créée complètement ravagée par les émeutiers. Pour récupérer 500 francs, le trio arrive à Paris, chez un cocaïnomane. A leur sortie de l'immeuble, ils sont interpellés par des inspecteurs de police. Vinz parvient à prendre la fuite, pendant que ses amis subissent un interrogatoire humiliant dans un commissariat. Un peu plus tard, traînant sur un quai de gare, les trois banlieusards rebroussent chemin et errent dans Paris...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e419f7ba-5d34-4c12-a31c-0d7416d4294c",
+      "title": "La haine",
+      "programSlug": "la-haine",
+      "programUrl": "/programme/cine-frisson/la-haine",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 03:12:00+00",
+      "endTime": "2026-04-23 04:47:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6e5831e2-3e06-474b-8a69-e932d89c80ea",
+      "title": "La haine",
+      "programSlug": "la-haine",
+      "programUrl": "/programme/cine-frisson/la-haine",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 02:51:00+00",
+      "endTime": "2026-04-25 04:26:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1995,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q193504",
+      "slug": "vincent-cassel",
+      "name": "Vincent Cassel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q373034",
+      "slug": "said-taghmaoui",
+      "name": "Saïd Taghmaoui",
+      "role": "actor"
+    },
+    {
+      "qid": "Q491766",
+      "slug": "mathieu-kassovitz",
+      "name": "Mathieu Kassovitz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q539703",
+      "slug": "benoit-magimel",
+      "name": "Benoît Magimel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q557272",
+      "slug": "vincent-lindon",
+      "name": "Vincent Lindon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271944",
+      "slug": "karin-viard",
+      "name": "Karin Viard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q921928",
+      "slug": "hubert-kounde",
+      "name": "Hubert Koundé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848938",
+      "slug": "andree-damant",
+      "name": "Andrée Damant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2899054",
+      "slug": "bernie-bonvoisin",
+      "name": "Bernie Bonvoisin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2966467",
+      "slug": "christophe-rossignon",
+      "name": "Christophe Rossignon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1160865",
+      "slug": "cut-killer",
+      "name": "Cut Killer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q274398",
+      "slug": "edouard-montoute",
+      "name": "Édouard Montoute",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3092317",
+      "slug": "felicite-wouassi",
+      "name": "Félicité Wouassi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q658664",
+      "slug": "francois-levantal",
+      "name": "François Levantal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3085922",
+      "slug": "francois-toumarkine",
+      "name": "François Toumarkine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3144684",
+      "slug": "heloise-rauth",
+      "name": "Héloïse Rauth",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q491766",
+    "slug": "mathieu-kassovitz",
+    "name": "Mathieu Kassovitz",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 03:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

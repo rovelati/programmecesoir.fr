@@ -1,0 +1,152 @@
+{
+  "type": "actor",
+  "slug": "harry-lennix",
+  "name": "Harry Lennix",
+  "worksCount": 5,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Lennix%20by%20Gage%20Skidmore.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-11-16",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q608709",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Harry_Lennix",
+    "imdb": "nm0502015",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "matrix-reloaded",
+      "title": "Matrix Reloaded"
+    },
+    {
+      "type": "film",
+      "slug": "matrix-revolutions",
+      "title": "Matrix Revolutions"
+    },
+    {
+      "type": "film",
+      "slug": "man-of-steel",
+      "title": "Man of Steel"
+    },
+    {
+      "type": "film",
+      "slug": "zack-snyder-s-justice-league",
+      "title": "Zack Snyder's Justice League"
+    },
+    {
+      "type": "series",
+      "slug": "blacklist",
+      "title": "Blacklist"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c6640e-5371-434d-a569-01e9fd4211a2",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/canal-grand-ecran/man-of-steel",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 12:51:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "085ef5a4-7b14-4dbe-9472-f3ca746c33ef",
+      "title": "Zack Snyder's Justice League",
+      "programSlug": "zack-snyder-s-justice-league",
+      "programUrl": "/programme/canal-grand-ecran/zack-snyder-s-justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 15:10:00+00",
+      "endTime": "2026-04-19 19:04:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "17fe7c6b-e9f9-4106-97c1-5fa4634053c7",
+      "title": "Matrix Reloaded",
+      "programSlug": "matrix-reloaded",
+      "programUrl": "/programme/canal-grand-ecran/matrix-reloaded",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 14:02:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "58ff2527-6de2-41e5-933b-9240d15074a4",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 14:59:00+00",
+      "endTime": "2026-04-20 17:18:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "97362478-1d0e-4bb7-9ee9-c19e605c394f",
+      "title": "Matrix Revolutions",
+      "programSlug": "matrix-revolutions",
+      "programUrl": "/programme/canal-grand-ecran/matrix-revolutions",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 11:10:00+00",
+      "endTime": "2026-04-23 13:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "24919d3f-8d16-45dd-b094-513b5060d653",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 11:30:00+00",
+      "endTime": "2026-04-23 13:48:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "507f3ee3-8b87-438a-8e11-29fc7f98b316",
+      "title": "Blacklist",
+      "programSlug": "blacklist",
+      "programUrl": "/programme/club-rtl/blacklist",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-23 21:50:00+00",
+      "endTime": "2026-04-23 22:40:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "955b2c9a-fcb1-4fc5-91e8-ff9772fae3d7",
+      "title": "Matrix Revolutions",
+      "programSlug": "matrix-revolutions",
+      "programUrl": "/programme/canal-grand-ecran/matrix-revolutions",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 21:19:00+00",
+      "endTime": "2026-04-25 23:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 12:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

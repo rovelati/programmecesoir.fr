@@ -1,0 +1,108 @@
+{
+  "type": "series",
+  "slug": "au-bord-du-lac",
+  "title": "Au bord du lac",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Au bord du lac"
+  ],
+  "genres": [
+    "Série",
+    "Série TV"
+  ],
+  "description": "Vos enfants vont adorer se détendre avec les personnages de Baby TV dans un beau parc avec de la musique classique apaisante.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/babytv.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9ac1cf0c-b43e-458a-8204-4dc05e400eaf",
+      "title": "Au bord du lac",
+      "programSlug": "au-bord-du-lac",
+      "programUrl": "/programme/babytv/au-bord-du-lac",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 02:37:00+00",
+      "endTime": "2026-04-22 02:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "8d1ef4cd-cc2c-446e-9db7-d78f9bded315",
+      "title": "Au bord du lac",
+      "programSlug": "au-bord-du-lac",
+      "programUrl": "/programme/babytv/au-bord-du-lac",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-23 02:37:00+00",
+      "endTime": "2026-04-23 02:40:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "621f7a41-6bd5-41f4-9354-047c07e135e8",
+      "title": "Au bord du lac",
+      "programSlug": "au-bord-du-lac",
+      "programUrl": "/programme/babytv/au-bord-du-lac",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-24 02:37:00+00",
+      "endTime": "2026-04-24 02:40:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "09323c35-13f2-4659-b337-df1f99d2d65d",
+      "title": "Au bord du lac",
+      "programSlug": "au-bord-du-lac",
+      "programUrl": "/programme/babytv/au-bord-du-lac",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-25 02:37:00+00",
+      "endTime": "2026-04-25 02:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "6f2bfce1-c458-40ab-aca6-0284efd32199",
+      "title": "Au bord du lac",
+      "programSlug": "au-bord-du-lac",
+      "programUrl": "/programme/babytv/au-bord-du-lac",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-26 02:37:00+00",
+      "endTime": "2026-04-26 02:40:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1857,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-22 02:37:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

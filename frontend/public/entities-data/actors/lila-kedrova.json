@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "lila-kedrova",
+  "name": "Lila Kedrova",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lila%20Kedrova%20(1965).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1918-10-09",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q232879",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lila_Kedrova",
+    "imdb": "nm0444321",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "razzia-sur-la-chnouf",
+      "title": "Razzia sur la chnouf"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

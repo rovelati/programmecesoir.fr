@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "stewart-granger",
+  "name": "Stewart Granger",
+  "worksCount": 1,
+  "description": "acteur britannique, XXe siècle",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stewart%20Granger%201970.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1913-05-06",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q310150",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Stewart_Granger",
+    "imdb": "nm0001289",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-contrebandiers-de-moonfleet",
+      "title": "Les contrebandiers de Moonfleet"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dd2a8b3e-41ba-4d80-9d21-6d69a77679bb",
+      "title": "Les contrebandiers de Moonfleet",
+      "programSlug": "les-contrebandiers-de-moonfleet",
+      "programUrl": "/programme/cine-classic/les-contrebandiers-de-moonfleet",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-22 10:06:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 10:06:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

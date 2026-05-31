@@ -1,0 +1,66 @@
+{
+  "type": "actor",
+  "slug": "wes-studi",
+  "name": "Wes Studi",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wes%20Studi%20visiting%20with%20Gavin%20Newsom%20-%202019%2003.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1947-12-17",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q350819",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Wes_Studi",
+    "imdb": "nm0836071",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "heat",
+      "title": "Heat"
+    },
+    {
+      "type": "film",
+      "slug": "hostiles",
+      "title": "Hostiles"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f16e334c-8387-422b-8b9f-2172bd621195",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/canal-grand-ecran/hostiles",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 09:30:00+00",
+      "endTime": "2026-04-20 11:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4dacd68f-e0db-4701-b856-27454c5900bc",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/cine-frisson/hostiles",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:39:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 09:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

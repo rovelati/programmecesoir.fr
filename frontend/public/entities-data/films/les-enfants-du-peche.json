@@ -1,0 +1,86 @@
+{
+  "type": "film",
+  "slug": "les-enfants-du-peche",
+  "title": "Les enfants du péché",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Les enfants du péché"
+  ],
+  "genres": [
+    "thriller",
+    "drame",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Dix ans après leur fuite du grenier où leur mère les cachaient, ne voulant pas, pour hériter de son père, que leur grand-père connaisse leur existence, Cathy, Christopher et Carrie enterrent Paul, le généreux docteur qui les a recueillis et élevés. Cathy fait la connaissance du fils de sa professeur de danse, Julian, qui la séduit et lui propose de le suivre à New York...\n\nRéalisateur(s) : Karen Moncrieff\nActeurs : Heather Graham (Corrine), Rose McIver (Cathy), Ellen Burstyn (Olivia Foxworth), Wyatt Nash (Christopher junior), Bailey Buntain (Carrie), Nick Searcy (le docteur Reeves), Dylan Bruce (Bart Winslow), Will Kemp (Julian Marquet), Whitney Hoy (Sarah Reeves), Ellia English (Henny), Ravil Isyanov (George Korov), Ross Philips (Alex Conroy), Skyler Vallo (Lacy St. Morgan), Molly Hagan (Miss Calhoun), Helen Nasillski (Ballet Teacher), Stephanie Kim (Yolanda Lange), Jesse Einstein (Ed), John Paul Green (Jack), Megan Easton (Ashley), Angela Sprinkle (Carol - Ballet Mother), Terryn Westbrook (Barbara), Guerin Piercy (Judith), Kathryn Leigh Scott (Society Lady), Johnny Sneed (Contractor), Brody Hutzler (Male Guest), Ptosha Storey (Nurse), Jake Vaughn (Bart), Alec Salomon (Jory), Andrew Pirozzi (Male Dancer), Natasha Kalimada (Female Dancer)",
+  "descriptionAi": "Ce thriller dramatique, adaptation d'un roman au cinéma, plonge le téléspectateur dans une atmosphère lourde de secrets familiaux et de séquelles du passé. Dix ans après leur libération, les enfants Foxworth tentent de construire leur vie, mais les ombres de l'héritage et de la trahison les rattrapent. L'intrigue se noue autour de Cathy, séduite par un homme qui lui promet une nouvelle vie, tandis que les liens fraternels sont mis à l'épreuve. Le film captive par son exploration des traumatismes et la complexité de ses personnages, tous prisonniers d'un destin qu'ils cherchent à fuir. Une plongée troublante dans les recoins d'une famille maudite, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-series.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-1.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q16872572",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Les_Enfants_du_p%C3%A9ch%C3%A9",
+    "imdb": "tt3074694",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:19.970Z",
+  "year": 2014,
+  "durationMinutes": 89,
+  "cast": [
+    {
+      "qid": "Q224026",
+      "slug": "heather-graham",
+      "name": "Heather Graham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q439939",
+      "slug": "kiernan-shipka",
+      "name": "Kiernan Shipka",
+      "role": "actor"
+    },
+    {
+      "qid": "Q211144",
+      "slug": "ellen-burstyn",
+      "name": "Ellen Burstyn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23774001",
+      "slug": "mason-dye",
+      "name": "Mason Dye",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q18763959",
+    "slug": "deborah-chow",
+    "name": "Deborah Chow",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,272 @@
+{
+  "type": "series",
+  "slug": "mon-robot-et-moi",
+  "title": "Mon robot et moi",
+  "airingsCount": 230,
+  "sourceTitles": [
+    "Mon robot et moi"
+  ],
+  "genres": [
+    "Série",
+    "Série TV"
+  ],
+  "description": "Le quotidien d'une bande de copains, tous élèves d'une école de robotique high-tech. Dirigée par l'incompétent et fantasque M. Nikils, cet établissement réserve bien des surprises. Eugène, le leader de la bande, est un petit génie de robotique passionné par ses multiples inventions, qui a fabriqué son propre robot, l'exceptionnel Chip.",
+  "descriptionAi": "Cette série d'animation familiale mêle humour et aventure dans un cadre scolaire futuriste. On suit le quotidien d'Eugène et de ses amis, élèves d'une école de robotique dirigée par l'extravagant M. Nikils. L'ambiance est à la fois loufoque et chaleureuse, rythmée par les inventions souvent imprévisibles du jeune génie. L'intérêt réside dans la relation unique et touchante entre Eugène et son robot, Chip, qui transforme chaque défi quotidien en une expérience extraordinaire. Une aventure pleine de cœur et de technologie à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv-pitchoun.webp",
+      "airingsCount": 145
+    },
+    {
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/babytv.png",
+      "airingsCount": 85
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "635c6b13-eb5f-4e8e-9e8c-7eb3d3352834",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/babytv/mon-robot-et-moi",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 07:49:00+00",
+      "endTime": "2026-04-19 07:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9cfb77f6-4e34-4e3a-8de1-b00c6b724b1f",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/tv-pitchoun/mon-robot-et-moi",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-19 09:03:00+00",
+      "endTime": "2026-04-19 09:16:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e5ec3589-1f8a-4767-a92f-aea1774bcb5b",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/babytv/mon-robot-et-moi",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 10:41:00+00",
+      "endTime": "2026-04-19 10:47:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b45d1cb0-6d28-41e0-9c79-1c717618bf7a",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/tv-pitchoun/mon-robot-et-moi",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-19 11:10:00+00",
+      "endTime": "2026-04-19 11:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "005b0d9a-b8b0-49da-80c6-8c838c7c561f",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/babytv/mon-robot-et-moi",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 13:57:00+00",
+      "endTime": "2026-04-19 14:04:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b4406b06-41fd-491b-ac2c-f6bdb2a6ec05",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/babytv/mon-robot-et-moi",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 16:15:00+00",
+      "endTime": "2026-04-19 16:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "98dacdbf-f091-4f48-b2c7-f4f4b4c8d219",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/tv-pitchoun/mon-robot-et-moi",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-19 17:48:00+00",
+      "endTime": "2026-04-19 18:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7e692f3b-5883-47c3-a49a-1f63fddfd497",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/tv-pitchoun/mon-robot-et-moi",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-19 19:05:00+00",
+      "endTime": "2026-04-19 19:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c2a580cd-e148-42fa-8c5c-dc65fa3a6fb6",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/tv-pitchoun/mon-robot-et-moi",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-19 21:35:00+00",
+      "endTime": "2026-04-19 22:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "070abfa4-cacd-4a48-b3f1-98c0e21fbbf2",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/tv-pitchoun/mon-robot-et-moi",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-19 23:35:00+00",
+      "endTime": "2026-04-20 00:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c8970972-2c50-45f5-9e00-2a1993e9e73f",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/tv-pitchoun/mon-robot-et-moi",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-20 02:35:00+00",
+      "endTime": "2026-04-20 03:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "25e98a3a-0163-47fe-9f92-aeecfab1fada",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/tv-pitchoun/mon-robot-et-moi",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-20 04:40:00+00",
+      "endTime": "2026-04-20 05:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "1a1c96bc-6a9a-44df-9cdf-7b3965773296",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/babytv/mon-robot-et-moi",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 05:24:00+00",
+      "endTime": "2026-04-20 05:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "454bbd4a-de48-483b-91a7-332a9eebd2b7",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/babytv/mon-robot-et-moi",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 07:42:00+00",
+      "endTime": "2026-04-20 07:48:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "879d390d-dddb-49c5-9e76-46a6e0d69e44",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/tv-pitchoun/mon-robot-et-moi",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-20 09:03:00+00",
+      "endTime": "2026-04-20 09:16:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2b5b95f9-a7b0-4e42-a411-f9fc64330d04",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/babytv/mon-robot-et-moi",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 10:35:00+00",
+      "endTime": "2026-04-20 10:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "925647d9-8682-4bf1-b111-2a9b512a056b",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/tv-pitchoun/mon-robot-et-moi",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-20 11:10:00+00",
+      "endTime": "2026-04-20 11:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "beb733d2-1e87-4c30-aa11-e9b76858530b",
+      "title": "Mon robot et moi",
+      "programSlug": "mon-robot-et-moi",
+      "programUrl": "/programme/babytv/mon-robot-et-moi",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 13:56:00+00",
+      "endTime": "2026-04-20 14:01:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:26.515Z",
+  "startYear": null,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 07:49:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

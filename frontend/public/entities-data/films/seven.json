@@ -1,0 +1,186 @@
+{
+  "type": "film",
+  "slug": "seven",
+  "title": "Seven",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Seven"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film et téléfilm d'horreur",
+    "film de copains policiers",
+    "film ou téléfilm à énigme",
+    "drame",
+    "thriller",
+    "film de détective",
+    "film à suspense",
+    "film d'horreur psychologique",
+    "film policier dramatique",
+    "film et téléfilm d'action",
+    "thriller policier",
+    "thriller psychologique",
+    "film ou téléfilm d'aventure",
+    "drame psychologique",
+    "cinéma indépendant",
+    "Chase Films",
+    "police procedural film"
+  ],
+  "description": "Alors qu'il se prépare à partir à la retraite, l'inspecteur William Somerset voit débarquer son nouvel équipier, le jeune David Mills. Ensemble, ils doivent s'occuper d'une affaire sordide, qui les entraîne sur les traces d'un diabolique tueur en série qui s'inspire des sept péchés capitaux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ab1d9aeb-8d42-4706-a32c-0ad6ff04a0da",
+      "title": "Seven",
+      "programSlug": "seven",
+      "programUrl": "/programme/cine-frisson/seven",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 21:04:00+00",
+      "endTime": "2026-04-20 23:08:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1995,
+  "durationMinutes": 127,
+  "cast": [
+    {
+      "qid": "Q35332",
+      "slug": "brad-pitt",
+      "name": "Brad Pitt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q48337",
+      "slug": "morgan-freeman",
+      "name": "Morgan Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q34460",
+      "slug": "gwyneth-paltrow",
+      "name": "Gwyneth Paltrow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q25144",
+      "slug": "kevin-spacey",
+      "name": "Kevin Spacey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q353978",
+      "slug": "r-lee-ermey",
+      "name": "R. Lee Ermey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316032",
+      "slug": "john-c-mcginley",
+      "name": "John C. McGinley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q446493",
+      "slug": "richard-roundtree",
+      "name": "Richard Roundtree",
+      "role": "actor"
+    },
+    {
+      "qid": "Q355209",
+      "slug": "richard-schiff",
+      "name": "Richard Schiff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q526468",
+      "slug": "michael-massee",
+      "name": "Michael Massee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1320006",
+      "slug": "leland-orser",
+      "name": "Leland Orser",
+      "role": "actor"
+    },
+    {
+      "qid": "Q718382",
+      "slug": "mark-boone-junior",
+      "name": "Mark Boone Junior",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7173458",
+      "slug": "peter-crombie",
+      "name": "Peter Crombie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16237544",
+      "slug": "hawthorne-james",
+      "name": "Hawthorne James",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3361195",
+      "slug": "richard-portnow",
+      "name": "Richard Portnow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q505689",
+      "slug": "andrew-kevin-walker",
+      "name": "Andrew Kevin Walker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1333793",
+      "slug": "harris-savides",
+      "name": "Harris Savides",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q184903",
+    "slug": "david-fincher",
+    "name": "David Fincher",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 21:04:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

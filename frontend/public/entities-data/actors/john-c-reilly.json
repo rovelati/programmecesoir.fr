@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "john-c-reilly",
+  "name": "John C. Reilly",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JohnCReillyJune09.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-05-24",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q223110",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_C._Reilly",
+    "imdb": "nm0000604",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "outrages",
+      "title": "Outrages"
+    },
+    {
+      "type": "film",
+      "slug": "boogie-nights",
+      "title": "Boogie Nights"
+    },
+    {
+      "type": "film",
+      "slug": "magnolia",
+      "title": "Magnolia"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

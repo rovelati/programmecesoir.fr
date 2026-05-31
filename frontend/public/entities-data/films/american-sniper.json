@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "american-sniper",
+  "title": "American Sniper",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "American Sniper"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film et téléfilm de guerre",
+    "film ou téléfilm biographique",
+    "drame",
+    "film basé sur des livres"
+  ],
+  "description": "Né à Odessa, petite ville du Texas, Chris Kyle est un trentenaire désoeuvré. Espérant devenir cow-boy, il voudrait donner un sens à sa vie. Les attentats terroristes perpétrés en 1998 contre les Etats-Unis l'incitent alors à s'engager dans l'armée. Repéré par ses supérieurs pour son talent au tir, il est envoyé en Irak comme sniper. Très intuitif, Chris parvient à identifier et tuer des opposants prêts à tout pour repousser la présence occidentale. Il fait mouche dans des conditions extrêmes. Durant la bataille de Falloujah, il abat quarante combattants ennemis. Peu à peu, il devient une légende aux Etats-Unis. Tourmenté par les civils qu'il abat sur place, il revient au pays sans parvenir à retrouver sa place auprès de sa femme Taya et de leurs enfants. Très vite, il retourne en Irak où il se sent plus utile...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American-sniper-logo.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "novo19",
+      "channelName": "NOVO19",
+      "channelSlug": "novo19",
+      "channelNumber": null,
+      "logoUrl": "/loghi/novo19.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 132,
+  "cast": [
+    {
+      "qid": "Q205707",
+      "slug": "bradley-cooper",
+      "name": "Bradley Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193458",
+      "slug": "sienna-miller",
+      "name": "Sienna Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1060344",
+      "slug": "luke-grimes",
+      "name": "Luke Grimes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q549948",
+      "slug": "jake-mcdorman",
+      "name": "Jake McDorman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q704395",
+      "slug": "kyle-gallner",
+      "name": "Kyle Gallner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2083541",
+      "slug": "max-charles",
+      "name": "Max Charles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q382094",
+      "slug": "sam-jaeger",
+      "name": "Sam Jaeger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1738023",
+      "slug": "keir-o-donnell",
+      "name": "Keir O'Donnell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q264946",
+      "slug": "marnette-patterson",
+      "name": "Marnette Patterson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6162640",
+      "slug": "jason-hall",
+      "name": "Jason Hall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1709931",
+      "slug": "billy-miller",
+      "name": "Billy Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q361604",
+      "slug": "leonard-roberts",
+      "name": "Leonard Roberts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5173585",
+      "slug": "cory-hardrict",
+      "name": "Cory Hardrict",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5386930",
+      "slug": "eric-ladin",
+      "name": "Eric Ladin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q898100",
+      "slug": "brando-eaton",
+      "name": "Brando Eaton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7409827",
+      "slug": "sammy-sheik",
+      "name": "Sammy Sheik",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q43203",
+    "slug": "clint-eastwood",
+    "name": "Clint Eastwood",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

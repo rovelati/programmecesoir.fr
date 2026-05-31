@@ -1,0 +1,77 @@
+{
+  "type": "film",
+  "slug": "la-plus-precieuse-des-marchandises",
+  "title": "La plus précieuse des marchandises",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "La plus précieuse des marchandises"
+  ],
+  "genres": [
+    "film d'animation",
+    "drame"
+  ],
+  "description": "Durant la Seconde Guerre mondiale, en Pologne. Un couple de pauvres bûcherons survit tant bien que mal à proximité d'un bois isolé. Le froid, la faim, la misère et, partout autour d'eux, le conflit qui fait rage, font de leur existence une bataille quotidienne. Un jour, l'épouse se rend dans la forêt afin de préparer des fagots et de tenter de mettre la main sur un peu de nourriture quand elle aperçoit un bébé enveloppé dans un châle, visiblement jeté depuis l'un des nombreux trains qui traversent sans cesse le bois. Cette petite \"marchandise\" va bouleverser la vie de cette femme, de son mari, et de tous ceux qui vont croiser son destin...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2c086d79-5adc-46a6-b1cd-fe7bcdf0935f",
+      "title": "La plus précieuse des marchandises",
+      "programSlug": "la-plus-precieuse-des-marchandises",
+      "programUrl": "/programme/cine-festival/la-plus-precieuse-des-marchandises",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 20:07:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "250d9542-6492-42c7-99cc-198874f4ae08",
+      "title": "La plus précieuse des marchandises",
+      "programSlug": "la-plus-precieuse-des-marchandises",
+      "programUrl": "/programme/cine-festival/la-plus-precieuse-des-marchandises",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-24 08:31:00+00",
+      "endTime": "2026-04-24 09:50:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 81,
+  "cast": [],
+  "director": {
+    "qid": "Q28556",
+    "slug": "michel-hazanavicius",
+    "name": "Michel Hazanavicius",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

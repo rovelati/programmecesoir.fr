@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "aubry-dullin",
+  "name": "Aubry Dullin",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aubry%20Dullin-5739.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q72107019",
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "crime-en-lozere",
+      "title": "Crime en Lozère"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6ade7e5f-7239-4ed7-8656-05761cd99f1e",
+      "title": "Crime en Lozère",
+      "programSlug": "crime-en-lozere",
+      "programUrl": "/programme/teva/crime-en-lozere",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-19 17:05:00+00",
+      "endTime": "2026-04-19 19:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 17:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "tony-goldwyn",
+  "name": "Tony Goldwyn",
+  "worksCount": 3,
+  "description": "acteur et cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TonyGoldwyn08.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-05-20",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q224754",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tony_Goldwyn",
+    "imdb": "nm0001282",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "une-bataille-apres-l-autre",
+      "title": "Une bataille après l'autre"
+    },
+    {
+      "type": "film",
+      "slug": "divergente",
+      "title": "Divergente"
+    },
+    {
+      "type": "film",
+      "slug": "le-collectionneur",
+      "title": "Le collectionneur"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8c551de2-3fe3-45ac-8dc9-d05085ae39b7",
+      "title": "Une bataille après l'autre",
+      "programSlug": "une-bataille-apres-l-autre",
+      "programUrl": "/programme/canal-box-office/une-bataille-apres-l-autre",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 11:14:00+00",
+      "endTime": "2026-04-20 13:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "928d1eb9-22c2-4dbf-9d58-21e9c5f19ed9",
+      "title": "Divergente",
+      "programSlug": "divergente",
+      "programUrl": "/programme/w9/divergente",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 19:25:00+00",
+      "endTime": "2026-04-20 21:50:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 11:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

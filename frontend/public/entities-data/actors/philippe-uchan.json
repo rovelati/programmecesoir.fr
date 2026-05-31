@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "philippe-uchan",
+  "name": "Philippe Uchan",
+  "worksCount": 2,
+  "description": "acteur et metteur en scène français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-01-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3380809",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Philippe_Uchan",
+    "imdb": "nm0399576",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "9-mois-ferme",
+      "title": "9 mois ferme"
+    },
+    {
+      "type": "film",
+      "slug": "bernie",
+      "title": "Bernie"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

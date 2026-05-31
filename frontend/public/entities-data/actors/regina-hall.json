@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "regina-hall",
+  "name": "Regina Hall",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Regina%20Hall%202014.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-12-12",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q235141",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Regina_Hall",
+    "imdb": "nm0356021",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "une-bataille-apres-l-autre",
+      "title": "Une bataille après l'autre"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8c551de2-3fe3-45ac-8dc9-d05085ae39b7",
+      "title": "Une bataille après l'autre",
+      "programSlug": "une-bataille-apres-l-autre",
+      "programUrl": "/programme/canal-box-office/une-bataille-apres-l-autre",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 11:14:00+00",
+      "endTime": "2026-04-20 13:50:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 11:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

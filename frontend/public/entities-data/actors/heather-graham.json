@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "heather-graham",
+  "name": "Heather Graham",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Heather%20Graham%2C%202011%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-01-29",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q224026",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Heather_Graham",
+    "imdb": "nm0001287",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-enfants-du-peche",
+      "title": "Les enfants du péché"
+    },
+    {
+      "type": "film",
+      "slug": "boogie-nights",
+      "title": "Boogie Nights"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

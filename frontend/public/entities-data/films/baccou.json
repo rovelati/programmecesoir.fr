@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "baccou",
+  "title": "Baccou",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Baccou"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Alors qu'il est sous surveillance électronique, Alassane participe à un combat clandestin, afin de récolter l'argent nécessaire pour offrir à sa mère son dernier voyage.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

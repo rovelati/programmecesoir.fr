@@ -1,0 +1,88 @@
+{
+  "type": "film",
+  "slug": "enzo",
+  "title": "Enzo",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Enzo"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Enzo, un adolescent de 16 ans issu d'une famille bourgeoise, est apprenti maçon à La Ciotat. Le père universitaire du garçon, qui le voyait faire des études supérieures, ne parvient pas à cacher son désarroi en voyant son fils emprunter un tout autre chemin. Enzo cherche à échapper au cadre confortable mais étouffant de la villa familiale, où les disputes sur son avenir sont monnaie courante. C'est sur les chantiers, au contact de Vlad, un collègue ukrainien, qu'Enzo va entrevoir un nouvel horizon...",
+  "descriptionAi": "Ce film dramatique français capte l'ambiance lumineuse et brute des chantiers méditerranéens. Il explore avec justesse le conflit générationnel et le désir d'émancipation d'un adolescent en quête d'identité, loin des projections parentales. L'intérêt réside dans la peinture sensible de cette amitié naissante et formative entre Enzo et Vlad, qui ouvre une fenêtre sur d'autres réalités sociales et personnelles. Une histoire touchante sur le choix de sa propre vie, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8b675f00-1f35-4047-adab-66c3fbb4eee1",
+      "title": "Enzo",
+      "programSlug": "enzo",
+      "programUrl": "/programme/paramount-channel/enzo",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-22 08:35:00+00",
+      "endTime": "2026-04-22 10:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7afefca4-a13b-4242-ac47-33b62fbd5307",
+      "title": "Enzo",
+      "programSlug": "enzo",
+      "programUrl": "/programme/canal-cinema/enzo",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 08:36:00+00",
+      "endTime": "2026-04-22 10:16:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:49:00.065Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-22 08:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

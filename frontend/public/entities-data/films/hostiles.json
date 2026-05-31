@@ -1,0 +1,175 @@
+{
+  "type": "film",
+  "slug": "hostiles",
+  "title": "Hostiles",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Hostiles"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure",
+    "western",
+    "drame"
+  ],
+  "description": "En 1892, alors que les guerres indiennes touchent à leur fin, Joseph J. Blocker, capitaine dans l'armée américaine, est chargé d'une mission qu'il a bien du mal à accepter : escorter Yellow Hawk, un chef cheyenne prisonnier de longue date, qui souhaite mourir sur ses terres natales du Montana...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f16e334c-8387-422b-8b9f-2172bd621195",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/canal-grand-ecran/hostiles",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 09:30:00+00",
+      "endTime": "2026-04-20 11:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4dacd68f-e0db-4701-b856-27454c5900bc",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/cine-frisson/hostiles",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:39:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 127,
+  "cast": [
+    {
+      "qid": "Q45772",
+      "slug": "christian-bale",
+      "name": "Christian Bale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230004",
+      "slug": "rosamund-pike",
+      "name": "Rosamund Pike",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350819",
+      "slug": "wes-studi",
+      "name": "Wes Studi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1138674",
+      "slug": "jesse-plemons",
+      "name": "Jesse Plemons",
+      "role": "actor"
+    },
+    {
+      "qid": "Q348755",
+      "slug": "adam-beach",
+      "name": "Adam Beach",
+      "role": "actor"
+    },
+    {
+      "qid": "Q446227",
+      "slug": "rory-cochrane",
+      "name": "Rory Cochrane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311804",
+      "slug": "ben-foster",
+      "name": "Ben Foster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312902",
+      "slug": "stephen-lang",
+      "name": "Stephen Lang",
+      "role": "actor"
+    },
+    {
+      "qid": "Q73410",
+      "slug": "q-orianka-kilcher",
+      "name": "Q'Orianka Kilcher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q525318",
+      "slug": "michael-parks",
+      "name": "Michael Parks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q430804",
+      "slug": "peter-mullan",
+      "name": "Peter Mullan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19877770",
+      "slug": "timothee-chalamet",
+      "name": "Timothée Chalamet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1339448",
+      "slug": "ryan-bingham",
+      "name": "Ryan Bingham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q718135",
+      "slug": "scott-wilson",
+      "name": "Scott Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2058704",
+      "slug": "paul-anderson",
+      "name": "Paul Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q31970512",
+      "slug": "jonathan-majors",
+      "name": "Jonathan Majors",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1750712",
+    "slug": "scott-cooper",
+    "name": "Scott Cooper",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 09:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

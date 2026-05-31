@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "zachary-quinto",
+  "name": "Zachary Quinto",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zachary%20Quinto%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-06-02",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q139642",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Zachary_Quinto",
+    "imdb": "nm0704270",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "star-trek-into-darkness",
+      "title": "Star Trek Into Darkness"
+    },
+    {
+      "type": "film",
+      "slug": "star-trek",
+      "title": "Star Trek"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

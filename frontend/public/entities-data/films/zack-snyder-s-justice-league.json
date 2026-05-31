@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "zack-snyder-s-justice-league",
+  "title": "Zack Snyder's Justice League",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Zack Snyder's Justice League"
+  ],
+  "genres": [
+    "film de super-héros",
+    "film d'action de science-fiction"
+  ],
+  "description": "Après la mort de Clark Kent des mains de Doomsday, Batman réévalue ses méthodes extrêmes et décide de réunir des héros extraordinaires pour former une équipe de combattants afin de défendre la Terre de toutes sortes de menaces. Avec Wonder Woman, Cyborg, The Flash et Aquaman, il affronte Steppenwolf...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "085ef5a4-7b14-4dbe-9472-f3ca746c33ef",
+      "title": "Zack Snyder's Justice League",
+      "programSlug": "zack-snyder-s-justice-league",
+      "programUrl": "/programme/canal-grand-ecran/zack-snyder-s-justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 15:10:00+00",
+      "endTime": "2026-04-19 19:04:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 242,
+  "cast": [
+    {
+      "qid": "Q608709",
+      "slug": "harry-lennix",
+      "name": "Harry Lennix",
+      "role": "actor"
+    },
+    {
+      "qid": "Q483118",
+      "slug": "ben-affleck",
+      "name": "Ben Affleck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295498",
+      "slug": "henry-cavill",
+      "name": "Henry Cavill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q185654",
+      "slug": "gal-gadot",
+      "name": "Gal Gadot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q508049",
+      "slug": "ezra-miller",
+      "name": "Ezra Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315271",
+      "slug": "jason-momoa",
+      "name": "Jason Momoa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16729006",
+      "slug": "ray-fisher",
+      "name": "Ray Fisher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314892",
+      "slug": "ciaran-hinds",
+      "name": "Ciarán Hinds",
+      "role": "actor"
+    },
+    {
+      "qid": "Q219512",
+      "slug": "jesse-eisenberg",
+      "name": "Jesse Eisenberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q470005",
+      "slug": "joe-manganiello",
+      "name": "Joe Manganiello",
+      "role": "actor"
+    },
+    {
+      "qid": "Q171745",
+      "slug": "jeremy-irons",
+      "name": "Jeremy Irons",
+      "role": "actor"
+    },
+    {
+      "qid": "Q150482",
+      "slug": "j-k-simmons",
+      "name": "J. K. Simmons",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229166",
+      "slug": "amber-heard",
+      "name": "Amber Heard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q481832",
+      "slug": "amy-adams",
+      "name": "Amy Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231951",
+      "slug": "connie-nielsen",
+      "name": "Connie Nielsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272972",
+      "slug": "q272972",
+      "name": "Q272972",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q139890",
+    "slug": "zack-snyder",
+    "name": "Zack Snyder",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 15:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

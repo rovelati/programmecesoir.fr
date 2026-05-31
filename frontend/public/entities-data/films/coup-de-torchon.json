@@ -1,0 +1,175 @@
+{
+  "type": "film",
+  "slug": "coup-de-torchon",
+  "title": "Coup de torchon",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Coup de torchon"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm criminel",
+    "drame"
+  ],
+  "description": "Dans les années 1930, Lucien Cordier est l'unique policier de Bourkassa, un village sénégalais. Veule et opportuniste, il veut contenter tout le monde : Huguette, son épouse irascible, Nono, son beau-frère, ainsi que Le Péron et Léonelli, les deux proxénètes locaux qui ne cessent de l'humilier...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "41bb0643-9a66-42c6-bc35-76d75761f5b2",
+      "title": "Coup de torchon",
+      "programSlug": "coup-de-torchon",
+      "programUrl": "/programme/cine-classic/coup-de-torchon",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 21:22:00+00",
+      "endTime": "2026-04-24 23:27:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "1e73d553-0bd8-4615-96f4-bfd79a3effee",
+      "title": "Coup de torchon",
+      "programSlug": "coup-de-torchon",
+      "programUrl": "/programme/cine-classic/coup-de-torchon",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-25 06:38:00+00",
+      "endTime": "2026-04-25 08:43:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1981,
+  "durationMinutes": 128,
+  "cast": [
+    {
+      "qid": "Q106482",
+      "slug": "philippe-noiret",
+      "name": "Philippe Noiret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106365",
+      "slug": "isabelle-huppert",
+      "name": "Isabelle Huppert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q739521",
+      "slug": "jean-pierre-marielle",
+      "name": "Jean-Pierre Marielle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q32439",
+      "slug": "stephane-audran",
+      "name": "Stéphane Audran",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3014280",
+      "slug": "daniel-langlet",
+      "name": "Daniel Langlet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3047356",
+      "slug": "eddy-mitchell",
+      "name": "Eddy Mitchell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13608198",
+      "slug": "francois-perrot",
+      "name": "François Perrot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1558987",
+      "slug": "gerard-hernandez",
+      "name": "Gérard Hernandez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1270509",
+      "slug": "guy-marchand",
+      "name": "Guy Marchand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3154660",
+      "slug": "irene-skobline",
+      "name": "Irène Skobline",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3171214",
+      "slug": "jean-champion",
+      "name": "Jean Champion",
+      "role": "actor"
+    },
+    {
+      "qid": "Q154842",
+      "slug": "max-ernst",
+      "name": "Max Ernst",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1784382",
+      "slug": "michel-beaune",
+      "name": "Michel Beaune",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1351064",
+      "slug": "paul-grimault",
+      "name": "Paul Grimault",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3420918",
+      "slug": "raymond-hermantier",
+      "name": "Raymond Hermantier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3557317",
+      "slug": "victor-garrivier",
+      "name": "Victor Garrivier",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q337226",
+    "slug": "bertrand-tavernier",
+    "name": "Bertrand Tavernier",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 21:22:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

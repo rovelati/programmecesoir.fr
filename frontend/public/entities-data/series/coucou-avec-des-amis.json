@@ -1,0 +1,96 @@
+{
+  "type": "series",
+  "slug": "coucou-avec-des-amis",
+  "title": "Coucou avec des amis",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Coucou avec des amis"
+  ],
+  "genres": [
+    "Série",
+    "Série TV"
+  ],
+  "description": "Vos enfants vont adorer se détendre avec les personnages de Baby TV dans un beau parc avec de la musique classique apaisante.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/babytv.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "846272bf-11e8-429f-803f-136c2c1cc1f1",
+      "title": "Coucou avec des amis",
+      "programSlug": "coucou-avec-des-amis",
+      "programUrl": "/programme/babytv/coucou-avec-des-amis",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 02:43:00+00",
+      "endTime": "2026-04-22 02:46:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "5a620999-918f-49a2-bcfe-7184c94bc007",
+      "title": "Coucou avec des amis",
+      "programSlug": "coucou-avec-des-amis",
+      "programUrl": "/programme/babytv/coucou-avec-des-amis",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-23 02:43:00+00",
+      "endTime": "2026-04-23 02:46:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "82f48fb1-0f46-472a-b253-85a18e4126cc",
+      "title": "Coucou avec des amis",
+      "programSlug": "coucou-avec-des-amis",
+      "programUrl": "/programme/babytv/coucou-avec-des-amis",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-24 02:43:00+00",
+      "endTime": "2026-04-24 02:46:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "91952d8d-a615-493f-ba47-df0f2003003b",
+      "title": "Coucou avec des amis",
+      "programSlug": "coucou-avec-des-amis",
+      "programUrl": "/programme/babytv/coucou-avec-des-amis",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-25 02:43:00+00",
+      "endTime": "2026-04-25 02:46:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-22 02:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

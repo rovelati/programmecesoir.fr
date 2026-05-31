@@ -1,0 +1,60 @@
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+
+# Secrets / local env
+.env
+.env.*
+*.env
+*.env.*
+!.env.example
+programmecesoir-c491fade6de8.json
+ssh-pf.bash
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node / build
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Logs / test artifacts
+*.log
+logs/
+test-results/
+frontend/test-results/
+
+# Generated or volatile site artifacts
+frontend/public/sitemap.xml
+frontend/public/sitemap-static.xml
+frontend/public/sitemap-programmes.xml
+frontend/public/sitemap-head.xml
+frontend/public/plan-du-site/
+frontend/public/search-console/
+
+# Large local debug / scratch artifacts
+scripts/full_epg.json
+scripts/epg_debug.json
+scripts/import.log
+tmp-program-preview.html
+pw-route-XXXX.spec.js
+.ARCHITECTURE.md.swp
+
+# Operational backups / scratch copies not part of source of truth
+123-programmi-tv-grafica/
+frontend_logic_backup_hooks/
+frontend_logic_backup_utils/
+
+# Sensitive / operational database notes
+database/new_coordinate_supabase.env
+database/connection_backup_20260319.md
+
+.env-x
+
+frontend/public/entities-data/.cache/
+nuovo-supabase.md

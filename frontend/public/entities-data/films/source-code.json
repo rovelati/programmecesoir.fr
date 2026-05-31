@@ -1,0 +1,114 @@
+{
+  "type": "film",
+  "slug": "source-code",
+  "title": "Source Code",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Source Code"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm fantastique",
+    "drame",
+    "film ou téléfilm à énigme",
+    "film de voyage dans le temps"
+  ],
+  "description": "Colter Stevens ne comprend pas ce qu'il fait dans ce train à destination de Chicago, ni qui est cette femme qui s'adresse à lui avec la même assurance que s'ils se connaissaient parfaitement. Pour autant qu'il s'en souvienne, la dernière fois qu'il a eu conscience d'être lui, il effectuait une mission de reconnaissance en Afghanistan. La situation se complique de plus en plus. Sa carte d'identité porte le nom de Sean Fentress. Son visage n'est pas le sien et une explosion détruit brusquement le train. Quand Colter se réveille, cette fois-ci dans un caisson hérissé d'appareils électroniques, il apprend qu'il a intégré le corps d'un mort, victime d'un attentat ferroviaire, pour y mener une enquête dans sa mémoire et dans le temps...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Source%20Code.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rmc-story",
+      "channelName": "RMC STORY",
+      "channelSlug": "rmc-story",
+      "channelNumber": 23,
+      "logoUrl": "/loghi/rmc-story.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tipik.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2011,
+  "durationMinutes": 93,
+  "cast": [
+    {
+      "qid": "Q133313",
+      "slug": "jake-gyllenhaal",
+      "name": "Jake Gyllenhaal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229112",
+      "slug": "michelle-monaghan",
+      "name": "Michelle Monaghan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q264840",
+      "slug": "vera-farmiga",
+      "name": "Vera Farmiga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q343059",
+      "slug": "jeffrey-wright",
+      "name": "Jeffrey Wright",
+      "role": "actor"
+    },
+    {
+      "qid": "Q470906",
+      "slug": "russell-peters",
+      "name": "Russell Peters",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3090331",
+      "slug": "frederick-de-grandpre",
+      "name": "Frédérick De Grandpré",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311699",
+      "slug": "scott-bakula",
+      "name": "Scott Bakula",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15793680",
+      "slug": "cas-anvar",
+      "name": "Cas Anvar",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q552731",
+    "slug": "duncan-jones",
+    "name": "Duncan Jones",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

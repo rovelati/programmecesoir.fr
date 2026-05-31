@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "megyn-price",
+  "name": "Megyn Price",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Megyn%20Price.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-03-24",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q266901",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Megyn_Price",
+    "imdb": "nm0697044",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bumblebee",
+      "title": "Bumblebee"
+    },
+    {
+      "type": "series",
+      "slug": "lecons-sur-le-mariage",
+      "title": "Leçons sur le mariage"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "type": "series",
+  "slug": "hikayat-chama",
+  "title": "Hikayat Chama",
+  "airingsCount": 12,
+  "sourceTitles": [
+    "Hikayat Chama"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Lorsque son père part en pèlerinage à La Mecque, Chama, orpheline de mère, se voit confier la gestion de la maison et des récoltes, ainsi que la responsabilité de ses deux soeurs.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 12
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f695edbf-9647-49a2-9c15-3a086e397787",
+      "title": "Hikayat Chama",
+      "programSlug": "hikayat-chama",
+      "programUrl": "/programme/2m-maroc/hikayat-chama",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-20 18:40:00+00",
+      "endTime": "2026-04-20 19:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "47492a0f-5a86-49c3-906e-24e16ad8b56f",
+      "title": "Hikayat Chama",
+      "programSlug": "hikayat-chama",
+      "programUrl": "/programme/2m-maroc/hikayat-chama",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-21 18:35:00+00",
+      "endTime": "2026-04-21 19:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "0d14530a-54f5-47e9-9d4a-f21b0abeecbb",
+      "title": "Hikayat Chama",
+      "programSlug": "hikayat-chama",
+      "programUrl": "/programme/2m-maroc/hikayat-chama",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-22 18:35:00+00",
+      "endTime": "2026-04-22 19:10:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "0f78d6ca-e397-4e65-bf72-0da3b453cc0d",
+      "title": "Hikayat Chama",
+      "programSlug": "hikayat-chama",
+      "programUrl": "/programme/2m-maroc/hikayat-chama",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-23 18:35:00+00",
+      "endTime": "2026-04-23 19:10:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 18:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "pierre-etaix",
+  "name": "Pierre Étaix",
+  "worksCount": 1,
+  "description": "cinéaste, acteur et dessinateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Etaix.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1928-11-23",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1860448",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Pierre_%C3%89taix",
+    "imdb": "nm0959916",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mon-oncle",
+      "title": "Mon oncle"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

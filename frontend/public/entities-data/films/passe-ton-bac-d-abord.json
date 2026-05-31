@@ -1,0 +1,101 @@
+{
+  "type": "film",
+  "slug": "passe-ton-bac-d-abord",
+  "title": "Passe ton bac d'abord",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Passe ton bac d'abord"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Quelques adolescents, enfants d'ouvriers et élèves d'une classe de terminale, traînent leur ennui dans la ville de Lens, sinistrée par le chômage. Ils se retrouvent régulièrement chez Caron, le café du coin, pour échapper à leurs parents qui, à peine plus épanouis qu'eux, n'ont que quatre mots à la bouche : \"Passe ton bac d'abord\". Mais eux savent bien qu'ils sont promis au chômage, aux amours illusoires et aux fuites impossibles...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Avion-glissoires7.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "81de72af-0ee0-4730-9aff-48b3c79afa2f",
+      "title": "Passe ton bac d'abord",
+      "programSlug": "passe-ton-bac-d-abord",
+      "programUrl": "/programme/cine-festival/passe-ton-bac-d-abord",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-22 09:51:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1978,
+  "durationMinutes": 86,
+  "cast": [
+    {
+      "qid": "Q432685",
+      "slug": "sabine-haudepin",
+      "name": "Sabine Haudepin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380320",
+      "slug": "philippe-marlaud",
+      "name": "Philippe Marlaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165423",
+      "slug": "jean-francois-adam",
+      "name": "Jean-François Adam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851563",
+      "slug": "annick-alane",
+      "name": "Annick Alane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965070",
+      "slug": "christian-bouillette",
+      "name": "Christian Bouillette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3309202",
+      "slug": "michel-caron",
+      "name": "Michel Caron",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q503898",
+    "slug": "maurice-pialat",
+    "name": "Maurice Pialat",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 09:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

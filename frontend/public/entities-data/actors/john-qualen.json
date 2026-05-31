@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "john-qualen",
+  "name": "John Qualen",
+  "worksCount": 1,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grapes%20of%20Wrath%2C%20The%20-%20(Original%20Trailer)%20-%2008.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1899-12-08",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1364339",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Qualen",
+    "imdb": "nm0702798",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-homme-qui-tua-liberty-valance",
+      "title": "L'homme qui tua Liberty Valance"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

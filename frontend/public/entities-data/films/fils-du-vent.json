@@ -1,0 +1,95 @@
+{
+  "type": "film",
+  "slug": "fils-du-vent",
+  "title": "Fils du vent",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Fils du vent"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Durant 90 jours de l'été 2022, Jérémy Bigé se lance dans une marche d'envergure de 2000km et 90 000 m de dénivelé à travers les montagnes du Kirghizistan et du Tadjikistan. Sur les traces des explorateurs d'antan, il se fraie un passage au sein des Monts Célestes et du Pamir Alaï le long d'un itinéraire inédit, technique et haut perché.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tele-grenoble",
+      "channelName": "Télé Grenoble",
+      "channelSlug": "tele-grenoble",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tele-grenoble.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b69d0c4-f44b-4007-ae5b-9c4ea20661b4",
+      "title": "Fils du vent",
+      "programSlug": "fils-du-vent",
+      "programUrl": "/programme/tele-grenoble/fils-du-vent",
+      "channelId": "tele-grenoble",
+      "channelName": "Télé Grenoble",
+      "channelSlug": "tele-grenoble",
+      "startTime": "2026-04-25 00:50:00+00",
+      "endTime": "2026-04-25 01:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q3827912",
+      "slug": "laurent-piemontesi",
+      "name": "Laurent Piemontesi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q326837",
+      "slug": "elodie-yung",
+      "name": "Élodie Yung",
+      "role": "actor"
+    },
+    {
+      "qid": "Q725674",
+      "slug": "burt-kwouk",
+      "name": "Burt Kwouk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2971988",
+      "slug": "chau-belle-dinh",
+      "name": "Châu Belle Dinh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2959970",
+      "slug": "charles-perriere",
+      "name": "Charles Perrière",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3189655",
+    "slug": "julien-seri",
+    "name": "Julien Seri",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 00:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

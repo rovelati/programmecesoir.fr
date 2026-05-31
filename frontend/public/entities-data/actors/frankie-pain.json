@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "frankie-pain",
+  "name": "Frankie Pain",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-01-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3082910",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Frankie_Pain",
+    "imdb": "nm0656803",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "comme-un-poisson-hors-de-l-eau",
+      "title": "Comme un poisson hors de l'eau"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

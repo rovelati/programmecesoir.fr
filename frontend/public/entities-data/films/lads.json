@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "lads",
+  "title": "Lads",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Lads"
+  ],
+  "genres": [
+    "musique populaire"
+  ],
+  "description": "Ethan, un petit délinquant de 17 ans, débute sa carrière d'apprenti jockey dans une écurie d'obstacles, l'une des disciplines les plus exigeantes et violentes du galop. Au contact des purs-sangs, l'adolescent découvre un monde à la fois fascinant et impitoyable, où les courses sont discrètement régies par les paris et l'argent. Au fil du temps, sa passion pour l'équitation se transforme en une soif grandissante de succès, mais aussi en une profonde frustration. Courir pour gagner, tout en étant constamment soumis aux attentes des autres. Bientôt Ethan doit prendre une décision cruciale : transgresser les règles ou sauver sa peau...",
+  "descriptionAi": "Plongée dans l’univers intense et méconnu des courses d’obstacles, cette fiction au rythme de musique populaire suit Ethan, 17 ans, apprenti jockey. L’ambiance oscille entre fascination pour les purs-sangs et la dure réalité d’un milieu impitoyable, rongé par les paris et l’argent. Le film capte l’intérêt en explorant la métamorphose du héros, tiraillé entre sa passion naissante, une soif de victoire et les pressions corruptrices. Son dilemme moral, entre transgression et survie, offre un suspense poignant et authentique. Une immersion rugissante et humaine à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Wanted%20By%20Daniel%20%C3%85hs%20Karlsson.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "aaead234-93f2-4c54-8162-63980e33883f",
+      "title": "Lads",
+      "programSlug": "lads",
+      "programUrl": "/programme/canal-cinema/lads",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-19 23:41:00+00",
+      "endTime": "2026-04-20 01:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f20de770-f5a3-4665-bd61-e9326a89823b",
+      "title": "Lads",
+      "programSlug": "lads",
+      "programUrl": "/programme/paramount-channel/lads",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-19 23:45:00+00",
+      "endTime": "2026-04-20 01:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "12aa193c-d086-46e1-9547-7c39ab939af0",
+      "title": "Lads",
+      "programSlug": "lads",
+      "programUrl": "/programme/paramount-channel/lads",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-21 15:50:00+00",
+      "endTime": "2026-04-21 17:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "da552044-c2ef-4e83-9467-b40e293a9191",
+      "title": "Lads",
+      "programSlug": "lads",
+      "programUrl": "/programme/canal-cinema/lads",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-21 15:53:00+00",
+      "endTime": "2026-04-21 17:21:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "be933435-b0e6-4813-9b1d-0daefe6d6199",
+      "title": "Lads",
+      "programSlug": "lads",
+      "programUrl": "/programme/paramount-channel/lads",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 16:30:00+00",
+      "endTime": "2026-04-23 17:55:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "bc8e9770-e554-41c5-906c-71a5a030e7ed",
+      "title": "Lads",
+      "programSlug": "lads",
+      "programUrl": "/programme/canal-cinema/lads",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 16:30:00+00",
+      "endTime": "2026-04-23 17:59:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "3fb26868-8640-42be-a6f2-0ad16e6c3945",
+      "title": "Lads",
+      "programSlug": "lads",
+      "programUrl": "/programme/paramount-channel/lads",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-26 00:45:00+00",
+      "endTime": "2026-04-26 02:16:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "e3cc0244-fa32-4758-9ff9-f95580e8dbd2",
+      "title": "Lads",
+      "programSlug": "lads",
+      "programUrl": "/programme/canal-cinema/lads",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-26 00:48:00+00",
+      "endTime": "2026-04-26 02:20:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q34918",
+    "wikipedia": "https://fr.wikipedia.org/wiki/The_Wanted",
+    "imdb": "nm4015241",
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:27:15.256Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 23:41:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

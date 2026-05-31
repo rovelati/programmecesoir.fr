@@ -1,0 +1,185 @@
+{
+  "type": "actor",
+  "slug": "freema-agyeman",
+  "name": "Freema Agyeman",
+  "worksCount": 2,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Freema%20Agyeman%202007.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-03-20",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q234430",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Freema_Agyeman",
+    "imdb": "nm1303956",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "londres-police-judiciaire",
+      "title": "Londres police judiciaire"
+    },
+    {
+      "type": "series",
+      "slug": "doc",
+      "title": "Doc"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2dc2ef50-ddd4-4e3a-b693-44f11aaec05f",
+      "title": "Doc",
+      "programSlug": "doc",
+      "programUrl": "/programme/ab1/doc",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 06:15:00+00",
+      "endTime": "2026-04-19 07:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e96a5623-08f1-48ed-aab3-11b067232ec5",
+      "title": "Doc",
+      "programSlug": "doc",
+      "programUrl": "/programme/ab1/doc",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 07:15:00+00",
+      "endTime": "2026-04-19 08:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4e357185-317e-4b75-bdde-f054c25592ec",
+      "title": "Doc",
+      "programSlug": "doc",
+      "programUrl": "/programme/ab1/doc",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 08:20:00+00",
+      "endTime": "2026-04-19 09:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d190a7cb-2f1c-4656-9655-f03d5ba1f63b",
+      "title": "Doc",
+      "programSlug": "doc",
+      "programUrl": "/programme/ab1/doc",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 09:20:00+00",
+      "endTime": "2026-04-19 10:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7afb3b82-56bb-4c63-bcb7-7c1a1b739d89",
+      "title": "Londres police judiciaire",
+      "programSlug": "londres-police-judiciaire",
+      "programUrl": "/programme/tf1-series-films/londres-police-judiciaire",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 15:25:00+00",
+      "endTime": "2026-04-19 16:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "13544104-3527-42e8-ab92-c6a8298ccb3a",
+      "title": "Londres police judiciaire",
+      "programSlug": "londres-police-judiciaire",
+      "programUrl": "/programme/tf1-series-films/londres-police-judiciaire",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 16:20:00+00",
+      "endTime": "2026-04-19 17:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1f81687d-d6b2-4489-b194-a75e80042943",
+      "title": "Londres police judiciaire",
+      "programSlug": "londres-police-judiciaire",
+      "programUrl": "/programme/tf1-series-films/londres-police-judiciaire",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 17:15:00+00",
+      "endTime": "2026-04-19 18:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1031705f-8563-4310-81c6-81cd854a48e2",
+      "title": "Londres police judiciaire",
+      "programSlug": "londres-police-judiciaire",
+      "programUrl": "/programme/tf1-series-films/londres-police-judiciaire",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 18:10:00+00",
+      "endTime": "2026-04-19 19:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4841313b-ff15-4423-a72e-2b8871559cf7",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 06:40:00+00",
+      "endTime": "2026-04-20 07:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4250ac81-8120-4a62-aeaa-55f703cda1bd",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 07:35:00+00",
+      "endTime": "2026-04-20 08:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "61f3272a-df4f-4e6c-8c34-68c32d21e560",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 08:30:00+00",
+      "endTime": "2026-04-20 09:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ab2e4f48-ba8a-41b2-9b0d-131791b3ff61",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-21 06:35:00+00",
+      "endTime": "2026-04-21 07:35:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 06:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

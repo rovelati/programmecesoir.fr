@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "les-enfants-de-la-nuit",
+  "title": "Les enfants de la nuit",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Les enfants de la nuit"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Une nuit, deux pensionnaires d'un internat d'élite fuguent pour se rendre dans un club isolé en forêt. Ils découvrent l'implication de leur école dans une sombre expérience.",
+  "descriptionAi": "Ce film dramatique à suspense, sorti en 2012, plonge le spectateur dans une atmosphère inquiétante et nocturne. L’histoire suit deux élèves d’un prestigieux internat qui, lors d’une fugue vers un club forestier isolé, découvrent les liens troubles de leur institution avec une expérience clandestine. L’intrigue se nourrit d’un mystère grandissant et d’une tension palpable, explorant les thèmes de la rébellion adolescente et des secrets inavouables. Le récit, habilement mené, captive par son réalisme sombre et sa critique sociale subtile. Pour découvrir ce thriller angoissant, une seule adresse : à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q25395315",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Les_Enfants_de_la_nuit_(court_m%C3%A9trage)",
+    "imdb": "tt2056634",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:27.691Z",
+  "year": 2012,
+  "durationMinutes": 25,
+  "cast": [],
+  "director": {
+    "qid": "Q15407996",
+    "slug": "caroline-deruas",
+    "name": "Caroline Deruas",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

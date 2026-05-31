@@ -1,0 +1,80 @@
+{
+  "type": "film",
+  "slug": "l-ombre-la-femme-et-le-couteau",
+  "title": "L'ombre, la femme et le couteau",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "L'ombre, la femme et le couteau"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Hornclaw est une tueuse légendaire âgée d'une soixantaine d'années, spécialisée dans le contrôle des maladies, c'est à dire l'élimination des parasites humains, depuis plus de quarante ans. Peut-être parce qu'elle vieillit, elle éprouve une étrange compassion pour le médecin qui l'a soignée. Un jour, un jeune tueur nommé Bullfight se présente à elle. Une étrange relation se noue entre eux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "26624942-82f8-4ca7-8a37-dcefef51a6c1",
+      "title": "L'ombre, la femme et le couteau",
+      "programSlug": "l-ombre-la-femme-et-le-couteau",
+      "programUrl": "/programme/canal-cinema/l-ombre-la-femme-et-le-couteau",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-21 23:24:00+00",
+      "endTime": "2026-04-22 01:25:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f59ef43e-5ed4-4e2d-890a-9940583712af",
+      "title": "L'ombre, la femme et le couteau",
+      "programSlug": "l-ombre-la-femme-et-le-couteau",
+      "programUrl": "/programme/paramount-channel/l-ombre-la-femme-et-le-couteau",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-21 23:25:00+00",
+      "endTime": "2026-04-22 01:25:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 23:24:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

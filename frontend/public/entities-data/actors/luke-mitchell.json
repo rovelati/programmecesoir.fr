@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "luke-mitchell",
+  "name": "Luke Mitchell",
+  "worksCount": 1,
+  "description": "acteur australien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Luke%20Mitchell%20by%20Gage%20Skidmore.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1985-04-17",
+  "nationality": "Australie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q458479",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Luke_Mitchell",
+    "imdb": "nm1446779",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sans-aucun-remords",
+      "title": "Sans aucun remords"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

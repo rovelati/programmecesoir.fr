@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "aaron-tveit",
+  "name": "Aaron Tveit",
+  "worksCount": 1,
+  "description": "acteur et chanteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaron%20Tveit.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1983-10-21",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q321770",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Aaron_Tveit",
+    "imdb": "nm3117836",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-miserables",
+      "title": "Les misérables"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

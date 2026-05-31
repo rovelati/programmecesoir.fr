@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "les-folles-nuits-d-ibiza",
+  "title": "Les folles nuits d'Ibiza",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les folles nuits d'Ibiza"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Ibiza. Mike et Susi descendent de l'avion et savourent les journées de vacances qui les attendent. Ils se rendent à l'hôtel où ils ont réservé une chambre et apprennent avec stupeur qu'aucun lit n'est disponible. Tandis que Susi se met en peine d'une nouvelle chambre, Mike, désappointé, se réfugie dans un café. Il y est abordé par la jolie Sandra qui lui propose de l'aider tandis qu'elle lui dérobe discrètement sa valise...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1980,
+  "durationMinutes": 87,
+  "cast": [],
+  "director": {
+    "qid": "Q2284752",
+    "slug": "sigi-rothemund",
+    "name": "Sigi Rothemund",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

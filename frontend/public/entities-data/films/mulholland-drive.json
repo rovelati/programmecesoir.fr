@@ -1,0 +1,191 @@
+{
+  "type": "film",
+  "slug": "mulholland-drive",
+  "title": "Mulholland Drive",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Mulholland Drive"
+  ],
+  "genres": [
+    "film ou téléfilm à énigme",
+    "thriller",
+    "film LGBT",
+    "thriller policier",
+    "drame psychologique",
+    "film d'horreur psychologique",
+    "film ou téléfilm criminel",
+    "cinéma indépendant",
+    "film et téléfilm d'horreur",
+    "cinéma expérimental",
+    "film ou téléfilm d'amour",
+    "cinéma surréaliste",
+    "film d'art",
+    "film policier dramatique",
+    "film à suspense",
+    "thriller psychologique",
+    "drame",
+    "néo-noir",
+    "film et téléfilm de fantasy"
+  ],
+  "description": "Un violent accident de voiture sur la route de Mulholland Drive sauve une femme de ses assassins potentiels. Hagarde, la belle s'enfonce dans la nature et se réfugie dans une demeure inoccupée. Le lendemain, Betty Elms débarque à l'aéroport de Los Angeles, où elle rêve de devenir actrice...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e421f727-4754-4c7a-9082-6249a3c5eb2a",
+      "title": "Mulholland Drive",
+      "programSlug": "mulholland-drive",
+      "programUrl": "/programme/ocs/mulholland-drive",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 11:29:00+00",
+      "endTime": "2026-04-21 13:51:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2d7f6144-2c14-4c91-b857-f0d9d5e42589",
+      "title": "Mulholland Drive",
+      "programSlug": "mulholland-drive",
+      "programUrl": "/programme/ocs/mulholland-drive",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 03:52:00+00",
+      "endTime": "2026-04-25 06:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2001,
+  "durationMinutes": 147,
+  "cast": [
+    {
+      "qid": "Q132616",
+      "slug": "naomi-watts",
+      "name": "Naomi Watts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233536",
+      "slug": "laura-harring",
+      "name": "Laura Harring",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241701",
+      "slug": "ann-miller",
+      "name": "Ann Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316596",
+      "slug": "justin-theroux",
+      "name": "Justin Theroux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q367155",
+      "slug": "robert-forster",
+      "name": "Robert Forster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q357014",
+      "slug": "angelo-badalamenti",
+      "name": "Angelo Badalamenti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q326444",
+      "slug": "mark-pellegrino",
+      "name": "Mark Pellegrino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q444860",
+      "slug": "lori-heuring",
+      "name": "Lori Heuring",
+      "role": "actor"
+    },
+    {
+      "qid": "Q724804",
+      "slug": "dan-hedaya",
+      "name": "Dan Hedaya",
+      "role": "actor"
+    },
+    {
+      "qid": "Q969844",
+      "slug": "chad-everett",
+      "name": "Chad Everett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230184",
+      "slug": "lee-grant",
+      "name": "Lee Grant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1605965",
+      "slug": "jeanne-bates",
+      "name": "Jeanne Bates",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2485800",
+      "slug": "vincent-castellanos",
+      "name": "Vincent Castellanos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3759876",
+      "slug": "geno-silva",
+      "name": "Geno Silva",
+      "role": "actor"
+    },
+    {
+      "qid": "Q909704",
+      "slug": "brent-briscoe",
+      "name": "Brent Briscoe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1372953",
+      "slug": "james-karen",
+      "name": "James Karen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2071",
+    "slug": "david-lynch",
+    "name": "David Lynch",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 11:29:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

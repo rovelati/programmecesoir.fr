@@ -1,0 +1,199 @@
+{
+  "type": "series",
+  "slug": "les-aventures-de-bernie",
+  "title": "Les Aventures de Bernie",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Les Aventures de Bernie"
+  ],
+  "genres": [
+    "série télévisée comique"
+  ],
+  "description": "Bernie reçoit une lettre de l'Étoile, mais le Kraken lui vole.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang-1.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "658d911e-6473-4aa4-a279-b9d585fbfebb",
+      "title": "Les Aventures de Bernie",
+      "programSlug": "les-aventures-de-bernie",
+      "programUrl": "/programme/boomerang/les-aventures-de-bernie",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 07:20:00+00",
+      "endTime": "2026-04-19 07:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a73dc25c-9ce3-41e5-810b-646319d79315",
+      "title": "Les Aventures de Bernie",
+      "programSlug": "les-aventures-de-bernie",
+      "programUrl": "/programme/boomerang/les-aventures-de-bernie",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 07:25:00+00",
+      "endTime": "2026-04-19 07:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2b9a779a-49b0-4ca4-8988-16870e53795b",
+      "title": "Les Aventures de Bernie",
+      "programSlug": "les-aventures-de-bernie",
+      "programUrl": "/programme/boomerang-1/les-aventures-de-bernie",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-19 08:20:00+00",
+      "endTime": "2026-04-19 08:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "621585aa-e52d-474a-852f-82f3d5777d2f",
+      "title": "Les Aventures de Bernie",
+      "programSlug": "les-aventures-de-bernie",
+      "programUrl": "/programme/boomerang-1/les-aventures-de-bernie",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-19 08:25:00+00",
+      "endTime": "2026-04-19 08:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cbb0fbf9-9d61-4275-8ce1-df7bc4ca6868",
+      "title": "Les Aventures de Bernie",
+      "programSlug": "les-aventures-de-bernie",
+      "programUrl": "/programme/boomerang/les-aventures-de-bernie",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 14:35:00+00",
+      "endTime": "2026-04-19 14:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9cf552e6-1433-4229-b598-9a7d12e29c0a",
+      "title": "Les Aventures de Bernie",
+      "programSlug": "les-aventures-de-bernie",
+      "programUrl": "/programme/boomerang/les-aventures-de-bernie",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 14:40:00+00",
+      "endTime": "2026-04-19 14:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "414a0cff-991c-402b-86c8-183fc7c38280",
+      "title": "Les Aventures de Bernie",
+      "programSlug": "les-aventures-de-bernie",
+      "programUrl": "/programme/boomerang-1/les-aventures-de-bernie",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-19 15:35:00+00",
+      "endTime": "2026-04-19 15:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f943134c-456a-465b-a4dd-49e8f089f22b",
+      "title": "Les Aventures de Bernie",
+      "programSlug": "les-aventures-de-bernie",
+      "programUrl": "/programme/boomerang-1/les-aventures-de-bernie",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-19 15:40:00+00",
+      "endTime": "2026-04-19 15:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "02b7cec1-0929-4028-91b9-8db9869a06a6",
+      "title": "Les Aventures de Bernie - S01E12",
+      "programSlug": "les-aventures-de-bernie-s01e12",
+      "programUrl": "/programme/boomerang-1/les-aventures-de-bernie-s01e12",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-25 08:20:00+00",
+      "endTime": "2026-04-25 08:25:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "d352d292-96dd-4354-9291-6a7a9f51d751",
+      "title": "Les Aventures de Bernie - S01E13",
+      "programSlug": "les-aventures-de-bernie-s01e13",
+      "programUrl": "/programme/boomerang-1/les-aventures-de-bernie-s01e13",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-25 08:25:00+00",
+      "endTime": "2026-04-25 08:30:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "37c41a91-85aa-4574-812d-93171fc9216b",
+      "title": "Les Aventures de Bernie - S01E12",
+      "programSlug": "les-aventures-de-bernie-s01e12",
+      "programUrl": "/programme/boomerang-1/les-aventures-de-bernie-s01e12",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-25 15:35:00+00",
+      "endTime": "2026-04-25 15:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "7ad959a7-8bdb-4b09-9780-478839568eb7",
+      "title": "Les Aventures de Bernie - S01E13",
+      "programSlug": "les-aventures-de-bernie-s01e13",
+      "programUrl": "/programme/boomerang-1/les-aventures-de-bernie-s01e13",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-25 15:40:00+00",
+      "endTime": "2026-04-25 15:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 07:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

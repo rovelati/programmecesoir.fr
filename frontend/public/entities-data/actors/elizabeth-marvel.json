@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "elizabeth-marvel",
+  "name": "Elizabeth Marvel",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1969-11-27",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q76877",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Elizabeth_Marvel",
+    "imdb": "nm0555500",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jason-bourne-l-heritage",
+      "title": "Jason Bourne : l'héritage"
+    },
+    {
+      "type": "film",
+      "slug": "true-grit",
+      "title": "True Grit"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "926ff80c-13f7-4e5f-8f5b-fa5305d4e8e8",
+      "title": "Jason Bourne : L'héritage",
+      "programSlug": "jason-bourne-l-heritage",
+      "programUrl": "/programme/ab3/jason-bourne-l-heritage",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-22 19:55:00+00",
+      "endTime": "2026-04-22 22:00:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-22 19:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

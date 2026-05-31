@@ -1,0 +1,50 @@
+{
+  "type": "actor",
+  "slug": "jacques-tati",
+  "name": "Jacques Tati",
+  "worksCount": 4,
+  "description": "réalisateur et acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kabarett%20der%20Komiker%3B%20Jacques%20Tati%20013575a.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1907-10-09",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q51549",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jacques_Tati",
+    "imdb": "nm0004244",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-vacances-de-monsieur-hulot",
+      "title": "Les vacances de monsieur Hulot"
+    },
+    {
+      "type": "film",
+      "slug": "mon-oncle",
+      "title": "Mon oncle"
+    },
+    {
+      "type": "film",
+      "slug": "playtime",
+      "title": "Playtime"
+    },
+    {
+      "type": "film",
+      "slug": "trafic",
+      "title": "Trafic"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

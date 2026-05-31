@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "gottfried-john",
+  "name": "Gottfried John",
+  "worksCount": 1,
+  "description": "acteur allemand",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gottfried%20John%20001.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1942-08-29",
+  "nationality": "Allemagne",
+  "jobTitle": "acteur ou actrice de voix-off",
+  "externalIds": {
+    "wikidata": "Q61510",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Gottfried_John",
+    "imdb": "nm0424167",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "asterix-et-obelix-contre-cesar",
+      "title": "Astérix et Obélix contre César"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

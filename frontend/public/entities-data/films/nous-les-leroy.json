@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "nous-les-leroy",
+  "title": "Nous, les Leroy",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Nous, les Leroy"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Après des années de vie commune faite de quelques hauts et de nombreux bas, Sandrine prend conscience que son couple n'a plus aucun avenir et prend la décision de mettre fin à son mariage avec Christophe. Lorsqu'elle annonce son intention de divorcer à son époux, ce dernier refuse d'accepter cette issue sans se battre pour tenter de sauver ce qui peut encore l'être. Déterminé à mettre en place une opération de la dernière chance, Christophe choisit d'organiser un invraisemblable et audacieux week-end durant lequel il emmènera sa famille dans tous les endroits clés de leur passé. Malgré ses efforts, son plan ne se déroule pas comme prévu...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "channelNumber": 1,
+      "logoUrl": "/loghi/tf1.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-1.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tipik.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-une.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q276005",
+      "slug": "charlotte-gainsbourg",
+      "name": "Charlotte Gainsbourg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q778451",
+      "slug": "jose-garcia",
+      "name": "José Garcia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3269248",
+      "slug": "lyes-salem",
+      "name": "Lyes Salem",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1345210",
+      "slug": "luis-rego",
+      "name": "Luis Rego",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42559952",
+      "slug": "sebastien-chassagne",
+      "name": "Sébastien Chassagne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q30122930",
+      "slug": "jerome-niel",
+      "name": "Jérôme Niel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27102350",
+      "slug": "adrien-menielle",
+      "name": "Adrien Ménielle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107048945",
+      "slug": "benjamin-tranie",
+      "name": "Benjamin Tranié",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3484193",
+      "slug": "simon-astier",
+      "name": "Simon Astier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2883665",
+      "slug": "baptiste-lecaplain",
+      "name": "Baptiste Lecaplain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28599978",
+      "slug": "sophie-marie-larrouy",
+      "name": "Sophie-Marie Larrouy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21544893",
+      "slug": "vincent-tirel",
+      "name": "Vincent Tirel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125465593",
+      "slug": "lily-aubry",
+      "name": "Lily Aubry",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q19955870",
+    "slug": "florent-bernard",
+    "name": "Florent Bernard",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

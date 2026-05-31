@@ -1,0 +1,201 @@
+{
+  "type": "actor",
+  "slug": "tom-selleck",
+  "name": "Tom Selleck",
+  "worksCount": 5,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Selleck%20at%20PaleyFest%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1945-01-29",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q213706",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tom_Selleck",
+    "imdb": "nm0000633",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jesse-stone",
+      "title": "Jesse Stone"
+    },
+    {
+      "type": "film",
+      "slug": "jesse-stone-innocences-perdues",
+      "title": "Jesse Stone : innocences perdues"
+    },
+    {
+      "type": "film",
+      "slug": "jesse-stone-le-benefice-du-doute",
+      "title": "Jesse Stone : le bénéfice du doute"
+    },
+    {
+      "type": "series",
+      "slug": "magnum",
+      "title": "Magnum"
+    },
+    {
+      "type": "series",
+      "slug": "blue-bloods",
+      "title": "Blue Bloods"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b39d931b-0fb1-40bd-b07e-55488e8996ee",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 10:00:00+00",
+      "endTime": "2026-04-19 10:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2b13313e-d28e-41ff-ade7-4161f71058a1",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 10:40:00+00",
+      "endTime": "2026-04-19 11:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e46f53a3-1e77-419a-b810-000d44db6b52",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 11:20:00+00",
+      "endTime": "2026-04-19 12:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bc7f6735-723a-4465-ad9b-151693b2f356",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 12:05:00+00",
+      "endTime": "2026-04-19 12:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d13a4a7f-39e8-433b-a5df-aa9f9a945150",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 12:45:00+00",
+      "endTime": "2026-04-19 13:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "042053ef-3aa9-43a7-9117-f7f6a01bbdc7",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 13:30:00+00",
+      "endTime": "2026-04-19 14:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8d2cf0c3-4ac6-4530-9ea4-9a1039f8092f",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 14:20:00+00",
+      "endTime": "2026-04-19 15:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f0e32d81-2579-41c4-adab-a529caee92b5",
+      "title": "Blue Bloods - Saison 14",
+      "programSlug": "blue-bloods-saison-14",
+      "programUrl": "/programme/rts-un/blue-bloods-saison-14",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 14:50:00+00",
+      "endTime": "2026-04-19 15:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cd20b19e-a3a1-43f5-8c5a-b22275993bdc",
+      "title": "Blue Bloods - Saison 14",
+      "programSlug": "blue-bloods-saison-14",
+      "programUrl": "/programme/rts-un/blue-bloods-saison-14",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 15:35:00+00",
+      "endTime": "2026-04-19 16:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b7a88957-83ed-4bcd-96b6-d2be8c44e903",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/club-rtl/magnum",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 20:45:00+00",
+      "endTime": "2026-04-19 21:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "353bbee7-9ef8-4563-951b-75e6b5432b10",
+      "title": "Magnum - Saison 2",
+      "programSlug": "magnum-saison-2",
+      "programUrl": "/programme/rtl9/magnum-saison-2",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 16:30:00+00",
+      "endTime": "2026-04-20 17:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3da3a6e5-3334-4a6f-b903-d47d70daa4fe",
+      "title": "Magnum - Saison 2",
+      "programSlug": "magnum-saison-2",
+      "programUrl": "/programme/rtl9/magnum-saison-2",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 17:15:00+00",
+      "endTime": "2026-04-20 18:00:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 10:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,186 @@
+{
+  "type": "actor",
+  "slug": "lindy-booth",
+  "name": "Lindy Booth",
+  "worksCount": 2,
+  "description": "actrice canadienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lindy%20Booth%20by%20Gage%20Skidmore%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-04-02",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q260490",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lindy_Booth",
+    "imdb": "nm0095751",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "title": "Flynn Carson et les nouveaux aventuriers"
+    },
+    {
+      "type": "series",
+      "slug": "sydney-fox-l-aventuriere",
+      "title": "Sydney Fox, l'aventurière"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0ca4cf10-f64a-48a2-aaae-54a080b4629f",
+      "title": "Sydney Fox, l'aventurière",
+      "programSlug": "sydney-fox-l-aventuriere",
+      "programUrl": "/programme/gulli/sydney-fox-l-aventuriere",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 13:30:00+00",
+      "endTime": "2026-04-19 14:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bd506623-26fd-4f09-bf09-911681b532d8",
+      "title": "Sydney Fox, l'aventurière",
+      "programSlug": "sydney-fox-l-aventuriere",
+      "programUrl": "/programme/gulli/sydney-fox-l-aventuriere",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 14:25:00+00",
+      "endTime": "2026-04-19 15:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c3cdcf92-cf29-4112-8003-9a4da11d8da3",
+      "title": "Sydney Fox, l'aventurière",
+      "programSlug": "sydney-fox-l-aventuriere",
+      "programUrl": "/programme/gulli/sydney-fox-l-aventuriere",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 15:20:00+00",
+      "endTime": "2026-04-19 16:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7a452010-1445-45b1-ba9a-af90f8b2b417",
+      "title": "Sydney Fox, l'aventurière",
+      "programSlug": "sydney-fox-l-aventuriere",
+      "programUrl": "/programme/gulli/sydney-fox-l-aventuriere",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 16:20:00+00",
+      "endTime": "2026-04-19 17:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7550f4d3-461a-438e-81aa-ff4950ec0649",
+      "title": "Sydney Fox, l'aventurière",
+      "programSlug": "sydney-fox-l-aventuriere",
+      "programUrl": "/programme/gulli/sydney-fox-l-aventuriere",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 17:15:00+00",
+      "endTime": "2026-04-19 18:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a1302894-cad5-4d66-89bc-312104c54af9",
+      "title": "Sydney Fox, l'aventurière",
+      "programSlug": "sydney-fox-l-aventuriere",
+      "programUrl": "/programme/gulli/sydney-fox-l-aventuriere",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 18:10:00+00",
+      "endTime": "2026-04-19 19:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "59e63a1d-64d7-4609-8eac-52dfa79d50ff",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-19 22:50:00+00",
+      "endTime": "2026-04-19 23:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "21a4aab6-fc14-4c8e-a0c5-44c402375822",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-19 23:40:00+00",
+      "endTime": "2026-04-20 00:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d148fcf9-9c5a-487d-9b58-67a79336e847",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 00:30:00+00",
+      "endTime": "2026-04-20 01:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "50affc23-7b36-48f7-8495-a7b45634e834",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 01:15:00+00",
+      "endTime": "2026-04-20 02:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "93068b33-deb4-41aa-bd91-041abf808a3b",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 02:05:00+00",
+      "endTime": "2026-04-20 02:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4424a79e-208b-4e93-8038-25dae1f53a3e",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 03:15:00+00",
+      "endTime": "2026-04-20 03:55:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 13:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "jacques-roman",
+  "name": "Jacques Roman",
+  "worksCount": 1,
+  "description": "acteur, metteur en scène, réalisateur et écrivain français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Roman.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1948-07-01",
+  "nationality": "Suisse",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3159905",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jacques_Roman",
+    "imdb": "nm0738696",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-grand-soir",
+      "title": "Le grand soir"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6f5a90ad-aefe-4891-9810-8bf82378decb",
+      "title": "Le grand soir",
+      "programSlug": "le-grand-soir",
+      "programUrl": "/programme/cine-festival/le-grand-soir",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-19 06:13:00+00",
+      "endTime": "2026-04-19 07:46:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "84895390-a222-4300-abca-1df5a63d7024",
+      "title": "Le grand soir",
+      "programSlug": "le-grand-soir",
+      "programUrl": "/programme/cine-festival/le-grand-soir",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 01:06:00+00",
+      "endTime": "2026-04-23 03:24:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 06:13:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

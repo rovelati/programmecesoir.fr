@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "catherine-zeta-jones",
+  "name": "Catherine Zeta-Jones",
+  "worksCount": 1,
+  "description": "actrice, danseuse et chanteuse britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20Zeta-Jones%20VF%202012%20Shankbone.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1969-09-25",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q47664",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Catherine_Zeta-Jones",
+    "imdb": "nm0001876",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-gout-de-la-vie",
+      "title": "Le goût de la vie"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b00cd056-0a0b-457b-961a-c1ed3ba0cec4",
+      "title": "Le goût de la vie",
+      "programSlug": "le-gout-de-la-vie",
+      "programUrl": "/programme/cine-emotion/le-gout-de-la-vie",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 00:34:00+00",
+      "endTime": "2026-04-23 02:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 00:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "paul-beaurepaire",
+  "name": "Paul Beaurepaire",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "2001-00-00",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q124898319",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Paul_Beaurepaire",
+    "imdb": "nm13156181",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "planete-b",
+      "title": "Planète B"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

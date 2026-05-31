@@ -1,0 +1,144 @@
+{
+  "type": "film",
+  "slug": "m3gan-2-0",
+  "title": "M3GAN 2.0",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "M3GAN 2.0"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "thriller",
+    "film et téléfilm d'action",
+    "comédie d'action"
+  ],
+  "description": "Deux ans ont passé depuis la destruction de M3GAN, un prototype d'intelligence artificielle devenu incontrôlable. Cependant, la technique de pointe mise au point pour M3GAN a été volée et détournée pour créer une arme militaire connue sous le nom d'Amelia, et qui, à son tour, échappe à tout contrôle...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "998b9897-1d22-48c5-899e-661784bf3688",
+      "title": "M3GAN 2.0",
+      "programSlug": "m3gan-2-0",
+      "programUrl": "/programme/canal-box-office/m3gan-2-0",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 21:05:00+00",
+      "endTime": "2026-04-20 23:01:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "94c2dd63-6a8a-4606-9aa2-f65378f5fc34",
+      "title": "M3GAN 2.0",
+      "programSlug": "m3gan-2-0",
+      "programUrl": "/programme/canal-box-office/m3gan-2-0",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 13:14:00+00",
+      "endTime": "2026-04-25 15:11:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 120,
+  "cast": [
+    {
+      "qid": "Q4455554",
+      "slug": "allison-williams",
+      "name": "Allison Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109455851",
+      "slug": "violet-mcgraw",
+      "name": "Violet McGraw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q116235406",
+      "slug": "amie-donald",
+      "name": "Amie Donald",
+      "role": "actor"
+    },
+    {
+      "qid": "Q72126265",
+      "slug": "brian-jordan-alvarez",
+      "name": "Brian Jordan Alvarez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20069680",
+      "slug": "ivanna-sakhno",
+      "name": "Ivanna Sakhno",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7806781",
+      "slug": "timm-sharp",
+      "name": "Timm Sharp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108781760",
+      "slug": "aristotle-athari",
+      "name": "Aristotle Athari",
+      "role": "actor"
+    },
+    {
+      "qid": "Q439315",
+      "slug": "jemaine-clement",
+      "name": "Jemaine Clement",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q22987973",
+    "slug": "gerard-johnstone",
+    "name": "Gerard Johnstone",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 21:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

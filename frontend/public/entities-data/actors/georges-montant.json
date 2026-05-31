@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "georges-montant",
+  "name": "Georges Montant",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1923-09-26",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3103218",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Georges_Montant",
+    "imdb": "nm0599020",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-conde",
+      "title": "Un condé"
+    },
+    {
+      "type": "film",
+      "slug": "playtime",
+      "title": "Playtime"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e7577f15-187d-442a-9fe6-3e4557da66c0",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 01:20:00+00",
+      "endTime": "2026-04-21 02:56:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b18e748c-8759-4810-9790-ad4a85548430",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 02:18:00+00",
+      "endTime": "2026-04-23 03:54:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "da185f85-581d-4027-a52f-6e4ce26093eb",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 02:21:00+00",
+      "endTime": "2026-04-25 03:57:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 01:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,127 @@
+{
+  "type": "film",
+  "slug": "nous-avons-gagne-ce-soir",
+  "title": "Nous avons gagné ce soir",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Nous avons gagné ce soir"
+  ],
+  "genres": [
+    "film noir",
+    "drame",
+    "film ou téléfilm de boxe"
+  ],
+  "description": "Thompson, un boxeur fini, doit affronter Tiger Nelson, un homme beaucoup plus jeune et surtout plus en forme que lui. Tiny, le manager de Thompson, ne croit pas en une victoire possible. Il n'hésite pas à promettre la défaite de son poulain à un caïd de la mafia, en échange d'une petite fortune. Il ne juge pas utile de mettre Thompson au courant de cet arrangement. Le combat commence. Thompson voit rouge car son épouse, qui ne supporte pas sa déchéance, a préféré rester chez elle. Contre toute attente, le boxeur en bout de course triomphe de son jeune adversaire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f9155799-2432-4eb5-a1bb-225147cd5c02",
+      "title": "Nous avons gagné ce soir",
+      "programSlug": "nous-avons-gagne-ce-soir",
+      "programUrl": "/programme/tcm-cinema/nous-avons-gagne-ce-soir",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 02:55:00+00",
+      "endTime": "2026-04-23 04:05:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1949,
+  "durationMinutes": 72,
+  "cast": [
+    {
+      "qid": "Q350680",
+      "slug": "robert-ryan",
+      "name": "Robert Ryan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2640582",
+      "slug": "audrey-totter",
+      "name": "Audrey Totter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43883",
+      "slug": "george-tobias",
+      "name": "George Tobias",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1704485",
+      "slug": "wallace-ford",
+      "name": "Wallace Ford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1346084",
+      "slug": "alan-baxter",
+      "name": "Alan Baxter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q726526",
+      "slug": "james-edwards",
+      "name": "James Edwards",
+      "role": "actor"
+    },
+    {
+      "qid": "Q727310",
+      "slug": "percy-helton",
+      "name": "Percy Helton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q736541",
+      "slug": "tommy-noonan",
+      "name": "Tommy Noonan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3016561",
+      "slug": "darryl-hickman",
+      "name": "Darryl Hickman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2228583",
+      "slug": "herbert-anderson",
+      "name": "Herbert Anderson",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q59821",
+    "slug": "robert-wise",
+    "name": "Robert Wise",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 02:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

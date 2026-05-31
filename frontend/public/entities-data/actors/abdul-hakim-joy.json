@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "abdul-hakim-joy",
+  "name": "Abdul Hakim Joy",
+  "worksCount": 1,
+  "description": "actor",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": null,
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q110855919",
+    "wikipedia": null,
+    "imdb": "nm7700237",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "breeders",
+      "title": "Breeders"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ae245d2-2615-42c8-8a8e-b14c7a6588fe",
+      "title": "Breeders - Saison 3",
+      "programSlug": "breeders-saison-3",
+      "programUrl": "/programme/cine-family/breeders-saison-3",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 18:14:00+00",
+      "endTime": "2026-04-20 18:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "66c53e31-0552-4665-af16-42cb321793f6",
+      "title": "Breeders - Saison 4",
+      "programSlug": "breeders-saison-4",
+      "programUrl": "/programme/cine-family/breeders-saison-4",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 18:01:00+00",
+      "endTime": "2026-04-21 18:24:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "557ce9c0-e1a1-4aa8-84d5-f117c38b6997",
+      "title": "Breeders - Saison 4",
+      "programSlug": "breeders-saison-4",
+      "programUrl": "/programme/cine-family/breeders-saison-4",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 18:24:00+00",
+      "endTime": "2026-04-21 18:50:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 18:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

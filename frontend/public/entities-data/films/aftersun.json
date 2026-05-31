@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "aftersun",
+  "title": "Aftersun",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Aftersun"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "A l'aube de son 31e anniversaire, Sophie se souvient avec nostalgie de vacances passées deux décennies plus tôt avec son père en Turquie. Elle se remémore avec émotion ces instants vécus avec l'insouciance d'une enfant innocente et peu au fait des problèmes auxquels ce dernier faisait face...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rts-deux",
+      "channelName": "RTS Deux",
+      "channelSlug": "rts-deux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-deux.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

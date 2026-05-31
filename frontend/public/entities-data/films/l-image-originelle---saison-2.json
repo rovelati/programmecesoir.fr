@@ -1,0 +1,54 @@
+{
+  "type": "film",
+  "slug": "l-image-originelle---saison-2",
+  "title": "L'image originelle - Saison 2",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'image originelle - Saison 2"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Installé face caméra dans son appartement du 11ème arrondissement de Paris, le réalisateur français revient sur ses débuts difficiles, de son échec à franchir les portes de l’IDHEC à son voyage libérateur aux États-Unis, de son goût pour le cinéma d’Hitchcock et de Fellini plutôt que celui de la Nouvelle Vague incarnée par Godard, Truffaut, Rohmer et Rivette. Sa particularité : filmer de façon fraîche et parfois spectaculaire les acteurs d’une vie normale, comme dans ses premières œuvres RIENS DU TOUT et LE PÉRIL JEUNE, qu’il décrypte ici.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

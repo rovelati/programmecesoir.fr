@@ -1,0 +1,85 @@
+{
+  "type": "film",
+  "slug": "le-melange-des-genres",
+  "title": "Le Mélange des genres",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Le Mélange des genres"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Simone, agente de police aux idées conservatrices, a infiltré un collectif féministe, les \"Hardies\". Elle enquête sur ces militantes qu'elle soupçonne de complicité dans le meurtre d'un mari violent. A leur contact, Simone s'ouvre progressivement aux idées féministes. Seulement voilà, sa couverture est mince. Et les \"Hardies\", devinant qu'il y a une taupe parmi elles, se mettent à la soupçonner. Pour se sortir de ce mauvais pas, Simone ne trouve rien de mieux à faire que d'accuser au hasard un homme de l'avoir agressée sexuellement. Or, Paul, celui qu'elle accuse, est le plus doux et le plus inoffensif des hommes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "28bddad0-25e3-46a6-a746-0746f658732d",
+      "title": "Le Mélange des genres",
+      "programSlug": "le-melange-des-genres",
+      "programUrl": "/programme/canal-box-office/le-melange-des-genres",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 17:20:00+00",
+      "endTime": "2026-04-23 19:00:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "b37a423b-e31a-481c-8f99-3c9e4600b286",
+      "title": "Le Mélange des genres",
+      "programSlug": "le-melange-des-genres",
+      "programUrl": "/programme/canal/le-melange-des-genres",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-24 22:25:00+00",
+      "endTime": "2026-04-25 00:05:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q3310148",
+    "slug": "michel-leclerc",
+    "name": "Michel Leclerc",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 17:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

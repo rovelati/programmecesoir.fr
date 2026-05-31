@@ -1,0 +1,140 @@
+{
+  "type": "actor",
+  "slug": "bruce-greenwood",
+  "name": "Bruce Greenwood",
+  "worksCount": 5,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BruceGreenwoodTIFFSept10.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1956-08-12",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q342788",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bruce_Greenwood",
+    "imdb": "nm0339304",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "star-trek-into-darkness",
+      "title": "Star Trek Into Darkness"
+    },
+    {
+      "type": "film",
+      "slug": "rambo",
+      "title": "Rambo"
+    },
+    {
+      "type": "film",
+      "slug": "double-jeu",
+      "title": "Double Jeu"
+    },
+    {
+      "type": "film",
+      "slug": "l-enfer-du-devoir",
+      "title": "L'enfer du devoir"
+    },
+    {
+      "type": "series",
+      "slug": "le-monde-de-barney",
+      "title": "Le Monde de Barney"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "752029f4-0f51-4b26-97b1-9e42cde08e43",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 10:00:00+00",
+      "endTime": "2026-04-19 10:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8f169a9c-2ee3-491f-839b-f672393547f6",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 10:15:00+00",
+      "endTime": "2026-04-19 10:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "574b3fa9-74a2-4d84-8a23-0e16b0c4e702",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 10:25:00+00",
+      "endTime": "2026-04-19 10:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "66a9bf46-1f48-4111-ae8d-68561a4329bc",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 10:35:00+00",
+      "endTime": "2026-04-19 10:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ebbcdda5-4c45-46fe-bbc9-2b4094a82a31",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 15:10:00+00",
+      "endTime": "2026-04-19 15:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ef6d60c3-541e-418f-aab0-fd3ff8afc967",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 15:20:00+00",
+      "endTime": "2026-04-19 15:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "982a2b31-275e-403f-8ec5-09d04fa74820",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 18:40:00+00",
+      "endTime": "2026-04-19 18:50:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 10:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

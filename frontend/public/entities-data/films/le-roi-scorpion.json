@@ -1,0 +1,153 @@
+{
+  "type": "film",
+  "slug": "le-roi-scorpion",
+  "title": "Le roi Scorpion",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le roi Scorpion"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film de cape et d'épée",
+    "comédie d'action",
+    "film ou téléfilm d'aventure",
+    "sword and sorcery film",
+    "péplum"
+  ],
+  "description": "5000 ans av. J.-C, grâce aux visions d'un sorcier, le roi Memnon reste invaincu dans la guerre qu'il mène contre des tribus nomades. Menacées de disparaître, ces dernières choisissent le meilleur de leurs guerriers, le roi scorpion Mathayus, pour tuer le devin. S'introduisant dans le temple de la ville, Mathayus découvre que le sorcier est une femme, la belle Cassandra. Il l'enlève et s'enfuit avec elle.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2002,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q10738",
+      "slug": "dwayne-johnson",
+      "name": "Dwayne Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231116",
+      "slug": "kelly-hu",
+      "name": "Kelly Hu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310515",
+      "slug": "bernard-hill",
+      "name": "Bernard Hill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1190511",
+      "slug": "steven-brand",
+      "name": "Steven Brand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q483148",
+      "slug": "michael-clarke-duncan",
+      "name": "Michael Clarke Duncan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q710180",
+      "slug": "grant-heslov",
+      "name": "Grant Heslov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192052",
+      "slug": "peter-facinelli",
+      "name": "Peter Facinelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131866",
+      "slug": "branscombe-richmond",
+      "name": "Branscombe Richmond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q456852",
+      "slug": "sherri-howard",
+      "name": "Sherri Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q61112",
+      "slug": "ralf-moeller",
+      "name": "Ralf Moeller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1750774",
+      "slug": "roger-rees",
+      "name": "Roger Rees",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460513",
+      "slug": "k-d-aubert",
+      "name": "K. D. Aubert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2260913",
+      "slug": "scott-l-schwartz",
+      "name": "Scott L. Schwartz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15483637",
+      "slug": "joseph-ruskin",
+      "name": "Joseph Ruskin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q374239",
+      "slug": "tyler-mane",
+      "name": "Tyler Mane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19517850",
+      "slug": "conrad-roberts",
+      "name": "Conrad Roberts",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q725006",
+    "slug": "chuck-russell",
+    "name": "Chuck Russell",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

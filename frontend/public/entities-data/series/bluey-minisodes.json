@@ -1,0 +1,54 @@
+{
+  "type": "series",
+  "slug": "bluey-minisodes",
+  "title": "Bluey Minisodes",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Bluey Minisodes"
+  ],
+  "genres": [
+    "Série"
+  ],
+  "description": "Monty engage un nouveau majordome dans la maison de Bluey et Bingo. Il lui fait visiter la maison que Jerry Lee a imaginé pour que les propriétaires vivent en toute tranquillité.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "channelNumber": 5,
+      "logoUrl": "/loghi/france-5.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "marguerite-renoir",
+  "name": "Marguerite Renoir",
+  "worksCount": 1,
+  "description": "monteuse frnaçaise de cinéma",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1906-07-22",
+  "nationality": "France",
+  "jobTitle": "monteur ou monteuse",
+  "externalIds": {
+    "wikidata": "Q3290731",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marguerite_Renoir",
+    "imdb": "nm0064497",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "partie-de-campagne",
+      "title": "Partie de campagne"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cee3b06d-399a-4c31-aa05-1ac72c9c78be",
+      "title": "Partie de campagne",
+      "programSlug": "partie-de-campagne",
+      "programUrl": "/programme/france-3-corse/partie-de-campagne",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 06:44:00+00",
+      "endTime": "2026-04-19 06:56:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 06:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

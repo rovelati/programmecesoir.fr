@@ -1,0 +1,130 @@
+{
+  "type": "film",
+  "slug": "broceliande",
+  "title": "Brocéliande",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Brocéliande"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur"
+  ],
+  "description": "Chloé, une étudiante en archéologie, s'inscrit à la faculté de Rennes pour une spécialisation en histoire celte. Elle se lie d'amitié avec Léa et Erwann, deux étudiants qui participent comme elle à des fouilles dans la forêt de Brocéliande, dirigées par les professeurs Brennos et Vernet. Un soir, la jeune femme, qui a un peu trop bu, assiste au meurtre d'un inconnu par une créature qui ne semble pas humaine. La police se montre incrédule. Chloé, certaine de ce qu'elle a vu, commence son enquête. Bientôt, des reliques druidiques liées à de mystérieuses pratiques sacrificielles sont découvertes sur le site de Brocéliande, tandis qu'une série de disparitions se produit sur le campus...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2002,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q3051724",
+      "slug": "elsa-kikoine",
+      "name": "Elsa Kikoïne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3008655",
+      "slug": "cylia-malki",
+      "name": "Cylia Malki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q265232",
+      "slug": "alice-taglioni",
+      "name": "Alice Taglioni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3009868",
+      "slug": "cedric-chevalme",
+      "name": "Cédric Chevalme",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1908647",
+      "slug": "mathieu-simonet",
+      "name": "Mathieu Simonet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2623182",
+      "slug": "alexis-loret",
+      "name": "Alexis Loret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q523442",
+      "slug": "andre-wilms",
+      "name": "André Wilms",
+      "role": "actor"
+    },
+    {
+      "qid": "Q205868",
+      "slug": "vernon-dobtcheff",
+      "name": "Vernon Dobtcheff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18214627",
+      "slug": "edwin-kruger",
+      "name": "Edwin Krüger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3300109",
+      "slug": "maud-le-guenedal",
+      "name": "Maud Le Guenedal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15407603",
+      "slug": "stephane-cabel",
+      "name": "Stéphane Cabel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18391209",
+      "slug": "eric-neve",
+      "name": "Éric Névé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20723802",
+      "slug": "nicky-marbot",
+      "name": "Nicky Marbot",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3037936",
+    "slug": "doug-headline",
+    "name": "Doug Headline",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

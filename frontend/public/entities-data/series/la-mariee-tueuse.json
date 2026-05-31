@@ -1,0 +1,83 @@
+{
+  "type": "series",
+  "slug": "la-mariee-tueuse",
+  "title": "La mariée tueuse",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "La mariée tueuse - Saison 1"
+  ],
+  "genres": [
+    "Series"
+  ],
+  "description": "Au Ladies Society Ball, les Dela Torres et les Dela Cuestas se démarquent et donnent le meilleur d'elles-mêmes. Pendant l'événement, Camila profite de l'occasion pour interagir avec son ex et sa nouvelle bien-aimée. Après sa danse avec Luis, Emma commence sa mission avec Tati. La nuit devient rapidement mortelle lorsqu'elle découvre les véritables intentions de Tati.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0702b7ba-621b-4509-ae79-d7ca7f14e45a",
+      "title": "La mariée tueuse - Saison 1",
+      "programSlug": "la-mariee-tueuse-saison-1",
+      "programUrl": "/programme/antenne-reunion/la-mariee-tueuse-saison-1",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-19 05:45:00+00",
+      "endTime": "2026-04-19 06:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1e9f8f76-ce47-4f37-94b9-e8b2760fe5ac",
+      "title": "La mariée tueuse - Saison 1",
+      "programSlug": "la-mariee-tueuse-saison-1",
+      "programUrl": "/programme/antenne-reunion/la-mariee-tueuse-saison-1",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-19 06:30:00+00",
+      "endTime": "2026-04-19 07:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6186e8d2-deb6-42f1-9263-6f812684b159",
+      "title": "La mariée tueuse - Saison 1",
+      "programSlug": "la-mariee-tueuse-saison-1",
+      "programUrl": "/programme/antenne-reunion/la-mariee-tueuse-saison-1",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-19 07:20:00+00",
+      "endTime": "2026-04-19 08:10:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 05:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,90 @@
+{
+  "type": "actor",
+  "slug": "adriano-giannini",
+  "name": "Adriano Giannini",
+  "worksCount": 2,
+  "description": "acteur italien",
+  "descriptionAi": "Adriano Giannini incarne un acteur italien au charisme naturel, évoluant avec aisance entre le drame intimiste et la comédie légère. Son jeu empreint d'authenticité et sa présence à l'écran captent immédiatement l'attention. Le téléspectateur est séduit par sa capacité à donner vie à des personnages complexes, souvent marqués par une profonde humanité et une vulnérabilité touchante. Que ce soit dans des fresques historiques ou des récits contemporains, il apporte une intensité discrète qui enrichit chaque intrigue. Pour découvrir ses rôles les plus marquants et suivre ses prochaines diffusions, une seule adresse : à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adriano%20Giannini%20at%20Berlinale%202024%2C%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-05-10",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1077542",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Adriano_Giannini",
+    "imdb": "nm0316271",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-foret-de-glace",
+      "title": "La forêt de glace"
+    },
+    {
+      "type": "film",
+      "slug": "una-donna-per-amica",
+      "title": "Una donna per amica"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0cfb2382-e92c-4564-84cb-2e7caade4407",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 07:05:00+00",
+      "endTime": "2026-04-19 08:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5b573118-6df5-44c3-9f9e-00230b0f174c",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 14:15:00+00",
+      "endTime": "2026-04-19 15:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "19bcb3a6-cb28-4097-95ff-cefdd0cfc1f0",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-22 02:35:00+00",
+      "endTime": "2026-04-22 04:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "0f384023-b5c9-42ba-9261-328c7eec397b",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 04:00:00+00",
+      "endTime": "2026-04-26 05:25:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:25.944Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 07:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

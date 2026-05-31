@@ -1,0 +1,111 @@
+{
+  "type": "actor",
+  "slug": "dominique-besnehard",
+  "name": "Dominique Besnehard",
+  "worksCount": 4,
+  "description": "acteur et producteur de cinéma français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominique%20Besnehard%20Cannes%202017.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1954-02-05",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q346102",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dominique_Besnehard",
+    "imdb": "nm0078712",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-cite-de-la-peur",
+      "title": "La cité de la peur"
+    },
+    {
+      "type": "film",
+      "slug": "legitime-violence",
+      "title": "Légitime violence"
+    },
+    {
+      "type": "film",
+      "slug": "marche-a-l-ombre",
+      "title": "Marche à l'ombre"
+    },
+    {
+      "type": "film",
+      "slug": "37-2-le-matin",
+      "title": "37°2 le matin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "446bead3-c7c9-4330-a059-47db43c2c967",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-19 23:50:00+00",
+      "endTime": "2026-04-20 01:24:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b41982db-b0e7-4ba1-a15f-c77d25a6a119",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 22:17:00+00",
+      "endTime": "2026-04-21 23:51:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "42611a44-ab50-4e94-98a2-182319fa2b6a",
+      "title": "La cité de la peur",
+      "programSlug": "la-cite-de-la-peur",
+      "programUrl": "/programme/canal-grand-ecran/la-cite-de-la-peur",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 07:57:00+00",
+      "endTime": "2026-04-22 09:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ff31e0ed-dd74-4d0a-b230-1f276cc231cc",
+      "title": "37°2 le matin",
+      "programSlug": "37-2-le-matin",
+      "programUrl": "/programme/cine-festival/37-2-le-matin",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 09:04:00+00",
+      "endTime": "2026-04-23 11:03:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "50268974-b6ba-4329-931b-197093e3efd7",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 00:06:00+00",
+      "endTime": "2026-04-24 01:40:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 23:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

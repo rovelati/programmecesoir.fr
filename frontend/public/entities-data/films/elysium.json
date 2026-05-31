@@ -1,0 +1,168 @@
+{
+  "type": "film",
+  "slug": "elysium",
+  "title": "Elysium",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Elysium"
+  ],
+  "genres": [
+    "thriller",
+    "thriller d'action",
+    "film dystopique",
+    "film d'action de science-fiction",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "drame",
+    "cyberpunk"
+  ],
+  "description": "En 2154, sur une Terre surpeuplée et dévastée. La population s'entasse dans des bidonvilles, tentant d'échapper à la violence d'une société extrêmement inégalitaire. Les riches, eux, se sont réfugiés sur Elysium, une station spatiale ultra-moderne et luxueuse, où toutes les maladies sont devenues curables. Max, un homme ordinaire, est irradié au cours d'une manipulation dans l'usine où il travaille. En sursis, il cherche à se rendre sur Elysium afin d'y être guéri. Parallèlement, il accepte une mission périlleuse et doit affronter la secrétaire à la Défense, la redoutable Jessica Delacourt, qui règne sur Elysium...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0337b7ef-f2de-454a-a9b3-91061f89114c",
+      "title": "Elysium",
+      "programSlug": "elysium",
+      "programUrl": "/programme/canal-grand-ecran/elysium",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 21:05:00+00",
+      "endTime": "2026-04-19 22:52:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 109,
+  "cast": [
+    {
+      "qid": "Q175535",
+      "slug": "matt-damon",
+      "name": "Matt Damon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41351",
+      "slug": "jodie-foster",
+      "name": "Jodie Foster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220335",
+      "slug": "william-fichtner",
+      "name": "William Fichtner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230903",
+      "slug": "alice-braga",
+      "name": "Alice Braga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313044",
+      "slug": "diego-luna",
+      "name": "Diego Luna",
+      "role": "actor"
+    },
+    {
+      "qid": "Q81223",
+      "slug": "michael-shanks",
+      "name": "Michael Shanks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q512353",
+      "slug": "sharlto-copley",
+      "name": "Sharlto Copley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q81131",
+      "slug": "talisa-soto",
+      "name": "Talisa Soto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q260241",
+      "slug": "carly-pope",
+      "name": "Carly Pope",
+      "role": "actor"
+    },
+    {
+      "qid": "Q431397",
+      "slug": "maxwell-perry-cotton",
+      "name": "Maxwell Perry Cotton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q435368",
+      "slug": "christina-cox",
+      "name": "Christina Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q371972",
+      "slug": "faran-tahir",
+      "name": "Faran Tahir",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350014",
+      "slug": "jose-pablo-cantillo",
+      "name": "Jose Pablo Cantillo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3117917",
+      "slug": "ona-grauer",
+      "name": "Ona Grauer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q922503",
+      "slug": "wagner-moura",
+      "name": "Wagner Moura",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2405582",
+      "slug": "terry-chen",
+      "name": "Terry Chen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q715838",
+    "slug": "neill-blomkamp",
+    "name": "Neill Blomkamp",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 21:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

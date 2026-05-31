@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "robert-hossein",
+  "name": "Robert Hossein",
+  "worksCount": 2,
+  "description": "acteur et metteur en scène français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Hossein%20Cannes%202018%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1927-12-30",
+  "nationality": "France",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q375290",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Robert_Hossein",
+    "imdb": "nm0396136",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-professionnel",
+      "title": "Le professionnel"
+    },
+    {
+      "type": "film",
+      "slug": "le-repos-du-guerrier",
+      "title": "Le repos du guerrier"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

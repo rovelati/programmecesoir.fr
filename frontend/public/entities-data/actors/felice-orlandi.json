@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "felice-orlandi",
+  "name": "Felice Orlandi",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1925-09-18",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q15973029",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Felice_Orlandi",
+    "imdb": "nm0649939",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "48-heures-de-plus",
+      "title": "48 heures de plus"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8b436930-4002-42bd-9f53-74c593b7ff8a",
+      "title": "48 heures de plus",
+      "programSlug": "48-heures-de-plus",
+      "programUrl": "/programme/action/48-heures-de-plus",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-19 12:50:00+00",
+      "endTime": "2026-04-19 14:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "90a0a586-6ecf-445c-92f6-b6ffdc6fb16e",
+      "title": "48 heures de plus",
+      "programSlug": "48-heures-de-plus",
+      "programUrl": "/programme/action/48-heures-de-plus",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 08:59:00+00",
+      "endTime": "2026-04-25 10:33:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 12:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

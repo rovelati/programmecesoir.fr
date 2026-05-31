@@ -1,0 +1,186 @@
+{
+  "type": "actor",
+  "slug": "michael-shanks",
+  "name": "Michael Shanks",
+  "worksCount": 2,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Shanks%20at%20Gamefest%202023%20Strasbourg.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-12-15",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q81223",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michael_Shanks_(acteur)",
+    "imdb": "nm0788218",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "elysium",
+      "title": "Elysium"
+    },
+    {
+      "type": "series",
+      "slug": "stargate-sg-1",
+      "title": "Stargate SG-1"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0337b7ef-f2de-454a-a9b3-91061f89114c",
+      "title": "Elysium",
+      "programSlug": "elysium",
+      "programUrl": "/programme/canal-grand-ecran/elysium",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 21:05:00+00",
+      "endTime": "2026-04-19 22:52:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bf8616c0-5fa7-4acb-bf35-d6114ad2d87b",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 14:45:00+00",
+      "endTime": "2026-04-20 15:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c67438b8-3c61-41bb-b28b-f299855d964f",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 15:35:00+00",
+      "endTime": "2026-04-20 16:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4151143e-6688-4480-9624-3cc099695ad4",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 16:20:00+00",
+      "endTime": "2026-04-20 17:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a0e3170a-28e0-4be7-9937-fab5244e5d33",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 17:10:00+00",
+      "endTime": "2026-04-20 18:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "758b77c1-c8fe-4671-a574-206a53928c39",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 18:00:00+00",
+      "endTime": "2026-04-20 18:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "594fce1b-9742-414a-8ec5-ea64cfd81b0f",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 14:45:00+00",
+      "endTime": "2026-04-21 15:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "5a4312b0-6004-45b6-816f-c0e230beb395",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 15:35:00+00",
+      "endTime": "2026-04-21 16:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1d701bf4-eb18-4574-a668-27a3a6f9d5bd",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 16:20:00+00",
+      "endTime": "2026-04-21 17:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b6ba6a2b-2ba4-4d99-bb46-69d8d7f1f11b",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 17:10:00+00",
+      "endTime": "2026-04-21 18:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8a46ac3c-71de-47de-a152-826d5901748b",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 18:00:00+00",
+      "endTime": "2026-04-21 18:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "41bfebc8-19ae-4312-b38b-a71e223c1e37",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 14:45:00+00",
+      "endTime": "2026-04-22 15:35:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 21:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

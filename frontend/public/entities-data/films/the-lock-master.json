@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "the-lock-master",
+  "title": "The Lock Master",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "The Lock Master"
+  ],
+  "genres": [
+    "Cinéma",
+    "Film d'aventures"
+  ],
+  "description": "Miller Graham est serrurier. Son travail et son expertise à ouvrir les portes l'ont amené à faire quelques bêtises et l'ont envoyé derrière les barreaux. A sa sortie de prison, Miller veut reprendre une existence normale, renouer avec sa fille, et reconquérir son ex-fiancée, Beth. Entretemps, cette dernière est devenue policière. Mais un kidnapping inattendu et la fréquentation de voyous et de flics corrompus vont replonger Miller dans un univers dangereux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "channelNumber": null,
+      "logoUrl": "/loghi/13eme-rue.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

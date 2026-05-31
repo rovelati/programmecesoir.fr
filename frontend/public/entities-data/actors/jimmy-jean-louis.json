@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jimmy-jean-louis",
+  "name": "Jimmy Jean-Louis",
+  "worksCount": 1,
+  "description": "acteur haïtien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jimmy%20Jean-Louis.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-08-08",
+  "nationality": "Haïti",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q931325",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jimmy_Jean-Louis",
+    "imdb": "nm1097515",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sa-mere-ou-moi",
+      "title": "Sa mère ou moi !"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

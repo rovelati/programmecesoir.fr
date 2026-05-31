@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "andrzej-seweryn",
+  "name": "Andrzej Seweryn",
+  "worksCount": 1,
+  "description": "acteur franco-polonais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JKRUK%2020090827%20ANDRZEJ%20SEWERYN%20SANATO%20BUSKO%20IMG%205280.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1946-04-25",
+  "nationality": "Pologne",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q515592",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Andrzej_Seweryn",
+    "imdb": "nm0786614",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "indochine",
+      "title": "Indochine"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c79031-b25c-49b8-8ad2-27e626a56e4d",
+      "title": "Indochine",
+      "programSlug": "indochine",
+      "programUrl": "/programme/cine-classic/indochine",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 18:50:00+00",
+      "endTime": "2026-04-24 21:22:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

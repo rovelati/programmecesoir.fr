@@ -1,0 +1,131 @@
+{
+  "type": "film",
+  "slug": "le-come-back",
+  "title": "Le come-back",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le come-back"
+  ],
+  "genres": [
+    "comédie romantique",
+    "film ou téléfilm musical"
+  ],
+  "description": "Après avoir connu un immense succès dans les années 80, le chanteur Alex Fletcher se voit offrir une proposition qui pourrait le propulser à nouveau sur le devant de la scène. Mais l'inspiration lui fait cruellement défaut. L'aide que lui propose la délicieuse Sophie Fisher tombe à point nommé...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2007,
+  "durationMinutes": 104,
+  "cast": [
+    {
+      "qid": "Q163286",
+      "slug": "hugh-grant",
+      "name": "Hugh Grant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q676094",
+      "slug": "drew-barrymore",
+      "name": "Drew Barrymore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q331720",
+      "slug": "brad-garrett",
+      "name": "Brad Garrett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234096",
+      "slug": "kristen-johnston",
+      "name": "Kristen Johnston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q528527",
+      "slug": "campbell-scott",
+      "name": "Campbell Scott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1334777",
+      "slug": "scott-porter",
+      "name": "Scott Porter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232797",
+      "slug": "haley-bennett",
+      "name": "Haley Bennett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294812",
+      "slug": "matthew-morrison",
+      "name": "Matthew Morrison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q303538",
+      "slug": "aasif-mandvi",
+      "name": "Aasif Mandvi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3506092",
+      "slug": "suzi-lorraine",
+      "name": "Suzi Lorraine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q444373",
+      "slug": "toni-trucks",
+      "name": "Toni Trucks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2919454",
+      "slug": "zak-orth",
+      "name": "Zak Orth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q31409",
+      "slug": "jason-antoon",
+      "name": "Jason Antoon",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1892718",
+    "slug": "marc-lawrence",
+    "name": "Marc Lawrence",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

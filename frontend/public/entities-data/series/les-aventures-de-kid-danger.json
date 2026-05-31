@@ -1,0 +1,52 @@
+{
+  "type": "series",
+  "slug": "les-aventures-de-kid-danger",
+  "title": "Les aventures de Kid Danger",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Les aventures de Kid Danger"
+  ],
+  "genres": [
+    "série télévisée comique",
+    "série télévisée pour la jeunesse"
+  ],
+  "description": "\"Wahoo le pote punchy\". Wahoo le pote punchy est devenu incontrôlable et terrorise Swellview. - \"Le bolide rose\". Lorsque Mitch Bilsky se moque du scooter rose de Henry, Ray décide d'organiser une course entre l'engin et la moto de Mitch...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon-teen.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2018,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": {
+    "qid": "Q444366",
+    "slug": "dan-schneider",
+    "name": "Dan Schneider",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "harry-andrews",
+  "name": "Harry Andrews",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Andrews%202%20Allan%20Warren.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1911-11-10",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q1340574",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Harry_Andrews",
+    "imdb": "nm0028674",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-berets-rouges",
+      "title": "Les bérets rouges"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "stephen-elliott",
+  "name": "Stephen Elliott",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Elliott%20in%20Tales%20of%20Tomorrow%20(The%20Horn).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1918-11-27",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q322509",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Stephen_Elliott_(acteur)",
+    "imdb": "nm0254634",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-justicier-dans-la-ville",
+      "title": "Un justicier dans la ville"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b38a6330-ea1c-4f73-bbf8-2a20ef657bdc",
+      "title": "Un justicier dans la ville",
+      "programSlug": "un-justicier-dans-la-ville",
+      "programUrl": "/programme/tcm-cinema/un-justicier-dans-la-ville",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 20:20:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

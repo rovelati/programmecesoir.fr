@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "regards-croises",
+  "title": "Regards croisés",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Regards croisés"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Accompagnée depuis mon enfance par le regard de la chouette effraie, aujourd'hui grâce à elle, je fais mes premiers pas dans le cinéma animalier avec une question en tête. Suis-je la seule pour qui la passion de ce métier s'est forgée depuis l'enfance à la suite d'un regard croisé avec un animal ? Je suis alors venue au cœur des montagnes alpines pour y découvrir l'histoire de Guillaume Collombet cinéaste et photographe animalier et de son animal emblématique.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "biptvfr",
+      "channelName": "BipTV.fr",
+      "channelSlug": "biptvfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/biptvfr.svg",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

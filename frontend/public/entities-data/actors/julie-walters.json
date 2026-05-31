@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "julie-walters",
+  "name": "Julie Walters",
+  "worksCount": 2,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie%20Walters%20at%20the%20Paddington%20Premiere.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1950-02-22",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q228747",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Julie_Walters",
+    "imdb": "nm0910278",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "wild-rose",
+      "title": "Wild Rose"
+    },
+    {
+      "type": "film",
+      "slug": "paddington-au-perou",
+      "title": "Paddington au Pérou"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "26a98908-1abc-4d69-a66b-2d8659b291e8",
+      "title": "Wild Rose",
+      "programSlug": "wild-rose",
+      "programUrl": "/programme/cine-emotion/wild-rose",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-21 13:21:00+00",
+      "endTime": "2026-04-21 14:58:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7bb4aa3b-4b08-40d8-8b6b-5894943fc53b",
+      "title": "Wild Rose",
+      "programSlug": "wild-rose",
+      "programUrl": "/programme/cine-emotion/wild-rose",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-24 04:51:00+00",
+      "endTime": "2026-04-24 06:31:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 13:21:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

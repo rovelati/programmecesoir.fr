@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "emmanuelle-bouaziz",
+  "name": "Emmanuelle Bouaziz",
+  "worksCount": 2,
+  "description": "chanteuse française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuelle%20Bouaziz.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q18169333",
+    "wikipedia": null,
+    "imdb": "nm2216143",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-voyage-en-pyjama",
+      "title": "Le voyage en pyjama"
+    },
+    {
+      "type": "film",
+      "slug": "deux-moi",
+      "title": "Deux moi"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e35d2b3a-ab76-4686-8779-9a6479c47000",
+      "title": "Deux moi",
+      "programSlug": "deux-moi",
+      "programUrl": "/programme/canal-grand-ecran/deux-moi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 01:26:00+00",
+      "endTime": "2026-04-22 03:38:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-22 01:26:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

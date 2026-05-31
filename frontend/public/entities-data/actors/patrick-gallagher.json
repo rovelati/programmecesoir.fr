@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "patrick-gallagher",
+  "name": "Patrick Gallagher",
+  "worksCount": 1,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20Gallagher.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-02-21",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q119966",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Patrick_Gallagher",
+    "imdb": "nm0302466",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-nuit-au-musee",
+      "title": "La nuit au musée"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

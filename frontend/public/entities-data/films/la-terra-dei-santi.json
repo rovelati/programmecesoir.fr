@@ -1,0 +1,114 @@
+{
+  "type": "film",
+  "slug": "la-terra-dei-santi",
+  "title": "La terra dei Santi",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La terra dei Santi"
+  ],
+  "genres": [
+    "thriller",
+    "drame"
+  ],
+  "description": "En Calabre, deux soeurs voient leurs fils attirés par la mafia. Caterina pousse Pasquale à succéder à son père, tandis qu'Assunta craint pour Giuseppe.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4481e82c-86b7-4767-9892-f507bbb5e969",
+      "title": "La terra dei Santi",
+      "programSlug": "la-terra-dei-santi",
+      "programUrl": "/programme/eurochannel/la-terra-dei-santi",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 07:05:00+00",
+      "endTime": "2026-04-21 08:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "95c31fe1-d757-47e8-b1e8-72134469371a",
+      "title": "La terra dei Santi",
+      "programSlug": "la-terra-dei-santi",
+      "programUrl": "/programme/eurochannel/la-terra-dei-santi",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-25 02:35:00+00",
+      "endTime": "2026-04-25 04:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 89,
+  "cast": [
+    {
+      "qid": "Q511290",
+      "slug": "valeria-solarino",
+      "name": "Valeria Solarino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3836849",
+      "slug": "lorenza-indovina",
+      "name": "Lorenza Indovina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1993073",
+      "slug": "ninni-bruschetta",
+      "name": "Ninni Bruschetta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3992834",
+      "slug": "tommaso-ragno",
+      "name": "Tommaso Ragno",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3680240",
+      "slug": "claudio-spadaro",
+      "name": "Claudio Spadaro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16546496",
+      "slug": "daniela-marra",
+      "name": "Daniela Marra",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q115197089",
+    "slug": "fernando-muraca",
+    "name": "Fernando Muraca",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 07:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

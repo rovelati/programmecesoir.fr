@@ -1,0 +1,59 @@
+{
+  "type": "series",
+  "slug": "bienvenue-chez-les-mouches",
+  "title": "Bienvenue chez les mouches",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Bienvenue chez les mouches"
+  ],
+  "genres": [
+    "Série"
+  ],
+  "description": "Gena vient de terminer l'écriture de son guide de survie en plein air destiné aux mouches et propose à son fils Louis de lui donner des conseils en organisant un stage.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-corse.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c354a032-3edf-45a4-89fa-b9e3fbfefe5d",
+      "title": "Bienvenue chez les mouches",
+      "programSlug": "bienvenue-chez-les-mouches",
+      "programUrl": "/programme/france-3-corse/bienvenue-chez-les-mouches",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 06:28:00+00",
+      "endTime": "2026-04-19 06:39:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 06:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

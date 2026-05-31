@@ -1,0 +1,131 @@
+{
+  "type": "film",
+  "slug": "je-t-attendrai",
+  "title": "Je t'attendrai",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Je t'attendrai"
+  ],
+  "genres": [
+    "drame",
+    "film et téléfilm de guerre"
+  ],
+  "description": "En 1918, pendant la Première Guerre mondiale. Un train de militaires est immobilisé, et Paul déserte pour quelques heures afin de rejoindre son village natal qui est tout proche.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1939,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q534601",
+      "slug": "jean-pierre-aumont",
+      "name": "Jean-Pierre Aumont",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830987",
+      "slug": "albert-broquin",
+      "name": "Albert Broquin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438920",
+      "slug": "berthe-bovy",
+      "name": "Berthe Bovy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2294413",
+      "slug": "corinne-luchaire",
+      "name": "Corinne Luchaire",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3023047",
+      "slug": "denise-kerny",
+      "name": "Denise Kerny",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3579799",
+      "slug": "edouard-delmont",
+      "name": "Édouard Delmont",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3102293",
+      "slug": "georges-bever",
+      "name": "Georges Bever",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3384984",
+      "slug": "pierre-ferval",
+      "name": "Pierre Ferval",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3420629",
+      "slug": "raymond-aimos",
+      "name": "Raymond Aimos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3425827",
+      "slug": "rene-bergeron",
+      "name": "René Bergeron",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3439198",
+      "slug": "roger-legris",
+      "name": "Roger Legris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3439936",
+      "slug": "roland-armontel",
+      "name": "Roland Armontel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3573608",
+      "slug": "yves-deniaud",
+      "name": "Yves Deniaud",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1760253",
+    "slug": "leonide-moguy",
+    "name": "Léonide Moguy",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

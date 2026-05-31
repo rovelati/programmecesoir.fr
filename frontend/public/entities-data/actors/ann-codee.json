@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "ann-codee",
+  "name": "Ann Codee",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": "Ann Codee, actrice américaine d’origine belge, a marqué l’âge d’or d’Hollywood par ses rôles secondaires souvent truculents. Son jeu, oscillant entre comédie légère et mélodrame, apporte une touche d’authenticité et de charme européen aux productions des années 1930 et 1940. Le spectateur est séduit par sa présence naturelle et sa capacité à incarner des personnages à la fois chaleureux et pleins d’esprit, souvent des figures maternelles ou des voisines pittoresques. Découvrir Ann Codee, c’est plonger dans une époque où chaque apparition à l’écran, même brève, avait son importance et son charme. Une filmographie à savourer, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ann%20Codee%20in%20Drums%20of%20the%20Desert.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1890-03-05",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q4766328",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ann_Codee",
+    "imdb": "nm0168459",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "taikoun",
+      "title": "Taïkoun"
+    },
+    {
+      "type": "film",
+      "slug": "un-americain-a-paris",
+      "title": "Un Américain à Paris"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0afcc99a-5a64-49cd-9907-094e01097ba3",
+      "title": "Un Américain à Paris",
+      "programSlug": "un-americain-a-paris",
+      "programUrl": "/programme/cine-classic/un-americain-a-paris",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-19 13:48:00+00",
+      "endTime": "2026-04-19 15:38:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d9673e75-145f-41ee-997b-508b481199c1",
+      "title": "Taïkoun",
+      "programSlug": "taikoun",
+      "programUrl": "/programme/tcm-cinema/taikoun",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-22 16:45:00+00",
+      "endTime": "2026-04-22 18:50:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:25.085Z",
+  "nextAiringAt": "2026-04-19 13:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

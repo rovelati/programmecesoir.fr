@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "irene-browne",
+  "name": "Irene Browne",
+  "worksCount": 2,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1896-06-29",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q946000",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Irene_Browne",
+    "imdb": "nm0115008",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "cavalcade",
+      "title": "Cavalcade"
+    },
+    {
+      "type": "film",
+      "slug": "la-phalene-d-argent",
+      "title": "La phalène d'argent"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3965fb9b-ab37-4b93-82a1-9d5c8f1c576b",
+      "title": "La phalène d'argent",
+      "programSlug": "la-phalene-d-argent",
+      "programUrl": "/programme/tcm-cinema/la-phalene-d-argent",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 04:05:00+00",
+      "endTime": "2026-04-23 05:20:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 04:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "alexandre-steiger",
+  "name": "Alexandre Steiger",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": "Alexandre Steiger incarne un genre de drame intimiste, souvent teinté de mélancolie et de réalisme social. Son jeu, d’une sobriété intense, capte l’attention par sa justesse et sa capacité à révéler les failles de ses personnages. Pour le téléspectateur, il offre une plongée authentique dans des rôles complexes, où chaque silence et chaque regard en disent long sur les tourments intérieurs. Sa présence à l’écran, à la fois discrète et puissante, invite à une réflexion sur la condition humaine. Une interprétation toujours remarquable, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-08-17",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2834044",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alexandre_Steiger",
+    "imdb": "nm1625796",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-parfum-vert",
+      "title": "Le Parfum vert"
+    },
+    {
+      "type": "film",
+      "slug": "l-ordre-et-la-morale",
+      "title": "L'ordre et la morale"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "654df7e8-1d28-485b-887e-f07f1bb9656c",
+      "title": "Le Parfum vert",
+      "programSlug": "le-parfum-vert",
+      "programUrl": "/programme/cine-frisson/le-parfum-vert",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 23:19:00+00",
+      "endTime": "2026-04-25 00:53:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:49.518Z",
+  "nextAiringAt": "2026-04-24 23:19:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

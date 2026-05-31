@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "amy-brenneman",
+  "name": "Amy Brenneman",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": "Amy Brenneman incarne avec justesse des personnages complexes, souvent ancrés dans des séries dramatiques ou policières. L’ambiance oscille entre une profonde humanité et une tension psychologique subtile, portée par son jeu nuancé et intense. Ce qui captive, c’est sa capacité à révéler les failles et les forces intérieures de ses rôles, créant une empathie immédiate avec le téléspectateur. Elle excelle à donner vie à des femmes résilientes, aux prises avec des dilemmes moraux ou des combats intimes, rendant chaque histoire profondément personnelle et universelle. Pour découvrir ses performances marquantes, une sélection est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy%20Brenneman%202009%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-06-22",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q232520",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Amy_Brenneman",
+    "imdb": "nm0000312",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "daylight",
+      "title": "Daylight"
+    },
+    {
+      "type": "film",
+      "slug": "heat",
+      "title": "Heat"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4019fc0c-7454-48c5-aed3-e32397b04254",
+      "title": "Daylight",
+      "programSlug": "daylight",
+      "programUrl": "/programme/rtl9/daylight",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-25 21:10:00+00",
+      "endTime": "2026-04-25 23:05:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:08.582Z",
+  "nextAiringAt": "2026-04-25 21:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

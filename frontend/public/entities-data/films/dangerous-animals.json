@@ -1,0 +1,156 @@
+{
+  "type": "film",
+  "slug": "dangerous-animals",
+  "title": "Dangerous Animals",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Dangerous Animals"
+  ],
+  "genres": [
+    "thriller",
+    "film et téléfilm d'horreur",
+    "film de survie",
+    "natural horror film"
+  ],
+  "description": "Sur la côte est de l'Australie, Zephyr, une surfeuse intrépide au tempérament libre, est kidnappée par un tueur en série obsédé par les requins. Séquestrée sur son bateau et confrontée à la folie de son ravisseur, elle doit ruser pour échapper à son bourreau avant qu'il ne la jette aux requins...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0f06165-13f8-40b4-8129-573e54aa01d0",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/canal-cinema/dangerous-animals",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 20:40:00+00",
+      "endTime": "2026-04-20 22:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "df50f842-e69f-470b-9a6f-193e0bd9d853",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/paramount-channel/dangerous-animals",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-20 20:40:00+00",
+      "endTime": "2026-04-20 22:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "40ce24fe-b796-42ca-9fd0-9e1d02dcfc63",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/canal-box-office/dangerous-animals",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 14:33:00+00",
+      "endTime": "2026-04-21 16:08:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "be864a3f-53ef-44a4-ba0c-01d4080c331a",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/paramount-channel/dangerous-animals",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 23:10:00+00",
+      "endTime": "2026-04-24 00:45:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "2ad513d6-dcb3-4158-9256-abffc0cd0e0c",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/canal-cinema/dangerous-animals",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 23:11:00+00",
+      "endTime": "2026-04-24 00:47:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q604849",
+      "slug": "jai-courtney",
+      "name": "Jai Courtney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108913327",
+      "slug": "hassie-harrison",
+      "name": "Hassie Harrison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108372336",
+      "slug": "joshua-heuston",
+      "name": "Joshua Heuston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7340022",
+      "slug": "rob-carlton",
+      "name": "Rob Carlton",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q27630796",
+    "slug": "sean-byrne",
+    "name": "Sean Byrne",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 20:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

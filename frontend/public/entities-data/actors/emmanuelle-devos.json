@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "emmanuelle-devos",
+  "name": "Emmanuelle Devos",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuelle%20Devos%20f%C3%AAte%20du%20cin%C3%A9ma%202019.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-05-10",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q241043",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Emmanuelle_Devos",
+    "imdb": "nm0222922",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "tromper",
+      "title": "Tromper"
+    },
+    {
+      "type": "film",
+      "slug": "petites-coupures",
+      "title": "Petites coupures"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9b44ab34-937b-4589-935c-ad4d47dce606",
+      "title": "Petites coupures",
+      "programSlug": "petites-coupures",
+      "programUrl": "/programme/canal-grand-ecran/petites-coupures",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 04:00:00+00",
+      "endTime": "2026-04-23 05:33:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 04:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

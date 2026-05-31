@@ -1,0 +1,133 @@
+{
+  "type": "film",
+  "slug": "seules-les-betes",
+  "title": "Seules les bêtes",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Seules les bêtes"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "adaptation d'une œuvre littéraire au cinéma",
+    "thriller"
+  ],
+  "description": "Dans les Causses, Evelyn disparaît un jour mystérieusement. Sa voiture est retrouvée sur une route déserte. Aux alentours, ne se trouvent que quelques fermes isolées. Les gendarmes ont du mal à trouver des pistes pour la localiser. Pourtant cinq personnes sont secrètement liées à la disparition...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "aa048c4b-7076-442d-8ce1-88d5dc1758ad",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 14:51:00+00",
+      "endTime": "2026-04-21 16:46:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "73463dbd-0d24-48f0-95a1-5068ad553278",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 16:55:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "bc39ab94-9a09-4e74-8f1a-a6abb2323210",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 07:04:00+00",
+      "endTime": "2026-04-25 08:59:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2019,
+  "durationMinutes": 117,
+  "cast": [
+    {
+      "qid": "Q967764",
+      "slug": "denis-menochet",
+      "name": "Denis Ménochet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3218747",
+      "slug": "laure-calamy",
+      "name": "Laure Calamy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27535240",
+      "slug": "damien-bonnard",
+      "name": "Damien Bonnard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232470",
+      "slug": "valeria-bruni-tedeschi",
+      "name": "Valeria Bruni Tedeschi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2887704",
+      "slug": "bastien-bouillon",
+      "name": "Bastien Bouillon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q62108374",
+      "slug": "nadia-tereszkiewicz",
+      "name": "Nadia Tereszkiewicz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3086961",
+      "slug": "fred-ulysse",
+      "name": "Fred Ulysse",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q722352",
+    "slug": "dominik-moll",
+    "name": "Dominik Moll",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 14:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

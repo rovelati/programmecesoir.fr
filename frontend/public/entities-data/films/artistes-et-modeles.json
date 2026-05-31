@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "artistes-et-modeles",
+  "title": "Artistes et modèles",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Artistes et modèles"
+  ],
+  "genres": [
+    "film ou téléfilm musical",
+    "comédie"
+  ],
+  "description": "Rick Todd, un dessinateur, et son associé Eugene Fullstack, auteur de livres pour enfants sans succès, ont du mal à joindre les deux bouts. Lorsque Rick décroche enfin le contrat de sa vie auprès de l'éditeur Murdock, il se croit tiré d'affaire. Mais des événements curieux vont s'enchaîner. D'abord du côté d'Eugene, qui reçoit dans ses cauchemars des informations secrètes. Ensuite du côté de Rick qui, sans aucun scrupule, utilise ses données oniriques pour écrire ses bandes dessinées. Cette association aurait pu continuer longtemps, sans l'intervention inopinée des agents de la CIA, très intéressés par le cas d'Eugene...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1955,
+  "durationMinutes": 109,
+  "cast": [
+    {
+      "qid": "Q215359",
+      "slug": "dean-martin",
+      "name": "Dean Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294927",
+      "slug": "jerry-lewis",
+      "name": "Jerry Lewis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230126",
+      "slug": "dorothy-malone",
+      "name": "Dorothy Malone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95026",
+      "slug": "shirley-maclaine",
+      "name": "Shirley MacLaine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235928",
+      "slug": "eva-gabor",
+      "name": "Eva Gabor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230662",
+      "slug": "anita-ekberg",
+      "name": "Anita Ekberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11681261",
+      "slug": "eddie-mayehoff",
+      "name": "Eddie Mayehoff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272505",
+      "slug": "kathleen-freeman",
+      "name": "Kathleen Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q500155",
+      "slug": "jack-elam",
+      "name": "Jack Elam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q534064",
+      "slug": "herbert-rudley",
+      "name": "Herbert Rudley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3061361",
+      "slug": "eve-miller",
+      "name": "Eve Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q443110",
+      "slug": "minta-durfee",
+      "name": "Minta Durfee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5125741",
+      "slug": "clancy-cooper",
+      "name": "Clancy Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3418248",
+      "slug": "ralph-dumke",
+      "name": "Ralph Dumke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082668",
+      "slug": "frank-jenks",
+      "name": "Frank Jenks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q513849",
+      "slug": "bess-flowers",
+      "name": "Bess Flowers",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q589459",
+    "slug": "frank-tashlin",
+    "name": "Frank Tashlin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

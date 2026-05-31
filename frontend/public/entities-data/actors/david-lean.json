@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "david-lean",
+  "name": "David Lean",
+  "worksCount": 1,
+  "description": "réalisateur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DavidLean1965.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1908-03-25",
+  "nationality": "Royaume-Uni de Grande-Bretagne et d'Irlande",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q55260",
+    "wikipedia": "https://fr.wikipedia.org/wiki/David_Lean",
+    "imdb": "nm0000180",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "vacances-a-venise",
+      "title": "Vacances à Venise"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b0aafbb-558f-4846-b94c-231169d3f063",
+      "title": "Vacances à Venise",
+      "programSlug": "vacances-a-venise",
+      "programUrl": "/programme/tcm-cinema/vacances-a-venise",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-25 13:30:00+00",
+      "endTime": "2026-04-25 15:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 13:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

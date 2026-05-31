@@ -1,0 +1,159 @@
+{
+  "type": "film",
+  "slug": "da-vinci-code",
+  "title": "Da Vinci Code",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Da Vinci Code"
+  ],
+  "genres": [
+    "film ou téléfilm à énigme",
+    "film de chasse au trésor",
+    "film ou téléfilm criminel",
+    "drame"
+  ],
+  "description": "Jacques Saunière, le conservateur du Louvre, est retrouvé assassiné. Avant de mourir, il a dissimulé plusieurs indices dans les oeuvres de Léonard de Vinci. De Paris à Londres, un scientifique américain, Robert Langdon, et Sophie, la petite-fille de Saunière, tentent de déchiffrer le Code...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 149,
+  "cast": [
+    {
+      "qid": "Q2263",
+      "slug": "tom-hanks",
+      "name": "Tom Hanks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q304123",
+      "slug": "audrey-tautou",
+      "name": "Audrey Tautou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170510",
+      "slug": "ian-mckellen",
+      "name": "Ian McKellen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242707",
+      "slug": "paul-bettany",
+      "name": "Paul Bettany",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43697",
+      "slug": "jean-reno",
+      "name": "Jean Reno",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296028",
+      "slug": "alfred-molina",
+      "name": "Alfred Molina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q739521",
+      "slug": "jean-pierre-marielle",
+      "name": "Jean-Pierre Marielle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1145761",
+      "slug": "marie-francoise-audollent",
+      "name": "Marie-Françoise Audollent",
+      "role": "actor"
+    },
+    {
+      "qid": "Q61356",
+      "slug": "jurgen-prochnow",
+      "name": "Jürgen Prochnow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2826470",
+      "slug": "agathe-natanson",
+      "name": "Agathe Natanson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1187592",
+      "slug": "denis-podalydes",
+      "name": "Denis Podalydès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289524",
+      "slug": "etienne-chicot",
+      "name": "Étienne Chicot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q742428",
+      "slug": "hugh-mitchell",
+      "name": "Hugh Mitchell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q287427",
+      "slug": "jean-yves-berteloot",
+      "name": "Jean-Yves Berteloot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q958227",
+      "slug": "seth-gabel",
+      "name": "Seth Gabel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3570819",
+      "slug": "xavier-de-guillebon",
+      "name": "Xavier de Guillebon",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q103646",
+    "slug": "ron-howard",
+    "name": "Ron Howard",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

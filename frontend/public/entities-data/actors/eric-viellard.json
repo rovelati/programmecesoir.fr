@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "eric-viellard",
+  "name": "Éric Viellard",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-09-00",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q16185771",
+    "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89ric_Viellard",
+    "imdb": "nm0896726",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-petite-vadrouille",
+      "title": "La Petite Vadrouille"
+    },
+    {
+      "type": "film",
+      "slug": "aimons-nous-vivants",
+      "title": "Aimons-nous vivants"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c53dcd94-56f9-4ba7-9d11-feefe81de682",
+      "title": "Aimons-nous vivants",
+      "programSlug": "aimons-nous-vivants",
+      "programUrl": "/programme/canal-box-office/aimons-nous-vivants",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 14:18:00+00",
+      "endTime": "2026-04-23 15:46:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 14:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

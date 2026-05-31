@@ -1,0 +1,191 @@
+{
+  "type": "film",
+  "slug": "superman",
+  "title": "Superman",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Superman"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm de science-fiction",
+    "film de super-héros"
+  ],
+  "description": "Pour sauver leur fils de la destruction de la planète Krypton, Jor-El et sa femme Lara l'envoient sur Terre à bord d'un vaisseau spatial. Arrivé à destination, l'enfant est recueilli par des fermiers, les Kent, qui le prénomment Clark et se doutent, sans jamais le révéler, de ses pouvoirs exceptionnels...",
+  "descriptionAi": "Ce classique de 1978 est un film de super-héros mêlant action et science-fiction. Il dépeint avec une ambiance à la fois épique et chaleureuse les origines du plus célèbre des justiciers, de Krypton à Smallville. Le film captive par son récit fondateur, son sens de l'émerveillement et l'interprétation emblématique de Christopher Reeve, qui incarne parfaitement la dualité entre Clark Kent et Superman. Une aventure intemporelle sur le destin et le pouvoir du bien. Ne manquez pas cette épopée cinématographique à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Superman%20S%20symbol.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dd661284-851d-410d-a76b-dec244acfeba",
+      "title": "Superman",
+      "programSlug": "superman",
+      "programUrl": "/programme/canal-box-office/superman",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 19:00:00+00",
+      "endTime": "2026-04-20 21:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fc673a01-b065-46ff-8229-30080a241bde",
+      "title": "Superman",
+      "programSlug": "superman",
+      "programUrl": "/programme/canal-box-office/superman",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 16:13:00+00",
+      "endTime": "2026-04-22 18:18:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:37.304Z",
+  "year": 1978,
+  "durationMinutes": 143,
+  "cast": [
+    {
+      "qid": "Q34012",
+      "slug": "marlon-brando",
+      "name": "Marlon Brando",
+      "role": "actor"
+    },
+    {
+      "qid": "Q150943",
+      "slug": "gene-hackman",
+      "name": "Gene Hackman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q174311",
+      "slug": "christopher-reeve",
+      "name": "Christopher Reeve",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234471",
+      "slug": "margot-kidder",
+      "name": "Margot Kidder",
+      "role": "actor"
+    },
+    {
+      "qid": "Q372073",
+      "slug": "jackie-cooper",
+      "name": "Jackie Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4212",
+      "slug": "ned-beatty",
+      "name": "Ned Beatty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212048",
+      "slug": "glenn-ford",
+      "name": "Glenn Ford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q270753",
+      "slug": "phyllis-thaxter",
+      "name": "Phyllis Thaxter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q259461",
+      "slug": "valerie-perrine",
+      "name": "Valerie Perrine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q225509",
+      "slug": "susannah-york",
+      "name": "Susannah York",
+      "role": "actor"
+    },
+    {
+      "qid": "Q77298",
+      "slug": "terence-stamp",
+      "name": "Terence Stamp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q458305",
+      "slug": "sarah-douglas",
+      "name": "Sarah Douglas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1677148",
+      "slug": "jack-o-halloran",
+      "name": "Jack O'Halloran",
+      "role": "actor"
+    },
+    {
+      "qid": "Q84365",
+      "slug": "maria-schell",
+      "name": "Maria Schell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q343037",
+      "slug": "trevor-howard",
+      "name": "Trevor Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3428829",
+      "slug": "rex-everhart",
+      "name": "Rex Everhart",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q262130",
+    "slug": "richard-donner",
+    "name": "Richard Donner",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,275 @@
+{
+  "type": "series",
+  "slug": "friends",
+  "title": "Friends",
+  "airingsCount": 93,
+  "sourceTitles": [
+    "Friends",
+    "Friends - Saison 1",
+    "Friends - Saison 2",
+    "Friends - Saison 7",
+    "Friends - Saison 8"
+  ],
+  "genres": [
+    "electronic dance music"
+  ],
+  "description": "Monica et Chandler reviennent de leur voyage de noces, tout excités d'avoir rencontré un autre couple avec lequel ils ont, selon eux, plein de points communs. Alors qu'ils ne cessent de chanter les louanges de Greg et Jenny, provoquant une certaine jalousie chez leurs amis, ils ont la désagréable surprise de découvrir que le couple leur a donné un faux numéro de téléphone. De leur côté, Ross et Rachel se disputent pour déterminer qui, six semaines plus tôt, a fait des avances à l'autre. En argumentant, Ross avoue qu'il a, par hasard, enregistré sur une cassette vidéo la soirée qu'ils ont passée tous les deux...",
+  "descriptionAi": "Cette série comique emblématique des années 90 dépeint avec humour et tendresse la vie de six amis inséparables à New York. Entre quêtes professionnelles, histoires d'amour tumultueuses et scènes de la vie quotidienne partagées autour d'un café, l'ambiance est à la fois drôle, chaleureuse et profondément humaine. Son intérêt réside dans des personnages attachants et des situations cocasses qui, malgré les années, parlent à tous grâce à leur authenticité et leur universel. Une comédie réconfortante sur les liens d'amitié qui façonnent nos vies, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "channelNumber": 11,
+      "logoUrl": "/loghi/tfx.png",
+      "airingsCount": 48
+    },
+    {
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-series-films.png",
+      "airingsCount": 45
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "89332f58-56dd-4a8a-b095-1c0a4d6d11d5",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 11:15:00+00",
+      "endTime": "2026-04-19 11:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2b2399e9-3b20-40da-baa4-70aebadeae87",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 11:45:00+00",
+      "endTime": "2026-04-19 12:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "89411bc0-ecbf-4324-8800-69c512d5ae2b",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 12:10:00+00",
+      "endTime": "2026-04-19 12:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0b531059-0e71-49ea-b2bc-a87ff708b189",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 12:40:00+00",
+      "endTime": "2026-04-19 13:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f0c2539b-4f1e-401f-939b-c3e8916c77cb",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 13:10:00+00",
+      "endTime": "2026-04-19 13:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "baf08ff5-bcc2-43c3-833b-63821e2042d4",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 13:35:00+00",
+      "endTime": "2026-04-19 14:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5918a58b-9ef3-492b-a3a1-370e61c730e0",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 14:05:00+00",
+      "endTime": "2026-04-19 14:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8e42c800-990f-4d44-8649-f16247ea85d3",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 14:35:00+00",
+      "endTime": "2026-04-19 15:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "26bc25a3-b245-49e2-85fe-1ba254b35384",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 15:05:00+00",
+      "endTime": "2026-04-19 15:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8896df06-5f3d-47af-9bc7-8d6acfb4d167",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 15:30:00+00",
+      "endTime": "2026-04-19 16:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a69f8616-ee90-46c9-9e4f-8d98b6d31f14",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 16:00:00+00",
+      "endTime": "2026-04-19 16:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "64275df3-bd75-4e62-b875-8dae9c07c111",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 16:30:00+00",
+      "endTime": "2026-04-19 16:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "84291c56-1bc9-43e0-b765-381bf07b8091",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 16:55:00+00",
+      "endTime": "2026-04-19 17:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fb892dcf-d71f-4abb-84cd-e3c9e94cdb72",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 17:30:00+00",
+      "endTime": "2026-04-19 18:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "038748df-1ed3-48e9-8a0c-072c2391a095",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 18:05:00+00",
+      "endTime": "2026-04-19 18:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7976d3cd-4bcd-4bb1-9be2-cae8de608798",
+      "title": "Friends",
+      "programSlug": "friends",
+      "programUrl": "/programme/tfx/friends",
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "startTime": "2026-04-19 18:30:00+00",
+      "endTime": "2026-04-19 19:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "505f4785-1890-44d4-bb27-c7773fcbcc8d",
+      "title": "Friends - Saison 8",
+      "programSlug": "friends-saison-8",
+      "programUrl": "/programme/tf1-series-films/friends-saison-8",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-25 12:00:00+00",
+      "endTime": "2026-04-25 12:30:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f52ea262-c375-4dca-a532-81edb062d88c",
+      "title": "Friends - Saison 8",
+      "programSlug": "friends-saison-8",
+      "programUrl": "/programme/tf1-series-films/friends-saison-8",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-25 12:30:00+00",
+      "endTime": "2026-04-25 13:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T22:07:42.754Z",
+  "startYear": 2018,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 11:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

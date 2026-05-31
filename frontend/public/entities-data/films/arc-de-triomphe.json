@@ -1,0 +1,131 @@
+{
+  "type": "film",
+  "slug": "arc-de-triomphe",
+  "title": "Arc de Triomphe",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Arc de Triomphe"
+  ],
+  "genres": [
+    "drame",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "A la veille de la Seconde Guerre mondiale, Ravic, un chirurgien de renom, est torturé par Haake, un agent de la Gestapo. Il quitte son pays et se réfugie illégalement à Paris. Il y fait la connaissance de Joan Madou, qu'il sauve du suicide. Ils tombent amoureux l'un de l'autre et parviennent à atteindre la Côte d'Azur. Mais Ravic est découvert par la police et extradé. Il parvient cependant à retourner en France après plusieurs mois...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20Bergman%20Arch%20of%20Triumph%20(1948).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1948,
+  "durationMinutes": 120,
+  "cast": [
+    {
+      "qid": "Q43247",
+      "slug": "ingrid-bergman",
+      "name": "Ingrid Bergman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105987",
+      "slug": "charles-boyer",
+      "name": "Charles Boyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55264",
+      "slug": "charles-laughton",
+      "name": "Charles Laughton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q573399",
+      "slug": "louis-calhern",
+      "name": "Louis Calhern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q456375",
+      "slug": "ruth-warrick",
+      "name": "Ruth Warrick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1377478",
+      "slug": "fedor-chaliapine-fils",
+      "name": "Fédor Chaliapine fils",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2864563",
+      "slug": "art-smith",
+      "name": "Art Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q66479",
+      "slug": "curt-bois",
+      "name": "Curt Bois",
+      "role": "actor"
+    },
+    {
+      "qid": "Q531868",
+      "slug": "hazel-brooks",
+      "name": "Hazel Brooks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3156798",
+      "slug": "j-edward-bromberg",
+      "name": "J. Edward Bromberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3440829",
+      "slug": "roman-bohnen",
+      "name": "Roman Bohnen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3453627",
+      "slug": "ruth-nelson",
+      "name": "Ruth Nelson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20972698",
+      "slug": "oliver-blake",
+      "name": "Oliver Blake",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q285928",
+    "slug": "lewis-milestone",
+    "name": "Lewis Milestone",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

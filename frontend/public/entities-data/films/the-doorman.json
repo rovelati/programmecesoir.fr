@@ -1,0 +1,82 @@
+{
+  "type": "film",
+  "slug": "the-doorman",
+  "title": "The Doorman",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "The Doorman"
+  ],
+  "genres": [
+    "film et téléfilm d'action"
+  ],
+  "description": "Ali, une ancienne marine, garde un profond traumatisme de sa dernière mission à Bucarest, où elle protégeait les résidents de l'ambassade. A New York, elle trouve un nouvel emploi en tant que concierge dans un immeuble luxueux, le Carrington, quasiment vidé de ses habitants le temps de lourds travaux. Pensant le bâtiment désert, à l'exception d'un couple qu'il recherche, Victor Dubois, un marchand d'art, flanqué d'une bande de malfrats armés jusqu'aux dents, investit le bâtiment. C'est sans compter sur Ali, invitée par des proches dans l'un des appartements, et bien déterminée à déjouer les plans des malfrats...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q3942185",
+      "slug": "ruby-rose",
+      "name": "Ruby Rose",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43697",
+      "slug": "jean-reno",
+      "name": "Jean Reno",
+      "role": "actor"
+    },
+    {
+      "qid": "Q421471",
+      "slug": "aksel-hennie",
+      "name": "Aksel Hennie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q981039",
+      "slug": "louis-mandylor",
+      "name": "Louis Mandylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q645496",
+      "slug": "rupert-evans",
+      "name": "Rupert Evans",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2088074",
+    "slug": "ryuhei-kitamura",
+    "name": "Ryūhei Kitamura",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

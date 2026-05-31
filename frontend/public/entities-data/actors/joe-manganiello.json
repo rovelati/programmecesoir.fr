@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "joe-manganiello",
+  "name": "Joe Manganiello",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Manganiello%20July%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-12-28",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q470005",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Joe_Manganiello",
+    "imdb": "nm0542133",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "magic-mike",
+      "title": "Magic Mike"
+    },
+    {
+      "type": "film",
+      "slug": "magic-mike-xxl",
+      "title": "Magic Mike XXL"
+    },
+    {
+      "type": "film",
+      "slug": "zack-snyder-s-justice-league",
+      "title": "Zack Snyder's Justice League"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "085ef5a4-7b14-4dbe-9472-f3ca746c33ef",
+      "title": "Zack Snyder's Justice League",
+      "programSlug": "zack-snyder-s-justice-league",
+      "programUrl": "/programme/canal-grand-ecran/zack-snyder-s-justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 15:10:00+00",
+      "endTime": "2026-04-19 19:04:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 15:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

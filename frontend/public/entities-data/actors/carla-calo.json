@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "carla-calo",
+  "name": "Carla Calò",
+  "worksCount": 1,
+  "description": "actrice italienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carla%20Cal%C3%B2%20-%20La%20cameriera.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1926-09-21",
+  "nationality": "Italie",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q1041513",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Carla_Cal%C3%B2",
+    "imdb": "nm0131039",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-ragazza",
+      "title": "La ragazza"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

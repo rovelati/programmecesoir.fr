@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "la-mort-dans-la-peau",
+  "title": "La mort dans la peau",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La mort dans la peau"
+  ],
+  "genres": [
+    "thriller d'action",
+    "film ou téléfilm d'espionnage",
+    "film et téléfilm d'action",
+    "thriller"
+  ],
+  "description": "Ancien agent et tueur à gages de la CIA, Jason Bourne souffre d'amnésie et ne sait toujours pas qui il est. Pour l'heure, il coule des jours heureux en Inde, avec sa compagne Marie. Mais un jour, il est victime d'une tentative d'assassinat et, lors d'une course-poursuite, Marie perd la vie. Jason décide aussitôt de faire la lumière sur cette affaire. Il ne tarde pas à découvrir qu'il est à nouveau dans le collimateur de la CIA. On l'accuse en effet d'avoir fait échouer une opération secrète à Berlin, échec doublé de plusieurs assassinats. Jason a très peu de temps pour prouver son innocence. Tout en essayant d'échapper à ses poursuivants, il cherche à se remémorer son passé...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q65105",
+      "slug": "franka-potente",
+      "name": "Franka Potente",
+      "role": "actor"
+    },
+    {
+      "qid": "Q34975",
+      "slug": "brian-cox",
+      "name": "Brian Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210120",
+      "slug": "julia-stiles",
+      "name": "Julia Stiles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132430",
+      "slug": "karl-urban",
+      "name": "Karl Urban",
+      "role": "actor"
+    },
+    {
+      "qid": "Q973456",
+      "slug": "gabriel-mann",
+      "name": "Gabriel Mann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229305",
+      "slug": "joan-allen",
+      "name": "Joan Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315118",
+      "slug": "marton-csokas",
+      "name": "Marton Csokas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229112",
+      "slug": "michelle-monaghan",
+      "name": "Michelle Monaghan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q463683",
+      "slug": "karel-roden",
+      "name": "Karel Roden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q737369",
+      "slug": "tomas-arana",
+      "name": "Tomas Arana",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235008",
+      "slug": "oksana-akinchina",
+      "name": "Oksana Akinchina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q175535",
+      "slug": "matt-damon",
+      "name": "Matt Damon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273208",
+      "slug": "chris-cooper",
+      "name": "Chris Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108434",
+      "slug": "claudio-maniscalco",
+      "name": "Claudio Maniscalco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1533648",
+      "slug": "jevgenij-sitochin",
+      "name": "Jevgenij Sitochin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q284196",
+      "slug": "sam-brown",
+      "name": "Sam Brown",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q356275",
+    "slug": "paul-greengrass",
+    "name": "Paul Greengrass",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

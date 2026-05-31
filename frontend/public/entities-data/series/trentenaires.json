@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "slug": "trentenaires",
+  "title": "Trentenaires",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Trentenaires",
+    "Trentenaires - Saison 2"
+  ],
+  "genres": [
+    "Series",
+    "Série TV"
+  ],
+  "description": "Sarah a du mal a géré les différents aspects de sa vie de jeune maman célibataire. Heureusement, elle peut compter sur Claire, sa voisine, qui lui donne un coup de main. Lucas est toujours fâché contre Aless, mais il tient ses engagements. Karim comprend que pour Max, le mariage lui rappelle son enfance...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv5-monde.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "18c9f9ea-ef50-405f-aead-0785236482e0",
+      "title": "Trentenaires - Saison 2",
+      "programSlug": "trentenaires-saison-2",
+      "programUrl": "/programme/tv5-monde/trentenaires-saison-2",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-25 20:43:00+00",
+      "endTime": "2026-04-25 21:09:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "447d6aef-8724-4d37-a154-9244c5f4d63d",
+      "title": "Trentenaires - Saison 2",
+      "programSlug": "trentenaires-saison-2",
+      "programUrl": "/programme/tv5-monde/trentenaires-saison-2",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-25 21:09:00+00",
+      "endTime": "2026-04-25 21:38:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "41a4d2d7-65e4-4f3e-9889-384e6d3042e7",
+      "title": "Trentenaires - Saison 2",
+      "programSlug": "trentenaires-saison-2",
+      "programUrl": "/programme/tv5-monde/trentenaires-saison-2",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-25 21:38:00+00",
+      "endTime": "2026-04-25 22:07:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "435c1317-a1f2-490f-a0da-5ae7288a7f86",
+      "title": "Trentenaires - Saison 2",
+      "programSlug": "trentenaires-saison-2",
+      "programUrl": "/programme/tv5-monde/trentenaires-saison-2",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-25 22:07:00+00",
+      "endTime": "2026-04-25 22:35:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-25 20:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

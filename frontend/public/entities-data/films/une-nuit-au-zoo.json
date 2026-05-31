@@ -1,0 +1,72 @@
+{
+  "type": "film",
+  "slug": "une-nuit-au-zoo",
+  "title": "Une nuit au zoo",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Une nuit au zoo"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm d'aventure",
+    "film et téléfilm d'horreur",
+    "film ou téléfilm de science-fiction",
+    "film ou téléfilm familial",
+    "comédie d'horreur",
+    "film et téléfilm d'action",
+    "thriller",
+    "film de zombies"
+  ],
+  "description": "Une nuit, une météorite s'écrase sur le zoo de Colepepper, libérant un virus qui transforme les animaux en mutants zombies. Alors que tout le zoo est contaminé, Gracie, une jeune louve, et Dan, un puma bourru et redoutable, doivent élaborer un plan pour que les animaux redeviennent eux-mêmes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cfc17333-25f8-4ebc-b82e-c90b14f6f2fa",
+      "title": "Une nuit au zoo",
+      "programSlug": "une-nuit-au-zoo",
+      "programUrl": "/programme/canal/une-nuit-au-zoo",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 06:08:00+00",
+      "endTime": "2026-04-22 07:37:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 92,
+  "cast": [],
+  "director": {
+    "qid": "Q115210525",
+    "slug": "ricardo-curtis",
+    "name": "Ricardo Curtis",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 06:08:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

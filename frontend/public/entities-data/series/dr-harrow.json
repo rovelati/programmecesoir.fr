@@ -1,0 +1,195 @@
+{
+  "type": "series",
+  "slug": "dr-harrow",
+  "title": "Dr Harrow",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Dr Harrow",
+    "Dr Harrow - Saison 2",
+    "Dr Harrow - Saison 3"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Erin Young, en phase terminale, semble s'être suicidée, mais Bryan est convaincu que c'est Nate, le fils de la défunte, qui l'a tuée. Izzy, la soeur de ce dernier, croit également son frère coupable. L'enquête révèle des secrets de famille jusque là bien enfouis. De son côté, Harrow rencontre son véritable fils, James, qui est suspecté du meurtre du jeune homme retrouvé dans le port et du vol de plusieurs millions à la mère de la victime, Mila Zoric.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teva.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "905c5329-075d-48d2-82cb-b20632aeb8c1",
+      "title": "Dr Harrow - Saison 3",
+      "programSlug": "dr-harrow-saison-3",
+      "programUrl": "/programme/teva/dr-harrow-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-22 23:05:00+00",
+      "endTime": "2026-04-22 23:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "649a3c60-4d2f-491c-8798-f3e109de0536",
+      "title": "Dr Harrow - Saison 3",
+      "programSlug": "dr-harrow-saison-3",
+      "programUrl": "/programme/teva/dr-harrow-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-22 23:50:00+00",
+      "endTime": "2026-04-23 00:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6b5f9a63-fbb2-4587-ba1f-0c7ca2be9740",
+      "title": "Dr Harrow - Saison 3",
+      "programSlug": "dr-harrow-saison-3",
+      "programUrl": "/programme/teva/dr-harrow-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-25 22:05:00+00",
+      "endTime": "2026-04-25 23:00:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "8f3d07a9-bd03-46eb-9c40-2d24dba36167",
+      "title": "Dr Harrow - Saison 3",
+      "programSlug": "dr-harrow-saison-3",
+      "programUrl": "/programme/teva/dr-harrow-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-25 23:00:00+00",
+      "endTime": "2026-04-25 23:50:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2018,
+  "numberOfSeasons": 3,
+  "cast": [
+    {
+      "qid": "Q295974",
+      "slug": "ioan-gruffudd",
+      "name": "Ioan Gruffudd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q87861754",
+      "slug": "ella-newton",
+      "name": "Ella Newton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4767230",
+      "slug": "anna-lise-phillips",
+      "name": "Anna Lise Phillips",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19873713",
+      "slug": "darren-gilshenan",
+      "name": "Darren Gilshenan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5212436",
+      "slug": "damien-garvey",
+      "name": "Damien Garvey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7353613",
+      "slug": "robyn-malcolm",
+      "name": "Robyn Malcolm",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21621512",
+      "slug": "hunter-page-lochard",
+      "name": "Hunter Page-Lochard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16225873",
+      "slug": "remy-hii",
+      "name": "Remy Hii",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9033587",
+      "slug": "mirrah-foulkes",
+      "name": "Mirrah Foulkes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1279945",
+      "slug": "jolene-anderson",
+      "name": "Jolene Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7821843",
+      "slug": "tony-barry",
+      "name": "Tony Barry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2608802",
+      "slug": "grant-bowler",
+      "name": "Grant Bowler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19875117",
+      "slug": "uli-latukefu",
+      "name": "Uli Latukefu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7687583",
+      "slug": "tasneem-roc",
+      "name": "Tasneem Roc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5438299",
+      "slug": "faustina-agolley",
+      "name": "Faustina Agolley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3977762",
+      "slug": "ditch-davey",
+      "name": "Ditch Davey",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-22 23:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

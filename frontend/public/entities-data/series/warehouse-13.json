@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "slug": "warehouse-13",
+  "title": "Warehouse 13",
+  "airingsCount": 69,
+  "sourceTitles": [
+    "Warehouse 13"
+  ],
+  "genres": [
+    "série télévisée de science-fiction",
+    "série télévisée d'aventures"
+  ],
+  "description": "Pete et Claudia enquêtent sur une série d'accidents tels que des séismes et des glissements de terrain. Myka et Steve tentent d'aider Artie à s'habituer à l'absence de Leena.",
+  "descriptionAi": "Cette série télévisée de science-fiction et d'aventures, débutée en 2009, plonge le spectateur dans un univers où le mystère rencontre l'histoire. L'ambiance oscille entre enquête trépidante et humour décalé, le tout teinté d'une touche de surnaturel. Ce qui la rend captivante, c'est son ingénieux mélange d'énigmes historiques et d'objets aux pouvoirs extraordinaires, liant le passé au présent de manière surprenante. Au fil des cinq saisons, on suit une équipe d'agents attachants, comme Pete et Claudia enquêtant sur des phénomènes étranges, tandis que Myka et Steve tentent d'aider Artie à surmonter une perte. Une aventure originale et pleine de cœur, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 69
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:41:21.124Z",
+  "startYear": 2009,
+  "numberOfSeasons": 5,
+  "cast": [
+    {
+      "qid": "Q561676",
+      "slug": "eddie-mcclintock",
+      "name": "Eddie McClintock",
+      "role": "actor"
+    },
+    {
+      "qid": "Q261963",
+      "slug": "joanne-kelly",
+      "name": "Joanne Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q976176",
+      "slug": "saul-rubinek",
+      "name": "Saul Rubinek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q732161",
+      "slug": "genelle-williams",
+      "name": "Genelle Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q263737",
+      "slug": "allison-scagliotti",
+      "name": "Allison Scagliotti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q301703",
+      "slug": "aaron-ashmore",
+      "name": "Aaron Ashmore",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q289973",
+    "slug": "jane-espenson",
+    "name": "Jane Espenson",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

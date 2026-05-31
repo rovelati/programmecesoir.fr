@@ -1,0 +1,93 @@
+{
+  "type": "film",
+  "slug": "bonjour-l-asile",
+  "title": "Bonjour l'asile",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Bonjour l'asile"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Jeanne quitte quelques jours le stress de la vie urbaine pour rendre visite à Elisa, une amie proche récemment installée à la campagne. Au coeur des bois voisins, un château abandonné, devenu tiers-lieu, foisonne d'initiatives collectives. Elisa aimerait s'y investir, mais entre biberons et couches lavables, elle n'en a pas le temps. Jeanne, en urbaine résolue, n'y voit aucun intérêt. Quant à Amaury, promoteur en hôtellerie de luxe, il aimerait bien acheter le château. L'idée fait son chemin.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "acb2f91f-8ddf-4a63-874a-b8af9f2510dc",
+      "title": "Bonjour l'asile",
+      "programSlug": "bonjour-l-asile",
+      "programUrl": "/programme/paramount-channel/bonjour-l-asile",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-22 06:50:00+00",
+      "endTime": "2026-04-22 08:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "1568911e-f78a-453d-ac3c-65e942b20f91",
+      "title": "Bonjour l'asile",
+      "programSlug": "bonjour-l-asile",
+      "programUrl": "/programme/canal-cinema/bonjour-l-asile",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 06:51:00+00",
+      "endTime": "2026-04-22 08:36:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q686366",
+    "slug": "judith-davis",
+    "name": "Judith Davis",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 06:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "l-enfer-du-devoir",
+  "title": "L'enfer du devoir",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'enfer du devoir"
+  ],
+  "genres": [
+    "drame",
+    "film de procès",
+    "film ou téléfilm à énigme",
+    "film et téléfilm d'action",
+    "film et téléfilm de guerre"
+  ],
+  "description": "Le colonel Terry Childers, décoré pour ses participations lors des conflits au Viêtnam, à Beyrouth et dans le Golfe, est lâché par sa hiérarchie après une intervention catastrophique au Yémen. Lors d'une manifestation, il a en effet ordonné de tirer sur la foule. Bilan : 83 morts et des dizaines de blessés. Le colonel Hayes Hodges, un avocat militaire à qui Childers a jadis sauvé la vie au Viêtnam, prend fait et cause pour lui. L'homme de loi se jure de sauver l'honneur de son ex-compagnon d'armes. Bien qu'Hodges soit loin d'être le meilleur défenseur des Etats-Unis, Childers accepte de lui accorder sa confiance. Hodges part aussitôt pour le Yémen, à la recherche d'indices prouvant l'innocence de son client et ami...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2000,
+  "durationMinutes": 122,
+  "cast": [
+    {
+      "qid": "Q170587",
+      "slug": "tommy-lee-jones",
+      "name": "Tommy Lee Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q172678",
+      "slug": "samuel-l-jackson",
+      "name": "Samuel L. Jackson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223745",
+      "slug": "guy-pearce",
+      "name": "Guy Pearce",
+      "role": "actor"
+    },
+    {
+      "qid": "Q173158",
+      "slug": "ben-kingsley",
+      "name": "Ben Kingsley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q342788",
+      "slug": "bruce-greenwood",
+      "name": "Bruce Greenwood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230199",
+      "slug": "anne-archer",
+      "name": "Anne Archer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q525304",
+      "slug": "blair-underwood",
+      "name": "Blair Underwood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447669",
+      "slug": "philip-baker-hall",
+      "name": "Philip Baker Hall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3126442",
+      "slug": "hamidou-benmassoud",
+      "name": "Hamidou Benmassoud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1312914",
+      "slug": "mark-feuerstein",
+      "name": "Mark Feuerstein",
+      "role": "actor"
+    },
+    {
+      "qid": "Q729618",
+      "slug": "nicky-katt",
+      "name": "Nicky Katt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q51814",
+      "slug": "dale-dye",
+      "name": "Dale Dye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q445253",
+      "slug": "david-graf",
+      "name": "David Graf",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1278420",
+      "slug": "gordon-clapp",
+      "name": "Gordon Clapp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q952688",
+      "slug": "gordon-liddy",
+      "name": "Gordon Liddy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2683767",
+      "slug": "kevin-cooney",
+      "name": "Kevin Cooney",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51582",
+    "slug": "william-friedkin",
+    "name": "William Friedkin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

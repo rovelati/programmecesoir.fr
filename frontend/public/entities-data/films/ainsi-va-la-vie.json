@@ -1,0 +1,137 @@
+{
+  "type": "film",
+  "slug": "ainsi-va-la-vie",
+  "title": "Ainsi va la vie",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Ainsi va la vie"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Oren Little, un agent immobilier qui mène une vie tout entière axée autour de sa personne, voit son quotidien totalement bouleversé lorsque son fils lui confie sa petite-fille, dont il ignorait jusqu'alors l'existence. Oren, décontenancé par la présence de l'enfant, sollicite l'aide de ses voisins...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "channelNumber": null,
+      "logoUrl": "/loghi/carac-1-hd.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1998,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q40791",
+      "slug": "sandra-bullock",
+      "name": "Sandra Bullock",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229258",
+      "slug": "gena-rowlands",
+      "name": "Gena Rowlands",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313755",
+      "slug": "harry-connick",
+      "name": "Harry Connick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232307",
+      "slug": "mae-whitman",
+      "name": "Mae Whitman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q324853",
+      "slug": "cameron-finley",
+      "name": "Cameron Finley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235460",
+      "slug": "kathy-najimy",
+      "name": "Kathy Najimy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q672357",
+      "slug": "michael-pare",
+      "name": "Michael Paré",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109232",
+      "slug": "rosanna-arquette",
+      "name": "Rosanna Arquette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q862028",
+      "slug": "bill-cobbs",
+      "name": "Bill Cobbs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q731628",
+      "slug": "connie-ray",
+      "name": "Connie Ray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22981300",
+      "slug": "mona-lee-fultz",
+      "name": "Mona Lee Fultz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22981305",
+      "slug": "sydney-berry",
+      "name": "Sydney Berry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7279407",
+      "slug": "rachel-snow",
+      "name": "Rachel Snow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21515034",
+      "slug": "christina-stojanovich",
+      "name": "Christina Stojanovich",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q182763",
+    "slug": "forest-whitaker",
+    "name": "Forest Whitaker",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

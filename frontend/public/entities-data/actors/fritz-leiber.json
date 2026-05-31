@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "fritz-leiber",
+  "name": "Fritz Leiber",
+  "worksCount": 1,
+  "description": "acteur américain (1882–1949)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fritz-Leiber-1930.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1882-01-31",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q962037",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fritz_Leiber_(acteur)",
+    "imdb": "nm0500021",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "quasimodo",
+      "title": "Quasimodo"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

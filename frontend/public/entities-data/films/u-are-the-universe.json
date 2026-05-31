@@ -1,0 +1,89 @@
+{
+  "type": "film",
+  "slug": "u-are-the-universe",
+  "title": "U Are the Universe",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "U Are the Universe"
+  ],
+  "genres": [
+    "film et téléfilm fantastique"
+  ],
+  "description": "Dans un futur proche, Andriy Melnyk, un camionneur spatial ukrainien, transporte des déchets radioactifs vers Callisto, la lune déserte de Jupiter. Lors d'un trajet de routine, la Terre explose, et il se croit le dernier survivant de l'humanité. A bord de son vaisseau, son seul compagnon est un robot plein d'humour, jusqu'au jour où il intercepte la voix de Catherine, une météorologiste française, depuis une station lointaine...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "27fcc1a0-456c-4039-b3ff-3100a0a0b039",
+      "title": "U Are the Universe",
+      "programSlug": "u-are-the-universe",
+      "programUrl": "/programme/cine-frisson/u-are-the-universe",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 10:57:00+00",
+      "endTime": "2026-04-19 12:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7ad6597a-2b39-4980-9220-3a5d925dfb84",
+      "title": "U Are the Universe",
+      "programSlug": "u-are-the-universe",
+      "programUrl": "/programme/cine-frisson/u-are-the-universe",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 13:20:00+00",
+      "endTime": "2026-04-20 14:59:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q136148250",
+      "slug": "volodymyr-kravchuk",
+      "name": "Volodymyr Kravchuk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27961623",
+      "slug": "alexia-depicker",
+      "name": "Alexia Depicker",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q42645281",
+    "slug": "pavlo-ostrikov",
+    "name": "Pavlo Ostrikov",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 10:57:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

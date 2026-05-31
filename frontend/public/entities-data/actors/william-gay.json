@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "william-gay",
+  "name": "William Gay",
+  "worksCount": 1,
+  "description": "écrivain américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1941-10-27",
+  "nationality": "États-Unis",
+  "jobTitle": "romancier ou romancière",
+  "externalIds": {
+    "wikidata": "Q3568651",
+    "wikipedia": "https://fr.wikipedia.org/wiki/William_Gay",
+    "imdb": "nm2793287",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "je-l-aimais",
+      "title": "Je l'aimais"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

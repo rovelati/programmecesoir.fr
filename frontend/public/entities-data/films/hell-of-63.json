@@ -1,0 +1,84 @@
+{
+  "type": "film",
+  "slug": "hell-of-63",
+  "title": "Hell of 63",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Hell of 63"
+  ],
+  "genres": [
+    "Cinéma",
+    "Film"
+  ],
+  "description": "En 1963, comme tous les ans, une célèbre compétition de course sur glace est organisée dans le nord des Pays-Bas. Quiconque parvient à parcourir les 200 kilomètres de l'épreuve avant minuit se voit remettre une médaille. Mais une soudaine dégradation des conditions météo transforme la compétition en cauchemar...",
+  "descriptionAi": "Ce film dramatique et historique plonge le spectateur dans l’enfer glacé d’une course de patinage de vitesse aux Pays-Bas en 1963. L’ambiance est saisissante, entre l’esprit de compétition et la lutte brutale contre les éléments déchaînés. Ce qui rend ce récit captivant, c’est son ancrage dans des faits réels et la manière dont il explore la résistance humaine face à une nature impitoyable, transformant un défi sportif en une quête de survie haletante. Une épreuve extrême et humaine, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7a456ef7-3697-4cd6-8652-8f4a1e81b29a",
+      "title": "Hell of 63",
+      "programSlug": "hell-of-63",
+      "programUrl": "/programme/eurochannel/hell-of-63",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 17:05:00+00",
+      "endTime": "2026-04-20 18:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a039440a-58dd-47f7-af30-6e771eb0aecb",
+      "title": "Hell of 63",
+      "programSlug": "hell-of-63",
+      "programUrl": "/programme/eurochannel/hell-of-63",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 18:50:00+00",
+      "endTime": "2026-04-23 20:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "ed3c219e-41e4-4d54-b84f-ee229c7c39f3",
+      "title": "Hell of 63",
+      "programSlug": "hell-of-63",
+      "programUrl": "/programme/eurochannel/hell-of-63",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-25 04:00:00+00",
+      "endTime": "2026-04-25 05:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:49:05.007Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 17:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

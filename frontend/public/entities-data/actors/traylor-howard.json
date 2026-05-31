@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "traylor-howard",
+  "name": "Traylor Howard",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Traylor%20Howard%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-06-14",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q235534",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Traylor_Howard",
+    "imdb": "nm0005025",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "monk",
+      "title": "Monk"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d862e1a4-552e-48d9-9c23-47c5470a23db",
+      "title": "Monk - Saison 5",
+      "programSlug": "monk-saison-5",
+      "programUrl": "/programme/rts-un/monk-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-25 14:25:00+00",
+      "endTime": "2026-04-25 15:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 14:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

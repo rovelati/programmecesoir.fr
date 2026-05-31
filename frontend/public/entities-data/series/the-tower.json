@@ -1,0 +1,53 @@
+{
+  "type": "series",
+  "slug": "the-tower",
+  "title": "The Tower",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "The Tower - Saison 3"
+  ],
+  "genres": [
+    "Series"
+  ],
+  "description": "Lizzie persuade Kieran qu'il doit tenir Sarah informée de l'avancée de l'opération Perseus. Kieran et Steve comprennent que Shakiel s'apprête à prendre le contrôle du trafic de drogue dans le sud de Londres. Ils pensent pouvoir le mettre hors d'état de nuire, mais le criminel a toujours un coup d'avance...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2021,
+  "numberOfSeasons": 1,
+  "cast": [
+    {
+      "qid": "Q1501158",
+      "slug": "gemma-whelan",
+      "name": "Gemma Whelan",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jarry",
+  "name": "Jarry",
+  "worksCount": 1,
+  "description": "humoriste, acteur, metteur en scène, animateur de télévision français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jarry1.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-08-05",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q16645075",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jarry_(humoriste)",
+    "imdb": "nm3271230",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "maison-de-retraite",
+      "title": "Maison de retraite"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

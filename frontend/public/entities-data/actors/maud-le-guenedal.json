@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "maud-le-guenedal",
+  "name": "Maud Le Guenedal",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maud%20le%20Guenedal.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-01-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3300109",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Maud_Le_Gu%C3%A9n%C3%A9dal",
+    "imdb": "nm1203291",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "broceliande",
+      "title": "Brocéliande"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

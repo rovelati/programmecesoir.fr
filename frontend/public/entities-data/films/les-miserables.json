@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "les-miserables",
+  "title": "Les misérables",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les misérables",
+    "Les Misérables"
+  ],
+  "genres": [
+    "film ou téléfilm musical",
+    "drame",
+    "film ou téléfilm d'amour",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Stéphane Ruiz, fraîchement arrivé de Cherbourg, intègre la Brigade anti-criminalité de Montfermeil, dans le 93. Il fait la connaissance de ses nouveaux coéquipiers, Chris et Gwada, deux \"Bacqueux\" expérimentés. Il découvre rapidement les tensions préexistantes entre les différents groupes du quartier. Ruiz essaye tant bien que mal d'établir une relation équilibrée entre les leaders communautaires influents, son équipe et les habitants de Montfermeil. Un jour, alors que l'équipe se retrouve débordée, une interpellation tourne mal. La scène est filmée par un drone qui scrute leurs moindres faits et gestes. Les trois policiers se retrouvent confrontés aux conséquences de leurs actions...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 158,
+  "cast": [
+    {
+      "qid": "Q129591",
+      "slug": "q129591",
+      "name": "Q129591",
+      "role": "actor"
+    },
+    {
+      "qid": "Q129817",
+      "slug": "russell-crowe",
+      "name": "Russell Crowe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q36301",
+      "slug": "anne-hathaway",
+      "name": "Anne Hathaway",
+      "role": "actor"
+    },
+    {
+      "qid": "Q189226",
+      "slug": "amanda-seyfried",
+      "name": "Amanda Seyfried",
+      "role": "actor"
+    },
+    {
+      "qid": "Q29055",
+      "slug": "sacha-baron-cohen",
+      "name": "Sacha Baron Cohen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170428",
+      "slug": "helena-bonham-carter",
+      "name": "Helena Bonham Carter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28288",
+      "slug": "eddie-redmayne",
+      "name": "Eddie Redmayne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440273",
+      "slug": "samantha-barks",
+      "name": "Samantha Barks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q321770",
+      "slug": "aaron-tveit",
+      "name": "Aaron Tveit",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1110119",
+      "slug": "colm-wilkinson",
+      "name": "Colm Wilkinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3916754",
+      "slug": "isabelle-allen",
+      "name": "Isabelle Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5217562",
+      "slug": "daniel-huttlestone",
+      "name": "Daniel Huttlestone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3266397",
+      "slug": "fra-fee",
+      "name": "Fra Fee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5932695",
+      "slug": "hugh-skinner",
+      "name": "Hugh Skinner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5537029",
+      "slug": "george-blagden",
+      "name": "George Blagden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6279659",
+      "slug": "josef-altin",
+      "name": "Josef Altin",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q295912",
+    "slug": "tom-hooper",
+    "name": "Tom Hooper",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,67 @@
+{
+  "type": "series",
+  "slug": "les-as-de-la-jungle",
+  "title": "Les as de la jungle",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Les as de la jungle"
+  ],
+  "genres": [
+    "Série"
+  ],
+  "description": "Les As de la jungle sont une équipe de super-justiciers chargés de défendre et de faire régner la paix et la justice dans la jungle. L'équipe est composée du leader Maurice, un manchot-tigre, surnommé AĞ Grand Guerrier Tigre Ağ accompagné de Junior, son fils adoptif, poisson rouge dans son bocal, de Miguel, un gorille bleu qui aime taper les méchants et manger des bananes, du scientifique Gilbert le tarsier qui a la phobie des microbes et des maladies et de Batricia, une chauve-souris ouvertement amoureuse de Gilbert, qui repousse régulièrement ses avances jusqu'au film oAı les deux personnages sont ouvertement amoureux. Al et Bob, quant A eux, sont deux crapauds qui n'accompagnent pas les héros en mission, et restent généralement au repère des As pour le garder pendant qu'ils sont en mission.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-corse.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8198d0cd-39c7-47cd-91c5-f75f3ab0f65f",
+      "title": "Les as de la jungle",
+      "programSlug": "les-as-de-la-jungle",
+      "programUrl": "/programme/france-3-corse/les-as-de-la-jungle",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 07:19:00+00",
+      "endTime": "2026-04-19 07:30:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2013,
+  "numberOfSeasons": 3,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 07:19:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

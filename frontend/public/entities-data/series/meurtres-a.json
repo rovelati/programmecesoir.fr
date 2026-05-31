@@ -1,0 +1,494 @@
+{
+  "type": "series",
+  "slug": "meurtres-a",
+  "title": "Meurtres à...",
+  "airingsCount": 127,
+  "sourceTitles": [
+    "Meurtres à...",
+    "Meurtres à... - Saison 1",
+    "Meurtres à... - Saison 10",
+    "Meurtres à... - Saison 12",
+    "Meurtres à... - Saison 4",
+    "Meurtres à... - Saison 7",
+    "Meurtres à... - Saison 8",
+    "Meurtres à... - Saison 9"
+  ],
+  "genres": [
+    "fiction de détective"
+  ],
+  "description": "La découverte du corps d'un homme pendu dans un hangar plonge la commissaire Anne Sauvaire dans une enquête au coeur des chantiers navals de La Ciotat. Fraîchement diplômée, la policière, qui manque encore de crédibilité dans son métier, se voit, en outre, contrainte de collaborer avec un journaliste, Batti Vergniot. Celui-ci semble toutefois en savoir beaucoup sur la ville et sur son passé. Peu à peu, l'enquête conduit Anne Sauvaire à un événement dramatique, survenu plus de 35 ans plus tôt. Les ouvriers employés par les chantiers navals se murent dans le silence, et Batti Vergniot semble être le seul à même de recueillir leurs confidences. L'annonce d'un second meurtre vient bouleverser l'affaire, d'autant que le procureur menace de retirer l'enquête à la jeune commissaire...",
+  "descriptionAi": "Cette fiction de détective, débutée en 2013, plonge le téléspectateur dans une atmosphère portuaire ombragée, où les secrets de famille et les silences d'une communauté ouvrière pèsent lourd. L'intrigue repose sur le duo improbable formé par Anne Sauvaire, une commissaire novice en quête de légitimité, et Batti Vergniot, un journaliste aux connaissances troubles. Leur enquête sur un meurtre les entraîne vers un drame ancien, liant passé et présent dans une tension palpable. L'intérêt réside dans cette dynamique de méfiance et de nécessité entre les deux personnages, au cœur d'un huis clos social étouffant. Une série captivante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paris-premiere.png",
+      "airingsCount": 14
+    },
+    {
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv5-monde.png",
+      "airingsCount": 7
+    },
+    {
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-une.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv-breizh.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6a50a6f2-3339-421c-a665-260e4c20d30e",
+      "title": "Meurtres à...",
+      "programSlug": "meurtres-a",
+      "programUrl": "/programme/tv5-monde/meurtres-a",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-19 13:24:00+00",
+      "endTime": "2026-04-19 15:03:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1da62fe5-93a5-42e8-b866-bec2d3fdc0cf",
+      "title": "Meurtres à...",
+      "programSlug": "meurtres-a",
+      "programUrl": "/programme/paris-premiere/meurtres-a",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-19 14:05:00+00",
+      "endTime": "2026-04-19 15:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b618a85d-ef2a-48be-a3f8-0dc4952d4f72",
+      "title": "Meurtres à...",
+      "programSlug": "meurtres-a",
+      "programUrl": "/programme/paris-premiere/meurtres-a",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-19 19:00:00+00",
+      "endTime": "2026-04-19 20:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dabe39a1-c0a0-479f-b751-9638e02349fa",
+      "title": "Meurtres à...",
+      "programSlug": "meurtres-a",
+      "programUrl": "/programme/paris-premiere/meurtres-a",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-19 20:50:00+00",
+      "endTime": "2026-04-19 22:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7ea4ab12-eb71-407f-86cd-173fb89aed45",
+      "title": "Meurtres à... - Saison 2",
+      "programSlug": "meurtres-a-saison-2",
+      "programUrl": "/programme/paris-premiere/meurtres-a-saison-2",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-19 22:40:00+00",
+      "endTime": "2026-04-20 00:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "33dee264-ad2d-4a7c-ab9b-713122898f3b",
+      "title": "Meurtres à... - Saison 12",
+      "programSlug": "meurtres-a-saison-12",
+      "programUrl": "/programme/tv5-monde/meurtres-a-saison-12",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-20 23:19:00+00",
+      "endTime": "2026-04-21 00:59:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4ff7d53c-65c1-43e2-ab25-9a6b1331f966",
+      "title": "Meurtres à... - Saison 1",
+      "programSlug": "meurtres-a-saison-1",
+      "programUrl": "/programme/polar/meurtres-a-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-21 18:55:00+00",
+      "endTime": "2026-04-21 20:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "3d652873-6ae4-48b6-9768-1efd744f9dcb",
+      "title": "Meurtres à... - Saison 12",
+      "programSlug": "meurtres-a-saison-12",
+      "programUrl": "/programme/tv5-monde/meurtres-a-saison-12",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-21 19:05:00+00",
+      "endTime": "2026-04-21 20:36:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "80b2d602-9072-4c1b-bf76-4f4ea0826fdc",
+      "title": "Meurtres à... - Saison 12",
+      "programSlug": "meurtres-a-saison-12",
+      "programUrl": "/programme/tv5-monde/meurtres-a-saison-12",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-22 12:05:00+00",
+      "endTime": "2026-04-22 13:38:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ff04119f-8b82-4e72-8c04-9a02f739b0dc",
+      "title": "Meurtres à... - Saison 9",
+      "programSlug": "meurtres-a-saison-9",
+      "programUrl": "/programme/tv-breizh/meurtres-a-saison-9",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-22 18:50:00+00",
+      "endTime": "2026-04-22 20:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e4c19017-0b2b-4ebe-9338-b61aac7bb8de",
+      "title": "Meurtres à... - Saison 3",
+      "programSlug": "meurtres-a-saison-3",
+      "programUrl": "/programme/tv-breizh/meurtres-a-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-22 20:40:00+00",
+      "endTime": "2026-04-22 22:25:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "d2ab5a7f-56e8-4202-a4a4-650d63458794",
+      "title": "Meurtres à... - Saison 3",
+      "programSlug": "meurtres-a-saison-3",
+      "programUrl": "/programme/tv-breizh/meurtres-a-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-22 22:25:00+00",
+      "endTime": "2026-04-23 00:10:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "24bfdc72-41d4-43c1-a292-8b39429f4a29",
+      "title": "Meurtres à...",
+      "programSlug": "meurtres-a",
+      "programUrl": "/programme/13eme-rue/meurtres-a",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-24 11:40:00+00",
+      "endTime": "2026-04-24 13:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "b79078a1-1312-4f32-b512-0da385eff141",
+      "title": "Meurtres à... - Saison 9",
+      "programSlug": "meurtres-a-saison-9",
+      "programUrl": "/programme/tv5-monde/meurtres-a-saison-9",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-25 13:01:00+00",
+      "endTime": "2026-04-25 14:35:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "dd32ee35-3369-4db0-a295-b739674ecce4",
+      "title": "Meurtres à... - Saison 10",
+      "programSlug": "meurtres-a-saison-10",
+      "programUrl": "/programme/polar/meurtres-a-saison-10",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-25 15:34:00+00",
+      "endTime": "2026-04-25 17:14:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "ec2dabbd-01a8-4b0d-91db-4ab54d9872bf",
+      "title": "Meurtres à... - Saison 11",
+      "programSlug": "meurtres-a-saison-11",
+      "programUrl": "/programme/france-3-rhone-alpes/meurtres-a-saison-11",
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "startTime": "2026-04-25 19:10:00+00",
+      "endTime": "2026-04-25 20:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "d2dda692-5ab2-41c9-bbea-69d87200b5ff",
+      "title": "Meurtres à... - Saison 11",
+      "programSlug": "meurtres-a-saison-11",
+      "programUrl": "/programme/france-3/meurtres-a-saison-11",
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "startTime": "2026-04-25 19:10:00+00",
+      "endTime": "2026-04-25 20:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "5d914266-cd43-4263-860e-e8b2612b6280",
+      "title": "Meurtres à... - Saison 11",
+      "programSlug": "meurtres-a-saison-11",
+      "programUrl": "/programme/france-3-alpes/meurtres-a-saison-11",
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "startTime": "2026-04-25 19:10:00+00",
+      "endTime": "2026-04-25 20:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T22:07:00.579Z",
+  "startYear": 2013,
+  "numberOfSeasons": 10,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 13:24:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,118 @@
+{
+  "type": "film",
+  "slug": "la-petite-vadrouille",
+  "title": "La Petite Vadrouille",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La Petite Vadrouille"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "En proie à des difficultés financières, Justine pense avoir trouvé le moyen de régler ses problèmes lorsque Franck, son patron, la sollicite afin qu'elle organise une croisière romantique pour lui et la femme qu'il désire séduire. Franck confie à son employée une importante somme d'argent afin qu'elle règle les détails du voyage. Justine, son mari Albin et quelques amis réfléchissent alors à un plan qui leur permettrait de conserver une grosse partie des fonds, en évitant toutefois d'éveiller les soupçons de l'employeur et en lui donnant l'illusion d'en avoir pour son argent. C'est ainsi que germe l'idée d'une croisière sur une pénichette...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q106303",
+      "slug": "daniel-auteuil",
+      "name": "Daniel Auteuil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262822",
+      "slug": "sandrine-kiberlain",
+      "name": "Sandrine Kiberlain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1187592",
+      "slug": "denis-podalydes",
+      "name": "Denis Podalydès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q993671",
+      "slug": "bruno-podalydes",
+      "name": "Bruno Podalydès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3074009",
+      "slug": "florence-muller",
+      "name": "Florence Muller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q515930",
+      "slug": "isabelle-candelier",
+      "name": "Isabelle Candelier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3168231",
+      "slug": "jean-noel-broute",
+      "name": "Jean-Noël Brouté",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107526883",
+      "slug": "dimitri-dore",
+      "name": "Dimitri Doré",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3369629",
+      "slug": "patrick-ligardes",
+      "name": "Patrick Ligardes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16185771",
+      "slug": "eric-viellard",
+      "name": "Éric Viellard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8048847",
+      "slug": "yann-frisch",
+      "name": "Yann Frisch",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q993671",
+    "slug": "bruno-podalydes",
+    "name": "Bruno Podalydès",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

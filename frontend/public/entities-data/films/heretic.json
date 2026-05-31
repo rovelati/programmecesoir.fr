@@ -1,0 +1,71 @@
+{
+  "type": "film",
+  "slug": "heretic",
+  "title": "Heretic",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Heretic"
+  ],
+  "genres": [
+    "thriller",
+    "film et téléfilm d'horreur"
+  ],
+  "description": "Alors qu'elles font du porte-à-porte dans une petite ville du Colorado, deux jeunes missionnaires de l'Eglise mormone se présentent à la porte d'une maison isolée. C'est le charmant monsieur Reed qui les accueille. Mais très vite, les jeunes femmes réalisent qu'elles sont tombées dans un piège...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q163286",
+      "slug": "hugh-grant",
+      "name": "Hugh Grant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42211304",
+      "slug": "chloe-east",
+      "name": "Chloe East",
+      "role": "actor"
+    },
+    {
+      "qid": "Q61996880",
+      "slug": "sophie-thatcher",
+      "name": "Sophie Thatcher",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q16198467",
+    "slug": "scott-beck",
+    "name": "Scott Beck",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

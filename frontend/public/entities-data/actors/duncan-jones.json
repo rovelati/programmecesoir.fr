@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "duncan-jones",
+  "name": "Duncan Jones",
+  "worksCount": 2,
+  "description": "réalisateur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duncan%20Jones%20by%20Gage%20Skidmore%203.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-05-30",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q552731",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Duncan_Jones_(r%C3%A9alisateur)",
+    "imdb": "nm1512910",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "source-code",
+      "title": "Source Code"
+    },
+    {
+      "type": "film",
+      "slug": "warcraft-le-commencement",
+      "title": "Warcraft : le commencement"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

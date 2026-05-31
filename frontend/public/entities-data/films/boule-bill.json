@@ -1,0 +1,113 @@
+{
+  "type": "film",
+  "slug": "boule-bill",
+  "title": "Boule & Bill",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Boule & Bill"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Dans les années 70, Boule, 9 ans, rêve d'avoir un chien, ce que lui refuse catégoriquement son père. A force d'insister, Boule et sa mère finissent par le convaincre de les emmener visiter le refuge de la SPA locale. Là, dans une cage, Boule remarque un jeune cocker, roux comme lui. Malgré les réticences de son père, le chien est adopté, et Boule s'empresse de le baptiser Bill. Le nouveau venu va bouleverser la vie tranquille de la famille et mettre la maison sens dessus dessous, mais aussi se rendre indispensable. L'amitié indéfectible qui naît entre Boule et Bill va les aider à surmonter toutes les épreuves et les amener à vivre de nombreuses aventures...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2CV-Boule-et-Bill-1.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "85ddd2a1-29db-44a1-8e2f-d9b15dfe66fc",
+      "title": "Boule & Bill",
+      "programSlug": "boule-bill",
+      "programUrl": "/programme/canal-grand-ecran/boule-bill",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 16:15:00+00",
+      "endTime": "2026-04-20 17:35:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 82,
+  "cast": [
+    {
+      "qid": "Q2646765",
+      "slug": "franck-dubosc",
+      "name": "Franck Dubosc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q456360",
+      "slug": "marina-fois",
+      "name": "Marina Foïs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15069825",
+      "slug": "charles-crombez",
+      "name": "Charles Crombez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3286702",
+      "slug": "manu-payet",
+      "name": "Manu Payet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3473265",
+      "slug": "sara-giraudeau",
+      "name": "Sara Giraudeau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3340838",
+      "slug": "nicolas-vaude",
+      "name": "Nicolas Vaude",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1341507",
+      "slug": "lionel-abelanski",
+      "name": "Lionel Abelanski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15117970",
+      "slug": "jean-francois-wolff",
+      "name": "Jean-François Wolff",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2833529",
+    "slug": "alexandre-charlot",
+    "name": "Alexandre Charlot",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 16:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,135 @@
+{
+  "type": "film",
+  "slug": "l-a-confidentiel",
+  "title": "L.A. Confidentiel",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "L.A. Confidentiel"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Tapis rouges des avant-premières, interviews de stars, secrets de tournages, visites secrètes dans les arcanes des grands studios sont au programme de cette émission qui donne des nouvelles du cinéma nord-américain.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "35a2cfe9-70f2-4a87-9733-b9e09df69bd8",
+      "title": "L.A. Confidentiel",
+      "programSlug": "l-a-confidentiel",
+      "programUrl": "/programme/cine-frisson/l-a-confidentiel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 10:19:00+00",
+      "endTime": "2026-04-20 10:34:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2c34a9fb-b3bb-4483-9b85-c7a8ebf1d741",
+      "title": "L.A. Confidentiel",
+      "programSlug": "l-a-confidentiel",
+      "programUrl": "/programme/ocs/l-a-confidentiel",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 18:20:00+00",
+      "endTime": "2026-04-21 18:34:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "295a825b-31a9-433b-b0ec-b900b3087284",
+      "title": "L.A. Confidentiel",
+      "programSlug": "l-a-confidentiel",
+      "programUrl": "/programme/cine-frisson/l-a-confidentiel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 03:20:00+00",
+      "endTime": "2026-04-22 03:38:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "98bda4a7-1e48-4622-8f29-210a5f4249eb",
+      "title": "L.A. Confidentiel",
+      "programSlug": "l-a-confidentiel",
+      "programUrl": "/programme/cine-emotion/l-a-confidentiel",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-22 04:10:00+00",
+      "endTime": "2026-04-22 04:25:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "5549ee9c-ba9f-47f2-9c59-18fb932bc05d",
+      "title": "L.A. Confidentiel",
+      "programSlug": "l-a-confidentiel",
+      "programUrl": "/programme/ocs/l-a-confidentiel",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-24 03:50:00+00",
+      "endTime": "2026-04-24 04:04:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "a67ba3ae-f9b0-4ea7-8ab7-4352cf4c015e",
+      "title": "L.A. Confidentiel",
+      "programSlug": "l-a-confidentiel",
+      "programUrl": "/programme/ocs/l-a-confidentiel",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 18:32:00+00",
+      "endTime": "2026-04-25 18:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 10:19:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

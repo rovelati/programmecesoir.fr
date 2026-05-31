@@ -1,0 +1,127 @@
+{
+  "type": "film",
+  "slug": "lire-lolita-a-teheran",
+  "title": "Lire Lolita à Téhéran",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Lire Lolita à Téhéran"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Azar Nafisi, professeur à l'université de Téhéran, a été contrainte de quitter son poste car elle a refusé de porter le voile. C'est alors qu'elle réunit secrètement sept de ses étudiantes pour lire des classiques de la littérature occidentale interdits par le régime. Dans un pays contrôlé par les fondamentalistes, ces séances leur permettent de retirer leur voile et de discuter de leurs espoirs, de leurs amours et de leur place dans une société de plus en plus oppressive. Pour ces femmes qui rêvent de liberté et d'émancipation, lire à Téhéran le \"Lolita\" de Vladimir Nabokov est une façon de célébrer le pouvoir émancipateur de la littérature.",
+  "descriptionAi": "Ce drame poignant, inspiré de faits réels, nous plonge dans le Téhéran des années 1990. Il suit Azar Nafisi, une professeure qui, après avoir été renvoyée, organise un cercle de lecture clandestin avec sept de ses anciennes étudiantes. L'ambiance est à la fois intimiste et tendue, entre la chaleur des discussions littéraires et l'oppression quotidienne du régime. Le film captive en montrant comment la lecture d'œuvres interdites, comme *Lolita*, devient un acte de résistance et une bouffée d'oxygène vital pour ces femmes assoiffées de liberté. Une belle réflexion sur le pouvoir subversif des livres, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "96b3a8a2-f46a-4907-8784-b7e4f3f14ee5",
+      "title": "Lire Lolita à Téhéran",
+      "programSlug": "lire-lolita-a-teheran",
+      "programUrl": "/programme/paramount-channel/lire-lolita-a-teheran",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-22 15:40:00+00",
+      "endTime": "2026-04-22 17:25:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c49b1d7e-e2ea-4d5b-9c10-7a8645aa4d5c",
+      "title": "Lire Lolita à Téhéran",
+      "programSlug": "lire-lolita-a-teheran",
+      "programUrl": "/programme/canal-cinema/lire-lolita-a-teheran",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 15:41:00+00",
+      "endTime": "2026-04-22 17:26:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7ddca125-8b46-4cc3-868c-e6e0fa544836",
+      "title": "Lire Lolita à Téhéran",
+      "programSlug": "lire-lolita-a-teheran",
+      "programUrl": "/programme/paramount-channel/lire-lolita-a-teheran",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 23:20:00+00",
+      "endTime": "2026-04-25 01:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "edf230a3-7a0b-42af-9c88-68203681d0e1",
+      "title": "Lire Lolita à Téhéran",
+      "programSlug": "lire-lolita-a-teheran",
+      "programUrl": "/programme/canal-cinema/lire-lolita-a-teheran",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 23:24:00+00",
+      "endTime": "2026-04-25 01:08:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q118368611",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lire_Lolita_%C3%A0_T%C3%A9h%C3%A9ran_(film)",
+    "imdb": "tt27679443",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:27:20.218Z",
+  "year": 2024,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q464712",
+      "slug": "golshifteh-farahani",
+      "name": "Golshifteh Farahani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q464616",
+      "slug": "zahra-amir-ebrahimi",
+      "name": "Zahra Amir Ebrahimi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18044972",
+      "slug": "mina-kavani",
+      "name": "Mina Kavani",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q920595",
+    "slug": "eran-riklis",
+    "name": "Eran Riklis",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 15:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

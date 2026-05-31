@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "elliot-page",
+  "name": "Elliot Page",
+  "worksCount": 1,
+  "description": "personnalité canadienne du cinéma",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elliot%20Page%208126099%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1987-02-21",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q173399",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Elliot_Page",
+    "imdb": "nm0680983",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "brick-mansions",
+      "title": "Brick Mansions"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "actor",
+  "slug": "marshall-bell",
+  "name": "Marshall Bell",
+  "worksCount": 4,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall-bell.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1942-09-28",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q679987",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marshall_Bell",
+    "imdb": "nm0068382",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "air-america",
+      "title": "Air America"
+    },
+    {
+      "type": "film",
+      "slug": "a-toute-allure",
+      "title": "A toute allure"
+    },
+    {
+      "type": "film",
+      "slug": "la-revanche-de-freddy",
+      "title": "La revanche de Freddy"
+    },
+    {
+      "type": "film",
+      "slug": "rescue-dawn",
+      "title": "Rescue Dawn"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,143 @@
+{
+  "type": "film",
+  "slug": "a-couteaux-tires",
+  "title": "A couteaux tirés",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "A couteaux tirés"
+  ],
+  "genres": [
+    "thriller",
+    "film ou téléfilm criminel",
+    "film ou téléfilm à énigme",
+    "drame",
+    "comédie"
+  ],
+  "description": "Auteur de romans policiers à succès, Harlan Thrombey a invité ses proches pour ses 85 ans. Mais le lendemain, il est retrouvé mort. Il se serait suicidé. Bientôt, le détective Benoit Blanc se présente. Engagé par un mystérieux commanditaire, il considère les proches de la victime comme des suspects...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a5de045b-86a2-4a3e-a069-4578af9978b6",
+      "title": "A couteaux tirés",
+      "programSlug": "a-couteaux-tires",
+      "programUrl": "/programme/ocs/a-couteaux-tires",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-19 16:42:00+00",
+      "endTime": "2026-04-19 18:50:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": 130,
+  "cast": [
+    {
+      "qid": "Q4547",
+      "slug": "daniel-craig",
+      "name": "Daniel Craig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41449",
+      "slug": "michael-shannon",
+      "name": "Michael Shannon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q178348",
+      "slug": "chris-evans",
+      "name": "Chris Evans",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16762370",
+      "slug": "keith-stanfield",
+      "name": "Keith Stanfield",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309788",
+      "slug": "don-johnson",
+      "name": "Don Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q190523",
+      "slug": "christopher-plummer",
+      "name": "Christopher Plummer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q698173",
+      "slug": "ana-de-armas",
+      "name": "Ana de Armas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106997",
+      "slug": "jamie-lee-curtis",
+      "name": "Jamie Lee Curtis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229291",
+      "slug": "toni-collette",
+      "name": "Toni Collette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q29155310",
+      "slug": "katherine-langford",
+      "name": "Katherine Langford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311319",
+      "slug": "frank-oz",
+      "name": "Frank Oz",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q621818",
+    "slug": "rian-johnson",
+    "name": "Rian Johnson",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 16:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

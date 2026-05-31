@@ -1,0 +1,113 @@
+{
+  "type": "film",
+  "slug": "le-seigneur-des-anneaux-la-guerre-des-rohirrim",
+  "title": "Le seigneur des anneaux : La guerre des Rohirrim",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Le seigneur des anneaux : La guerre des Rohirrim",
+    "Le Seigneur des anneaux : La guerre des Rohirrim"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy"
+  ],
+  "description": "Deux siècles avant les aventures de Frodon Sacquet. Neuvième roi de Rohan, Helm est un souverain respecté de ses sujets, qui apprécient sa loyauté et son dévouement. Mais le monarque tua Freca, un seigneur riche et puissant avec lequel il était en conflit, d'un seul coup de poing, ce qui lui valut le surnom de \"Mainmarteau\". Quatre années plus tard, Wulf, le fils de Freca, souhaite venger la mort de son père et décide d'attaquer le royaume de Rohan avec ses hommes. Surpris, Helm et son peuple se voient contraints de battre en retraite et de se mettre à l'abri. Révoltée par la situation, Héra, la fille de Helm, prend son courage à deux mains...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f4865eb3-b996-4600-b52f-377d3ace5be3",
+      "title": "Le Seigneur des anneaux : La guerre des Rohirrim",
+      "programSlug": "le-seigneur-des-anneaux-la-guerre-des-rohirrim",
+      "programUrl": "/programme/canal/le-seigneur-des-anneaux-la-guerre-des-rohirrim",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-19 06:07:00+00",
+      "endTime": "2026-04-19 08:17:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "656c54a8-ccba-419f-b8e3-53daecd4c5af",
+      "title": "Le Seigneur des anneaux : La guerre des Rohirrim",
+      "programSlug": "le-seigneur-des-anneaux-la-guerre-des-rohirrim",
+      "programUrl": "/programme/canal-box-office/le-seigneur-des-anneaux-la-guerre-des-rohirrim",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 16:49:00+00",
+      "endTime": "2026-04-21 19:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d9effcde-98f1-4d80-b808-d2c310615374",
+      "title": "Le Seigneur des anneaux : La guerre des Rohirrim",
+      "programSlug": "le-seigneur-des-anneaux-la-guerre-des-rohirrim",
+      "programUrl": "/programme/canal-box-office/le-seigneur-des-anneaux-la-guerre-des-rohirrim",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 05:17:00+00",
+      "endTime": "2026-04-25 07:28:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 134,
+  "cast": [],
+  "director": {
+    "qid": "Q2518786",
+    "slug": "kenji-kamiyama",
+    "name": "Kenji Kamiyama",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 06:07:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

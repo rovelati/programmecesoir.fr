@@ -1,0 +1,54 @@
+{
+  "type": "film",
+  "slug": "freedom-fighters-the-ray",
+  "title": "Freedom Fighters : The Ray",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Freedom Fighters : The Ray"
+  ],
+  "genres": [
+    "Téléfilm"
+  ],
+  "description": "Le journaliste Raymond Terril enquête sur une nouvelle arme, mise au point par des scientifiques qui travaillent pour le gouvernement. Atteint lors d'un accident par des ondes qui modifient son ADN, il développe des super-pouvoirs, basés sur l'énergie des photons...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

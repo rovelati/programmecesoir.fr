@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "christine-baranski",
+  "name": "Christine Baranski",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christine%20Baranski%20at%202015%20PaleyFes%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1952-05-02",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q229134",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Christine_Baranski",
+    "imdb": "nm0004724",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-grinch",
+      "title": "Le Grinch"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "944f5cb4-68ec-4619-8641-a81bb4a7bbc7",
+      "title": "Le Grinch",
+      "programSlug": "le-grinch",
+      "programUrl": "/programme/cine-family/le-grinch",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 14:48:00+00",
+      "endTime": "2026-04-21 16:30:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 14:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

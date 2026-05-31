@@ -1,0 +1,101 @@
+{
+  "type": "film",
+  "slug": "tap-dance",
+  "title": "Tap Dance",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Tap Dance"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm musical"
+  ],
+  "description": "Max Washington, un jeune Noir new-yorkais très doué pour les claquettes, est derrière les barreaux pour avoir participé à un hold-up. A sa sortie de prison, il retrouve Little Mo, lui-même ancien danseur, qui voit en lui son successeur. Il revoit également la fille de ce dernier, Amy, sa petite amie et partenaire de danse. Little Mo essaie de convaincre Max de déployer son talent sur scène. Mais le jeune homme n'y croit guère. A vrai dire, il rêve surtout de s'enrichir, pour ne pas finir dans le dénuement, comme son père. Il est tenté de renouer avec ses \"amis\" cambrioleurs, d'autant plus que sa première démonstration de claquettes est un échec...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1128248526%20b9ed1c4ef5%20o.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1989,
+  "durationMinutes": 111,
+  "cast": [
+    {
+      "qid": "Q367653",
+      "slug": "gregory-hines",
+      "name": "Gregory Hines",
+      "role": "actor"
+    },
+    {
+      "qid": "Q297816",
+      "slug": "sammy-davis",
+      "name": "Sammy Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3706936",
+      "slug": "dick-anthony-williams",
+      "name": "Dick Anthony Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3141591",
+      "slug": "howard-sims",
+      "name": "Howard Sims",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3179126",
+      "slug": "jimmy-slyde",
+      "name": "Jimmy Slyde",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459007",
+      "slug": "joe-morton",
+      "name": "Joe Morton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q360244",
+      "slug": "savion-glover",
+      "name": "Savion Glover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16089775",
+      "slug": "barbara-perry",
+      "name": "Barbara Perry",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q936000",
+    "slug": "nick-castle",
+    "name": "Nick Castle",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

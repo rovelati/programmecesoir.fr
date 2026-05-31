@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "kathy-bates",
+  "name": "Kathy Bates",
+  "worksCount": 3,
+  "description": "actrice, productrice et réalisatrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SDCC%202015%20-%20Kathy%20Bates%20(19551149449)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1948-06-28",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q544465",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kathy_Bates",
+    "imdb": "nm0000870",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "american-outlaws",
+      "title": "American Outlaws"
+    },
+    {
+      "type": "film",
+      "slug": "le-recidiviste",
+      "title": "Le récidiviste"
+    },
+    {
+      "type": "film",
+      "slug": "playboy-a-saisir",
+      "title": "Playboy à saisir"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "marie-antoinette-reine-de-france",
+  "title": "Marie-Antoinette reine de France",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Marie-Antoinette reine de France"
+  ],
+  "genres": [
+    "film ou téléfilm historique"
+  ],
+  "description": "En 1770, Marie-Antoinette a 15 ans. Cette ravissante adolescente quitte son pays, l'Autriche, et sa famille pour épouser, en France, le dauphin Louis, un bon garçon pensif que le mariage et les femmes ennuient. Marie-Antoinette, déçue dans ses espérances, s'étourdit de fêtes et de divertissements, sous l'oeil placide de son mari. Lors d'un bal masqué, elle rencontre le séduisant Axel de Fersen, un officier suédois. Bientôt, la rumeur va bon train. Les mauvaises langues prêtent aux amours platoniques de la reine et de son soupirant un tour qui indispose le roi, soucieux de sa réputation et de sa gloire, toutes deux sérieusement menacées...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1955,
+  "durationMinutes": 120,
+  "cast": [
+    {
+      "qid": "Q234897",
+      "slug": "michele-morgan",
+      "name": "Michèle Morgan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457165",
+      "slug": "richard-todd",
+      "name": "Richard Todd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q451206",
+      "slug": "marina-berti",
+      "name": "Marina Berti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q615795",
+      "slug": "jacques-dufilho",
+      "name": "Jacques Dufilho",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295257",
+      "slug": "michel-piccoli",
+      "name": "Michel Piccoli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2480843",
+      "slug": "jacques-bergerac",
+      "name": "Jacques Bergerac",
+      "role": "actor"
+    },
+    {
+      "qid": "Q547182",
+      "slug": "jacques-morel",
+      "name": "Jacques Morel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2828049",
+      "slug": "aime-clariond",
+      "name": "Aimé Clariond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830263",
+      "slug": "alain-saury",
+      "name": "Alain Saury",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830925",
+      "slug": "albert-augier",
+      "name": "Albert Augier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2847484",
+      "slug": "andre-chanu",
+      "name": "André Chanu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2847507",
+      "slug": "andre-chaumeau",
+      "name": "André Chaumeau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848982",
+      "slug": "andree-tainsy",
+      "name": "Andrée Tainsy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851066",
+      "slug": "anne-doat",
+      "name": "Anne Doat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1984434",
+      "slug": "bernard-musson",
+      "name": "Bernard Musson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2934954",
+      "slug": "camille-guerini",
+      "name": "Camille Guérini",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q449087",
+    "slug": "jean-delannoy",
+    "name": "Jean Delannoy",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

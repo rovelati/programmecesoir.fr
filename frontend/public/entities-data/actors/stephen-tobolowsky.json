@@ -1,0 +1,104 @@
+{
+  "type": "actor",
+  "slug": "stephen-tobolowsky",
+  "name": "Stephen Tobolowsky",
+  "worksCount": 5,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20tobolowsky%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1951-05-30",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q376131",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Stephen_Tobolowsky",
+    "imdb": "nm0864997",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "black-dog",
+      "title": "Black Dog"
+    },
+    {
+      "type": "film",
+      "slug": "thelma-et-louise",
+      "title": "Thelma et Louise"
+    },
+    {
+      "type": "film",
+      "slug": "buried",
+      "title": "Buried"
+    },
+    {
+      "type": "film",
+      "slug": "hors-du-temps",
+      "title": "Hors du temps"
+    },
+    {
+      "type": "film",
+      "slug": "playboy-a-saisir",
+      "title": "Playboy à saisir"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c2c24c59-8415-40a2-b866-57012fc6b083",
+      "title": "Thelma et Louise",
+      "programSlug": "thelma-et-louise",
+      "programUrl": "/programme/canal-grand-ecran/thelma-et-louise",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 05:33:00+00",
+      "endTime": "2026-04-23 07:38:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "8ea354af-4791-4d1b-a3ef-169406106784",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/paramount-channel/black-dog",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 06:15:00+00",
+      "endTime": "2026-04-23 08:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "60883db3-f1de-40b2-8b55-5895b2b42e5f",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/canal-cinema/black-dog",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 06:18:00+00",
+      "endTime": "2026-04-23 08:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "a6588f05-4159-4a24-bd71-e123ae94efac",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/canal-box-office/black-dog",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 15:02:00+00",
+      "endTime": "2026-04-24 16:49:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 05:33:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

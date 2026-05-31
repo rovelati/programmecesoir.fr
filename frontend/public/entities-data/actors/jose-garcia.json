@@ -1,0 +1,109 @@
+{
+  "type": "actor",
+  "slug": "jose-garcia",
+  "name": "José Garcia",
+  "worksCount": 6,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Garcia%20micro.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-03-17",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q778451",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jos%C3%A9_Garcia",
+    "imdb": "nm0305296",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "nous-les-leroy",
+      "title": "Nous, les Leroy"
+    },
+    {
+      "type": "film",
+      "slug": "bastille-day",
+      "title": "Bastille Day"
+    },
+    {
+      "type": "film",
+      "slug": "le-panache",
+      "title": "Le Panache"
+    },
+    {
+      "type": "film",
+      "slug": "30-jours-max",
+      "title": "30 jours max"
+    },
+    {
+      "type": "film",
+      "slug": "comme-un-poisson-hors-de-l-eau",
+      "title": "Comme un poisson hors de l'eau"
+    },
+    {
+      "type": "film",
+      "slug": "la-verite-si-je-mens-2",
+      "title": "La vérité si je mens ! 2"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2ce12171-2240-402e-8332-aef67c023468",
+      "title": "Le Panache",
+      "programSlug": "le-panache",
+      "programUrl": "/programme/cine-family/le-panache",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 09:55:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8d6fda4a-a1c7-4571-b534-ce3fe8708cc4",
+      "title": "Le Panache",
+      "programSlug": "le-panache",
+      "programUrl": "/programme/cine-family/le-panache",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 12:56:00+00",
+      "endTime": "2026-04-23 14:26:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "d3ee1234-47e0-481d-9ea9-77f44e0dbeb2",
+      "title": "Bastille Day",
+      "programSlug": "bastille-day",
+      "programUrl": "/programme/canal-grand-ecran/bastille-day",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 03:45:00+00",
+      "endTime": "2026-04-24 05:15:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "4fa7595c-a53d-4dcc-a515-8dbcd9a2a61f",
+      "title": "Bastille Day",
+      "programSlug": "bastille-day",
+      "programUrl": "/programme/cine-frisson/bastille-day",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 12:12:00+00",
+      "endTime": "2026-04-25 13:41:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 09:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

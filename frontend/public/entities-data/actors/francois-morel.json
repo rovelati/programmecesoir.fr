@@ -1,0 +1,66 @@
+{
+  "type": "actor",
+  "slug": "francois-morel",
+  "name": "François Morel",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Salon%20du%20livre%20de%20Paris%202017%20-%20Fran%C3%A7ois%20Morel%20-%20005.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1959-06-10",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3085412",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Morel_(acteur)",
+    "imdb": "nm0603586",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-discours",
+      "title": "Le Discours"
+    },
+    {
+      "type": "film",
+      "slug": "une-famille-a-louer",
+      "title": "Une famille à louer"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "445ff83b-a26f-4392-8605-78477c98923d",
+      "title": "Le discours",
+      "programSlug": "le-discours",
+      "programUrl": "/programme/ocs/le-discours",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-19 09:59:00+00",
+      "endTime": "2026-04-19 10:06:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "be216e82-4107-484f-beac-3a9347f288d6",
+      "title": "Une famille à louer",
+      "programSlug": "une-famille-a-louer",
+      "programUrl": "/programme/cine-emotion/une-famille-a-louer",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 20:27:00+00",
+      "endTime": "2026-04-25 22:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 09:59:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

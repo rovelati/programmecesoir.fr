@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "pom-klementieff",
+  "name": "Pom Klementieff",
+  "worksCount": 1,
+  "description": "actrice et mannequin française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stuttgart%20-Comic%20Con%20Germany%202019-%207d%20by-RaBoe%20037%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1986-05-03",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3395911",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Pom_Klementieff",
+    "imdb": "nm2962353",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "radiostars",
+      "title": "Radiostars"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7cee21b-9787-4fb4-9cf0-ee09695438ea",
+      "title": "Radiostars",
+      "programSlug": "radiostars",
+      "programUrl": "/programme/cine-family/radiostars",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 13:09:00+00",
+      "endTime": "2026-04-21 14:48:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 13:09:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "erica",
+  "title": "Erica",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Erica"
+  ],
+  "genres": [
+    "Téléfilm",
+    "Telefilms"
+  ],
+  "description": "Devenue patronne de son entreprise, Erica est courtisée par les deux fils d'un ami de son père. Elle élabore un plan pour découvrir qui des deux l'aime vraiment.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Erica%20herbacea0.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

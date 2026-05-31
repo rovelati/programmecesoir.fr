@@ -1,0 +1,53 @@
+{
+  "type": "film",
+  "slug": "moon-le-panda",
+  "title": "Moon le panda",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Moon le panda"
+  ],
+  "genres": [
+    "Film",
+    "Cinema",
+    "Film d'aventures"
+  ],
+  "description": "Fu ne peut cacher sa colère lorsqu'il découvre que Tian, son fils âgé de 12 ans, a fini dernier de sa classe lors du trimestre qui vient de s'écouler. En guise de punition pour ses mauvais résultats, le garçon est alors envoyé chez Nai Nai, sa grand-mère, qui vit loin de la ville, dans une région montagneuse du centre de la Chine. Sur place, Tian, amer, a peur de s'ennuyer. Parti ramasser du bois en forêt, il croise un panda avec lequel il se lie vite d'amitié et qu'il décide de nommer Moon. Tian ignore que c'est le début d'une incroyable aventure qui va changer à tout jamais sa vie et celle de sa famille...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q3106578",
+    "slug": "gilles-de-maistre",
+    "name": "Gilles de Maistre",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,5 @@
+CRON_TZ=Europe/Paris
+# Not needed by default: Bluesky is chained automatically by run_social_x_reco_server.sh.
+# Keep these only if you want Bluesky to run standalone.
+17 18 * * * /home/u914016995/programmecesoir_social/run_social_bluesky_sport_server.sh >> /home/u914016995/.logs/social_bluesky_sport.log 2>&1
+37 19 * * * /home/u914016995/programmecesoir_social/run_social_bluesky_film_server.sh >> /home/u914016995/.logs/social_bluesky_film.log 2>&1

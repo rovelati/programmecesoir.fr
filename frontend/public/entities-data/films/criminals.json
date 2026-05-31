@@ -1,0 +1,84 @@
+{
+  "type": "film",
+  "slug": "criminals",
+  "title": "Criminals",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Criminals"
+  ],
+  "genres": [
+    "film muet",
+    "drame",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Dee et Marcus sont frères et rejettent le système, chacun à leur façon. Le premier fait du graffiti, tandis que l'autre braque des bijouteries. Alors que Dee commence à se faire un nom sur la scène artistique, Marcus prépare un gros coup. Il se retrouve bientôt pris en chasse par des gangs et par la police...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1913,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q2440503",
+      "slug": "pauline-bush",
+      "name": "Pauline Bush",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2865325",
+      "slug": "arthur-rosson",
+      "name": "Arthur Rosson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3561346",
+      "slug": "richard-rosson",
+      "name": "Richard Rosson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3177594",
+      "slug": "jessalyn-van-trump",
+      "name": "Jessalyn Van Trump",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3328076",
+      "slug": "murdock-macquarrie",
+      "name": "Murdock MacQuarrie",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q959677",
+    "slug": "allan-dwan",
+    "name": "Allan Dwan",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

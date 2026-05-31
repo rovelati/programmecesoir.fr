@@ -1,0 +1,119 @@
+{
+  "type": "film",
+  "slug": "jesse-stone-le-benefice-du-doute",
+  "title": "Jesse Stone : le bénéfice du doute",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Jesse Stone : le bénéfice du doute"
+  ],
+  "genres": [
+    "film ou téléfilm à énigme",
+    "drame"
+  ],
+  "description": "Ex-chef de la police de Paradise, mis à la retraite par Hansen, qui l'a remplacé par Butler, son gendre, Jesse Stone s'ennuie. Un matin, Jesse reçoit la visite de Hansen, qui lui demande de reprendre du service après l'explosion du véhicule de service qui a coûté la vie à Butler et à l'agent De Angelo...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "channelNumber": null,
+      "logoUrl": "/loghi/serie-club.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q236250",
+      "slug": "kathy-baker",
+      "name": "Kathy Baker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q213706",
+      "slug": "tom-selleck",
+      "name": "Tom Selleck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1778472",
+      "slug": "kohl-sudduth",
+      "name": "Kohl Sudduth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q261535",
+      "slug": "gloria-reuben",
+      "name": "Gloria Reuben",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1321265",
+      "slug": "stephen-mchattie",
+      "name": "Stephen McHattie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q152542",
+      "slug": "william-sadler",
+      "name": "William Sadler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q463734",
+      "slug": "robert-carradine",
+      "name": "Robert Carradine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6173879",
+      "slug": "jeff-geddis",
+      "name": "Jeff Geddis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q976176",
+      "slug": "saul-rubinek",
+      "name": "Saul Rubinek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q451880",
+      "slug": "william-devane",
+      "name": "William Devane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6181057",
+      "slug": "jeremy-akerman",
+      "name": "Jeremy Akerman",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1287882",
+    "slug": "robert-harmon",
+    "name": "Robert Harmon",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

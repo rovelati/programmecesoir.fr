@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "joan-cusack",
+  "name": "Joan Cusack",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joan%20Cusack%20(h).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-10-11",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q272946",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Joan_Cusack",
+    "imdb": "nm0000349",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "arlington-road",
+      "title": "Arlington Road"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "florence-pernel",
+  "name": "Florence Pernel",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Florence%20Pernel%20Cannes%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-06-30",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q527437",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Florence_Pernel",
+    "imdb": "nm0674340",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "crime-en-lozere",
+      "title": "Crime en Lozère"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6ade7e5f-7239-4ed7-8656-05761cd99f1e",
+      "title": "Crime en Lozère",
+      "programSlug": "crime-en-lozere",
+      "programUrl": "/programme/teva/crime-en-lozere",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-19 17:05:00+00",
+      "endTime": "2026-04-19 19:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 17:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

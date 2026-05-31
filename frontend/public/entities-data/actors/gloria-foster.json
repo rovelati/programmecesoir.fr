@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "gloria-foster",
+  "name": "Gloria Foster",
+  "worksCount": 2,
+  "description": "actrice américaine (1933-2001)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gloria%20Foster%201970.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1933-11-15",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q455234",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Gloria_Foster",
+    "imdb": "nm0287825",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "matrix-reloaded",
+      "title": "Matrix Reloaded"
+    },
+    {
+      "type": "film",
+      "slug": "matrix",
+      "title": "Matrix"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e63f4115-4e5f-409b-8635-860651827547",
+      "title": "Matrix",
+      "programSlug": "matrix",
+      "programUrl": "/programme/canal-grand-ecran/matrix",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 07:19:00+00",
+      "endTime": "2026-04-20 09:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "17fe7c6b-e9f9-4106-97c1-5fa4634053c7",
+      "title": "Matrix Reloaded",
+      "programSlug": "matrix-reloaded",
+      "programUrl": "/programme/canal-grand-ecran/matrix-reloaded",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 14:02:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 07:19:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

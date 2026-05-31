@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "sophie-marie-larrouy",
+  "name": "Sophie-Marie Larrouy",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Marie%20Larrouy%20(2020).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1984-02-22",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q28599978",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sophie-Marie_Larrouy",
+    "imdb": "nm5563435",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-hermine",
+      "title": "L'hermine"
+    },
+    {
+      "type": "film",
+      "slug": "nous-les-leroy",
+      "title": "Nous, les Leroy"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

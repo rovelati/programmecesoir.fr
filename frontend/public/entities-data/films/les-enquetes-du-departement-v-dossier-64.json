@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "les-enquetes-du-departement-v-dossier-64",
+  "title": "Les enquêtes du département V : dossier 64",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Les enquêtes du département V : dossier 64"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "En 2018, au Danemark, Carl Morck et Assad, deux policiers qui travaillent pour le département V, chargé des affaires non résolues, enquêtent sur plusieurs disparitions suspectes. Depuis l'annonce du départ d'Assad, l'équipe est sous tension. La découverte de trois squelettes, cachés dans un vieil appartement inoccupé, les amène sur une nouvelle piste. Avec leur assistante Rose, les deux hommes rouvrent un dossier qui date des années 50. A l'époque, sur l'île de Sprogo, le docteur Curt Wad obligeait des jeunes femmes internées à se faire stériliser...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": 118,
+  "cast": [
+    {
+      "qid": "Q383754",
+      "slug": "nikolaj-lie-kaas",
+      "name": "Nikolaj Lie Kaas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q706673",
+      "slug": "fares-fares",
+      "name": "Fares Fares",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18145315",
+      "slug": "johanne-louise-schmidt",
+      "name": "Johanne Louise Schmidt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2033737",
+      "slug": "s-ren-pilmark",
+      "name": "Søren Pilmark",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12327695",
+      "slug": "morten-kirkskov",
+      "name": "Morten Kirkskov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22956207",
+      "slug": "anders-juul",
+      "name": "Anders Juul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18421583",
+      "slug": "fanny-leander-bornedal",
+      "name": "Fanny Leander Bornedal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2913347",
+      "slug": "nastja-arcel",
+      "name": "Nastja Arcel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12326893",
+      "slug": "michael-brostrup",
+      "name": "Michael Brostrup",
+      "role": "actor"
+    },
+    {
+      "qid": "Q61887597",
+      "slug": "clara-rosager",
+      "name": "Clara Rosager",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12004083",
+      "slug": "susan-olsen",
+      "name": "Susan Olsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12301381",
+      "slug": "anders-brink-madsen",
+      "name": "Anders Brink Madsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12301414",
+      "slug": "anders-hove",
+      "name": "Anders Hove",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12316483",
+      "slug": "henrik-vestergaard",
+      "name": "Henrik Vestergaard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12319806",
+      "slug": "joen-h-jerslev",
+      "name": "Joen Højerslev",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12331363",
+      "slug": "per-tofte-nielsen",
+      "name": "Per Tofte Nielsen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1084396",
+    "slug": "christoffer-boe",
+    "name": "Christoffer Boe",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

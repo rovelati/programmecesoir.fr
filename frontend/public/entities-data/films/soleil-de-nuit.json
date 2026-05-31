@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "soleil-de-nuit",
+  "title": "Soleil de nuit",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Soleil de nuit"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Le danseur Nikolai Rodchenko, ancienne étoile du Kirov, est passé à l'Ouest où il mène depuis dix ans une carrière internationale qui lui fait sillonner le monde entier. Au cours d'un vol vers le Japon, son avion est contraint de se poser en catastrophe en Sibérie. Rodchenko détruit ses papiers mais il est reconnu par le colonel Chaiko, un officier du KGB, et capturé. Son imprésario, Anne Wyatt, alerte aussitôt l'ambassade américaine à Moscou, mais ne parvient pas à le faire libérer. Rodchenko est placé sous la surveillance d'un célèbre danseur noir américain, Raymond Greenwood, qui a choisi l'URSS comme seconde patrie après la guerre du Viêtnam...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1985,
+  "durationMinutes": 136,
+  "cast": [
+    {
+      "qid": "Q295420",
+      "slug": "mikhail-barychnikov",
+      "name": "Mikhaïl Barychnikov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q367653",
+      "slug": "gregory-hines",
+      "name": "Gregory Hines",
+      "role": "actor"
+    },
+    {
+      "qid": "Q51530",
+      "slug": "jerzy-skolimowski",
+      "name": "Jerzy Skolimowski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349391",
+      "slug": "helen-mirren",
+      "name": "Helen Mirren",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228650",
+      "slug": "geraldine-page",
+      "name": "Geraldine Page",
+      "role": "actor"
+    },
+    {
+      "qid": "Q203840",
+      "slug": "isabella-rossellini",
+      "name": "Isabella Rossellini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q281621",
+      "slug": "john-glover",
+      "name": "John Glover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1351454",
+      "slug": "william-hootkins",
+      "name": "William Hootkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q674451",
+      "slug": "shane-rimmer",
+      "name": "Shane Rimmer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262674",
+      "slug": "maryam-d-abo",
+      "name": "Maryam d'Abo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1566219",
+      "slug": "daniel-benzali",
+      "name": "Daniel Benzali",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16679809",
+      "slug": "aleksandr-naumov",
+      "name": "Aleksandr Naumov",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q545573",
+    "slug": "taylor-hackford",
+    "name": "Taylor Hackford",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

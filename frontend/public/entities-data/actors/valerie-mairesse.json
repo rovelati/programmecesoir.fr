@@ -1,0 +1,71 @@
+{
+  "type": "actor",
+  "slug": "valerie-mairesse",
+  "name": "Valérie Mairesse",
+  "worksCount": 3,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Val%C3%A9rie%20Mairesse%20Cannes%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1955-06-08",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q524747",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_Mairesse",
+    "imdb": "nm0537865",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "par-amour",
+      "title": "Par amour"
+    },
+    {
+      "type": "film",
+      "slug": "doux-jesus",
+      "title": "Doux Jésus"
+    },
+    {
+      "type": "film",
+      "slug": "le-coup-du-parapluie",
+      "title": "Le coup du parapluie"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fd7fd8f4-9272-4270-b27a-6230362224c8",
+      "title": "Doux Jésus",
+      "programSlug": "doux-jesus",
+      "programUrl": "/programme/canal/doux-jesus",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-24 07:43:00+00",
+      "endTime": "2026-04-24 09:06:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "9689f70d-c808-4840-b92b-f143b8af36e3",
+      "title": "Doux Jésus",
+      "programSlug": "doux-jesus",
+      "programUrl": "/programme/canal-box-office/doux-jesus",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 20:39:00+00",
+      "endTime": "2026-04-25 22:03:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-24 07:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

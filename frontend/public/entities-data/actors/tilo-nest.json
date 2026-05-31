@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "tilo-nest",
+  "name": "Tilo Nest",
+  "worksCount": 1,
+  "description": "German actor and singer",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2007-10-28%20ABBA%20jetzt!%2C%20Pantheon%2C%20Bonn%20IMG%208632.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-01-01",
+  "nationality": "Allemagne",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q2433700",
+    "wikipedia": null,
+    "imdb": "nm0626521",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "comme-si-de-rien-n-etait",
+      "title": "Comme si de rien n'était"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

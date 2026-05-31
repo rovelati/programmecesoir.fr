@@ -1,0 +1,185 @@
+{
+  "type": "film",
+  "slug": "un-conde",
+  "title": "Un condé",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Un condé"
+  ],
+  "genres": [
+    "film ou téléfilm criminel"
+  ],
+  "description": "Pour avoir refusé de tremper dans des histoires de drogue, Roger Dassa est assassiné par les tueurs du Mandarin. Le même gang s'en prend ensuite à la soeur de Roger, Hélène, qui a repris la boîte de nuit de son frère. Une visite de condoléances sert de prétexte à une destruction de l'établissement. Hélène est sérieusement blessée. Dan Rover, ami et associé de Roger, jure d'avoir la peau du Mandarin. Il fait appel à son ami Villetti, un ancien truand. Barnero, jeune officier de police peu scrupuleux, s'occupe de l'affaire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e7577f15-187d-442a-9fe6-3e4557da66c0",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 01:20:00+00",
+      "endTime": "2026-04-21 02:56:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b18e748c-8759-4810-9790-ad4a85548430",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 02:18:00+00",
+      "endTime": "2026-04-23 03:54:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "da185f85-581d-4027-a52f-6e4ce26093eb",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 02:21:00+00",
+      "endTime": "2026-04-25 03:57:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1970,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q981315",
+      "slug": "michel-bouquet",
+      "name": "Michel Bouquet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q456668",
+      "slug": "francoise-fabian",
+      "name": "Françoise Fabian",
+      "role": "actor"
+    },
+    {
+      "qid": "Q674890",
+      "slug": "gianni-garko",
+      "name": "Gianni Garko",
+      "role": "actor"
+    },
+    {
+      "qid": "Q62257",
+      "slug": "michel-constantin",
+      "name": "Michel Constantin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q715111",
+      "slug": "rufus",
+      "name": "Rufus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1393800",
+      "slug": "theo-sarapo",
+      "name": "Théo Sarapo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q365044",
+      "slug": "adolfo-celi",
+      "name": "Adolfo Celi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438521",
+      "slug": "serge-nubret",
+      "name": "Serge Nubret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466434",
+      "slug": "henri-garcin",
+      "name": "Henri Garcin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q327229",
+      "slug": "bernard-fresson",
+      "name": "Bernard Fresson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851004",
+      "slug": "anne-carrere",
+      "name": "Anne Carrère",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3103218",
+      "slug": "georges-montant",
+      "name": "Georges Montant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3131809",
+      "slug": "henri-poirier",
+      "name": "Henri Poirier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3164833",
+      "slug": "jean-claude-bercq",
+      "name": "Jean-Claude Bercq",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3167807",
+      "slug": "jean-marie-robain",
+      "name": "Jean-Marie Robain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3288971",
+      "slug": "marcel-gassouk",
+      "name": "Marcel Gassouk",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q599483",
+    "slug": "yves-boisset",
+    "name": "Yves Boisset",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 01:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

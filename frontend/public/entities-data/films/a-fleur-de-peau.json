@@ -1,0 +1,127 @@
+{
+  "type": "film",
+  "slug": "a-fleur-de-peau",
+  "title": "A fleur de peau",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "A fleur de peau"
+  ],
+  "genres": [
+    "film ou téléfilm de casse",
+    "néo-noir",
+    "drame",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Michael, un joueur professionnel, revient chez lui pour assister aux secondes noces de sa mère. Son futur beau-père lui propose de travailler avec lui, dans la société de transport de fonds qui l'emploie. Bientôt, Michael apprend de la bouche de son frère que son ancienne femme, la très belle Rachel, est désormais fiancée avec Tommy Dundee, le propriétaire véreux d'un night-club. Michael avait abandonné la jeune femme lorsqu'il avait dû quitter la ville, après avoir perdu une forte somme d'argent au jeu. Il tente de la reconquérir mais Rachel s'éclipse à Las Vegas où elle épouse Dundee. A son retour, elle se remet pourtant à fréquenter Michael. Lorsque Tommy les surprend, Michael propose au couple de participer à un gros casse...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1995,
+  "durationMinutes": 99,
+  "cast": [
+    {
+      "qid": "Q309900",
+      "slug": "peter-gallagher",
+      "name": "Peter Gallagher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q450573",
+      "slug": "alison-elliott",
+      "name": "Alison Elliott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220335",
+      "slug": "william-fichtner",
+      "name": "William Fichtner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q708097",
+      "slug": "paul-dooley",
+      "name": "Paul Dooley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235478",
+      "slug": "shelley-duvall",
+      "name": "Shelley Duvall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207852",
+      "slug": "elisabeth-shue",
+      "name": "Elisabeth Shue",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3783501",
+      "slug": "harry-goaz",
+      "name": "Harry Goaz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q551355",
+      "slug": "anjanette-comer",
+      "name": "Anjanette Comer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q962579",
+      "slug": "joe-don-baker",
+      "name": "Joe Don Baker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q103917",
+      "slug": "steven-soderbergh",
+      "name": "Steven Soderbergh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40035",
+      "slug": "richard-linklater",
+      "name": "Richard Linklater",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19405928",
+      "slug": "david-jensen",
+      "name": "David Jensen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q103917",
+    "slug": "steven-soderbergh",
+    "name": "Steven Soderbergh",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

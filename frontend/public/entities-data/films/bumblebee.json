@@ -1,0 +1,138 @@
+{
+  "type": "film",
+  "slug": "bumblebee",
+  "title": "Bumblebee",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Bumblebee"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "En Californie, en 1987, Charlie Watson vient juste de fêter ses 18 ans. Elle veut s'acheter une voiture d'occasion et jette son dévolu sur une Coccinelle jaune. Elle va vite découvrir que sa voiture a quelquechose de très spécial. Il s'agit de Bumblebee, l'un des Transformers. Des Decepticons arrivent sur Terre et manipulent les autorités en leur disant que Bumblebee est une grave menace. Très vite, Charlie, son ami Memo et Bumblebee sont poursuivis par une agence gouvernementale, le Secteur 7, dirigée par l'agent Burns. Optimus Prime, le chef des Transformers, donne l'ordre à Bumblebee de sauver la Terre...",
+  "descriptionAi": "Plongez dans ce film de science-fiction mêlant action et aventure, qui renoue avec l'essence émouvante de la saga Transformers. L'ambiance des années 80, teintée de nostalgie et d'humour, sert de toile de fond à une amitié touchante entre une adolescente en quête d'elle-même et un robot extraterrestre vulnérable. L'intérêt réside dans ce récit plus intime et chargé de cœur, où les spectaculaires scènes de transformation côtoient une relation sincère, offrant une fraîcheur bienvenue. Une aventure palpitante sur le lien inattendu qui peut sauver le monde, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:56.298Z",
+  "year": 2018,
+  "durationMinutes": 114,
+  "cast": [
+    {
+      "qid": "Q231726",
+      "slug": "hailee-steinfeld",
+      "name": "Hailee Steinfeld",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44437",
+      "slug": "john-cena",
+      "name": "John Cena",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1541103",
+      "slug": "gracie-dzienny",
+      "name": "Gracie Dzienny",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210094",
+      "slug": "john-ortiz",
+      "name": "John Ortiz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271426",
+      "slug": "pamela-adlon",
+      "name": "Pamela Adlon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q714458",
+      "slug": "dylan-o-brien",
+      "name": "Dylan O'Brien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316596",
+      "slug": "justin-theroux",
+      "name": "Justin Theroux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232120",
+      "slug": "angela-bassett",
+      "name": "Angela Bassett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q266901",
+      "slug": "megyn-price",
+      "name": "Megyn Price",
+      "role": "actor"
+    },
+    {
+      "qid": "Q910625",
+      "slug": "peter-cullen",
+      "name": "Peter Cullen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13938",
+      "slug": "grey-delisle",
+      "name": "Grey DeLisle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3558573",
+      "slug": "kenneth-choi",
+      "name": "Kenneth Choi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1720470",
+      "slug": "len-cariou",
+      "name": "Len Cariou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3244483",
+      "slug": "rachel-crow",
+      "name": "Rachel crow",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q7836302",
+    "slug": "travis-knight",
+    "name": "Travis Knight",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

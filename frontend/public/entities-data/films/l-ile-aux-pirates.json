@@ -1,0 +1,154 @@
+{
+  "type": "film",
+  "slug": "l-ile-aux-pirates",
+  "title": "L'île aux pirates",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "L'île aux pirates"
+  ],
+  "genres": [
+    "comédie romantique",
+    "film de cape et d'épée",
+    "film et téléfilm d'action",
+    "film ou téléfilm d'aventure",
+    "film de chasse au trésor",
+    "film ou téléfilm pour enfants",
+    "film de pirates"
+  ],
+  "description": "La Jamaïque, en l'an de grâce 1668. Le frère de Morgan Adams, Dawg Brown, un flibustier, vient d'assassiner leur père, le célèbre pirate Harry le Noir. Morgan hérite d'un fier navire et du tiers d'une carte dont la reconstitution doit lui permettre de découvrir un fantastique trésor. Tirant de sa prison un charmant aventurier, William Shaw, mythomane par choix, elle le convainc de se lancer à ses côtés dans la course au butin. Elle parvient à récupérer une autre partie de la carte et sait désormais quelle est sa destination : l'île de Cutthroat. La marine anglaise, rivée à ses basques et renseignée par un traître, ainsi que le sanguinaire Dawg, lui mènent la vie dure...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1995,
+  "durationMinutes": 124,
+  "cast": [
+    {
+      "qid": "Q280098",
+      "slug": "geena-davis",
+      "name": "Geena Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318249",
+      "slug": "matthew-modine",
+      "name": "Matthew Modine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310944",
+      "slug": "frank-langella",
+      "name": "Frank Langella",
+      "role": "actor"
+    },
+    {
+      "qid": "Q951634",
+      "slug": "maury-chaykin",
+      "name": "Maury Chaykin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q377072",
+      "slug": "patrick-malahide",
+      "name": "Patrick Malahide",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2330114",
+      "slug": "stan-shaw",
+      "name": "Stan Shaw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1346123",
+      "slug": "harris-yulin",
+      "name": "Harris Yulin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q463285",
+      "slug": "rex-linn",
+      "name": "Rex Linn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2966537",
+      "slug": "christopher-adamson",
+      "name": "Christopher Adamson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q511832",
+      "slug": "christopher-masterson",
+      "name": "Christopher Masterson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3017460",
+      "slug": "david-bailie",
+      "name": "David Bailie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1689283",
+      "slug": "jimmie-f-skaggs",
+      "name": "Jimmie F. Skaggs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q953588",
+      "slug": "paul-dillon",
+      "name": "Paul Dillon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318712",
+      "slug": "renny-harlin",
+      "name": "Renny Harlin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3430965",
+      "slug": "richard-leaf",
+      "name": "Richard Leaf",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1964106",
+      "slug": "rupert-vansittart",
+      "name": "Rupert Vansittart",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q318712",
+    "slug": "renny-harlin",
+    "name": "Renny Harlin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

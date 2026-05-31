@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jean-carmet",
+  "name": "Jean Carmet",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Carmet%20C%C3%A9sars.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1920-04-25",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q639888",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Carmet",
+    "imdb": "nm0138405",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "trop-c-est-trop",
+      "title": "Trop c'est trop"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

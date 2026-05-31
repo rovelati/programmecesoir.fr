@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "sacha-pitoeff",
+  "name": "Sacha Pitoëff",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sacha%20Pito%C3%ABff%201956%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1920-03-11",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1358541",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sacha_Pito%C3%ABff",
+    "imdb": "nm0685782",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-chemins-de-katmandou",
+      "title": "Les chemins de Katmandou"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

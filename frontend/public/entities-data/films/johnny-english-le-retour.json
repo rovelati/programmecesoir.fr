@@ -1,0 +1,175 @@
+{
+  "type": "film",
+  "slug": "johnny-english-le-retour",
+  "title": "Johnny English, le retour",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Johnny English, le retour"
+  ],
+  "genres": [
+    "film ou téléfilm d'espionnage",
+    "comédie",
+    "comédie d'action"
+  ],
+  "description": "Cela fait des années que Johnny English, le plus surprenant et le plus maladroit des agents secrets britanniques, a pris sa retraite. Il vit désormais reclus dans un monastère d'Asie, où il s'est familiarisé avec des techniques martiales uniques. Un jour, le MI-7 fait appel à lui pour protéger le Premier ministre chinois d'un complot international qui le menace. Pour éviter que le monde ne sombre dans le chaos, Johnny English reprend du service, équipé des derniers gadgets à la mode. L'affaire est des plus délicates : les Russes et la CIA sont impliqués dans l'affaire, et même des agents du MI7...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny%20English%20Reborn%20Movie%20Premiere%20Rowan%20Atkinson%20(6111701008).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4bc79017-5001-4151-bd64-bc53e819e4f8",
+      "title": "Johnny English, le retour",
+      "programSlug": "johnny-english-le-retour",
+      "programUrl": "/programme/cine-family/johnny-english-le-retour",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 08:16:00+00",
+      "endTime": "2026-04-20 09:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bd82cf28-5189-48a7-b44a-67ed8e2d7fc2",
+      "title": "Johnny English, le retour",
+      "programSlug": "johnny-english-le-retour",
+      "programUrl": "/programme/cine-family/johnny-english-le-retour",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 12:39:00+00",
+      "endTime": "2026-04-25 14:17:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2011,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q23760",
+      "slug": "rowan-atkinson",
+      "name": "Rowan Atkinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230004",
+      "slug": "rosamund-pike",
+      "name": "Rosamund Pike",
+      "role": "actor"
+    },
+    {
+      "qid": "Q485298",
+      "slug": "gillian-anderson",
+      "name": "Gillian Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313020",
+      "slug": "dominic-west",
+      "name": "Dominic West",
+      "role": "actor"
+    },
+    {
+      "qid": "Q510970",
+      "slug": "daniel-kaluuya",
+      "name": "Daniel Kaluuya",
+      "role": "actor"
+    },
+    {
+      "qid": "Q355209",
+      "slug": "richard-schiff",
+      "name": "Richard Schiff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q552162",
+      "slug": "tim-mcinnerny",
+      "name": "Tim McInnerny",
+      "role": "actor"
+    },
+    {
+      "qid": "Q981821",
+      "slug": "burn-gorman",
+      "name": "Burn Gorman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q509777",
+      "slug": "josephine-de-la-baume",
+      "name": "Joséphine de La Baume",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1964106",
+      "slug": "rupert-vansittart",
+      "name": "Rupert Vansittart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q924821",
+      "slug": "stephen-campbell-moore",
+      "name": "Stephen Campbell Moore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2525463",
+      "slug": "tasha-de-vasconcelos",
+      "name": "Tasha de Vasconcelos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1897677",
+      "slug": "togo-igawa",
+      "name": "Togo Igawa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1033909",
+      "slug": "mark-ivanir",
+      "name": "Mark Ivanir",
+      "role": "actor"
+    },
+    {
+      "qid": "Q816568",
+      "slug": "ben-miller",
+      "name": "Ben Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3329808",
+      "slug": "benedict-wong",
+      "name": "Benedict Wong",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q475703",
+    "slug": "oliver-parker",
+    "name": "Oliver Parker",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 08:16:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

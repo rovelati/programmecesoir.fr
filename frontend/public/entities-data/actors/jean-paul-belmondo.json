@@ -1,0 +1,97 @@
+{
+  "type": "actor",
+  "slug": "jean-paul-belmondo",
+  "name": "Jean-Paul Belmondo",
+  "worksCount": 6,
+  "description": "acteur, producteur et cascadeur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Paul%20Belmondo%202013%204.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1933-04-09",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q106255",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Paul_Belmondo",
+    "imdb": "nm0000901",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-marginal",
+      "title": "Le marginal"
+    },
+    {
+      "type": "film",
+      "slug": "le-professionnel",
+      "title": "Le professionnel"
+    },
+    {
+      "type": "film",
+      "slug": "le-magnifique",
+      "title": "Le magnifique"
+    },
+    {
+      "type": "film",
+      "slug": "les-maries-de-l-an-ii",
+      "title": "Les mariés de l'an II"
+    },
+    {
+      "type": "film",
+      "slug": "le-doulos",
+      "title": "Le doulos"
+    },
+    {
+      "type": "film",
+      "slug": "a-bout-de-souffle",
+      "title": "A bout de souffle"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b7d284ca-d658-4945-a2cf-96952dc6aca3",
+      "title": "Les mariés de l'an II",
+      "programSlug": "les-maries-de-l-an-ii",
+      "programUrl": "/programme/cine-classic/les-maries-de-l-an-ii",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 15:35:00+00",
+      "endTime": "2026-04-23 17:11:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "b88a8cf2-b41a-4118-8c92-460d607bec41",
+      "title": "Le marginal",
+      "programSlug": "le-marginal",
+      "programUrl": "/programme/cine-classic/le-marginal",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 17:11:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "5b71eeea-aefe-4600-8afd-52e96c7bc3df",
+      "title": "A bout de souffle",
+      "programSlug": "a-bout-de-souffle",
+      "programUrl": "/programme/cine-classic/a-bout-de-souffle",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 22:28:00+00",
+      "endTime": "2026-04-23 23:56:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 15:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

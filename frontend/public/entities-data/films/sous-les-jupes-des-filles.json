@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "sous-les-jupes-des-filles",
+  "title": "Sous les jupes des filles",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Sous les jupes des filles"
+  ],
+  "genres": [
+    "comédie dramatique"
+  ],
+  "description": "A Paris, onze femmes, onze façons d'appréhender l'amour avec un grand A. Rose, une executive woman, peine à trouver une relation stable. En regardant les messages sur son téléphone portable, Inès vient de découvrir que son mari avait une liaison avec Jo. Le goujat a même proposé le mariage à sa conquête, qui pense être la seule femme de sa vie et ignore qu'Inès existe. Ysis, mère de famille débordée, voit débarquer Marie, la patronne de leurs babysitters. Elle pourrait bien bouleverser leur vie de couple. Agathe, quant à elle, a rencontré un homme qui lui semble parfait. Au restaurant, il lui annonce qu'il est célibataire. Sam refuse l'idée même de la monogamie...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q106383",
+      "slug": "isabelle-adjani",
+      "name": "Isabelle Adjani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q32608",
+      "slug": "alice-belaidi",
+      "name": "Alice Belaïdi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q265232",
+      "slug": "alice-taglioni",
+      "name": "Alice Taglioni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q177840",
+      "slug": "audrey-dana",
+      "name": "Audrey Dana",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457089",
+      "slug": "audrey-fleurot",
+      "name": "Audrey Fleurot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q541690",
+      "slug": "geraldine-nakache",
+      "name": "Géraldine Nakache",
+      "role": "actor"
+    },
+    {
+      "qid": "Q553904",
+      "slug": "guillaume-gouix",
+      "name": "Guillaume Gouix",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2832982",
+      "slug": "alex-lutz",
+      "name": "Alex Lutz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q966378",
+      "slug": "julie-ferrier",
+      "name": "Julie Ferrier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207578",
+      "slug": "laetitia-casta",
+      "name": "Laetitia Casta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3218747",
+      "slug": "laure-calamy",
+      "name": "Laure Calamy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q951025",
+      "slug": "marc-lavoine",
+      "name": "Marc Lavoine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q292760",
+      "slug": "marina-hands",
+      "name": "Marina Hands",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3340143",
+      "slug": "nicolas-briancon",
+      "name": "Nicolas Briançon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3367400",
+      "slug": "pascal-elbe",
+      "name": "Pascal Elbé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q533768",
+      "slug": "stanley-weber",
+      "name": "Stanley Weber",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q177840",
+    "slug": "audrey-dana",
+    "name": "Audrey Dana",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

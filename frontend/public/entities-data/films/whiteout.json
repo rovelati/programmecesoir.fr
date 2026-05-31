@@ -1,0 +1,97 @@
+{
+  "type": "film",
+  "slug": "whiteout",
+  "title": "Whiteout",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Whiteout"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film et téléfilm d'action",
+    "film ou téléfilm à énigme",
+    "thriller"
+  ],
+  "description": "L'agent Carrie Stetko se prépare à quitter l'Antarctique au terme d'une mission. La découverte d'un cadavre, à des kilomètres du camp, change ses plans. Seule représentante des autorités sur place, elle lance l'enquête. Celle-ci la conduit rapidement à un agent des Nations unies envoyé sur les lieux...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SPSM.05.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q179414",
+      "slug": "kate-beckinsale",
+      "name": "Kate Beckinsale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q320093",
+      "slug": "tom-skerritt",
+      "name": "Tom Skerritt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q265661",
+      "slug": "columbus-short",
+      "name": "Columbus Short",
+      "role": "actor"
+    },
+    {
+      "qid": "Q320651",
+      "slug": "gabriel-macht",
+      "name": "Gabriel Macht",
+      "role": "actor"
+    },
+    {
+      "qid": "Q358137",
+      "slug": "alex-o-loughlin",
+      "name": "Alex O'Loughlin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4353380",
+      "slug": "shawn-doyle",
+      "name": "Shawn Doyle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2865151",
+      "slug": "arthur-holden",
+      "name": "Arthur Holden",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q728362",
+    "slug": "dominic-sena",
+    "name": "Dominic Sena",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

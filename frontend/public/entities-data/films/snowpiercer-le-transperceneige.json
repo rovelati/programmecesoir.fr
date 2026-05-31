@@ -1,0 +1,55 @@
+{
+  "type": "film",
+  "slug": "snowpiercer-le-transperceneige",
+  "title": "Snowpiercer : le Transperceneige",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Snowpiercer : le Transperceneige"
+  ],
+  "genres": [
+    "Cinéma",
+    "Cinema"
+  ],
+  "description": "Au XXIe siècle, l'utilisation d'un gaz, le CW7, censé contrer le réchauffement climatique a plongé la Terre dans une longue ère glaciaire, provoquant quasiment l'extinction de l'humanité. Les derniers survivants vivent dans un train, divisé en plusieurs classes. En queue de convoi, les déclassés vivent dans des conditions misérables, surveillés par d'impitoyables gardiens tandis qu'en tête, on trouve les classes aisées. Mais parmi les démunis, Edgar et Curtis tentent de traverser le train.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "rmc-story",
+      "channelName": "RMC STORY",
+      "channelSlug": "rmc-story",
+      "channelNumber": 23,
+      "logoUrl": "/loghi/rmc-story.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tipik.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

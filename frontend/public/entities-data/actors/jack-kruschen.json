@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jack-kruschen",
+  "name": "Jack Kruschen",
+  "worksCount": 1,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Kruschen%201977.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1922-03-20",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q1374376",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jack_Kruschen",
+    "imdb": "nm0472816",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-tombeur-de-ces-dames",
+      "title": "Le tombeur de ces dames"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

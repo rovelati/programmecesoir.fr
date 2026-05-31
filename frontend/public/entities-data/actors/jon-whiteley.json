@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "jon-whiteley",
+  "name": "Jon Whiteley",
+  "worksCount": 1,
+  "description": "acteur et historien de l'art britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1945-02-19",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1702859",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jon_Whiteley",
+    "imdb": "nm0925804",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-contrebandiers-de-moonfleet",
+      "title": "Les contrebandiers de Moonfleet"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dd2a8b3e-41ba-4d80-9d21-6d69a77679bb",
+      "title": "Les contrebandiers de Moonfleet",
+      "programSlug": "les-contrebandiers-de-moonfleet",
+      "programUrl": "/programme/cine-classic/les-contrebandiers-de-moonfleet",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-22 10:06:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 10:06:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

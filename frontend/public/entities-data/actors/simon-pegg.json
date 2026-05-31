@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "simon-pegg",
+  "name": "Simon Pegg",
+  "worksCount": 3,
+  "description": "acteur, scénariste et réalisateur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Pegg%20(54585791866)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-02-14",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q238464",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Simon_Pegg",
+    "imdb": "nm0670408",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "star-trek",
+      "title": "Star Trek"
+    },
+    {
+      "type": "film",
+      "slug": "star-trek-into-darkness",
+      "title": "Star Trek Into Darkness"
+    },
+    {
+      "type": "film",
+      "slug": "shaun-of-the-dead",
+      "title": "Shaun of the Dead"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

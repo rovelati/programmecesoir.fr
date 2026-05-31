@@ -1,0 +1,131 @@
+{
+  "type": "film",
+  "slug": "le-seuil-du-vide",
+  "title": "Le seuil du vide",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le seuil du vide"
+  ],
+  "genres": [
+    "film et téléfilm fantastique"
+  ],
+  "description": "Wanda Leibowitz vient d'arriver à Paris pour y étudier la peinture. Mais elle doit d'abord s'installer dans la capitale, où elle ne connaît personne. Heureusement, elle fait rapidement la rencontre d'une énigmatique vieille dame, qui lui loue une petite chambre juste au-dessus de son appartement...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6330a25a-2915-4471-8021-5419167483f8",
+      "title": "Le seuil du vide",
+      "programSlug": "le-seuil-du-vide",
+      "programUrl": "/programme/action/le-seuil-du-vide",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-26 00:13:00+00",
+      "endTime": "2026-04-26 01:29:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1974,
+  "durationMinutes": 71,
+  "cast": [
+    {
+      "qid": "Q2942047",
+      "slug": "catherine-rich",
+      "name": "Catherine Rich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2977812",
+      "slug": "claude-melki",
+      "name": "Claude Melki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3103730",
+      "slug": "georgette-anys",
+      "name": "Georgette Anys",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2026118",
+      "slug": "jean-droze",
+      "name": "Jean Droze",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1685823",
+      "slug": "jean-servais",
+      "name": "Jean Servais",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1682865",
+      "slug": "michel-lemoine",
+      "name": "Michel Lemoine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3371972",
+      "slug": "paul-pavel",
+      "name": "Paul Pavel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3379888",
+      "slug": "philippe-gaste",
+      "name": "Philippe Gasté",
+      "role": "actor"
+    },
+    {
+      "qid": "Q956942",
+      "slug": "pierre-vaneck",
+      "name": "Pierre Vaneck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3439224",
+      "slug": "roger-lumont",
+      "name": "Roger Lumont",
+      "role": "actor"
+    },
+    {
+      "qid": "Q550806",
+      "slug": "q550806",
+      "name": "Q550806",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3165561",
+    "slug": "jean-francois-davy",
+    "name": "Jean-François Davy",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-26 00:13:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

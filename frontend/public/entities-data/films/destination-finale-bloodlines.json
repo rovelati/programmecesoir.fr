@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "destination-finale-bloodlines",
+  "title": "Destination finale : Bloodlines",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Destination finale : Bloodlines"
+  ],
+  "genres": [
+    "slasher",
+    "film et téléfilm d'horreur"
+  ],
+  "description": "Hantée par un angoissant cauchemar aux allures de rêve prémonitoire, une jeune femme prend des mesures pour empêcher celui-ci de devenir réalité.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q132749719",
+      "slug": "kaitlyn-santa-juana",
+      "name": "Kaitlyn Santa Juana",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109327800",
+      "slug": "teo-briones",
+      "name": "Teo Briones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2114235",
+      "slug": "richard-harmon",
+      "name": "Richard Harmon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21505799",
+      "slug": "owen-joyner",
+      "name": "Owen Joyner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q435652",
+      "slug": "rya-kihlstedt",
+      "name": "Rya Kihlstedt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19281662",
+      "slug": "brec-bassinger",
+      "name": "Brec Bassinger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q351849",
+      "slug": "tony-todd",
+      "name": "Tony Todd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111575278",
+      "slug": "anna-lore",
+      "name": "Anna Lore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2833065",
+      "slug": "alex-zahara",
+      "name": "Alex Zahara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q652254",
+      "slug": "april-telek",
+      "name": "April Telek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3094145",
+      "slug": "gabrielle-rose",
+      "name": "Gabrielle Rose",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16294774",
+      "slug": "max-lloyd-jones",
+      "name": "Max Lloyd-Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q96658177",
+      "slug": "natasha-burnett",
+      "name": "Natasha Burnett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q94326700",
+      "slug": "mark-brandon",
+      "name": "Mark Brandon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95500216",
+      "slug": "garfield-wilson",
+      "name": "Garfield Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21065567",
+      "slug": "bernard-cuffling",
+      "name": "Bernard Cuffling",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q8063816",
+    "slug": "zach-lipovsky",
+    "name": "Zach Lipovsky",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

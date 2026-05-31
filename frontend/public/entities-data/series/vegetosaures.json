@@ -1,0 +1,67 @@
+{
+  "type": "series",
+  "slug": "vegetosaures",
+  "title": "Végétosaures",
+  "airingsCount": 9,
+  "sourceTitles": [
+    "Végétosaures"
+  ],
+  "genres": [
+    "Série"
+  ],
+  "description": "Au cours de l'ère du Croustillant Supérieur, le monde est dominé par les créatures les plus juteuses et les plus vitaminées qui ont jamais peuplé la terre : les plantureux végétosaures. Ginger, une jeune tricarrotops, vit de savoureuses aventures avec ses nouveaux amis, les petit pois Rex.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-corse.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0b890c9e-1078-44b8-b553-1c6b1c92564d",
+      "title": "Végétosaures",
+      "programSlug": "vegetosaures",
+      "programUrl": "/programme/france-4/vegetosaures",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 04:45:00+00",
+      "endTime": "2026-04-24 04:46:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-24 04:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "series",
+  "slug": "maria-wern",
+  "title": "Maria Wern",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Maria Wern - Saison 1",
+    "Maria Wern - Saison 2"
+  ],
+  "genres": [
+    "série télévisée policière"
+  ],
+  "description": "Sur l'île de Gotland, les festivités estivales sont marquées par une série de meurtres qui semblent tous liés à des pratiques occultes. L'enquête conduit l'inspectrice Maria Wern à s'intéresser à un crime commis des années plus tôt et dont l'auteur est décédé depuis. La police pense avoir affaire à un imitateur...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 10
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2008,
+  "numberOfSeasons": 8,
+  "cast": [],
+  "creator": {
+    "qid": "Q462283",
+    "slug": "anna-jansson",
+    "name": "Anna Jansson",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

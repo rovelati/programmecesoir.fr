@@ -1,0 +1,163 @@
+{
+  "type": "film",
+  "slug": "le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+  "title": "Le seigneur des anneaux : la communauté de l'anneau",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Le seigneur des anneaux : la communauté de l'anneau"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'aventure",
+    "film et téléfilm d'action"
+  ],
+  "description": "Pour lutter contre Sauron, les hommes, les elfes et les nains s'étaient déjà unis. Après la défaite de l'être maléfique, son anneau revint à celui qui l'avait battu, Isildur. Des années plus tard, Bilbon Sacquet parvient à entrer en possession de l'anneau et le garde chez lui pendant près de soixante ans...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "be0a223e-e722-4842-b584-d36925a2beaa",
+      "title": "Le seigneur des anneaux : la communauté de l'anneau",
+      "programSlug": "le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+      "programUrl": "/programme/ocs/le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 08:38:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2001,
+  "durationMinutes": 178,
+  "cast": [
+    {
+      "qid": "Q483771",
+      "slug": "elijah-wood",
+      "name": "Elijah Wood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170510",
+      "slug": "ian-mckellen",
+      "name": "Ian McKellen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q168763",
+      "slug": "liv-tyler",
+      "name": "Liv Tyler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q171363",
+      "slug": "viggo-mortensen",
+      "name": "Viggo Mortensen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q189351",
+      "slug": "sean-astin",
+      "name": "Sean Astin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q80966",
+      "slug": "cate-blanchett",
+      "name": "Cate Blanchett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16455",
+      "slug": "john-rhys-davies",
+      "name": "John Rhys-Davies",
+      "role": "actor"
+    },
+    {
+      "qid": "Q276425",
+      "slug": "billy-boyd",
+      "name": "Billy Boyd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q152165",
+      "slug": "dominic-monaghan",
+      "name": "Dominic Monaghan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44467",
+      "slug": "orlando-bloom",
+      "name": "Orlando Bloom",
+      "role": "actor"
+    },
+    {
+      "qid": "Q180338",
+      "slug": "christopher-lee",
+      "name": "Christopher Lee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42204",
+      "slug": "hugo-weaving",
+      "name": "Hugo Weaving",
+      "role": "actor"
+    },
+    {
+      "qid": "Q191104",
+      "slug": "sean-bean",
+      "name": "Sean Bean",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223091",
+      "slug": "ian-holm",
+      "name": "Ian Holm",
+      "role": "actor"
+    },
+    {
+      "qid": "Q206922",
+      "slug": "andy-serkis",
+      "name": "Andy Serkis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3390514",
+      "slug": "mark-ferguson",
+      "name": "Mark Ferguson",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q4465",
+    "slug": "peter-jackson",
+    "name": "Peter Jackson",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 08:38:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

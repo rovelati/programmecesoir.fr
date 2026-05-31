@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "john-warburton",
+  "name": "John Warburton",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Warburton%2C%201933.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1899-06-18",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q6262966",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Warburton_(acteur)",
+    "imdb": "nm0911314",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "cavalcade",
+      "title": "Cavalcade"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

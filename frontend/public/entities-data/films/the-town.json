@@ -1,0 +1,126 @@
+{
+  "type": "film",
+  "slug": "the-town",
+  "title": "The Town",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "The Town"
+  ],
+  "genres": [
+    "film ou téléfilm de casse",
+    "drame",
+    "thriller policier"
+  ],
+  "description": "A Boston, dans le quartier de Charlestown, Doug MacRay est le chef d'une impitoyable bande de braqueurs de banques. Sans attaches particulières, Doug ne craint jamais la perte d'un être cher. Tout change le jour où, lors d'un casse, sa bande prend en otage la directrice de la banque, Claire Keesey. Même si elle a été relâchée indemne, Claire est nerveuse car elle sait que les voleurs connaissent son nom et savent où elle habite. Elle baisse la garde lorsqu'elle rencontre un homme discret et charmant, sans se souvenir qu'il l'avait terrorisée quelques jours plus tôt. Entre eux naît une passion dévorante qui les emmène sur un chemin dangereux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2010,
+  "durationMinutes": 124,
+  "cast": [
+    {
+      "qid": "Q313107",
+      "slug": "jon-hamm",
+      "name": "Jon Hamm",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230534",
+      "slug": "rebecca-hall",
+      "name": "Rebecca Hall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q162959",
+      "slug": "blake-lively",
+      "name": "Blake Lively",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23365",
+      "slug": "jeremy-renner",
+      "name": "Jeremy Renner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q217137",
+      "slug": "pete-postlethwaite",
+      "name": "Pete Postlethwaite",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273208",
+      "slug": "chris-cooper",
+      "name": "Chris Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q483118",
+      "slug": "ben-affleck",
+      "name": "Ben Affleck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q437693",
+      "slug": "titus-welliver",
+      "name": "Titus Welliver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q270664",
+      "slug": "victor-garber",
+      "name": "Victor Garber",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2502878",
+      "slug": "slaine",
+      "name": "Slaine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6835479",
+      "slug": "michael-yebba",
+      "name": "Michael Yebba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11293100",
+      "slug": "owen-burke",
+      "name": "Owen Burke",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q483118",
+    "slug": "ben-affleck",
+    "name": "Ben Affleck",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

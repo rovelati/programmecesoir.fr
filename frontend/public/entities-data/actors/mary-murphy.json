@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "mary-murphy",
+  "name": "Mary Murphy",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Murphy%201951.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1931-01-26",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q529541",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mary_Murphy_(actrice)",
+    "imdb": "nm0614500",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-equipee-sauvage",
+      "title": "L'équipée sauvage"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

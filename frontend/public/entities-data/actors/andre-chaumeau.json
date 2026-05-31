@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "andre-chaumeau",
+  "name": "André Chaumeau",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1924-10-22",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2847507",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Andr%C3%A9_Chaumeau",
+    "imdb": "nm0154309",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "marie-antoinette-reine-de-france",
+      "title": "Marie-Antoinette reine de France"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "mhamed-arezki",
+  "name": "Mhamed Arezki",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1984-01-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3307810",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mhamed_Arezki",
+    "imdb": "nm1449195",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "partir-un-jour",
+      "title": "Partir un jour"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f28c0994-d653-4c9c-b607-9a823b76cde7",
+      "title": "Partir un jour",
+      "programSlug": "partir-un-jour",
+      "programUrl": "/programme/canal-box-office/partir-un-jour",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 22:14:00+00",
+      "endTime": "2026-04-23 23:48:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 22:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

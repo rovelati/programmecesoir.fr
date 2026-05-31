@@ -1,0 +1,68 @@
+{
+  "type": "film",
+  "slug": "court-metrage",
+  "title": "Court métrage",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Court métrage"
+  ],
+  "genres": [
+    "Film",
+    "Cinéma"
+  ],
+  "description": "Un court-métrage pas encore déterminé.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shortfilm.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-partage-tnt-idf",
+      "channelName": "Canal Partagé TNT IDF",
+      "channelSlug": "canal-partage-tnt-idf",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-partage-tnt-idf.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-21",
+      "channelName": "Canal 21",
+      "channelSlug": "canal-21",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-21.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d177818b-90c9-4f20-9464-3a032de5d93b",
+      "title": "Court métrage",
+      "programSlug": "court-metrage",
+      "programUrl": "/programme/canal-21/court-metrage",
+      "channelId": "canal-21",
+      "channelName": "Canal 21",
+      "channelSlug": "canal-21",
+      "startTime": "2026-04-19 20:20:00+00",
+      "endTime": "2026-04-19 21:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": 45,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 20:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

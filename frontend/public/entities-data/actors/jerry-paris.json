@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jerry-paris",
+  "name": "Jerry Paris",
+  "worksCount": 2,
+  "description": "cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jerry%20Paris%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1925-07-25",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1381411",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jerry_Paris",
+    "imdb": "nm0661577",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-equipee-sauvage",
+      "title": "L'équipée sauvage"
+    },
+    {
+      "type": "film",
+      "slug": "te-casse-pas-la-tete-jerry",
+      "title": "Te casse pas la tête Jerry"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

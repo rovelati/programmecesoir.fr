@@ -1,0 +1,46 @@
+{
+  "type": "actor",
+  "slug": "jeanne-moreau",
+  "name": "Jeanne Moreau",
+  "worksCount": 3,
+  "description": "actrice, chanteuse, réalisatrice et scénariste française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Sebastian%20Film%20Festival%20Jeanne%20Moreau%20crop%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1928-01-23",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q106099",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jeanne_Moreau",
+    "imdb": "nm0603402",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mata-hari-agent-h21",
+      "title": "Mata Hari, agent H21"
+    },
+    {
+      "type": "film",
+      "slug": "romeo-et-juliette",
+      "title": "Roméo et Juliette"
+    },
+    {
+      "type": "film",
+      "slug": "un-amour-de-sorciere",
+      "title": "Un amour de sorcière"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "carla-marlier",
+  "name": "Carla Marlier",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1938-02-05",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2939031",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Carla_Marlier",
+    "imdb": "nm0549150",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mata-hari-agent-h21",
+      "title": "Mata Hari, agent H21"
+    },
+    {
+      "type": "film",
+      "slug": "zazie-dans-le-metro",
+      "title": "Zazie dans le métro"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "86b7d271-194c-4d7a-854b-9ed4945b3edd",
+      "title": "Zazie dans le métro",
+      "programSlug": "zazie-dans-le-metro",
+      "programUrl": "/programme/cine-classic/zazie-dans-le-metro",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-25 08:43:00+00",
+      "endTime": "2026-04-25 10:13:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-25 08:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

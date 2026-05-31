@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "theresa-russell",
+  "name": "Theresa Russell",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Theresa%20Russell%201976%20headshot.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1957-03-20",
+  "nationality": "États-Unis",
+  "jobTitle": "mannequin",
+  "externalIds": {
+    "wikidata": "Q253467",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Theresa_Russell",
+    "imdb": "nm0000622",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-recidiviste",
+      "title": "Le récidiviste"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

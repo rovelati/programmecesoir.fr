@@ -1,0 +1,107 @@
+{
+  "type": "series",
+  "slug": "presto-le-manoir-magique",
+  "title": "Presto ! Le manoir magique",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Presto ! Le manoir magique"
+  ],
+  "genres": [
+    "Serie"
+  ],
+  "description": "Lorenzo, le magicien le plus connu au monde, et son neveu ont transformé leur ancien manoir en camp d'été pour enseigner la magie. Dylan et Lisa sont ravis d'avoir été choisis. Avec Nica, Violette et Vincent, ils vont parfaire leur pratique et créer de nouveaux tours. Ensemble, ils vont tout mettre en oeuvre pour remporter une compétition qui les oppose aux As de pique placés sous la houlette de Dendedragon, un ancien élève de Lorenzo tombé du côté obscur de la magie.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "teletoon-1",
+      "channelName": "Télétoon +1",
+      "channelSlug": "teletoon-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teletoon-1.svg",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0ed1d9ac-b40c-4888-8116-1ef07096a22d",
+      "title": "Presto ! Le manoir magique",
+      "programSlug": "presto-le-manoir-magique",
+      "programUrl": "/programme/teletoon/presto-le-manoir-magique",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 11:00:00+00",
+      "endTime": "2026-04-23 11:11:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "dce6b9a1-de7b-43ae-a584-fdef3c2e9971",
+      "title": "Presto ! Le manoir magique",
+      "programSlug": "presto-le-manoir-magique",
+      "programUrl": "/programme/teletoon/presto-le-manoir-magique",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 11:11:00+00",
+      "endTime": "2026-04-23 11:22:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "f4e9e3e5-e9a2-412a-9c09-1d69016f66ac",
+      "title": "Presto ! Le manoir magique",
+      "programSlug": "presto-le-manoir-magique",
+      "programUrl": "/programme/teletoon/presto-le-manoir-magique",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 11:22:00+00",
+      "endTime": "2026-04-23 11:33:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "b35b2f94-c2cd-4e22-80c6-a9310409ebc8",
+      "title": "Presto ! Le manoir magique",
+      "programSlug": "presto-le-manoir-magique",
+      "programUrl": "/programme/teletoon/presto-le-manoir-magique",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 11:33:00+00",
+      "endTime": "2026-04-23 11:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "cbeabcd2-ec04-4f73-9c9e-797396e2a84c",
+      "title": "Presto ! Le manoir magique",
+      "programSlug": "presto-le-manoir-magique",
+      "programUrl": "/programme/teletoon/presto-le-manoir-magique",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 11:45:00+00",
+      "endTime": "2026-04-23 12:00:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-23 11:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

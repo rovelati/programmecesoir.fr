@@ -1,0 +1,120 @@
+{
+  "type": "series",
+  "slug": "breeders",
+  "title": "Breeders",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Breeders"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Paul se voit chargé par Brandon, son nouveau responsable, de couper les fonds de certains projets et de l'annoncer lui-même. Alors qu'une connaissance de Jackie est mourante, Jim se lance dans des travaux de peinture. Ava meurt d'envie d'aller voir son groupe préféré, mais les billets se sont vendus très rapidement. Dans l'espoir de se rapprocher de sa fille, Ally lui glisse qu'elle doit pouvoir obtenir des places par l'intermédiaire d'un contact.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ae245d2-2615-42c8-8a8e-b14c7a6588fe",
+      "title": "Breeders - Saison 3",
+      "programSlug": "breeders-saison-3",
+      "programUrl": "/programme/cine-family/breeders-saison-3",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 18:14:00+00",
+      "endTime": "2026-04-20 18:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "66c53e31-0552-4665-af16-42cb321793f6",
+      "title": "Breeders - Saison 4",
+      "programSlug": "breeders-saison-4",
+      "programUrl": "/programme/cine-family/breeders-saison-4",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 18:01:00+00",
+      "endTime": "2026-04-21 18:24:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "557ce9c0-e1a1-4aa8-84d5-f117c38b6997",
+      "title": "Breeders - Saison 4",
+      "programSlug": "breeders-saison-4",
+      "programUrl": "/programme/cine-family/breeders-saison-4",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 18:24:00+00",
+      "endTime": "2026-04-21 18:50:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2020,
+  "numberOfSeasons": 4,
+  "cast": [
+    {
+      "qid": "Q110855919",
+      "slug": "abdul-hakim-joy",
+      "name": "Abdul Hakim Joy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5209717",
+      "slug": "daisy-haggard",
+      "name": "Daisy Haggard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q72044131",
+      "slug": "joelle-koissi",
+      "name": "Joelle Koissi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309486",
+      "slug": "martin-freeman",
+      "name": "Martin Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q69010887",
+      "slug": "rosalind-eleazar",
+      "name": "Rosalind Eleazar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q462069",
+      "slug": "stella-gonet",
+      "name": "Stella Gonet",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 18:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

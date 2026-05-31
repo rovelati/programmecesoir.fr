@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "andre-carnege",
+  "name": "André Carnège",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1890-12-20",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2847441",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Andr%C3%A9_Carn%C3%A8ge",
+    "imdb": "nm0138892",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "gueule-d-amour",
+      "title": "Gueule d'amour"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

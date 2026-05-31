@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "henry-rollins",
+  "name": "Henry Rollins",
+  "worksCount": 1,
+  "description": "chanteur de hard rock",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Rollins%20-%20Wacken%20Open%20Air%202016%2002.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1961-02-13",
+  "nationality": "États-Unis",
+  "jobTitle": "musicien ou musicienne",
+  "externalIds": {
+    "wikidata": "Q318509",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Henry_Rollins",
+    "imdb": "nm0738433",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "a-toute-allure",
+      "title": "A toute allure"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

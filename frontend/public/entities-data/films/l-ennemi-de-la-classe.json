@@ -1,0 +1,83 @@
+{
+  "type": "film",
+  "slug": "l-ennemi-de-la-classe",
+  "title": "L'ennemi de la classe",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "L'ennemi de la classe"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Robert Zupan est nommé professeur d'allemand dans un lycée slovène, en remplacement d'une collègue enceinte, dont il comprend vite combien elle materne ses élèves. Robert a de l'enseignement une conception plus austère. Il tente de partager avec ses élèves l'humanisme sévère de Thomas Mann et ne les ménage pas quand il croit de son devoir de les amener à donner le meilleur d'eux-mêmes. C'est en particulier le cas avec Sabina, si douée au piano, une adolescente inquiète. Et lorsque Sabina se suicide, les rumeurs vont bon train et la classe se déchaîne, rendant Robert responsable de la mort de la jeune fille. Une véritable campagne de harcélement se met en place...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5c43b9e6-0049-4c5d-baf7-e4d595a420f6",
+      "title": "L'ennemi de la classe",
+      "programSlug": "l-ennemi-de-la-classe",
+      "programUrl": "/programme/eurochannel/l-ennemi-de-la-classe",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 04:00:00+00",
+      "endTime": "2026-04-20 05:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "db975f28-af4c-4ce4-81bc-ac242810a419",
+      "title": "L'ennemi de la classe",
+      "programSlug": "l-ennemi-de-la-classe",
+      "programUrl": "/programme/eurochannel/l-ennemi-de-la-classe",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-25 16:55:00+00",
+      "endTime": "2026-04-25 18:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 112,
+  "cast": [
+    {
+      "qid": "Q12791296",
+      "slug": "igor-samobor",
+      "name": "Igor Samobor",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q48766157",
+    "slug": "rok-bicek",
+    "name": "Rok Biček",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 04:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

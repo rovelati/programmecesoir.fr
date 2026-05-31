@@ -1,0 +1,119 @@
+{
+  "type": "actor",
+  "slug": "claude-brasseur",
+  "name": "Claude Brasseur",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ClaudeBrasseur-1965-StudioHarcourt.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1936-06-15",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q106544",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Claude_Brasseur",
+    "imdb": "nm0105475",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-guerre-des-polices",
+      "title": "La guerre des polices"
+    },
+    {
+      "type": "film",
+      "slug": "legitime-violence",
+      "title": "Légitime violence"
+    },
+    {
+      "type": "film",
+      "slug": "du-rififi-a-paname",
+      "title": "Du rififi à Paname"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "446bead3-c7c9-4330-a059-47db43c2c967",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-19 23:50:00+00",
+      "endTime": "2026-04-20 01:24:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "65977fce-7e7b-4d2c-91e0-9c8a4de08563",
+      "title": "La guerre des polices",
+      "programSlug": "la-guerre-des-polices",
+      "programUrl": "/programme/action/la-guerre-des-polices",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-20 23:39:00+00",
+      "endTime": "2026-04-21 01:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b41982db-b0e7-4ba1-a15f-c77d25a6a119",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 22:17:00+00",
+      "endTime": "2026-04-21 23:51:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "8d980656-b120-4ea2-8686-22ee1d0ccdc7",
+      "title": "La guerre des polices",
+      "programSlug": "la-guerre-des-polices",
+      "programUrl": "/programme/action/la-guerre-des-polices",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-22 22:56:00+00",
+      "endTime": "2026-04-23 00:37:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "50268974-b6ba-4329-931b-197093e3efd7",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 00:06:00+00",
+      "endTime": "2026-04-24 01:40:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "e11b1921-1720-45b0-82f1-0f0304f60804",
+      "title": "La guerre des polices",
+      "programSlug": "la-guerre-des-polices",
+      "programUrl": "/programme/action/la-guerre-des-polices",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 00:40:00+00",
+      "endTime": "2026-04-25 02:21:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 23:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

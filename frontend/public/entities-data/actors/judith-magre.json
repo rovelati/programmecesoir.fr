@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "judith-magre",
+  "name": "Judith Magre",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JudithMagre-1952-Harcourt.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1926-11-20",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q1711059",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Judith_Magre",
+    "imdb": "nm0536484",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "au-fil-d-ariane",
+      "title": "Au fil d'Ariane"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

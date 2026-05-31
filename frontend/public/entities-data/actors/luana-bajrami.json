@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "luana-bajrami",
+  "name": "Luàna Bajrami",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lu%C3%A0na%20Bajrami.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "2001-03-14",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q65468168",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lu%C3%A0na_Bajrami",
+    "imdb": "nm4714676",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "deux-personnes-echangeant-de-la-salive",
+      "title": "Deux personnes échangeant de la salive"
+    },
+    {
+      "type": "film",
+      "slug": "les-2-alfred",
+      "title": "Les 2 Alfred"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

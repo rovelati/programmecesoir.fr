@@ -1,0 +1,80 @@
+{
+  "type": "actor",
+  "slug": "michel-ocelot",
+  "name": "Michel Ocelot",
+  "worksCount": 5,
+  "description": "réalisateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Ocelot%202019.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1943-10-27",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1364283",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michel_Ocelot",
+    "imdb": "nm0643664",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "azur-et-asmar",
+      "title": "Azur et Asmar"
+    },
+    {
+      "type": "film",
+      "slug": "dilili-a-paris",
+      "title": "Dilili à Paris"
+    },
+    {
+      "type": "film",
+      "slug": "ivan-tsarevitch-et-la-princesse-changeante",
+      "title": "Ivan Tsarévitch et la princesse changeante"
+    },
+    {
+      "type": "film",
+      "slug": "kirikou-et-les-betes-sauvages",
+      "title": "Kirikou et les bêtes sauvages"
+    },
+    {
+      "type": "film",
+      "slug": "le-pharaon-le-sauvage-et-la-princesse",
+      "title": "Le pharaon, le sauvage et la princesse"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b6d3380b-e56e-4fb7-a1ea-d321279b4d1f",
+      "title": "Kirikou et les bêtes sauvages",
+      "programSlug": "kirikou-et-les-betes-sauvages",
+      "programUrl": "/programme/cine-family/kirikou-et-les-betes-sauvages",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 03:47:00+00",
+      "endTime": "2026-04-23 05:01:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "f5f2b14b-f8fa-40c8-be66-ef1a95627327",
+      "title": "Ivan Tsarévitch et la princesse changeante",
+      "programSlug": "ivan-tsarevitch-et-la-princesse-changeante",
+      "programUrl": "/programme/cine-family/ivan-tsarevitch-et-la-princesse-changeante",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 17:30:00+00",
+      "endTime": "2026-04-25 18:26:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 03:47:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

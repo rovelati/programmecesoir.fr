@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "georges-bataille",
+  "name": "Georges Bataille",
+  "worksCount": 1,
+  "description": "philosophe, bibliothécaire et poète français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Bataille%20vers%201943.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1897-09-10",
+  "nationality": "France",
+  "jobTitle": "bibliothécaire",
+  "externalIds": {
+    "wikidata": "Q207359",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Georges_Bataille",
+    "imdb": "nm0060652",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "partie-de-campagne",
+      "title": "Partie de campagne"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cee3b06d-399a-4c31-aa05-1ac72c9c78be",
+      "title": "Partie de campagne",
+      "programSlug": "partie-de-campagne",
+      "programUrl": "/programme/france-3-corse/partie-de-campagne",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 06:44:00+00",
+      "endTime": "2026-04-19 06:56:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 06:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "kaaris",
+  "name": "Kaaris",
+  "worksCount": 1,
+  "description": "rappeur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Out4Fame-Festival%202016%20-%20Kaaris%20(cropped).JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1980-01-30",
+  "nationality": "France",
+  "jobTitle": "rappeur ou rappeuse",
+  "externalIds": {
+    "wikidata": "Q15635447",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kaaris",
+    "imdb": "nm6394131",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "4-zeros",
+      "title": "4 zéros"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "72082a29-a9f5-448a-8813-4250cb04ef42",
+      "title": "4 zéros",
+      "programSlug": "4-zeros",
+      "programUrl": "/programme/ocs/4-zeros",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 08:01:00+00",
+      "endTime": "2026-04-22 09:41:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 08:01:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,164 @@
+{
+  "type": "film",
+  "slug": "diversion",
+  "title": "Diversion",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Diversion"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "film ou téléfilm criminel",
+    "comédie romantique",
+    "drame"
+  ],
+  "description": "Dans l'art de l'escroquerie, Nicky est un maître. Tout dérape quand il s'éprend de Jess, encore novice. Alors que la jeune femme commence à tomber amoureuse de lui, il préfère couper les ponts. Trois ans plus tard, il la retrouve lors du Grand Prix automobile de Buenos Aires où elle menace ses plans...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b2f75e9-9ef5-4493-8888-98692afcdd02",
+      "title": "Diversion",
+      "programSlug": "diversion",
+      "programUrl": "/programme/warnertv/diversion",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-23 07:30:00+00",
+      "endTime": "2026-04-23 09:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 104,
+  "cast": [
+    {
+      "qid": "Q294819",
+      "slug": "rodrigo-santoro",
+      "name": "Rodrigo Santoro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40096",
+      "slug": "will-smith",
+      "name": "Will Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1924847",
+      "slug": "margot-robbie",
+      "name": "Margot Robbie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15695313",
+      "slug": "adrian-martinez",
+      "name": "Adrian Martinez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q325687",
+      "slug": "gerald-mcraney",
+      "name": "Gerald McRaney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q359207",
+      "slug": "b-d-wong",
+      "name": "B. D. Wong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2924449",
+      "slug": "brennan-brown",
+      "name": "Brennan Brown",
+      "role": "actor"
+    },
+    {
+      "qid": "Q944529",
+      "slug": "robert-taylor",
+      "name": "Robert Taylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1546566",
+      "slug": "griff-furst",
+      "name": "Griff Furst",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2358416",
+      "slug": "stephanie-honore",
+      "name": "Stephanie Honoré",
+      "role": "actor"
+    },
+    {
+      "qid": "Q80925",
+      "slug": "dominic-fumusa",
+      "name": "Dominic Fumusa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6300538",
+      "slug": "juan-minujin",
+      "name": "Juan Minujín",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5662293",
+      "slug": "alan-sabbagh",
+      "name": "Alan Sabbagh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20858955",
+      "slug": "billy-slaughter",
+      "name": "Billy Slaughter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16253434",
+      "slug": "thomas-francis-murphy",
+      "name": "Thomas Francis Murphy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16567341",
+      "slug": "joaquin-berthold",
+      "name": "Joaquín Berthold",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3108788",
+    "slug": "glenn-ficarra",
+    "name": "Glenn Ficarra",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 07:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

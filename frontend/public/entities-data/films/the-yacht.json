@@ -1,0 +1,102 @@
+{
+  "type": "film",
+  "slug": "the-yacht",
+  "title": "The Yacht",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "The Yacht"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Bella Denton, une jeune femme aussi perturbée que fêtarde, hérite du splendide yacht de son défunt père avec lequel elle n'entretenait aucun contact. La jeune femme, qui n'a pas le pied marin, passe une nuit dans le bateau avec Michael, son petit ami du moment, après s'être assurée que le yacht était bien amarré. Le lendemain matin, à son réveil, elle réalise qu'elle se trouve au beau milieu de l'océan et que Michael et elle ne sont plus seuls à bord. Tandis que son amant se jette à l'eau pour aller donner l'alerte, Bella ne peut compter que sur elle-même pour venir à bout des intrus. Elle ignore que ceux-ci sont envoyés par les anciens associés de son père, déterminés à récupérer une grosse somme d'argent cachée dans le coffre-fort du bateau..",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "abxplore",
+      "channelName": "ABXplore",
+      "channelSlug": "abxplore",
+      "channelNumber": null,
+      "logoUrl": "/loghi/abxplore.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "la-chaine-lequipe",
+      "channelName": "La chaine l’Équipe",
+      "channelSlug": "la-chaine-lequipe",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-chaine-lequipe.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1950,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q2865963",
+      "slug": "arturo-de-cordova",
+      "name": "Arturo de Córdova",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7934392",
+      "slug": "virginia-luque",
+      "name": "Virginia Luque",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24174946",
+      "slug": "america-barrios",
+      "name": "América Barrios",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5953881",
+      "slug": "juana-sujo",
+      "name": "Juana Sujo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24176248",
+      "slug": "tomas-henriquez",
+      "name": "Tomás Henríquez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6047514",
+      "slug": "nestor-zavarce",
+      "name": "Néstor Zavarce",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6003884",
+      "slug": "maria-gamez",
+      "name": "María Gámez",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q4241251",
+    "slug": "carlos-hugo-christensen",
+    "name": "Carlos Hugo Christensen",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

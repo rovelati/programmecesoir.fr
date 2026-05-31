@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "clive-standen",
+  "name": "Clive Standen",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clive%20Standen%20(54103182837).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1981-07-22",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q1567773",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Clive_Standen",
+    "imdb": "nm1641140",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "robin-des-bois",
+      "title": "Robin des Bois"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0fefd245-4de3-4642-bb21-7938b45ba09b",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:05:00+00",
+      "endTime": "2026-04-25 04:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f2d733cd-4e88-4e57-bb65-733405d812e3",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 04:05:00+00",
+      "endTime": "2026-04-25 04:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "b11f0455-a1c3-4734-a476-fe786ff73f4b",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:15:00+00",
+      "endTime": "2026-04-25 04:25:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "300d7d5e-421c-41a1-aa04-3791b926994b",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 04:15:00+00",
+      "endTime": "2026-04-25 04:25:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "cb1f9083-2663-40a0-aca8-7cbac30e1b3d",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:25:00+00",
+      "endTime": "2026-04-25 04:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "10d0a414-82ec-4de6-91e2-d151fc9300c6",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 04:25:00+00",
+      "endTime": "2026-04-25 04:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "fcc14b67-8925-4dcf-b7ac-dbe9ae06850d",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:40:00+00",
+      "endTime": "2026-04-25 04:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "5893b92b-fda9-4d1f-9b2f-d23d48d6b533",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 04:40:00+00",
+      "endTime": "2026-04-25 04:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "56631ad3-4c6c-489f-ae9b-903fc236eb5f",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:50:00+00",
+      "endTime": "2026-04-25 05:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "a872b275-e79e-47bf-bf1a-8619ffeadbc8",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 04:50:00+00",
+      "endTime": "2026-04-25 05:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "a8566b44-2114-4dd7-a21e-b67ae6bbb51b",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-26 04:05:00+00",
+      "endTime": "2026-04-26 04:15:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "f579253f-f16b-4830-8608-bc495d318a9d",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-26 04:05:00+00",
+      "endTime": "2026-04-26 04:15:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 04:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

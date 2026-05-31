@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "lee-marvin",
+  "name": "Lee Marvin",
+  "worksCount": 3,
+  "description": "acteur américain (1924-1987)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lee%20marvin%201971.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1924-02-19",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q76895",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lee_Marvin",
+    "imdb": "nm0001511",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-equipee-sauvage",
+      "title": "L'équipée sauvage"
+    },
+    {
+      "type": "film",
+      "slug": "l-homme-qui-tua-liberty-valance",
+      "title": "L'homme qui tua Liberty Valance"
+    },
+    {
+      "type": "series",
+      "slug": "professionals",
+      "title": "Professionals"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

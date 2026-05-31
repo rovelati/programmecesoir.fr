@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "c-est-la-vie",
+  "title": "C'est la vie",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "C'est la vie"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Dominique, sage-femme dévouée, entame son dernier jour à la maternité avant sa retraite. Malgré le fait qu'elle doive passer cette journée avec un obstétricien arrogant tout juste débarqué à la clinique, elle tente de soulager plusieurs patientes à différents stades de leur grossesse...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

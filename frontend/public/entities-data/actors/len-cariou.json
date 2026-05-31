@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "len-cariou",
+  "name": "Len Cariou",
+  "worksCount": 1,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LenCariouEmmysSept09.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1939-09-30",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1720470",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Len_Cariou",
+    "imdb": "nm0137230",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bumblebee",
+      "title": "Bumblebee"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

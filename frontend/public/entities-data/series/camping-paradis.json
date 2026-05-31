@@ -1,0 +1,269 @@
+{
+  "type": "series",
+  "slug": "camping-paradis",
+  "title": "Camping Paradis",
+  "airingsCount": 21,
+  "sourceTitles": [
+    "Camping Paradis",
+    "Camping Paradis - Saison 11",
+    "Camping Paradis - Saison 3",
+    "Camping Paradis - Saison 4",
+    "Camping Paradis - Saison 6",
+    "Camping Paradis - Saison 9"
+  ],
+  "genres": [
+    "Série",
+    "Series",
+    "Séries humoristiques",
+    "Série TV"
+  ],
+  "description": "Une nouvelle semaine estivale débute au Camping Paradis. Tom doit faire face aux ennuis habituels, tandis qu'Elsa se prépare à fêter sa majorité. Mais son anniversaire coïncide avec une série de bouleversements : Gloria, la soeur de Rosy, enceinte, vient rejoindre Paul, son amant, un homme marié en vacances dans les environs. Gaspard, de retour après 18 ans passés aux Etats-Unis, apprend la mort tragique des parents de Tom, ses vieux amis. Il annonce à Tom, médusé, qu'il est copropriétaire du camping. Pendant ce temps, Ariane, \"oubliée\" à la gare, arrive dans la Ferrari de Marcus, un célèbre footballeur. Et un couple de motards, Jean-Pierre et Hervé, traverse une grave crise : Hervé est en effet accro au jeu...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "channelNumber": 10,
+      "logoUrl": "/loghi/tmc.png",
+      "airingsCount": 10
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-series-films.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ace91140-6e95-43dd-b971-bbaefe46a775",
+      "title": "Camping Paradis - Saison 16",
+      "programSlug": "camping-paradis-saison-16",
+      "programUrl": "/programme/rts-un/camping-paradis-saison-16",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-21 18:55:00+00",
+      "endTime": "2026-04-21 19:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "378529bf-cfd3-419a-97f1-8cfa6074089d",
+      "title": "Camping Paradis - Saison 9",
+      "programSlug": "camping-paradis-saison-9",
+      "programUrl": "/programme/tf1-series-films/camping-paradis-saison-9",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-21 19:10:00+00",
+      "endTime": "2026-04-21 20:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1af4f9bb-7c7f-46e6-b9de-53fd973f97de",
+      "title": "Camping Paradis - Saison 16",
+      "programSlug": "camping-paradis-saison-16",
+      "programUrl": "/programme/rts-un/camping-paradis-saison-16",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-21 19:45:00+00",
+      "endTime": "2026-04-21 20:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "dc17162c-2012-49e9-8f54-09196cd39e6f",
+      "title": "Camping Paradis - Saison 9",
+      "programSlug": "camping-paradis-saison-9",
+      "programUrl": "/programme/tf1-series-films/camping-paradis-saison-9",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-21 20:00:00+00",
+      "endTime": "2026-04-21 21:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b4d690ab-ff4b-4a21-9429-75c6e15838ac",
+      "title": "Camping Paradis - Saison 4",
+      "programSlug": "camping-paradis-saison-4",
+      "programUrl": "/programme/tf1-series-films/camping-paradis-saison-4",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-21 21:00:00+00",
+      "endTime": "2026-04-21 22:49:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4d5a7e1c-8113-4a18-9957-bff318589145",
+      "title": "Camping Paradis - Saison 13",
+      "programSlug": "camping-paradis-saison-13",
+      "programUrl": "/programme/tmc/camping-paradis-saison-13",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-22 10:55:00+00",
+      "endTime": "2026-04-22 11:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "95a8965e-4ac1-4663-957e-d03e83acc448",
+      "title": "Camping Paradis - Saison 13",
+      "programSlug": "camping-paradis-saison-13",
+      "programUrl": "/programme/tmc/camping-paradis-saison-13",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-22 11:55:00+00",
+      "endTime": "2026-04-22 12:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9a604d88-a64b-48f3-9979-ac804c97637f",
+      "title": "Camping Paradis - Saison 3",
+      "programSlug": "camping-paradis-saison-3",
+      "programUrl": "/programme/tmc/camping-paradis-saison-3",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-22 12:55:00+00",
+      "endTime": "2026-04-22 14:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a58612e3-1366-48be-a8f3-b978f7fa96e1",
+      "title": "Camping Paradis - Saison 4",
+      "programSlug": "camping-paradis-saison-4",
+      "programUrl": "/programme/tmc/camping-paradis-saison-4",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-22 14:30:00+00",
+      "endTime": "2026-04-22 16:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "80de8182-143a-4b67-b088-687556d58293",
+      "title": "Camping Paradis",
+      "programSlug": "camping-paradis",
+      "programUrl": "/programme/rtl-tvi/camping-paradis",
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "startTime": "2026-04-25 12:40:00+00",
+      "endTime": "2026-04-25 14:20:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "e0635dcd-74fe-4d01-9dd8-66c70b195c49",
+      "title": "Camping Paradis",
+      "programSlug": "camping-paradis",
+      "programUrl": "/programme/rtl-tvi/camping-paradis",
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "startTime": "2026-04-25 14:25:00+00",
+      "endTime": "2026-04-25 16:05:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2006,
+  "numberOfSeasons": 14,
+  "cast": [
+    {
+      "qid": "Q3219420",
+      "slug": "laurent-ournac",
+      "name": "Laurent Ournac",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3524306",
+      "slug": "thierry-heckendorn",
+      "name": "Thierry Heckendorn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3369492",
+      "slug": "patrick-guerineau",
+      "name": "Patrick Guérineau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3123682",
+      "slug": "geraldine-lapalus",
+      "name": "Géraldine Lapalus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3403448",
+      "slug": "princess-erika",
+      "name": "Princess Erika",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3629886",
+      "slug": "aurelie-konate",
+      "name": "Aurélie Konaté",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3177085",
+      "slug": "jennifer-lauret",
+      "name": "Jennifer Lauret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19629489",
+      "slug": "patrick-paroux",
+      "name": "Patrick Paroux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108120318",
+      "slug": "candiie",
+      "name": "Candiie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6161447",
+      "slug": "victoria-luengo",
+      "name": "Victoria Luengo",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q3308841",
+    "slug": "michel-alexandre",
+    "name": "Michel Alexandre",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-21 18:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

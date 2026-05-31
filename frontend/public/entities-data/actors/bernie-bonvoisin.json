@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "bernie-bonvoisin",
+  "name": "Bernie Bonvoisin",
+  "worksCount": 1,
+  "description": "chanteur de hard-rock, réalisateur et acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Identite-Bonvoisin-1978-Sacem.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1956-07-09",
+  "nationality": "France",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q2899054",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bernie_Bonvoisin",
+    "imdb": "nm0095275",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-haine",
+      "title": "La haine"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e419f7ba-5d34-4c12-a31c-0d7416d4294c",
+      "title": "La haine",
+      "programSlug": "la-haine",
+      "programUrl": "/programme/cine-frisson/la-haine",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 03:12:00+00",
+      "endTime": "2026-04-23 04:47:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6e5831e2-3e06-474b-8a69-e932d89c80ea",
+      "title": "La haine",
+      "programSlug": "la-haine",
+      "programUrl": "/programme/cine-frisson/la-haine",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 02:51:00+00",
+      "endTime": "2026-04-25 04:26:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 03:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,179 @@
+{
+  "type": "film",
+  "slug": "bird",
+  "title": "Bird",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Bird"
+  ],
+  "genres": [
+    "film ou téléfilm biographique",
+    "film ou téléfilm musical",
+    "drame"
+  ],
+  "description": "Gravesend, une ville du comté de Kent, dans le sud-est de l'Angleterre. Sans repères, livrée à elle-même, Bailey, 12 ans, vit avec son père Bug et son demi-frère Hunter dans un logement social délabré. Un jour, la préadolescente se retrouve contrainte de passer la nuit dehors après avoir suivi Hunter, qui s'est enfui avec ses amis à la suite d'une tentative de vol qui a tourné court. A son réveil, elle fait par hasard la connaissance de Bird, un trentenaire qui affirme être à la recherche de sa mère, dont il est sans nouvelles depuis des années. Intriguée, Bailey propose alors au jeune homme de lui apporter son aide...",
+  "descriptionAi": "Ce film biographique et musical de 1988 plonge dans l'univers sombre et brut des quartiers délabrés de Gravesend. À travers le regard de Bailey, 12 ans, il dépeint une ambiance à la fois désespérée et poétique, où la misère sociale côtoie les rêves d'évasion. Le drame trouve son cœur dans la rencontre improbable entre la jeune fille et Bird, un étranger à la recherche de sa mère. Cette relation fragile, tissée de mélodies poignantes, explore avec justesse les thèmes de l'abandon, de la confiance et des liens de substitution. Une histoire touchante sur la lumière trouvée dans les rencontres inattendues, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "41779283-1599-4f1f-8099-47d9faec15bf",
+      "title": "Bird",
+      "programSlug": "bird",
+      "programUrl": "/programme/cine-festival/bird",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 14:32:00+00",
+      "endTime": "2026-04-23 16:29:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q865056",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bird_(film%2C_1988)",
+    "imdb": "tt0094747",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:14.914Z",
+  "year": 1988,
+  "durationMinutes": 161,
+  "cast": [
+    {
+      "qid": "Q182763",
+      "slug": "forest-whitaker",
+      "name": "Forest Whitaker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q162554",
+      "slug": "diane-venora",
+      "name": "Diane Venora",
+      "role": "actor"
+    },
+    {
+      "qid": "Q926362",
+      "slug": "samuel-e-wright",
+      "name": "Samuel E. Wright",
+      "role": "actor"
+    },
+    {
+      "qid": "Q370918",
+      "slug": "keith-david",
+      "name": "Keith David",
+      "role": "actor"
+    },
+    {
+      "qid": "Q862028",
+      "slug": "bill-cobbs",
+      "name": "Bill Cobbs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2537045",
+      "slug": "james-handy",
+      "name": "James Handy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1364747",
+      "slug": "sam-robards",
+      "name": "Sam Robards",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19721513",
+      "slug": "arlen-dean-snyder",
+      "name": "Arlen Dean Snyder",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1702204",
+      "slug": "john-witherspoon",
+      "name": "John Witherspoon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q351849",
+      "slug": "tony-todd",
+      "name": "Tony Todd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q448587",
+      "slug": "anna-thomson",
+      "name": "Anna Thomson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3260118",
+      "slug": "lou-cutell",
+      "name": "Lou Cutell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q589797",
+      "slug": "tony-cox",
+      "name": "Tony Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q924222",
+      "slug": "diane-salinger",
+      "name": "Diane Salinger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q452232",
+      "slug": "tim-russ",
+      "name": "Tim Russ",
+      "role": "actor"
+    },
+    {
+      "qid": "Q369394",
+      "slug": "richard-jeni",
+      "name": "Richard Jeni",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q43203",
+    "slug": "clint-eastwood",
+    "name": "Clint Eastwood",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 14:32:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

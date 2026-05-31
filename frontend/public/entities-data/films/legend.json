@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "legend",
+  "title": "Legend",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Legend"
+  ],
+  "genres": [
+    "film ou téléfilm biographique",
+    "thriller",
+    "film ou téléfilm criminel",
+    "drame",
+    "film LGBT"
+  ],
+  "description": "A la fin des années 50, les jumeaux Reggie et Ron Kray tiennent sous leur coupe l'est de Londres. S'ils se ressemblent physiquement, ils ont un caractère assez différent. Violent avec d'autres truands, Reggie se montre doux avec Frances, dont il est amoureux. De son côté, Ron est une bombe à retardement...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Legend%20Film%20logo.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 131,
+  "cast": [
+    {
+      "qid": "Q338812",
+      "slug": "chazz-palminteri",
+      "name": "Chazz Palminteri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312380",
+      "slug": "christopher-eccleston",
+      "name": "Christopher Eccleston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313657",
+      "slug": "colin-morgan",
+      "name": "Colin Morgan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212790",
+      "slug": "david-thewlis",
+      "name": "David Thewlis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q288620",
+      "slug": "emily-browning",
+      "name": "Emily Browning",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272174",
+      "slug": "tara-fitzgerald",
+      "name": "Tara Fitzgerald",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16239385",
+      "slug": "taron-egerton",
+      "name": "Taron Egerton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208026",
+      "slug": "tom-hardy",
+      "name": "Tom Hardy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242707",
+      "slug": "paul-bettany",
+      "name": "Paul Bettany",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2882065",
+      "slug": "stephen-lord",
+      "name": "Stephen Lord",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4216187",
+      "slug": "mel-raido",
+      "name": "Mel Raido",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2966537",
+      "slug": "christopher-adamson",
+      "name": "Christopher Adamson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q53798357",
+      "slug": "chris-mason",
+      "name": "Chris Mason",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2058704",
+      "slug": "paul-anderson",
+      "name": "Paul Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q335376",
+      "slug": "kevin-mcnally",
+      "name": "Kevin McNally",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192587",
+      "slug": "duffy",
+      "name": "Duffy",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q912327",
+    "slug": "brian-helgeland",
+    "name": "Brian Helgeland",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,76 @@
+{
+  "type": "film",
+  "slug": "mari-a-louer",
+  "title": "Mari à louer",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Mari à louer"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Dans son désir ardent de devenir PDG de l'entreprise de son père, Alexis a dû faire face à des difficultés en raison de son statut de célibataire. Pour obtenir ce poste, elle doit conclure un partenariat avec Elvis. Cependant, ce dernier cache plusieurs secrets qui pourraient compromettre leur projet.",
+  "descriptionAi": "Cette comédie légère de 2011 navigue entre humour et quête personnelle. L'ambiance est enjouée et moderne, portée par le duo improbable formé par Alexis, une femme ambitieuse déterminée à gravir les échelons, et Elvis, un prétendant loufoque aux mystères encombrants. Le film captive par son exploration des compromis que l'on fait pour réussir et des masques sociaux que l'on porte, le tout servi par un rythme vif et des rebondissements savoureux. Une histoire de faux-semblants et de révélations qui questionne avec légèreté le prix de nos ambitions. Un divertissement malicieux à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:32.280Z",
+  "year": 2011,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q262332",
+      "slug": "bonnie-somerville",
+      "name": "Bonnie Somerville",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232951",
+      "slug": "shelley-long",
+      "name": "Shelley Long",
+      "role": "actor"
+    },
+    {
+      "qid": "Q612436",
+      "slug": "jordan-bridges",
+      "name": "Jordan Bridges",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229038",
+      "slug": "haylie-duff",
+      "name": "Haylie Duff",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q6194909",
+    "slug": "jim-fall",
+    "name": "Jim Fall",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

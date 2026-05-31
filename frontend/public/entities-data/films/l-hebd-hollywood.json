@@ -1,0 +1,195 @@
+{
+  "type": "film",
+  "slug": "l-hebd-hollywood",
+  "title": "L'hebd'Hollywood",
+  "airingsCount": 14,
+  "sourceTitles": [
+    "L'hebd'Hollywood"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Le magazine trace la chronique de la vie à Hollywood, des grands studios aux indépendants, des stars aux étoiles montantes. Entre événements, indiscrétions et exclusivités, le journaliste Didier Allouch propose depuis Los Angeles un décryptage très personnel de l'actualité du cinéma américain. News sur les tournages, tendances, films en salles, stars : la cité des Anges livre tous ses secrets.",
+  "descriptionAi": "Plongez dans les coulisses du 7e art avec \"L'hebd'Hollywood\", un magazine cinéma captivant. Animé depuis Los Angeles par le journaliste Didier Allouch, il décrypte avec un regard personnel et expert l'actualité trépidante d'Hollywood. Entre reportages exclusifs, analyses des tendances et indiscrétions sur les tournages, l'émission dévoile les secrets des grands studios comme du cinéma indépendant. L'ambiance est à la fois dynamique et intimiste, vous faisant découvrir la cité des Anges à travers le prisme de ses stars et de ses créateurs. Une immersion fascinante pour tout amateur de cinéma, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 7
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9f3aecaa-cd72-46ae-af0f-17797aa0c6fb",
+      "title": "L'hebd'Hollywood",
+      "programSlug": "l-hebd-hollywood",
+      "programUrl": "/programme/canal-box-office/l-hebd-hollywood",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 11:01:00+00",
+      "endTime": "2026-04-20 11:14:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "6b93bb98-80b1-4c4e-8188-166ee77f3168",
+      "title": "L'hebd'Hollywood",
+      "programSlug": "l-hebd-hollywood",
+      "programUrl": "/programme/canal-box-office/l-hebd-hollywood",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 11:26:00+00",
+      "endTime": "2026-04-21 11:39:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d5236f53-f90b-4793-bef4-96f66d4f3a12",
+      "title": "L'hebd'Hollywood",
+      "programSlug": "l-hebd-hollywood",
+      "programUrl": "/programme/canal-box-office/l-hebd-hollywood",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 10:01:00+00",
+      "endTime": "2026-04-22 10:14:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "071d27ef-2b83-49f0-84be-f00293ea0eb6",
+      "title": "L'hebd'Hollywood",
+      "programSlug": "l-hebd-hollywood",
+      "programUrl": "/programme/canal-box-office/l-hebd-hollywood",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 13:48:00+00",
+      "endTime": "2026-04-22 14:01:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "b613f445-158d-4aa1-9798-1565bf8dd5eb",
+      "title": "L'hebd'Hollywood",
+      "programSlug": "l-hebd-hollywood",
+      "programUrl": "/programme/canal/l-hebd-hollywood",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 16:39:00+00",
+      "endTime": "2026-04-22 16:52:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "50851433-58e3-4f20-816d-387a5987ac3f",
+      "title": "L'hebd'Hollywood",
+      "programSlug": "l-hebd-hollywood",
+      "programUrl": "/programme/canal-box-office/l-hebd-hollywood",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 22:40:00+00",
+      "endTime": "2026-04-22 22:53:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "8de38741-6f6e-42e6-b400-8867a24d8e66",
+      "title": "L'hebd'Hollywood",
+      "programSlug": "l-hebd-hollywood",
+      "programUrl": "/programme/canal-grand-ecran/l-hebd-hollywood",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 17:22:00+00",
+      "endTime": "2026-04-23 17:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "c3a5a714-b1f2-409e-bcd6-92c632dfaf8e",
+      "title": "L'hebd'Hollywood",
+      "programSlug": "l-hebd-hollywood",
+      "programUrl": "/programme/canal-box-office/l-hebd-hollywood",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 16:49:00+00",
+      "endTime": "2026-04-24 17:00:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "238ec993-6b20-4bb0-8020-2f73b3a35a6c",
+      "title": "L'hebd'Hollywood",
+      "programSlug": "l-hebd-hollywood",
+      "programUrl": "/programme/canal/l-hebd-hollywood",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 09:58:00+00",
+      "endTime": "2026-04-25 10:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "2ca04d3f-f489-4a05-ba95-7b0ec214fad2",
+      "title": "L'hebd'Hollywood",
+      "programSlug": "l-hebd-hollywood",
+      "programUrl": "/programme/canal-box-office/l-hebd-hollywood",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 11:00:00+00",
+      "endTime": "2026-04-25 11:13:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "d1635b9e-4773-4521-aa47-51f735978cf0",
+      "title": "L'hebd'Hollywood",
+      "programSlug": "l-hebd-hollywood",
+      "programUrl": "/programme/canal-box-office/l-hebd-hollywood",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 23:27:00+00",
+      "endTime": "2026-04-25 23:40:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:26:52.927Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 11:01:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

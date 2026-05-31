@@ -1,0 +1,154 @@
+{
+  "type": "film",
+  "slug": "dark-city",
+  "title": "Dark City",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Dark City"
+  ],
+  "genres": [
+    "néo-noir",
+    "film ou téléfilm de science-fiction",
+    "thriller",
+    "film et téléfilm d'horreur",
+    "film dystopique",
+    "film noir",
+    "arthouse science fiction film"
+  ],
+  "description": "Une cité géante, privée de lumière naturelle. John Murdoch, victime une nouvelle fois d'un étrange malaise, reprend péniblement ses esprits, pour découvrir à ses côtés le cadavre horriblement mutilé d'une jeune femme. Amnésique, il ne sait pas s'il est l'auteur de ce crime. Grâce à ses papiers, il retrouve son épouse, Emma, tandis qu'un mystérieux docteur Schreber le recherche activement. Murdoch apprend bientôt que des êtres étranges manipulent et transforment la réalité à leur guise. Schreber est contraint de travailler pour eux. Murdoch a, quant à lui, acquis les pouvoirs de ces êtres venus d'ailleurs, ce qui lui permet de contrecarrer leurs plans...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1998,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q299217",
+      "slug": "rufus-sewell",
+      "name": "Rufus Sewell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105825",
+      "slug": "william-hurt",
+      "name": "William Hurt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q103946",
+      "slug": "kiefer-sutherland",
+      "name": "Kiefer Sutherland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q103343",
+      "slug": "jennifer-connelly",
+      "name": "Jennifer Connelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q982182",
+      "slug": "richard-o-brien",
+      "name": "Richard O'Brien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q704314",
+      "slug": "bruce-spence",
+      "name": "Bruce Spence",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233575",
+      "slug": "melissa-george",
+      "name": "Melissa George",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296328",
+      "slug": "david-wenham",
+      "name": "David Wenham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q363691",
+      "slug": "ian-richardson",
+      "name": "Ian Richardson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1108476",
+      "slug": "colin-friels",
+      "name": "Colin Friels",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16195217",
+      "slug": "justin-monjo",
+      "name": "Justin Monjo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1699357",
+      "slug": "john-bluthal",
+      "name": "John Bluthal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7025047",
+      "slug": "nicholas-bell",
+      "name": "Nicholas Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7336684",
+      "slug": "ritchie-singer",
+      "name": "Ritchie Singer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18075453",
+      "slug": "mitchell-butel",
+      "name": "Mitchell Butel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5683731",
+      "slug": "paul-livingston",
+      "name": "Paul Livingston",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q259687",
+    "slug": "alex-proyas",
+    "name": "Alex Proyas",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

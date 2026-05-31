@@ -1,0 +1,111 @@
+{
+  "type": "actor",
+  "slug": "monica-bellucci",
+  "name": "Monica Bellucci",
+  "worksCount": 4,
+  "description": "actrice et mannequin italienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monica%20Bellucci%20in%202022.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-09-30",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q81819",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Monica_Bellucci",
+    "imdb": "nm0000899",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "matrix-reloaded",
+      "title": "Matrix Reloaded"
+    },
+    {
+      "type": "film",
+      "slug": "matrix-revolutions",
+      "title": "Matrix Revolutions"
+    },
+    {
+      "type": "film",
+      "slug": "comme-un-poisson-hors-de-l-eau",
+      "title": "Comme un poisson hors de l'eau"
+    },
+    {
+      "type": "film",
+      "slug": "dracula",
+      "title": "Dracula"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b7403449-ac98-42e0-9bbe-2be9439c396b",
+      "title": "Dracula",
+      "programSlug": "dracula",
+      "programUrl": "/programme/canal-box-office/dracula",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 16:43:00+00",
+      "endTime": "2026-04-19 18:48:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "17fe7c6b-e9f9-4106-97c1-5fa4634053c7",
+      "title": "Matrix Reloaded",
+      "programSlug": "matrix-reloaded",
+      "programUrl": "/programme/canal-grand-ecran/matrix-reloaded",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 14:02:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "59f89142-9667-40a6-adf8-b098eac3855c",
+      "title": "Dracula",
+      "programSlug": "dracula",
+      "programUrl": "/programme/canal-box-office/dracula",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 21:44:00+00",
+      "endTime": "2026-04-21 23:48:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "97362478-1d0e-4bb7-9ee9-c19e605c394f",
+      "title": "Matrix Revolutions",
+      "programSlug": "matrix-revolutions",
+      "programUrl": "/programme/canal-grand-ecran/matrix-revolutions",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 11:10:00+00",
+      "endTime": "2026-04-23 13:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "955b2c9a-fcb1-4fc5-91e8-ff9772fae3d7",
+      "title": "Matrix Revolutions",
+      "programSlug": "matrix-revolutions",
+      "programUrl": "/programme/canal-grand-ecran/matrix-revolutions",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 21:19:00+00",
+      "endTime": "2026-04-25 23:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 16:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

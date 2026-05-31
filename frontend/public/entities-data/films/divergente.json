@@ -1,0 +1,161 @@
+{
+  "type": "film",
+  "slug": "divergente",
+  "title": "Divergente",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Divergente"
+  ],
+  "genres": [
+    "film dystopique",
+    "film ou téléfilm d'aventure",
+    "film et téléfilm d'action",
+    "film ou téléfilm post-apocalyptique",
+    "film ou téléfilm d'amour",
+    "adaptation d'un roman au cinéma",
+    "thriller"
+  ],
+  "description": "Dans Divergente, nous sommes plongés dans un Chicago dystopique où la société est rigoureusement divisée en cinq factions distinctes, chacune représentant une valeur fondamentale : les Erudits, axés sur la connaissance et la rationalité ; les Sincères, qui prônent l'honnêteté ; les Fraternels, axés sur la paix et l'harmonie ; les Audacieux, symbolisant le courage et l'impulsivité ; et les Altruistes, dédiés à l’entraide et au sacrifice. Cette structure sociale a été mise en place dans le but de maintenir l'ordre et d'éviter les conflits dans un monde marqué par le chaos.Le récit suit Beatrice \"Tris\" Prior (Shailene Woodley), une jeune fille de 16 ans qui a grandi au sein de la faction des Altruistes, où son père, Marcus (Tony Goldwyn), occupe une position influente. À l'approche de la cérémonie de sélection, Tris se prépare à passer un test d'aptitude conçu pour déterminer son appartenance factionnelle. Cependant, le résultat du test s'avère être déconcertant : elle présente des traits qui correspondent à trois factions différentes, la qualifiant ainsi de \"Divergente\". Cette caractéristique rare est à la fois un atout et un danger dans une société qui considère les Divergents comme une menace pour l'ordre établi.Face à cette réalité, Tris fait un choix audacieux : elle abandonne sa faction d'origine pour rejoindre les Audacieux, où elle se plonge dans un entraînement rigoureux, apprend à surmonter ses peurs et à embrasser sa nouvelle identité. Dans ce monde compétitif, elle se lie d’amitié avec d'autres recrues, notamment avec Four (Theo James), un instructeur mystérieux qui lui révèle les secrets les plus sombres de la société et lui enseigne comment tirer parti de ses compétences.Alors que Tris s'efforce de s'intégrer dans sa nouvelle faction, elle doit également naviguer à travers des complots politiques et des manigances mettant en danger l'équilibre fragile de son monde.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "928d1eb9-22c2-4dbf-9d58-21e9c5f19ed9",
+      "title": "Divergente",
+      "programSlug": "divergente",
+      "programUrl": "/programme/w9/divergente",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 19:25:00+00",
+      "endTime": "2026-04-20 21:50:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 139,
+  "cast": [
+    {
+      "qid": "Q13426679",
+      "slug": "ansel-elgort",
+      "name": "Ansel Elgort",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228645",
+      "slug": "ashley-judd",
+      "name": "Ashley Judd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15787617",
+      "slug": "ben-lloyd-hughes",
+      "name": "Ben Lloyd-Hughes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q604849",
+      "slug": "jai-courtney",
+      "name": "Jai Courtney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202765",
+      "slug": "kate-winslet",
+      "name": "Kate Winslet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q614774",
+      "slug": "maggie-q",
+      "name": "Maggie Q",
+      "role": "actor"
+    },
+    {
+      "qid": "Q119676",
+      "slug": "mekhi-phifer",
+      "name": "Mekhi Phifer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q267330",
+      "slug": "miles-teller",
+      "name": "Miles Teller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q372947",
+      "slug": "ray-stevenson",
+      "name": "Ray Stevenson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231058",
+      "slug": "shailene-woodley",
+      "name": "Shailene Woodley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q568509",
+      "slug": "theo-james",
+      "name": "Theo James",
+      "role": "actor"
+    },
+    {
+      "qid": "Q224754",
+      "slug": "tony-goldwyn",
+      "name": "Tony Goldwyn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q227129",
+      "slug": "zoe-kravitz",
+      "name": "Zoë Kravitz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18062224",
+      "slug": "christian-madsen",
+      "name": "Christian Madsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41675126",
+      "slug": "ben-lamb",
+      "name": "Ben Lamb",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q706300",
+    "slug": "neil-burger",
+    "name": "Neil Burger",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 19:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

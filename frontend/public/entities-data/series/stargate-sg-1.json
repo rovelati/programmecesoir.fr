@@ -1,0 +1,363 @@
+{
+  "type": "series",
+  "slug": "stargate-sg-1",
+  "title": "Stargate SG-1",
+  "airingsCount": 14,
+  "sourceTitles": [
+    "Stargate SG-1",
+    "Stargate SG-1 - Saison 1",
+    "Stargate SG-1 - Saison 2"
+  ],
+  "genres": [
+    "série télévisée de science-fiction",
+    "série télévisée d'aventures",
+    "série d'action"
+  ],
+  "description": "La situation est de plus en plus critique pour l'équipe SG-1. A bord d'un immense vaisseau goa'uld en route pour détruire la Terre, les aventuriers ont été tout d'abord capturés par Klorel, l'hôte goa'uld de Skaara. Skaara-Klorel mort, SG-1 doit maintenant trouver un moyen de détruire le vaisseau avant qu'il n'atteigne la Terre. Une nouvelle déconvenue les empêche toutefois de mener à bien leur plan. Une patrouille les a repérés et parvient à les capturer. Bra'tac, qui commande les soldats, a été autrefois l'instructeur de Teal'c. Il accepte d'aider son ancien élève en lui communiquant les points faibles du vaisseau. Une mission suicide est mise sur pied, à laquelle ni Bra'tac, ni O'Neill ne devraient survivre...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab1.png",
+      "airingsCount": 14
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bf8616c0-5fa7-4acb-bf35-d6114ad2d87b",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 14:45:00+00",
+      "endTime": "2026-04-20 15:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c67438b8-3c61-41bb-b28b-f299855d964f",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 15:35:00+00",
+      "endTime": "2026-04-20 16:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4151143e-6688-4480-9624-3cc099695ad4",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 16:20:00+00",
+      "endTime": "2026-04-20 17:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a0e3170a-28e0-4be7-9937-fab5244e5d33",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 17:10:00+00",
+      "endTime": "2026-04-20 18:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "758b77c1-c8fe-4671-a574-206a53928c39",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 18:00:00+00",
+      "endTime": "2026-04-20 18:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "594fce1b-9742-414a-8ec5-ea64cfd81b0f",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 14:45:00+00",
+      "endTime": "2026-04-21 15:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "5a4312b0-6004-45b6-816f-c0e230beb395",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 15:35:00+00",
+      "endTime": "2026-04-21 16:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1d701bf4-eb18-4574-a668-27a3a6f9d5bd",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 16:20:00+00",
+      "endTime": "2026-04-21 17:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b6ba6a2b-2ba4-4d99-bb46-69d8d7f1f11b",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 17:10:00+00",
+      "endTime": "2026-04-21 18:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8a46ac3c-71de-47de-a152-826d5901748b",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 18:00:00+00",
+      "endTime": "2026-04-21 18:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "41bfebc8-19ae-4312-b38b-a71e223c1e37",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 14:45:00+00",
+      "endTime": "2026-04-22 15:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "d222a703-3684-49d1-91ae-88f3df22df86",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 15:35:00+00",
+      "endTime": "2026-04-22 16:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "dcc1a56f-32dd-42c4-a4f0-078f7975508a",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 16:20:00+00",
+      "endTime": "2026-04-22 17:10:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "8c604c4e-7125-49bc-b3d8-82d29fb7ec4f",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 17:10:00+00",
+      "endTime": "2026-04-22 18:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e0b8e7dd-1e79-4b64-a108-270313afebd1",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 18:00:00+00",
+      "endTime": "2026-04-22 18:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "6bd3352a-2f2a-4bf5-83a6-27129ed79438",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-23 14:45:00+00",
+      "endTime": "2026-04-23 15:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "b49923b1-8a8b-4ce3-bb33-67d47c424705",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-23 15:35:00+00",
+      "endTime": "2026-04-23 16:20:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "53e3a885-f524-4817-95dc-ba5be43f1574",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-23 16:20:00+00",
+      "endTime": "2026-04-23 17:10:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1997,
+  "numberOfSeasons": 10,
+  "cast": [
+    {
+      "qid": "Q310524",
+      "slug": "ben-browder",
+      "name": "Ben Browder",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229207",
+      "slug": "amanda-tapping",
+      "name": "Amanda Tapping",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312294",
+      "slug": "christopher-judge",
+      "name": "Christopher Judge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q81223",
+      "slug": "michael-shanks",
+      "name": "Michael Shanks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q673007",
+      "slug": "tony-amendola",
+      "name": "Tony Amendola",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313712",
+      "slug": "corin-nemec",
+      "name": "Corin Nemec",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313814",
+      "slug": "don-s-davis",
+      "name": "Don S. Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309640",
+      "slug": "beau-bridges",
+      "name": "Beau Bridges",
+      "role": "actor"
+    },
+    {
+      "qid": "Q248414",
+      "slug": "gary-jones",
+      "name": "Gary Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238197",
+      "slug": "teryl-rothery",
+      "name": "Teryl Rothery",
+      "role": "actor"
+    },
+    {
+      "qid": "Q116281",
+      "slug": "lexa-doig",
+      "name": "Lexa Doig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229225",
+      "slug": "claudia-black",
+      "name": "Claudia Black",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83694",
+      "slug": "carmen-argenziano",
+      "name": "Carmen Argenziano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q203047",
+      "slug": "richard-dean-anderson",
+      "name": "Richard Dean Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313789",
+      "slug": "robert-picardo",
+      "name": "Robert Picardo",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q8570",
+    "slug": "jonathan-glassner",
+    "name": "Jonathan Glassner",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 14:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

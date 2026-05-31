@@ -1,0 +1,185 @@
+{
+  "type": "actor",
+  "slug": "justin-chambers",
+  "name": "Justin Chambers",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JustinChambersMay09.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-07-11",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q40087",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Justin_Chambers",
+    "imdb": "nm0150362",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "cold-case",
+      "title": "Cold Case"
+    },
+    {
+      "type": "series",
+      "slug": "grey-s-anatomy",
+      "title": "Grey's Anatomy"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "841f166f-3d10-4d62-9719-94bc8de5a579",
+      "title": "Cold Case",
+      "programSlug": "cold-case",
+      "programUrl": "/programme/rmc-life/cold-case",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-19 12:15:00+00",
+      "endTime": "2026-04-19 13:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dbae8f12-7e29-4aaa-b29f-0ede94bed4d6",
+      "title": "Cold Case",
+      "programSlug": "cold-case",
+      "programUrl": "/programme/rmc-life/cold-case",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-19 13:10:00+00",
+      "endTime": "2026-04-19 14:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "73baabe4-ca5d-4f88-97a1-8af16c62d52c",
+      "title": "Cold Case",
+      "programSlug": "cold-case",
+      "programUrl": "/programme/rmc-life/cold-case",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-19 14:05:00+00",
+      "endTime": "2026-04-19 15:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6ee46dec-47b6-4bde-a6ee-ee04606eb12c",
+      "title": "Cold Case",
+      "programSlug": "cold-case",
+      "programUrl": "/programme/rmc-life/cold-case",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-19 15:00:00+00",
+      "endTime": "2026-04-19 16:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bed73497-eff8-4522-aff3-38d81d98ed46",
+      "title": "Cold Case - Saison 7",
+      "programSlug": "cold-case-saison-7",
+      "programUrl": "/programme/rmc-life/cold-case-saison-7",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 15:25:00+00",
+      "endTime": "2026-04-20 16:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f717106a-3873-473d-a42b-65f3c62cd0c5",
+      "title": "Cold Case - Saison 7",
+      "programSlug": "cold-case-saison-7",
+      "programUrl": "/programme/rmc-life/cold-case-saison-7",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 16:20:00+00",
+      "endTime": "2026-04-20 17:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "17945cf3-8ab8-4dc4-9e23-372a541473b7",
+      "title": "Cold Case - Saison 7",
+      "programSlug": "cold-case-saison-7",
+      "programUrl": "/programme/rmc-life/cold-case-saison-7",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 17:15:00+00",
+      "endTime": "2026-04-20 18:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "775002d6-a843-477d-b8e4-596fae1801ff",
+      "title": "Cold Case - Saison 7",
+      "programSlug": "cold-case-saison-7",
+      "programUrl": "/programme/rmc-life/cold-case-saison-7",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 18:10:00+00",
+      "endTime": "2026-04-20 19:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "88148382-7f7b-4a26-94f1-154fbd2743f5",
+      "title": "Cold Case - Saison 7",
+      "programSlug": "cold-case-saison-7",
+      "programUrl": "/programme/rmc-life/cold-case-saison-7",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-21 15:25:00+00",
+      "endTime": "2026-04-21 16:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e7f84f67-1c21-4453-97d9-be77963586df",
+      "title": "Cold Case - Saison 7",
+      "programSlug": "cold-case-saison-7",
+      "programUrl": "/programme/rmc-life/cold-case-saison-7",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-21 16:20:00+00",
+      "endTime": "2026-04-21 17:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c93a08b0-e3f0-48c6-b9e6-2eea9e1ab2f3",
+      "title": "Cold Case - Saison 7",
+      "programSlug": "cold-case-saison-7",
+      "programUrl": "/programme/rmc-life/cold-case-saison-7",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-21 17:15:00+00",
+      "endTime": "2026-04-21 18:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6d861b5f-6e9b-46c4-9d0f-6dcc9449eea7",
+      "title": "Cold Case - Saison 7",
+      "programSlug": "cold-case-saison-7",
+      "programUrl": "/programme/rmc-life/cold-case-saison-7",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-21 18:10:00+00",
+      "endTime": "2026-04-21 19:10:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 12:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

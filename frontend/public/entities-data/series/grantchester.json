@@ -1,0 +1,116 @@
+{
+  "type": "series",
+  "slug": "grantchester",
+  "title": "Grantchester",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Grantchester",
+    "Grantchester - Saison 8"
+  ],
+  "genres": [
+    "série télévisée dramatique",
+    "adaptation d'un roman à la télévision"
+  ],
+  "description": "Après avoir renversé et tué un homme qui traversait la route en courant, Will se retrouve accusé d'homicide involontaire. En cherchant à disculper son ami, Geordie fait la découverte d'un autre cadavre dans les bois, tout près du lieu de l'accident. Les victimes sortaient toutes deux du même dancing, le Mirage Club. Geordie décide de s'y rendre...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b99b2d65-47ef-4e33-8844-c79315425896",
+      "title": "Grantchester - Saison 9",
+      "programSlug": "grantchester-saison-9",
+      "programUrl": "/programme/rts-un/grantchester-saison-9",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 12:25:00+00",
+      "endTime": "2026-04-19 13:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5119c935-86b8-4281-8ed7-394f24fa20f5",
+      "title": "Grantchester - Saison 9",
+      "programSlug": "grantchester-saison-9",
+      "programUrl": "/programme/rts-un/grantchester-saison-9",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 13:15:00+00",
+      "endTime": "2026-04-19 14:05:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2014,
+  "numberOfSeasons": 10,
+  "cast": [
+    {
+      "qid": "Q15990205",
+      "slug": "james-norton",
+      "name": "James Norton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q114801",
+      "slug": "robson-green",
+      "name": "Robson Green",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6148146",
+      "slug": "tom-austen",
+      "name": "Tom Austen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q513125",
+      "slug": "morven-christie",
+      "name": "Morven Christie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3519002",
+      "slug": "tessa-peake-jones",
+      "name": "Tessa Peake-Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4704952",
+      "slug": "al-weaver",
+      "name": "Al Weaver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q90820",
+      "slug": "pheline-roggan",
+      "name": "Pheline Roggan",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 12:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

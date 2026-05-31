@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "un-soir-un-train",
+  "title": "Un soir... un train",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Un soir... un train"
+  ],
+  "genres": [
+    "Cinema",
+    "Cinéma"
+  ],
+  "description": "A Louvain-la-Neuve, en Belgique, dans les années 1960. Mathias, éminent professeur de linguistique, doute de l'amour de sa compagne française Anne, décoratrice de théâtre. Appelé à donner une conférence dans une autre ville, Mathias prend le train. Anne le rejoint dans le compartiment. Il s'endort. A son réveil, le train est immobilisé en rase campagne et la jeune femme a disparu. Il part à sa recherche.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv5-monde.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

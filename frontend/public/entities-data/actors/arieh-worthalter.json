@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "arieh-worthalter",
+  "name": "Arieh Worthalter",
+  "worksCount": 2,
+  "description": "acteur belge",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arieh%20Worthalter%202021.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1985-03-25",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q28497677",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Arieh_Worthalter",
+    "imdb": "nm3581007",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bastille-day",
+      "title": "Bastille Day"
+    },
+    {
+      "type": "film",
+      "slug": "le-parfum-vert",
+      "title": "Le Parfum vert"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d3ee1234-47e0-481d-9ea9-77f44e0dbeb2",
+      "title": "Bastille Day",
+      "programSlug": "bastille-day",
+      "programUrl": "/programme/canal-grand-ecran/bastille-day",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 03:45:00+00",
+      "endTime": "2026-04-24 05:15:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "654df7e8-1d28-485b-887e-f07f1bb9656c",
+      "title": "Le Parfum vert",
+      "programSlug": "le-parfum-vert",
+      "programUrl": "/programme/cine-frisson/le-parfum-vert",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 23:19:00+00",
+      "endTime": "2026-04-25 00:53:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "4fa7595c-a53d-4dcc-a515-8dbcd9a2a61f",
+      "title": "Bastille Day",
+      "programSlug": "bastille-day",
+      "programUrl": "/programme/cine-frisson/bastille-day",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 12:12:00+00",
+      "endTime": "2026-04-25 13:41:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-24 03:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

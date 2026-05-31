@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "blake-lively",
+  "name": "Blake Lively",
+  "worksCount": 1,
+  "description": "actrice et mannequin américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blake%20Lively%202020.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1987-08-25",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q162959",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Blake_Lively",
+    "imdb": "nm0515116",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "the-town",
+      "title": "The Town"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

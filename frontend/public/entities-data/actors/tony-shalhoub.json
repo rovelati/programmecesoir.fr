@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "tony-shalhoub",
+  "name": "Tony Shalhoub",
+  "worksCount": 2,
+  "description": "acteur et cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Shalhoub%202017%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-10-09",
+  "nationality": "États-Unis",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q107249",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tony_Shalhoub",
+    "imdb": "nm0001724",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "men-in-black",
+      "title": "Men in Black"
+    },
+    {
+      "type": "series",
+      "slug": "monk",
+      "title": "Monk"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d862e1a4-552e-48d9-9c23-47c5470a23db",
+      "title": "Monk - Saison 5",
+      "programSlug": "monk-saison-5",
+      "programUrl": "/programme/rts-un/monk-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-25 14:25:00+00",
+      "endTime": "2026-04-25 15:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 14:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

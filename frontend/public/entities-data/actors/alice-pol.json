@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "alice-pol",
+  "name": "Alice Pol",
+  "worksCount": 2,
+  "description": "actrice et auteure française",
+  "descriptionAi": "Alice Pol incarne une actrice et auteure française au talent singulier, naviguant avec aisance entre comédie légère et drame intimiste. Ses rôles dégagent souvent une ambiance à la fois naturelle et piquante, mêlant justesse émotionnelle et fine observation sociale. Ce qui la rend captivante, c’est sa capacité à révéler la complexité de personnages ordinaires avec une authenticité désarmante, que ce soit à l’écran ou à travers ses écrits. Son parcours éclectique et son regard d’auteure enrichissent chaque interprétation d’une profondeur subtile. Pour découvrir ses prochaines apparitions à la télévision, une sélection est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Pol%20Cabourg%202019%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1982-12-03",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q6531360",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alice_Pol",
+    "imdb": "nm1745743",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "raid-dingue",
+      "title": "Raid dingue"
+    },
+    {
+      "type": "film",
+      "slug": "c-est-magnifique",
+      "title": "C'est magnifique !"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:24:54.433Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

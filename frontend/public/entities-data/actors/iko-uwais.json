@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "iko-uwais",
+  "name": "Iko Uwais",
+  "worksCount": 2,
+  "description": "acteur, cascadeur, chorégraphe de combat et artiste martial indonésien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Iko%20Uwais%20by%20Sachyn%20Mital.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1983-02-12",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2350460",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Iko_Uwais",
+    "imdb": "nm3299397",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-homme-du-tai-chi",
+      "title": "L'homme du Tai Chi"
+    },
+    {
+      "type": "film",
+      "slug": "man-of-tai-chi",
+      "title": "Man of Tai Chi"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bc6ffbc8-b3bd-4edb-9765-8dd983551db2",
+      "title": "Man of Tai Chi",
+      "programSlug": "man-of-tai-chi",
+      "programUrl": "/programme/canal-grand-ecran/man-of-tai-chi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-26 05:50:00+00",
+      "endTime": "2026-04-26 07:32:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-26 05:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

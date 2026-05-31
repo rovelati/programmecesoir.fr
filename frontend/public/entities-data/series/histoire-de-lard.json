@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "slug": "histoire-de-lard",
+  "title": "Histoire de lard",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Histoire de lard"
+  ],
+  "genres": [
+    "Série"
+  ],
+  "description": "Histoire de lard est une série humoristique faite à divertir la famille entière.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tl7",
+      "channelName": "TL7",
+      "channelSlug": "tl7",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tl7.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c76756b1-a694-4a76-908e-f76542dcecc4",
+      "title": "Histoire de lard",
+      "programSlug": "histoire-de-lard",
+      "programUrl": "/programme/tl7/histoire-de-lard",
+      "channelId": "tl7",
+      "channelName": "TL7",
+      "channelSlug": "tl7",
+      "startTime": "2026-04-19 16:58:00+00",
+      "endTime": "2026-04-19 17:03:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a4052d2f-1e9c-4924-b2f9-2a7cd2cff8f5",
+      "title": "Histoire de lard",
+      "programSlug": "histoire-de-lard",
+      "programUrl": "/programme/tl7/histoire-de-lard",
+      "channelId": "tl7",
+      "channelName": "TL7",
+      "channelSlug": "tl7",
+      "startTime": "2026-04-25 17:22:00+00",
+      "endTime": "2026-04-25 17:30:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 16:58:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

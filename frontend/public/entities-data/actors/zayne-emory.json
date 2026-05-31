@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "zayne-emory",
+  "name": "Zayne Emory",
+  "worksCount": 1,
+  "description": "American film actor",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ZayneEmoryWiki.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1998-06-03",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q14613914",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Zayne_Emory",
+    "imdb": "nm3513898",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "maximum-ride",
+      "title": "Maximum Ride"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

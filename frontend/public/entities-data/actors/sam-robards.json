@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "sam-robards",
+  "name": "Sam Robards",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam%20Robards%208th%20grade%20photo.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1961-12-16",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q1364747",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sam_Robards",
+    "imdb": "nm0730168",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bird",
+      "title": "Bird"
+    },
+    {
+      "type": "film",
+      "slug": "outrages",
+      "title": "Outrages"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "41779283-1599-4f1f-8099-47d9faec15bf",
+      "title": "Bird",
+      "programSlug": "bird",
+      "programUrl": "/programme/cine-festival/bird",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 14:32:00+00",
+      "endTime": "2026-04-23 16:29:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 14:32:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

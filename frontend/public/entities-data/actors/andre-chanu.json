@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "andre-chanu",
+  "name": "André Chanu",
+  "worksCount": 1,
+  "description": "comédien",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1910-12-28",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q2847484",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Andr%C3%A9_Chanu",
+    "imdb": "nm0152026",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "marie-antoinette-reine-de-france",
+      "title": "Marie-Antoinette reine de France"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

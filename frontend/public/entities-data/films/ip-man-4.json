@@ -1,0 +1,139 @@
+{
+  "type": "film",
+  "slug": "ip-man-4",
+  "title": "Ip Man 4",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Ip Man 4"
+  ],
+  "genres": [
+    "film d'arts martiaux",
+    "film et téléfilm d'action"
+  ],
+  "description": "Ip Man, maître des arts martiaux, élève difficilement son fils alors que celui-ci vient d'être renvoyé de son école. Suite à une invitation de l'un de ses anciens élèves, Bruce Lee, il décide de se rendre à San Francisco pour trouver une école pour son fils mais également retrouver des amis. Ip Man devra non seulement aider la fille de son ami Wan Zong Hua mais aussi faire face à un dangereux sergent du corps des US Marines, bien décidé à montrer la supériorité du karaté sur tous les autres arts martiaux asiatiques...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2019,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q311723",
+      "slug": "donnie-yen",
+      "name": "Donnie Yen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28310",
+      "slug": "scott-adkins",
+      "name": "Scott Adkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q712178",
+      "slug": "kent-cheng",
+      "name": "Kent Cheng",
+      "role": "actor"
+    },
+    {
+      "qid": "Q82524",
+      "slug": "lynn-hung",
+      "name": "Lynn Hung",
+      "role": "actor"
+    },
+    {
+      "qid": "Q97666978",
+      "slug": "chris-collins",
+      "name": "Chris Collins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104172727",
+      "slug": "simon-shiyamba",
+      "name": "Simon Shiyamba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106072114",
+      "slug": "nico-amedeo",
+      "name": "Nico Amedeo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106072127",
+      "slug": "he-ye",
+      "name": "He Ye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106072238",
+      "slug": "andrew-lane-cawthon",
+      "name": "Andrew Lane Cawthon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106072430",
+      "slug": "grace-englert",
+      "name": "Grace Englert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q706919",
+      "slug": "danny-chan-kwok-kwan",
+      "name": "Danny Chan Kwok Kwan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q702542",
+      "slug": "vanness-wu",
+      "name": "Vanness Wu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6146440",
+      "slug": "wu-yue",
+      "name": "Wu Yue",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3089283",
+    "slug": "wilson-yip",
+    "name": "Wilson Yip",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,129 @@
+{
+  "type": "film",
+  "slug": "connemara",
+  "title": "Connemara",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Connemara"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Issue d'un milieu modeste, Hélène a quitté ses Vosges natales depuis longtemps. Un burn-out brutal l'oblige à quitter Paris pour revenir là où elle a grandi, entre Nancy et Epinal. Elle s'installe avec sa famille, trouve un emploi et une nouvelle qualité de vie. Un soir, sur le parking d'un restaurant, elle aperçoit un visage connu, Christophe Marchal, le bel hockeyeur de ses années lycée. Celui qui était son amour de jeunesse devient son amant. Dans leurs étreintes, ce sont deux France, deux mondes désormais étrangers qui rêvent de s'aimer...",
+  "descriptionAi": "Ce film dramatique de 2023 dépeint une ambiance à la fois intime et sociale, capturant le retour aux sources d’Hélène, contrainte de quitter Paris pour ses Vosges natales. L’histoire explore avec justesse la reconquête d’une qualité de vie et la résurgence d’un ancien amour, Christophe, incarnant un passé idéalisé. L’intérêt réside dans la rencontre fragile et passionnée de deux mondes, deux France qui se côtoient et se heurtent, offrant une réflexion subtile sur nos racines et nos vies parallèles. Une belle histoire de retrouvailles et de déchirures à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "98697944-b812-4c8b-829b-1f2e569798f4",
+      "title": "Connemara",
+      "programSlug": "connemara",
+      "programUrl": "/programme/paramount-channel/connemara",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-19 11:50:00+00",
+      "endTime": "2026-04-19 13:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cb463d9b-c710-45f4-bce0-d4e9edaeef28",
+      "title": "Connemara",
+      "programSlug": "connemara",
+      "programUrl": "/programme/canal-cinema/connemara",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-19 11:51:00+00",
+      "endTime": "2026-04-19 13:42:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b33ea5c8-5a1a-41c9-af90-e2a23d767fa7",
+      "title": "Connemara",
+      "programSlug": "connemara",
+      "programUrl": "/programme/canal/connemara",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 06:05:00+00",
+      "endTime": "2026-04-21 07:56:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "185e2549-c23e-4720-8545-a4f17a297a14",
+      "title": "Connemara",
+      "programSlug": "connemara",
+      "programUrl": "/programme/canal-cinema/connemara",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-25 22:39:00+00",
+      "endTime": "2026-04-26 00:31:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "41c80b36-b70b-4a07-9894-7b46a08fe340",
+      "title": "Connemara",
+      "programSlug": "connemara",
+      "programUrl": "/programme/paramount-channel/connemara",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-25 22:40:00+00",
+      "endTime": "2026-04-26 00:30:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q107418516",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ma_famille_ch%C3%A9rie_(film)",
+    "imdb": "tt12887664",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:34.112Z",
+  "year": 2023,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q450775",
+    "slug": "isild-le-besco",
+    "name": "Isild Le Besco",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 11:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "le-coup-du-parapluie",
+  "title": "Le coup du parapluie",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le coup du parapluie"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Grégoire Lecomte a deux passions dans la vie : les femmes et son métier de comédien. Séparé de son épouse, il vit avec Josyane, une charmante contractuelle. Ce qui ne l'empêche pas de faire la cour à la jolie Bunny. A la suite d'un incroyable quiproquo, il est pris pour un tueur à gages de la mafia...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "arte",
+      "channelName": "Arte",
+      "channelSlug": "arte",
+      "channelNumber": 7,
+      "logoUrl": "/loghi/arte.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1980,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q315243",
+      "slug": "pierre-richard",
+      "name": "Pierre Richard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q524747",
+      "slug": "valerie-mairesse",
+      "name": "Valérie Mairesse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q716602",
+      "slug": "gordon-mitchell",
+      "name": "Gordon Mitchell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q728158",
+      "slug": "gerard-jugnot",
+      "name": "Gérard Jugnot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q529417",
+      "slug": "maurice-risch",
+      "name": "Maurice Risch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440234",
+      "slug": "dominique-lavanant",
+      "name": "Dominique Lavanant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965955",
+      "slug": "christine-murillo",
+      "name": "Christine Murillo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q691515",
+      "slug": "vittorio-caprioli",
+      "name": "Vittorio Caprioli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q76943",
+      "slug": "gert-frobe",
+      "name": "Gert Fröbe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2874768",
+      "slug": "axelle-abbadie",
+      "name": "Axelle Abbadie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q328944",
+      "slug": "mike-marshall",
+      "name": "Mike Marshall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3026959",
+      "slug": "didier-cherbuy",
+      "name": "Didier Cherbuy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3027190",
+      "slug": "didier-sauvegrain",
+      "name": "Didier Sauvegrain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3166359",
+      "slug": "jean-jacques-moreau",
+      "name": "Jean-Jacques Moreau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1344622",
+      "slug": "leon-zitrone",
+      "name": "Léon Zitrone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3292212",
+      "slug": "marie-pierre-casey",
+      "name": "Marie-Pierre Casey",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q470798",
+    "slug": "gerard-oury",
+    "name": "Gérard Oury",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

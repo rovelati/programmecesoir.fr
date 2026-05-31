@@ -1,0 +1,133 @@
+{
+  "type": "film",
+  "slug": "court-circuit",
+  "title": "Court-circuit",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Court-circuit"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Dernier jour à Sofia Court métrage de Denis Spiridonov (France/Bulgarie, 2025, 21mn) - Productions : Aurora Films, Blue Hour Films, Portokal Dima a quitté la Russie pour s'installer à Sofia en février 2022. Mais un an et demi plus tard, sans travail ni ressources, il lui est difficile de rester fidèle à ses principes. La veille de son retour au pays, il doit à nouveau faire face à lui-même et à la guerre. Suivi d'une rencontre avec le réalisateur. Rukeli Court métrage d'Alessandro Rak (Italie/Suède, 2025, 5mn) - Production : AntropicA, Sideway Studios, Film i Väst Johann Wilhelm Trollmann fut champion des poids moyens dans l'Allemagne nazie. Célèbre pour son style de combat dansant, il fut le premier boxeur rom au monde à remporter ce titre.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "arte",
+      "channelName": "Arte",
+      "channelSlug": "arte",
+      "channelNumber": 7,
+      "logoUrl": "/loghi/arte.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "arte-belgique",
+      "channelName": "Arte Belgique",
+      "channelSlug": "arte-belgique",
+      "channelNumber": null,
+      "logoUrl": "/loghi/arte-belgique.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "602508c6-992f-4029-ae22-3c3eb445b52c",
+      "title": "Court-circuit",
+      "programSlug": "court-circuit",
+      "programUrl": "/programme/arte-belgique/court-circuit",
+      "channelId": "arte-belgique",
+      "channelName": "Arte Belgique",
+      "channelSlug": "arte-belgique",
+      "startTime": "2026-04-22 23:25:00+00",
+      "endTime": "2026-04-23 00:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "fa47b79c-1187-4723-9cc7-81a323b7cb31",
+      "title": "Court-circuit",
+      "programSlug": "court-circuit",
+      "programUrl": "/programme/arte/court-circuit",
+      "channelId": "arte",
+      "channelName": "Arte",
+      "channelSlug": "arte",
+      "startTime": "2026-04-22 23:25:00+00",
+      "endTime": "2026-04-23 00:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1933,
+  "durationMinutes": 70,
+  "cast": [
+    {
+      "qid": "Q78888",
+      "slug": "elissa-landi",
+      "name": "Elissa Landi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q182057",
+      "slug": "paul-lukas",
+      "name": "Paul Lukas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q722861",
+      "slug": "nils-asther",
+      "name": "Nils Asther",
+      "role": "actor"
+    },
+    {
+      "qid": "Q429966",
+      "slug": "dorothy-revier",
+      "name": "Dorothy Revier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1809184",
+      "slug": "lawrence-grant",
+      "name": "Lawrence Grant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q448594",
+      "slug": "esther-ralston",
+      "name": "Esther Ralston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q524408",
+      "slug": "lois-january",
+      "name": "Lois January",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20065149",
+      "slug": "andre-cheron",
+      "name": "André Cheron",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q381831",
+    "slug": "james-whale",
+    "name": "James Whale",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 23:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

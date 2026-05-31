@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "amina-annabi",
+  "name": "Amina Annabi",
+  "worksCount": 1,
+  "description": "chanteuse et actrice franco-tunisienne",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-03-05",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q272113",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Amina_Annabi",
+    "imdb": "nm0030251",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "maman",
+      "title": "Maman"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

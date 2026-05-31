@@ -1,0 +1,128 @@
+{
+  "type": "actor",
+  "slug": "laure-calamy",
+  "name": "Laure Calamy",
+  "worksCount": 5,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laure%20Calamy%20D%C3%A9jeuner%20C%C3%A9sar%202018.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-03-22",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3218747",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Laure_Calamy",
+    "imdb": "nm2662182",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sous-les-jupes-des-filles",
+      "title": "Sous les jupes des filles"
+    },
+    {
+      "type": "film",
+      "slug": "mon-inseparable",
+      "title": "Mon inséparable"
+    },
+    {
+      "type": "film",
+      "slug": "9-mois-ferme",
+      "title": "9 mois ferme"
+    },
+    {
+      "type": "film",
+      "slug": "en-equilibre",
+      "title": "En équilibre"
+    },
+    {
+      "type": "film",
+      "slug": "seules-les-betes",
+      "title": "Seules les bêtes"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fd331744-f75c-4e3a-b221-b5cb14936e7d",
+      "title": "Mon inséparable",
+      "programSlug": "mon-inseparable",
+      "programUrl": "/programme/cine-emotion/mon-inseparable",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-19 09:31:00+00",
+      "endTime": "2026-04-19 11:03:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "aa048c4b-7076-442d-8ce1-88d5dc1758ad",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 14:51:00+00",
+      "endTime": "2026-04-21 16:46:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "af696919-284a-4704-bb78-ce8cf2d9fa4b",
+      "title": "Mon inséparable",
+      "programSlug": "mon-inseparable",
+      "programUrl": "/programme/cine-emotion/mon-inseparable",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-21 20:21:00+00",
+      "endTime": "2026-04-21 21:52:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "73463dbd-0d24-48f0-95a1-5068ad553278",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 16:55:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "bc39ab94-9a09-4e74-8f1a-a6abb2323210",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 07:04:00+00",
+      "endTime": "2026-04-25 08:59:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "fdd7dce6-1654-45b3-8091-84e71d2e1af7",
+      "title": "Mon inséparable",
+      "programSlug": "mon-inseparable",
+      "programUrl": "/programme/cine-emotion/mon-inseparable",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 17:17:00+00",
+      "endTime": "2026-04-25 18:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 09:31:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

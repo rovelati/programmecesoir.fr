@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "elliott-gould",
+  "name": "Elliott Gould",
+  "worksCount": 1,
+  "description": "acteur et producteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elliott%20Gould%20-%201986.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1938-08-29",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q314805",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Elliott_Gould",
+    "imdb": "nm0001285",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-pont-trop-loin",
+      "title": "Un pont trop loin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "58a2888e-4f9d-4d4f-ae16-b609caf29b50",
+      "title": "Un pont trop loin",
+      "programSlug": "un-pont-trop-loin",
+      "programUrl": "/programme/cine-classic/un-pont-trop-loin",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-20 15:04:00+00",
+      "endTime": "2026-04-20 17:54:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 15:04:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

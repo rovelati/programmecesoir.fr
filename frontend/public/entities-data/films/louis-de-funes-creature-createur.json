@@ -1,0 +1,67 @@
+{
+  "type": "film",
+  "slug": "louis-de-funes-creature-createur",
+  "title": "Louis de Funès, créature / créateur",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Louis de Funès, créature / créateur"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Acteur comique préféré des Français, Louis de Funès a fait rire des générations de spectateurs avec son personnage de petit chef méchant, colérique et radin, aux mimiques si particulières. Le rire a été l'affaire de sa vie au point que la star occupe une place prépondérante dans la fabrication de ses films. Comment le roi du box-office des années 1960-70 a-t-il inventé et peaufiné son double à l'écran ?",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "73a60f11-43bd-4c98-86f2-ca7b2c58004f",
+      "title": "Louis de Funès, créature / créateur",
+      "programSlug": "louis-de-funes-creature-createur",
+      "programUrl": "/programme/cine-family/louis-de-funes-creature-createur",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 00:53:00+00",
+      "endTime": "2026-04-20 01:45:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 00:53:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

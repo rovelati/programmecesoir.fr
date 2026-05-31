@@ -1,0 +1,166 @@
+{
+  "type": "series",
+  "slug": "les-enquetes-de-morse",
+  "title": "Les enquêtes de Morse",
+  "airingsCount": 12,
+  "sourceTitles": [
+    "Les enquêtes de Morse",
+    "Les enquêtes de Morse - Saison 5",
+    "Les enquêtes de Morse - Saison 9"
+  ],
+  "genres": [
+    "drama policier"
+  ],
+  "description": "En 1965, après des études à l'université d'Oxford, d'où il est sorti sans diplôme, le jeune Endeavour Morse est nommé détective au sein de la police locale. L'éducation qu'il a reçue lors de ses études, la connaissance du milieu professoral et estudiantin, sa passion pour l'opéra et les mots croisés font de lui un policier perspicace et tenace. Mais il doit néanmoins faire face aux réticences de sa hiérarchie et de ses collègues quand il s'agit de suivre les règles établies par le système policier. Morse trouve cependant un appui auprès de son supérieur direct, Fred Thursday, dont il va devenir l'adjoint. Au fur et à mesure de ses enquêtes, on devine un passé familial et sentimental douloureux chez le jeune inspecteur.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dakota%20Blue%20Richards%20as%20Shirley%20Trewlove%20on%20Endeavour%20TV%20series%20set%2C%20Merton%20Street%2C%20Oxford-20032904685.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2012,
+  "numberOfSeasons": 9,
+  "cast": [
+    {
+      "qid": "Q785482",
+      "slug": "shaun-evans",
+      "name": "Shaun Evans",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2424994",
+      "slug": "roger-allam",
+      "name": "Roger Allam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q81820715",
+      "slug": "emily-barber",
+      "name": "Emily Barber",
+      "role": "actor"
+    },
+    {
+      "qid": "Q591515",
+      "slug": "anton-lesser",
+      "name": "Anton Lesser",
+      "role": "actor"
+    },
+    {
+      "qid": "Q59733770",
+      "slug": "sean-rigby",
+      "name": "Sean Rigby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15485790",
+      "slug": "abigail-thaw",
+      "name": "Abigail Thaw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6130140",
+      "slug": "james-bradshaw",
+      "name": "James Bradshaw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28155259",
+      "slug": "sara-vickers",
+      "name": "Sara Vickers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16733784",
+      "slug": "caroline-o-neill",
+      "name": "Caroline O'Neill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7519152",
+      "slug": "simon-kunz",
+      "name": "Simon Kunz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234585",
+      "slug": "dakota-blue-richards",
+      "name": "Dakota Blue Richards",
+      "role": "actor"
+    },
+    {
+      "qid": "Q100292307",
+      "slug": "lewis-peek",
+      "name": "Lewis Peek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6113593",
+      "slug": "jack-laskey",
+      "name": "Jack Laskey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21693662",
+      "slug": "jack-bannon",
+      "name": "Jack Bannon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111279931",
+      "slug": "simon-harrison",
+      "name": "Simon Harrison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q121222127",
+      "slug": "shvorne-marks",
+      "name": "Shvorne Marks",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q457092",
+    "slug": "colin-dexter",
+    "name": "Colin Dexter",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

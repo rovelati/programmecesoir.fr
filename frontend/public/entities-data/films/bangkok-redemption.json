@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "bangkok-redemption",
+  "title": "Bangkok Redemption",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Bangkok Redemption"
+  ],
+  "genres": [
+    "Téléfilm",
+    "Telefilms"
+  ],
+  "description": "Lassé de son métier d'assassin, Loreno accepte néanmoins une dernière mission que lui confie Cetan, un ami de longue date. Celui-ci le charge de se rendre en Thaïlande afin d'éliminer Tar, un truand sans merci, aussi cruel que dangereux. Arrivé à Bangkok, Loreno décide de repousser le moment d'en finir avec sa cible. Mal lui en prend, et il se retrouve bien malgré lui entraîné dans une guerre totale...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

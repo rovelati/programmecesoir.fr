@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "kent-cheng",
+  "name": "Kent Cheng",
+  "worksCount": 2,
+  "description": "acteur, réalisateur et producteur",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%84%AD%E5%89%87%E4%BB%95.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1951-05-23",
+  "nationality": "République populaire de Chine",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q712178",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kent_Cheng",
+    "imdb": "nm0155587",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "ip-man-3",
+      "title": "Ip Man 3"
+    },
+    {
+      "type": "film",
+      "slug": "ip-man-4",
+      "title": "Ip Man 4"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "la-momie",
+  "title": "La momie",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La momie"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "film et téléfilm de fantasy",
+    "film de chasse au trésor",
+    "film et téléfilm d'action",
+    "comédie"
+  ],
+  "description": "Momifié vivant à l'époque des pharaons, un prêtre de Thèbes ressuscite lors de fouilles archéologiques. Ivre de vengeance, il sème la terreur autour de lui.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1999,
+  "durationMinutes": 120,
+  "cast": [
+    {
+      "qid": "Q193555",
+      "slug": "brendan-fraser",
+      "name": "Brendan Fraser",
+      "role": "actor"
+    },
+    {
+      "qid": "Q134077",
+      "slug": "rachel-weisz",
+      "name": "Rachel Weisz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298243",
+      "slug": "john-hannah",
+      "name": "John Hannah",
+      "role": "actor"
+    },
+    {
+      "qid": "Q297739",
+      "slug": "arnold-vosloo",
+      "name": "Arnold Vosloo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q721195",
+      "slug": "kevin-j-o-connor",
+      "name": "Kevin J. O'Connor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q127996",
+      "slug": "oded-fehr",
+      "name": "Oded Fehr",
+      "role": "actor"
+    },
+    {
+      "qid": "Q435468",
+      "slug": "jonathan-hyde",
+      "name": "Jonathan Hyde",
+      "role": "actor"
+    },
+    {
+      "qid": "Q711035",
+      "slug": "erick-avari",
+      "name": "Erick Avari",
+      "role": "actor"
+    },
+    {
+      "qid": "Q468241",
+      "slug": "omid-djalili",
+      "name": "Omid Djalili",
+      "role": "actor"
+    },
+    {
+      "qid": "Q720730",
+      "slug": "tuc-watkins",
+      "name": "Tuc Watkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q760805",
+      "slug": "stephen-dunham",
+      "name": "Stephen Dunham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q707734",
+      "slug": "bernard-fox",
+      "name": "Bernard Fox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240901",
+      "slug": "patricia-velasquez",
+      "name": "Patricia Velásquez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1132632",
+      "slug": "corey-johnson",
+      "name": "Corey Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q400046",
+      "slug": "aharon-ipale",
+      "name": "Aharon Ipalé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316528",
+      "slug": "blixa-bargeld",
+      "name": "Blixa Bargeld",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q363402",
+    "slug": "stephen-sommers",
+    "name": "Stephen Sommers",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,144 @@
+{
+  "type": "film",
+  "slug": "le-parfum-vert",
+  "title": "Le Parfum vert",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le Parfum vert"
+  ],
+  "genres": [
+    "comédie",
+    "thriller"
+  ],
+  "description": "Au cours d'une représentation à la Comédie-Française, Martin assiste à l'empoisonnement d'un collègue comédien sur scène. Le public et la troupe sont choqués par cet assassinat commis sous leurs yeux. Avant de décéder, la victime est parvenue à donner un indice de taille : le nom de l'organisation secrète qui aurait commandité son meurtre. Ses membres ont désormais pour objectif de supprimer Martin après que ce dernier a fortuitement découvert leur existence. Celui-ci se lance alors dans une vaste enquête, accompagné par Claire, une dessinatrice, pour élucider cet empoisonnement et arrêter les tueurs. Tous deux entament un périple qui va les mener à travers toute l'Europe...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "654df7e8-1d28-485b-887e-f07f1bb9656c",
+      "title": "Le Parfum vert",
+      "programSlug": "le-parfum-vert",
+      "programUrl": "/programme/cine-frisson/le-parfum-vert",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 23:19:00+00",
+      "endTime": "2026-04-25 00:53:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q262822",
+      "slug": "sandrine-kiberlain",
+      "name": "Sandrine Kiberlain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3559693",
+      "slug": "vincent-lacoste",
+      "name": "Vincent Lacoste",
+      "role": "actor"
+    },
+    {
+      "qid": "Q69705",
+      "slug": "rudiger-vogler",
+      "name": "Rüdiger Vogler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3271707",
+      "slug": "leonie-simaga",
+      "name": "Léonie Simaga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28497677",
+      "slug": "arieh-worthalter",
+      "name": "Arieh Worthalter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15069947",
+      "slug": "jenna-thiam",
+      "name": "Jenna Thiam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2834044",
+      "slug": "alexandre-steiger",
+      "name": "Alexandre Steiger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3524981",
+      "slug": "thomas-chabrol",
+      "name": "Thomas Chabrol",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3570819",
+      "slug": "xavier-de-guillebon",
+      "name": "Xavier de Guillebon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2966416",
+      "slug": "christophe-odent",
+      "name": "Christophe Odent",
+      "role": "actor"
+    },
+    {
+      "qid": "Q30729548",
+      "slug": "gwenaelle-simon",
+      "name": "Gwenaëlle Simon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q98950396",
+      "slug": "maryne-bertieaux",
+      "name": "Maryne Bertieaux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15973613",
+      "slug": "gilles-bellomi",
+      "name": "Gilles Bellomi",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3340652",
+    "slug": "nicolas-pariser",
+    "name": "Nicolas Pariser",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 23:19:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

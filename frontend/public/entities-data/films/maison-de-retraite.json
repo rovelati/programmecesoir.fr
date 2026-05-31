@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "maison-de-retraite",
+  "title": "Maison de retraite",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Maison de retraite"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Quand Milann apprend de la bouche de son avocat qu'il a été condamné à 300 heures de travaux d'intérêt général à accomplir dans une maison de retraite, le jeune homme se demande s'il peut réellement fêter cela comme une bonne nouvelle, peu emballé à l'idée de passer du temps dans un endroit qu'il suppose lugubre. Mais une fois sur place, et après un bizutage en règle de la part de résidents solidaires et farceurs, Milann se met à apprécier une compagnie finalement agréable à tous points de vue. Au point d'imaginer immédiatement un plan de fuite quand il apprend que ces adorables retraités sont privés de sortie depuis des lustres...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q106508",
+      "slug": "gerard-depardieu",
+      "name": "Gérard Depardieu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239868",
+      "slug": "mylene-demongeot",
+      "name": "Mylène Demongeot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3240843",
+      "slug": "liliane-rovere",
+      "name": "Liliane Rovère",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2202755",
+      "slug": "kev-adams",
+      "name": "Kev Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q586054",
+      "slug": "antoine-dulery",
+      "name": "Antoine Duléry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447709",
+      "slug": "firmine-richard",
+      "name": "Firmine Richard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q116314",
+      "slug": "jean-luc-bideau",
+      "name": "Jean-Luc Bideau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q965873",
+      "slug": "daniel-prevost",
+      "name": "Daniel Prévost",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3295220",
+      "slug": "marthe-villalonga",
+      "name": "Marthe Villalonga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16645075",
+      "slug": "jarry",
+      "name": "Jarry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109580429",
+      "slug": "oussama-kheddam",
+      "name": "Oussama Kheddam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q98820234",
+      "slug": "lou-gala",
+      "name": "Lou Gala",
+      "role": "actor"
+    },
+    {
+      "qid": "Q56604126",
+      "slug": "majid-berhila",
+      "name": "Majid Berhila",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1695127",
+      "slug": "ludovic-berthillot",
+      "name": "Ludovic Berthillot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3119707",
+      "slug": "guillaume-bouchede",
+      "name": "Guillaume Bouchède",
+      "role": "actor"
+    },
+    {
+      "qid": "Q59492090",
+      "slug": "nathalie-boyer",
+      "name": "Nathalie Boyer",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3525156",
+    "slug": "thomas-gilou",
+    "name": "Thomas Gilou",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

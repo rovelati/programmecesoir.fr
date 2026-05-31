@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "donald-sutherland",
+  "name": "Donald Sutherland",
+  "worksCount": 1,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Donald%20Sutherland%20(cropped).JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1935-07-17",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q103784",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Donald_Sutherland",
+    "imdb": "nm0000661",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "crossing-lines",
+      "title": "Crossing Lines"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

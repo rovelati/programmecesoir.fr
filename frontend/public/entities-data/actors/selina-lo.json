@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "selina-lo",
+  "name": "Selina Lo",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1991-05-08",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q7448462",
+    "wikipedia": "https://en.wikipedia.org/wiki/Selina_Lo",
+    "imdb": "nm2512937",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-roi-scorpion-3-l-oeil-des-dieux",
+      "title": "Le roi Scorpion 3 : l'oeil des Dieux"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

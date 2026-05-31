@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "samuel-labarthe",
+  "name": "Samuel Labarthe",
+  "worksCount": 2,
+  "description": "acteur franco-suisse",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Labarthe%20Cannes%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-05-16",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3471167",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Samuel_Labarthe",
+    "imdb": "nm0479355",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "deux-jours-a-tuer",
+      "title": "Deux jours à tuer"
+    },
+    {
+      "type": "film",
+      "slug": "la-buche",
+      "title": "La bûche"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,120 @@
+{
+  "type": "film",
+  "slug": "les-gardiennes",
+  "title": "Les gardiennes",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les gardiennes"
+  ],
+  "genres": [
+    "drame",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Pendant la Première Guerre mondiale, les hommes ont quitté les villages pour le front. Les femmes reprennent le flambeau comme Hortense, travailleuse infatigable qui embauche Francine, une jeune femme de l'assistance publique, chargée de la seconder à la ferme. Sa propre fille Solange rechigne aux travaux des champs. Entre Hortense et Francine, un respect et une reconnaissance mutuels s'établissent d'emblée. D'ailleurs, après la guerre, Hortense aimerait garder la jeune femme auprès d'elle. Quand Georges, le fils d'Hortense, revient lors d'une permission, il tombe sous le charme de Francine. Alors que leur histoire démarre, il doit repartir à la guerre...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2365f201-4c5e-4dc4-8db1-b4ada082af14",
+      "title": "Les gardiennes",
+      "programSlug": "les-gardiennes",
+      "programUrl": "/programme/cine-festival/les-gardiennes",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 23:24:00+00",
+      "endTime": "2026-04-24 01:34:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 134,
+  "cast": [
+    {
+      "qid": "Q106573",
+      "slug": "nathalie-baye",
+      "name": "Nathalie Baye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q465971",
+      "slug": "laura-smet",
+      "name": "Laura Smet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1148600",
+      "slug": "cyril-descours",
+      "name": "Cyril Descours",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3351313",
+      "slug": "olivier-rabourdin",
+      "name": "Olivier Rabourdin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3340363",
+      "slug": "nicolas-giraud",
+      "name": "Nicolas Giraud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q50359273",
+      "slug": "iris-bry",
+      "name": "Iris Bry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3570732",
+      "slug": "xavier-maly",
+      "name": "Xavier Maly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q122923678",
+      "slug": "marie-julie-maille",
+      "name": "Marie-Julie Maille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q122941867",
+      "slug": "madeleine-beauvois",
+      "name": "Madeleine Beauvois",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1323312",
+    "slug": "xavier-beauvois",
+    "name": "Xavier Beauvois",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 23:24:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

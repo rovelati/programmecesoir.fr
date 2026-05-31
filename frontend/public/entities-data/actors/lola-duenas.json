@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "lola-duenas",
+  "name": "Lola Dueñas",
+  "worksCount": 1,
+  "description": "actrice espagnole",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Goyas%202025%20-%20Lola%20Due%C3%B1as%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-10-06",
+  "nationality": "Espagne",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q283513",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lola_Due%C3%B1as",
+    "imdb": "nm0240318",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-femmes-du-6e-etage",
+      "title": "Les femmes du 6e étage"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "david-graf",
+  "name": "David Graf",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Graf%20in%20Stockholm.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1950-04-16",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q445253",
+    "wikipedia": "https://fr.wikipedia.org/wiki/David_Graf_(acteur)",
+    "imdb": "nm0333701",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-enfer-du-devoir",
+      "title": "L'enfer du devoir"
+    },
+    {
+      "type": "series",
+      "slug": "notre-belle-famille",
+      "title": "Notre belle famille"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

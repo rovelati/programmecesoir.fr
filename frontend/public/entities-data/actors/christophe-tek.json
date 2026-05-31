@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "christophe-tek",
+  "name": "Christophe Tek",
+  "worksCount": 2,
+  "description": "acteur",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q17374209",
+    "wikipedia": null,
+    "imdb": "nm5653655",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dans-la-cuisine-des-nguyen",
+      "title": "Dans la cuisine des Nguyen"
+    },
+    {
+      "type": "series",
+      "slug": "j-ai-tue-mon-mari",
+      "title": "J'ai tué mon mari"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "41630b15-9e4c-45bd-9612-3276249cd83a",
+      "title": "Dans la cuisine des Nguyen",
+      "programSlug": "dans-la-cuisine-des-nguyen",
+      "programUrl": "/programme/canal-box-office/dans-la-cuisine-des-nguyen",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 07:53:00+00",
+      "endTime": "2026-04-20 09:30:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 07:53:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,84 @@
+{
+  "type": "series",
+  "slug": "camera-cafe-2-la-boite-du-dessus",
+  "title": "Caméra café 2 : La boîte du dessus",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Caméra café 2 : La boîte du dessus"
+  ],
+  "genres": [
+    "Série humoristique",
+    "Series"
+  ],
+  "description": "Hervé Dumont et Jean-Claude Convenant ne sont pas les seuls à comploter devant la machine à café. Leurs voisins du dessus, les insupportables employés de l'entreprise Digix, ont droit eux aussi à leur espace détente. Franck Gaillard et Rémy Bourgoin sont les éléments perturbateurs de la boîte...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "channelNumber": null,
+      "logoUrl": "/loghi/serie-club.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ddf499f-aaa3-471a-8311-904b81fbb4db",
+      "title": "Caméra café 2 : La boîte du dessus",
+      "programSlug": "camera-cafe-2-la-boite-du-dessus",
+      "programUrl": "/programme/serie-club/camera-cafe-2-la-boite-du-dessus",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 05:00:00+00",
+      "endTime": "2026-04-19 06:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "51d913cc-05f7-4b42-8b62-63a30af33404",
+      "title": "Caméra café 2 : La boîte du dessus",
+      "programSlug": "camera-cafe-2-la-boite-du-dessus",
+      "programUrl": "/programme/serie-club/camera-cafe-2-la-boite-du-dessus",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-25 05:00:00+00",
+      "endTime": "2026-04-25 06:10:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "847dda48-ff24-473a-a991-21a41c967a05",
+      "title": "Caméra café 2 : La boîte du dessus",
+      "programSlug": "camera-cafe-2-la-boite-du-dessus",
+      "programUrl": "/programme/serie-club/camera-cafe-2-la-boite-du-dessus",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-26 05:00:00+00",
+      "endTime": "2026-04-26 06:10:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 05:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

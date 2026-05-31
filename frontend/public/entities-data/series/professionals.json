@@ -1,0 +1,118 @@
+{
+  "type": "series",
+  "slug": "professionals",
+  "title": "Professionals",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Professionals - Saison 1"
+  ],
+  "genres": [
+    "western"
+  ],
+  "description": "Vincent, Peter et le reste de l'équipe, y compris l'agent Neumann, arrachent Jane et Reginald de l'assignation à résidence par les hommes de Luther. Reginald et Jane en sécurité, Vincent, Peter et les autres se rendent en Guyane française, au centre de lancement, pour contrecarrer la tentative de Zora de lancer un satellite d'espionnage privé.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1966,
+  "numberOfSeasons": null,
+  "cast": [
+    {
+      "qid": "Q160528",
+      "slug": "burt-lancaster",
+      "name": "Burt Lancaster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q76895",
+      "slug": "lee-marvin",
+      "name": "Lee Marvin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107006",
+      "slug": "claudia-cardinale",
+      "name": "Claudia Cardinale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350680",
+      "slug": "robert-ryan",
+      "name": "Robert Ryan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q609860",
+      "slug": "woody-strode",
+      "name": "Woody Strode",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193653",
+      "slug": "jack-palance",
+      "name": "Jack Palance",
+      "role": "actor"
+    },
+    {
+      "qid": "Q364135",
+      "slug": "ralph-bellamy",
+      "name": "Ralph Bellamy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3555082",
+      "slug": "vaughn-taylor",
+      "name": "Vaughn Taylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18601256",
+      "slug": "leigh-chapman",
+      "name": "Leigh Chapman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6209448",
+      "slug": "joe-de-santis",
+      "name": "Joe De Santis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3544131",
+      "slug": "jorge-martinez-de-hoyos",
+      "name": "Jorge Martínez de Hoyos",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q434342",
+    "slug": "richard-brooks",
+    "name": "Richard Brooks",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

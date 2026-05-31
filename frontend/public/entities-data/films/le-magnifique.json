@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "le-magnifique",
+  "title": "Le magnifique",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Le magnifique"
+  ],
+  "genres": [
+    "comédie romantique",
+    "film ou téléfilm parodique",
+    "film et téléfilm d'action"
+  ],
+  "description": "Un agent du FBI trouve la mort au Mexique dans d'atroces circonstances. Seul Bob Saint-Clare, le célèbre agent secret, est en mesure de résoudre l'énigme. Sur place, Saint-Clare échappe par miracle aux agents des services secrets albanais, lancés à ses trousses par le redoutable Karpof, avant de savourer sa victoire dans les bras accueillants de la belle Tatiana. Ces aventures trépidantes sont en réalité issues de l'imagination fertile d'un certain François Merlin, qui tente de venir à bout de son 43e roman d'espionnage. Timide et plutôt médiocre, Merlin a fait de son héros, Bob Saint-Clare, son alter ego imaginaire, en plus sportif et dynamique toutefois. Il intègre à l'énigme les éléments extérieurs qui ne cessent de le perturber, comme sa belle voisine, Christine, ou son éditeur, Charron...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1973,
+  "durationMinutes": 94,
+  "cast": [
+    {
+      "qid": "Q106255",
+      "slug": "jean-paul-belmondo",
+      "name": "Jean-Paul Belmondo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232477",
+      "slug": "jacqueline-bisset",
+      "name": "Jacqueline Bisset",
+      "role": "actor"
+    },
+    {
+      "qid": "Q691515",
+      "slug": "vittorio-caprioli",
+      "name": "Vittorio Caprioli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848802",
+      "slug": "andre-weber",
+      "name": "André Weber",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1984434",
+      "slug": "bernard-musson",
+      "name": "Bernard Musson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2926793",
+      "slug": "bruno-garcin",
+      "name": "Bruno Garcin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3099923",
+      "slug": "gaetan-noel",
+      "name": "Gaëtan Noël",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1146107",
+      "slug": "hans-meyer",
+      "name": "Hans Meyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3141992",
+      "slug": "hubert-deschamps",
+      "name": "Hubert Deschamps",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1351000",
+      "slug": "jean-lefebvre",
+      "name": "Jean Lefebvre",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3169684",
+      "slug": "jean-pierre-rambal",
+      "name": "Jean-Pierre Rambal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3262782",
+      "slug": "louis-navarre",
+      "name": "Louis Navarre",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1873439",
+      "slug": "lucienne-legrand",
+      "name": "Lucienne Legrand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3293403",
+      "slug": "mario-david",
+      "name": "Mario David",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3300341",
+      "slug": "maurice-auzel",
+      "name": "Maurice Auzel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3302076",
+      "slug": "max-desrau",
+      "name": "Max Desrau",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q365141",
+    "slug": "philippe-de-broca",
+    "name": "Philippe de Broca",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

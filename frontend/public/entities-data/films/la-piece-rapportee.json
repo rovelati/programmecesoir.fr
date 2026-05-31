@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "la-piece-rapportee",
+  "title": "La pièce rapportée",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La pièce rapportée"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Avec son allure de dandy, Paul Château-Têtard n'a jamais su réellement séduire les femmes. Un jour, désorienté lors de sa toute première sortie dans le métro parisien, il demande de l'aide à une guichetière, Ava, dont il tombe immédiatement amoureux. Inquiète pour la descendance de la lignée, sa mère Adélaïde, qui règne en maître sur l'imposante demeure familiale, accepte d'abord cette union qu'elle juge malgré tout opportune à la jeune femme. Mais très vite, les premiers soupçons apparaissent, et elle ne tarde pas à se convaincre que sa future belle-fille a un amant. Elle se met alors alors à épier ses moindres faits et gestes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": 86,
+  "cast": [],
+  "director": {
+    "qid": "Q14833406",
+    "slug": "antonin-peretjatko",
+    "name": "Antonin Peretjatko",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

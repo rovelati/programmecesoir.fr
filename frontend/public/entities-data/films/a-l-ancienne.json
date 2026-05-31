@@ -1,0 +1,77 @@
+{
+  "type": "film",
+  "slug": "a-l-ancienne",
+  "title": "A l'ancienne",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "A l'ancienne"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Amis de très longue date, Jean-Jean et Henri vivent sur une petite île de Bretagne. Un jour, ils découvrent par hasard que l'un des habitants a remporté le gros lot à la Loterie nationale. Guidées par l'appât du gain, les deux vieilles canailles se lancent immédiatement à la recherche du mystérieux gagnant, déterminées à s'assurer ses faveurs avant que la nouvelle ne se répande. Mais l'euphorie cède bientôt la place à la stupéfaction. En effet, ils découvrent que l'homme en question est décédé, ticket gagnant en main. Avec la complicité de tout le village, ils décident alors d'organiser une grande arnaque au loto pour tenter de prendre sa place...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1d1fb672-2318-47b9-ba47-b259ad018c7e",
+      "title": "A l'ancienne",
+      "programSlug": "a-l-ancienne",
+      "programUrl": "/programme/cine-family/a-l-ancienne",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-19 18:50:00+00",
+      "endTime": "2026-04-19 20:17:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7c519f8d-0442-42c5-8ebd-29a7322a49a4",
+      "title": "A l'ancienne",
+      "programSlug": "a-l-ancienne",
+      "programUrl": "/programme/cine-family/a-l-ancienne",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 07:50:00+00",
+      "endTime": "2026-04-23 09:17:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q3134600",
+    "slug": "herve-mimran",
+    "name": "Hervé Mimran",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

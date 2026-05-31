@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "philippe-marlaud",
+  "name": "Philippe Marlaud",
+  "worksCount": 1,
+  "description": "acteur français (1959-1981)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1959-06-20",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3380320",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Philippe_Marlaud",
+    "imdb": "nm0549076",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "passe-ton-bac-d-abord",
+      "title": "Passe ton bac d'abord"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "81de72af-0ee0-4730-9aff-48b3c79afa2f",
+      "title": "Passe ton bac d'abord",
+      "programSlug": "passe-ton-bac-d-abord",
+      "programUrl": "/programme/cine-festival/passe-ton-bac-d-abord",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-22 09:51:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 09:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

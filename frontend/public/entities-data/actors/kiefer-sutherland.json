@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "kiefer-sutherland",
+  "name": "Kiefer Sutherland",
+  "worksCount": 2,
+  "description": "acteur et chanteur canado-britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiefer%20Sutherland%202%20SDCC%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-12-21",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q103946",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kiefer_Sutherland",
+    "imdb": "nm0000662",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dark-city",
+      "title": "Dark City"
+    },
+    {
+      "type": "film",
+      "slug": "promised-land",
+      "title": "Promised Land"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

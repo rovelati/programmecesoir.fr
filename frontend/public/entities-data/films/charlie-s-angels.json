@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "charlie-s-angels",
+  "title": "Charlie's Angels",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Charlie's Angels"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "buddy film féminin",
+    "comédie",
+    "film d'arts martiaux"
+  ],
+  "description": "Sabina, Rebekah et Jane sont des espionnes pour le compte d'une agence internationale secrète. Un jour, elles reçoivent la mission de protéger Elena, une jeune ingénieure système effrayée par une technologie inventée par son entreprise. Cette dernière est prise pour cible par un tueur à gages...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2000,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q44380",
+      "slug": "cameron-diaz",
+      "name": "Cameron Diaz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q676094",
+      "slug": "drew-barrymore",
+      "name": "Drew Barrymore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188375",
+      "slug": "lucy-liu",
+      "name": "Lucy Liu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q29250",
+      "slug": "bill-murray",
+      "name": "Bill Murray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316446",
+      "slug": "sam-rockwell",
+      "name": "Sam Rockwell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242523",
+      "slug": "kelly-lynch",
+      "name": "Kelly Lynch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310060",
+      "slug": "crispin-glover",
+      "name": "Crispin Glover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q52392",
+      "slug": "tim-curry",
+      "name": "Tim Curry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107769",
+      "slug": "luke-wilson",
+      "name": "Luke Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q186896",
+      "slug": "matt-leblanc",
+      "name": "Matt LeBlanc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q52440",
+      "slug": "ll-cool-j",
+      "name": "LL Cool J",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315826",
+      "slug": "tom-green",
+      "name": "Tom Green",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315217",
+      "slug": "john-forsythe",
+      "name": "John Forsythe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1373335",
+      "slug": "sean-whalen",
+      "name": "Sean Whalen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229048",
+      "slug": "melissa-mccarthy",
+      "name": "Melissa McCarthy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q723101",
+      "slug": "mark-ryan",
+      "name": "Mark Ryan",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q385058",
+    "slug": "mcg",
+    "name": "McG",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

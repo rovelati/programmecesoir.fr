@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "daniel-day-lewis",
+  "name": "Daniel Day-Lewis",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Day-Lewis%20-%20BFI%20Southbank%20-%20Wednesday%2015th%20October%202025.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1957-04-29",
+  "nationality": "Irlande",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q166389",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Daniel_Day-Lewis",
+    "imdb": "nm0000358",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "there-will-be-blood",
+      "title": "There Will Be Blood"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

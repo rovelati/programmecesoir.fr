@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "harvey-guillen",
+  "name": "Harvey Guillén",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvey%20Guill%C3%A9n%20at%20Galaxy%20Con%20Columbus.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-05-03",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q55395897",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Harvey_Guill%C3%A9n",
+    "imdb": "nm2957490",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "companion",
+      "title": "Companion"
+    },
+    {
+      "type": "film",
+      "slug": "life-of-chuck",
+      "title": "Life of Chuck"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "94e324df-cc05-4a75-824b-4e77902fde3d",
+      "title": "Life of Chuck",
+      "programSlug": "life-of-chuck",
+      "programUrl": "/programme/canal-box-office/life-of-chuck",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 15:45:00+00",
+      "endTime": "2026-04-20 17:32:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 15:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "maxime-de-toledo",
+  "name": "Maxime de Toledo",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q131342364",
+    "wikipedia": null,
+    "imdb": "nm2126262",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-panache",
+      "title": "Le Panache"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2ce12171-2240-402e-8332-aef67c023468",
+      "title": "Le Panache",
+      "programSlug": "le-panache",
+      "programUrl": "/programme/cine-family/le-panache",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 09:55:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8d6fda4a-a1c7-4571-b534-ce3fe8708cc4",
+      "title": "Le Panache",
+      "programSlug": "le-panache",
+      "programUrl": "/programme/cine-family/le-panache",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 12:56:00+00",
+      "endTime": "2026-04-23 14:26:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 09:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

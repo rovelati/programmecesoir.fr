@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "noble-johnson",
+  "name": "Noble Johnson",
+  "worksCount": 1,
+  "description": "acteur américain (1881-1978)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Noble%20Johnson%20by%20Witzel.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1881-04-18",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1308273",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Noble_Johnson",
+    "imdb": "nm0425903",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-charge-heroique",
+      "title": "La charge héroïque"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

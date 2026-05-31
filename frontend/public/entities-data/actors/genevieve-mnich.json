@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "genevieve-mnich",
+  "name": "Geneviève Mnich",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1942-02-19",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3100676",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Genevi%C3%A8ve_Mnich",
+    "imdb": "nm0594885",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "je-l-aimais",
+      "title": "Je l'aimais"
+    },
+    {
+      "type": "film",
+      "slug": "un-dimanche-a-la-campagne",
+      "title": "Un dimanche à la campagne"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "melinda-mcgraw",
+  "name": "Melinda McGraw",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-10-25",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2635096",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Melinda_McGraw",
+    "imdb": "nm0569927",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "the-dark-knight-le-chevalier-noir",
+      "title": "The Dark Knight, le chevalier noir"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c2e552e5-5034-45b9-a0c8-4a53b1bae6b6",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-le-chevalier-noir",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 07:44:00+00",
+      "endTime": "2026-04-19 10:12:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b544160d-b826-4661-803a-b06f2fd0584b",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-le-chevalier-noir",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 21:16:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "22b05300-eddd-4187-a307-0f99ef85a0d7",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-le-chevalier-noir",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:56:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 07:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

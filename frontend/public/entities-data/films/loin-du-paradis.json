@@ -1,0 +1,176 @@
+{
+  "type": "film",
+  "slug": "loin-du-paradis",
+  "title": "Loin du paradis",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Loin du paradis"
+  ],
+  "genres": [
+    "film ou téléfilm d'amour",
+    "drame",
+    "film d'art",
+    "film LGBT"
+  ],
+  "description": "Dans l'Amérique provinciale dans les années 1950, Cathy est une femme au foyer accomplie : son mari a réussi professionnellement et lui a donné deux enfants très mignons et fort obéissants. Sa maison, son jardin et sa vie sont réglés comme du papier à musique. Elle est même plus que cela : elle est la femme d'intérieur idéale, interviewée par la gazette locale et chérie par toutes ses amies. Mais, un soir, elle doit aller chercher son mari au commissariat puis, une autre fois, elle le surprend, dans son bureau, en train d'embrasser un homme. Le monde de Cathy s'écroule, mais il lui faut coûte que coûte sauver les apparences...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "52cbf378-4db4-4f16-ba50-5653f3a1fc24",
+      "title": "Loin du paradis",
+      "programSlug": "loin-du-paradis",
+      "programUrl": "/programme/cine-festival/loin-du-paradis",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-19 14:13:00+00",
+      "endTime": "2026-04-19 16:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "36da493d-65ad-49c0-b7e7-0bc4d299e8f2",
+      "title": "Loin du paradis",
+      "programSlug": "loin-du-paradis",
+      "programUrl": "/programme/cine-festival/loin-du-paradis",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:13:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2002,
+  "durationMinutes": 107,
+  "cast": [
+    {
+      "qid": "Q80405",
+      "slug": "julianne-moore",
+      "name": "Julianne Moore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q200768",
+      "slug": "dennis-quaid",
+      "name": "Dennis Quaid",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350208",
+      "slug": "dennis-haysbert",
+      "name": "Dennis Haysbert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229268",
+      "slug": "patricia-clarkson",
+      "name": "Patricia Clarkson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229181",
+      "slug": "viola-davis",
+      "name": "Viola Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q726140",
+      "slug": "james-rebhorn",
+      "name": "James Rebhorn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q386249",
+      "slug": "michael-gaston",
+      "name": "Michael Gaston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13560481",
+      "slug": "june-squibb",
+      "name": "June Squibb",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15007836",
+      "slug": "chance-kelly",
+      "name": "Chance Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15837492",
+      "slug": "olivia-birkelund",
+      "name": "Olivia Birkelund",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16212150",
+      "slug": "johnathan-mcclain",
+      "name": "Johnathan McClain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17166312",
+      "slug": "bette-henritze",
+      "name": "Bette Henritze",
+      "role": "actor"
+    },
+    {
+      "qid": "Q186573",
+      "slug": "barbara-garrick",
+      "name": "Barbara Garrick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2690748",
+      "slug": "brian-delate",
+      "name": "Brian Delate",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289931",
+      "slug": "celia-weston",
+      "name": "Celia Weston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6103913",
+      "slug": "j-b-adams",
+      "name": "J.B. Adams",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q446580",
+    "slug": "todd-haynes",
+    "name": "Todd Haynes",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 14:13:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "lucy-liu",
+  "name": "Lucy Liu",
+  "worksCount": 3,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucy%20Liu%20HS%20Yearbook.jpeg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-12-02",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q188375",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lucy_Liu",
+    "imdb": "nm0005154",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "charlie-s-angels",
+      "title": "Charlie's Angels"
+    },
+    {
+      "type": "film",
+      "slug": "kill-bill-volume-2",
+      "title": "Kill Bill Volume 2"
+    },
+    {
+      "type": "film",
+      "slug": "kill-bill-volume-1",
+      "title": "Kill Bill Volume 1"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

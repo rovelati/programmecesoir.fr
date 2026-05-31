@@ -1,0 +1,136 @@
+{
+  "type": "film",
+  "slug": "deux-tetes-folles",
+  "title": "Deux têtes folles",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Deux têtes folles"
+  ],
+  "genres": [
+    "comédie romantique"
+  ],
+  "description": "A Paris. Scénariste réputé, Richard Benson doit, le 14 juillet, remettre au producteur d'un film un scénario de deux cents pages. A 48 heures de l'échéance, en mal d'inspiration, Richard n'a guère écrit qu'une dizaine de pages. Gabrielle, une jeune secrétaire passionnée de cinéma, lui propose son aide. Mais l'alchimie de la production littéraire ne fonctionne toujours pas. A force de décliner toutes les situations possibles, Benson finit par vivre réellement les aventures les plus rocambolesques, issues de son esprit d'artiste. Gabrielle, qui se prend au jeu, l'accompagne. Benson, qui finalement lui trouve bien du charme, espère bien la séduire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1964,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q95002",
+      "slug": "william-holden",
+      "name": "William Holden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42786",
+      "slug": "audrey-hepburn",
+      "name": "Audrey Hepburn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298388",
+      "slug": "noel-coward",
+      "name": "Noël Coward",
+      "role": "actor"
+    },
+    {
+      "qid": "Q162389",
+      "slug": "tony-curtis",
+      "name": "Tony Curtis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965232",
+      "slug": "christian-duvaleix",
+      "name": "Christian Duvaleix",
+      "role": "actor"
+    },
+    {
+      "qid": "Q451754",
+      "slug": "dominique-boschero",
+      "name": "Dominique Boschero",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40912",
+      "slug": "frank-sinatra",
+      "name": "Frank Sinatra",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1551529",
+      "slug": "gregoire-aslan",
+      "name": "Grégoire Aslan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466434",
+      "slug": "henri-garcin",
+      "name": "Henri Garcin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4612",
+      "slug": "marlene-dietrich",
+      "name": "Marlène Dietrich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q333475",
+      "slug": "mel-ferrer",
+      "name": "Mel Ferrer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3310962",
+      "slug": "michel-thomass",
+      "name": "Michel Thomass",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1549201",
+      "slug": "raymond-bussieres",
+      "name": "Raymond Bussières",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3735656",
+      "slug": "evi-marandi",
+      "name": "Evi Marandi",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q919750",
+    "slug": "richard-quine",
+    "name": "Richard Quine",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

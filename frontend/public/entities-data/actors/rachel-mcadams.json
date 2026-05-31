@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "rachel-mcadams",
+  "name": "Rachel McAdams",
+  "worksCount": 1,
+  "description": "actrice canadienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20McAdams%20-%20Walk%20of%20Fame.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-11-17",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q190386",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rachel_McAdams",
+    "imdb": "nm1046097",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "hors-du-temps",
+      "title": "Hors du temps"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

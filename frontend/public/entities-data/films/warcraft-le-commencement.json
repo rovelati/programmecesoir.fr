@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "warcraft-le-commencement",
+  "title": "Warcraft : le commencement",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Warcraft : le commencement"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'aventure",
+    "film et téléfilm d'action"
+  ],
+  "description": "Des forces obscures s'abattent sur le pacifique royaume d'Azeroth. Les Orcs, qui fuient Draenor, leur monde dévasté, veulent prendre possession de ce nouveau territoire. Un mystérieux portail s'ouvre et déverse une armée déchaînée, aidée par de puissants sorciers et prête à tout raser sur son passage...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 123,
+  "cast": [
+    {
+      "qid": "Q201198",
+      "slug": "travis-fimmel",
+      "name": "Travis Fimmel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317761",
+      "slug": "dominic-cooper",
+      "name": "Dominic Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311804",
+      "slug": "ben-foster",
+      "name": "Ben Foster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15725509",
+      "slug": "ben-schnetzer",
+      "name": "Ben Schnetzer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3453629",
+      "slug": "ruth-negga",
+      "name": "Ruth Negga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q551558",
+      "slug": "callum-keith-rennie",
+      "name": "Callum Keith Rennie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q719359",
+      "slug": "toby-kebbell",
+      "name": "Toby Kebbell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3938329",
+      "slug": "robert-kazinsky",
+      "name": "Robert Kazinsky",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4488",
+      "slug": "clancy-brown",
+      "name": "Clancy Brown",
+      "role": "actor"
+    },
+    {
+      "qid": "Q277193",
+      "slug": "daniel-wu",
+      "name": "Daniel Wu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7704857",
+      "slug": "terry-notary",
+      "name": "Terry Notary",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2850505",
+      "slug": "anna-galvin",
+      "name": "Anna Galvin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233213",
+      "slug": "paula-patton",
+      "name": "Paula Patton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5246427",
+      "slug": "dean-redman",
+      "name": "Dean Redman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1016388",
+      "slug": "burkely-duffield",
+      "name": "Burkely Duffield",
+      "role": "actor"
+    },
+    {
+      "qid": "Q553181",
+      "slug": "daniel-cudmore",
+      "name": "Daniel Cudmore",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q552731",
+    "slug": "duncan-jones",
+    "name": "Duncan Jones",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

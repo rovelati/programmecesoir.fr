@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "carlo-brandt",
+  "name": "Carlo Brandt",
+  "worksCount": 2,
+  "description": "acteur suisse",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1954-12-16",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2939159",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Carlo_Brandt",
+    "imdb": "nm0104886",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "indochine",
+      "title": "Indochine"
+    },
+    {
+      "type": "film",
+      "slug": "la-fin-du-silence",
+      "title": "La fin du silence"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c79031-b25c-49b8-8ad2-27e626a56e4d",
+      "title": "Indochine",
+      "programSlug": "indochine",
+      "programUrl": "/programme/cine-classic/indochine",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 18:50:00+00",
+      "endTime": "2026-04-24 21:22:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "115d81d6-4fab-4265-8718-7989181a47e6",
+      "title": "La fin du silence",
+      "programSlug": "la-fin-du-silence",
+      "programUrl": "/programme/action/la-fin-du-silence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 22:54:00+00",
+      "endTime": "2026-04-26 00:13:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-24 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

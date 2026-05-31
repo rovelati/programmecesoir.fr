@@ -1,0 +1,187 @@
+{
+  "type": "film",
+  "slug": "cine-ou-canap",
+  "title": "Ciné ou canap ?",
+  "airingsCount": 12,
+  "sourceTitles": [
+    "Ciné ou canap ?"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Cette émission propose un tour d'horizon de toute l'actualité cinématographique et des nouveautés séries : interviews et mise en avant des dernières sorties.",
+  "descriptionAi": "Cette émission cinéphile offre un tour d'horizon dynamique de l'actualité du grand et du petit écran. Entre critiques, interviews et focus sur les dernières sorties, elle crée une ambiance à la fois informée et conviviale, comme une discussion entre passionnés. Elle se distingue par son regard à la fois expert et accessible, aidant le téléspectateur à faire son choix pour sa prochaine séance, que ce soit en salle ou devant la télévision. Pour ne rien manquer des recommandations de la rédaction, c'est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 9
+    },
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "77d88655-3f18-43af-ac13-ef1d4c189bbb",
+      "title": "Ciné ou canap ?",
+      "programSlug": "cine-ou-canap",
+      "programUrl": "/programme/action/cine-ou-canap",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 18:40:00+00",
+      "endTime": "2026-04-21 18:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4ace1f9c-0316-42cb-a82d-3183a34b4132",
+      "title": "Ciné ou canap ?",
+      "programSlug": "cine-ou-canap",
+      "programUrl": "/programme/rtl9/cine-ou-canap",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-21 21:00:00+00",
+      "endTime": "2026-04-21 21:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "cab196fb-9068-4072-8df7-a86e46d27fd6",
+      "title": "Ciné ou canap ?",
+      "programSlug": "cine-ou-canap",
+      "programUrl": "/programme/rtl9/cine-ou-canap",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-22 04:05:00+00",
+      "endTime": "2026-04-22 04:10:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "69f6f7df-f6cb-44a5-8124-880ff07b9ecf",
+      "title": "Ciné ou canap ?",
+      "programSlug": "cine-ou-canap",
+      "programUrl": "/programme/action/cine-ou-canap",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-22 21:03:00+00",
+      "endTime": "2026-04-22 21:13:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "eef60571-0569-41dc-aca3-34af10f9d59f",
+      "title": "Ciné ou canap ?",
+      "programSlug": "cine-ou-canap",
+      "programUrl": "/programme/action/cine-ou-canap",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 10:31:00+00",
+      "endTime": "2026-04-23 10:41:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "343be2d8-05bf-464b-97bf-f007e2393828",
+      "title": "Ciné ou canap ?",
+      "programSlug": "cine-ou-canap",
+      "programUrl": "/programme/action/cine-ou-canap",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 14:51:00+00",
+      "endTime": "2026-04-23 15:01:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "448c7af5-44a0-4c61-96f5-413af33521a4",
+      "title": "Ciné ou canap ?",
+      "programSlug": "cine-ou-canap",
+      "programUrl": "/programme/action/cine-ou-canap",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 11:46:00+00",
+      "endTime": "2026-04-24 11:56:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "e8f5dc57-8393-477b-b1ed-8cdd86c206e1",
+      "title": "Ciné ou canap ?",
+      "programSlug": "cine-ou-canap",
+      "programUrl": "/programme/action/cine-ou-canap",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 16:53:00+00",
+      "endTime": "2026-04-24 17:03:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "ace99e14-88b9-4e5e-b125-376f955e9bd4",
+      "title": "Ciné ou canap ?",
+      "programSlug": "cine-ou-canap",
+      "programUrl": "/programme/rtl9/cine-ou-canap",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-25 04:00:00+00",
+      "endTime": "2026-04-25 04:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "11f9932c-27f6-4740-b7b3-beb283814607",
+      "title": "Ciné ou canap ?",
+      "programSlug": "cine-ou-canap",
+      "programUrl": "/programme/action/cine-ou-canap",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 14:56:00+00",
+      "endTime": "2026-04-25 15:06:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "3f91570c-333e-47da-9be2-d5ada5136f23",
+      "title": "Ciné ou canap ?",
+      "programSlug": "cine-ou-canap",
+      "programUrl": "/programme/action/cine-ou-canap",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 22:44:00+00",
+      "endTime": "2026-04-25 22:54:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:26:59.038Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 18:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

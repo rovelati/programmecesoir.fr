@@ -1,0 +1,76 @@
+{
+  "type": "actor",
+  "slug": "george-segal",
+  "name": "George Segal",
+  "worksCount": 4,
+  "description": "acteur américain (1934–2021)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Segal%20-%201965.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1934-02-13",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q449900",
+    "wikipedia": "https://fr.wikipedia.org/wiki/George_Segal_(acteur)",
+    "imdb": "nm0001719",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "qui-a-peur-de-virginia-woolf",
+      "title": "Qui a peur de Virginia Woolf ?"
+    },
+    {
+      "type": "film",
+      "slug": "2012",
+      "title": "2012"
+    },
+    {
+      "type": "film",
+      "slug": "loving",
+      "title": "Loving"
+    },
+    {
+      "type": "film",
+      "slug": "prete-a-tout",
+      "title": "Prête à tout"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1cb23026-2c11-4b24-8f46-77cd5e041250",
+      "title": "2012",
+      "programSlug": "2012",
+      "programUrl": "/programme/cine-frisson/2012",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 12:35:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "93015ca0-767e-4247-b731-87a5635aa6fe",
+      "title": "2012",
+      "programSlug": "2012",
+      "programUrl": "/programme/ocs/2012",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 16:17:00+00",
+      "endTime": "2026-04-22 18:50:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 12:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

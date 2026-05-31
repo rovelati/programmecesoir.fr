@@ -1,0 +1,264 @@
+{
+  "type": "series",
+  "slug": "olly",
+  "title": "Olly",
+  "airingsCount": 77,
+  "sourceTitles": [
+    "Olly"
+  ],
+  "genres": [
+    "Série TV",
+    "Série"
+  ],
+  "description": "Olly, un singe espiègle de 3 ans adore se déguiser avec ses amis jouets, Kitty, Dolly et Escargot. Qui sera-t-il aujourd'hui? Un chauffeur de bus? Un docteur? Ou peut-être un danseur?",
+  "descriptionAi": "Cette série d'animation pour enfants suit les aventures quotidiennes d'Olly, un petit singe espiègle et imaginatif de trois ans. Chaque épisode, à travers un jeu de déguisements avec ses fidèles amis jouets, explore un métier ou un rôle différent dans une ambiance douce, colorée et joyeuse. Le jeune téléspectateur est invité à deviner la transformation du jour, ce qui rend le programme interactif et parfait pour stimuler la créativité et la découverte du monde. Une série charmante et éducative, idéale pour un moment de partage en famille, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/babytv.png",
+      "airingsCount": 77
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67cf62ba-6515-4692-9635-f510e8764f8b",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 07:30:00+00",
+      "endTime": "2026-04-19 07:36:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fb1c46a1-2e28-49d0-bc2c-21dba44f9b41",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 10:24:00+00",
+      "endTime": "2026-04-19 10:31:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "09b2a6c5-01a6-47fd-8182-639a69da4db6",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 12:01:00+00",
+      "endTime": "2026-04-19 12:08:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2e7723e4-d17a-419a-937f-28fe580ebf37",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 15:58:00+00",
+      "endTime": "2026-04-19 16:04:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6b9a9ea7-d805-4580-aced-d59af8801943",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 03:31:00+00",
+      "endTime": "2026-04-20 03:38:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3a3a82f7-7e63-4765-807a-743abb11bd0c",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 07:23:00+00",
+      "endTime": "2026-04-20 07:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c6b09796-49e6-459b-92c4-7b0ba149d459",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 10:17:00+00",
+      "endTime": "2026-04-20 10:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d57a7c94-913b-45d3-9b7f-2b572b2e4c21",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 11:58:00+00",
+      "endTime": "2026-04-20 12:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7b1e88a3-6d7a-4030-bae7-f3637356297e",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 15:59:00+00",
+      "endTime": "2026-04-20 16:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "952afcb4-7ff5-4ff9-b876-a78df970b855",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-21 03:32:00+00",
+      "endTime": "2026-04-21 03:38:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "fa732b79-b057-4044-abd8-79f3fe8ddfa0",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-21 07:25:00+00",
+      "endTime": "2026-04-21 07:31:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "349e9432-c58b-4fde-a8b4-f5077def03ba",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-21 10:22:00+00",
+      "endTime": "2026-04-21 10:29:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "22fc18f4-ff19-4777-bd27-b68e79380d87",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-21 12:00:00+00",
+      "endTime": "2026-04-21 12:06:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "443f8e9a-619b-4703-80e1-2e628752b9f5",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-21 15:50:00+00",
+      "endTime": "2026-04-21 15:56:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "fa910c0b-dae8-4041-9faa-1cf71f49cd40",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 07:27:00+00",
+      "endTime": "2026-04-22 07:34:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ea369e7c-44fe-4c00-9c01-4230b064a342",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 10:21:00+00",
+      "endTime": "2026-04-22 10:27:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ebd70cab-ea57-4232-836f-13d233bfe36e",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 11:59:00+00",
+      "endTime": "2026-04-22 12:06:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "3c4f4109-d355-4c40-8da4-7bda3c86eae8",
+      "title": "Olly",
+      "programSlug": "olly",
+      "programUrl": "/programme/babytv/olly",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 15:52:00+00",
+      "endTime": "2026-04-22 15:56:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T22:41:00.483Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 07:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

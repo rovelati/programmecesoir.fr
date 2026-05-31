@@ -1,0 +1,350 @@
+{
+  "type": "series",
+  "slug": "la-stagiaire",
+  "title": "La stagiaire",
+  "airingsCount": 691,
+  "sourceTitles": [
+    "La stagiaire",
+    "La stagiaire - Saison 1",
+    "La stagiaire - Saison 2",
+    "La stagiaire - Saison 3",
+    "La stagiaire - Saison 4"
+  ],
+  "genres": [
+    "Série",
+    "Series",
+    "Série TV",
+    "Séries policières"
+  ],
+  "description": "Margot, 17 ans, jeune espoir de la natation française a été violée dans les douches de son club de natation, quelques semaines avant les sélections pour les Jeux olympiques, et alors que seul David Grimm, son entraîneur, était encore présent au club. Sous le choc, Margot, victime d'une amnésie traumatique, ne se souvient de rien et c'est donc sans pouvoir compter sur elle que le juge Filiponi et Constance vont devoir travailler. Si le coach apparaît comme le suspect idéal, le juge et Constance s'intéressent aussi à Bertrand Lebois, le médecin de l'équipe, surtout lorsqu'ils découvrent que Margot se dopait. Mais le médecin était à Londres au moment des faits. Reste le jeune Diego, au passé trouble et qui fournissait les produits dopants, mais il semble aussi hors de cause...",
+  "descriptionAi": "Cette série policière française, lancée en 2015, plonge le téléspectateur dans une enquête judiciaire intense et psychologique. L'ambiance est tendue et immersive, mêlant les procédures d’instruction à l’intimité troublée des personnages. L’intérêt réside dans la complexité de l’affaire : le viol d’une jeune athlète amnésique, où chaque suspect apparent semble disposer d’un alibi, poussant le juge Filiponi et la greffière Constance à dénouer un écheveau de secrets et de mensonges. La mécanique narrative, pleine de rebondissements, tient en haleine jusqu’au bout. Une intrigue captivante à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 27
+    },
+    {
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv-breizh.png",
+      "airingsCount": 19
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 28
+    },
+    {
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-une.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0fd1dccd-2659-42c1-8449-87bb293a7665",
+      "title": "La stagiaire",
+      "programSlug": "la-stagiaire",
+      "programUrl": "/programme/rts-un/la-stagiaire",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 19:00:00+00",
+      "endTime": "2026-04-24 19:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "a3a1a05f-f8f8-4231-9a8a-811a2cf2135f",
+      "title": "La stagiaire",
+      "programSlug": "la-stagiaire",
+      "programUrl": "/programme/rts-un/la-stagiaire",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 19:50:00+00",
+      "endTime": "2026-04-24 20:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "16aa2bcc-47ce-44bf-a3de-f8a696add457",
+      "title": "La stagiaire - Saison 4",
+      "programSlug": "la-stagiaire-saison-4",
+      "programUrl": "/programme/tv-breizh/la-stagiaire-saison-4",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 18:50:00+00",
+      "endTime": "2026-04-25 19:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "141ce4b0-c974-4eb9-8b19-5281186f561c",
+      "title": "La stagiaire - Saison 4",
+      "programSlug": "la-stagiaire-saison-4",
+      "programUrl": "/programme/tv-breizh/la-stagiaire-saison-4",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 19:55:00+00",
+      "endTime": "2026-04-25 21:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "ba26d622-aa01-49cc-915d-4d38954b3219",
+      "title": "La stagiaire - Saison 3",
+      "programSlug": "la-stagiaire-saison-3",
+      "programUrl": "/programme/tv-breizh/la-stagiaire-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 21:05:00+00",
+      "endTime": "2026-04-25 22:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "08a5effc-1aad-472c-bf82-8b0cff3cc6f5",
+      "title": "La stagiaire - Saison 3",
+      "programSlug": "la-stagiaire-saison-3",
+      "programUrl": "/programme/tv-breizh/la-stagiaire-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 22:05:00+00",
+      "endTime": "2026-04-25 23:05:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "247c4c3c-e1d1-4eb6-aeed-961bed6ef714",
+      "title": "La stagiaire - Saison 3",
+      "programSlug": "la-stagiaire-saison-3",
+      "programUrl": "/programme/tv-breizh/la-stagiaire-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 23:05:00+00",
+      "endTime": "2026-04-26 00:05:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q21715204",
+    "wikipedia": "https://fr.wikipedia.org/wiki/La_Stagiaire",
+    "imdb": "tt4386224",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:02.728Z",
+  "startYear": 2015,
+  "numberOfSeasons": 6,
+  "cast": [
+    {
+      "qid": "Q137795405",
+      "slug": "david-sollazzo",
+      "name": "David Sollazzo",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q2966134",
+    "slug": "christophe-campos",
+    "name": "Christophe Campos",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-24 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

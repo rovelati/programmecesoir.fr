@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "cavalcade",
+  "title": "Cavalcade",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Cavalcade"
+  ],
+  "genres": [
+    "drame",
+    "film et téléfilm de guerre"
+  ],
+  "description": "Marco abandonne sa carrière pour s'occuper de son père malade en Italie. Sa vie est transformée par une rencontre avec une jeune Australienne flamboyante.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1933%20-%20Embassy%20Theater%20Ad%20-%2014%20Apr%20MC%20-%20Allentown%20PA.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1933,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q272091",
+      "slug": "diana-wynyard",
+      "name": "Diana Wynyard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1101883",
+      "slug": "clive-brook",
+      "name": "Clive Brook",
+      "role": "actor"
+    },
+    {
+      "qid": "Q448534",
+      "slug": "una-o-connor",
+      "name": "Una O'Connor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q975153",
+      "slug": "herbert-mundin",
+      "name": "Herbert Mundin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2065508",
+      "slug": "beryl-mercer",
+      "name": "Beryl Mercer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q628009",
+      "slug": "frank-lawton",
+      "name": "Frank Lawton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272061",
+      "slug": "margaret-lindsay",
+      "name": "Margaret Lindsay",
+      "role": "actor"
+    },
+    {
+      "qid": "Q530562",
+      "slug": "billy-bevan",
+      "name": "Billy Bevan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1251872",
+      "slug": "doug-scott",
+      "name": "Doug Scott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271696",
+      "slug": "bonita-granville",
+      "name": "Bonita Granville",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233852",
+      "slug": "betty-grable",
+      "name": "Betty Grable",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5128912",
+      "slug": "claude-king",
+      "name": "Claude King",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15999694",
+      "slug": "douglas-walton",
+      "name": "Douglas Walton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q946000",
+      "slug": "irene-browne",
+      "name": "Irene Browne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6262966",
+      "slug": "john-warburton",
+      "name": "John Warburton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1809184",
+      "slug": "lawrence-grant",
+      "name": "Lawrence Grant",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q28941",
+    "slug": "frank-lloyd",
+    "name": "Frank Lloyd",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

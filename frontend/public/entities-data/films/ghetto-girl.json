@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "ghetto-girl",
+  "title": "Ghetto girl",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Ghetto girl"
+  ],
+  "genres": [
+    "pop"
+  ],
+  "description": "Pour aider sa soeur kleptomane, une jeune femme fait appel à un podcasteur. Mais les intentions de ce dernier ne sont pas aussi louables qu'il le prétend.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 0.85,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2001,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

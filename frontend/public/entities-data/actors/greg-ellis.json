@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "greg-ellis",
+  "name": "Greg Ellis",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-03-21",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q1332872",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jonny_Rees",
+    "imdb": "nm0254862",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "star-trek",
+      "title": "Star Trek"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

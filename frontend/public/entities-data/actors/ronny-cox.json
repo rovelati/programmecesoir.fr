@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "ronny-cox",
+  "name": "Ronny Cox",
+  "worksCount": 2,
+  "description": "acteur, scénariste et producteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ronny%20Cox%202019.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1938-07-23",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q39989",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ronny_Cox",
+    "imdb": "nm0001074",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "american-outlaws",
+      "title": "American Outlaws"
+    },
+    {
+      "type": "film",
+      "slug": "peur-bleue",
+      "title": "Peur bleue"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

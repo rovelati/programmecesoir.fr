@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "le-pharaon-le-sauvage-et-la-princesse",
+  "title": "Le pharaon, le sauvage et la princesse",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le pharaon, le sauvage et la princesse"
+  ],
+  "genres": [
+    "film ou téléfilm pour enfants"
+  ],
+  "description": "Trois contes en trois lieux et époques différents. \"Pharaon !\" : dans l'Egypte antique, un jeune homme tente de devenir pharaon afin de sauver sa dulcinée. Pour cela il traverse de multiples épreuves et cherche l'aide des dieux pour réussir sa mission. - \"Le Beau Sauvage\" : situé au Moyen-Age, en Auvergne, un enfant qui cherche l'amour de son père tyrannique se met à combattre les injustices. Enfin \"La Princesse des roses et le Prince des beignets\" : au XVIIIe siècle, en Turquie, une princesse se retrouve enfermée dans son palais. Malgré ses déboires, elle tombe amoureuse d'un personnage haut en couleur, un pâtissier créateur de beignets...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 83,
+  "cast": [],
+  "director": {
+    "qid": "Q1364283",
+    "slug": "michel-ocelot",
+    "name": "Michel Ocelot",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

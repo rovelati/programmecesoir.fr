@@ -1,0 +1,139 @@
+{
+  "type": "film",
+  "slug": "la-famille-pierrafeu",
+  "title": "La famille Pierrafeu",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La famille Pierrafeu"
+  ],
+  "genres": [
+    "comédie",
+    "buddy movie",
+    "film et téléfilm de fantasy",
+    "film live / animé"
+  ],
+  "description": "L'âge de pierre a bien des charmes dans ce petit village préhistorique où les hommes taillent gaiement de beaux silex. Les Flintstone et les Rubble sont les meilleurs amis du monde. Jamais ils n'hésitent à se rendre service. Les Flintstone donnent toutes leurs économies de cailloux taillés pour permettre aux Rubble d'adopter un enfant. Jamais en reste, les Rubble font cadeau à Fred Flintstone d'une pierre peinte, qui lui permet de gagner un concours et de devenir le bras droit de son patron. Brave homme, mais un peu simple, Fred prend alors des décisions qui mécontentent et humilient les Rubble, sans se douter qu'il sert d'instrument aux sombres machinations de son capitaliste de patron...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "channelNumber": 18,
+      "logoUrl": "/loghi/gulli.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1994,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q215072",
+      "slug": "john-goodman",
+      "name": "John Goodman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q336282",
+      "slug": "rick-moranis",
+      "name": "Rick Moranis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232047",
+      "slug": "elizabeth-perkins",
+      "name": "Elizabeth Perkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272929",
+      "slug": "rosie-o-donnell",
+      "name": "Rosie O'Donnell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207506",
+      "slug": "kyle-maclachlan",
+      "name": "Kyle MacLachlan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1033016",
+      "slug": "halle-berry",
+      "name": "Halle Berry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q34851",
+      "slug": "elizabeth-taylor",
+      "name": "Elizabeth Taylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q938416",
+      "slug": "dann-florek",
+      "name": "Dann Florek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q717656",
+      "slug": "harvey-korman",
+      "name": "Harvey Korman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q981647",
+      "slug": "richard-moll",
+      "name": "Richard Moll",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457180",
+      "slug": "sheryl-lee-ralph",
+      "name": "Sheryl Lee Ralph",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4538",
+      "slug": "jonathan-winters",
+      "name": "Jonathan Winters",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6075068",
+      "slug": "irwin-keyes",
+      "name": "Irwin Keyes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3174968",
+      "slug": "jean-vander-pyl",
+      "name": "Jean Vander Pyl",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q912547",
+    "slug": "brian-levant",
+    "name": "Brian Levant",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

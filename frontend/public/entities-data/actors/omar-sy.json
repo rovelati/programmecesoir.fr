@@ -1,0 +1,82 @@
+{
+  "type": "actor",
+  "slug": "omar-sy",
+  "name": "Omar Sy",
+  "worksCount": 3,
+  "description": "acteur, humoriste et comedien français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Omar%20Sy%20avp%20Samba%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-01-20",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q357387",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Omar_Sy",
+    "imdb": "nm1082477",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "intouchables",
+      "title": "Intouchables"
+    },
+    {
+      "type": "film",
+      "slug": "inferno",
+      "title": "Inferno"
+    },
+    {
+      "type": "film",
+      "slug": "la-tour-montparnasse-infernale",
+      "title": "La Tour Montparnasse infernale"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "09e748f9-347d-43a5-8185-6ad0da211e4a",
+      "title": "Intouchables",
+      "programSlug": "intouchables",
+      "programUrl": "/programme/rts-un/intouchables",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 19:05:00+00",
+      "endTime": "2026-04-19 21:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5bba922d-b832-4409-8340-7750dec16143",
+      "title": "La Tour Montparnasse infernale",
+      "programSlug": "la-tour-montparnasse-infernale",
+      "programUrl": "/programme/canal-grand-ecran/la-tour-montparnasse-infernale",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 04:56:00+00",
+      "endTime": "2026-04-22 06:27:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "fc6ae759-c337-4ce4-aa71-3128376c953e",
+      "title": "La Tour Montparnasse infernale",
+      "programSlug": "la-tour-montparnasse-infernale",
+      "programUrl": "/programme/canal-grand-ecran/la-tour-montparnasse-infernale",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-26 04:20:00+00",
+      "endTime": "2026-04-26 05:50:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 19:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

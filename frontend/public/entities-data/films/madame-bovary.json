@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "madame-bovary",
+  "title": "Madame Bovary",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Madame Bovary"
+  ],
+  "genres": [
+    "drame",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "L'éducation d'Emma, fille d'un riche éleveur de porcs, a été laissée, dès son plus jeune âge à l'institution catholique. Quand la jeune femme fait la connaissance de Charles Bovary, un médecin de province, elle voit en lui un espoir de quitter enfin son environnement familial. Le mariage a bientôt lieu, mais Emma s'ennuie vite dans cette nouvelle existence plutôt morne. C'est alors qu'elle rencontre monsieur Lheureux, un personnage charmant qui capte très vite son attention...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jennifer%20Jones%20in%20Madame%20Bovary%20trailer.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1949,
+  "durationMinutes": 106,
+  "cast": [
+    {
+      "qid": "Q189895",
+      "slug": "jennifer-jones",
+      "name": "Jennifer Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q209186",
+      "slug": "james-mason",
+      "name": "James Mason",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350678",
+      "slug": "van-heflin",
+      "name": "Van Heflin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q364083",
+      "slug": "louis-jourdan",
+      "name": "Louis Jourdan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q518995",
+      "slug": "alf-kjellin",
+      "name": "Alf Kjellin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1370701",
+      "slug": "gene-lockhart",
+      "name": "Gene Lockhart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235299",
+      "slug": "gladys-cooper",
+      "name": "Gladys Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q503911",
+      "slug": "john-abbott",
+      "name": "John Abbott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q368794",
+      "slug": "ellen-corby",
+      "name": "Ellen Corby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q710538",
+      "slug": "charles-bickford",
+      "name": "Charles Bickford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3047626",
+      "slug": "edith-evanson",
+      "name": "Edith Evanson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q281048",
+      "slug": "eduard-franz",
+      "name": "Eduard Franz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1508673",
+      "slug": "george-zucco",
+      "name": "George Zucco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23615571",
+      "slug": "henri-letondal",
+      "name": "Henri Letondal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6669605",
+      "slug": "lon-poff",
+      "name": "Lon Poff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3045703",
+      "slug": "paul-cavanagh",
+      "name": "Paul Cavanagh",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51535",
+    "slug": "vincente-minnelli",
+    "name": "Vincente Minnelli",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

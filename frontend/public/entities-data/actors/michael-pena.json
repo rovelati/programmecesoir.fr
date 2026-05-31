@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "michael-pena",
+  "name": "Michael Peña",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Actor%20Michael%20Pena.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-01-13",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q359488",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michael_Pe%C3%B1a",
+    "imdb": "nm0671567",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "fury",
+      "title": "Fury"
+    },
+    {
+      "type": "film",
+      "slug": "gangster-squad",
+      "title": "Gangster Squad"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

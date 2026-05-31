@@ -1,0 +1,160 @@
+{
+  "type": "film",
+  "slug": "materialists",
+  "title": "Materialists",
+  "airingsCount": 11,
+  "sourceTitles": [
+    "Materialists"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Lucy est une jeune et ambitieuse \"matchmakeuse\" new-yorkaise qui offre ses services à des clients fortunés en quête d'amour. Si professionnellement, elle compte déjà neuf mariages à son actif, sa vie amoureuse n'est pas reluisante. Elle pense avoir trouvé le \"match\" parfait en rencontrant Harry, un beau et riche homme d'affaires. Mais c'est alors que son chemin recroise celui de John, son ex-petit ami serveur. Ce dernier, un homme tout sauf idéal, est toujours amoureux d'elle. Lucy se retrouve prise au piège dans un triangle amoureux complexe. Ce dilemme affecte son activité professionnelle…",
+  "descriptionAi": "Cette comédie romantique new-yorkaise, au ton vif et à l'ambiance chic, explore avec humour et finesse les conflits entre raison et sentiments, ambition et authenticité. Le film captive par son triangle amoureux intelligent, où les choix de l'héroïne, une \"matchmakeuse\" professionnelle, remettent en question ses propres critères en matière d'amour. Le scénario évite les clichés pour offrir une réflexion moderne et piquante sur les véritables fondements d'une relation. Une histoire de cœur pleine d'esprit, portée par des personnages attachants et des dialogues incisifs, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bd370cfa-06d3-42d9-8af2-8c36a03540cd",
+      "title": "Materialists",
+      "programSlug": "materialists",
+      "programUrl": "/programme/canal-cinema/materialists",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-19 15:28:00+00",
+      "endTime": "2026-04-19 17:22:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b0bd80a2-552c-475e-8892-a3aabb75f48f",
+      "title": "Materialists",
+      "programSlug": "materialists",
+      "programUrl": "/programme/paramount-channel/materialists",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-19 15:30:00+00",
+      "endTime": "2026-04-19 17:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fc9d3c69-1693-47bb-9134-9b373cb6ea70",
+      "title": "Materialists",
+      "programSlug": "materialists",
+      "programUrl": "/programme/canal/materialists",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-20 06:18:00+00",
+      "endTime": "2026-04-20 08:11:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b89a6895-848b-44fc-b091-55d9489c2899",
+      "title": "Materialists",
+      "programSlug": "materialists",
+      "programUrl": "/programme/canal-cinema/materialists",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 22:34:00+00",
+      "endTime": "2026-04-23 00:27:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "f14af2a6-e387-47bf-b6b0-f69c31820313",
+      "title": "Materialists",
+      "programSlug": "materialists",
+      "programUrl": "/programme/paramount-channel/materialists",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-22 22:35:00+00",
+      "endTime": "2026-04-23 00:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "73cb239c-0223-4b2d-8554-bd6381ac5f1f",
+      "title": "Materialists",
+      "programSlug": "materialists",
+      "programUrl": "/programme/canal-box-office/materialists",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 21:30:00+00",
+      "endTime": "2026-04-24 23:23:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "2ee7ee55-5c19-49a2-9010-7871d76ec4fc",
+      "title": "Materialists",
+      "programSlug": "materialists",
+      "programUrl": "/programme/canal-cinema/materialists",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-25 06:19:00+00",
+      "endTime": "2026-04-25 08:12:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "20888d4f-a37b-4550-abbc-5076fce6d78a",
+      "title": "Materialists",
+      "programSlug": "materialists",
+      "programUrl": "/programme/paramount-channel/materialists",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-25 06:20:00+00",
+      "endTime": "2026-04-25 08:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q135263749",
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:27:06.206Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 15:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

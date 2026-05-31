@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "clementine-celarie",
+  "name": "Clémentine Célarié",
+  "worksCount": 2,
+  "description": "actrice, chanteuse et écrivaine française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cl%C3%A9mentine%20C%C3%A9lari%C3%A9%20Cannes.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1957-10-12",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q511848",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Cl%C3%A9mentine_C%C3%A9lari%C3%A9",
+    "imdb": "nm0194662",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "37-2-le-matin",
+      "title": "37°2 le matin"
+    },
+    {
+      "type": "film",
+      "slug": "amour-turbulences",
+      "title": "Amour & Turbulences"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "77c52286-0702-4684-9920-123f5d7e7be8",
+      "title": "Amour & Turbulences",
+      "programSlug": "amour-turbulences",
+      "programUrl": "/programme/carac-1-hd/amour-turbulences",
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "startTime": "2026-04-20 21:15:00+00",
+      "endTime": "2026-04-20 22:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ff31e0ed-dd74-4d0a-b230-1f276cc231cc",
+      "title": "37°2 le matin",
+      "programSlug": "37-2-le-matin",
+      "programUrl": "/programme/cine-festival/37-2-le-matin",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 09:04:00+00",
+      "endTime": "2026-04-23 11:03:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 21:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

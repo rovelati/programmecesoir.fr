@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "anne-marivin",
+  "name": "Anne Marivin",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": "Anne Marivin incarne avec justesse des rôles variés, passant de la comédie légère à des personnages plus profonds. Son jeu naturel et sa présence à l'écran captent immédiatement l'attention. Elle évolue souvent dans des ambiances mêlant authenticité et émotion, que ce soit dans des drames intimistes ou des comédies de la vie quotidienne. Ce qui la rend particulièrement intéressante, c'est sa capacité à rendre ses personnages profondément humains et attachants, invitant le téléspectateur à partager leurs joies et leurs doutes. Une actrice dont on suit la carrière avec un plaisir renouvelé, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Marivin%20Cabourg%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1974-01-23",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q466991",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anne_Marivin",
+    "imdb": "nm0548156",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "ne-le-dis-a-personne",
+      "title": "Ne le dis à personne"
+    },
+    {
+      "type": "film",
+      "slug": "raid-dingue",
+      "title": "Raid dingue"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "eb2c22a7-1329-4ada-813e-3b0fb032b7e4",
+      "title": "Ne le dis à personne",
+      "programSlug": "ne-le-dis-a-personne",
+      "programUrl": "/programme/ocs/ne-le-dis-a-personne",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-24 16:41:00+00",
+      "endTime": "2026-04-24 18:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f584d2b5-fdf2-4137-a111-543e238f4162",
+      "title": "Ne le dis à personne",
+      "programSlug": "ne-le-dis-a-personne",
+      "programUrl": "/programme/ocs/ne-le-dis-a-personne",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 10:20:00+00",
+      "endTime": "2026-04-25 12:29:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:43.319Z",
+  "nextAiringAt": "2026-04-24 16:41:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

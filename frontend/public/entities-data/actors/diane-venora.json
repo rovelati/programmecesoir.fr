@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "diane-venora",
+  "name": "Diane Venora",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1952-08-10",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q162554",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Diane_Venora",
+    "imdb": "nm0893204",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bird",
+      "title": "Bird"
+    },
+    {
+      "type": "film",
+      "slug": "heat",
+      "title": "Heat"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "41779283-1599-4f1f-8099-47d9faec15bf",
+      "title": "Bird",
+      "programSlug": "bird",
+      "programUrl": "/programme/cine-festival/bird",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 14:32:00+00",
+      "endTime": "2026-04-23 16:29:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-23 14:32:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

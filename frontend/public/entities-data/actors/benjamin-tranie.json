@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "benjamin-tranie",
+  "name": "Benjamin Tranié",
+  "worksCount": 2,
+  "description": "humoriste français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1989-02-21",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q107048945",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Benjamin_Trani%C3%A9",
+    "imdb": "nm8384526",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "nous-les-leroy",
+      "title": "Nous, les Leroy"
+    },
+    {
+      "type": "series",
+      "slug": "aspergirl",
+      "title": "Aspergirl"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

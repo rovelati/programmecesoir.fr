@@ -1,0 +1,63 @@
+{
+  "type": "actor",
+  "slug": "sylvie-testud",
+  "name": "Sylvie Testud",
+  "worksCount": 4,
+  "description": "comédienne, romancière et réalisatrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sylvie%20Testud%202012%20La%20vie%20d'une%20autre.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-01-17",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q242526",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sylvie_Testud",
+    "imdb": "nm0856500",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jour-j",
+      "title": "Jour J"
+    },
+    {
+      "type": "film",
+      "slug": "cocorico",
+      "title": "Cocorico"
+    },
+    {
+      "type": "film",
+      "slug": "l-heritage",
+      "title": "L'héritage"
+    },
+    {
+      "type": "film",
+      "slug": "l-ordre-et-la-morale",
+      "title": "L'ordre et la morale"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "806ee63c-6367-40d8-94df-286a05d82842",
+      "title": "Cocorico",
+      "programSlug": "cocorico",
+      "programUrl": "/programme/m6/cocorico",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-23 21:00:00+00",
+      "endTime": "2026-04-23 22:45:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 21:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

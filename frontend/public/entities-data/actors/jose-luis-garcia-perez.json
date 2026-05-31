@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jose-luis-garcia-perez",
+  "name": "José Luis García Pérez",
+  "worksCount": 2,
+  "description": "acteur espagnol",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-09-01",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3186366",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jos%C3%A9_Luis_Garc%C3%ADa_P%C3%A9rez",
+    "imdb": "nm0305825",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "buried",
+      "title": "Buried"
+    },
+    {
+      "type": "series",
+      "slug": "la-moderna",
+      "title": "La Moderna"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

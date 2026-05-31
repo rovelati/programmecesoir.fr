@@ -1,0 +1,50 @@
+{
+  "type": "actor",
+  "slug": "ralph-macchio",
+  "name": "Ralph Macchio",
+  "worksCount": 4,
+  "description": "acteur et cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ralph%20Macchio%2001%20(9514696578).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1961-11-04",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q73346",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ralph_Macchio_(acteur)",
+    "imdb": "nm0001494",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "karate-kid-ii",
+      "title": "Karaté Kid II"
+    },
+    {
+      "type": "film",
+      "slug": "karate-kid-iii",
+      "title": "Karaté Kid III"
+    },
+    {
+      "type": "film",
+      "slug": "karate-kid-le-moment-de-verite",
+      "title": "Karaté Kid, le moment de vérité"
+    },
+    {
+      "type": "film",
+      "slug": "outsiders",
+      "title": "Outsiders"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

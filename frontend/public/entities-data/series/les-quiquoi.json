@@ -1,0 +1,241 @@
+{
+  "type": "series",
+  "slug": "les-quiquoi",
+  "title": "Les QuiQuoi",
+  "airingsCount": 252,
+  "sourceTitles": [
+    "Les Quiquoi",
+    "Les QuiQuoi"
+  ],
+  "genres": [
+    "Série",
+    "Série TV",
+    "Séries d'animation"
+  ],
+  "description": "La sortie de classe, c'est tous les ans la même chose. Si seulement pour changer, ils allaient sur la lune ! Olive dessine une fusée et les voilà partis. Sur la lune, c'est très ennuyeux : il n'y a rien, à part un musée. Celui-ci est spécial, il est tenu par un extraterrestre antipathique. Vite il faut trouver une solution pour s'échapper !",
+  "descriptionAi": "Cette série d'animation suit les aventures d'un groupe d'enfants ingénieux. L'ambiance est ludique et poétique, mêlant l'imaginaire pur de l'enfance à des défis insolites. Son intérêt réside dans sa capacité à transformer une situation banale – la sortie d'école – en un voyage interplanétaire plein d'humour et de créativité, où les héros doivent user de leur débrouillardise face à un gardien de musée lunaire plutôt revêche. Une invitation à rêver et à résoudre des énigmes avec légèreté, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 18
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 10
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T22:06:26.589Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

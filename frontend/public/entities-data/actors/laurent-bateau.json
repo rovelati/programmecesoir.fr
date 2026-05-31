@@ -1,0 +1,107 @@
+{
+  "type": "actor",
+  "slug": "laurent-bateau",
+  "name": "Laurent Bateau",
+  "worksCount": 3,
+  "description": "acteur",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laurent%20Bateau%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "2000-01-01",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3219022",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Laurent_Bateau",
+    "imdb": "nm0060780",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-vie-devant-moi",
+      "title": "La vie devant moi"
+    },
+    {
+      "type": "film",
+      "slug": "c-est-magnifique",
+      "title": "C'est magnifique !"
+    },
+    {
+      "type": "film",
+      "slug": "radiostars",
+      "title": "Radiostars"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d4cf3297-7f66-4a48-bfa5-72c0d269094d",
+      "title": "La Vie devant moi",
+      "programSlug": "la-vie-devant-moi",
+      "programUrl": "/programme/canal-cinema/la-vie-devant-moi",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 06:49:00+00",
+      "endTime": "2026-04-20 08:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ef487d35-c943-4d92-84f9-d581820c1443",
+      "title": "La vie devant moi",
+      "programSlug": "la-vie-devant-moi",
+      "programUrl": "/programme/paramount-channel/la-vie-devant-moi",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-20 06:50:00+00",
+      "endTime": "2026-04-20 08:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f7cee21b-9787-4fb4-9cf0-ee09695438ea",
+      "title": "Radiostars",
+      "programSlug": "radiostars",
+      "programUrl": "/programme/cine-family/radiostars",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 13:09:00+00",
+      "endTime": "2026-04-21 14:48:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "734b309a-8d56-4280-9b1e-70071564232a",
+      "title": "La Vie devant moi",
+      "programSlug": "la-vie-devant-moi",
+      "programUrl": "/programme/canal/la-vie-devant-moi",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-23 02:01:00+00",
+      "endTime": "2026-04-23 03:33:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "802c8a21-4d7d-443f-96a4-ecc0b6efcd97",
+      "title": "La Vie devant moi",
+      "programSlug": "la-vie-devant-moi",
+      "programUrl": "/programme/canal-box-office/la-vie-devant-moi",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 23:40:00+00",
+      "endTime": "2026-04-26 01:10:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-20 06:49:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

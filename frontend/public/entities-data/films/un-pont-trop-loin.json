@@ -1,0 +1,164 @@
+{
+  "type": "film",
+  "slug": "un-pont-trop-loin",
+  "title": "Un pont trop loin",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Un pont trop loin"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film et téléfilm de guerre",
+    "film basé sur des livres",
+    "drame"
+  ],
+  "description": "Le dimanche 17 septembre 1944 marque le commencement de l'opération \"Market Garden\". Ce plan a pour but de porter un coup décisif à l'armée allemande et de précipiter la chute du IIIe Reich. Le général américain Patton désapprouve le projet, conçu par le général britannique Montgomery, en charge de l'opération, et lui fait part de ses réserves. Nullement ébranlé par ces critiques, Montgomery met son plan à exécution. Il envoie des milliers de parachutistes en Hollande du Nord afin qu'ils s'emparent des six principaux ponts sur le Rhin, allant de la Belgique au pont d'Arnhem. Proies faciles pour la DCA, de nombreux soldats sont abattus...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shooting%20of%20a%20scene%20from%20A%20bridge%20too%20far.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "58a2888e-4f9d-4d4f-ae16-b609caf29b50",
+      "title": "Un pont trop loin",
+      "programSlug": "un-pont-trop-loin",
+      "programUrl": "/programme/cine-classic/un-pont-trop-loin",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-20 15:04:00+00",
+      "endTime": "2026-04-20 17:54:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1977,
+  "durationMinutes": 168,
+  "cast": [
+    {
+      "qid": "Q299190",
+      "slug": "dirk-bogarde",
+      "name": "Dirk Bogarde",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95043",
+      "slug": "james-caan",
+      "name": "James Caan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123351",
+      "slug": "michael-caine",
+      "name": "Michael Caine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212416",
+      "slug": "michael-byrne",
+      "name": "Michael Byrne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4573",
+      "slug": "sean-connery",
+      "name": "Sean Connery",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309980",
+      "slug": "edward-fox",
+      "name": "Edward Fox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55245",
+      "slug": "laurence-olivier",
+      "name": "Laurence Olivier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314805",
+      "slug": "elliott-gould",
+      "name": "Elliott Gould",
+      "role": "actor"
+    },
+    {
+      "qid": "Q150943",
+      "slug": "gene-hackman",
+      "name": "Gene Hackman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65932",
+      "slug": "anthony-hopkins",
+      "name": "Anthony Hopkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272923",
+      "slug": "ryan-o-neal",
+      "name": "Ryan O'Neal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q59215",
+      "slug": "robert-redford",
+      "name": "Robert Redford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q68654",
+      "slug": "wolfgang-preiss",
+      "name": "Wolfgang Preiss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q153018",
+      "slug": "maximilian-schell",
+      "name": "Maximilian Schell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q191064",
+      "slug": "liv-ullmann",
+      "name": "Liv Ullmann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q77342",
+      "slug": "hardy-kruger",
+      "name": "Hardy Krüger",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51506",
+    "slug": "richard-attenborough",
+    "name": "Richard Attenborough",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 15:04:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

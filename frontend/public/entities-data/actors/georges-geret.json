@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "georges-geret",
+  "name": "Georges Géret",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GeorgesGeret-1956-Harcourt.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1924-10-18",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q1508941",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Georges_G%C3%A9ret",
+    "imdb": "nm0350196",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mata-hari-agent-h21",
+      "title": "Mata Hari, agent H21"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

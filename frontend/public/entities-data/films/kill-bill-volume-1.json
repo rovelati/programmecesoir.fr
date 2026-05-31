@@ -1,0 +1,161 @@
+{
+  "type": "film",
+  "slug": "kill-bill-volume-1",
+  "title": "Kill Bill Volume 1",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Kill Bill Volume 1"
+  ],
+  "genres": [
+    "thriller d'action",
+    "girls with guns",
+    "film d'arts martiaux",
+    "Wu xia pian",
+    "film de vigilante",
+    "chanbara",
+    "film ou téléfilm criminel",
+    "film et téléfilm d'action",
+    "thriller",
+    "film policier dramatique",
+    "thriller policier",
+    "drame",
+    "film ou téléfilm gore",
+    "néo-noir"
+  ],
+  "description": "Dans le désert, une ancienne tueuse à gages s'apprête à convoler. Mais Bill, l'ancien chef de la belle, ne l'entend pas de cette oreille. Aussi envoie-t-il ses hommes pour massacrer son ancienne recrue et son entourage. Cinq ans après, la mariée, enfin sortie du coma, est bien décidée à se venger...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Killbill-vol1-logo.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2003,
+  "durationMinutes": 111,
+  "cast": [
+    {
+      "qid": "Q125017",
+      "slug": "uma-thurman",
+      "name": "Uma Thurman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188375",
+      "slug": "lucy-liu",
+      "name": "Lucy Liu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220396",
+      "slug": "vivica-a-fox",
+      "name": "Vivica A. Fox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207596",
+      "slug": "daryl-hannah",
+      "name": "Daryl Hannah",
+      "role": "actor"
+    },
+    {
+      "qid": "Q187038",
+      "slug": "q187038",
+      "name": "Q187038",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220584",
+      "slug": "michael-madsen",
+      "name": "Michael Madsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q263178",
+      "slug": "julie-dreyfus",
+      "name": "Julie Dreyfus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234094",
+      "slug": "chiaki-kuriyama",
+      "name": "Chiaki Kuriyama",
+      "role": "actor"
+    },
+    {
+      "qid": "Q351732",
+      "slug": "sonny-chiba",
+      "name": "Sonny Chiba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1071583",
+      "slug": "gordon-liu-chia-hui",
+      "name": "Gordon Liu Chia-hui",
+      "role": "actor"
+    },
+    {
+      "qid": "Q525318",
+      "slug": "michael-parks",
+      "name": "Michael Parks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q604762",
+      "slug": "michael-bowen",
+      "name": "Michael Bowen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q736403",
+      "slug": "kenji-oba",
+      "name": "Kenji Ōba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3811114",
+      "slug": "julie-manase",
+      "name": "Julie Manase",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3945174",
+      "slug": "sakichi-sato",
+      "name": "Sakichi Satō",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2075598",
+      "slug": "jonathan-loughran",
+      "name": "Jonathan Loughran",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3772",
+    "slug": "quentin-tarantino",
+    "name": "Quentin Tarantino",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

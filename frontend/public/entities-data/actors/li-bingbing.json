@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "li-bingbing",
+  "name": "Li Bingbing",
+  "worksCount": 2,
+  "description": "actrice et chanteuse chinoise",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Li%20Bingbing%20Cannes%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-02-27",
+  "nationality": "République populaire de Chine",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q254166",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Li_Bingbing",
+    "imdb": "nm0508356",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "en-eaux-trouble",
+      "title": "En eaux trouble"
+    },
+    {
+      "type": "film",
+      "slug": "en-eaux-troubles",
+      "title": "En eaux troubles"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

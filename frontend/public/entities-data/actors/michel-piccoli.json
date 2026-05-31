@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "michel-piccoli",
+  "name": "Michel Piccoli",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Piccoli%20Cannes.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1925-12-27",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q295257",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michel_Piccoli",
+    "imdb": "nm0681566",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-doulos",
+      "title": "Le doulos"
+    },
+    {
+      "type": "film",
+      "slug": "marie-antoinette-reine-de-france",
+      "title": "Marie-Antoinette reine de France"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

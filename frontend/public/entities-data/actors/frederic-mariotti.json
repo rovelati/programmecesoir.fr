@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "frederic-mariotti",
+  "name": "Frédéric Mariotti",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1883-04-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3090010",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Mariotti",
+    "imdb": "nm0548025",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "gueule-d-amour",
+      "title": "Gueule d'amour"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

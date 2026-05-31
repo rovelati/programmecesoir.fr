@@ -1,0 +1,125 @@
+{
+  "type": "film",
+  "slug": "hors-de-prix",
+  "title": "Hors de prix",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Hors de prix"
+  ],
+  "genres": [
+    "comédie romantique",
+    "comédie"
+  ],
+  "description": "Jean est serveur dans un grand hôtel de Biarritz, où il s'use à jouer également l'homme à tout faire. A la suite d'un quiproquo, il passe la nuit avec une cliente, Irène, la maîtresse vénale d'un vieux beau alcoolique, Jacques. Un an plus tard, les mêmes circonstances les réunissent. Cette fois-ci, Jacques n'est pas dupe. Irène, brutalement quittée, dépourvue de toutes ressources, croit toujours que Jean est richissime. Elle doit déchanter. La voici qui bat le pavé à Nice, à la recherche d'un nouveau pigeon. Très amoureux, Jean la suit. Irène commence à le regarder d'un autre oeil lorsqu'à son tour il devient l'amant d'une millionnaire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q318991",
+      "slug": "gad-elmaleh",
+      "name": "Gad Elmaleh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q304123",
+      "slug": "audrey-tautou",
+      "name": "Audrey Tautou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2724026",
+      "slug": "marie-christine-adam",
+      "name": "Marie-Christine Adam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q205868",
+      "slug": "vernon-dobtcheff",
+      "name": "Vernon Dobtcheff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851463",
+      "slug": "annelise-hesme",
+      "name": "Annelise Hesme",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2906106",
+      "slug": "blandine-pelissier",
+      "name": "Blandine Pélissier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3026941",
+      "slug": "didier-brice",
+      "name": "Didier Brice",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3120218",
+      "slug": "guillaume-verdier",
+      "name": "Guillaume Verdier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1678111",
+      "slug": "jacques-spiesser",
+      "name": "Jacques Spiesser",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3168059",
+      "slug": "jean-michel-lahmi",
+      "name": "Jean-Michel Lahmi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17176312",
+      "slug": "laurent-claret",
+      "name": "Laurent Claret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16185231",
+      "slug": "laurent-mouton",
+      "name": "Laurent Mouton",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2071173",
+    "slug": "pierre-salvadori",
+    "name": "Pierre Salvadori",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

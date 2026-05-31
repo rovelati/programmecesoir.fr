@@ -1,0 +1,72 @@
+{
+  "type": "film",
+  "slug": "les-schtroumpfs-le-film",
+  "title": "Les Schtroumpfs : Le film",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les Schtroumpfs : Le film"
+  ],
+  "genres": [
+    "Cinema",
+    "Film d'animation"
+  ],
+  "description": "Lorsque le Grand Schtroumpf est kidnappé par les vilains sorciers Gargamel et Razamel, la Schtroumpfette et son meilleur ami, le Schtroumpf Sans-Nom, partent en mission pour le retrouver. Commence alors une aventure délirante dans le monde réel où les petits héros bleus vont croiser la route de nouveaux amis...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2ae6216f-552e-4739-8835-3a9b676927b5",
+      "title": "Les Schtroumpfs : Le film",
+      "programSlug": "les-schtroumpfs-le-film",
+      "programUrl": "/programme/canal-box-office/les-schtroumpfs-le-film",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 17:32:00+00",
+      "endTime": "2026-04-20 19:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "cd8964b5-ec34-4997-add3-011e474c87ae",
+      "title": "Les Schtroumpfs : Le film",
+      "programSlug": "les-schtroumpfs-le-film",
+      "programUrl": "/programme/canal/les-schtroumpfs-le-film",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-26 05:52:00+00",
+      "endTime": "2026-04-26 07:19:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 17:32:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

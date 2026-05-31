@@ -1,0 +1,244 @@
+{
+  "type": "series",
+  "slug": "merlin",
+  "title": "Merlin",
+  "airingsCount": 24,
+  "sourceTitles": [
+    "Merlin",
+    "Merlin - Saison 4",
+    "Merlin - Saison 5"
+  ],
+  "genres": [
+    "série télévisée de fantasy",
+    "série télévisée d'aventures",
+    "série télévisée dramatique"
+  ],
+  "description": "Arthur célèbre ses fiançailles avec la belle princesse Mithian de Nemeth. Cette union doit permettre, en scellant leurs deux destins, de réunir leurs pays. De son côté, Morgane forme une nouvelle alliance. Elle s'associe avec le puissant chef de guerre Hélios dans le but d'envahir Camelot, et Agravain leur fournit les plans des entrées secrètes du château. Leur stratégie semble imparable. Mais Guenièvre, captive d'Hélios, découvre le complot et parvient à s'enfuir pour donner l'alerte. Arthur peine à croire en la trahison de son oncle. Toujours amoureux de Guenièvre, il doit prendre de graves décisions pour tenter de redresser la situation...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab1.png",
+      "airingsCount": 24
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8cec7225-26e9-4833-b251-f63062297e9c",
+      "title": "Merlin",
+      "programSlug": "merlin",
+      "programUrl": "/programme/ab1/merlin",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 18:55:00+00",
+      "endTime": "2026-04-19 19:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "343f8b6f-991f-43e8-ad8e-909dcd57144c",
+      "title": "Merlin",
+      "programSlug": "merlin",
+      "programUrl": "/programme/ab1/merlin",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 19:45:00+00",
+      "endTime": "2026-04-19 20:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1497b0cd-0ffc-4615-a8c7-8884f4c981f5",
+      "title": "Merlin",
+      "programSlug": "merlin",
+      "programUrl": "/programme/ab1/merlin",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 20:35:00+00",
+      "endTime": "2026-04-19 21:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5b80ab33-372b-48a0-ab3c-e5e24ce1a2ef",
+      "title": "Merlin",
+      "programSlug": "merlin",
+      "programUrl": "/programme/ab1/merlin",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 21:25:00+00",
+      "endTime": "2026-04-19 22:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "92a3f54d-71dc-4a47-b5bf-51dbfd83df7c",
+      "title": "Merlin - Saison 5",
+      "programSlug": "merlin-saison-5",
+      "programUrl": "/programme/ab1/merlin-saison-5",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 07:30:00+00",
+      "endTime": "2026-04-25 08:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "e0a3e9f7-03a4-4e63-8c5d-bb1b839de3c3",
+      "title": "Merlin - Saison 5",
+      "programSlug": "merlin-saison-5",
+      "programUrl": "/programme/ab1/merlin-saison-5",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 08:15:00+00",
+      "endTime": "2026-04-25 09:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "39857007-eed7-4884-bef8-a66832d70b4e",
+      "title": "Merlin - Saison 5",
+      "programSlug": "merlin-saison-5",
+      "programUrl": "/programme/ab1/merlin-saison-5",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 09:05:00+00",
+      "endTime": "2026-04-25 09:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "d9a13cd5-cb2e-4686-bd46-65232101d2d8",
+      "title": "Merlin - Saison 5",
+      "programSlug": "merlin-saison-5",
+      "programUrl": "/programme/ab1/merlin-saison-5",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 09:50:00+00",
+      "endTime": "2026-04-25 10:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2008,
+  "numberOfSeasons": 5,
+  "cast": [
+    {
+      "qid": "Q313657",
+      "slug": "colin-morgan",
+      "name": "Colin Morgan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q362224",
+      "slug": "bradley-james",
+      "name": "Bradley James",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254911",
+      "slug": "angel-coulby",
+      "name": "Angel Coulby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q253440",
+      "slug": "katie-mcgrath",
+      "name": "Katie McGrath",
+      "role": "actor"
+    },
+    {
+      "qid": "Q516671",
+      "slug": "richard-wilson",
+      "name": "Richard Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208746",
+      "slug": "nathaniel-parker",
+      "name": "Nathaniel Parker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q342962",
+      "slug": "anthony-head",
+      "name": "Anthony Head",
+      "role": "actor"
+    },
+    {
+      "qid": "Q200405",
+      "slug": "john-hurt",
+      "name": "John Hurt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q352021",
+      "slug": "santiago-cabrera",
+      "name": "Santiago Cabrera",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312524",
+      "slug": "asa-butterfield",
+      "name": "Asa Butterfield",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3610807",
+      "slug": "alexander-vlahos",
+      "name": "Alexander Vlahos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q263743",
+      "slug": "holliday-grainger",
+      "name": "Holliday Grainger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233707",
+      "slug": "michelle-ryan",
+      "name": "Michelle Ryan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311165",
+      "slug": "alexander-siddig",
+      "name": "Alexander Siddig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6829553",
+      "slug": "michael-cronin",
+      "name": "Michael Cronin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3453284",
+      "slug": "rupert-young",
+      "name": "Rupert Young",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 18:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

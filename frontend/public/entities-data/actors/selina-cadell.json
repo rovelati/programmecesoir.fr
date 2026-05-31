@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "selina-cadell",
+  "name": "Selina Cadell",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-08-12",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q195452",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Selina_Cadell",
+    "imdb": "nm0128135",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "doc-martin",
+      "title": "Doc Martin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4f3e20a8-3217-4670-9c39-6e4972ba3d2c",
+      "title": "Doc Martin",
+      "programSlug": "doc-martin",
+      "programUrl": "/programme/la-trois/doc-martin",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-23 11:26:00+00",
+      "endTime": "2026-04-23 12:12:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "af645cb9-bc36-4ef3-b3cc-a4be764f7dc4",
+      "title": "Doc Martin",
+      "programSlug": "doc-martin",
+      "programUrl": "/programme/la-trois/doc-martin",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-23 12:12:00+00",
+      "endTime": "2026-04-23 13:02:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 11:26:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

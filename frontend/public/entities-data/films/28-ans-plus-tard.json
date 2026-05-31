@@ -1,0 +1,145 @@
+{
+  "type": "film",
+  "slug": "28-ans-plus-tard",
+  "title": "28 Ans plus tard",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "28 Ans plus tard"
+  ],
+  "genres": [
+    "film ou téléfilm post-apocalyptique",
+    "film et téléfilm d'horreur",
+    "film de zombies",
+    "thriller",
+    "film d'horreur de science-fiction",
+    "film ou téléfilm de science-fiction",
+    "film dystopique"
+  ],
+  "description": "Cela fait près de trente ans que le redoutable virus de la fureur s'est échappé d'un laboratoire d'armement biologique. Alors qu'un confinement strict a été mis en place, certains ont trouvé le moyen de survivre parmi les personnes infectées. C'est ainsi qu'une communauté de rescapés s'est réfugiée sur une petite île reliée au continent par une route, placée sous haute surveillance. Jamie, un des habitants de l'île, et Spike, son fils de 12 ans, sont envoyés en mission sur le continent, où ils découvrent que non seulement les infectés ont muté, mais que d'autres survivants aussi, dans un contexte à la fois mystérieux et terrifiant…",
+  "descriptionAi": "Vingt-huit ans après l'épidémie initiale, ce film post-apocalyptique plonge le spectateur dans une ambiance de tension permanente et de désolation. Le récit suit Jamie et son fils Spike, contraints de retourner sur un continent dévasté, où les règles de survie ont une nouvelle fois basculé. L'intérêt réside dans l'évolution terrifiante de la menace : les infectés ont muté, mais les survivants aussi, ajoutant une couche de complexité psychologique et de danger imprévisible à ce thriller dystopique. Une suite angoissante qui explore les limites de l'humanité en temps d'effondrement, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "98e736c3-6592-4db0-9993-a70900b867ea",
+      "title": "28 Ans plus tard",
+      "programSlug": "28-ans-plus-tard",
+      "programUrl": "/programme/canal/28-ans-plus-tard",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 21:14:00+00",
+      "endTime": "2026-04-25 23:06:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:23:29.832Z",
+  "year": 2025,
+  "durationMinutes": 115,
+  "cast": [
+    {
+      "qid": "Q134983684",
+      "slug": "alfie-williams",
+      "name": "Alfie Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16567346",
+      "slug": "jodie-comer",
+      "name": "Jodie Comer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q45923",
+      "slug": "aaron-taylor-johnson",
+      "name": "Aaron Taylor-Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28493",
+      "slug": "ralph-fiennes",
+      "name": "Ralph Fiennes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q348066",
+      "slug": "jack-o-connell",
+      "name": "Jack O'Connell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q54349360",
+      "slug": "erin-kellyman",
+      "name": "Erin Kellyman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16633391",
+      "slug": "edvin-ryding",
+      "name": "Edvin Ryding",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108883717",
+      "slug": "emma-laird",
+      "name": "Emma Laird",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5112369",
+      "slug": "christopher-fulford",
+      "name": "Christopher Fulford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q462069",
+      "slug": "stella-gonet",
+      "name": "Stella Gonet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q134083287",
+      "slug": "rocco-haynes",
+      "name": "Rocco Haynes",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q134867",
+    "slug": "danny-boyle",
+    "name": "Danny Boyle",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 21:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

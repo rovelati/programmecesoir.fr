@@ -1,0 +1,163 @@
+{
+  "type": "film",
+  "slug": "le-petit-nicolas",
+  "title": "Le petit Nicolas",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le petit Nicolas"
+  ],
+  "genres": [
+    "film ou téléfilm pour enfants",
+    "comédie",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "Nicolas grandit heureux, entouré de ses parents qui l'aiment et d'une bande de copains. Tout se passe pour le mieux jusqu'à ce qu'il surprenne une conversation entre ses parents, lui laissant croire que sa mère est enceinte. Persuadé qu'il va être abandonné, Nicolas tente alors de se rendre indispensable...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fe63be11-7825-458c-9bcb-73d22b6422fa",
+      "title": "Le petit Nicolas",
+      "programSlug": "le-petit-nicolas",
+      "programUrl": "/programme/canal-grand-ecran/le-petit-nicolas",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 17:35:00+00",
+      "endTime": "2026-04-20 19:04:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q259940",
+      "slug": "valerie-lemercier",
+      "name": "Valérie Lemercier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q983159",
+      "slug": "kad-merad",
+      "name": "Kad Merad",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262822",
+      "slug": "sandrine-kiberlain",
+      "name": "Sandrine Kiberlain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449240",
+      "slug": "anemone",
+      "name": "Anémone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3032296",
+      "slug": "maxime-godart",
+      "name": "Maxime Godart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830250",
+      "slug": "alain-sachs",
+      "name": "Alain Sachs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3008989",
+      "slug": "cyril-couton",
+      "name": "Cyril Couton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q965873",
+      "slug": "daniel-prevost",
+      "name": "Daniel Prévost",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1031692",
+      "slug": "eric-berger",
+      "name": "Éric Berger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q164976",
+      "slug": "francois-damiens",
+      "name": "François Damiens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1450857",
+      "slug": "francois-xavier-demaison",
+      "name": "François-Xavier Demaison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3086407",
+      "slug": "francoise-bertin",
+      "name": "Françoise Bertin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q728158",
+      "slug": "gerard-jugnot",
+      "name": "Gérard Jugnot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3168059",
+      "slug": "jean-michel-lahmi",
+      "name": "Jean-Michel Lahmi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269873",
+      "slug": "louise-bourgoin",
+      "name": "Louise Bourgoin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3292384",
+      "slug": "marie-berto",
+      "name": "Marie Berto",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3219542",
+    "slug": "laurent-tirard",
+    "name": "Laurent Tirard",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 17:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

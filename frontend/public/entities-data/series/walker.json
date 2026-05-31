@@ -1,0 +1,235 @@
+{
+  "type": "series",
+  "slug": "walker",
+  "title": "Walker",
+  "airingsCount": 30,
+  "sourceTitles": [
+    "Walker",
+    "Walker - Saison 1",
+    "Walker - Saison 3"
+  ],
+  "genres": [
+    "série d'action",
+    "enquête policière",
+    "série télévisée dramatique"
+  ],
+  "description": "Après deux ans d'absence, Walker a bien du mal à recréer du lien avec ses enfants qui, entretemps, se sont attachés à leur oncle Liam. Le capitaine James l'informe qu'il doit obtenir une nouvelle certification pour poursuivre son travail. Quant à Micki, elle mène l'enquête sur un incendie d'origine suspecte...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "channelNumber": null,
+      "logoUrl": "/loghi/serie-club.png",
+      "airingsCount": 23
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67a09bc8-e547-4cd6-af8d-fec50f0dd694",
+      "title": "Walker",
+      "programSlug": "walker",
+      "programUrl": "/programme/serie-club/walker",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 19:00:00+00",
+      "endTime": "2026-04-19 19:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2bd6c26e-0af1-476a-83eb-14333c423dc1",
+      "title": "Walker",
+      "programSlug": "walker",
+      "programUrl": "/programme/serie-club/walker",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 19:45:00+00",
+      "endTime": "2026-04-19 20:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "522f4e42-a737-4169-846b-180a91d96a4f",
+      "title": "Walker - Saison 1",
+      "programSlug": "walker-saison-1",
+      "programUrl": "/programme/serie-club/walker-saison-1",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-23 19:00:00+00",
+      "endTime": "2026-04-23 19:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "098ecf43-13b6-4a23-8625-654a6b5b62c7",
+      "title": "Walker - Saison 1",
+      "programSlug": "walker-saison-1",
+      "programUrl": "/programme/serie-club/walker-saison-1",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-23 19:45:00+00",
+      "endTime": "2026-04-23 20:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "14b66fa9-1a69-4a33-806e-bbd8d2f60dc1",
+      "title": "Walker",
+      "programSlug": "walker",
+      "programUrl": "/programme/plug-rtl/walker",
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "startTime": "2026-04-23 19:55:00+00",
+      "endTime": "2026-04-23 20:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "b7230b7a-bbae-4194-b580-9239d248fc5d",
+      "title": "Walker - Saison 1",
+      "programSlug": "walker-saison-1",
+      "programUrl": "/programme/serie-club/walker-saison-1",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-23 20:30:00+00",
+      "endTime": "2026-04-23 21:10:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "8884e99b-62ad-4cd0-9a37-fa17ec78619a",
+      "title": "Walker - Saison 1",
+      "programSlug": "walker-saison-1",
+      "programUrl": "/programme/serie-club/walker-saison-1",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-25 15:50:00+00",
+      "endTime": "2026-04-25 16:35:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "e4912562-8509-4feb-80bb-026ae8f6ea1e",
+      "title": "Walker - Saison 1",
+      "programSlug": "walker-saison-1",
+      "programUrl": "/programme/serie-club/walker-saison-1",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-25 16:35:00+00",
+      "endTime": "2026-04-25 17:20:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "2de1db2d-1e76-422e-b6c9-7a9a8d3f105f",
+      "title": "Walker - Saison 1",
+      "programSlug": "walker-saison-1",
+      "programUrl": "/programme/serie-club/walker-saison-1",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-25 17:20:00+00",
+      "endTime": "2026-04-25 18:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f5be5e0e-4a56-45ec-8b75-8d333241a3f6",
+      "title": "Walker - Saison 1",
+      "programSlug": "walker-saison-1",
+      "programUrl": "/programme/serie-club/walker-saison-1",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-25 18:05:00+00",
+      "endTime": "2026-04-25 19:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2021,
+  "numberOfSeasons": 4,
+  "cast": [
+    {
+      "qid": "Q215757",
+      "slug": "jared-padalecki",
+      "name": "Jared Padalecki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16335035",
+      "slug": "lindsey-morgan",
+      "name": "Lindsey Morgan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1358888",
+      "slug": "keegan-allen",
+      "name": "Keegan Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q279169",
+      "slug": "mitch-pileggi",
+      "name": "Mitch Pileggi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q370817",
+      "slug": "molly-hagan",
+      "name": "Molly Hagan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1104885",
+      "slug": "coby-bell",
+      "name": "Coby Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231614",
+      "slug": "odette-annable",
+      "name": "Odette Annable",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q6187572",
+    "slug": "jessica-yu",
+    "name": "Jessica Yu",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

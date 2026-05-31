@@ -1,0 +1,68 @@
+{
+  "type": "film",
+  "slug": "une-question-d-equilibre",
+  "title": "Une question d'équilibre",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Une question d'équilibre"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Depuis la mort de son père dans son enfance, Simon a perdu l'équilibre. Son plus grand rêve est de devenir facteur, mais malheureusement il ne sait pas faire de vélo. Un beau jour, il se fait percuter par Rose. Cette rencontre va-t-elle lui permettre de réaliser son rêve ?...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "72dd8030-3418-42a2-b79b-ed50e4d210b5",
+      "title": "Une question d'équilibre",
+      "programSlug": "une-question-d-equilibre",
+      "programUrl": "/programme/cine-emotion/une-question-d-equilibre",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-22 03:54:00+00",
+      "endTime": "2026-04-22 04:10:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-22 03:54:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

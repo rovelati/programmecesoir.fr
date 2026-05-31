@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "jane-adams",
+  "name": "Jane Adams",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-04-01",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q436360",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jane_Adams_(actrice%2C_1965)",
+    "imdb": "nm0011038",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jesse-stone",
+      "title": "Jesse Stone"
+    },
+    {
+      "type": "film",
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "title": "Eternal Sunshine of the Spotless Mind"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0cdbad4-3041-4bec-b28c-8f9aac1db096",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "programSlug": "eternal-sunshine-of-the-spotless-mind",
+      "programUrl": "/programme/cine-emotion/eternal-sunshine-of-the-spotless-mind",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 13:29:00+00",
+      "endTime": "2026-04-20 15:16:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-20 13:29:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

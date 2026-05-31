@@ -1,0 +1,128 @@
+{
+  "type": "series",
+  "slug": "monk",
+  "title": "Monk",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Monk - Saison 4",
+    "Monk - Saison 5"
+  ],
+  "genres": [
+    "enquête policière",
+    "fiction de détective",
+    "comédie dramatique"
+  ],
+  "description": "Monk et Natalie, qui sont à court d'argent, décident de rechercher le célèbre diamant d'Alexandre qui a été volé. Ils découvrent que le vol était un coup monté de l'intérieur et qu'un des voleurs se cachait dans un bureau à cylindre. Ils trouvent un indice liant le voleur à une retraite vouée à la méditation. Monk et Natalie se rendent à la retraite mais découvrent que le voleur est mort...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d862e1a4-552e-48d9-9c23-47c5470a23db",
+      "title": "Monk - Saison 5",
+      "programSlug": "monk-saison-5",
+      "programUrl": "/programme/rts-un/monk-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-25 14:25:00+00",
+      "endTime": "2026-04-25 15:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2002,
+  "numberOfSeasons": 8,
+  "cast": [
+    {
+      "qid": "Q107249",
+      "slug": "tony-shalhoub",
+      "name": "Tony Shalhoub",
+      "role": "actor"
+    },
+    {
+      "qid": "Q93530",
+      "slug": "bitty-schram",
+      "name": "Bitty Schram",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235534",
+      "slug": "traylor-howard",
+      "name": "Traylor Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q918321",
+      "slug": "jason-gray-stanford",
+      "name": "Jason Gray-Stanford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q433520",
+      "slug": "ted-levine",
+      "name": "Ted Levine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1390865",
+      "slug": "stanley-kamel",
+      "name": "Stanley Kamel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q268929",
+      "slug": "emmy-clarke",
+      "name": "Emmy Clarke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269901",
+      "slug": "melora-hardin",
+      "name": "Melora Hardin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3162786",
+      "slug": "jarrad-paul",
+      "name": "Jarrad Paul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q365721",
+      "slug": "tim-bagley",
+      "name": "Tim Bagley",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q525458",
+    "slug": "andy-breckman",
+    "name": "Andy Breckman",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-25 14:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

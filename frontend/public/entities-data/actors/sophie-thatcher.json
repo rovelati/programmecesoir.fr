@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "sophie-thatcher",
+  "name": "Sophie Thatcher",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Thatcher%20at%20Sun%20Valley.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "2000-10-18",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q61996880",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sophie_Thatcher",
+    "imdb": "nm7393303",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "companion",
+      "title": "Companion"
+    },
+    {
+      "type": "film",
+      "slug": "heretic",
+      "title": "Heretic"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "type": "film",
+  "slug": "le-mystere-de-batwoman",
+  "title": "Le mystère de Batwoman",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le mystère de Batwoman"
+  ],
+  "genres": [
+    "Téléfilm"
+  ],
+  "description": "Un nouveau justicier masqué exerce sa dangereuse profession dans le ciel de Gotham. Nul ne connaît son identité, et pas davantage Batman, qui aimerait savoir qui se cache sous le masque de cette Batwoman. Batman, il est vrai, a d'autres soucis. Ses vieux ennemis, le Pingouin et Rupert Thorne, se sont lancés dans un trafic d'armes illégal avec un Etat voyou, le Kasnia. Ils se sont en outre assurés la protection d'un redoutable gangster, Carlton Duquesne. Manifestement, Batwoman est également lancée sur leur piste et, dans sa hâte de conclure, ne s'embarrasse pas outre mesure de considérations humanistes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

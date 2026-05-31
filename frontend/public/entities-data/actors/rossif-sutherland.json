@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "rossif-sutherland",
+  "name": "Rossif Sutherland",
+  "worksCount": 2,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rossif%20Sutherland%20(Berlin%20Film%20Festival%202009).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-09-25",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3442834",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rossif_Sutherland",
+    "imdb": "nm1160472",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "prisonniers-du-temps",
+      "title": "Prisonniers du temps"
+    },
+    {
+      "type": "series",
+      "slug": "crossing-lines",
+      "title": "Crossing Lines"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

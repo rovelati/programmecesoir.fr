@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "rodrigo-santoro",
+  "name": "Rodrigo Santoro",
+  "worksCount": 2,
+  "description": "acteur brésilien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodrigo%20Santoro%20WE%202012%20Shankbone%203.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-08-22",
+  "nationality": "Brésil",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q294819",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rodrigo_Santoro",
+    "imdb": "nm0763928",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "300",
+      "title": "300"
+    },
+    {
+      "type": "film",
+      "slug": "diversion",
+      "title": "Diversion"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b2f75e9-9ef5-4493-8888-98692afcdd02",
+      "title": "Diversion",
+      "programSlug": "diversion",
+      "programUrl": "/programme/warnertv/diversion",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-23 07:30:00+00",
+      "endTime": "2026-04-23 09:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 07:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

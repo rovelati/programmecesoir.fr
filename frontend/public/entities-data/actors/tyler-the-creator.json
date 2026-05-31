@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "tyler-the-creator",
+  "name": "Tyler, the Creator",
+  "worksCount": 1,
+  "description": "rappeur et producteur de disques américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tyler%2C%20The%20Creator%20(8048745695)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1991-03-06",
+  "nationality": "États-Unis",
+  "jobTitle": "rappeur ou rappeuse",
+  "externalIds": {
+    "wikidata": "Q167635",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tyler%2C_The_Creator",
+    "imdb": "nm4360094",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "loiter-squad",
+      "title": "Loiter Squad"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

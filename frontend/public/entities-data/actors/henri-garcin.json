@@ -1,0 +1,83 @@
+{
+  "type": "actor",
+  "slug": "henri-garcin",
+  "name": "Henri Garcin",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HenriGarcin-StudioHarcourt-1956.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1928-04-11",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q466434",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Henri_Garcin",
+    "imdb": "nm0305488",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mata-hari-agent-h21",
+      "title": "Mata Hari, agent H21"
+    },
+    {
+      "type": "film",
+      "slug": "un-conde",
+      "title": "Un condé"
+    },
+    {
+      "type": "film",
+      "slug": "deux-tetes-folles",
+      "title": "Deux têtes folles"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e7577f15-187d-442a-9fe6-3e4557da66c0",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 01:20:00+00",
+      "endTime": "2026-04-21 02:56:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b18e748c-8759-4810-9790-ad4a85548430",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 02:18:00+00",
+      "endTime": "2026-04-23 03:54:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "da185f85-581d-4027-a52f-6e4ce26093eb",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 02:21:00+00",
+      "endTime": "2026-04-25 03:57:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-21 01:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

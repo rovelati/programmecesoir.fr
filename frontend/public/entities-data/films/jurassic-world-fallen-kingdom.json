@@ -1,0 +1,54 @@
+{
+  "type": "film",
+  "slug": "jurassic-world-fallen-kingdom",
+  "title": "Jurassic World : Fallen Kingdom",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Jurassic World : Fallen Kingdom"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Après leur évasion de Jurassic World, les dinosaures survivants vivent sans surveillance sur Isla Nublar. Quand une éruption volcanique menace de les exterminer, une opération de sauvetage est organisée avec à sa tête Owen et Claire. Le couple s'aperçoit vite qu'il a été manipulé par un homme d'affaires...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "channelNumber": 10,
+      "logoUrl": "/loghi/tmc.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rts-deux",
+      "channelName": "RTS Deux",
+      "channelSlug": "rts-deux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-deux.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

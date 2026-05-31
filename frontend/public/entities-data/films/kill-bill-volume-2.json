@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "kill-bill-volume-2",
+  "title": "Kill Bill Volume 2",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Kill Bill Volume 2"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "girls with guns",
+    "film d'arts martiaux",
+    "thriller d'action",
+    "film à suspense",
+    "drame",
+    "thriller policier",
+    "film policier dramatique",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Après s'être débarrassée de Vernita Green et O-Ren Ishii, la Mariée poursuit sa vengeance. Il lui reste à éliminer Budd et Elle avant de pouvoir s'attaquer au chef des Vipères assassines : Bill. Avertis de l'imminence de sa venue, les anciens collègues de la Mariée se préparent à l'affronter...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Killbill-vol2-logo.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": 138,
+  "cast": [
+    {
+      "qid": "Q125017",
+      "slug": "uma-thurman",
+      "name": "Uma Thurman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q187038",
+      "slug": "q187038",
+      "name": "Q187038",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188375",
+      "slug": "lucy-liu",
+      "name": "Lucy Liu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220396",
+      "slug": "vivica-a-fox",
+      "name": "Vivica A. Fox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220584",
+      "slug": "michael-madsen",
+      "name": "Michael Madsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207596",
+      "slug": "daryl-hannah",
+      "name": "Daryl Hannah",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1071583",
+      "slug": "gordon-liu-chia-hui",
+      "name": "Gordon Liu Chia-hui",
+      "role": "actor"
+    },
+    {
+      "qid": "Q525318",
+      "slug": "michael-parks",
+      "name": "Michael Parks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q172678",
+      "slug": "samuel-l-jackson",
+      "name": "Samuel L. Jackson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1193457",
+      "slug": "perla-haney-jardine",
+      "name": "Perla Haney-Jardine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q636212",
+      "slug": "bo-svenson",
+      "name": "Bo Svenson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q593071",
+      "slug": "larry-bishop",
+      "name": "Larry Bishop",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1964369",
+      "slug": "laura-cayouette",
+      "name": "Laura Cayouette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1026018",
+      "slug": "caitlin-keats",
+      "name": "Caitlin Keats",
+      "role": "actor"
+    },
+    {
+      "qid": "Q263178",
+      "slug": "julie-dreyfus",
+      "name": "Julie Dreyfus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q248915",
+      "slug": "michael-jai-white",
+      "name": "Michael Jai White",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3772",
+    "slug": "quentin-tarantino",
+    "name": "Quentin Tarantino",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

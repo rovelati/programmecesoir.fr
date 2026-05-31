@@ -1,0 +1,370 @@
+{
+  "type": "series",
+  "slug": "doc",
+  "title": "Doc",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Doc",
+    "Doc - Saison 1"
+  ],
+  "genres": [
+    "série télévisée de science-fiction",
+    "série d'action",
+    "fiction de voyage dans le temps",
+    "série télévisée d'aventures",
+    "série télévisée dramatique"
+  ],
+  "description": "Nourdine, un commerçant, perd connaissance dans sa boucherie. Andrea propose à sa fille de dîner avec lui. Caroline accepte. Nourdine arrive à l'hôpital et l'équipe le prend en charge. Mais Gabriel reste silencieux durant le diagnostic différentiel. Elisa et Riccardo s'occupent de Mathilde, une jeune lieutenante dans l'armée de l'air, qui souffre de fatigue et de difficultés respiratoires. Avec l'accord d'Enrico, Andrea propose à Agnès une thérapie familiale pour aider Caroline. Mathilde finit par avouer à ses médecins qu'elle fait des crises de panique. Ils l'encouragent à en parler à ses supérieurs, mais elle refuse et les menace de les attaquer s'ils le font...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab1.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2dc2ef50-ddd4-4e3a-b693-44f11aaec05f",
+      "title": "Doc",
+      "programSlug": "doc",
+      "programUrl": "/programme/ab1/doc",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 06:15:00+00",
+      "endTime": "2026-04-19 07:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e96a5623-08f1-48ed-aab3-11b067232ec5",
+      "title": "Doc",
+      "programSlug": "doc",
+      "programUrl": "/programme/ab1/doc",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 07:15:00+00",
+      "endTime": "2026-04-19 08:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4e357185-317e-4b75-bdde-f054c25592ec",
+      "title": "Doc",
+      "programSlug": "doc",
+      "programUrl": "/programme/ab1/doc",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 08:20:00+00",
+      "endTime": "2026-04-19 09:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d190a7cb-2f1c-4656-9655-f03d5ba1f63b",
+      "title": "Doc",
+      "programSlug": "doc",
+      "programUrl": "/programme/ab1/doc",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 09:20:00+00",
+      "endTime": "2026-04-19 10:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4841313b-ff15-4423-a72e-2b8871559cf7",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 06:40:00+00",
+      "endTime": "2026-04-20 07:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4250ac81-8120-4a62-aeaa-55f703cda1bd",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 07:35:00+00",
+      "endTime": "2026-04-20 08:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "61f3272a-df4f-4e6c-8c34-68c32d21e560",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 08:30:00+00",
+      "endTime": "2026-04-20 09:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ab2e4f48-ba8a-41b2-9b0d-131791b3ff61",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-21 06:35:00+00",
+      "endTime": "2026-04-21 07:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4ffa5592-605a-4ebe-8e55-46f08f520eb6",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-21 07:35:00+00",
+      "endTime": "2026-04-21 08:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "52898ac3-0f81-4698-b805-4c96e0b0219d",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-21 08:35:00+00",
+      "endTime": "2026-04-21 09:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4422dc61-5cc6-49bc-afca-7052abd38183",
+      "title": "Doc - Saison 2",
+      "programSlug": "doc-saison-2",
+      "programUrl": "/programme/ab1/doc-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 18:55:00+00",
+      "endTime": "2026-04-21 20:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c9f5502c-efdb-4d0c-be11-b9611d317a3f",
+      "title": "Doc - Saison 2",
+      "programSlug": "doc-saison-2",
+      "programUrl": "/programme/ab1/doc-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 20:00:00+00",
+      "endTime": "2026-04-21 21:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "f4e2bfcb-96a1-4903-9b36-cf8031e4fe20",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/ab1/doc-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 21:05:00+00",
+      "endTime": "2026-04-21 22:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "88a447d6-22b4-4ff4-a20f-83ab2b0a6b89",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/ab1/doc-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 22:05:00+00",
+      "endTime": "2026-04-21 23:05:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "849fff47-a294-45f9-8645-f4b49518f028",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-22 06:35:00+00",
+      "endTime": "2026-04-22 07:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "eb881858-05d5-46ff-8c20-4fc05f108ebd",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-22 07:35:00+00",
+      "endTime": "2026-04-22 08:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "64d7b0a7-167b-441a-a10c-64802dcace2d",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-22 08:35:00+00",
+      "endTime": "2026-04-22 09:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a001586a-4855-4e27-8218-b3b39fb111d4",
+      "title": "Doc - Saison 1",
+      "programSlug": "doc-saison-1",
+      "programUrl": "/programme/rtl9/doc-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-23 06:40:00+00",
+      "endTime": "2026-04-23 07:40:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1963,
+  "numberOfSeasons": 26,
+  "cast": [
+    {
+      "qid": "Q455551",
+      "slug": "sylvester-mccoy",
+      "name": "Sylvester McCoy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7410764",
+      "slug": "samuel-anderson",
+      "name": "Samuel Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23903083",
+      "slug": "pearl-mackie",
+      "name": "Pearl Mackie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q544165",
+      "slug": "penelope-wilton",
+      "name": "Penelope Wilton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273403",
+      "slug": "jenna-louise-coleman",
+      "name": "Jenna-Louise Coleman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232187",
+      "slug": "alex-kingston",
+      "name": "Alex Kingston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125942",
+      "slug": "arthur-darvill",
+      "name": "Arthur Darvill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231237",
+      "slug": "karen-gillan",
+      "name": "Karen Gillan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24632",
+      "slug": "john-barrowman",
+      "name": "John Barrowman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254766",
+      "slug": "catherine-tate",
+      "name": "Catherine Tate",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234430",
+      "slug": "freema-agyeman",
+      "name": "Freema Agyeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q665139",
+      "slug": "noel-clarke",
+      "name": "Noel Clarke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q151113",
+      "slug": "billie-piper",
+      "name": "Billie Piper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234539",
+      "slug": "elisabeth-sladen",
+      "name": "Elisabeth Sladen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460245",
+      "slug": "kate-o-mara",
+      "name": "Kate O'Mara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q467601",
+      "slug": "jon-pertwee",
+      "name": "Jon Pertwee",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q736114",
+    "slug": "donald-wilson",
+    "name": "Donald Wilson",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 06:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

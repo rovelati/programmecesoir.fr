@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "miranda-otto",
+  "name": "Miranda Otto",
+  "worksCount": 3,
+  "description": "actrice australienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Miranda%20Otto%20by%20Gage%20Skidmore.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-12-16",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q294975",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Miranda_Otto",
+    "imdb": "nm0001584",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-seigneur-des-anneaux-le-retour-du-roi",
+      "title": "Le seigneur des anneaux : le retour du roi"
+    },
+    {
+      "type": "film",
+      "slug": "le-seigneur-des-anneaux-les-deux-tours",
+      "title": "Le seigneur des anneaux : les deux tours"
+    },
+    {
+      "type": "film",
+      "slug": "la-guerre-des-mondes",
+      "title": "La guerre des mondes"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "61b0d032-79dc-4391-a0b3-586261790573",
+      "title": "Le seigneur des anneaux : les deux tours",
+      "programSlug": "le-seigneur-des-anneaux-les-deux-tours",
+      "programUrl": "/programme/ocs/le-seigneur-des-anneaux-les-deux-tours",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 18:50:00+00",
+      "endTime": "2026-04-20 21:45:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

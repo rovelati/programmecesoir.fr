@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "anne-brochet",
+  "name": "Anne Brochet",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Brochet%20Cannes.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-11-22",
+  "nationality": "France",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q276249",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anne_Brochet",
+    "imdb": "nm0110507",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-gazelles",
+      "title": "Les gazelles"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

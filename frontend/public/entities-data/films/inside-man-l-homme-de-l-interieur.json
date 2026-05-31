@@ -1,0 +1,159 @@
+{
+  "type": "film",
+  "slug": "inside-man-l-homme-de-l-interieur",
+  "title": "Inside Man, l'homme de l'intérieur",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Inside Man, l'homme de l'intérieur"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film ou téléfilm de casse",
+    "drame",
+    "thriller"
+  ],
+  "description": "Dalton Russell n'a peur de rien et encore moins de prendre en otages les clients d'une banque de Manhattan, le tout en plein jour. Ce voleur de génie s'introduit avec ses complices dans une agence bancaire contrôlée par le puissant Arthur Case. Tous sont déguisés en peintres et exigent des otages qu'ils en fassent autant. Les inspecteurs Frazier et Mitchell sont sur l'affaire, aux côtés du capitaine Darius. La négociation est ardue. Pourquoi Arthur Case fait-il appel à la mystérieuse Madeline White pour servir de médiatrice avec les malfaiteurs ? Ne fait-il pas confiance à la police ? Frazier et Mitchell sont confrontés à des adversaires à leur taille...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 129,
+  "cast": [
+    {
+      "qid": "Q42101",
+      "slug": "denzel-washington",
+      "name": "Denzel Washington",
+      "role": "actor"
+    },
+    {
+      "qid": "Q183178",
+      "slug": "clive-owen",
+      "name": "Clive Owen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41351",
+      "slug": "jodie-foster",
+      "name": "Jodie Foster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q190523",
+      "slug": "christopher-plummer",
+      "name": "Christopher Plummer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188772",
+      "slug": "willem-dafoe",
+      "name": "Willem Dafoe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317343",
+      "slug": "chiwetel-ejiofor",
+      "name": "Chiwetel Ejiofor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q435790",
+      "slug": "kim-director",
+      "name": "Kim Director",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2899062",
+      "slug": "bernie-rachelle",
+      "name": "Bernie Rachelle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2941203",
+      "slug": "cassandra-freeman",
+      "name": "Cassandra Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18385091",
+      "slug": "dominic-carter",
+      "name": "Dominic Carter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082654",
+      "slug": "frank-hopf",
+      "name": "Frank Hopf",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44273",
+      "slug": "james-ransone",
+      "name": "James Ransone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3807417",
+      "slug": "jason-manuel-olazabal",
+      "name": "Jason Manuel Olazabal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312051",
+      "slug": "ken-leung",
+      "name": "Ken Leung",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3241922",
+      "slug": "lionel-pina",
+      "name": "Lionel Pina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q923485",
+      "slug": "peter-gerety",
+      "name": "Peter Gerety",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51566",
+    "slug": "spike-lee",
+    "name": "Spike Lee",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

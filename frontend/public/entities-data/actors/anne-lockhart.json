@@ -1,0 +1,190 @@
+{
+  "type": "actor",
+  "slug": "anne-lockhart",
+  "name": "Anne Lockhart",
+  "worksCount": 3,
+  "description": "actrice américaine",
+  "descriptionAi": "Anne Lockhart incarne le genre dramatique avec une touche de science-fiction, évoluant dans des ambiances tantôt futuristes, tantôt intimistes. Fille de l'iconique June Lockhart, elle a su forger sa propre carrière, notamment en prêtant sa voix à des personnages marquants de séries animées cultes. Son parcours éclectique, entre apparitions télévisuelles et doublage, révèle une actrice polyvalente et passionnée. Pour le téléspectateur, son intérêt réside dans cette capacité à habiter des rôles variés, souvent empreints de force et de sensibilité, créant un pont unique entre les univers de l'image et du son. Une filmographie à découvrir absolument à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-09-06",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q461742",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anne_Lockhart",
+    "imdb": "nm0516860",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "buried",
+      "title": "Buried"
+    },
+    {
+      "type": "series",
+      "slug": "chicago-fire",
+      "title": "Chicago Fire"
+    },
+    {
+      "type": "series",
+      "slug": "supercopter",
+      "title": "Supercopter"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "feca0dff-5d6a-4276-9cf3-0ee40e67c923",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 09:55:00+00",
+      "endTime": "2026-04-20 10:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bc0798c7-0ee9-40e1-865e-bd51130d7765",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 10:40:00+00",
+      "endTime": "2026-04-20 11:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f5991375-35af-46be-9ece-15ff0f014bff",
+      "title": "Supercopter - Saison 2",
+      "programSlug": "supercopter-saison-2",
+      "programUrl": "/programme/paris-premiere/supercopter-saison-2",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 14:35:00+00",
+      "endTime": "2026-04-20 15:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f6623ce7-6981-4364-94c9-eca544f12b26",
+      "title": "Supercopter - Saison 3",
+      "programSlug": "supercopter-saison-3",
+      "programUrl": "/programme/paris-premiere/supercopter-saison-3",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 15:25:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2716345d-71fe-4241-a4c3-ff02355704a0",
+      "title": "Supercopter - Saison 3",
+      "programSlug": "supercopter-saison-3",
+      "programUrl": "/programme/paris-premiere/supercopter-saison-3",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 16:15:00+00",
+      "endTime": "2026-04-20 17:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "017d3e81-5a2d-4d3c-81b9-9345dcec948f",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 16:30:00+00",
+      "endTime": "2026-04-20 17:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "df83a697-f512-4bc8-8455-e3747f525e37",
+      "title": "Supercopter - Saison 3",
+      "programSlug": "supercopter-saison-3",
+      "programUrl": "/programme/paris-premiere/supercopter-saison-3",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 17:10:00+00",
+      "endTime": "2026-04-20 18:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b2151cfc-8b29-4761-9e7a-47fc6e5bbadf",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 17:15:00+00",
+      "endTime": "2026-04-20 18:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "54c62d9b-f649-4d2d-88d1-ce30958e0629",
+      "title": "Supercopter - Saison 3",
+      "programSlug": "supercopter-saison-3",
+      "programUrl": "/programme/paris-premiere/supercopter-saison-3",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 18:00:00+00",
+      "endTime": "2026-04-20 18:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "500da709-ef18-40d0-b53f-073a03d1353d",
+      "title": "Chicago Fire - Saison 13",
+      "programSlug": "chicago-fire-saison-13",
+      "programUrl": "/programme/cstar/chicago-fire-saison-13",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-20 19:10:00+00",
+      "endTime": "2026-04-20 20:22:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4c2ca9f0-1bd0-45ba-bbe1-a5d878efdaef",
+      "title": "Chicago Fire - Saison 13",
+      "programSlug": "chicago-fire-saison-13",
+      "programUrl": "/programme/cstar/chicago-fire-saison-13",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-20 20:22:00+00",
+      "endTime": "2026-04-20 22:04:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "83d610d0-f028-4571-8585-2f40de34fbbd",
+      "title": "Chicago Fire - Saison 13",
+      "programSlug": "chicago-fire-saison-13",
+      "programUrl": "/programme/cstar/chicago-fire-saison-13",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-20 22:04:00+00",
+      "endTime": "2026-04-20 23:17:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:39.882Z",
+  "nextAiringAt": "2026-04-20 09:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

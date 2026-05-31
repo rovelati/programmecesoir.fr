@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "le-bonheur-des-uns",
+  "title": "Le bonheur des uns...",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le bonheur des uns..."
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Vendeuse dans une boutique de vêtements au coeur d'un centre commercial, Léa Monteil profite de sa pause déjeuner pour observer les gens qui l'entourent et jeter des notes sur un cahier. Très observatrice, Léa est aussi très réservée et manque singulièrement de confiance en elle. Aussi, surprend-elle son entourage quand elle annonce à son compagnon Marc et à leurs meilleurs amis Francis et Karine Léger, qu'elle finalise la rédaction de son premier manuscrit. Cette nouvelle inattendue bouleverse bientôt leurs existences.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tipik.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-une.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": 100,
+  "cast": [],
+  "director": {
+    "qid": "Q1835077",
+    "slug": "daniel-cohen",
+    "name": "Daniel Cohen",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

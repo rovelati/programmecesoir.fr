@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "al-fresco",
+  "title": "Al fresco",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Al fresco"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Un jeune homme visite un appartement pour lequel l'annonce était alléchante : \"Grande chambre dans un appartement de rêve. Emplacement imbattable. Prêt à emménager. Très lumineux\".",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1989,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q3293340",
+    "slug": "mario-andreacchio",
+    "name": "Mario Andreacchio",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

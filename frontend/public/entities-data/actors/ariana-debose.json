@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "ariana-debose",
+  "name": "Ariana DeBose",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ariana%20DeBose%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1991-01-25",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q27733932",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ariana_DeBose",
+    "imdb": "nm3663196",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "kraven-the-hunter",
+      "title": "Kraven the Hunter"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7752c2d-8827-443c-9054-c9fc5642a8b9",
+      "title": "Kraven the Hunter",
+      "programSlug": "kraven-the-hunter",
+      "programUrl": "/programme/canal-box-office/kraven-the-hunter",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 09:10:00+00",
+      "endTime": "2026-04-19 11:14:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 09:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

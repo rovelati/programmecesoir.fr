@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "slug": "miraculous-chibi",
+  "title": "Miraculous Chibi",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Miraculous Chibi"
+  ],
+  "genres": [
+    "Série TV",
+    "Serie"
+  ],
+  "description": "Chat Noir tente de séduire Ladybug avec un nouveau parfum irrésistible. Il fait rapidement des ravages… mais pas auprès de celle qu'il espérait !...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disneychannelplus1.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

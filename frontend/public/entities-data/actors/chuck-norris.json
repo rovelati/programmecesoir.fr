@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "chuck-norris",
+  "name": "Chuck Norris",
+  "worksCount": 1,
+  "description": "artiste martial et acteur de films d'action américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chuck%20Norris%20May%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1940-03-10",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q2673",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Chuck_Norris",
+    "imdb": "nm0001569",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-arme-secrete",
+      "title": "L'arme secrète"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

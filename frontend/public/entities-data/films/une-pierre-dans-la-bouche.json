@@ -1,0 +1,113 @@
+{
+  "type": "film",
+  "slug": "une-pierre-dans-la-bouche",
+  "title": "Une pierre dans la bouche",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Une pierre dans la bouche"
+  ],
+  "genres": [
+    "film ou téléfilm criminel"
+  ],
+  "description": "Un gangster américain fuit sur une plage au bord de l'Atlantique. Il est blessé. Deux tueurs le poursuivent en voiture. Le fugitif parvient à échapper à ses assassins et se réfugie, à bout de souffle, dans un vieux manoir situé au bord de la mer, où habite un ancien comédien, Victor. Ce dernier est aveugle, mais a développé un instinct hors du commun, et vit dans le souvenir de sa femme disparue. Les deux hommes entretiennent d'étranges rapports...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0ec6d11f-bb7b-4358-932e-d4bf67b9d12a",
+      "title": "Une pierre dans la bouche",
+      "programSlug": "une-pierre-dans-la-bouche",
+      "programUrl": "/programme/action/une-pierre-dans-la-bouche",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-20 21:58:00+00",
+      "endTime": "2026-04-20 23:39:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8ea22df7-dcaf-491e-8091-4a646c488293",
+      "title": "Une pierre dans la bouche",
+      "programSlug": "une-pierre-dans-la-bouche",
+      "programUrl": "/programme/action/une-pierre-dans-la-bouche",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 00:37:00+00",
+      "endTime": "2026-04-23 02:18:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "32c8e118-5c57-4c45-91dc-4b732dc3a552",
+      "title": "Une pierre dans la bouche",
+      "programSlug": "une-pierre-dans-la-bouche",
+      "programUrl": "/programme/action/une-pierre-dans-la-bouche",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 22:59:00+00",
+      "endTime": "2026-04-25 00:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1983,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q191132",
+      "slug": "harvey-keitel",
+      "name": "Harvey Keitel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3310736",
+      "slug": "michel-robin",
+      "name": "Michel Robin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1886630",
+      "slug": "richard-anconina",
+      "name": "Richard Anconina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109885959",
+      "slug": "catherine-frost",
+      "name": "Catherine Frost",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3166850",
+    "slug": "jean-louis-leconte",
+    "name": "Jean-Louis Leconte",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 21:58:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

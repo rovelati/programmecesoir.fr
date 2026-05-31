@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "kyle-gallner",
+  "name": "Kyle Gallner",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyle%20Gallner%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1986-10-22",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q704395",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kyle_Gallner",
+    "imdb": "nm0973177",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "american-sniper",
+      "title": "American Sniper"
+    },
+    {
+      "type": "film",
+      "slug": "smile-2",
+      "title": "Smile 2"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

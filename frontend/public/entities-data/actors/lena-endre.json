@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "lena-endre",
+  "name": "Lena Endre",
+  "worksCount": 1,
+  "description": "actrice suédoise",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lena%20Endre%20at%20the%202024%20Toronto%20International%20Film%20Festival%20(cropped%20II).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1955-07-08",
+  "nationality": "Suède",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q270559",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lena_Endre",
+    "imdb": "nm0256890",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "valeur-sentimentale",
+      "title": "Valeur sentimentale"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "91404839-f165-4459-b75c-f5d052e91531",
+      "title": "Valeur sentimentale",
+      "programSlug": "valeur-sentimentale",
+      "programUrl": "/programme/canal/valeur-sentimentale",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 22:47:00+00",
+      "endTime": "2026-04-22 00:56:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 22:47:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

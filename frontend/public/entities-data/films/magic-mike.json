@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "magic-mike",
+  "title": "Magic Mike",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Magic Mike"
+  ],
+  "genres": [
+    "drame",
+    "comédie",
+    "sexploitation",
+    "mélodrame"
+  ],
+  "description": "Mike, 30 ans, habite en Floride et vit de petits boulots. Depuis peu, une nouvelle activité lui assure de confortables revenus : le striptease. Très apprécié de ces dames, il se produit dans un club couru de Tampa sous le pseudonyme de \"Magic Mike\". Un jour, il sympathise avec le jeune Adam et lui propose aussitôt de devenir lui aussi stripteaseur. C'est alors qu'intervient Brooke, la soeur d'Adam. Inquiète, elle refuse de voir son frère se produire nu devant des hordes de jeunettes et de cougars...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 111,
+  "cast": [
+    {
+      "qid": "Q212064",
+      "slug": "channing-tatum",
+      "name": "Channing Tatum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295592",
+      "slug": "alex-pettyfer",
+      "name": "Alex Pettyfer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q902286",
+      "slug": "cody-horn",
+      "name": "Cody Horn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315340",
+      "slug": "matthew-bomer",
+      "name": "Matthew Bomer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236475",
+      "slug": "olivia-munn",
+      "name": "Olivia Munn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q470005",
+      "slug": "joe-manganiello",
+      "name": "Joe Manganiello",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188955",
+      "slug": "matthew-mcconaughey",
+      "name": "Matthew McConaughey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350746",
+      "slug": "adam-rodriguez",
+      "name": "Adam Rodriguez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q280793",
+      "slug": "kevin-nash",
+      "name": "Kevin Nash",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254947",
+      "slug": "riley-keough",
+      "name": "Riley Keough",
+      "role": "actor"
+    },
+    {
+      "qid": "Q165296",
+      "slug": "wendi-mclendon-covey",
+      "name": "Wendi McLendon-Covey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q462622",
+      "slug": "betsy-brandt",
+      "name": "Betsy Brandt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3932196",
+      "slug": "reid-carolin",
+      "name": "Reid Carolin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466091",
+      "slug": "camryn-grimes",
+      "name": "Camryn Grimes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269807",
+      "slug": "michelle-clunie",
+      "name": "Michelle Clunie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q469579",
+      "slug": "mircea-monroe",
+      "name": "Mircea Monroe",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q103917",
+    "slug": "steven-soderbergh",
+    "name": "Steven Soderbergh",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

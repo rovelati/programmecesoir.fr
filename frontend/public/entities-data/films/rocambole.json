@@ -1,0 +1,126 @@
+{
+  "type": "film",
+  "slug": "rocambole",
+  "title": "Rocambole",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Rocambole"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure",
+    "drame",
+    "thriller"
+  ],
+  "description": "Londres, au début du XXe siècle. Lors d'une brillante soirée à l'ambassade d'Allemagne, l'attaché militaire est pris en flagrant délit d'indélicatesse. Dans les milieux diplomatiques, nul n'est dupe : l'entourloupe est clairement signée. Seul Rocambole, que l'on croyait mort au bagne, peut en être l'auteur. A Paris, le baron Keller, fabricant de canons au service du Kaiser, dîne chez Maxim's avec Cléo Santelli, la célèbre danseuse étoile, à qui il fait une cour assidue. Mais Cléo s'éprend du mystérieux comte de Chamery, un homme brillant qui a juré la perte de Keller. Lors d'une réception à l'ambassade de Russie, Chamery ridiculise le baron...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1948,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q3265652",
+      "slug": "lucien-nat",
+      "name": "Lucien Nat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3288866",
+      "slug": "marcel-delaitre",
+      "name": "Marcel Delaître",
+      "role": "actor"
+    },
+    {
+      "qid": "Q698211",
+      "slug": "massimo-serato",
+      "name": "Massimo Serato",
+      "role": "actor"
+    },
+    {
+      "qid": "Q945890",
+      "slug": "pierre-brasseur",
+      "name": "Pierre Brasseur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3434452",
+      "slug": "robert-arnoux",
+      "name": "Robert Arnoux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3439936",
+      "slug": "roland-armontel",
+      "name": "Roland Armontel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1933823",
+      "slug": "sophie-desmarets",
+      "name": "Sophie Desmarets",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4015528",
+      "slug": "vittorio-sanipoli",
+      "name": "Vittorio Sanipoli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q758136",
+      "slug": "attilio-dottesio",
+      "name": "Attilio Dottesio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3836799",
+      "slug": "loredana",
+      "name": "Loredana",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3735306",
+      "slug": "evelina-paoli",
+      "name": "Evelina Paoli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3658833",
+      "slug": "carla-candiani",
+      "name": "Carla Candiani",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2705246",
+    "slug": "jacques-de-baroncelli",
+    "name": "Jacques de Baroncelli",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "bill-murray",
+  "name": "Bill Murray",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Murray-8882.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1950-09-21",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q29250",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bill_Murray",
+    "imdb": "nm0000195",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "max-la-menace",
+      "title": "Max la menace"
+    },
+    {
+      "type": "film",
+      "slug": "charlie-s-angels",
+      "title": "Charlie's Angels"
+    },
+    {
+      "type": "film",
+      "slug": "s-o-s-fantomes",
+      "title": "S.O.S. Fantômes"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0ce70329-69a0-4dc2-9cda-c9680af3516c",
+      "title": "S.O.S. Fantômes",
+      "programSlug": "s-o-s-fantomes",
+      "programUrl": "/programme/syfy/s-o-s-fantomes",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-25 14:35:00+00",
+      "endTime": "2026-04-25 16:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "9643570a-a31b-4a0a-96dc-9b247dbe9e8a",
+      "title": "Max la menace",
+      "programSlug": "max-la-menace",
+      "programUrl": "/programme/cine-family/max-la-menace",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 15:43:00+00",
+      "endTime": "2026-04-25 17:30:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-25 14:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

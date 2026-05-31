@@ -1,0 +1,108 @@
+{
+  "type": "film",
+  "slug": "comme-si-de-rien-n-etait",
+  "title": "Comme si de rien n'était",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Comme si de rien n'était"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Pour affronter le temps qui passe, Anita fait comme si de rien n'était. Mais c'est sans compter sur ses vieilles amies pour lesquelles fêter la vie est irrésistible.",
+  "descriptionAi": "Ce drame intimiste de 2018 explore avec délicatesse la mélancolie du temps qui passe. L'ambiance, à la fois douce-amère et lumineuse, se déploie autour d'Anita, qui tente de vivre dans le déni du changement, et de ses amies déterminées à célébrer l'instant présent. Le film captive par la justesse de ses personnages et la profondeur des liens qui les unissent, offrant un regard touchant sur l'amitié féminine et les petits renoncements de la vie. Une œuvre sensible sur les résistances intimes et la douce obstination du bonheur, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:58.551Z",
+  "year": 2018,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q15781804",
+      "slug": "aenne-schwarz",
+      "name": "Aenne Schwarz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18018366",
+      "slug": "andreas-dohler",
+      "name": "Andreas Döhler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1827736",
+      "slug": "lisa-hagmeister",
+      "name": "Lisa Hagmeister",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1581159",
+      "slug": "hans-low",
+      "name": "Hans Löw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2433700",
+      "slug": "tilo-nest",
+      "name": "Tilo Nest",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21164925",
+      "slug": "dagny-dewath",
+      "name": "Dagny Dewath",
+      "role": "actor"
+    },
+    {
+      "qid": "Q567101",
+      "slug": "annika-blendl",
+      "name": "Annika Blendl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22294606",
+      "slug": "doris-buchrucker",
+      "name": "Doris Buchrucker",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q56061961",
+    "slug": "eva-trobisch",
+    "name": "Eva Trobisch",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

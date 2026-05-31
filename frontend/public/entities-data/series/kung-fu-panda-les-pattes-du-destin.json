@@ -1,0 +1,72 @@
+{
+  "type": "series",
+  "slug": "kung-fu-panda-les-pattes-du-destin",
+  "title": "Kung Fu Panda : Les pattes du destin",
+  "airingsCount": 14,
+  "sourceTitles": [
+    "Kung Fu Panda : Les pattes du destin"
+  ],
+  "genres": [
+    "action",
+    "série télévisée comique"
+  ],
+  "description": "Quatre jeunes pandas vivent une aventure hors du commun après avoir involontairement absobé le chi d'anciens maîtres Kung Fu et convaincu le maître Dragon Po de devenir leur professeur de Kung Fu. Alors qu'ils s'entraînent en cachette dans le village des Pandas, une ancienne créature maléfique, ayant l'apparence d'un moine pacifique, se réveille, bien décidée à tout mettre en oeuvre pour leur voler leur chi et devenir ainsi le maître du monde",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 14
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b958f02b-e566-4a5e-a594-ba3709c27188",
+      "title": "Kung Fu Panda : Les pattes du destin",
+      "programSlug": "kung-fu-panda-les-pattes-du-destin",
+      "programUrl": "/programme/la-trois/kung-fu-panda-les-pattes-du-destin",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-22 11:44:00+00",
+      "endTime": "2026-04-22 12:06:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "bf3532de-03ca-4968-a209-357f168c6b0a",
+      "title": "Kung Fu Panda : Les pattes du destin",
+      "programSlug": "kung-fu-panda-les-pattes-du-destin",
+      "programUrl": "/programme/la-trois/kung-fu-panda-les-pattes-du-destin",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-22 12:06:00+00",
+      "endTime": "2026-04-22 12:29:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2018,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-22 11:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

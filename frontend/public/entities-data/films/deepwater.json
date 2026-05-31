@@ -1,0 +1,106 @@
+{
+  "type": "film",
+  "slug": "deepwater",
+  "title": "Deepwater",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Deepwater"
+  ],
+  "genres": [
+    "néo-noir"
+  ],
+  "description": "Mike Williams travaille comme électricien sur la plateforme Deepwater Horizon située dans le golfe du Mexique. Celle-ci tourne à plein régime afin d'extraire les 800 millions de litres présents dans les profondeurs. Entre Mike Williams et son patron Jimmy Harrell, l'entente est parfaite car le premier connaît le professionnalisme du second. Il ne fait pas confiance en revanche à la société locataire dirigée Donald Vidrine, qui ne pense qu'au profit au détriment de la sécurité de toute l'équipe. Une mauvaise manoeuvre technique, motivée par l'argent, provoque un effroyable accident. Alors que cinq millions de litres de pétrole risquent d'exploser, Mike et ses collègues vont tenter de sauver la plateforme et leurs vies...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2005,
+  "durationMinutes": 93,
+  "cast": [
+    {
+      "qid": "Q359491",
+      "slug": "lucas-black",
+      "name": "Lucas Black",
+      "role": "actor"
+    },
+    {
+      "qid": "Q354873",
+      "slug": "peter-coyote",
+      "name": "Peter Coyote",
+      "role": "actor"
+    },
+    {
+      "qid": "Q256649",
+      "slug": "mia-maestro",
+      "name": "Mía Maestro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237214",
+      "slug": "lesley-ann-warren",
+      "name": "Lesley Ann Warren",
+      "role": "actor"
+    },
+    {
+      "qid": "Q361610",
+      "slug": "xander-berkeley",
+      "name": "Xander Berkeley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q301491",
+      "slug": "jason-cerbone",
+      "name": "Jason Cerbone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q344973",
+      "slug": "michael-ironside",
+      "name": "Michael Ironside",
+      "role": "actor"
+    },
+    {
+      "qid": "Q178882",
+      "slug": "kristen-bell",
+      "name": "Kristen Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q366044",
+      "slug": "dee-snider",
+      "name": "Dee Snider",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q114774886",
+    "slug": "david-s-marfield",
+    "name": "David S. Marfield",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

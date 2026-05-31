@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "christopher-mcdonald",
+  "name": "Christopher McDonald",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christopher%20McDonald%202011%20Shankbone.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1955-02-15",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q349857",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Christopher_McDonald",
+    "imdb": "nm0001520",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "thelma-et-louise",
+      "title": "Thelma et Louise"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c2c24c59-8415-40a2-b866-57012fc6b083",
+      "title": "Thelma et Louise",
+      "programSlug": "thelma-et-louise",
+      "programUrl": "/programme/canal-grand-ecran/thelma-et-louise",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 05:33:00+00",
+      "endTime": "2026-04-23 07:38:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 05:33:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

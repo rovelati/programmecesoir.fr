@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "ryan-gosling",
+  "name": "Ryan Gosling",
+  "worksCount": 3,
+  "description": "acteur, chanteur et musicien canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GoslingBFI081223%20(22%20of%2030)%20(53388157347)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1980-11-12",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q193815",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ryan_Gosling",
+    "imdb": "nm0331516",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "gangster-squad",
+      "title": "Gangster Squad"
+    },
+    {
+      "type": "film",
+      "slug": "the-nice-guys",
+      "title": "The Nice Guys"
+    },
+    {
+      "type": "film",
+      "slug": "crazy-stupid-love",
+      "title": "Crazy, Stupid, Love"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

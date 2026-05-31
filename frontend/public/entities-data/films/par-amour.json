@@ -1,0 +1,134 @@
+{
+  "type": "film",
+  "slug": "par-amour",
+  "title": "Par amour",
+  "airingsCount": 9,
+  "sourceTitles": [
+    "Par amour"
+  ],
+  "genres": [
+    "comédie dramatique"
+  ],
+  "description": "Sarah, 40 ans, est au bord du burn out. Son mari étant souvent absent, elle s'occupe seule de leurs deux fils, âgés de 9 et 6 ans. Un jour de vacances d'été, sur une plage, l'aîné, Simon, se volatilise sans laisser de trace. Partie à sa recherche, Sarah finit par le retrouver trempé et fébrile. De retour à la maison, le garçon adopte un comportement étrange, passant des heures dans son bain et cherchant inexplicablement le contact avec l'eau. Inquiète, Sarah emmène Simon voir un psychiatre. L'enfant confie alors que lorsqu'il plonge dans l'eau, il entend des voix. Alors qu'Antoine peine à prendre la mesure du problème, Sarah, elle, est en totale empathie avec Simon...",
+  "descriptionAi": "Cette comédie dramatique de 2012 plonge dans l'intimité d'une famille en crise. L'ambiance oscille entre la tension du quotidien et le mystère surnaturel, créant une atmosphère à la fois réaliste et troublante. Le film captive par sa façon de traiter l'épuisement maternel et la quête de sens à travers le regard d'un enfant, mêlant subtilement le drame familial à une touche de fantastique. Le cœur du récit réside dans le lien unique et empathique qui unit la mère à son fils, face à l'incompréhension générale. Une histoire touchante sur les secrets des enfants et la force de l'intuition parentale, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q3363016",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Par_amour_(film%2C_2012)",
+    "imdb": "tt1595372",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:05.297Z",
+  "year": 2012,
+  "durationMinutes": 115,
+  "cast": [
+    {
+      "qid": "Q3591351",
+      "slug": "eric-savin",
+      "name": "Éric Savin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3089651",
+      "slug": "frederic-bouraly",
+      "name": "Frédéric Bouraly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17630530",
+      "slug": "irene-ismailoff",
+      "name": "Irène Ismaïloff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165588",
+      "slug": "jean-francois-derec",
+      "name": "Jean-François Dérec",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3168621",
+      "slug": "jean-paul-muel",
+      "name": "Jean-Paul Muel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3298154",
+      "slug": "mata-gabin",
+      "name": "Mata Gabin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3335761",
+      "slug": "nanou-garcia",
+      "name": "Nanou Garcia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3379789",
+      "slug": "philippe-duquesne",
+      "name": "Philippe Duquesne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3491010",
+      "slug": "sophie-mounicot",
+      "name": "Sophie Mounicot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q524747",
+      "slug": "valerie-mairesse",
+      "name": "Valérie Mairesse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3554319",
+      "slug": "valerie-vogt",
+      "name": "Valérie Vogt",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3219218",
+    "slug": "laurent-firode",
+    "name": "Laurent Firode",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,179 @@
+{
+  "type": "film",
+  "slug": "life-of-chuck",
+  "title": "Life of Chuck",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Life of Chuck"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "drame",
+    "film et téléfilm de fantasy"
+  ],
+  "description": "Alors que le monde est en pleine apocalypse, Charles Krantz, surnommé Chuck par ses proches, décède d'une tumeur cérébrale à l'âge de 39 ans, après un long et épuisant combat. Ce comptable et père de famille ordinaire a eu une vie extraordinaire qui peut être résumée en trois chapitres...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "94e324df-cc05-4a75-824b-4e77902fde3d",
+      "title": "Life of Chuck",
+      "programSlug": "life-of-chuck",
+      "programUrl": "/programme/canal-box-office/life-of-chuck",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 15:45:00+00",
+      "endTime": "2026-04-20 17:32:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 111,
+  "cast": [
+    {
+      "qid": "Q295803",
+      "slug": "tom-hiddleston",
+      "name": "Tom Hiddleston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20965633",
+      "slug": "jacob-tremblay",
+      "name": "Jacob Tremblay",
+      "role": "actor"
+    },
+    {
+      "qid": "Q134620286",
+      "slug": "q134620286",
+      "name": "Q134620286",
+      "role": "actor"
+    },
+    {
+      "qid": "Q134620289",
+      "slug": "q134620289",
+      "name": "Q134620289",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317343",
+      "slug": "chiwetel-ejiofor",
+      "name": "Chiwetel Ejiofor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231237",
+      "slug": "karen-gillan",
+      "name": "Karen Gillan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q253487",
+      "slug": "mia-sara",
+      "name": "Mia Sara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q953908",
+      "slug": "carl-lumbly",
+      "name": "Carl Lumbly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210447",
+      "slug": "mark-hamill",
+      "name": "Mark Hamill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16203767",
+      "slug": "david-dastmalchian",
+      "name": "David Dastmalchian",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55395897",
+      "slug": "harvey-guillen",
+      "name": "Harvey Guillén",
+      "role": "actor"
+    },
+    {
+      "qid": "Q635974",
+      "slug": "michael-trucco",
+      "name": "Michael Trucco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q73410",
+      "slug": "q-orianka-kilcher",
+      "name": "Q'Orianka Kilcher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q29086",
+      "slug": "matthew-lillard",
+      "name": "Matthew Lillard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19843060",
+      "slug": "rahul-kohli",
+      "name": "Rahul Kohli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109455851",
+      "slug": "violet-mcgraw",
+      "name": "Violet McGraw",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q19668417",
+    "slug": "mike-flanagan",
+    "name": "Mike Flanagan",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 15:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

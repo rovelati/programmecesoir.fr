@@ -1,0 +1,76 @@
+{
+  "type": "film",
+  "slug": "le-larbin",
+  "title": "Le Larbin",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le Larbin"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Louis, jeune fêtard paresseux, multiplie les frasques et dépense sans compter la fortune de son père Jean-François, à la tête d'un groupe hôtelier de luxe. Excédé, ce dernier veut donner une leçon à son fils en lui faisant croire qu'il a mystérieusement atterri trois siècles et demi plus tôt, sous le règne de Louis XIV. Pris dans cette mascarade soigneusement réalisée, Louis découvre vite qu'à l'époque, ce n'était pas la vie de château pour tout le monde. Adieu paillettes et smartphone que le jeune homme doit troquer contre balais, seaux et guenilles. Maltraité par un vicomte tyrannique, le jeune larbin s'apprête à en baver...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1a2a90e6-af79-43b0-a9c3-a76246d49ebf",
+      "title": "Le Larbin",
+      "programSlug": "le-larbin",
+      "programUrl": "/programme/cine-family/le-larbin",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 11:30:00+00",
+      "endTime": "2026-04-20 13:16:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fe29e5b2-210a-4a20-8c12-cc70758ef164",
+      "title": "Le Larbin",
+      "programSlug": "le-larbin",
+      "programUrl": "/programme/cine-family/le-larbin",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 18:50:00+00",
+      "endTime": "2026-04-23 20:36:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q2833529",
+    "slug": "alexandre-charlot",
+    "name": "Alexandre Charlot",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 11:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "emily-holmes",
+  "name": "Emily Holmes",
+  "worksCount": 1,
+  "description": "actrice canadienne",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-03-01",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3052377",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Emily_Holmes",
+    "imdb": "nm0391820",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "paycheck",
+      "title": "Paycheck"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

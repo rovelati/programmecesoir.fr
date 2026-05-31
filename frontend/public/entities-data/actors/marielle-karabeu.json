@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "marielle-karabeu",
+  "name": "Marielle Karabeu",
+  "worksCount": 1,
+  "description": "actrice et animatrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-10-05",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q113088770",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marielle_Karabeu",
+    "imdb": "nm11131763",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "opj",
+      "title": "OPJ"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2c3d515e-0a19-4c79-9b4b-928be6af1c27",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/tipik/opj",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-20 10:27:00+00",
+      "endTime": "2026-04-20 11:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "92f75110-bdd3-49e5-b571-6d3730e395a4",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/tipik/opj",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-20 11:20:00+00",
+      "endTime": "2026-04-20 12:16:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d228e82c-a2e5-43cc-a1dc-30d23faff314",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/tipik/opj",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 10:32:00+00",
+      "endTime": "2026-04-21 11:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1f9383aa-aa5b-4f94-b54e-a15063281af9",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/tipik/opj",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 11:25:00+00",
+      "endTime": "2026-04-21 12:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "feab9ca3-735b-4832-a178-d35922f9e71f",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/la-une/opj",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-21 13:10:00+00",
+      "endTime": "2026-04-21 14:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "94d1a0d5-a48a-4474-a773-4dd867cecfbd",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/la-une/opj",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-21 14:05:00+00",
+      "endTime": "2026-04-21 15:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "3e885646-1265-42ed-b58a-8fc19fbb27b4",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/tipik/opj",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-23 10:14:00+00",
+      "endTime": "2026-04-23 11:07:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "bd0d7e3a-923f-4ab9-a518-450a5cb33f21",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/tipik/opj",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-23 11:07:00+00",
+      "endTime": "2026-04-23 12:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "39c0490b-3d8b-4b87-af99-186917d75bbe",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/la-une/opj",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-23 13:07:00+00",
+      "endTime": "2026-04-23 14:04:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "4674113d-e7c8-46a0-a3f5-7b1583ecdf18",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/la-une/opj",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-23 14:04:00+00",
+      "endTime": "2026-04-23 15:20:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "56e7b711-e0da-4760-a3ce-2554b5c481ac",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/tipik/opj",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-24 10:27:00+00",
+      "endTime": "2026-04-24 11:24:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "09dff99e-5774-4eca-9572-ff38a106db80",
+      "title": "OPJ",
+      "programSlug": "opj",
+      "programUrl": "/programme/tipik/opj",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-24 11:24:00+00",
+      "endTime": "2026-04-24 12:22:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 10:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "les-gazelles",
+  "title": "Les gazelles",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Les gazelles"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Le destin de Marie est tout tracé. En couple depuis toujours avec Eric, elle s'apprête à acheter un appartement. Mais Marie prend peur et se met à douter, à tel point qu'elle décide de quitter son amour de lycée. Une rencontre avec un beau brun l'incite à faire le grand saut. La voilà donc célibataire à trente ans, et libre de faire de nouvelles expériences. Sauf que ce n'est pas si simple, entre les partenaires d'un soir qui oublient son prénom, les coups de blues, le manque, et le regard condescendant de ses proches. Heureusement, ses copines, également sans attaches, sont là pour la soutenir...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q276249",
+      "slug": "anne-brochet",
+      "name": "Anne Brochet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457089",
+      "slug": "audrey-fleurot",
+      "name": "Audrey Fleurot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2934882",
+      "slug": "camille-chamoux",
+      "name": "Camille Chamoux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16535251",
+      "slug": "camille-cottin",
+      "name": "Camille Cottin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3018364",
+      "slug": "david-marsais",
+      "name": "David Marsais",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082139",
+      "slug": "franck-gastambide",
+      "name": "Franck Gastambide",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3118479",
+      "slug": "gregoire-ludig",
+      "name": "Grégoire Ludig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q511485",
+      "slug": "josephine-de-meaux",
+      "name": "Joséphine de Meaux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q437254",
+      "slug": "josiane-balasko",
+      "name": "Josiane Balasko",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3335177",
+      "slug": "naidra-ayadi",
+      "name": "Naidra Ayadi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3470502",
+      "slug": "sam-karmann",
+      "name": "Sam Karmann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q970408",
+      "slug": "samuel-benchetrit",
+      "name": "Samuel Benchetrit",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2360332",
+      "slug": "stephane-de-groodt",
+      "name": "Stéphane De Groodt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1661394",
+      "slug": "lolita-chammah",
+      "name": "Lolita Chammah",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17175341",
+      "slug": "zoe-bruneau",
+      "name": "Zoé Bruneau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19721334",
+      "slug": "marie-dompnier",
+      "name": "Marie Dompnier",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3320039",
+    "slug": "mona-achache",
+    "name": "Mona Achache",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

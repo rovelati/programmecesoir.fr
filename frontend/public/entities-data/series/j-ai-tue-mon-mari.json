@@ -1,0 +1,137 @@
+{
+  "type": "series",
+  "slug": "j-ai-tue-mon-mari",
+  "title": "J'ai tué mon mari",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "J'ai tué mon mari"
+  ],
+  "genres": [
+    "Série TV",
+    "Série"
+  ],
+  "description": "Anna se glisse dans la peau d'une juriste. Elle découvre que Manuel a participé à un mensonge visant à protéger un homme influent dans une affaire de viol.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "channelNumber": null,
+      "logoUrl": "/loghi/13eme-rue.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2021,
+  "numberOfSeasons": 1,
+  "cast": [
+    {
+      "qid": "Q17350908",
+      "slug": "erika-sainte",
+      "name": "Erika Sainte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40675861",
+      "slug": "tiphaine-daviot",
+      "name": "Tiphaine Daviot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2854016",
+      "slug": "antoine-gouy",
+      "name": "Antoine Gouy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3565346",
+      "slug": "walid-afkir",
+      "name": "Walid Afkir",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111395824",
+      "slug": "melan",
+      "name": "Melan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5896998",
+      "slug": "hiba-abouk",
+      "name": "Hiba Abouk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3367393",
+      "slug": "pascal-elso",
+      "name": "Pascal Elso",
+      "role": "actor"
+    },
+    {
+      "qid": "Q56071731",
+      "slug": "rachel-khan",
+      "name": "Rachel Khan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q114649268",
+      "slug": "nolan-arizmendi",
+      "name": "Nolan Arizmendi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17374209",
+      "slug": "christophe-tek",
+      "name": "Christophe Tek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2390710",
+      "slug": "marie-matheron",
+      "name": "Marie Matheron",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83633446",
+      "slug": "antoine-levannier",
+      "name": "Antoine Levannier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q114649307",
+      "slug": "karim-tougui",
+      "name": "Karim Tougui",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2870702",
+      "slug": "aude-gogny-goubert",
+      "name": "Aude Gogny-Goubert",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q114649357",
+    "slug": "remy-silk-binisti",
+    "name": "Rémy Silk Binisti",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

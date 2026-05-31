@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "rio-bravo",
+  "title": "Rio Bravo",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Rio Bravo"
+  ],
+  "genres": [
+    "buddy movie",
+    "western",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Shérif de la petite ville de Rio Bravo, John T. Chance a quelques difficultés à maintenir l'ordre sur son territoire avec ses deux adjoints. L'un, Dude, est alcoolique, et l'autre, Stumpy, est un vieillard boiteux. Un jour, Joe Burdette, le cadet d'une famille de propriétaires terriens, humilie Dude...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Hawks'Rio%20Bravo%20trailer%20(26).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1959,
+  "durationMinutes": 136,
+  "cast": [
+    {
+      "qid": "Q40531",
+      "slug": "john-wayne",
+      "name": "John Wayne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q215359",
+      "slug": "dean-martin",
+      "name": "Dean Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q303207",
+      "slug": "ricky-nelson",
+      "name": "Ricky Nelson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235989",
+      "slug": "angie-dickinson",
+      "name": "Angie Dickinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q219521",
+      "slug": "walter-brennan",
+      "name": "Walter Brennan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1280760",
+      "slug": "ward-bond",
+      "name": "Ward Bond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1030465",
+      "slug": "john-russell",
+      "name": "John Russell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q739542",
+      "slug": "claude-akins",
+      "name": "Claude Akins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q863742",
+      "slug": "bing-russell",
+      "name": "Bing Russell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q888266",
+      "slug": "bob-steele",
+      "name": "Bob Steele",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3058884",
+      "slug": "estelita-rodriguez",
+      "name": "Estelita Rodriguez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1397312",
+      "slug": "harry-carey-jr",
+      "name": "Harry Carey Jr.",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3281667",
+      "slug": "malcolm-atterbury",
+      "name": "Malcolm Atterbury",
+      "role": "actor"
+    },
+    {
+      "qid": "Q710809",
+      "slug": "pedro-gonzalez-gonzalez",
+      "name": "Pedro Gonzalez Gonzalez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q486408",
+      "slug": "robert-donner",
+      "name": "Robert Donner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q716602",
+      "slug": "gordon-mitchell",
+      "name": "Gordon Mitchell",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51581",
+    "slug": "howard-hawks",
+    "name": "Howard Hawks",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

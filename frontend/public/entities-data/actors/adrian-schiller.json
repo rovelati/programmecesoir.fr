@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "adrian-schiller",
+  "name": "Adrian Schiller",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": "Adrian Schiller incarne avec justesse des personnages complexes, naviguant entre le drame historique et les séries contemporaines. Cet acteur britannique, au jeu subtil et intense, sait insuffler une profondeur remarquable à ses rôles, qu'ils soient sombres ou empreints d'une dignité touchante. L'ambiance de ses interprétations oscille souvent entre une tension palpable et une émotion retenue, captivant le téléspectateur par sa présence à l'écran. Sa capacité à rendre humaines des figures parfois ambiguës est particulièrement fascinante. Pour découvrir ses performances marquantes et planifier votre prochaine soirée télévisuelle, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adrian%20Schiller%20at%20Rose%20Theatre%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-02-21",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q4685338",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Adrian_Schiller",
+    "imdb": "nm0771621",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-jardins-du-roi",
+      "title": "Les jardins du roi"
+    },
+    {
+      "type": "film",
+      "slug": "les-suffragettes",
+      "title": "Les suffragettes"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2ab3a59d-d90d-49ea-abe8-b51f78b5829f",
+      "title": "Les suffragettes",
+      "programSlug": "les-suffragettes",
+      "programUrl": "/programme/canal-grand-ecran/les-suffragettes",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 23:32:00+00",
+      "endTime": "2026-04-25 01:14:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:25.539Z",
+  "nextAiringAt": "2026-04-24 23:32:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

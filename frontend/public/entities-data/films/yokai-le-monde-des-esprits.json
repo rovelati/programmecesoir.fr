@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "yokai-le-monde-des-esprits",
+  "title": "Yôkai : Le monde des esprits",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Yôkai : Le monde des esprits"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Après une brillante carrière, c'est avec une certaine émotion que Claire Emery, une illustre chanteuse, s'envole vers le Japon pour y donner son dernier concert. Comme à son habitude, elle se produit devant une salle comble dans ce pays où elle compte des millions d'admirateurs. A l'issue du spectacle, et après avoir signé quelques autographes, Claire rencontre Yuzo, un homme qui prétend être son plus grand fan et qui l'invite à le suivre pour un voyage. Intriguée, elle accepte la proposition et découvre bientôt, et avec stupeur, qu'elle vient de franchir les portes de l'au-delà. Une nouvelle vie inattendue s'offre alors à elle...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a83ccfca-9752-457a-a0d4-aaffef916e6e",
+      "title": "Yôkai : Le monde des esprits",
+      "programSlug": "yokai-le-monde-des-esprits",
+      "programUrl": "/programme/cine-festival/yokai-le-monde-des-esprits",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-20 03:06:00+00",
+      "endTime": "2026-04-20 04:37:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 03:06:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

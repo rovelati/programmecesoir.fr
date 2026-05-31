@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "patrick-o-neal",
+  "name": "Patrick O'Neal",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20O'Neal%20actor.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1927-09-26",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q543762",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Patrick_O'Neal",
+    "imdb": "nm0641929",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "nos-plus-belles-annees",
+      "title": "Nos plus belles années"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8c0907a1-66cd-4c9d-8937-ac1b3079401f",
+      "title": "Nos plus belles années",
+      "programSlug": "nos-plus-belles-annees",
+      "programUrl": "/programme/rts-deux/nos-plus-belles-annees",
+      "channelId": "rts-deux",
+      "channelName": "RTS Deux",
+      "channelSlug": "rts-deux",
+      "startTime": "2026-04-21 22:35:00+00",
+      "endTime": "2026-04-22 00:40:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 22:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

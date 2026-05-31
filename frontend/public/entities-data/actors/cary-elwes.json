@@ -1,0 +1,75 @@
+{
+  "type": "actor",
+  "slug": "cary-elwes",
+  "name": "Cary Elwes",
+  "worksCount": 4,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cary%20Elwes%20September%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-10-26",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q311093",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Cary_Elwes",
+    "imdb": "nm0000144",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "menteur-menteur",
+      "title": "Menteur, menteur"
+    },
+    {
+      "type": "film",
+      "slug": "a-toute-allure",
+      "title": "A toute allure"
+    },
+    {
+      "type": "film",
+      "slug": "dracula",
+      "title": "Dracula"
+    },
+    {
+      "type": "film",
+      "slug": "le-collectionneur",
+      "title": "Le collectionneur"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b7403449-ac98-42e0-9bbe-2be9439c396b",
+      "title": "Dracula",
+      "programSlug": "dracula",
+      "programUrl": "/programme/canal-box-office/dracula",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 16:43:00+00",
+      "endTime": "2026-04-19 18:48:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "59f89142-9667-40a6-adf8-b098eac3855c",
+      "title": "Dracula",
+      "programSlug": "dracula",
+      "programUrl": "/programme/canal-box-office/dracula",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 21:44:00+00",
+      "endTime": "2026-04-21 23:48:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 16:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

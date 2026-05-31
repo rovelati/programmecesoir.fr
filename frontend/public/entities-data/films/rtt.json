@@ -1,0 +1,136 @@
+{
+  "type": "film",
+  "slug": "rtt",
+  "title": "RTT",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "RTT"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Arthur vit depuis cinq ans avec Florence. Tout s'effondre quand celle-ci lui annonce qu'elle le quitte pour aller se marier à Miami. Arthur est persuadé qu'il peut la reconquérir. Il la suit aux Etats-Unis afin d'empêcher la cérémonie. A l'aéroport, il croise la route d'Emilie, une cambrioleuse...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q2865083",
+      "slug": "arthur-dupont",
+      "name": "Arthur Dupont",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2925405",
+      "slug": "brigitte-boucher",
+      "name": "Brigitte Boucher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q778573",
+      "slug": "daniel-duval",
+      "name": "Daniel Duval",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3591288",
+      "slug": "eric-naggar",
+      "name": "Éric Naggar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q939089",
+      "slug": "francis-renaud",
+      "name": "Francis Renaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q541690",
+      "slug": "geraldine-nakache",
+      "name": "Géraldine Nakache",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3167727",
+      "slug": "jean-marie-lecoq",
+      "name": "Jean-Marie Lecoq",
+      "role": "actor"
+    },
+    {
+      "qid": "Q983159",
+      "slug": "kad-merad",
+      "name": "Kad Merad",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17176312",
+      "slug": "laurent-claret",
+      "name": "Laurent Claret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3286702",
+      "slug": "manu-payet",
+      "name": "Manu Payet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q446842",
+      "slug": "melanie-doutey",
+      "name": "Mélanie Doutey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3379645",
+      "slug": "philippe-corti",
+      "name": "Philippe Corti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3385776",
+      "slug": "pierre-laplace",
+      "name": "Pierre Laplace",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3424949",
+      "slug": "renaud-roussel",
+      "name": "Renaud Roussel",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3089624",
+    "slug": "frederic-berthe",
+    "name": "Frédéric Berthe",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

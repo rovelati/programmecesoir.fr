@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "la-ronde",
+  "title": "La ronde",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La ronde"
+  ],
+  "genres": [
+    "drame",
+    "comédie romantique"
+  ],
+  "description": "Sous l'impulsion d'un meneur de jeu, une \"ronde des couples\" commence, vive, légère, sensuelle. Sans distinction de classe, l'amour passe ainsi de la belle prostituée Léocadie au soldat Franz, du soldat à la femme de chambre Marie, de la femme de chambre au fils de famille Alfred. Ce dernier se met alors à séduire une dame mariée, Emma Breitkopf, puis la ronde reprend de plus belle, passant de la dame mariée à son époux, Charles, du mari à la grisette Anna, qui tend la main au poète Robert Kühlenkampf, qui l'abandonne pour la comédienne Charlotte, qui ne résiste pas au comte, qui s'encanaille avec la prostituée et ferme le cercle sentimental...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1950,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q106126",
+      "slug": "simone-signoret",
+      "name": "Simone Signoret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q79005",
+      "slug": "anton-walbrook",
+      "name": "Anton Walbrook",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461111",
+      "slug": "serge-reggiani",
+      "name": "Serge Reggiani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q253239",
+      "slug": "simone-simon",
+      "name": "Simone Simon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q663553",
+      "slug": "daniel-gelin",
+      "name": "Daniel Gélin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234149",
+      "slug": "danielle-darrieux",
+      "name": "Danielle Darrieux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1406503",
+      "slug": "fernand-gravey",
+      "name": "Fernand Gravey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309898",
+      "slug": "jean-louis-barrault",
+      "name": "Jean-Louis Barrault",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461477",
+      "slug": "isa-miranda",
+      "name": "Isa Miranda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q150662",
+      "slug": "gerard-philipe",
+      "name": "Gérard Philipe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q536635",
+      "slug": "odette-joyeux",
+      "name": "Odette Joyeux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2960399",
+      "slug": "charles-vissieres",
+      "name": "Charles Vissières",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3160163",
+      "slug": "jacques-vertan",
+      "name": "Jacques Vertan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3171324",
+      "slug": "jean-clarieux",
+      "name": "Jean Clarieux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3173814",
+      "slug": "jean-ozenne",
+      "name": "Jean Ozenne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3426603",
+      "slug": "rene-marjac",
+      "name": "René Marjac",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55410",
+    "slug": "max-ophuls",
+    "name": "Max Ophüls",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

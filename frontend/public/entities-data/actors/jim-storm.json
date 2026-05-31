@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "jim-storm",
+  "name": "Jim Storm",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1943-08-12",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q6198358",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Storm_(actor)",
+    "imdb": "nm0832586",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "amour-gloire-et-beaute",
+      "title": "Amour, gloire et beauté"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6834d790-15bb-4de7-962b-09438bea7889",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/tf1-series-films/amour-gloire-et-beaute-saison-1",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-20 04:20:00+00",
+      "endTime": "2026-04-20 04:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fc14b671-2024-4343-80ed-c979289635ac",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/rts-un/amour-gloire-et-beaute-saison-1",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-20 09:20:00+00",
+      "endTime": "2026-04-20 09:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "86aefbb0-fbe7-4e54-82e6-a94d1e7d8006",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/rtl9/amour-gloire-et-beaute-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 15:00:00+00",
+      "endTime": "2026-04-20 15:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7b45c69c-4ef2-44fe-97b1-4528e33c511c",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/rtl9/amour-gloire-et-beaute-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 15:25:00+00",
+      "endTime": "2026-04-20 16:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7c9794ac-444f-4c2d-b9c3-c1b1782ac6ba",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/rtl9/amour-gloire-et-beaute-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 16:00:00+00",
+      "endTime": "2026-04-20 16:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3c74d335-c5c3-41c9-825f-a3151905a028",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/tf1-series-films/amour-gloire-et-beaute-saison-1",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-21 04:20:00+00",
+      "endTime": "2026-04-21 04:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "478d8791-1c46-42cb-945e-0b4fe6c8f77d",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/rts-un/amour-gloire-et-beaute-saison-1",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-21 09:20:00+00",
+      "endTime": "2026-04-21 09:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "af3a93ae-f3db-40d3-9380-985cc8afb238",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/rtl9/amour-gloire-et-beaute-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-21 15:00:00+00",
+      "endTime": "2026-04-21 15:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "638e44bc-cfe8-4781-a6fb-de07f0fbef60",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/rtl9/amour-gloire-et-beaute-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-21 15:25:00+00",
+      "endTime": "2026-04-21 16:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4d51f226-5927-44e1-847d-47008fbf6b58",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/rtl9/amour-gloire-et-beaute-saison-1",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-21 16:00:00+00",
+      "endTime": "2026-04-21 16:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d9757f0f-7aa0-480e-9562-2a71db899839",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/tf1-series-films/amour-gloire-et-beaute-saison-1",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-22 04:20:00+00",
+      "endTime": "2026-04-22 04:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e2edf230-b31c-4385-a8ac-7f2f1b2db38d",
+      "title": "Amour, gloire et beauté - Saison 1",
+      "programSlug": "amour-gloire-et-beaute-saison-1",
+      "programUrl": "/programme/rts-un/amour-gloire-et-beaute-saison-1",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-22 09:20:00+00",
+      "endTime": "2026-04-22 09:45:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 04:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

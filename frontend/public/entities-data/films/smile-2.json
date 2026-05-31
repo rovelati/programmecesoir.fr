@@ -1,0 +1,96 @@
+{
+  "type": "film",
+  "slug": "smile-2",
+  "title": "Smile 2",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Smile 2"
+  ],
+  "genres": [
+    "thriller",
+    "film ou téléfilm à énigme",
+    "film et téléfilm d'horreur"
+  ],
+  "description": "Alors qu'elle s'apprête à se lancer dans une nouvelle tournée mondiale, Skye Riley, une star de la pop, se met soudain à être témoin d'événements aussi inexplicables qu'inquiétants. Bouleversée, la jeune femme ne tarde pas à ressentir un stress qui ne cesse de s'amplifier, la rendant bientôt incapable de faire face à son public. Alors que son quotidien bascule inexorablement vers une indescriptible horreur, Skye prend conscience du fait qu'elle ne pourra pas démarrer sa tournée avant d'avoir vaincu les démons issus de son passé tourmenté...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 127,
+  "cast": [
+    {
+      "qid": "Q704395",
+      "slug": "kyle-gallner",
+      "name": "Kyle Gallner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254894",
+      "slug": "naomi-scott",
+      "name": "Naomi Scott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q47467699",
+      "slug": "lukas-gage",
+      "name": "Lukas Gage",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236956",
+      "slug": "rosemarie-dewitt",
+      "name": "Rosemarie DeWitt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18206549",
+      "slug": "dylan-gelula",
+      "name": "Dylan Gelula",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18921514",
+      "slug": "raul-castillo",
+      "name": "Raúl Castillo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q113644511",
+      "slug": "ray-nicholson",
+      "name": "Ray Nicholson",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q114415604",
+    "slug": "parker-finn",
+    "name": "Parker Finn",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

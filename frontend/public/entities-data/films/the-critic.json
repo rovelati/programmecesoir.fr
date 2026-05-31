@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "the-critic",
+  "title": "The Critic",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "The Critic"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "A Londres, en 1934, Jimmy Erskine est le critique dramatique le plus redouté de la ville, capable de faire et de défaire une réputation d'un trait de sa plume particulièrement acérée. Nina Land, quant à elle, se révèle déterminée à gagner coûte que coûte ses faveurs afin d'avoir un bon retour pour sa carrière de comédienne. Bientôt, Jimmy se retrouve dans la ligne de mire du nouveau propriétaire de son journal, un certain David Brooke...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q117273119",
+    "slug": "stella-velon",
+    "name": "Stella Velon",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

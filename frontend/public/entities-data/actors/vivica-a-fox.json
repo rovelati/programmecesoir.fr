@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "vivica-a-fox",
+  "name": "Vivica A. Fox",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vivica%20A.%20Fox%20Cinequest%202026%2004.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-07-30",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q220396",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Vivica_A._Fox",
+    "imdb": "nm0000407",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "kill-bill-volume-1",
+      "title": "Kill Bill Volume 1"
+    },
+    {
+      "type": "film",
+      "slug": "kill-bill-volume-2",
+      "title": "Kill Bill Volume 2"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

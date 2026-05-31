@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "la-vorace",
+  "title": "La vorace",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La vorace"
+  ],
+  "genres": [
+    "Téléfilm"
+  ],
+  "description": "Clochette suit les traces de sa mère prostituée. A cet effet, elle peut compter sur les formes généreuses héritées de sa génitrice. Au gré de ses rencontres, elle se laisse tenter par des aventures de plus en plus audacieuses. Son appétit vorace la pousse jusqu'à l'un des clubs fréquentés par sa mère.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

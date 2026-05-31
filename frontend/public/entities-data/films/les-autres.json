@@ -1,0 +1,128 @@
+{
+  "type": "film",
+  "slug": "les-autres",
+  "title": "Les autres",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les autres"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "drame",
+    "film ou téléfilm à énigme"
+  ],
+  "description": "Sur l'île de Jersey, en 1945, une jeune femme, Grace, attend le retour de son époux, parti à la guerre. Elle vit seule dans un manoir isolé, s'occupant de ses deux enfants photophobes, atteints d'une maladie génétique incurable. Un matin, surgissent de nulle part trois étranges personnages...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicole%20Kidman(CannesRed%20carpet).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2001,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q37459",
+      "slug": "nicole-kidman",
+      "name": "Nicole Kidman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237579",
+      "slug": "fionnula-flanagan",
+      "name": "Fionnula Flanagan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312380",
+      "slug": "christopher-eccleston",
+      "name": "Christopher Eccleston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237545",
+      "slug": "elaine-cassidy",
+      "name": "Elaine Cassidy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457702",
+      "slug": "eric-sykes",
+      "name": "Eric Sykes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2535137",
+      "slug": "alakina-mann",
+      "name": "Alakina Mann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6129692",
+      "slug": "james-bentley",
+      "name": "James Bentley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2012810",
+      "slug": "renee-asherson",
+      "name": "Renée Asherson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262898",
+      "slug": "michelle-fairley",
+      "name": "Michelle Fairley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5585719",
+      "slug": "gordon-reid",
+      "name": "Gordon Reid",
+      "role": "actor"
+    },
+    {
+      "qid": "Q725519",
+      "slug": "keith-allen",
+      "name": "Keith Allen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q274070",
+    "slug": "alejandro-amenabar",
+    "name": "Alejandro Amenábar",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "alexandre",
+  "title": "Alexandre",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Alexandre"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Le IVe siècle avant Jésus-Christ, à Alexandrie. Ptolémée retrace devant ses auditeurs la vie d'Alexandre, fondateur du pays et conquérant sans égal dans le monde antique. Fils de Philippe II de Macédoine et d'Olympie, le jeune Alexandre est l'un des élèves d'Aristote. L'assassinat de son père, alors qu'il n'a que 20 ans, fait de lui le roi de Macédoine. A peine couronné, le jeune homme se lance dans une grande entreprise de conquête des pays connus. A la tête d'une impressionnante armée et fort de l'éducation reçue d'Aristote, Alexandre affronte les Perses, prend Babylone et s'aventure jusqu'en Inde, régnant de manière incontestée sur une grande partie du globe...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

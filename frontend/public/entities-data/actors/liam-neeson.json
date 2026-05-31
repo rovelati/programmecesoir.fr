@@ -1,0 +1,159 @@
+{
+  "type": "actor",
+  "slug": "liam-neeson",
+  "name": "Liam Neeson",
+  "worksCount": 4,
+  "description": "acteur nord-irlandais, naturalisé américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Liam%20Neeson%20Deauville%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1952-06-07",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q58444",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Liam_Neeson",
+    "imdb": "nm0000553",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "y-a-t-il-un-flic-pour-sauver-le-monde",
+      "title": "Y a-t-il un flic pour sauver le monde ?"
+    },
+    {
+      "type": "film",
+      "slug": "the-dark-knight-rises",
+      "title": "The Dark Knight Rises"
+    },
+    {
+      "type": "film",
+      "slug": "le-veteran",
+      "title": "Le Vétéran"
+    },
+    {
+      "type": "film",
+      "slug": "night-run",
+      "title": "Night Run"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67c1ebbf-a111-4083-a014-1cb877a116d5",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-rises",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 10:12:00+00",
+      "endTime": "2026-04-19 12:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3d1f0ee5-ff66-44e8-8bb5-fbf2e07d1fac",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-rises",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 21:16:00+00",
+      "endTime": "2026-04-21 23:57:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "972aeaab-e57a-4fb3-abc9-f2bdc6fd2830",
+      "title": "Y a-t-il un flic pour sauver le monde ?",
+      "programSlug": "y-a-t-il-un-flic-pour-sauver-le-monde",
+      "programUrl": "/programme/canal/y-a-t-il-un-flic-pour-sauver-le-monde",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 15:15:00+00",
+      "endTime": "2026-04-22 16:39:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "5c106664-ac23-4a0f-9920-35a94b315ac3",
+      "title": "Le Vétéran",
+      "programSlug": "le-veteran",
+      "programUrl": "/programme/cine-frisson/le-veteran",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 18:50:00+00",
+      "endTime": "2026-04-22 20:34:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a0c52da9-af7b-4ef3-b450-b74ee2ecf97c",
+      "title": "Night Run",
+      "programSlug": "night-run",
+      "programUrl": "/programme/cine-frisson/night-run",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 20:34:00+00",
+      "endTime": "2026-04-22 22:22:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "acc65da5-d0c5-4763-9d59-c67b14c1b258",
+      "title": "Le Vétéran",
+      "programSlug": "le-veteran",
+      "programUrl": "/programme/cine-frisson/le-veteran",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 13:48:00+00",
+      "endTime": "2026-04-23 15:34:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "e5ea0f2a-1c28-434c-9b94-c218155ad40d",
+      "title": "Night Run",
+      "programSlug": "night-run",
+      "programUrl": "/programme/cine-frisson/night-run",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 13:41:00+00",
+      "endTime": "2026-04-25 15:35:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "36bc28e5-68a3-49d0-a86a-96ea93299f89",
+      "title": "Le Vétéran",
+      "programSlug": "le-veteran",
+      "programUrl": "/programme/cine-frisson/le-veteran",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 15:35:00+00",
+      "endTime": "2026-04-25 17:19:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "d8f2fa45-4264-4d44-a27f-5e233bf7d71a",
+      "title": "Y a-t-il un flic pour sauver le monde ?",
+      "programSlug": "y-a-t-il-un-flic-pour-sauver-le-monde",
+      "programUrl": "/programme/canal-box-office/y-a-t-il-un-flic-pour-sauver-le-monde",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 16:55:00+00",
+      "endTime": "2026-04-25 18:18:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 10:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

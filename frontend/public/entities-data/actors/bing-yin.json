@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "bing-yin",
+  "name": "Bing Yin",
+  "worksCount": 1,
+  "description": "acteur chinois et français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/20171114%20BINGYIN.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-01-31",
+  "nationality": "République populaire de Chine",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2903928",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bing_Yin",
+    "imdb": "nm0082897",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "from-paris-with-love",
+      "title": "From Paris with Love"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b3efa48-33ba-4e07-ac3c-142a54a8b64d",
+      "title": "From Paris with Love",
+      "programSlug": "from-paris-with-love",
+      "programUrl": "/programme/cine-frisson/from-paris-with-love",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 09:55:00+00",
+      "endTime": "2026-04-23 11:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "ba809530-0f1a-46a5-8aaa-1291898052b2",
+      "title": "From Paris with Love",
+      "programSlug": "from-paris-with-love",
+      "programUrl": "/programme/cine-frisson/from-paris-with-love",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 17:19:00+00",
+      "endTime": "2026-04-25 18:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 09:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,119 @@
+{
+  "type": "film",
+  "slug": "seduite-et-abandonnee",
+  "title": "Séduite et abandonnée",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Séduite et abandonnée"
+  ],
+  "genres": [
+    "comédie",
+    "tragi-comédie"
+  ],
+  "description": "Un village de Sicile à l'heure de la sieste. Alors que tout le monde dort, Peppino, un jeune étudiant, se met en tête d'aller conter fleurette à Agnese, la soeur de sa fiancée, Mathilde. Il n'a aucun mal à la séduire mais, pris de panique, il s'enfuit peu après. La jeune fille tombe enceinte, provoquant le scandale dans la famille et s'attirant les foudres de son père, Vincenzo. Celui-ci, blessé dans son honneur, décide de se venger. Il parvient à lui extorquer le nom du lâche séducteur. Il fonce chez Peppino mais, face à son refus de rompre avec Mathilde pour épouser Agnese, Vincenzo en vient à une solution plus radicale. Il veut se débarrasser de Peppino...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sedotta%20e%20abbandonata%201964-cast.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1964,
+  "durationMinutes": 122,
+  "cast": [
+    {
+      "qid": "Q238547",
+      "slug": "stefania-sandrelli",
+      "name": "Stefania Sandrelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q752652",
+      "slug": "saro-urzi",
+      "name": "Saro Urzì",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3609295",
+      "slug": "aldo-puglisi",
+      "name": "Aldo Puglisi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1041527",
+      "slug": "lando-buzzanca",
+      "name": "Lando Buzzanca",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3836504",
+      "slug": "lola-braccini",
+      "name": "Lola Braccini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q472419",
+      "slug": "leopoldo-trieste",
+      "name": "Leopoldo Trieste",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1056178",
+      "slug": "umberto-spadaro",
+      "name": "Umberto Spadaro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3939569",
+      "slug": "rocco-d-assunta",
+      "name": "Rocco D'Assunta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3885565",
+      "slug": "oreste-palella",
+      "name": "Oreste Palella",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4013346",
+      "slug": "vincenzo-licata",
+      "name": "Vincenzo Licata",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14770327",
+      "slug": "bruno-scipioni",
+      "name": "Bruno Scipioni",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q53006",
+    "slug": "pietro-germi",
+    "name": "Pietro Germi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

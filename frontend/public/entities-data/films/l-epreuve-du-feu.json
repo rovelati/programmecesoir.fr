@@ -1,0 +1,115 @@
+{
+  "type": "film",
+  "slug": "l-epreuve-du-feu",
+  "title": "L'épreuve du feu",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "L'épreuve du feu"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Hugo a 19 ans. Comme chaque été, il passe ses vacances dans la petite maison familiale située sur l'île de Noirmoutier, où il retrouve un groupe d'amis qu'il connait depuis l'enfance. Mais cette année est différente, Hugo s'est transformé physiquement et arrive accompagné de sa nouvelle petite amie, Queen, une esthéticienne dont la verve et les longs ongles strassés détonnent avec la sobriété et la timidité du jeune homme. Rapidement, le couple devient l'objet de tous les regards, mais Hugo est conscient que cet été est une épreuve qui doit lui permettre de se débarrasser de son passé...",
+  "descriptionAi": "Ce drame intimiste de 1922 capte l'atmosphère étouffante des vacances sur l'île de Noirmoutier. Le film explore avec justesse les tensions et les non-dits au sein d'un groupe d'amis d'enfance, lorsque Hugo, 19 ans, y introduit sa petite amie exubérante, Queen. L'intérêt réside dans le portrait sensible de la métamorphose d'un jeune homme tiraillé entre son passé et son désir d'émancipation, le tout servi par une photographie qui magnifie la lumière et les paysages insulaires. Une œuvre sur le passage à l'âge adulte et le poids des regards, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c3e71ded-2d80-45f0-96d2-92a20059bf0d",
+      "title": "L'épreuve du feu",
+      "programSlug": "l-epreuve-du-feu",
+      "programUrl": "/programme/canal/l-epreuve-du-feu",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 00:56:00+00",
+      "endTime": "2026-04-22 02:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "5be1679a-973d-4a68-9106-4244d8e0254c",
+      "title": "L'épreuve du feu",
+      "programSlug": "l-epreuve-du-feu",
+      "programUrl": "/programme/paramount-channel/l-epreuve-du-feu",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 15:45:00+00",
+      "endTime": "2026-04-24 17:30:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "1c4bf802-19cd-4fef-bae6-3efc928b1923",
+      "title": "L'épreuve du feu",
+      "programSlug": "l-epreuve-du-feu",
+      "programUrl": "/programme/canal-cinema/l-epreuve-du-feu",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 15:46:00+00",
+      "endTime": "2026-04-24 17:29:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q10713889",
+    "wikipedia": "https://fr.wikipedia.org/wiki/L'%C3%89preuve_du_feu_(film%2C_1922)",
+    "imdb": "tt0013730",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:46.327Z",
+  "year": 1922,
+  "durationMinutes": 93,
+  "cast": [
+    {
+      "qid": "Q496081",
+      "slug": "jenny-hasselquist",
+      "name": "Jenny Hasselquist",
+      "role": "actor"
+    },
+    {
+      "qid": "Q722861",
+      "slug": "nils-asther",
+      "name": "Nils Asther",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6197973",
+      "slug": "tore-svennberg",
+      "name": "Tore Svennberg",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55170",
+    "slug": "victor-sjostrom",
+    "name": "Victor Sjöström",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 00:56:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

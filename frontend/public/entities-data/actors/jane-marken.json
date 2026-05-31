@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "jane-marken",
+  "name": "Jane Marken",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marken%20Harcourt%201938.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1895-01-13",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q26854",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jane_Marken",
+    "imdb": "nm0548355",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "gueule-d-amour",
+      "title": "Gueule d'amour"
+    },
+    {
+      "type": "series",
+      "slug": "partie-de-campagne",
+      "title": "Partie de campagne"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cee3b06d-399a-4c31-aa05-1ac72c9c78be",
+      "title": "Partie de campagne",
+      "programSlug": "partie-de-campagne",
+      "programUrl": "/programme/france-3-corse/partie-de-campagne",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 06:44:00+00",
+      "endTime": "2026-04-19 06:56:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 06:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

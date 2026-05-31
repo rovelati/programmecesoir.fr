@@ -1,0 +1,164 @@
+{
+  "type": "film",
+  "slug": "julie-julia",
+  "title": "Julie & Julia",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Julie & Julia"
+  ],
+  "genres": [
+    "film ou téléfilm biographique",
+    "comédie dramatique",
+    "comédie romantique",
+    "drame"
+  ],
+  "description": "En 1948, Julia Child, femme d'un fonctionnaire américain, arrive à Paris. Pour s'occuper, elle se consacre à la cuisine et rencontre un immense succès avec son livre de recettes. De nos jours, Julie Powell, employée new-yorkaise, se donne 365 jours pour réaliser toutes les recettes de Julia...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie%26Julia%20logo.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8feb3738-8b3a-465f-bb67-714353c2129d",
+      "title": "Julie & Julia",
+      "programSlug": "julie-julia",
+      "programUrl": "/programme/cine-emotion/julie-julia",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 04:30:00+00",
+      "endTime": "2026-04-23 06:30:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 123,
+  "cast": [
+    {
+      "qid": "Q873",
+      "slug": "meryl-streep",
+      "name": "Meryl Streep",
+      "role": "actor"
+    },
+    {
+      "qid": "Q481832",
+      "slug": "amy-adams",
+      "name": "Amy Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223117",
+      "slug": "stanley-tucci",
+      "name": "Stanley Tucci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1077549",
+      "slug": "chris-messina",
+      "name": "Chris Messina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230510",
+      "slug": "mary-lynn-rajskub",
+      "name": "Mary Lynn Rajskub",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228852",
+      "slug": "jane-lynch",
+      "name": "Jane Lynch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233724",
+      "slug": "vanessa-ferlito",
+      "name": "Vanessa Ferlito",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466016",
+      "slug": "casey-wilson",
+      "name": "Casey Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272412",
+      "slug": "frances-sternhagen",
+      "name": "Frances Sternhagen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q10306912",
+      "slug": "jillian-bach",
+      "name": "Jillian Bach",
+      "role": "actor"
+    },
+    {
+      "qid": "Q276184",
+      "slug": "linda-emond",
+      "name": "Linda Emond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3264884",
+      "slug": "luc-palun",
+      "name": "Luc Palun",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6205177",
+      "slug": "joan-juliet-buck",
+      "name": "Joan Juliet Buck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16093568",
+      "slug": "george-bartenieff",
+      "name": "George Bartenieff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4974971",
+      "slug": "brooks-ashmanskas",
+      "name": "Brooks Ashmanskas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6062669",
+      "slug": "remak-ramsay",
+      "name": "Remak Ramsay",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q214677",
+    "slug": "nora-ephron",
+    "name": "Nora Ephron",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 04:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

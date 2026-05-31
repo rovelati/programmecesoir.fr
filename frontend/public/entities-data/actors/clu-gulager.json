@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "clu-gulager",
+  "name": "Clu Gulager",
+  "worksCount": 2,
+  "description": "acteur américain (1928-2022)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clu%20Gulager%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1928-11-16",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q943390",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Clu_Gulager",
+    "imdb": "nm0347656",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-revanche-de-freddy",
+      "title": "La revanche de Freddy"
+    },
+    {
+      "type": "film",
+      "slug": "tangerine",
+      "title": "Tangerine"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "29e9b305-d625-4b27-9f98-80eefcf809ae",
+      "title": "Tangerine",
+      "programSlug": "tangerine",
+      "programUrl": "/programme/cine-festival/tangerine",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-21 21:42:00+00",
+      "endTime": "2026-04-21 23:06:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 21:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

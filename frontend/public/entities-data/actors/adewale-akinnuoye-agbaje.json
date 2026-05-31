@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "adewale-akinnuoye-agbaje",
+  "name": "Adewale Akinnuoye-Agbaje",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": "Adewalé Akinnuoye-Agbaje est un acteur britannique polyvalent, connu pour ses rôles marquants dans des séries et films dramatiques ou d'action. Son jeu intense et sa présence physique imposante créent souvent une ambiance à la fois puissante et mystérieuse. Ce qui le rend fascinant, c'est sa capacité à incarner des personnages complexes, parfois ambivalents, qui ajoutent une profondeur captivante à chaque intrigue. De \"Lost\" à \"Game of Thrones\", il saisit l'attention par son authenticité et son charisme singulier. Pour découvrir ses performances saisissantes, une sélection de ses œuvres est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adewale%20Akinnuoye-Agbaje%20Thor%202%20cropped.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-08-22",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q294586",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Adewale_Akinnuoye-Agbaje",
+    "imdb": "nm0015382",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-memoire-dans-la-peau",
+      "title": "La mémoire dans la peau"
+    },
+    {
+      "type": "film",
+      "slug": "ace-ventura-en-afrique",
+      "title": "Ace Ventura en Afrique"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "612495e8-9d36-460c-a3ef-7f3f65e6d239",
+      "title": "Ace Ventura en Afrique",
+      "programSlug": "ace-ventura-en-afrique",
+      "programUrl": "/programme/cine-family/ace-ventura-en-afrique",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:01:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:21.136Z",
+  "nextAiringAt": "2026-04-24 11:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

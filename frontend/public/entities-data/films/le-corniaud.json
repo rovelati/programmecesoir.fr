@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "le-corniaud",
+  "title": "Le corniaud",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le corniaud"
+  ],
+  "genres": [
+    "comédie",
+    "road movie"
+  ],
+  "description": "Modeste représentant de commerce, Antoine Maréchal s'apprête à partir en vacances en Italie lorsque, en plein Paris, sa 2CV est mise en pièces par la Bentley d'un homme d'affaires, Léopold Saroyan. Antoine, désespéré, dit adieu à ses congés. Mais dès le lendemain, il est convoqué par Saroyan. Celui-ci lui offre un billet d'avion pour Naples et le charge de récupérer une Cadillac pour le compte de riches clients américains. Ebloui, Antoine accepte, sans se douter un seul instant que la superbe voiture qu'il conduit dissimule une véritable fortune illégale. Un pactole que certains aimeraient beaucoup récupérer pour bénéficier d'une retraite dorée...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DeFunes-Bourvil-Italie-1964.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2a0af9de-410d-4954-8056-47c42d1bee64",
+      "title": "Le corniaud",
+      "programSlug": "le-corniaud",
+      "programUrl": "/programme/cine-family/le-corniaud",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-19 15:42:00+00",
+      "endTime": "2026-04-19 17:30:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1965,
+  "durationMinutes": 111,
+  "cast": [
+    {
+      "qid": "Q2750",
+      "slug": "bourvil",
+      "name": "Bourvil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2737",
+      "slug": "louis-de-funes",
+      "name": "Louis de Funès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q958262",
+      "slug": "venantino-venantini",
+      "name": "Venantino Venantini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q299695",
+      "slug": "beba-loncar",
+      "name": "Beba Loncar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1042427",
+      "slug": "alida-chelli",
+      "name": "Alida Chelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1041527",
+      "slug": "lando-buzzanca",
+      "name": "Lando Buzzanca",
+      "role": "actor"
+    },
+    {
+      "qid": "Q963856",
+      "slug": "henri-genes",
+      "name": "Henri Génès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1677880",
+      "slug": "jack-ary",
+      "name": "Jack Ary",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1557495",
+      "slug": "guy-grosso",
+      "name": "Guy Grosso",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1930864",
+      "slug": "michel-modo",
+      "name": "Michel Modo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3158888",
+      "slug": "jacques-ferriere",
+      "name": "Jacques Ferrière",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2026118",
+      "slug": "jean-droze",
+      "name": "Jean Droze",
+      "role": "actor"
+    },
+    {
+      "qid": "Q519696",
+      "slug": "andre-hubert",
+      "name": "André Hubert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848186",
+      "slug": "andre-louis",
+      "name": "André Louis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275337",
+      "slug": "daniela-rocca",
+      "name": "Daniela Rocca",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3591390",
+      "slug": "eric-vasberg",
+      "name": "Éric Vasberg",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q470798",
+    "slug": "gerard-oury",
+    "name": "Gérard Oury",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 15:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

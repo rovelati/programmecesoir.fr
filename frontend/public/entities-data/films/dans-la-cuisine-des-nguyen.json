@@ -1,0 +1,139 @@
+{
+  "type": "film",
+  "slug": "dans-la-cuisine-des-nguyen",
+  "title": "Dans la cuisine des Nguyen",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Dans la cuisine des Nguyen"
+  ],
+  "genres": [
+    "film ou téléfilm musical"
+  ],
+  "description": "Yvonne Nguyen, une trentenaire d'origine vietnamienne, rêve depuis sa plus tendre enfance de devenir actrice et de faire carrière dans la comédie musicale. Ma, sa mère, préfèrerait la voir reprendre le restaurant familial en banlieue parisienne ou épouser un médecin. En attendant de percer, Yvonne multiplie les petits boulots. Contrainte de retourner vivre chez sa mère, elle se résout à lui apporter son aide au restaurant. Très liées en dépit de leurs nombreuses querelles, les deux femmes espèrent que l'intimité de la cuisine, entre plats familiaux et recettes traditionnelles, leur permettra de communiquer, de se comprendre et de s'accepter...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "41630b15-9e4c-45bd-9612-3276249cd83a",
+      "title": "Dans la cuisine des Nguyen",
+      "programSlug": "dans-la-cuisine-des-nguyen",
+      "programUrl": "/programme/canal-box-office/dans-la-cuisine-des-nguyen",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 07:53:00+00",
+      "endTime": "2026-04-20 09:30:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 99,
+  "cast": [
+    {
+      "qid": "Q3525264",
+      "slug": "thomas-jolly",
+      "name": "Thomas Jolly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q85978748",
+      "slug": "leanna-chea",
+      "name": "Leanna Chea",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132753347",
+      "slug": "clotilde-chevalier",
+      "name": "Clotilde Chevalier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2934960",
+      "slug": "camille-japy",
+      "name": "Camille Japy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q52827934",
+      "slug": "gael-kamilindi",
+      "name": "Gaël Kamilindi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q292756",
+      "slug": "linh-dan-pham",
+      "name": "Linh-Dan Pham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2971988",
+      "slug": "chau-belle-dinh",
+      "name": "Châu Belle Dinh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2870849",
+      "slug": "audrey-giacomini",
+      "name": "Audrey Giacomini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3501921",
+      "slug": "stephane-ly-cuong",
+      "name": "Stéphane Ly-Cuong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q118190145",
+      "slug": "olivier-ruidavet",
+      "name": "Olivier Ruidavet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17374209",
+      "slug": "christophe-tek",
+      "name": "Christophe Tek",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3501921",
+    "slug": "stephane-ly-cuong",
+    "name": "Stéphane Ly-Cuong",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 07:53:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

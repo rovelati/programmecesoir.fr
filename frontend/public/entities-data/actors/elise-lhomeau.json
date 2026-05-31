@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "elise-lhomeau",
+  "name": "Élise Lhomeau",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-01-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q15121272",
+    "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89lise_Lhomeau",
+    "imdb": "nm3921940",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-envoutement",
+      "title": "L'envoûtement"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e606ee6b-0cc2-4c40-b421-d361e72a4634",
+      "title": "L'envoûtement",
+      "programSlug": "l-envoutement",
+      "programUrl": "/programme/cine-emotion/l-envoutement",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 18:05:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 18:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

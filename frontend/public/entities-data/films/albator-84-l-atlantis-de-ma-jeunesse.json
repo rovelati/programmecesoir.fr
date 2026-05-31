@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "albator-84-l-atlantis-de-ma-jeunesse",
+  "title": "Albator 84 : L'Atlantis de ma jeunesse",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Albator 84 : L'Atlantis de ma jeunesse"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "anime de science-fiction",
+    "manga ou anime d'aventure"
+  ],
+  "description": "Dans un futur lointain, la conquête spatiale et les progrès de la technologie ont permis de partir à la conquête de l'espace et de découvrir des races extraterrestres. Malheureusement, l'une d'elles, les Humanoïdes, a ravagé la Terre et a asservi l'espèce humaine. Deux hommes seulement, décident de lutter : Albator, commandant d'un vaisseau cargo, et Alfred, brillant ingénieur mécanicien. Tous deux s'embarquent à bord de l'Atlantis. La lutte va pouvoir commencer...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mangas",
+      "channelName": "Mangas",
+      "channelSlug": "mangas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mangas.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b12b8823-e503-4271-8a99-2caa64eaafbc",
+      "title": "Albator 84 : L'Atlantis de ma jeunesse",
+      "programSlug": "albator-84-l-atlantis-de-ma-jeunesse",
+      "programUrl": "/programme/mangas/albator-84-l-atlantis-de-ma-jeunesse",
+      "channelId": "mangas",
+      "channelName": "Mangas",
+      "channelSlug": "mangas",
+      "startTime": "2026-04-19 11:16:00+00",
+      "endTime": "2026-04-19 13:35:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1982,
+  "durationMinutes": 130,
+  "cast": [
+    {
+      "qid": "Q2311628",
+      "slug": "hiromi-tsuru",
+      "name": "Hiromi Tsuru",
+      "role": "actor"
+    },
+    {
+      "qid": "Q305233",
+      "slug": "takeshi-aono",
+      "name": "Takeshi Aono",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1040866",
+      "slug": "yuriko-yamamoto",
+      "name": "Yuriko Yamamoto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q857590",
+      "slug": "makio-inoue",
+      "name": "Makio Inoue",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2703731",
+      "slug": "kei-tomiyama",
+      "name": "Kei Tomiyama",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4308683",
+      "slug": "reiko-muto",
+      "name": "Reiko Mutō",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6582083",
+      "slug": "taro-ishida",
+      "name": "Tarō Ishida",
+      "role": "actor"
+    },
+    {
+      "qid": "Q922430",
+      "slug": "shuichi-ikeda",
+      "name": "Shūichi Ikeda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3482797",
+      "slug": "shuichiro-moriyama",
+      "name": "Shūichirō Moriyama",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3138666",
+      "slug": "hitoshi-takagi",
+      "name": "Hitoshi Takagi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3136369",
+      "slug": "hiroshi-otake",
+      "name": "Hiroshi Ōtake",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1322220",
+      "slug": "yujiro-ishihara",
+      "name": "Yūjirō Ishihara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1469985",
+      "slug": "eiko-masuyama",
+      "name": "Eiko Masuyama",
+      "role": "actor"
+    },
+    {
+      "qid": "Q937306",
+      "slug": "koji-yada",
+      "name": "Kōji Yada",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1999778",
+    "slug": "tomoharu-katsumata",
+    "name": "Tomoharu Katsumata",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 11:16:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

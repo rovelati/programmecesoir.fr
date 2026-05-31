@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "barbara-schulz",
+  "name": "Barbara Schulz",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20SCHULZ.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-03-15",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2884036",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Barbara_Schulz",
+    "imdb": "nm0776424",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-secret-de-kheops",
+      "title": "Le Secret de Khéops"
+    },
+    {
+      "type": "film",
+      "slug": "le-voyage-en-pyjama",
+      "title": "Le voyage en pyjama"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fc9e3cbb-00b5-4ca6-97a1-91175aa22f4c",
+      "title": "Le Secret de Khéops",
+      "programSlug": "le-secret-de-kheops",
+      "programUrl": "/programme/canal/le-secret-de-kheops",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-20 11:22:00+00",
+      "endTime": "2026-04-20 12:58:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "20cc6ce7-9965-4ff6-8d73-6fcdb3ed0367",
+      "title": "Le Secret de Khéops",
+      "programSlug": "le-secret-de-kheops",
+      "programUrl": "/programme/canal/le-secret-de-kheops",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-23 06:09:00+00",
+      "endTime": "2026-04-23 07:44:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 11:22:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

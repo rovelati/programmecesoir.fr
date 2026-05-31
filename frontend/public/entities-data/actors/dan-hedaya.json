@@ -1,0 +1,87 @@
+{
+  "type": "actor",
+  "slug": "dan-hedaya",
+  "name": "Dan Hedaya",
+  "worksCount": 4,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Hedaya%202016.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1940-07-24",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q724804",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dan_Hedaya",
+    "imdb": "nm0000445",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "daylight",
+      "title": "Daylight"
+    },
+    {
+      "type": "film",
+      "slug": "predateurs",
+      "title": "Prédateurs"
+    },
+    {
+      "type": "film",
+      "slug": "mulholland-drive",
+      "title": "Mulholland Drive"
+    },
+    {
+      "type": "film",
+      "slug": "prete-a-tout",
+      "title": "Prête à tout"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e421f727-4754-4c7a-9082-6249a3c5eb2a",
+      "title": "Mulholland Drive",
+      "programSlug": "mulholland-drive",
+      "programUrl": "/programme/ocs/mulholland-drive",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 11:29:00+00",
+      "endTime": "2026-04-21 13:51:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2d7f6144-2c14-4c91-b857-f0d9d5e42589",
+      "title": "Mulholland Drive",
+      "programSlug": "mulholland-drive",
+      "programUrl": "/programme/ocs/mulholland-drive",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 03:52:00+00",
+      "endTime": "2026-04-25 06:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "4019fc0c-7454-48c5-aed3-e32397b04254",
+      "title": "Daylight",
+      "programSlug": "daylight",
+      "programUrl": "/programme/rtl9/daylight",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-25 21:10:00+00",
+      "endTime": "2026-04-25 23:05:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 11:29:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

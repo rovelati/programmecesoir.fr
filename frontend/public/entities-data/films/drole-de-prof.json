@@ -1,0 +1,138 @@
+{
+  "type": "film",
+  "slug": "drole-de-prof",
+  "title": "Drôle de prof",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Drôle de prof"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm pour enfants"
+  ],
+  "description": "Madame Dreus, la directrice d'une école élémentaire, doit remplacer au pied levé une institutrice enceinte. C'est ainsi que M. Kees, un stagiaire de 19 ans, se retrouve en charge de la classe 6B, qui regroupe des enfants particulièrement agités. Le jeune instituteur en herbe expérimente des méthodes originales, très différentes de celles de la directrice, plus classiques et plus rigides. Il prend également sous son aile Tobias, un écolier dont il se sent proche car il a, comme lui, perdu son père...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "de4e69d3-e304-4192-b9bb-107168bbb443",
+      "title": "Drôle de prof",
+      "programSlug": "drole-de-prof",
+      "programUrl": "/programme/cine-family/drole-de-prof",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-26 00:32:00+00",
+      "endTime": "2026-04-26 03:03:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 80,
+  "cast": [
+    {
+      "qid": "Q2684168",
+      "slug": "willem-voogd",
+      "name": "Willem Voogd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2171998",
+      "slug": "sanne-wallis-de-vries",
+      "name": "Sanne Wallis de Vries",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5047770",
+      "slug": "cas-jansen",
+      "name": "Cas Jansen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1972774",
+      "slug": "hannah-hoekstra",
+      "name": "Hannah Hoekstra",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16070202",
+      "slug": "jeroen-de-man",
+      "name": "Jeroen de Man",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2776853",
+      "slug": "mara-van-vlijmen",
+      "name": "Mara van Vlijmen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2235526",
+      "slug": "raymonde-de-kuyper",
+      "name": "Raymonde de Kuyper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16069781",
+      "slug": "marieke-de-kleine",
+      "name": "Marieke de Kleine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13632488",
+      "slug": "fabian-jansen",
+      "name": "Fabian Jansen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4296134",
+      "slug": "peter-heerschop",
+      "name": "Peter Heerschop",
+      "role": "actor"
+    },
+    {
+      "qid": "Q60317485",
+      "slug": "felix-osinga",
+      "name": "Felix Osinga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1683531",
+      "slug": "vivienne-van-den-assem",
+      "name": "Viviënne van den Assem",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q56292833",
+    "slug": "barbara-bredero",
+    "name": "Barbara Bredero",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-26 00:32:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

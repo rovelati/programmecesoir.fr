@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "austin-powers-dans-goldmember",
+  "title": "Austin Powers dans Goldmember",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Austin Powers dans Goldmember"
+  ],
+  "genres": [
+    "film ou téléfilm parodique",
+    "film ou téléfilm d'espionnage"
+  ],
+  "description": "Voilà trois ans qu'Austin Powers, un espion de renommée internationale, est parvenu à mettre un terme aux sombres agissements du docteur Denfer. Mais celui-ci réussit à s'échapper de la prison de haute sécurité dans laquelle il était détenu. Le vil personnage a pour objectif de remonter dans le temps, en 1975, pour kidnapper Nigel Powers, le père d'Austin, alors qu'il était lui aussi un grand agent des services secrets britanniques. Pour l'aider dans sa tâche, il s'adjoint les services d'un certain Goldmember. Les deux comparses ignorent qu'Austin Powers, plus vif et tenace que jamais, est déjà à leurs trousses, accompagné par une jeune et séduisante détective...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Austin%20Shaguar.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2002,
+  "durationMinutes": 94,
+  "cast": [
+    {
+      "qid": "Q36153",
+      "slug": "beyonce",
+      "name": "Beyoncé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123351",
+      "slug": "michael-caine",
+      "name": "Michael Caine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298777",
+      "slug": "michael-york",
+      "name": "Michael York",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310493",
+      "slug": "robert-wagner",
+      "name": "Robert Wagner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1101612",
+      "slug": "clint-howard",
+      "name": "Clint Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296505",
+      "slug": "rob-lowe",
+      "name": "Rob Lowe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271471",
+      "slug": "verne-troyer",
+      "name": "Verne Troyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q431356",
+      "slug": "charles-napier",
+      "name": "Charles Napier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447392",
+      "slug": "fred-savage",
+      "name": "Fred Savage",
+      "role": "actor"
+    },
+    {
+      "qid": "Q185724",
+      "slug": "mike-myers",
+      "name": "Mike Myers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q185724",
+      "slug": "mike-myers",
+      "name": "Mike Myers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q185724",
+      "slug": "mike-myers",
+      "name": "Mike Myers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q186757",
+      "slug": "seth-green",
+      "name": "Seth Green",
+      "role": "actor"
+    },
+    {
+      "qid": "Q185724",
+      "slug": "mike-myers",
+      "name": "Mike Myers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2820059",
+      "slug": "aaron-himelstein",
+      "name": "Aaron Himelstein",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2346099",
+      "slug": "carrie-ann-inaba",
+      "name": "Carrie Ann Inaba",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q524278",
+    "slug": "jay-roach",
+    "name": "Jay Roach",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

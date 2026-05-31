@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "le-routard",
+  "title": "Le Routard",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le Routard"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Yann n'a qu'un seul rêve dans la vie : voyager. Alors, quand il entend que le célèbre Guide du Routard recrute des collaborateurs pour faire le tour du monde, il n'hésite pas un seul instant : il se présente à un entretien et, à sa grande surprise, parvient à se faire embaucher. Sa première mission : Marrakech, quarante adresses à vérifier en cinq jours. Mais Yann a oublié de mentionner un petit détail lors de son entretien : il n'a jamais voyagé de sa vie. Ce qui lui semblait être au premier abord le \"meilleur job du monde\" va se révéler beaucoup moins idyllique que prévu...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 85,
+  "cast": [
+    {
+      "qid": "Q83637337",
+      "slug": "hakim-jemili",
+      "name": "Hakim Jemili",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310692",
+      "slug": "christian-clavier",
+      "name": "Christian Clavier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1398256",
+      "slug": "michel-blanc",
+      "name": "Michel Blanc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3286441",
+      "slug": "manon-azem",
+      "name": "Manon Azem",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3086968",
+      "slug": "fred-testot",
+      "name": "Fred Testot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2870702",
+      "slug": "aude-gogny-goubert",
+      "name": "Aude Gogny-Goubert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105315563",
+      "slug": "yann-papin",
+      "name": "Yann Papin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16663967",
+      "slug": "medi-sadoun",
+      "name": "Medi Sadoun",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131199967",
+      "slug": "celine-groussard",
+      "name": "Céline Groussard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3191032",
+      "slug": "jerome-pouly",
+      "name": "Jérôme Pouly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q265232",
+      "slug": "alice-taglioni",
+      "name": "Alice Taglioni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380199",
+      "slug": "philippe-lefebvre",
+      "name": "Philippe Lefebvre",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3160415",
+      "slug": "jade-phan-gia",
+      "name": "Jade Phan-Gia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109277834",
+      "slug": "inas-chanti",
+      "name": "Inas Chanti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3379922",
+      "slug": "philippe-gloaguen",
+      "name": "Philippe Gloaguen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3380355",
+    "slug": "philippe-mechelen",
+    "name": "Philippe Mechelen",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

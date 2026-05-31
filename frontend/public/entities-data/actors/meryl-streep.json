@@ -1,0 +1,87 @@
+{
+  "type": "actor",
+  "slug": "meryl-streep",
+  "name": "Meryl Streep",
+  "worksCount": 4,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Meryl%20Streep%20interview%20at%20Festival%20de%20Cannes%202024%20(cropped%202).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1949-06-22",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q873",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Meryl_Streep",
+    "imdb": "nm0000658",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-suffragettes",
+      "title": "Les suffragettes"
+    },
+    {
+      "type": "film",
+      "slug": "pas-si-simple",
+      "title": "Pas si simple"
+    },
+    {
+      "type": "film",
+      "slug": "julie-julia",
+      "title": "Julie & Julia"
+    },
+    {
+      "type": "film",
+      "slug": "voyage-au-bout-de-l-enfer",
+      "title": "Voyage au bout de l'enfer"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e34d82ba-c294-4cdb-95d5-19ce7d48c591",
+      "title": "Voyage au bout de l'enfer",
+      "programSlug": "voyage-au-bout-de-l-enfer",
+      "programUrl": "/programme/cine-festival/voyage-au-bout-de-l-enfer",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-20 13:10:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8feb3738-8b3a-465f-bb67-714353c2129d",
+      "title": "Julie & Julia",
+      "programSlug": "julie-julia",
+      "programUrl": "/programme/cine-emotion/julie-julia",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 04:30:00+00",
+      "endTime": "2026-04-23 06:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "2ab3a59d-d90d-49ea-abe8-b51f78b5829f",
+      "title": "Les suffragettes",
+      "programSlug": "les-suffragettes",
+      "programUrl": "/programme/canal-grand-ecran/les-suffragettes",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 23:32:00+00",
+      "endTime": "2026-04-25 01:14:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 13:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

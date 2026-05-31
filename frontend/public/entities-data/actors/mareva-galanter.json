@@ -1,0 +1,66 @@
+{
+  "type": "actor",
+  "slug": "mareva-galanter",
+  "name": "Mareva Galanter",
+  "worksCount": 2,
+  "description": "miss France 1999",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mareva%20Galanter%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-02-04",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3290437",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mareva_Galanter",
+    "imdb": "nm1000884",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "3-zeros",
+      "title": "3 zéros"
+    },
+    {
+      "type": "film",
+      "slug": "les-gaous",
+      "title": "Les Gaous"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e7f40870-2d6a-40b4-9a60-73f060e83d4c",
+      "title": "Les Gaous",
+      "programSlug": "les-gaous",
+      "programUrl": "/programme/gongfr/les-gaous",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-19 23:10:00+00",
+      "endTime": "2026-04-20 01:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7d349440-fe84-4dd9-a53a-0fb4085d663d",
+      "title": "3 zéros",
+      "programSlug": "3-zeros",
+      "programUrl": "/programme/cine-family/3-zeros",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 09:41:00+00",
+      "endTime": "2026-04-24 11:17:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 23:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

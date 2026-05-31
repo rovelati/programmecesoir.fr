@@ -1,0 +1,58 @@
+{
+  "type": "film",
+  "slug": "l-ecole-est-a-nous",
+  "title": "L'école est à nous",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'école est à nous"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Virginie Thévenot, une nouvelle professeure de mathématiques, fait sa rentrée au collège. Elle se voit confier une classe qui aurait un niveau très bas. Lorsqu'une grève générale se produit, Virginie décide d'utiliser une nouvelle tactique et donne plus de liberté à ses élèves. Contre l'avis du principal du collège, elle propose aux adolescents de faire ce qu'ils ont toujours voulu faire, une véritable surprise pour eux. Contrairement aux attentes des collègues de Virginie, les élèves s'épanouissent et laissent place à leur imagination, en faisant ressortir tout ce qu'ils ont de positif en eux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q615469",
+      "slug": "jean-pierre-darroussin",
+      "name": "Jean-Pierre Darroussin",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q15136777",
+    "slug": "alexandre-castagnetti",
+    "name": "Alexandre Castagnetti",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

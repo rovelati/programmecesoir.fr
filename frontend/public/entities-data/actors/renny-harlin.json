@@ -1,0 +1,76 @@
+{
+  "type": "actor",
+  "slug": "renny-harlin",
+  "name": "Renny Harlin",
+  "worksCount": 4,
+  "description": "cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Renny%20Harlin%202%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1959-03-15",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q318712",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Renny_Harlin",
+    "imdb": "nm0001317",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "cleaner",
+      "title": "Cleaner"
+    },
+    {
+      "type": "film",
+      "slug": "l-ile-aux-pirates",
+      "title": "L'île aux pirates"
+    },
+    {
+      "type": "film",
+      "slug": "peur-bleue",
+      "title": "Peur bleue"
+    },
+    {
+      "type": "film",
+      "slug": "le-cauchemar-de-freddy",
+      "title": "Le cauchemar de Freddy"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d8a40c73-6744-4f26-bb75-9116b5137a7c",
+      "title": "Cleaner",
+      "programSlug": "cleaner",
+      "programUrl": "/programme/canal-box-office/cleaner",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 13:23:00+00",
+      "endTime": "2026-04-19 14:58:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2130ea8b-11b4-4d5f-a6bf-f24939ee12a1",
+      "title": "Cleaner",
+      "programSlug": "cleaner",
+      "programUrl": "/programme/canal-box-office/cleaner",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 10:14:00+00",
+      "endTime": "2026-04-22 11:49:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 13:23:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

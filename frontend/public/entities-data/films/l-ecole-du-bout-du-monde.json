@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "l-ecole-du-bout-du-monde",
+  "title": "L'école du bout du monde",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'école du bout du monde"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Ugyen Dorji, un jeune instituteur du Bhoutan, n'est pas emballé à l'idée d'enseigner dans la partie la plus reculée du pays. Une fois sur place, après un long et pénible voyage, il se rend compte que la vie y sera difficile. Il prend son courage à deux mains et crée une vraie salle de classe...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lunana%20A%20Yak%20in%20the%20Classroom%20Logo.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2019,
+  "durationMinutes": 110,
+  "cast": [],
+  "director": {
+    "qid": "Q104439581",
+    "slug": "pawo-choyning-dorji",
+    "name": "Pawo Choyning Dorji",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

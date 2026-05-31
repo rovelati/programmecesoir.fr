@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jean-pierre-castaldi",
+  "name": "Jean-Pierre Castaldi",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20Castaldi.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1944-10-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q1685186",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Pierre_Castaldi",
+    "imdb": "nm0144413",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "asterix-et-obelix-contre-cesar",
+      "title": "Astérix et Obélix contre César"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

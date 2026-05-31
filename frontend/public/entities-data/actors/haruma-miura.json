@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "haruma-miura",
+  "name": "Haruma Miura",
+  "worksCount": 1,
+  "description": "acteur et chanteur japonais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/20190829%20%E4%B8%89%E6%B5%A6%E6%98%A5%E9%A6%AC%E5%9C%A8%E5%8F%B0%E7%81%A3%E8%88%87%E7%B2%89%E7%B5%B2%E8%A6%8B%E9%9D%A2.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-04-05",
+  "nationality": "Japon",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1342961",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Haruma_Miura",
+    "imdb": "nm2067218",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "attack-on-titan",
+      "title": "Attack on Titan"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42b52b7f-506d-45b7-acaf-0dfd022798c9",
+      "title": "Attack on Titan",
+      "programSlug": "attack-on-titan",
+      "programUrl": "/programme/mcm/attack-on-titan",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-22 20:35:00+00",
+      "endTime": "2026-04-22 22:10:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 20:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

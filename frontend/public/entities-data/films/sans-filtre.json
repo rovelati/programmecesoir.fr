@@ -1,0 +1,83 @@
+{
+  "type": "film",
+  "slug": "sans-filtre",
+  "title": "Sans filtre",
+  "airingsCount": 13,
+  "sourceTitles": [
+    "Sans filtre"
+  ],
+  "genres": [
+    "rock"
+  ],
+  "description": "Trois amies se rendent en mer sur un bateau pour fêter la fin des années lycée, mais leur rapport aux réseaux sociaux devient vite problématique.",
+  "descriptionAi": "Ce film dramatique au ton résolument rock plonge dans l'ambiance électrique et parfois anxiogène des réseaux sociaux. Il suit trois amies parties en mer célébrer la fin du lycée, dont le voyage idyllique vire à la confrontation lorsque leur vie en ligne s'immisce dans la réalité. L'intérêt réside dans sa critique acerbe et immersive de notre dépendance numérique, explorant avec tension le fossé entre apparences virtuelles et vérités humaines. Une plongée sans concession dans les eaux troubles de l'hyperconnexion, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 13
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "446d19e9-86a9-45dd-8e22-894e4eb09c6a",
+      "title": "Sans filtre",
+      "programSlug": "sans-filtre",
+      "programUrl": "/programme/eurochannel/sans-filtre",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 10:00:00+00",
+      "endTime": "2026-04-19 11:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b181f5f4-31ea-4e6a-805d-dc2787d2901f",
+      "title": "Sans filtre",
+      "programSlug": "sans-filtre",
+      "programUrl": "/programme/eurochannel/sans-filtre",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 09:00:00+00",
+      "endTime": "2026-04-20 10:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "90f825be-4ac1-4623-9011-0221c8e8c3b3",
+      "title": "Sans filtre",
+      "programSlug": "sans-filtre",
+      "programUrl": "/programme/eurochannel/sans-filtre",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-24 22:25:00+00",
+      "endTime": "2026-04-24 23:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q7418934",
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:26:57.295Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 10:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

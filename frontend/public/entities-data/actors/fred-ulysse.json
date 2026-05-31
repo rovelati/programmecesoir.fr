@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "fred-ulysse",
+  "name": "Fred Ulysse",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1934-09-12",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3086961",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fred_Ulysse",
+    "imdb": "nm0880774",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "seules-les-betes",
+      "title": "Seules les bêtes"
+    },
+    {
+      "type": "film",
+      "slug": "les-liens-du-sang",
+      "title": "Les liens du sang"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "aa048c4b-7076-442d-8ce1-88d5dc1758ad",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 14:51:00+00",
+      "endTime": "2026-04-21 16:46:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "73463dbd-0d24-48f0-95a1-5068ad553278",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 16:55:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "bc39ab94-9a09-4e74-8f1a-a6abb2323210",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 07:04:00+00",
+      "endTime": "2026-04-25 08:59:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 14:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

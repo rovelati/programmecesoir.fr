@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "mark-wahlberg",
+  "name": "Mark Wahlberg",
+  "worksCount": 3,
+  "description": "acteur, chanteur et producteur de cinéma et télévision américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Wahlberg%202021.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-06-05",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q164119",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mark_Wahlberg",
+    "imdb": "nm0000242",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "boogie-nights",
+      "title": "Boogie Nights"
+    },
+    {
+      "type": "film",
+      "slug": "les-infiltres",
+      "title": "Les infiltrés"
+    },
+    {
+      "type": "film",
+      "slug": "quatre-freres",
+      "title": "Quatre frères"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

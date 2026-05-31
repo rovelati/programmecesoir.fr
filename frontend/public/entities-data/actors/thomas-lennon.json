@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "thomas-lennon",
+  "name": "Thomas Lennon",
+  "worksCount": 2,
+  "description": "acteur et scénariste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Lennon%20February%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-08-09",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1319539",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Thomas_Lennon",
+    "imdb": "nm0502073",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bad-teacher",
+      "title": "Bad Teacher"
+    },
+    {
+      "type": "film",
+      "slug": "la-nuit-au-musee-2",
+      "title": "La nuit au musée 2"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

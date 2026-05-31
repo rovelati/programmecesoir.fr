@@ -1,0 +1,65 @@
+{
+  "type": "film",
+  "slug": "obara-m",
+  "title": "Obara'M",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Obara'M"
+  ],
+  "genres": [
+    "Cinéma",
+    "Cinema"
+  ],
+  "description": "Pour fuir la misère et poursuivre son rêve à Lagos, Oluchi abandonne sa fille au village. Rattrapée par la mort de son père, elle la reprend et retourne à Lagos, déchirée entre son rêve musical et son rôle de mère. Portées par la musique, elles se rapprochent, jusqu'à ce qu''un secret bouleverse leur lien fragile et menace de les briser à jamais.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "24583e81-c0e8-4b91-bfc1-3e912728748d",
+      "title": "Obara'M",
+      "programSlug": "obara-m",
+      "programUrl": "/programme/nollywood-tv/obara-m",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-19 04:09:00+00",
+      "endTime": "2026-04-19 06:18:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q107304237",
+    "slug": "kayode-kasum",
+    "name": "Kayode Kasum",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 04:09:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

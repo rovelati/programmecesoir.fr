@@ -1,0 +1,124 @@
+{
+  "type": "series",
+  "slug": "munch",
+  "title": "Munch",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Munch",
+    "Munch - Saison 1"
+  ],
+  "genres": [
+    "portrait",
+    "expressionnisme",
+    "scène de genre",
+    "paysage",
+    "autoportrait"
+  ],
+  "description": "Quelle n'est pas la surprise de Munch quand elle voit débarquer dans son cabinet Lisbeth Boisselier, une gamine de 14 ans qui demande son aide pour ouvrir le procès en révision de sa mère, Claire. Celle-ci a été condamnée pour meurtre 4 ans auparavant, mais Lisbeth ne croit pas en sa culpabilité. La preuve, elle a retrouvé l'arme du crime... Et les empreintes sur le pistolet ne sont pas celles de sa mère ! L'avocate comprend rapidement que le véritable meurtrier a profité du manque de communication au sein de cette famille Boisselier pour échapper à la justice. Pendant ce temps, le piège de Montjoie se resserre. Non content d'avoir saisi le Parquet contre Munch, celui-ci a prévenu les plus gros clients du Cabinet des problèmes judiciaires de leur avocate.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%201933-2.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "channelNumber": null,
+      "logoUrl": "/loghi/t18.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4bd3d094-b06e-44a0-b7b8-235089c91bea",
+      "title": "Munch",
+      "programSlug": "munch",
+      "programUrl": "/programme/t18/munch",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-19 10:55:00+00",
+      "endTime": "2026-04-19 11:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f38be3ae-3f09-43c4-903a-7714899f1a49",
+      "title": "Munch",
+      "programSlug": "munch",
+      "programUrl": "/programme/t18/munch",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-19 11:55:00+00",
+      "endTime": "2026-04-19 12:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1c305d20-785b-495e-9e59-a76a96d2cfa9",
+      "title": "Munch",
+      "programSlug": "munch",
+      "programUrl": "/programme/t18/munch",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-19 12:45:00+00",
+      "endTime": "2026-04-19 13:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2c252ffa-2e30-4b77-80cf-8dd1d855dc05",
+      "title": "Munch",
+      "programSlug": "munch",
+      "programUrl": "/programme/t18/munch",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-19 13:45:00+00",
+      "endTime": "2026-04-19 14:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "21138807-86c2-475f-ba98-1fb79f2a7e90",
+      "title": "Munch - Saison 4",
+      "programSlug": "munch-saison-4",
+      "programUrl": "/programme/t18/munch-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-22 18:55:00+00",
+      "endTime": "2026-04-22 19:50:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7d545803-7991-4432-9edf-68a03604c9c1",
+      "title": "Munch - Saison 4",
+      "programSlug": "munch-saison-4",
+      "programUrl": "/programme/t18/munch-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-22 19:50:00+00",
+      "endTime": "2026-04-22 20:50:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 10:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

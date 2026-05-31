@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "en-eaux-trouble",
+  "title": "En eaux trouble",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "En eaux trouble"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film et téléfilm d'horreur",
+    "film ou téléfilm de science-fiction",
+    "thriller",
+    "film ou téléfilm d'aventure",
+    "kaijū",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "La vie d'Obi tourne autour de Kamsi, mais lorsqu'un désastre survient, il est dévasté. Pourtant, il pourrait bien détenir la solution pour le surmonter.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Meg%20-%202018%20film.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": 113,
+  "cast": [
+    {
+      "qid": "Q169963",
+      "slug": "jason-statham",
+      "name": "Jason Statham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254166",
+      "slug": "li-bingbing",
+      "name": "Li Bingbing",
+      "role": "actor"
+    },
+    {
+      "qid": "Q710548",
+      "slug": "winston-chao",
+      "name": "Winston Chao",
+      "role": "actor"
+    },
+    {
+      "qid": "Q359325",
+      "slug": "cliff-curtis",
+      "name": "Cliff Curtis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349548",
+      "slug": "rainn-wilson",
+      "name": "Rainn Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3942185",
+      "slug": "ruby-rose",
+      "name": "Ruby Rose",
+      "role": "actor"
+    },
+    {
+      "qid": "Q960554",
+      "slug": "page-kennedy",
+      "name": "Page Kennedy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4275861",
+      "slug": "jessica-mcnamee",
+      "name": "Jessica McNamee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16420426",
+      "slug": "olafur-darri-olafsson",
+      "name": "Ólafur Darri Ólafsson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q944529",
+      "slug": "robert-taylor",
+      "name": "Robert Taylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309503",
+      "slug": "masi-oka",
+      "name": "Masi Oka",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q470251",
+    "slug": "jon-turteltaub",
+    "name": "Jon Turteltaub",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

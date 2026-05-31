@@ -1,0 +1,185 @@
+{
+  "type": "actor",
+  "slug": "jon-seda",
+  "name": "Jon Seda",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Seda%202010%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-10-14",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1343857",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jon_Seda",
+    "imdb": "nm0781218",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "chicago-police-department",
+      "title": "Chicago Police Department"
+    },
+    {
+      "type": "series",
+      "slug": "homicide",
+      "title": "Homicide"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6b624e4d-296c-44ff-9473-60fb7d2f2763",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-19 15:15:00+00",
+      "endTime": "2026-04-19 16:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c8eaa0c7-013c-46a0-888d-17a6cb8acbfe",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 08:25:00+00",
+      "endTime": "2026-04-20 09:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "060d1159-ed5b-49ae-b7e7-3befc0067e66",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 09:10:00+00",
+      "endTime": "2026-04-20 09:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e4c76cfd-9aeb-4fe9-af88-face909f640d",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 14:55:00+00",
+      "endTime": "2026-04-20 15:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f8ad469a-09fd-4ef1-9246-2801c7b580cc",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 15:45:00+00",
+      "endTime": "2026-04-20 16:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d880a475-6087-477d-995a-77d11c7c27f5",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-21 08:20:00+00",
+      "endTime": "2026-04-21 09:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9897f3d4-860e-4f3e-aa03-346a450afb9b",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-21 09:05:00+00",
+      "endTime": "2026-04-21 09:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "23872729-2283-4a94-acbf-5802fa7de4a0",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-21 14:55:00+00",
+      "endTime": "2026-04-21 15:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9affaa7b-11a9-4843-928c-0978062e7850",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-21 15:40:00+00",
+      "endTime": "2026-04-21 16:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "85b5d0e3-7822-4169-91ac-78c31df61420",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-22 08:15:00+00",
+      "endTime": "2026-04-22 09:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "665cf8d6-802f-4ef5-925a-489df0f77e3b",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-22 09:00:00+00",
+      "endTime": "2026-04-22 09:50:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c0a32d98-fe68-429c-a468-0843755840eb",
+      "title": "Chicago Police Department",
+      "programSlug": "chicago-police-department",
+      "programUrl": "/programme/13eme-rue/chicago-police-department",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-22 15:00:00+00",
+      "endTime": "2026-04-22 15:45:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 15:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

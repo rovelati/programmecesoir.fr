@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "james-d-arcy",
+  "name": "James D'Arcy",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20DArcy%20(8008892914).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-08-24",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q717194",
+    "wikipedia": "https://fr.wikipedia.org/wiki/James_D'Arcy",
+    "imdb": "nm0195439",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jupiter-le-destin-de-l-univers",
+      "title": "Jupiter : le destin de l'univers"
+    },
+    {
+      "type": "series",
+      "slug": "broadchurch",
+      "title": "Broadchurch"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3ac6560e-50c4-43e3-a7f6-712d436f0311",
+      "title": "Broadchurch - Saison 2",
+      "programSlug": "broadchurch-saison-2",
+      "programUrl": "/programme/novo19/broadchurch-saison-2",
+      "channelId": "novo19",
+      "channelName": "NOVO19",
+      "channelSlug": "novo19",
+      "startTime": "2026-04-25 19:10:00+00",
+      "endTime": "2026-04-25 19:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "3cbe494b-3b4a-4948-a0cb-3006d630c593",
+      "title": "Broadchurch - Saison 2",
+      "programSlug": "broadchurch-saison-2",
+      "programUrl": "/programme/novo19/broadchurch-saison-2",
+      "channelId": "novo19",
+      "channelName": "NOVO19",
+      "channelSlug": "novo19",
+      "startTime": "2026-04-25 19:55:00+00",
+      "endTime": "2026-04-25 20:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "cc3e3a76-b98a-4630-aa7e-5a6d8c89d4c0",
+      "title": "Broadchurch - Saison 2",
+      "programSlug": "broadchurch-saison-2",
+      "programUrl": "/programme/novo19/broadchurch-saison-2",
+      "channelId": "novo19",
+      "channelName": "NOVO19",
+      "channelSlug": "novo19",
+      "startTime": "2026-04-25 20:55:00+00",
+      "endTime": "2026-04-25 21:55:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-25 19:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

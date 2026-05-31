@@ -1,0 +1,303 @@
+{
+  "type": "series",
+  "slug": "rouge-carmin",
+  "title": "Rouge Carmin",
+  "airingsCount": 216,
+  "sourceTitles": [
+    "Rouge Carmin"
+  ],
+  "genres": [
+    "Série dramatique"
+  ],
+  "description": "Juana Levy et Jorge sont un couple qui veut lancer une entreprise de cosmétiques tout en essayant de garder leur amour, mais Valeria Ruiz et d'autres menaces rendront la route vers le succès compliquée.\n\nRéalisateur(s) : Víctor Cantillo, Catalina Hernández\nActeurs : Laura De León (Juana Levy), Carlos Báez (Jorge García), Carolina Gaitan (Valeria Ruiz), Juan Manuel Guilera (Marcelo Valencia), Marcelo Dos Santos (Alejandro Ruiz), Natasha Klauss (Paulina Valencia)",
+  "descriptionAi": "Cette série dramatique plonge le téléspectateur dans l'univers impitoyable de l'entrepreneuriat et des relations humaines. On suit Juana Levy et Jorge, un couple uni par l'amour et le rêve de lancer leur marque de cosmétiques. Mais leur parcours semé d'embûches est jalonné de trahisons, de rivalités et de secrets, incarnés par la redoutable Valeria Ruiz. L'ambiance, à la fois glamour et corrosive, explore le prix du succès et la résilience des sentiments face aux manipulations. Une intrigue addictive où les ambitions personnelles et les conflits d'intérêts menacent constamment l'équilibre précaire des protagonistes. Une fresque passionnante sur les sacrifices et les luttes du pouvoir, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguadeloupefr.svg",
+      "airingsCount": 44
+    },
+    {
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tvsudmarseillefr.svg",
+      "airingsCount": 44
+    },
+    {
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv7-bordeaux.png",
+      "airingsCount": 20
+    },
+    {
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvmartiniquefr.svg",
+      "airingsCount": 44
+    },
+    {
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguyanefr.svg",
+      "airingsCount": 44
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 20
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "33fd3741-2c5f-4834-9b59-da3e802d4c23",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvguadeloupefr/rouge-carmin",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 05:25:00+00",
+      "endTime": "2026-04-20 05:48:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "47eebf7f-4781-40e6-b744-403eb272903d",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvguyanefr/rouge-carmin",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 05:25:00+00",
+      "endTime": "2026-04-20 05:48:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a519fff2-c701-4417-ac75-d682ebdb2531",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvmartiniquefr/rouge-carmin",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 05:25:00+00",
+      "endTime": "2026-04-20 05:48:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ba88077a-3739-4271-88f8-a1f28686eaa0",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/tv7-bordeaux/rouge-carmin",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 05:25:00+00",
+      "endTime": "2026-04-20 05:48:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4c7a090a-f779-49dc-80e2-b9f9eaf48468",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/tvsudmarseillefr/rouge-carmin",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 05:25:00+00",
+      "endTime": "2026-04-20 05:48:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e2f9ccdf-0fb5-4bf3-a11c-a7ec386b3bf3",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvguadeloupefr/rouge-carmin",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 05:48:00+00",
+      "endTime": "2026-04-20 06:12:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f6981b42-3f42-44d8-93c4-26a1b70f523a",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvguyanefr/rouge-carmin",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 05:48:00+00",
+      "endTime": "2026-04-20 06:12:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "1d3acd6b-a159-43b8-a8cb-26c9e534595c",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvmartiniquefr/rouge-carmin",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 05:48:00+00",
+      "endTime": "2026-04-20 06:12:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2e6a97df-4061-446e-9ff5-0084313ffa68",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/tv7-bordeaux/rouge-carmin",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 05:48:00+00",
+      "endTime": "2026-04-20 06:12:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "6e7a2d49-d525-4ca2-b94a-9f6407a0b3f2",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/tvsudmarseillefr/rouge-carmin",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 05:48:00+00",
+      "endTime": "2026-04-20 06:12:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "84d70a81-5a30-4a68-a1b1-feeccf7dc533",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvguadeloupefr/rouge-carmin",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 15:10:00+00",
+      "endTime": "2026-04-20 15:33:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "daf72cb0-8eff-4658-a3d3-a5f71b5f04d5",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvguyanefr/rouge-carmin",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 15:10:00+00",
+      "endTime": "2026-04-20 15:33:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0a80538c-ab36-48c4-b52b-e0059ab81223",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvmartiniquefr/rouge-carmin",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 15:10:00+00",
+      "endTime": "2026-04-20 15:33:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "aa04ccb7-eb86-4076-8fd2-3f1b4e2e94c2",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/tv7-bordeaux/rouge-carmin",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 15:10:00+00",
+      "endTime": "2026-04-20 15:33:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "04628821-dd99-4920-b95a-817315824409",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/tvsudmarseillefr/rouge-carmin",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 15:10:00+00",
+      "endTime": "2026-04-20 15:33:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bb970014-1097-4da5-a53c-ef8e3d0db271",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvguadeloupefr/rouge-carmin",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 15:33:00+00",
+      "endTime": "2026-04-20 16:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ce7312c1-96f4-474c-84ea-591f1b525be0",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvguyanefr/rouge-carmin",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 15:33:00+00",
+      "endTime": "2026-04-20 16:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "967fc41d-5b1f-44af-9219-140c2937aa10",
+      "title": "Rouge Carmin",
+      "programSlug": "rouge-carmin",
+      "programUrl": "/programme/atvmartiniquefr/rouge-carmin",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 15:33:00+00",
+      "endTime": "2026-04-20 16:00:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T22:06:31.792Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 05:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

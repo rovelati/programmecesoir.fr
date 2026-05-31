@@ -1,0 +1,155 @@
+{
+  "type": "film",
+  "slug": "les-ames-perdues",
+  "title": "Les âmes perdues",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les âmes perdues"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur"
+  ],
+  "description": "Maya Larkin assiste à un exorcisme pratiqué par un prêtre catholique, le père Lareaux, sur un tueur en série. Après quoi, elle dérobe les notes numériques du possédé, qu'elle déchiffre : l'Antéchrist va bientôt s'incarner en la personne de Peter Kelson, auteur à succès d'un livre sur les psychopathes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3d5b2815-5bba-4d93-bf43-2611cc225832",
+      "title": "Les âmes perdues",
+      "programSlug": "les-ames-perdues",
+      "programUrl": "/programme/tv5-monde/les-ames-perdues",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-20 21:06:00+00",
+      "endTime": "2026-04-20 22:48:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2000,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q101797",
+      "slug": "winona-ryder",
+      "name": "Winona Ryder",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447397",
+      "slug": "ben-chaplin",
+      "name": "Ben Chaplin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q255490",
+      "slug": "sarah-wynter",
+      "name": "Sarah Wynter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447669",
+      "slug": "philip-baker-hall",
+      "name": "Philip Baker Hall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q200405",
+      "slug": "john-hurt",
+      "name": "John Hurt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q379808",
+      "slug": "elias-koteas",
+      "name": "Elias Koteas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q523278",
+      "slug": "john-beasley",
+      "name": "John Beasley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447938",
+      "slug": "kate-beahan",
+      "name": "Kate Beahan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q526620",
+      "slug": "alfre-woodard",
+      "name": "Alfre Woodard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q947748",
+      "slug": "john-diehl",
+      "name": "John Diehl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4805421",
+      "slug": "ashley-edner",
+      "name": "Ashley Edner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q431874",
+      "slug": "leslie-stefanson",
+      "name": "Leslie Stefanson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2572165",
+      "slug": "w-earl-brown",
+      "name": "W. Earl Brown",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271050",
+      "slug": "anna-gunn",
+      "name": "Anna Gunn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1348071",
+      "slug": "jan-triska",
+      "name": "Jan Tříska",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q365230",
+    "slug": "janusz-kaminski",
+    "name": "Janusz Kamiński",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 21:06:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

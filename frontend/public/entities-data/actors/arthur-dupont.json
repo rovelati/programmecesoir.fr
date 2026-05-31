@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "arthur-dupont",
+  "name": "Arthur Dupont",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Dupont%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1985-07-26",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2865083",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Arthur_Dupont_(acteur)",
+    "imdb": "nm1570563",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "ma-famille-t-adore-deja",
+      "title": "Ma famille t'adore déjà"
+    },
+    {
+      "type": "film",
+      "slug": "rtt",
+      "title": "RTT"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,100 @@
+{
+  "type": "film",
+  "slug": "l-origine-du-monde",
+  "title": "L'origine du monde",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'origine du monde"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Un jour, sans crier gare, le coeur de Jean-Louis s'arrête de battre. Jean-Louis devrait être mort mais il parle, marche, vit sa vie comme si de rien n'était. Affolé, il demande son avis à Michel, son ami vétérinaire qui bien sûr ne parvient pas à expliquer ce phénomène étrange. Valérie, son épouse qui n'a aucune connaissance médicale, n'est d'aucune aide. Désespéré, le couple tente de trouver des réponses auprès de Margaux, la coach de vie de Valérie, un peu guérisseuse et en lien avec les forces occultes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2001,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q380045",
+      "slug": "alain-bashung",
+      "name": "Alain Bashung",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2831124",
+      "slug": "albert-dray",
+      "name": "Albert Dray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q124389",
+      "slug": "albert-dupontel",
+      "name": "Albert Dupontel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106791",
+      "slug": "angela-molina",
+      "name": "Ángela Molina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1295222",
+      "slug": "maurice-garrel",
+      "name": "Maurice Garrel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3419548",
+      "slug": "raphaeline-goupilleau",
+      "name": "Raphaëline Goupilleau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q391974",
+      "slug": "roschdy-zem",
+      "name": "Roschdy Zem",
+      "role": "actor"
+    },
+    {
+      "qid": "Q266626",
+      "slug": "rossy-de-palma",
+      "name": "Rossy de Palma",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q15126800",
+    "slug": "jerome-enrico",
+    "name": "Jérôme Enrico",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

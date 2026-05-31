@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jack-bannon",
+  "name": "Jack Bannon",
+  "worksCount": 2,
+  "description": "acteur",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1991-03-24",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q21693662",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jack_Bannon_(acteur_britannique)",
+    "imdb": "nm1827142",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "fury",
+      "title": "Fury"
+    },
+    {
+      "type": "series",
+      "slug": "les-enquetes-de-morse",
+      "title": "Les enquêtes de Morse"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

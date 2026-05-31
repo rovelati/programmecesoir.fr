@@ -1,0 +1,50 @@
+{
+  "type": "actor",
+  "slug": "steven-soderbergh",
+  "name": "Steven Soderbergh",
+  "worksCount": 4,
+  "description": "réalisateur, scénariste et producteur de cinéma américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/58th%20Karlovy%20Vary%20International%20Film%20Festival%2C%20Steven%20Soderbergh%2007.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-01-14",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q103917",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Steven_Soderbergh",
+    "imdb": "nm0001752",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "logan-lucky",
+      "title": "Logan Lucky"
+    },
+    {
+      "type": "film",
+      "slug": "magic-mike",
+      "title": "Magic Mike"
+    },
+    {
+      "type": "film",
+      "slug": "erin-brockovich-seule-contre-tous",
+      "title": "Erin Brockovich, seule contre tous"
+    },
+    {
+      "type": "film",
+      "slug": "a-fleur-de-peau",
+      "title": "A fleur de peau"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

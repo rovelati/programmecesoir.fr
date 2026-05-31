@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "famille-recomposee",
+  "title": "Famille recomposée",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Famille recomposée"
+  ],
+  "genres": [
+    "film ou téléfilm d'amour",
+    "comédie"
+  ],
+  "description": "Après un premier rendez-vous raté, Jim et Lauren, tous deux parents célibataires, décident de ne plus se revoir. Ils se retrouvent pourtant par hasard lors de vacances familiales dans un hôtel de luxe en Afrique. Là, ils ont la désagréable surprise d'apprendre qu'ils vont devoir partager une suite...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 117,
+  "cast": [
+    {
+      "qid": "Q132952",
+      "slug": "adam-sandler",
+      "name": "Adam Sandler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254431",
+      "slug": "alexis-arquette",
+      "name": "Alexis Arquette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1713151",
+      "slug": "allen-covert",
+      "name": "Allen Covert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208117",
+      "slug": "bella-thorne",
+      "name": "Bella Thorne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q676094",
+      "slug": "drew-barrymore",
+      "name": "Drew Barrymore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311993",
+      "slug": "joel-mchale",
+      "name": "Joel McHale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449531",
+      "slug": "kevin-nealon",
+      "name": "Kevin Nealon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q169452",
+      "slug": "shaquille-o-neal",
+      "name": "Shaquille O'Neal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271464",
+      "slug": "terry-crews",
+      "name": "Terry Crews",
+      "role": "actor"
+    },
+    {
+      "qid": "Q165296",
+      "slug": "wendi-mclendon-covey",
+      "name": "Wendi McLendon-Covey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16935140",
+      "slug": "abdoulaye-n-gom",
+      "name": "Abdoulaye N'Gom",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16240563",
+      "slug": "emma-fuhrmann",
+      "name": "Emma Fuhrmann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18606166",
+      "slug": "alyvia-alyn-lind",
+      "name": "Alyvia Alyn Lind",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6780492",
+      "slug": "mary-pat-gleason",
+      "name": "Mary Pat Gleason",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15712264",
+      "slug": "lauren-lapkus",
+      "name": "Lauren Lapkus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q443063",
+      "slug": "jackie-sandler",
+      "name": "Jackie Sandler",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q547811",
+    "slug": "frank-coraci",
+    "name": "Frank Coraci",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

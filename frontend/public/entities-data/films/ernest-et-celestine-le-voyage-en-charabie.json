@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "ernest-et-celestine-le-voyage-en-charabie",
+  "title": "Ernest et Célestine : Le voyage en Charabie",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Ernest et Célestine : Le voyage en Charabie"
+  ],
+  "genres": [
+    "film ou téléfilm familial"
+  ],
+  "description": "Catastrophe pour Ernest ! Son précieux violon a été abîmé et il ne voit aucune autre façon de le réparer que de se rendre en Charabie, d'où il est originaire. C'est donc avec son amie Célestine que l'ours musicien prend la route pour rejoindre cette lointaine contrée. Durant le trajet, Ernest décrit la Charabie comme un endroit vivant où la musique résonne à chaque coin de rue, ce qui réjouit fortement Célestine. Mais arrivé sur place, le duo comprend vite qu'une récente loi interdit formellement la moindre note sous peine de finir en prison. Furieux, Ernest décide de tenter de réparer cette injustice si profonde à ses yeux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f677a442-6e46-4a73-a387-be6252366587",
+      "title": "Ernest et Célestine : Le voyage en Charabie",
+      "programSlug": "ernest-et-celestine-le-voyage-en-charabie",
+      "programUrl": "/programme/canal-grand-ecran/ernest-et-celestine-le-voyage-en-charabie",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 03:38:00+00",
+      "endTime": "2026-04-22 04:56:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 80,
+  "cast": [],
+  "director": {
+    "qid": "Q72805932",
+    "slug": "julien-chheng",
+    "name": "Julien Chheng",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 03:38:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "michael-massee",
+  "name": "Michael Massee",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Massee%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1955-08-16",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q526468",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michael_Massee",
+    "imdb": "nm0557219",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "seven",
+      "title": "Seven"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ab1d9aeb-8d42-4706-a32c-0ad6ff04a0da",
+      "title": "Seven",
+      "programSlug": "seven",
+      "programUrl": "/programme/cine-frisson/seven",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 21:04:00+00",
+      "endTime": "2026-04-20 23:08:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 21:04:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

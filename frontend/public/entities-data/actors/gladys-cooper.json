@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "gladys-cooper",
+  "name": "Gladys Cooper",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gladys-Cooper%20Ggbain%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1888-12-18",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q235299",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Gladys_Cooper",
+    "imdb": "nm0178066",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "madame-bovary",
+      "title": "Madame Bovary"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

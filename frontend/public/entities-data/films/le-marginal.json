@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "le-marginal",
+  "title": "Le marginal",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Le marginal"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film et téléfilm d'action"
+  ],
+  "description": "L'impressionnant palmarès de Philippe Jordan, un commissaire de police, provoque la gêne de ses supérieurs hiérarchiques qui, s'ils apprécient ses résultats, refusent de cautionner ses méthodes. Un exploit de trop et Jordan est renvoyé de Marseille, où on l'avait exilé depuis deux ans, à Paris, où il continue de poursuivre le même but obsessionnel : l'arrestation de Sauveur Meccaci, un caïd de la drogue. Jordan commence par renouer avec ses indicateurs : Francis Hernandez, le patron d'une salle de boxe, Livia, une prostituée, et Tonton, à qui il promet de tirer sa fille des pattes du gang des Antillais. Une première piste le mène à un ancien chimiste de Sauveur Meccaci...",
+  "descriptionAi": "Ce film criminel d'action de 1983 plonge le téléspectateur dans l'ambiance brute et cynique du milieu policier marseillais. L'intérêt réside dans le portrait d'un flic obsessionnel, incarné par Jean-Paul Belmondo, dont les méthodes expéditives défient sa hiérarchie autant que le crime organisé. Sa traque implacable d'un baron de la drogue, émaillée de rencontres avec des indicateurs hauts en couleur, offre un récit tendu et sans concession sur les frontières troubles de la justice. Un polar classique au rythme soutenu, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Der%20aussenseiter.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b88a8cf2-b41a-4118-8c92-460d607bec41",
+      "title": "Le marginal",
+      "programSlug": "le-marginal",
+      "programUrl": "/programme/cine-classic/le-marginal",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 17:11:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:49:18.573Z",
+  "year": 1983,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q106255",
+      "slug": "jean-paul-belmondo",
+      "name": "Jean-Paul Belmondo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1384373",
+      "slug": "henry-silva",
+      "name": "Henry Silva",
+      "role": "actor"
+    },
+    {
+      "qid": "Q338617",
+      "slug": "pierre-vernier",
+      "name": "Pierre Vernier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317704",
+      "slug": "tcheky-karyo",
+      "name": "Tchéky Karyo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2977082",
+      "slug": "claude-brosset",
+      "name": "Claude Brosset",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3027190",
+      "slug": "didier-sauvegrain",
+      "name": "Didier Sauvegrain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15069866",
+      "slug": "fatiha-chriette",
+      "name": "Fatiha Chriette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3093664",
+      "slug": "gabriel-cattand",
+      "name": "Gabriel Cattand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3130587",
+      "slug": "henri-attal",
+      "name": "Henri Attal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q579505",
+      "slug": "jean-claude-dreyfus",
+      "name": "Jean-Claude Dreyfus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3166138",
+      "slug": "jean-hugues-lime",
+      "name": "Jean-Hugues Lime",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2729701",
+      "slug": "jean-louis-richard",
+      "name": "Jean-Louis Richard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3169986",
+      "slug": "jean-roger-milo",
+      "name": "Jean-Roger Milo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3269962",
+      "slug": "l-titia-gabrielli",
+      "name": "Lætitia Gabrielli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3300341",
+      "slug": "maurice-auzel",
+      "name": "Maurice Auzel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3300367",
+      "slug": "maurice-barrier",
+      "name": "Maurice Barrier",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q599020",
+    "slug": "jacques-deray",
+    "name": "Jacques Deray",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 17:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

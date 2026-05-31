@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "jean-francois-cayrey",
+  "name": "Jean-François Cayrey",
+  "worksCount": 2,
+  "description": "acteur et humoriste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20CAYREY.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-11-20",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3165518",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Cayrey",
+    "imdb": "nm3259962",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jamais-sans-mon-psy",
+      "title": "Jamais sans mon psy"
+    },
+    {
+      "type": "film",
+      "slug": "intouchables",
+      "title": "Intouchables"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "09e748f9-347d-43a5-8185-6ad0da211e4a",
+      "title": "Intouchables",
+      "programSlug": "intouchables",
+      "programUrl": "/programme/rts-un/intouchables",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 19:05:00+00",
+      "endTime": "2026-04-19 21:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 19:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

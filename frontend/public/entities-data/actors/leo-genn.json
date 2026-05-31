@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "leo-genn",
+  "name": "Leo Genn",
+  "worksCount": 2,
+  "description": "acteur britannique (1905-1978)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Genn%20Academy%20Awards%201952%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1905-08-09",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q946210",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Leo_Genn",
+    "imdb": "nm0312890",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-brigade-des-berets-noirs",
+      "title": "La brigade des bérets noirs"
+    },
+    {
+      "type": "film",
+      "slug": "les-berets-rouges",
+      "title": "Les bérets rouges"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

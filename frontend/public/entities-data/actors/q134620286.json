@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "q134620286",
+  "name": "Q134620286",
+  "worksCount": 1,
+  "description": "acteur américain (2011- )",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "2011-03-24",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q134620286",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Pajak",
+    "imdb": "nm12253661",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "life-of-chuck",
+      "title": "Life of Chuck"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "94e324df-cc05-4a75-824b-4e77902fde3d",
+      "title": "Life of Chuck",
+      "programSlug": "life-of-chuck",
+      "programUrl": "/programme/canal-box-office/life-of-chuck",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 15:45:00+00",
+      "endTime": "2026-04-20 17:32:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 15:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

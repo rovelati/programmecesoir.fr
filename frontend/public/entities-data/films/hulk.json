@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "hulk",
+  "title": "Hulk",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Hulk"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm de science-fiction",
+    "drame"
+  ],
+  "description": "Alors qu'il effectue une expérience dans son laboratoire de San Francisco, le généticien Bruce Banner se retrouve exposé par inadvertance à une surdose de rayons gamma. Au grand soulagement de sa collaboratrice Betty Ross, Bruce en sort indemne. Mais peu après, il constate que quelque chose a changé en lui : à chaque émotion forte, il se transforme en un monstre incontrôlable, à la force surhumaine.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hulk%202003%20logo.webp",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2003,
+  "durationMinutes": 133,
+  "cast": [
+    {
+      "qid": "Q4440",
+      "slug": "eric-bana",
+      "name": "Eric Bana",
+      "role": "actor"
+    },
+    {
+      "qid": "Q103343",
+      "slug": "jennifer-connelly",
+      "name": "Jennifer Connelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311314",
+      "slug": "sam-elliott",
+      "name": "Sam Elliott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q53651",
+      "slug": "josh-lucas",
+      "name": "Josh Lucas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188018",
+      "slug": "nick-nolte",
+      "name": "Nick Nolte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289540",
+      "slug": "cara-buono",
+      "name": "Cara Buono",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289931",
+      "slug": "celia-weston",
+      "name": "Celia Weston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q299700",
+      "slug": "daniel-dae-kim",
+      "name": "Daniel Dae Kim",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313306",
+      "slug": "lou-ferrigno",
+      "name": "Lou Ferrigno",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1933137",
+      "slug": "mike-erwin",
+      "name": "Mike Erwin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2652491",
+      "slug": "rhiannon-leigh-wryn",
+      "name": "Rhiannon Leigh Wryn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q181900",
+      "slug": "stan-lee",
+      "name": "Stan Lee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1271923",
+      "slug": "jesse-corti",
+      "name": "Jesse Corti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q948751",
+      "slug": "michael-papajohn",
+      "name": "Michael Papajohn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q80782",
+      "slug": "kevin-rankin",
+      "name": "Kevin Rankin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1430165",
+      "slug": "victor-rivers",
+      "name": "Victor Rivers",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q160726",
+    "slug": "ang-lee",
+    "name": "Ang Lee",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

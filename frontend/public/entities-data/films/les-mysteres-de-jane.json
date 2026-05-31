@@ -1,0 +1,55 @@
+{
+  "type": "film",
+  "slug": "les-mysteres-de-jane",
+  "title": "Les mystères de Jane",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les mystères de Jane"
+  ],
+  "genres": [
+    "Téléfilm",
+    "Téléfilms"
+  ],
+  "description": "Jane DaSilva se retrouve à la tête d'une agence de détectives dont elle a hérité. En enquêtant sur sa première affaire, elle découvre que la mère de son client s'est fait exploiter par une entreprise. Mais elle ne tarde pas à comprendre qu'il est parfois dangereux de fouiller dans le passé...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

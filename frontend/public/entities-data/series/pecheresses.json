@@ -1,0 +1,73 @@
+{
+  "type": "series",
+  "slug": "pecheresses",
+  "title": "Pécheresses",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Pécheresses",
+    "Pécheresses - Saison 1"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Sidonie angoisse un peu à l'approche de sa prise d'habit et confie ses inquiétudes à Cassidy. Elle redoute notamment que sa soeur ne vienne pas. Les filles sont allées voir la police pour porter plainte après les menaces reçues lors de leur live, mais les forces de l'ordre ne peuvent rien faire pour le moment. Elles avertissent les autres pensionnaires et décident de monter la garde pour plus de sécurité...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2012,
+  "numberOfSeasons": null,
+  "cast": [
+    {
+      "qid": "Q3473311",
+      "slug": "sarah-barzyk",
+      "name": "Sarah Barzyk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q99615242",
+      "slug": "franck-mercadal",
+      "name": "Franck Mercadal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q133811160",
+      "slug": "vladys-muller",
+      "name": "Vladys Muller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q133811754",
+      "slug": "julia-burgun",
+      "name": "Julia Burgun",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

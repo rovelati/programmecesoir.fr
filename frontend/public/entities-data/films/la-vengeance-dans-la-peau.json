@@ -1,0 +1,153 @@
+{
+  "type": "film",
+  "slug": "la-vengeance-dans-la-peau",
+  "title": "La vengeance dans la peau",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "La vengeance dans la peau"
+  ],
+  "genres": [
+    "thriller d'action",
+    "film ou téléfilm d'espionnage",
+    "film ou téléfilm à énigme",
+    "film et téléfilm d'action",
+    "adaptation d'un roman au cinéma",
+    "thriller"
+  ],
+  "description": "Venu à Moscou pour rencontrer la fille du politicien Nevski, Jason Bourne, un ancien agent de la CIA, est traqué par un tueur envoyé par ses ex-employeurs. Ceux-ci ont par ailleurs utilisé ses empreintes pour l'impliquer dans l'élimination d'un indicateur qui allait les confondre à Berlin. L'agent Pamela Landy, qui ignore ces manipulations, est mandatée pour arrêter et, s'il le faut, éliminer Bourne. Elle reste persuadée que Bourne est innocent de tout ce qu'on lui reproche. Après avoir pris contact avec un journaliste anglais, qui a bénéficié de fuites provenant d'un agent américain, Bourne remonte la piste et se retrouve à Madrid, avant de rejoindre Tanger. Nicky Parsons, qui joue un double jeu, l'aide à rechercher la vérité sur le projet Blackbriar, dont Bourne fut le premier maillon...",
+  "descriptionAi": "Ce thriller d'action haletant, adaptation du roman de Robert Ludlum, plonge le téléspectateur dans une ambiance de paranoïa et de course-poursuite implacable à travers l'Europe. L'intérêt réside dans la quête vertigineuse de Jason Bourne, ancien agent traqué, qui doit déjouer un complot pour retrouver sa mémoire et son identité. Entre scènes de combat réalistes et suspense narratif sophistiqué, le film captive par son rythme effréné et la profondeur de son personnage principal, à la fois machine à tuer et homme en souffrance. Une œuvre d'espionnage intense, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:49:14.736Z",
+  "year": 2007,
+  "durationMinutes": 115,
+  "cast": [
+    {
+      "qid": "Q210120",
+      "slug": "julia-stiles",
+      "name": "Julia Stiles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310318",
+      "slug": "david-strathairn",
+      "name": "David Strathairn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q114179",
+      "slug": "scott-glenn",
+      "name": "Scott Glenn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q498389",
+      "slug": "paddy-considine",
+      "name": "Paddy Considine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273788",
+      "slug": "edgar-ramirez",
+      "name": "Édgar Ramírez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q219546",
+      "slug": "albert-finney",
+      "name": "Albert Finney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229305",
+      "slug": "joan-allen",
+      "name": "Joan Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q58592",
+      "slug": "daniel-bruhl",
+      "name": "Daniel Brühl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q175535",
+      "slug": "matt-damon",
+      "name": "Matt Damon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1132632",
+      "slug": "corey-johnson",
+      "name": "Corey Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3308579",
+      "slug": "michael-wildman",
+      "name": "Michael Wildman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28310",
+      "slug": "scott-adkins",
+      "name": "Scott Adkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2452130",
+      "slug": "trevor-st-john",
+      "name": "Trevor St. John",
+      "role": "actor"
+    },
+    {
+      "qid": "Q34975",
+      "slug": "brian-cox",
+      "name": "Brian Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5115892",
+      "slug": "chucky-venice",
+      "name": "Chucky Venice",
+      "role": "actor"
+    },
+    {
+      "qid": "Q613029",
+      "slug": "joey-ansah",
+      "name": "Joey Ansah",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q356275",
+    "slug": "paul-greengrass",
+    "name": "Paul Greengrass",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

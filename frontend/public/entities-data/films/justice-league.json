@@ -1,0 +1,190 @@
+{
+  "type": "film",
+  "slug": "justice-league",
+  "title": "Justice League",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Justice League"
+  ],
+  "genres": [
+    "film de super-héros",
+    "film d'action de science-fiction",
+    "film et téléfilm d'action",
+    "film ou téléfilm d'aventure",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "Après la mort de Clark Kent des mains de Doomsday, Batman réévalue ses méthodes extrêmes et décide de réunir des héros extraordinaires pour former une équipe de combattants afin de défendre la Terre de toutes sortes de menaces. Avec Wonder Woman, Cyborg, The Flash et Aquaman, il affronte Steppenwolf...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "82500398-59e9-40c4-9c7e-3dc46ff98ed8",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/canal-grand-ecran/justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 01:13:00+00",
+      "endTime": "2026-04-20 03:22:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "08cc7bec-c0a5-4adc-b17c-88b82387e40f",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/cine-frisson/justice-league",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 08:27:00+00",
+      "endTime": "2026-04-24 10:24:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "909c41a6-c8c4-4d1b-aaca-9efee3f4d9f8",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/canal-grand-ecran/justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 08:27:00+00",
+      "endTime": "2026-04-25 10:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 120,
+  "cast": [
+    {
+      "qid": "Q295498",
+      "slug": "henry-cavill",
+      "name": "Henry Cavill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q483118",
+      "slug": "ben-affleck",
+      "name": "Ben Affleck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q185654",
+      "slug": "gal-gadot",
+      "name": "Gal Gadot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315271",
+      "slug": "jason-momoa",
+      "name": "Jason Momoa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q508049",
+      "slug": "ezra-miller",
+      "name": "Ezra Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16729006",
+      "slug": "ray-fisher",
+      "name": "Ray Fisher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q481832",
+      "slug": "amy-adams",
+      "name": "Amy Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q171745",
+      "slug": "jeremy-irons",
+      "name": "Jeremy Irons",
+      "role": "actor"
+    },
+    {
+      "qid": "Q150482",
+      "slug": "j-k-simmons",
+      "name": "J. K. Simmons",
+      "role": "actor"
+    },
+    {
+      "qid": "Q219512",
+      "slug": "jesse-eisenberg",
+      "name": "Jesse Eisenberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q255070",
+      "slug": "diane-lane",
+      "name": "Diane Lane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231951",
+      "slug": "connie-nielsen",
+      "name": "Connie Nielsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272972",
+      "slug": "q272972",
+      "name": "Q272972",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314892",
+      "slug": "ciaran-hinds",
+      "name": "Ciarán Hinds",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229166",
+      "slug": "amber-heard",
+      "name": "Amber Heard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313650",
+      "slug": "billy-crudup",
+      "name": "Billy Crudup",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q139890",
+    "slug": "zack-snyder",
+    "name": "Zack Snyder",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 01:13:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,185 @@
+{
+  "type": "actor",
+  "slug": "anthony-head",
+  "name": "Anthony Head",
+  "worksCount": 2,
+  "description": "acteur et chanteur britannique",
+  "descriptionAi": "Anthony Head est un acteur et chanteur britannique polyvalent, aussi à l'aise dans des rôles dramatiques que dans des comédies musicales. Il navigue avec aisance entre des ambiances sombres, comme dans \"Buffy contre les vampires\", et des tonalités plus légères ou élégiaques. Son charisme naturel et sa présence scénique, teintés d'une certaine retenue britannique, captivent le téléspectateur, qui découvre un interprète à la fois intense et subtil. Sa carrière éclectique, du petit au grand écran en passant par la scène, révèle un artiste complet et toujours surprenant. Pour découvrir ou redécouvrir ses performances, une sélection de ses œuvres est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Head%2C%20Anthony%20Stewart%20(2007).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1954-02-20",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q342962",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anthony_Stewart_Head",
+    "imdb": "nm0372117",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "buffy-contre-les-vampires",
+      "title": "Buffy contre les vampires"
+    },
+    {
+      "type": "series",
+      "slug": "merlin",
+      "title": "Merlin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8cec7225-26e9-4833-b251-f63062297e9c",
+      "title": "Merlin",
+      "programSlug": "merlin",
+      "programUrl": "/programme/ab1/merlin",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 18:55:00+00",
+      "endTime": "2026-04-19 19:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "343f8b6f-991f-43e8-ad8e-909dcd57144c",
+      "title": "Merlin",
+      "programSlug": "merlin",
+      "programUrl": "/programme/ab1/merlin",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 19:45:00+00",
+      "endTime": "2026-04-19 20:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1497b0cd-0ffc-4615-a8c7-8884f4c981f5",
+      "title": "Merlin",
+      "programSlug": "merlin",
+      "programUrl": "/programme/ab1/merlin",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 20:35:00+00",
+      "endTime": "2026-04-19 21:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5b80ab33-372b-48a0-ab3c-e5e24ce1a2ef",
+      "title": "Merlin",
+      "programSlug": "merlin",
+      "programUrl": "/programme/ab1/merlin",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 21:25:00+00",
+      "endTime": "2026-04-19 22:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "df2b4a23-2285-4c22-860f-10927857d017",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 06:30:00+00",
+      "endTime": "2026-04-20 07:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "18fff80d-3d38-4566-ae97-5ec5763550ee",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 07:20:00+00",
+      "endTime": "2026-04-20 08:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2f1cc687-ace8-405b-a498-0986cb4423ca",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 08:10:00+00",
+      "endTime": "2026-04-20 08:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a5176528-2c51-4c0b-bf3a-3ee82e434818",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 08:55:00+00",
+      "endTime": "2026-04-20 09:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0897d78f-a75b-44ef-80a4-b4eefaf4aa50",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 09:45:00+00",
+      "endTime": "2026-04-20 10:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "33ce2e1e-232a-4dee-97d8-107ccced5603",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 06:30:00+00",
+      "endTime": "2026-04-21 07:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "56597795-33c6-4210-9c1a-0af9b1bd185a",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 07:20:00+00",
+      "endTime": "2026-04-21 08:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b81177f0-a668-407e-a321-4c9ee58b1107",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 08:10:00+00",
+      "endTime": "2026-04-21 08:55:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:48.353Z",
+  "nextAiringAt": "2026-04-19 18:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

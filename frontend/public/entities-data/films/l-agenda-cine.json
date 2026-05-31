@@ -1,0 +1,91 @@
+{
+  "type": "film",
+  "slug": "l-agenda-cine",
+  "title": "L'agenda ciné",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "L'agenda ciné"
+  ],
+  "genres": [
+    "Emissions cinéma"
+  ],
+  "description": "Magazine cinéma de la rtbf, l'agenda ciné présente, de manière hebdomadaire, toutes les sorties cinéma de la semaine.",
+  "descriptionAi": "Ce magazine cinéma de la RTBF, dédié aux sorties hebdomadaires, est un rendez-vous essentiel pour les passionnés. Dans une ambiance à la fois dynamique et experte, il offre un tour d'horizon complet des nouveaux films, des blockbusters aux pépites indépendantes. Son intérêt réside dans la concision de ses présentations et la pertinence de ses critiques, permettant aux téléspectateurs de faire leur choix en toute connaissance de cause. Pour ne rien manquer des nouveautés et organiser vos séances, retrouvez toutes les infos à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-une.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fd91c990-4b80-4c6b-bfa9-b7903980d792",
+      "title": "L'agenda ciné",
+      "programSlug": "l-agenda-cine",
+      "programUrl": "/programme/la-une/l-agenda-cine",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-19 10:07:00+00",
+      "endTime": "2026-04-19 10:17:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b5a26ab8-d893-4f09-80b5-570854552ff1",
+      "title": "L'agenda ciné",
+      "programSlug": "l-agenda-cine",
+      "programUrl": "/programme/la-trois/l-agenda-cine",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-19 18:34:00+00",
+      "endTime": "2026-04-19 18:44:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c4ee1004-5919-4bff-a70e-7a8bc2be499e",
+      "title": "L'agenda ciné",
+      "programSlug": "l-agenda-cine",
+      "programUrl": "/programme/la-une/l-agenda-cine",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-20 18:05:00+00",
+      "endTime": "2026-04-20 18:13:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:49:09.942Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 10:07:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

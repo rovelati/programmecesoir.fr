@@ -1,0 +1,70 @@
+{
+  "type": "film",
+  "slug": "l-affaire-nevenka",
+  "title": "L'affaire Nevenka",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'affaire Nevenka"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Fin des années 1990, à Ponferrada, dans la province de León. Nevenka Fernández, 25 ans, est élue conseillère municipale. Après avoir eu une brève liaison avec Ismael Alvarez, le maire aussi charismatique que populaire auprès de ses administrés, Nevenka décide de mettre un terme à leur relation. Cette rupture marque le début d'une véritable descente aux enfers pour la jeune femme. Manipulée et harcelée des mois durant par Alvarez, Nevenka résiste. Déterminée à s'en sortir, elle décide alors de dénoncer publiquement les agissements du maire et lui intente un procès...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Goyas%202025%20-%20Equipo%20Soy%20Nevenka.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 117,
+  "cast": [
+    {
+      "qid": "Q85951355",
+      "slug": "mireia-oriol",
+      "name": "Mireia Oriol",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109627274",
+      "slug": "urko-olazabal",
+      "name": "Urko Olazabal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6108223",
+      "slug": "ricardo-gomez",
+      "name": "Ricardo Gómez",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q270279",
+    "slug": "iciar-bollain",
+    "name": "Icíar Bollaín",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

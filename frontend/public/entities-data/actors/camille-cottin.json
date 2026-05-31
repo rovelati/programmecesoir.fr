@@ -1,0 +1,59 @@
+{
+  "type": "actor",
+  "slug": "camille-cottin",
+  "name": "Camille Cottin",
+  "worksCount": 3,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Cottin%20janvier%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-12-01",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q16535251",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Camille_Cottin",
+    "imdb": "nm1891185",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-mystere-henri-pick",
+      "title": "Le mystère Henri Pick"
+    },
+    {
+      "type": "film",
+      "slug": "les-gazelles",
+      "title": "Les gazelles"
+    },
+    {
+      "type": "film",
+      "slug": "deux-moi",
+      "title": "Deux moi"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e35d2b3a-ab76-4686-8779-9a6479c47000",
+      "title": "Deux moi",
+      "programSlug": "deux-moi",
+      "programUrl": "/programme/canal-grand-ecran/deux-moi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 01:26:00+00",
+      "endTime": "2026-04-22 03:38:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-22 01:26:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "pat-conway",
+  "name": "Pat Conway",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Conway%20Tombstone%20Territory%201958.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1931-01-09",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2886350",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pat_Conway",
+    "imdb": "nm0176754",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "chantons-sous-la-pluie",
+      "title": "Chantons sous la pluie"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

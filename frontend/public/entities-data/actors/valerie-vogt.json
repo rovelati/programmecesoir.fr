@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "valerie-vogt",
+  "name": "Valérie Vogt",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Repr%C3%A9sailles%20Assous%201.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-10-25",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3554319",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_Vogt",
+    "imdb": "nm0901114",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "ma-famille-t-adore-deja",
+      "title": "Ma famille t'adore déjà"
+    },
+    {
+      "type": "film",
+      "slug": "par-amour",
+      "title": "Par amour"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

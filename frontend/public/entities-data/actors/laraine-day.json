@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "laraine-day",
+  "name": "Laraine Day",
+  "worksCount": 1,
+  "description": "actrice américaine (1920-2007)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laraine%20Day%20-%20Yank.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1920-10-13",
+  "nationality": "États-Unis",
+  "jobTitle": "animateur ou animatrice de télévision",
+  "externalIds": {
+    "wikidata": "Q466063",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Laraine_Day",
+    "imdb": "nm0206478",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "taikoun",
+      "title": "Taïkoun"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d9673e75-145f-41ee-997b-508b481199c1",
+      "title": "Taïkoun",
+      "programSlug": "taikoun",
+      "programUrl": "/programme/tcm-cinema/taikoun",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-22 16:45:00+00",
+      "endTime": "2026-04-22 18:50:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 16:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

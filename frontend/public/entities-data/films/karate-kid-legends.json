@@ -1,0 +1,80 @@
+{
+  "type": "film",
+  "slug": "karate-kid-legends",
+  "title": "Karate Kid : Legends",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Karate Kid : Legends"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Après avoir vécu une tragédie personnelle, le jeune prodige du kung-fu Li Fong est arraché à sa famille à Pékin et contraint de s'installer à New York avec sa mère. Il tente de tirer un trait sur son passé tout en cherchant à s'intégrer dans son nouveau lycée, mais s'attire constamment des ennuis. Lorsqu'un ami dont il vient de faire la connaissance sollicite son aide, Li accepte de participer à une compétition de karaté, mais il comprend qu'il ne peut pas seulement compter sur son talent. Son professeur de kung-fu, monsieur Han, engage alors en renfort le premier Karaté Kid, Daniel LaRusso…",
+  "descriptionAi": "Ce film d'arts martiaux et de drame familial mêle action intense et émotion sincère. L'ambiance oscille entre l'énergie urbaine de New York et la sagesse traditionnelle du kung-fu, portée par un récit de deuil et de reconstruction. L'intérêt réside dans la rencontre inédite des générations, où le mentorat de M. Han et l'intervention de Daniel LaRusso offrent une profondeur nouvelle au parcours initiatique du jeune héros. C'est une histoire captivante sur la maîtrise de soi et la transmission, qui ravira les fans de la saga et les nouveaux venus. Une légende se forge, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3091a17a-5867-4a05-91b0-95488cce557c",
+      "title": "Karate Kid : Legends",
+      "programSlug": "karate-kid-legends",
+      "programUrl": "/programme/canal/karate-kid-legends",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-19 13:09:00+00",
+      "endTime": "2026-04-19 14:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "488e88d1-496f-4123-9ee4-ad9a1649fc2b",
+      "title": "Karate Kid : Legends",
+      "programSlug": "karate-kid-legends",
+      "programUrl": "/programme/canal-box-office/karate-kid-legends",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 19:00:00+00",
+      "endTime": "2026-04-22 20:31:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:34:45.712Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 13:09:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

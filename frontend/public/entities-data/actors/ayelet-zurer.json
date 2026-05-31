@@ -1,0 +1,82 @@
+{
+  "type": "actor",
+  "slug": "ayelet-zurer",
+  "name": "Ayelet Zurer",
+  "worksCount": 3,
+  "description": "actrice israélienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%90%D7%99%D7%99%D7%9C%D7%AA%20%D7%96%D7%95%D7%A8%D7%A8.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1969-06-28",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q275967",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ayelet_Zurer",
+    "imdb": "nm0957909",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "anges-et-demons",
+      "title": "Anges et démons"
+    },
+    {
+      "type": "film",
+      "slug": "man-of-steel",
+      "title": "Man of Steel"
+    },
+    {
+      "type": "film",
+      "slug": "angles-d-attaque",
+      "title": "Angles d'attaque"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c6640e-5371-434d-a569-01e9fd4211a2",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/canal-grand-ecran/man-of-steel",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 12:51:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "58ff2527-6de2-41e5-933b-9240d15074a4",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 14:59:00+00",
+      "endTime": "2026-04-20 17:18:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "24919d3f-8d16-45dd-b094-513b5060d653",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 11:30:00+00",
+      "endTime": "2026-04-23 13:48:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 12:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

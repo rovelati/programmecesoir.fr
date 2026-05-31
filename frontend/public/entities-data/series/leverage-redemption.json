@@ -1,0 +1,110 @@
+{
+  "type": "series",
+  "slug": "leverage-redemption",
+  "title": "Leverage: Redemption",
+  "airingsCount": 45,
+  "sourceTitles": [
+    "Leverage: Redemption - Saison 2"
+  ],
+  "genres": [
+    "série télévisée policière",
+    "série télévisée policière",
+    "thriller"
+  ],
+  "description": "Eliot découvre qu'une entreprise de fracturation pétrolière empoisonne l'eau de sa ville natale. Il faut mettre hors d'état de nuire le responsable de cette contamination.",
+  "descriptionAi": "Cette série policière et thriller, lancée en 2021, suit une équipe de justiciers modernes. L'ambiance est un savant mélange de tension, d'action et d'humour caustique, où la ruse l'emporte souvent sur la force brute. Elle captive par son scénario intelligent, qui mêle enquête haletante et vengeance sociale, comme lorsque Eliot découvre une entreprise empoisonnant l'eau de sa ville. Le téléspectateur est séduit par la dynamique de l'équipe et la satisfaction de voir les puissants rendre des comptes. Une série addictive qui allie divertissement et conscience sociale, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 45
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b5417d64-d322-423d-aef0-f6f1533bfc35",
+      "title": "Leverage: Redemption - Saison 3",
+      "programSlug": "leverage-redemption-saison-3",
+      "programUrl": "/programme/warnertv/leverage-redemption-saison-3",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-20 04:30:00+00",
+      "endTime": "2026-04-20 05:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "29657b61-eb66-4d57-bfd1-dd5d6e8bae7a",
+      "title": "Leverage: Redemption - Saison 3",
+      "programSlug": "leverage-redemption-saison-3",
+      "programUrl": "/programme/warnertv/leverage-redemption-saison-3",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-21 01:40:00+00",
+      "endTime": "2026-04-21 02:30:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:42:32.032Z",
+  "startYear": 2021,
+  "numberOfSeasons": null,
+  "cast": [
+    {
+      "qid": "Q271761",
+      "slug": "gina-bellman",
+      "name": "Gina Bellman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1319798",
+      "slug": "aldis-hodge",
+      "name": "Aldis Hodge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q722842",
+      "slug": "christian-kane",
+      "name": "Christian Kane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q258237",
+      "slug": "beth-riesgraf",
+      "name": "Beth Riesgraf",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315208",
+      "slug": "noah-wyle",
+      "name": "Noah Wyle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107465203",
+      "slug": "aleyse-shannon",
+      "name": "Aleyse Shannon",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 04:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,165 @@
+{
+  "type": "series",
+  "slug": "el-ministerio-del-tiempo",
+  "title": "El Ministerio del Tiempo",
+  "airingsCount": 22,
+  "sourceTitles": [
+    "El Ministerio del Tiempo"
+  ],
+  "genres": [
+    "série télévisée de science-fiction",
+    "série télévisée d'aventures",
+    "fiction historique",
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "Julián, un infirmier du 21ème siècle, Alonso, un soldat du 16ème siècle et Amelia, une étudiante du 19ème siècle travaillent pour le Ministère du Temps, une mystérieuse organisation chargée de protéger l'histoire de l'Espagne. Ils sont toujours accompagnés par les autres fonctionnaires du Ministère, Salvador, Ernesto, Irene et Angustias. Mais alors qu'Irene est accusée de trahison et que Lola est capturée, la patrouille va devoir accueillir une nouvelle recrue, Pacino, après le départ de Julián. Ils vont une nouvelle fois rencontrer des personnages illustres tels que le Cid, Cervantes, Houdini et l'empereur français Napoléon Bonaparte. Cette fiction historique, plebiscitée par les fans, a remporté de nombreux prix à travers le monde.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Seuministerio.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 22
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c7641bfc-90a3-49c0-9fd9-7664dee578f5",
+      "title": "El Ministerio del Tiempo",
+      "programSlug": "el-ministerio-del-tiempo",
+      "programUrl": "/programme/syfy/el-ministerio-del-tiempo",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 06:25:00+00",
+      "endTime": "2026-04-20 07:40:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2015,
+  "numberOfSeasons": 14,
+  "cast": [
+    {
+      "qid": "Q5860270",
+      "slug": "rodolfo-sancho",
+      "name": "Rodolfo Sancho",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4133904",
+      "slug": "aura-garrido",
+      "name": "Aura Garrido",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11694914",
+      "slug": "nacho-fresneda",
+      "name": "Nacho Fresneda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2943402",
+      "slug": "cayetana-guillen-cuervo",
+      "name": "Cayetana Guillén Cuervo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3160561",
+      "slug": "jaime-blanch",
+      "name": "Jaime Blanch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2260064",
+      "slug": "natalia-millan",
+      "name": "Natalia Millán",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5956256",
+      "slug": "julian-villagran",
+      "name": "Julián Villagrán",
+      "role": "actor"
+    },
+    {
+      "qid": "Q66712166",
+      "slug": "iria-del-rio",
+      "name": "Iria del Río",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2939325",
+      "slug": "carlos-cuevas",
+      "name": "Carlos Cuevas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23907225",
+      "slug": "juan-gea",
+      "name": "Juan Gea",
+      "role": "actor"
+    },
+    {
+      "qid": "Q112768455",
+      "slug": "francesca-pinon",
+      "name": "Francesca Piñón",
+      "role": "actor"
+    },
+    {
+      "qid": "Q682737",
+      "slug": "hugo-silva",
+      "name": "Hugo Silva",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5988676",
+      "slug": "macarena-garcia",
+      "name": "Macarena García",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5995161",
+      "slug": "mar-saura",
+      "name": "Mar Saura",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6110073",
+      "slug": "roberto-alvarez",
+      "name": "Roberto Álvarez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6165435",
+      "slug": "victor-clavijo",
+      "name": "Víctor Clavijo",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q21403344",
+    "slug": "javier-olivares",
+    "name": "Javier Olivares",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 06:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

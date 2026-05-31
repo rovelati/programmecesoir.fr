@@ -1,0 +1,100 @@
+{
+  "type": "film",
+  "slug": "en-fanfare",
+  "title": "En fanfare",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "En fanfare"
+  ],
+  "genres": [
+    "comédie dramatique"
+  ],
+  "description": "Thibaut Desormeaux est un chef d'orchestre de renommée internationale. Lorsqu'on lui diagnostique une leucémie qui nécessite une greffe de moëlle osseuse, les membres de sa famille sont soumis à des tests ADN pour trouver un donneur compatible. C'est à cette occasion que Thibaut découvre qu'il a été adopté et qu'il a un frère, Jimmy. Celui-ci, employé de cantine scolaire, joue du trombone dans une fanfare du nord de la France. En apparence, tout sépare les deux hommes, sauf l'amour de la musique. Détectant les capacités musicales exceptionnelles de son frère, Thibaut se donne pour mission de réparer l'injustice du destin...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q22248002",
+      "slug": "benjamin-lavernhe",
+      "name": "Benjamin Lavernhe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23774055",
+      "slug": "pierre-lottin",
+      "name": "Pierre Lottin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22968159",
+      "slug": "sarah-suco",
+      "name": "Sarah Suco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q923461",
+      "slug": "jacques-bonnaffe",
+      "name": "Jacques Bonnaffé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q122751043",
+      "slug": "clemence-massart-weit",
+      "name": "Clémence Massart-Weit",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851178",
+      "slug": "anne-loiret",
+      "name": "Anne Loiret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3574132",
+      "slug": "yvon-martin",
+      "name": "Yvon Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23773997",
+      "slug": "charlie-nelson",
+      "name": "Charlie Nelson",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3052647",
+    "slug": "emmanuel-courcol",
+    "name": "Emmanuel Courcol",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,125 @@
+{
+  "type": "film",
+  "slug": "armored-car-robbery",
+  "title": "Armored Car Robbery",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Armored Car Robbery"
+  ],
+  "genres": [
+    "film ou téléfilm de casse",
+    "film noir"
+  ],
+  "description": "Gangster prudent, Dave Purvis planifie des hold-up que d'autres exécutent à sa place. Il n'a jamais été arrêté et son casier judiciaire est encore vierge. Grisé par ses succès, le bandit décide de s'attaquer cette fois-ci à un fourgon blindé. Pour ce faire, il chronomètre le parcours du véhicule afin de déterminer le moment idéal pour le prendre d'assaut. Mais, pour accomplir ce coup audacieux, il lui faut des complices. L'un de ses amis, Benny, dont la femme, Yvonne, est sa maîtresse, le présente à deux puissants gangsters, Al Mapes et William \"Ace\" Foster...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1950,
+  "durationMinutes": 67,
+  "cast": [
+    {
+      "qid": "Q330840",
+      "slug": "charles-mcgraw",
+      "name": "Charles McGraw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q354452",
+      "slug": "adele-jergens",
+      "name": "Adele Jergens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3568989",
+      "slug": "william-talman",
+      "name": "William Talman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3035844",
+      "slug": "don-mcguire",
+      "name": "Don McGuire",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1252302",
+      "slug": "douglas-fowley",
+      "name": "Douglas Fowley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q966420",
+      "slug": "gene-evans",
+      "name": "Gene Evans",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1308174",
+      "slug": "james-flavin",
+      "name": "James Flavin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3498868",
+      "slug": "steve-brodie",
+      "name": "Steve Brodie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1035938",
+      "slug": "carey-loftin",
+      "name": "Carey Loftin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20678649",
+      "slug": "richard-irving",
+      "name": "Richard Irving",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4020166",
+      "slug": "william-tannen",
+      "name": "William Tannen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5292727",
+      "slug": "don-haggerty",
+      "name": "Don Haggerty",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q262735",
+    "slug": "richard-fleischer",
+    "name": "Richard Fleischer",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "soyez-sympas-rembobinez",
+  "title": "Soyez sympas, rembobinez",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Soyez sympas, rembobinez"
+  ],
+  "genres": [
+    "comédie",
+    "drame"
+  ],
+  "description": "Elroy est le gérant d'un vidéo-club qui résiste tant bien que mal à l'avènement du DVD grâce à une clientèle fidèle et un stock impressionnant de cassettes VHS. Un jour, il réalise avec stupeur qu'elles ont toutes été démagnétisées par Jerry, un client. Tous deux décident de retourner les films effacés...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "72fb94fb-96a9-44cd-aec5-5b67673ddf87",
+      "title": "Soyez sympas, rembobinez",
+      "programSlug": "soyez-sympas-rembobinez",
+      "programUrl": "/programme/cine-festival/soyez-sympas-rembobinez",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-25 03:40:00+00",
+      "endTime": "2026-04-25 04:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2007,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q483907",
+      "slug": "jack-black",
+      "name": "Jack Black",
+      "role": "actor"
+    },
+    {
+      "qid": "Q38875",
+      "slug": "mos-def",
+      "name": "Mos Def",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449626",
+      "slug": "melonie-diaz",
+      "name": "Melonie Diaz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192165",
+      "slug": "danny-glover",
+      "name": "Danny Glover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202725",
+      "slug": "mia-farrow",
+      "name": "Mia Farrow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q102124",
+      "slug": "sigourney-weaver",
+      "name": "Sigourney Weaver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1740850",
+      "slug": "kid-creole-and-the-coconuts",
+      "name": "Kid Creole and the Coconuts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3460880",
+      "slug": "sacha-bourdo",
+      "name": "Sacha Bourdo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q129861",
+      "slug": "john-tormey",
+      "name": "John Tormey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16337574",
+      "slug": "marceline-hugot",
+      "name": "Marceline Hugot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440960",
+      "slug": "karolina-wydra",
+      "name": "Karolina Wydra",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2278533",
+      "slug": "matt-walsh",
+      "name": "Matt Walsh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7150288",
+      "slug": "paul-dinello",
+      "name": "Paul Dinello",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q126098",
+    "slug": "michel-gondry",
+    "name": "Michel Gondry",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 03:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

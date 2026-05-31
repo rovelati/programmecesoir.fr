@@ -1,0 +1,66 @@
+{
+  "type": "film",
+  "slug": "les-hommes-du-feu",
+  "title": "Les hommes du feu",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les hommes du feu"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Bénédicte, adjudante-chef, intègre une brigade de sapeurs-pompiers dans le Sud de la France. Elle fait la connaissance de Philippe, 45 ans, qui dirige avec efficacité la caserne. La région est en proie à de nombreux incendies. Philippe demande beaucoup de vigilance. Lors d'une mission délicate, Bénédicte ne voit pas une victime, qui décédera à l'hôpital. Ebranlée, elle est sur le point d'arrêter le métier. Alors qu'elle se pose des questions sur son avenir, Philippe se livre un peu pour la motiver à rester. De leurs côtés, ses collègues sont de plus en plus pris pour cible lors d'interventions dans les banlieues...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q391974",
+      "slug": "roschdy-zem",
+      "name": "Roschdy Zem",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q535127",
+    "slug": "pierre-jolivet",
+    "name": "Pierre Jolivet",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

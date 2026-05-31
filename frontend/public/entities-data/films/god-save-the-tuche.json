@@ -1,0 +1,96 @@
+{
+  "type": "film",
+  "slug": "god-save-the-tuche",
+  "title": "God Save the Tuche",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "God Save the Tuche"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Après moultes escapades, de Monaco à Los Angeles, en passant par le palais de l'Elysée, les Tuche mènent à nouveau une vie paisible à Bouzolles. Mais le répit se révèle encore une fois de bien courte durée. En effet, lorsque le petit-fils de Jeff et Cathy est sélectionné pour un stage de football à Londres, les membres de la famille y voient une occasion rêvée d'aller découvrir l'Angleterre et, pourquoi pas, de tenter de rencontrer la famille royale. Entre le choc des cultures et leurs désormais traditionnelles maladresses, les Tuche se retrouvent plongés au coeur de la royauté anglaise, qui n'est pas près d'oublier leur séjour...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q949391",
+      "slug": "jean-paul-rouve",
+      "name": "Jean-Paul Rouve",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3141565",
+      "slug": "isabelle-nanty",
+      "name": "Isabelle Nanty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2975094",
+      "slug": "claire-nadeau",
+      "name": "Claire Nadeau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3473425",
+      "slug": "sarah-stern",
+      "name": "Sarah Stern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23774055",
+      "slug": "pierre-lottin",
+      "name": "Pierre Lottin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28497094",
+      "slug": "theo-fernandez",
+      "name": "Théo Fernandez",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q949391",
+    "slug": "jean-paul-rouve",
+    "name": "Jean-Paul Rouve",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

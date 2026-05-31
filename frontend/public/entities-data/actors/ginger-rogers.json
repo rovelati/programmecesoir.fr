@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "ginger-rogers",
+  "name": "Ginger Rogers",
+  "worksCount": 2,
+  "description": "actrice américaine, XXe siècle (1911–1995)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ginger%20Rogers%20-%20Tender%20Comrade.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1911-07-16",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q95089",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ginger_Rogers",
+    "imdb": "nm0001677",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "en-suivant-la-flotte",
+      "title": "En suivant la flotte"
+    },
+    {
+      "type": "film",
+      "slug": "l-entreprenant-monsieur-petrov",
+      "title": "L'Entreprenant Monsieur Petrov"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "91c6d2d2-1e35-4fc5-aa8c-e399953877e6",
+      "title": "En suivant la flotte",
+      "programSlug": "en-suivant-la-flotte",
+      "programUrl": "/programme/tcm-cinema/en-suivant-la-flotte",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-25 03:25:00+00",
+      "endTime": "2026-04-25 05:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-25 03:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "suzi-lorraine",
+  "name": "Suzi Lorraine",
+  "worksCount": 1,
+  "description": "mannequin et actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-02-15",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3506092",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Suzi_Lorraine",
+    "imdb": "nm1217063",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-come-back",
+      "title": "Le come-back"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

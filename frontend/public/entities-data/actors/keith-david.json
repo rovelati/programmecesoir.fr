@@ -1,0 +1,83 @@
+{
+  "type": "actor",
+  "slug": "keith-david",
+  "name": "Keith David",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Keith%20David%203rd%20Annual%20ICON%20MANN%20POWER%2050%20event%20-%20Feb%202015%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1956-06-04",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q370918",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Keith_David",
+    "imdb": "nm0202966",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bird",
+      "title": "Bird"
+    },
+    {
+      "type": "film",
+      "slug": "the-nice-guys",
+      "title": "The Nice Guys"
+    },
+    {
+      "type": "film",
+      "slug": "novocaine",
+      "title": "Novocaïne"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7a414086-749b-44a1-af6c-af0a38d32953",
+      "title": "Novocaïne",
+      "programSlug": "novocaine",
+      "programUrl": "/programme/canal-box-office/novocaine",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 23:48:00+00",
+      "endTime": "2026-04-22 01:38:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "41779283-1599-4f1f-8099-47d9faec15bf",
+      "title": "Bird",
+      "programSlug": "bird",
+      "programUrl": "/programme/cine-festival/bird",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 14:32:00+00",
+      "endTime": "2026-04-23 16:29:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "80e966ce-93b1-4bea-8594-8f2f73a020c8",
+      "title": "Novocaïne",
+      "programSlug": "novocaine",
+      "programUrl": "/programme/canal/novocaine",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 23:06:00+00",
+      "endTime": "2026-04-26 00:53:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-21 23:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,177 @@
+{
+  "type": "film",
+  "slug": "48-heures-de-plus",
+  "title": "48 heures de plus",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "48 heures de plus"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "buddy movie",
+    "thriller",
+    "comédie",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Voici des années qu'un mystérieux gangster, surnommé Iceman, nargue la police de San Francisco en général, et Jack Cates en particulier. Et pourtant Jack s'acharne. Lorsqu'il abat l'un des complices du truand, il perd non seulement son dernier indice mais aussi sa place. Suspendu, soupçonné d'homicide volontaire, isolé, Jack n'a d'autre ressource que de faire appel à son partenaire d'un jour, un détenu, Reggie Hammond, toujours emprisonné. Reggie commence par refuser catégoriquement. Mais les tueurs d'Iceman lui en veulent à lui aussi, et Reggie se décide à collaborer. Les deux hommes retrouvent la fiancée chinoise d'un des malfrats, tandis que les témoins disparaissent les uns après les autres. Reggie est rapidement convaincu que sous le mystérieux pseudonyme d'Iceman se cache un collègue de Cates...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8b436930-4002-42bd-9f53-74c593b7ff8a",
+      "title": "48 heures de plus",
+      "programSlug": "48-heures-de-plus",
+      "programUrl": "/programme/action/48-heures-de-plus",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-19 12:50:00+00",
+      "endTime": "2026-04-19 14:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "90a0a586-6ecf-445c-92f6-b6ffdc6fb16e",
+      "title": "48 heures de plus",
+      "programSlug": "48-heures-de-plus",
+      "programUrl": "/programme/action/48-heures-de-plus",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 08:59:00+00",
+      "endTime": "2026-04-25 10:33:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1990,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q188018",
+      "slug": "nick-nolte",
+      "name": "Nick Nolte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43874",
+      "slug": "eddie-murphy",
+      "name": "Eddie Murphy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q723780",
+      "slug": "brion-james",
+      "name": "Brion James",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1288447",
+      "slug": "kevin-tighe",
+      "name": "Kevin Tighe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1262126",
+      "slug": "ed-o-ross",
+      "name": "Ed O'Ross",
+      "role": "actor"
+    },
+    {
+      "qid": "Q465628",
+      "slug": "andrew-divoff",
+      "name": "Andrew Divoff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q264960",
+      "slug": "tisha-campbell",
+      "name": "Tisha Campbell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q372497",
+      "slug": "bernie-casey",
+      "name": "Bernie Casey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15973029",
+      "slug": "felice-orlandi",
+      "name": "Felice Orlandi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461691",
+      "slug": "frank-mcrae",
+      "name": "Frank McRae",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15553290",
+      "slug": "brent-jennings",
+      "name": "Brent Jennings",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1964484",
+      "slug": "nancy-everhard",
+      "name": "Nancy Everhard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2359809",
+      "slug": "shauna-o-brien",
+      "name": "Shauna O’Brien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189182",
+      "slug": "dennis-hayden",
+      "name": "Dennis Hayden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3045427",
+      "slug": "george-cheung",
+      "name": "George Cheung",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2399806",
+      "slug": "ted-markland",
+      "name": "Ted Markland",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q350422",
+    "slug": "walter-hill",
+    "name": "Walter Hill",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 12:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

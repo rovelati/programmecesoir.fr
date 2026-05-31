@@ -1,0 +1,70 @@
+{
+  "type": "film",
+  "slug": "rubikon",
+  "title": "Rubikon",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Rubikon"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "L'équipage de la station spatiale Rubikon effectue ses tâches en orbite au-dessus de la Terre. Soudain, alors que l'un des astronautes est de sortie pour une mission de routine, il est le témoin d'un spectacle horrible sous ses yeux. La Terre est en train d'être dévastée par une catastrophe. L'équipage paniqué tente de contacter quelqu'un. Mais la planète est désormais recouverte d'un nuage toxique qui rend improbable la présence de survivants. C'est alors qu'un contact est établi. Trois cents personnes ont besoin d'aide. Aussitôt, un vif débat s'engage. Faut-il les aider au risque de mourir sans être sûr de sauver qui que ce soit ? Ou bien rester à bord du Rubikon, où un \"système de symbiose d'algue\" permet de survivre indéfiniment ?",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q29397549",
+      "slug": "julia-franz-richter",
+      "name": "Julia Franz Richter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5537029",
+      "slug": "george-blagden",
+      "name": "George Blagden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1033909",
+      "slug": "mark-ivanir",
+      "name": "Mark Ivanir",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q107094302",
+    "slug": "magdalena-lauritsch",
+    "name": "Magdalena Lauritsch",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

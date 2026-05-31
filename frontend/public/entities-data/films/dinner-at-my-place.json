@@ -1,0 +1,72 @@
+{
+  "type": "film",
+  "slug": "dinner-at-my-place",
+  "title": "Dinner at My Place",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Dinner at My Place"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Nonso prévoit un dîner avec Chioma, mais l'arrivée de Bisi vient perturber la soirée, transformant une soirée romantique en cauchemar.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q56249823",
+      "slug": "timini-egbuson",
+      "name": "Timini Egbuson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55085048",
+      "slug": "bisola-aiyeola",
+      "name": "Bisola Aiyeola",
+      "role": "actor"
+    },
+    {
+      "qid": "Q99975935",
+      "slug": "sophie-alakija",
+      "name": "Sophie Alakija",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109289930",
+      "slug": "uche-nwaefuna",
+      "name": "Uche Nwaefuna",
+      "role": "actor"
+    }
+  ],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

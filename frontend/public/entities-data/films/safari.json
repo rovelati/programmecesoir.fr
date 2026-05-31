@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "safari",
+  "title": "Safari",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Safari"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Benoît, Magalie, Fabienne, Bertrand, Rémi et le très pincé monsieur Charles décident tous d'accomplir un de leurs vieux rêves : faire un safari en Afrique. Après avoir mûrement réfléchi, c'est le site Internet d'un certain Richard Dacier qui leur paraît le plus convaincant. Les tarifs sont raisonnables, le programme excitant. Et Dacier est un connaisseur de l'Afrique, un véritable baroudeur. On peut donc lui faire confiance. Benoît réserve sa place, les autres aussi. Une fois sur place, ils découvrent la savane d'Afrique du Sud avec ferveur. Mais ce safari bon marché leur réserve une succession de surprises qu'ils ne sont pas prêts d'oublier. Richard Dacier non plus...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Safari%2012%20on%20Mojave.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2003,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

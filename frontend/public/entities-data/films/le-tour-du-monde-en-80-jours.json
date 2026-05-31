@@ -1,0 +1,184 @@
+{
+  "type": "film",
+  "slug": "le-tour-du-monde-en-80-jours",
+  "title": "Le tour du monde en 80 jours",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Le tour du monde en 80 jours"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure",
+    "comédie d'action",
+    "adaptation d'un roman au cinéma",
+    "film et téléfilm de fantasy"
+  ],
+  "description": "A la fin du XIXe siècle en Angleterre, Phileas Fogg, un inventeur de renom, fait un pari insensé avec lord Kelvin, le président de la prestigieuse \"Royal Academy of Science\" : celui de réaliser un tour du monde en 80 jours. S'il relève le défi, Phileas Fogg succédera à Kelvin à la tête de l'Académie. Aussi celui-ci entreprend-il d'engager l'inspecteur Fix, afin qu'il sabote l'ambitieux projet de son rival potentiel. L'aventure démarre pour Phileas Fogg, qui ignore tout des sombres desseins nourris par lord Kelvin. Accompagné de Passepartout et de Monique La Roche, une ravissante artiste française, Phileas Fogg débute son long périple...",
+  "descriptionAi": "Ce film d'aventure de 1956, adaptation du célèbre roman, mêle avec brio comédie et action dans une ambiance de découverte fantaisiste. Le pari fou de Phileas Fogg, un tour du monde en 80 jours, lance une course contre la montre pleine de rebondissements, de rencontres exotiques et de saboteurs. L'intrigue est portée par un charme visuel vintage et un esprit d'évasion qui captive le téléspectateur, offrant un voyage dépaysant et léger. Cette épopée inventive, où l'audace affronte la trahison, est un classique divertissant à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike%20Todd%20Frank%20Sinatra%20Around%20the%20World%20in%2080%20Days%201956.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8eb960ec-1ede-44aa-a099-c6b5fb22b565",
+      "title": "Le tour du monde en 80 jours",
+      "programSlug": "le-tour-du-monde-en-80-jours",
+      "programUrl": "/programme/cine-family/le-tour-du-monde-en-80-jours",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 09:59:00+00",
+      "endTime": "2026-04-21 11:19:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "64bb9bd0-fa6e-4fa7-8891-4ac9c9fc88ec",
+      "title": "Le tour du monde en 80 jours",
+      "programSlug": "le-tour-du-monde-en-80-jours",
+      "programUrl": "/programme/rtl9/le-tour-du-monde-en-80-jours",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-25 18:55:00+00",
+      "endTime": "2026-04-25 21:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:49:19.642Z",
+  "year": 1956,
+  "durationMinutes": 184,
+  "cast": [
+    {
+      "qid": "Q181917",
+      "slug": "david-niven",
+      "name": "David Niven",
+      "role": "actor"
+    },
+    {
+      "qid": "Q195371",
+      "slug": "cantinflas",
+      "name": "Cantinflas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q974924",
+      "slug": "robert-newton",
+      "name": "Robert Newton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95026",
+      "slug": "shirley-maclaine",
+      "name": "Shirley MacLaine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105987",
+      "slug": "charles-boyer",
+      "name": "Charles Boyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298388",
+      "slug": "noel-coward",
+      "name": "Noël Coward",
+      "role": "actor"
+    },
+    {
+      "qid": "Q527735",
+      "slug": "cedric-hardwicke",
+      "name": "Cedric Hardwicke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1391088",
+      "slug": "finlay-currie",
+      "name": "Finlay Currie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q129092",
+      "slug": "fernandel",
+      "name": "Fernandel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q745388",
+      "slug": "luis-miguel-dominguin",
+      "name": "Luis Miguel Dominguín",
+      "role": "actor"
+    },
+    {
+      "qid": "Q919206",
+      "slug": "gilbert-roland",
+      "name": "Gilbert Roland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q443585",
+      "slug": "cesar-romero",
+      "name": "Cesar Romero",
+      "role": "actor"
+    },
+    {
+      "qid": "Q78505",
+      "slug": "peter-lorre",
+      "name": "Peter Lorre",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436187",
+      "slug": "george-raft",
+      "name": "George Raft",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4612",
+      "slug": "marlene-dietrich",
+      "name": "Marlène Dietrich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312878",
+      "slug": "john-carradine",
+      "name": "John Carradine",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q539685",
+    "slug": "michael-anderson",
+    "name": "Michael Anderson",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 09:59:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

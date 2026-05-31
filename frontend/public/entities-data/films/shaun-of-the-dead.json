@@ -1,0 +1,170 @@
+{
+  "type": "film",
+  "slug": "shaun-of-the-dead",
+  "title": "Shaun of the Dead",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Shaun of the Dead"
+  ],
+  "genres": [
+    "comédie romantique",
+    "film et téléfilm d'horreur",
+    "buddy movie",
+    "comédie",
+    "film ou téléfilm parodique",
+    "film de zombies",
+    "comédie de zombies"
+  ],
+  "description": "Trentenaire sans grand avenir, Shaun apprécie plus que tout les soirées au pub avec ses amis. Cette vie médiocre insupporte sa petite amie, Liz, qui décide de rompre. Mais Shaun, qui est sincèrement épris de Liz, va tout faire pour la reconquérir. Au même moment, des zombies envahissent Londres...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/WonderCon%202012%20-%20Ed%20and%20Shaun%20of%20the%20Dead%20(7019312491).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q509628",
+      "slug": "kate-ashfield",
+      "name": "Kate Ashfield",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436620",
+      "slug": "lucy-davis",
+      "name": "Lucy Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q363400",
+      "slug": "nick-frost",
+      "name": "Nick Frost",
+      "role": "actor"
+    },
+    {
+      "qid": "Q381685",
+      "slug": "dylan-moran",
+      "name": "Dylan Moran",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207179",
+      "slug": "bill-nighy",
+      "name": "Bill Nighy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q544165",
+      "slug": "penelope-wilton",
+      "name": "Penelope Wilton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238464",
+      "slug": "simon-pegg",
+      "name": "Simon Pegg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q259679",
+      "slug": "jessica-stevenson",
+      "name": "Jessica Stevenson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309486",
+      "slug": "martin-freeman",
+      "name": "Martin Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317251",
+      "slug": "matt-lucas",
+      "name": "Matt Lucas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q723256",
+      "slug": "peter-serafinowicz",
+      "name": "Peter Serafinowicz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1190134",
+      "slug": "rafe-spall",
+      "name": "Rafe Spall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3119814",
+      "slug": "tamsin-greig",
+      "name": "Tamsin Greig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q522057",
+      "slug": "edgar-wright",
+      "name": "Edgar Wright",
+      "role": "actor"
+    },
+    {
+      "qid": "Q560286",
+      "slug": "mark-gatiss",
+      "name": "Mark Gatiss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3371571",
+      "slug": "paul-kaye",
+      "name": "Paul Kaye",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q522057",
+    "slug": "edgar-wright",
+    "name": "Edgar Wright",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

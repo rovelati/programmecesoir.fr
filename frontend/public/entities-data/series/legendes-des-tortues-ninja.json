@@ -1,0 +1,288 @@
+{
+  "type": "series",
+  "slug": "legendes-des-tortues-ninja",
+  "title": "Légendes des Tortues Ninja",
+  "airingsCount": 178,
+  "sourceTitles": [
+    "Légendes des Tortues Ninja"
+  ],
+  "genres": [
+    "Série",
+    "Série d'animation"
+  ],
+  "description": "Pris entre les Méchazoïdes et le gang des Dragons Pourpres, la force de Raphaël ne lui servira à rien. Il va devoir se servir de son ingéniosité pour se sortir de ce mauvais pas.",
+  "descriptionAi": "Cette série d'animation plonge dans l'univers des Tortues Ninja à travers le prisme de l'aventure et de l'humour. L'ambiance est un savant mélange d'action trépidante et de moments plus personnels, explorant la fraternité et les défis de nos héros mutants. L'intérêt réside dans la façon dont elle dépasse le simple affrontement physique ; ici, face à des menaces comme les Méchazoïdes, c'est l'intelligence et l'ingéniosité, comme celle de Raphaël, qui sont mises à l'épreuve. Une aventure familiale pleine de rebondissements et de cœur, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeonplus1fr.svg",
+      "airingsCount": 58
+    },
+    {
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon.png",
+      "airingsCount": 38
+    },
+    {
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon1.svg",
+      "airingsCount": 38
+    },
+    {
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon-teen.png",
+      "airingsCount": 44
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "88b23eeb-4ec9-4d8d-bc27-e755ed551ab4",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 12:35:00+00",
+      "endTime": "2026-04-19 12:56:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fe6540af-7ecc-4eef-851f-dd0c11dbe593",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 12:56:00+00",
+      "endTime": "2026-04-19 13:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2845181d-f644-4409-b11a-2ea11ba640e2",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeonplus1fr/legendes-des-tortues-ninja",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 13:35:00+00",
+      "endTime": "2026-04-19 13:56:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0f70a232-7292-48a4-ad3a-9ab3fb021c7b",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon1/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 13:35:00+00",
+      "endTime": "2026-04-19 13:56:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "aa7cc0e1-655e-4e25-9b60-58b0a5df1d7c",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeonplus1fr/legendes-des-tortues-ninja",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 13:56:00+00",
+      "endTime": "2026-04-19 14:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "50ac6af9-e2a0-4bdd-b382-5d4661cf4e71",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon1/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 13:56:00+00",
+      "endTime": "2026-04-19 14:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "29b1828f-8d72-40f8-bbfa-37e61c2c671a",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon-teen/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 19:34:00+00",
+      "endTime": "2026-04-19 19:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "882e6fb6-c25d-48fe-9864-83fd61402948",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 20:36:00+00",
+      "endTime": "2026-04-19 20:59:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "77556fac-9671-49db-8669-cb188f4ac793",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 20:59:00+00",
+      "endTime": "2026-04-19 21:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5ed3381d-44ee-47c1-9b10-2bc143fe54d0",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon-teen/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 21:23:00+00",
+      "endTime": "2026-04-19 21:44:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2f4236a3-aa9a-45f5-9de1-3e1de0eda413",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeonplus1fr/legendes-des-tortues-ninja",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 21:36:00+00",
+      "endTime": "2026-04-19 21:59:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9e150b31-6359-4f73-89fa-6ce44a5bbd51",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon1/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 21:36:00+00",
+      "endTime": "2026-04-19 21:59:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3695f4e7-5a8a-4c4e-ab1d-c60443f8aad5",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon-teen/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 21:44:00+00",
+      "endTime": "2026-04-19 22:06:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "78e3d400-1824-4243-ae99-d46c113be34b",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeonplus1fr/legendes-des-tortues-ninja",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 21:59:00+00",
+      "endTime": "2026-04-19 22:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8e311f12-e132-4aa6-83f7-35db9ec278e6",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon1/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 21:59:00+00",
+      "endTime": "2026-04-19 22:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "803cd6f6-26ad-45f1-ab45-b4a68ac96d78",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 20:38:00+00",
+      "endTime": "2026-04-20 20:59:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "828910ab-6219-4ec5-b46d-3ffa177a951e",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeon/legendes-des-tortues-ninja",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 20:59:00+00",
+      "endTime": "2026-04-20 21:23:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4a6405d9-54fb-42aa-9697-369ddc4f3364",
+      "title": "Légendes des Tortues Ninja",
+      "programSlug": "legendes-des-tortues-ninja",
+      "programUrl": "/programme/nickelodeonplus1fr/legendes-des-tortues-ninja",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 21:38:00+00",
+      "endTime": "2026-04-20 21:59:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T22:06:41.736Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 12:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

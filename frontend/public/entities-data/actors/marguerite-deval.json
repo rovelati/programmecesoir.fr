@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "marguerite-deval",
+  "name": "Marguerite Deval",
+  "worksCount": 1,
+  "description": "actrice de théâtre et chanteuse",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adrien%20Barr%C3%A8re21.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1866-09-19",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3290696",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marguerite_Deval",
+    "imdb": "nm0222165",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "gueule-d-amour",
+      "title": "Gueule d'amour"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

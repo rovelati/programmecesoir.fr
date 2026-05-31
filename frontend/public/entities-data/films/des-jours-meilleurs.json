@@ -1,0 +1,120 @@
+{
+  "type": "film",
+  "slug": "des-jours-meilleurs",
+  "title": "Des jours meilleurs",
+  "airingsCount": 13,
+  "sourceTitles": [
+    "Des jours meilleurs"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "A la suite d'un accident de voiture, Suzanne, une veuve quinquagénaire, perd la garde de ses trois fils. Elle n'a plus le choix et doit se soigner dans un centre pour alcooliques. A peine arrivée, elle fait la connaissance d'Alice et Diane, deux femmes au caractère bien trempé. Denis, un éducateur sportif, va tenter de les réunir autour du même objectif : participer au rallye des Dunes dans le désert marocain. Il devra s'armer de beaucoup de patience et de pédagogie pour préparer cet improbable équipage à atteindre son objectif...",
+  "descriptionAi": "Ce film dramatique et sportif dépeint avec justesse un parcours de reconstruction collective. L’ambiance oscille entre moments de tension et d’émotion sincère, le tout porté par des personnages profondément humains. Ce qui captive, c’est la manière dont des vies brisées se relient à travers un défi physique hors norme, transformant l’épreuve en un véritable voyage vers la résilience. L’alchimie entre les personnages et la beauté des paysages en font une histoire touchante sur la force de la solidarité. Une aventure humaine inspirante à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d2a97145-661d-42b4-b6ce-1f216d5e6c34",
+      "title": "Des jours meilleurs",
+      "programSlug": "des-jours-meilleurs",
+      "programUrl": "/programme/canal/des-jours-meilleurs",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-20 08:11:00+00",
+      "endTime": "2026-04-20 09:53:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "73877dcb-2151-4567-bcde-2a22d70a263a",
+      "title": "Des jours meilleurs",
+      "programSlug": "des-jours-meilleurs",
+      "programUrl": "/programme/canal-cinema/des-jours-meilleurs",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 13:15:00+00",
+      "endTime": "2026-04-22 14:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a6fe5fb1-48a7-4b45-b680-a055e2945a8b",
+      "title": "Des jours meilleurs",
+      "programSlug": "des-jours-meilleurs",
+      "programUrl": "/programme/paramount-channel/des-jours-meilleurs",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-22 13:15:00+00",
+      "endTime": "2026-04-22 14:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "eebf30f0-fa99-46f9-a6bd-75de7f100f0b",
+      "title": "Des jours meilleurs",
+      "programSlug": "des-jours-meilleurs",
+      "programUrl": "/programme/canal-box-office/des-jours-meilleurs",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 20:33:00+00",
+      "endTime": "2026-04-23 22:14:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q133869051",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Des_jours_meilleurs",
+    "imdb": "tt29887422",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:26:53.607Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 08:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

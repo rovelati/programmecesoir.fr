@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "christian-hecq",
+  "name": "Christian Hecq",
+  "worksCount": 2,
+  "description": "acteur belge",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-05-24",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2965328",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Christian_Hecq",
+    "imdb": "nm0373092",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "9-mois-ferme",
+      "title": "9 mois ferme"
+    },
+    {
+      "type": "film",
+      "slug": "le-tigre-et-le-president",
+      "title": "Le Tigre et le Président"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "859fca5e-3e91-4cc0-8855-a64a252c808c",
+      "title": "Le Tigre et le Président",
+      "programSlug": "le-tigre-et-le-president",
+      "programUrl": "/programme/cine-frisson/le-tigre-et-le-president",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 23:18:00+00",
+      "endTime": "2026-04-20 00:53:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 23:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

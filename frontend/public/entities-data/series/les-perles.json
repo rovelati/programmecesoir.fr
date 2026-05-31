@@ -1,0 +1,120 @@
+{
+  "type": "series",
+  "slug": "les-perles",
+  "title": "Les perles",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Les perles",
+    "Les perles - Saison 1"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Stéphanie s'en veut de ne pas avoir été présente pour Laurence dans l'épreuve qu'elle traverse. Avec l'appui de Cynthia, elle tente de rattraper le temps perdu. De son côté, Juliette tente de trouver des réponses à la dépression de sa mère en regardant des vidéos sur Internet...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv5-monde.png",
+      "airingsCount": 10
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2023,
+  "numberOfSeasons": 1,
+  "cast": [
+    {
+      "qid": "Q2900809",
+      "slug": "q2900809",
+      "name": "Q2900809",
+      "role": "actor"
+    },
+    {
+      "qid": "Q138458050",
+      "slug": "q138458050",
+      "name": "Q138458050",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108908890",
+      "slug": "sharon-fontaine-ishpatao",
+      "name": "Sharon Fontaine Ishpatao",
+      "role": "actor"
+    },
+    {
+      "qid": "Q138458089",
+      "slug": "q138458089",
+      "name": "Q138458089",
+      "role": "actor"
+    },
+    {
+      "qid": "Q138458100",
+      "slug": "q138458100",
+      "name": "Q138458100",
+      "role": "actor"
+    },
+    {
+      "qid": "Q137714182",
+      "slug": "q137714182",
+      "name": "Q137714182",
+      "role": "actor"
+    },
+    {
+      "qid": "Q100450635",
+      "slug": "bruno-marcil",
+      "name": "Bruno Marcil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q138458121",
+      "slug": "q138458121",
+      "name": "Q138458121",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3343841",
+      "slug": "q3343841",
+      "name": "Q3343841",
+      "role": "actor"
+    },
+    {
+      "qid": "Q101114209",
+      "slug": "lucien-ratio",
+      "name": "Lucien Ratio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2956255",
+      "slug": "q2956255",
+      "name": "Q2956255",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q138458190",
+    "slug": "q138458190",
+    "name": "Q138458190",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

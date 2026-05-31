@@ -1,0 +1,332 @@
+{
+  "type": "film",
+  "slug": "mata-hari-agent-h21",
+  "title": "Mata Hari, agent H21",
+  "airingsCount": 24,
+  "sourceTitles": [
+    "Mata Hari, agent H21"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "En 1917, la guerre n'en finit plus. A Paris, loin de la boucherie des champs de bataille, civils et embusqués profitent des plaisirs de l'existence dans les bars et cabarets. Jeune galante d'origine hollandaise, Greta Zelle est une des jeunes femmes les plus appréciées du tout-Paris où, sous le pseudonyme de Mata Hari, elle se fait officiellement passer pour une danseuse javanaise. Mais la troublante Greta Zelle, qui semble ne pas se satisfaire de ce succès parisien, est aussi une très efficace espionne au service du Kaiser. Au cours d'une de ses missions d'espionnage, pour le compte des Allemands, la jeune femme tombe amoureuse d'un officier de l'armée française...",
+  "descriptionAi": "Ce drame historique plonge dans l’univers trouble de l’espionnage durant la Première Guerre mondiale, baigné d’une ambiance sensuelle et dangereuse des cabarets parisiens. Il retrace le destin fascinant de Greta Zelle, alias Mata Hari, danseuse adulée qui mène une double vie d’agent secret pour l’Allemagne. L’intérêt réside dans le portrait complexe de cette femme insaisissable, partagée entre sa mission et une passion naissante pour un officier français, au cœur d’un jeu mortel de trahisons. Une plongée captivante dans les ombres de la Grande Guerre, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q3298157",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mata_Hari%2C_agent_H_21",
+    "imdb": "tt0059435",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:26:39.185Z",
+  "year": 1964,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q106099",
+      "slug": "jeanne-moreau",
+      "name": "Jeanne Moreau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106204",
+      "slug": "jean-louis-trintignant",
+      "name": "Jean-Louis Trintignant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1097113",
+      "slug": "claude-rich",
+      "name": "Claude Rich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295834",
+      "slug": "jean-pierre-leaud",
+      "name": "Jean-Pierre Léaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1064099",
+      "slug": "charles-denner",
+      "name": "Charles Denner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2831527",
+      "slug": "albert-remy",
+      "name": "Albert Rémy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2939031",
+      "slug": "carla-marlier",
+      "name": "Carla Marlier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2959586",
+      "slug": "charles-lavialle",
+      "name": "Charles Lavialle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2977756",
+      "slug": "claude-mansard",
+      "name": "Claude Mansard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3579848",
+      "slug": "edouard-francomme",
+      "name": "Édouard Francomme",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082309",
+      "slug": "franck-villard",
+      "name": "Franck Villard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1508941",
+      "slug": "georges-geret",
+      "name": "Georges Géret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q474711",
+      "slug": "georges-riquier",
+      "name": "Georges Riquier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3129825",
+      "slug": "hella-petri",
+      "name": "Hella Petri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3130893",
+      "slug": "henri-coutet",
+      "name": "Henri Coutet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466434",
+      "slug": "henri-garcin",
+      "name": "Henri Garcin",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2729701",
+    "slug": "jean-louis-richard",
+    "name": "Jean-Louis Richard",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

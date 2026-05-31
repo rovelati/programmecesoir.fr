@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "l-homme-qui-tua-liberty-valance",
+  "title": "L'homme qui tua Liberty Valance",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'homme qui tua Liberty Valance"
+  ],
+  "genres": [
+    "western",
+    "film à flash-back",
+    "drame",
+    "Anti-western"
+  ],
+  "description": "Le sénateur Ransom Stoddard retourne à Shinbone avec son épouse pour assister à l'enterrement de son vieil ami, Tom Doniphon. Il lui raconte comment, jeune juriste, il avait quitté l'Est pour gagner le Far West et avait affronté Liberty Valance, l'une des plus grandes terreurs de l'Ouest...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Man%20Who%20Shot%20Liberty%20Valance%20(1962%20poster).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1962,
+  "durationMinutes": 123,
+  "cast": [
+    {
+      "qid": "Q102462",
+      "slug": "james-stewart",
+      "name": "James Stewart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40531",
+      "slug": "john-wayne",
+      "name": "John Wayne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237864",
+      "slug": "vera-miles",
+      "name": "Vera Miles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q76895",
+      "slug": "lee-marvin",
+      "name": "Lee Marvin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q119935",
+      "slug": "edmond-o-brien",
+      "name": "Edmond O'Brien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q609860",
+      "slug": "woody-strode",
+      "name": "Woody Strode",
+      "role": "actor"
+    },
+    {
+      "qid": "Q386105",
+      "slug": "andy-devine",
+      "name": "Andy Devine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312878",
+      "slug": "john-carradine",
+      "name": "John Carradine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193278",
+      "slug": "lee-van-cleef",
+      "name": "Lee Van Cleef",
+      "role": "actor"
+    },
+    {
+      "qid": "Q442980",
+      "slug": "jeanette-nolan",
+      "name": "Jeanette Nolan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1364339",
+      "slug": "john-qualen",
+      "name": "John Qualen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q122335",
+      "slug": "ken-murray",
+      "name": "Ken Murray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1677155",
+      "slug": "jack-pennick",
+      "name": "Jack Pennick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460474",
+      "slug": "anna-lee",
+      "name": "Anna Lee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2939081",
+      "slug": "carleton-young",
+      "name": "Carleton Young",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189988",
+      "slug": "denver-pyle",
+      "name": "Denver Pyle",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51114",
+    "slug": "john-ford",
+    "name": "John Ford",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

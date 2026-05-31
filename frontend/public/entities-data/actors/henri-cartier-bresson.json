@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "henri-cartier-bresson",
+  "name": "Henri Cartier-Bresson",
+  "worksCount": 1,
+  "description": "photographe français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Cartier-Bresson%20-%20Paris%20-%201954%20-%20Kimura%20Ihei.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1908-08-22",
+  "nationality": "France",
+  "jobTitle": "photographe",
+  "externalIds": {
+    "wikidata": "Q156567",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Henri_Cartier-Bresson",
+    "imdb": "nm0142035",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "partie-de-campagne",
+      "title": "Partie de campagne"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cee3b06d-399a-4c31-aa05-1ac72c9c78be",
+      "title": "Partie de campagne",
+      "programSlug": "partie-de-campagne",
+      "programUrl": "/programme/france-3-corse/partie-de-campagne",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 06:44:00+00",
+      "endTime": "2026-04-19 06:56:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 06:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,154 @@
+{
+  "type": "film",
+  "slug": "la-memoire-dans-la-peau",
+  "title": "La mémoire dans la peau",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La mémoire dans la peau"
+  ],
+  "genres": [
+    "film ou téléfilm d'espionnage",
+    "thriller d'action",
+    "film et téléfilm d'action",
+    "adaptation d'un roman au cinéma",
+    "thriller",
+    "film ou téléfilm à énigme",
+    "political thriller film"
+  ],
+  "description": "Le corps d'un homme flotte sur la Méditerranée déchaînée. Repêché par les marins du bateau l'Aventura, le naufragé est incapable de se souvenir de son nom. Ramené à Marseille, il découvre un microfilm placé sous sa peau et apprend qu'il s'appelle Jason Bourne. Le document, qui contient un numéro de compte en Suisse, est la seule piste à laquelle il peut se raccrocher. Jason traverse alors l'Europe en direction de la Confédération helvétique. Mais son parcours est semé d'embûches, et le jeune homme ne tarde pas à comprendre qu'il est poursuivi par les forces de police, mais également par une organisation dont il ne parvient pas à comprendre les motivations profondes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2002,
+  "durationMinutes": 119,
+  "cast": [
+    {
+      "qid": "Q175535",
+      "slug": "matt-damon",
+      "name": "Matt Damon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65105",
+      "slug": "franka-potente",
+      "name": "Franka Potente",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273208",
+      "slug": "chris-cooper",
+      "name": "Chris Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q183178",
+      "slug": "clive-owen",
+      "name": "Clive Owen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q34975",
+      "slug": "brian-cox",
+      "name": "Brian Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294586",
+      "slug": "adewale-akinnuoye-agbaje",
+      "name": "Adewale Akinnuoye-Agbaje",
+      "role": "actor"
+    },
+    {
+      "qid": "Q973456",
+      "slug": "gabriel-mann",
+      "name": "Gabriel Mann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210120",
+      "slug": "julia-stiles",
+      "name": "Julia Stiles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q516690",
+      "slug": "walton-goggins",
+      "name": "Walton Goggins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q641352",
+      "slug": "josh-hamilton",
+      "name": "Josh Hamilton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1045877",
+      "slug": "orso-maria-guerrini",
+      "name": "Orso Maria Guerrini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2863129",
+      "slug": "arnaud-henriet",
+      "name": "Arnaud Henriet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q960494",
+      "slug": "david-bamber",
+      "name": "David Bamber",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2560838",
+      "slug": "david-gasman",
+      "name": "David Gasman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3022086",
+      "slug": "demetri-goritsas",
+      "name": "Demetri Goritsas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16910969",
+      "slug": "denis-braccini",
+      "name": "Denis Braccini",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q349339",
+    "slug": "doug-liman",
+    "name": "Doug Liman",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,378 @@
+{
+  "type": "series",
+  "slug": "the-rookie-le-flic-de-los-angeles",
+  "title": "The Rookie : Le flic de Los Angeles",
+  "airingsCount": 102,
+  "sourceTitles": [
+    "The Rookie : le flic de Los Angeles",
+    "The Rookie : Le flic de Los Angeles",
+    "The Rookie : le flic de Los Angeles - Saison 4",
+    "The Rookie : le flic de Los Angeles - Saison 5"
+  ],
+  "genres": [
+    "série télévisée dramatique",
+    "enquête policière",
+    "série d'action"
+  ],
+  "description": "Enlevée au Guatemala, Angela Lopez peut compter sur ses collègues pour venir à sa rescousse. Aaron Thorsen, un nouveau venu, rejoint l'unité, mais Harper n'est pas convaincu qu'il est l'étoffe d'un policier. De son côté, Nolan entame une relation avec Bailey que viennent troubler bien des surprises inattendues. Il décide par ailleurs de se présenter comme représentant du personnel aux prochaines élections du commissariat. Titus Makin Jr, qui incarne Jackson West, quitte la série dès les prémices de cette quatrième saison enlevée.",
+  "descriptionAi": "Cette série dramatique policière mêle habilement enquêtes, action et développement des personnages dans l'effervescence de Los Angeles. Elle captive par son équilibre entre tensions professionnelles au sein du commissariat et intrigues personnelles complexes, le tout porté par un casting attachant. Le quotidien des policiers, entre périls sur le terrain et défis internes, crée une ambiance à la fois immersive et rythmée. L'évolution du rookie John Nolan, confronté aux doutes et aux responsabilités bien au-delà de ses débuts tardifs, offre un regard rafraîchissant sur le genre. Une série humaine et palpitante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/club-rtl.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "channelNumber": null,
+      "logoUrl": "/loghi/serie-club.png",
+      "airingsCount": 91
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "89520c53-4d38-44a9-94e5-4dfb642f0546",
+      "title": "The Rookie : Le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/club-rtl/the-rookie-le-flic-de-los-angeles",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 12:30:00+00",
+      "endTime": "2026-04-19 13:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "49ee3404-36ea-4749-8e61-d4b087ceaa3e",
+      "title": "The Rookie : Le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/club-rtl/the-rookie-le-flic-de-los-angeles",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 13:20:00+00",
+      "endTime": "2026-04-19 14:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fbbc8251-fef3-4b19-a43e-9629129e5faa",
+      "title": "The Rookie : Le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/club-rtl/the-rookie-le-flic-de-los-angeles",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 14:10:00+00",
+      "endTime": "2026-04-19 15:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a3d4f606-236b-4ca7-8da1-840178e78bac",
+      "title": "The Rookie : Le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/club-rtl/the-rookie-le-flic-de-los-angeles",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 15:00:00+00",
+      "endTime": "2026-04-19 15:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dfe3d97d-b7ff-4750-8c12-58b2d65f355c",
+      "title": "The Rookie : Le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/club-rtl/the-rookie-le-flic-de-los-angeles",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 15:50:00+00",
+      "endTime": "2026-04-19 16:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "58cd57cf-b5d7-4620-9f1c-c0e781971a6d",
+      "title": "The Rookie : le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 20:25:00+00",
+      "endTime": "2026-04-19 21:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "98d455c9-9df0-4669-b64a-e5d377087e84",
+      "title": "The Rookie : le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 21:10:00+00",
+      "endTime": "2026-04-19 22:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0adf8e65-68d2-4162-a1c3-e51672e8bdcd",
+      "title": "The Rookie : le flic de Los Angeles - Saison 5",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-5",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-5",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 22:05:00+00",
+      "endTime": "2026-04-19 22:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a98fbe41-9c94-452e-8d00-9335484dff21",
+      "title": "The Rookie : le flic de Los Angeles - Saison 5",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-5",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-5",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 22:55:00+00",
+      "endTime": "2026-04-19 23:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a6741e06-6135-44e0-8ed1-d5bb6175bf5c",
+      "title": "The Rookie : le flic de Los Angeles - Saison 5",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-5",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-5",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-20 15:05:00+00",
+      "endTime": "2026-04-20 15:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "533696ed-d915-4d98-b3a9-7d570f018a0d",
+      "title": "The Rookie : le flic de Los Angeles - Saison 5",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-5",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-5",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-20 15:50:00+00",
+      "endTime": "2026-04-20 16:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "482fcda2-8481-49f5-8f92-b6ee696ee005",
+      "title": "The Rookie : le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/club-rtl/the-rookie-le-flic-de-los-angeles",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-20 16:15:00+00",
+      "endTime": "2026-04-20 17:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "cd037968-64bf-4bcc-b463-929a9fc5402e",
+      "title": "The Rookie : le flic de Los Angeles - Saison 6",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-6",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-6",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-20 16:35:00+00",
+      "endTime": "2026-04-20 17:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4b5626d8-39f6-46b0-89d3-04cfd7feaf51",
+      "title": "The Rookie : le flic de Los Angeles - Saison 6",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-6",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-6",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-20 17:20:00+00",
+      "endTime": "2026-04-20 18:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "120eb065-d47e-4cad-9778-0be21b0147e8",
+      "title": "The Rookie : le flic de Los Angeles - Saison 6",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-6",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-6",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-20 18:05:00+00",
+      "endTime": "2026-04-20 19:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e912d905-ca47-4a54-bdb4-b16f051fee61",
+      "title": "The Rookie : le flic de Los Angeles - Saison 5",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-5",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-5",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-21 15:05:00+00",
+      "endTime": "2026-04-21 15:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2d971870-c173-4032-98fb-6bd131d3d169",
+      "title": "The Rookie : le flic de Los Angeles - Saison 5",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-5",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-5",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-21 15:50:00+00",
+      "endTime": "2026-04-21 16:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1457adfa-4dac-457f-909e-88930731d431",
+      "title": "The Rookie : le flic de Los Angeles - Saison 6",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-6",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-6",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-21 16:35:00+00",
+      "endTime": "2026-04-21 17:20:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:07:21.148Z",
+  "startYear": 2018,
+  "numberOfSeasons": 8,
+  "cast": [
+    {
+      "qid": "Q342549",
+      "slug": "nathan-fillion",
+      "name": "Nathan Fillion",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2067839",
+      "slug": "alyssa-diaz",
+      "name": "Alyssa Diaz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q374181",
+      "slug": "richard-t-jones",
+      "name": "Richard T. Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15616536",
+      "slug": "titus-odell-makin-jr",
+      "name": "Titus Odell Makin Jr.",
+      "role": "actor"
+    },
+    {
+      "qid": "Q453654",
+      "slug": "mercedes-masohn",
+      "name": "Mercedes Masohn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3305128",
+      "slug": "melissa-o-neil",
+      "name": "Melissa O'Neil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4690850",
+      "slug": "afton-williamson",
+      "name": "Afton Williamson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1371472",
+      "slug": "eric-winter",
+      "name": "Eric Winter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4227431",
+      "slug": "mekia-cox",
+      "name": "Mekia Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230530",
+      "slug": "sarah-shahi",
+      "name": "Sarah Shahi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313579",
+      "slug": "shawn-ashmore",
+      "name": "Shawn Ashmore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q469579",
+      "slug": "mircea-monroe",
+      "name": "Mircea Monroe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240199",
+      "slug": "sara-rue",
+      "name": "Sara Rue",
+      "role": "actor"
+    },
+    {
+      "qid": "Q720762",
+      "slug": "currie-graham",
+      "name": "Currie Graham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19478542",
+      "slug": "demetrius-grosse",
+      "name": "Demetrius Grosse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106466212",
+      "slug": "david-desantos",
+      "name": "David DeSantos",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q4492730",
+    "slug": "liz-friedlander",
+    "name": "Liz Friedlander",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 12:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

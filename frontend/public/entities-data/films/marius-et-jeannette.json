@@ -1,0 +1,110 @@
+{
+  "type": "film",
+  "slug": "marius-et-jeannette",
+  "title": "Marius et Jeannette",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Marius et Jeannette"
+  ],
+  "genres": [
+    "comédie",
+    "drame",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Jeannette vit seule avec ses deux enfants à l'Estaque, un quartier pauvre du nord de Marseille où chacun voisine chaleureusement. Pour s'être opposée à un petit chef, Jeannette perd son emploi de caissière dans un supermarché. Par hasard, elle fait la connaissance de Marius, gardien boiteux et agressif d'une cimenterie désaffectée. En fait, Marius est un brave type un peu solitaire, qui a feint l'infirmité pour obtenir son emploi. Peu à peu, malgré une certaine réticence de la part de Jeannette, notamment due à la présence de ses enfants, ils vont apprendre à se connaître et à s'aimer. Leur affection déclarée fait la plus grande joie de leurs proches...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1997,
+  "durationMinutes": 102,
+  "cast": [
+    {
+      "qid": "Q268690",
+      "slug": "ariane-ascaride",
+      "name": "Ariane Ascaride",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3124178",
+      "slug": "gerard-meylan",
+      "name": "Gérard Meylan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3367708",
+      "slug": "pascale-roberts",
+      "name": "Pascale Roberts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3158341",
+      "slug": "jacques-boudet",
+      "name": "Jacques Boudet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q615469",
+      "slug": "jean-pierre-darroussin",
+      "name": "Jean-Pierre Darroussin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3216071",
+      "slug": "laetitia-pesenti",
+      "name": "Laetitia Pesenti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2905986",
+      "slug": "blanche-guichou",
+      "name": "Blanche Guichou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q121788746",
+      "slug": "frederique-bonnal",
+      "name": "Frédérique Bonnal",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q718596",
+    "slug": "robert-guediguian",
+    "name": "Robert Guédiguian",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

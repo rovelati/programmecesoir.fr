@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "olivier-baroux",
+  "name": "Olivier Baroux",
+  "worksCount": 1,
+  "description": "comédien, réalisateur et humoriste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OLI%20WIKI.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-01-05",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3350789",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Olivier_Baroux",
+    "imdb": "nm0057842",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-tuche-3",
+      "title": "Les Tuche 3"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7d97f242-41da-4815-9b49-2edcf1ac5c70",
+      "title": "Les Tuche 3",
+      "programSlug": "les-tuche-3",
+      "programUrl": "/programme/ocs/les-tuche-3",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 11:30:00+00",
+      "endTime": "2026-04-20 13:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "303d5de5-cafd-45cd-8704-842fc64feaa9",
+      "title": "Les Tuche 3",
+      "programSlug": "les-tuche-3",
+      "programUrl": "/programme/ocs/les-tuche-3",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:01:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 11:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

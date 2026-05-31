@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "cols-de-cuir",
+  "title": "Cols de cuir",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Cols de cuir"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "La guerre du Viêt-nam fait rage. Embusqué au bord d'un fleuve, un commando de soldats américains s'empare d'un bateau ennemi, chargé d'armes, puis décime un second convoi avec la même sauvagerie. Le matériel saisi s'avérant d'origine américaine, le lieutenant, vieux briscard, en vient à penser qu'il a mis le doigt sur un sordide trafic. Pendant ce temps, sa base arrière est attaquée par l'ennemi. Revenu à temps, le commando ne fait pas de quartier. Un capitaine fraîchement débarqué de la mère patrie charge l'héroïque mais non moins sanguinaire lieutenant de remonter la filière de ce trafic...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

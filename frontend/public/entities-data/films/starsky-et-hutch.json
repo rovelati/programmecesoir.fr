@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "starsky-et-hutch",
+  "title": "Starsky et Hutch",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Starsky et Hutch"
+  ],
+  "genres": [
+    "buddy movie",
+    "comédie",
+    "film de copains policiers",
+    "film et téléfilm d'action"
+  ],
+  "description": "A Bay City, en Californie, l'inspecteur David Starsky est devenu, au fil des mois, la bête noire de ses partenaires. En effet, ce policier perfectionniste est impitoyable avec tous ses collègues. Aussi le capitaine Dobey décide-t-il de le faire travailler en équipe avec l'inspecteur Ken Hutchinson, qui semble avoir une vision très floue de la frontière qui sépare la loi du crime. Les deux hommes sont chargés d'enquêter sur un important trafiquant de drogue, sur le point de fabriquer un narcotique indétectable. Aiguillés par l'indicateur Huggy Bear, les deux hommes se trouvent bientôt confrontés à Reese Feldman, un homme d'affaires intouchable...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q47100",
+      "slug": "ben-stiller",
+      "name": "Ben Stiller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q161916",
+      "slug": "owen-wilson",
+      "name": "Owen Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107730",
+      "slug": "vince-vaughn",
+      "name": "Vince Vaughn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6096",
+      "slug": "snoop-dogg",
+      "name": "Snoop Dogg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1452569",
+      "slug": "fred-williamson",
+      "name": "Fred Williamson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q218503",
+      "slug": "will-ferrell",
+      "name": "Will Ferrell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230523",
+      "slug": "juliette-lewis",
+      "name": "Juliette Lewis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q284636",
+      "slug": "jason-bateman",
+      "name": "Jason Bateman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q297744",
+      "slug": "chris-penn",
+      "name": "Chris Penn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q527306",
+      "slug": "paul-michael-glaser",
+      "name": "Paul Michael Glaser",
+      "role": "actor"
+    },
+    {
+      "qid": "Q727752",
+      "slug": "david-soul",
+      "name": "David Soul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235272",
+      "slug": "amy-smart",
+      "name": "Amy Smart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q268311",
+      "slug": "brande-roderick",
+      "name": "Brande Roderick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q185122",
+      "slug": "carmen-electra",
+      "name": "Carmen Electra",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236537",
+      "slug": "molly-sims",
+      "name": "Molly Sims",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2260913",
+      "slug": "scott-l-schwartz",
+      "name": "Scott L. Schwartz",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q362824",
+    "slug": "todd-phillips",
+    "name": "Todd Phillips",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

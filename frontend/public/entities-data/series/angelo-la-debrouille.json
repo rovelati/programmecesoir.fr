@@ -1,0 +1,106 @@
+{
+  "type": "series",
+  "slug": "angelo-la-debrouille",
+  "title": "Angelo la débrouille",
+  "airingsCount": 36,
+  "sourceTitles": [
+    "Angelo la débrouille"
+  ],
+  "genres": [
+    "fantasy",
+    "drame",
+    "série télévisée comique",
+    "humour"
+  ],
+  "description": "Il existe une ribambelle de manuels, guides et encyclopédies à l'usage des enfants qui ont tant à apprendre ! Pourtant, à ce jour, un ouvrage manque encore à l'appel. Un guide tellement essentiel, tellement indispensable, qu'il semble tout juste incroyable que personne ne se soit encore penché sur le sujet... Voilà la mission essentielle et indi...",
+  "descriptionAi": "Cette série télévisée comique, débutée en 2009, mêle humour et une pointe de fantaisie dans le quotidien. Elle suit les aventures d'Angelo, un jeune garçon ingénieux et malicieux, à travers cinq saisons d'apprentissages décalés. L'ambiance est légère, teintée de tendresse et de situations cocasses tirées de la vie de tous les jours. Son intérêt réside dans son ton frais et son regard espiègle sur les défis de l'enfance, offrant des réponses humoristiques aux grandes et petites questions. Une comédie familiale attachante et pleine de ressources, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 32
+    },
+    {
+      "channelId": "teletoon-1",
+      "channelName": "Télétoon +1",
+      "channelSlug": "teletoon-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teletoon-1.svg",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2d9ca5e8-e0f5-40be-b6ef-ff0de55cb069",
+      "title": "Angelo la débrouille",
+      "programSlug": "angelo-la-debrouille",
+      "programUrl": "/programme/teletoon/angelo-la-debrouille",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 09:00:00+00",
+      "endTime": "2026-04-23 09:11:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "406dac68-0e33-4af0-acf4-ffc99862b758",
+      "title": "Angelo la débrouille",
+      "programSlug": "angelo-la-debrouille",
+      "programUrl": "/programme/teletoon/angelo-la-debrouille",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 09:11:00+00",
+      "endTime": "2026-04-23 09:22:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "a7988f1c-45f1-4c75-91c7-3805cc712b29",
+      "title": "Angelo la débrouille",
+      "programSlug": "angelo-la-debrouille",
+      "programUrl": "/programme/teletoon/angelo-la-debrouille",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 15:03:00+00",
+      "endTime": "2026-04-23 15:14:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "0b9536a8-5c5e-4f53-bae0-5ccbd65c6e4c",
+      "title": "Angelo la débrouille",
+      "programSlug": "angelo-la-debrouille",
+      "programUrl": "/programme/teletoon/angelo-la-debrouille",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 15:14:00+00",
+      "endTime": "2026-04-23 15:30:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:43:13.919Z",
+  "startYear": 2009,
+  "numberOfSeasons": 5,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-23 09:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

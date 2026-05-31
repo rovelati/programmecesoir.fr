@@ -1,0 +1,97 @@
+{
+  "type": "film",
+  "slug": "rescue-dawn",
+  "title": "Rescue Dawn",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Rescue Dawn"
+  ],
+  "genres": [
+    "film et téléfilm de guerre",
+    "docudrame",
+    "drame",
+    "film ou téléfilm biographique"
+  ],
+  "description": "En 1966, en plein conflit vietnamien, un Allemand, Dieter Dengler, engagé en tant que pilote de chasse dans l'armée américaine, participe à une mission secrète qui consiste à bombarder le Laos. Mais son avion s'écrase et il est fait prisonnier par des guérilleros. Transporté dans un camp, il y retrouve deux soldats américains. Ne pouvant supporter cette situation, il envisage de s'évader même si ses compagnons tentent de l'en dissuader. Il leur faudra deux longues années pour arriver à tromper la surveillance de leurs tortionnaires. Mais, perdus dans une jungle pleine de dangers, ils constatent vite que leur aventure ne fait que commencer...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 126,
+  "cast": [
+    {
+      "qid": "Q45772",
+      "slug": "christian-bale",
+      "name": "Christian Bale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q491775",
+      "slug": "steve-zahn",
+      "name": "Steve Zahn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312337",
+      "slug": "jeremy-davies",
+      "name": "Jeremy Davies",
+      "role": "actor"
+    },
+    {
+      "qid": "Q555559",
+      "slug": "francois-chau",
+      "name": "François Chau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q679987",
+      "slug": "marshall-bell",
+      "name": "Marshall Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q946117",
+      "slug": "toby-huss",
+      "name": "Toby Huss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5108221",
+      "slug": "chris-tallman",
+      "name": "Chris Tallman",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q44131",
+    "slug": "werner-herzog",
+    "name": "Werner Herzog",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

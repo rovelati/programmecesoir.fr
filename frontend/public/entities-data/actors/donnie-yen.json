@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "donnie-yen",
+  "name": "Donnie Yen",
+  "worksCount": 2,
+  "description": "acteur et chorégraphe d'action chinois",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Donnie%20Yen%2020250323.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-07-27",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q311723",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Donnie_Yen",
+    "imdb": "nm0947447",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "ip-man-3",
+      "title": "Ip Man 3"
+    },
+    {
+      "type": "film",
+      "slug": "ip-man-4",
+      "title": "Ip Man 4"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

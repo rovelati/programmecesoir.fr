@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "dancing-queen",
+  "title": "Dancing Queen",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Dancing Queen"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "La vie de Mina, 12 ans, est bouleversée le jour où Edwin, un jeune danseur à succès, s'installe dans sa ville. Folle amoureuse de lui, elle décide de participer à une audition pour intégrer sa nouvelle troupe de danse. Aveuglée par l'amour et grisée par l'excitation, elle oublie qu'elle ne sait pas danser.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1975,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

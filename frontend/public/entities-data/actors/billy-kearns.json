@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "billy-kearns",
+  "name": "Billy Kearns",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1923-02-17",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2903658",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Billy_Kearns",
+    "imdb": "nm0443985",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-maries-de-l-an-ii",
+      "title": "Les mariés de l'an II"
+    },
+    {
+      "type": "film",
+      "slug": "playtime",
+      "title": "Playtime"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b7d284ca-d658-4945-a2cf-96952dc6aca3",
+      "title": "Les mariés de l'an II",
+      "programSlug": "les-maries-de-l-an-ii",
+      "programUrl": "/programme/cine-classic/les-maries-de-l-an-ii",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 15:35:00+00",
+      "endTime": "2026-04-23 17:11:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 15:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

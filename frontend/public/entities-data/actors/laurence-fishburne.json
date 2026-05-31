@@ -1,0 +1,220 @@
+{
+  "type": "actor",
+  "slug": "laurence-fishburne",
+  "name": "Laurence Fishburne",
+  "worksCount": 9,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laurence%20Fishburne%202009%20-%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1961-07-30",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q193048",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Laurence_Fishburne",
+    "imdb": "nm0000401",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "matrix-reloaded",
+      "title": "Matrix Reloaded"
+    },
+    {
+      "type": "film",
+      "slug": "matrix-revolutions",
+      "title": "Matrix Revolutions"
+    },
+    {
+      "type": "film",
+      "slug": "un-justicier-dans-la-ville-2",
+      "title": "Un justicier dans la ville 2"
+    },
+    {
+      "type": "film",
+      "slug": "john-wick-2",
+      "title": "John Wick 2"
+    },
+    {
+      "type": "film",
+      "slug": "man-of-steel",
+      "title": "Man of Steel"
+    },
+    {
+      "type": "film",
+      "slug": "apocalypse-now-final-cut",
+      "title": "Apocalypse Now Final Cut"
+    },
+    {
+      "type": "film",
+      "slug": "juste-cause",
+      "title": "Juste cause"
+    },
+    {
+      "type": "film",
+      "slug": "matrix",
+      "title": "Matrix"
+    },
+    {
+      "type": "series",
+      "slug": "les-experts",
+      "title": "Les experts"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dce75bab-83d6-4482-9217-3ac8a30b0b9e",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 11:00:00+00",
+      "endTime": "2026-04-19 11:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c2b4b83b-18d5-4058-86f5-406788630242",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 11:45:00+00",
+      "endTime": "2026-04-19 12:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b1c6640e-5371-434d-a569-01e9fd4211a2",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/canal-grand-ecran/man-of-steel",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 12:51:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e63f4115-4e5f-409b-8635-860651827547",
+      "title": "Matrix",
+      "programSlug": "matrix",
+      "programUrl": "/programme/canal-grand-ecran/matrix",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 07:19:00+00",
+      "endTime": "2026-04-20 09:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "17fe7c6b-e9f9-4106-97c1-5fa4634053c7",
+      "title": "Matrix Reloaded",
+      "programSlug": "matrix-reloaded",
+      "programUrl": "/programme/canal-grand-ecran/matrix-reloaded",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 14:02:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "217915e0-4714-4f9a-aaee-bc4f478a2495",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-20 14:15:00+00",
+      "endTime": "2026-04-20 15:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "58ff2527-6de2-41e5-933b-9240d15074a4",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 14:59:00+00",
+      "endTime": "2026-04-20 17:18:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8d0dfbc0-b4e0-483c-88bd-81f82b18da21",
+      "title": "Les experts - Saison 1",
+      "programSlug": "les-experts-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-20 18:50:00+00",
+      "endTime": "2026-04-20 19:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0a41c71d-71dd-4901-a08c-6c10cb4c3707",
+      "title": "Les experts - Saison 1",
+      "programSlug": "les-experts-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-20 19:45:00+00",
+      "endTime": "2026-04-20 20:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0916a16a-7a1c-47e2-aef5-40258210ee84",
+      "title": "Les experts - Saison 1",
+      "programSlug": "les-experts-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-20 20:35:00+00",
+      "endTime": "2026-04-20 21:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8538f212-32ca-469f-bdad-6f5399d79fc5",
+      "title": "Les experts - Saison 1",
+      "programSlug": "les-experts-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-20 21:30:00+00",
+      "endTime": "2026-04-20 22:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d21009bb-bebc-4db5-99dd-0ff2f18253f3",
+      "title": "Les experts - Saison 1",
+      "programSlug": "les-experts-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-20 22:25:00+00",
+      "endTime": "2026-04-20 23:15:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 11:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

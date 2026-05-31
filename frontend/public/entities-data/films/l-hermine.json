@@ -1,0 +1,304 @@
+{
+  "type": "film",
+  "slug": "l-hermine",
+  "title": "L'hermine",
+  "airingsCount": 24,
+  "sourceTitles": [
+    "L'hermine"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "drame",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Bougon et droit dans ses bottes, Michel Racine, président de cour d'assises à Saint-Omer dans le nord de la France, ne fait pas de sentiment. Il a même un surnom : \"le président à deux chiffres\" car ses sentences dépassent les dix ans. Il a raté sa vie personnelle en épousant une femme plus riche que lui qui vient de le quitter. Lors d'un procès, des jurés doivent être choisis et il est très surpris et ému de découvrir que parmi eux figure Birgit Lorensen-Coteret, qui lui a brisé le coeur. Un chagrin d'amour qui l'a rendu amer. Alors que leur relation n'existait pas, il lui a en effet écrit une lettre dans laquelle il lui déclarait sa flamme...",
+  "descriptionAi": "Ce film est une comédie dramatique au ton de drame criminel, dépeignant l’univers implacable de la justice. L’ambiance est froide et minutieuse, capturant l’austérité d’un palais de justice du nord de la France. L’intérêt réside dans la confrontation entre la rigidité morale d’un juge et le retour inattendu d’un amour de jeunesse parmi les jurés, ébranlant ses certitudes et son amertume. Cette tension entre devoir et sentiment personnel offre une profondeur psychologique captivante. Une œuvre subtile sur les failles de l’âme humaine, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q20743653",
+    "wikipedia": "https://fr.wikipedia.org/wiki/L'Hermine_(film)",
+    "imdb": "tt4216908",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:26:34.688Z",
+  "year": 2015,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q620118",
+      "slug": "fabrice-luchini",
+      "name": "Fabrice Luchini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438580",
+      "slug": "sidse-babett-knudsen",
+      "name": "Sidse Babett Knudsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3316560",
+      "slug": "miss-ming",
+      "name": "Miss Ming",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3308651",
+      "slug": "michael-abiteboul",
+      "name": "Michaël Abiteboul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q448711",
+      "slug": "jennifer-decker",
+      "name": "Jennifer Decker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2997347",
+      "slug": "corinne-masiero",
+      "name": "Corinne Masiero",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28599978",
+      "slug": "sophie-marie-larrouy",
+      "name": "Sophie-Marie Larrouy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15974031",
+      "slug": "bruno-tuchszer",
+      "name": "Bruno Tuchszer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q444545",
+      "slug": "marie-riviere",
+      "name": "Marie Rivière",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2964178",
+      "slug": "chloe-berthier",
+      "name": "Chloé Berthier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16672166",
+      "slug": "raphael-ferret",
+      "name": "Raphaël Ferret",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2965692",
+    "slug": "christian-vincent",
+    "name": "Christian Vincent",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

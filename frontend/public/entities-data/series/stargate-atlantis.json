@@ -1,0 +1,137 @@
+{
+  "type": "series",
+  "slug": "stargate-atlantis",
+  "title": "Stargate Atlantis",
+  "airingsCount": 30,
+  "sourceTitles": [
+    "Stargate Atlantis"
+  ],
+  "genres": [
+    "série télévisée de science-fiction",
+    "série télévisée d'aventures"
+  ],
+  "description": "Un ancien rival de Rodney McKay l'invite à participer, sur Terre, à une présentation scientifique de la plus haute importance. Il s'y rend avec Jennifer Keller.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 30
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2004,
+  "numberOfSeasons": 5,
+  "cast": [
+    {
+      "qid": "Q313514",
+      "slug": "joe-flanigan",
+      "name": "Joe Flanigan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q353640",
+      "slug": "david-hewlett",
+      "name": "David Hewlett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125024",
+      "slug": "rachel-luttrell",
+      "name": "Rachel Luttrell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234114",
+      "slug": "torri-higginson",
+      "name": "Torri Higginson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q964607",
+      "slug": "rainbow-sun-francks",
+      "name": "Rainbow Sun Francks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315271",
+      "slug": "jason-momoa",
+      "name": "Jason Momoa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229207",
+      "slug": "amanda-tapping",
+      "name": "Amanda Tapping",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313789",
+      "slug": "robert-picardo",
+      "name": "Robert Picardo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234656",
+      "slug": "jewel-staite",
+      "name": "Jewel Staite",
+      "role": "actor"
+    },
+    {
+      "qid": "Q951652",
+      "slug": "kate-hewlett",
+      "name": "Kate Hewlett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q552103",
+      "slug": "connor-trinneer",
+      "name": "Connor Trinneer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q338264",
+      "slug": "david-nykl",
+      "name": "David Nykl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1368113",
+      "slug": "kavan-smith",
+      "name": "Kavan Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q503036",
+      "slug": "paul-mcgillion",
+      "name": "Paul McGillion",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q431432",
+    "slug": "robert-c-cooper",
+    "name": "Robert C. Cooper",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

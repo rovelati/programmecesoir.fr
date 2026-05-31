@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "dernier-vol-pour-l-enfer",
+  "title": "Dernier vol pour l'enfer",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Dernier vol pour l'enfer"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Mitch Taylor, agent de la brigade des stupéfiants, est envoyé en Extrême-Orient pour arrêter Vincent Dugan. Celui-ci est le contact entre les patrons de la mafia américaine et le général Lin, qui contrôle une large part de la production de drogue. Dugan est également recherché par Lin qui veut lui faire servir la cause de la mafia chinoise...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

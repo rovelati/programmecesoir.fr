@@ -1,0 +1,98 @@
+{
+  "type": "film",
+  "slug": "titane",
+  "title": "Titane",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Titane"
+  ],
+  "genres": [
+    "drame",
+    "body horror film",
+    "film psychologique"
+  ],
+  "description": "Alors que son père conduit sur une autoroute, Alexia, à l'arrière du véhicule, s'agite et, le conducteur, rendu inattentif un instant, a un accident. Alors qu'il s'en sort indemne, Alexia, qui a été violemment projetée sur la vitre arrière, est opérée et ressorte quelque temps après de l'hôpital, une plaque de titane désormais intégrée à sa boite crânienne. Des années passent et Alexia, désormais une jeune femme obsédée par les voitures, est également saisie de violentes pulsions, qui l'amènent à tuer les personnes qui s'approchent un peu trop d'elle.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agathe%20Rousselle%2C%20Julia%20Ducournau%2C%20Vincent%20Lindon%20at%20Cannes%202021%20closing%20ceremony.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q107500640",
+      "slug": "agathe-rousselle",
+      "name": "Agathe Rousselle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q557272",
+      "slug": "vincent-lindon",
+      "name": "Vincent Lindon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q59492090",
+      "slug": "nathalie-boyer",
+      "name": "Nathalie Boyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q63256581",
+      "slug": "myriem-akheddiou",
+      "name": "Myriem Akheddiou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q25975543",
+      "slug": "garance-marillier",
+      "name": "Garance Marillier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3035167",
+      "slug": "dominique-frot",
+      "name": "Dominique Frot",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q24061147",
+    "slug": "julia-ducournau",
+    "name": "Julia Ducournau",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

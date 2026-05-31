@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "tommy-steele",
+  "name": "Tommy Steele",
+  "worksCount": 1,
+  "description": "acteur de cinéma et chanteur de rock'n'roll britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tommy%20Steele.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1936-12-17",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q1284241",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tommy_Steele",
+    "imdb": "nm0824687",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-vallee-du-bonheur",
+      "title": "La vallée du bonheur"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

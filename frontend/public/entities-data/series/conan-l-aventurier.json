@@ -1,0 +1,51 @@
+{
+  "type": "series",
+  "slug": "conan-l-aventurier",
+  "title": "Conan l'aventurier",
+  "airingsCount": 24,
+  "sourceTitles": [
+    "Conan l'aventurier"
+  ],
+  "genres": [
+    "série télévisée de fantasy"
+  ],
+  "description": "Conan et Zula arrivent à Lysandros à l'occasion du mariage du Roi Urien et de la reine Viridiana. Par hasard, ils découvrent que le chef des gardes est un homme-serpent, mais également la reine Viridiana qui les traite de magiciens et les fait jeter au cachot. Grâce à Nidol, ils s'évadent en compagnie d'un petit voleur, Oki. Ils sont aidés par Dathan, un adolescent qui avait lancé une brique contre la reine et qui leur apprend qu'elle a beaucoup d'opposants. Dathan les mène jusqu'à Enosh, le chef rebelle, ancien ministre renvoyé par Viridiana...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mangas",
+      "channelName": "Mangas",
+      "channelSlug": "mangas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mangas.png",
+      "airingsCount": 24
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1992,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": {
+    "qid": "Q207640",
+    "slug": "robert-e-howard",
+    "name": "Robert E. Howard",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

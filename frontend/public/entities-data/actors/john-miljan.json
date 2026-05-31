@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "john-miljan",
+  "name": "John Miljan",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Miljan%20-%20publicity%20still%20(1940).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1892-11-09",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q1263798",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Miljan",
+    "imdb": "nm0587534",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "retour-aux-philippines",
+      "title": "Retour aux Philippines"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

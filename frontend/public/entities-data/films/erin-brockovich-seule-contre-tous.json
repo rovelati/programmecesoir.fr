@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "erin-brockovich-seule-contre-tous",
+  "title": "Erin Brockovich, seule contre tous",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Erin Brockovich, seule contre tous"
+  ],
+  "genres": [
+    "film ou téléfilm biographique",
+    "drame"
+  ],
+  "description": "Mère de trois jeunes enfants, deux fois divorcée, sans travail ni diplôme, Erin Brockovich ne peut compter que sur son énergie et son charme pour trouver le travail qui, enfin, renflouera son compte en banque désespérément vide. Pour l'heure, la malchance s'acharne sur elle. Blessée par un chauffard, Erin vient d'apprendre qu'elle ne touchera pas un sou de dédommagement. Cependant, pris de compassion, son avocat consent à l'engager dans son cabinet. Il lui confie le classement des archives. Alors qu'elle met de l'ordre dans les papiers, Erin tombe sur le dossier de la famille Jensen, dont une puissante compagnie d'électricité, la PG&E, convoite le terrain. Erin comprend rapidement qu'elle vient de mettre la main sur une information qui pourrait bien lui brûler les doigts.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2000,
+  "durationMinutes": 130,
+  "cast": [
+    {
+      "qid": "Q40523",
+      "slug": "julia-roberts",
+      "name": "Julia Roberts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q219546",
+      "slug": "albert-finney",
+      "name": "Albert Finney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192643",
+      "slug": "aaron-eckhart",
+      "name": "Aaron Eckhart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229577",
+      "slug": "marg-helgenberger",
+      "name": "Marg Helgenberger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q354873",
+      "slug": "peter-coyote",
+      "name": "Peter Coyote",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239046",
+      "slug": "cherry-jones",
+      "name": "Cherry Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275658",
+      "slug": "wade-williams",
+      "name": "Wade Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q589849",
+      "slug": "scotty-leavenworth",
+      "name": "Scotty Leavenworth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232304",
+      "slug": "conchata-ferrell",
+      "name": "Conchata Ferrell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232019",
+      "slug": "erin-brockovich",
+      "name": "Erin Brockovich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q361158",
+      "slug": "thomas-joseph-thyne",
+      "name": "Thomas Joseph Thyne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1366460",
+      "slug": "tracey-walter",
+      "name": "Tracey Walter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2324150",
+      "slug": "william-lucking",
+      "name": "William Lucking",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1282417",
+      "slug": "ed-masry",
+      "name": "Ed Masry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14918002",
+      "slug": "michael-j-harney",
+      "name": "Michael J. Harney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22680869",
+      "slug": "joe-chrest",
+      "name": "Joe Chrest",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q103917",
+    "slug": "steven-soderbergh",
+    "name": "Steven Soderbergh",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

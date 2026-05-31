@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "zmane-kenza",
+  "title": "Zmane Kenza",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Zmane Kenza"
+  ],
+  "genres": [
+    "Telefilms",
+    "Téléfilm"
+  ],
+  "description": "La belle époque, celle où enfants et petits-fils rendaient régulièrement visite et venaient s'enquérir de la santé des parents, passer de longues journées ensemble autour d'un thé et se raconter de petites histoires...serait-elle révolue? Pour Kenza, une veuve de soixante ans, cela ne fait aucun doute...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bc76ad71-117c-49e5-bfcb-a913bbc42f8e",
+      "title": "Zmane Kenza",
+      "programSlug": "zmane-kenza",
+      "programUrl": "/programme/2m-maroc/zmane-kenza",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-23 09:30:00+00",
+      "endTime": "2026-04-23 11:05:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-23 09:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

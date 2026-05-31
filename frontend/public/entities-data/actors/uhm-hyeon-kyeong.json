@@ -1,0 +1,186 @@
+{
+  "type": "actor",
+  "slug": "uhm-hyeon-kyeong",
+  "name": "Uhm Hyeon-kyeong",
+  "worksCount": 2,
+  "description": "actrice sud-coréenne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/190102%20%EC%98%81%ED%99%94%20'%EA%B5%AC%EC%8A%A4%EB%B2%A0%EC%9D%B4%EB%B9%84'%20VIP%EC%8B%9C%EC%82%AC%ED%9A%8C%20%EC%97%84%ED%98%84%EA%B2%BD.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1986-11-04",
+  "nationality": "Corée du Sud",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q12606652",
+    "wikipedia": "https://en.wikipedia.org/wiki/Uhm_Hyun-kyung",
+    "imdb": "nm3875920",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "defendant",
+      "title": "Defendant"
+    },
+    {
+      "type": "series",
+      "slug": "good-doctor",
+      "title": "Good Doctor"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fbbf694e-1727-44de-a1ba-8fdbfa98ce2e",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-20 07:02:00+00",
+      "endTime": "2026-04-20 07:49:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "37ddea0c-ad5c-41cf-8e30-7de58ac54bc9",
+      "title": "Defendant",
+      "programSlug": "defendant",
+      "programUrl": "/programme/gongfr/defendant",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-20 12:40:00+00",
+      "endTime": "2026-04-20 13:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "cd681e75-c7ea-4fe5-97fc-d6a4aa7f3d38",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-20 16:38:00+00",
+      "endTime": "2026-04-20 17:26:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "067ad2ef-75dd-4877-a44d-c9b683e1dc15",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 07:00:00+00",
+      "endTime": "2026-04-21 07:46:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "311ea36f-5573-466f-86b9-64e9fe470b08",
+      "title": "Defendant",
+      "programSlug": "defendant",
+      "programUrl": "/programme/gongfr/defendant",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-21 12:40:00+00",
+      "endTime": "2026-04-21 13:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d7d4972b-108b-4e46-9925-7a05cc4b4e80",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 16:28:00+00",
+      "endTime": "2026-04-21 17:14:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7aad87bd-803e-4aa5-a827-5c669c96d680",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-22 07:02:00+00",
+      "endTime": "2026-04-22 07:51:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "67930812-f580-4e72-8fde-93765e0d01b7",
+      "title": "Defendant",
+      "programSlug": "defendant",
+      "programUrl": "/programme/gongfr/defendant",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-22 12:40:00+00",
+      "endTime": "2026-04-22 13:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "86ad79b2-103e-4a07-9b31-82709a4cc242",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-23 06:47:00+00",
+      "endTime": "2026-04-23 07:34:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "2e234d25-3aec-46ba-b7b3-edeb9ce026f9",
+      "title": "Defendant",
+      "programSlug": "defendant",
+      "programUrl": "/programme/gongfr/defendant",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-23 12:40:00+00",
+      "endTime": "2026-04-23 13:55:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "8f9ddf33-d202-44fc-aa86-503a549d58e6",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-24 07:00:00+00",
+      "endTime": "2026-04-24 07:49:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "3fea1ecf-457b-49a8-b341-923e5abbb74a",
+      "title": "Defendant",
+      "programSlug": "defendant",
+      "programUrl": "/programme/gongfr/defendant",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-24 12:40:00+00",
+      "endTime": "2026-04-24 13:55:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 07:02:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

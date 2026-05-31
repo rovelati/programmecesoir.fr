@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "kimbo-slice",
+  "name": "Kimbo Slice",
+  "worksCount": 1,
+  "description": "boxeur et pratiquant d'arts martiaux mixtes bahamien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimbo%20Slice%201.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1974-02-08",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q459971",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kimbo_Slice",
+    "imdb": "nm2837271",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-roi-scorpion-3-l-oeil-des-dieux",
+      "title": "Le roi Scorpion 3 : l'oeil des Dieux"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

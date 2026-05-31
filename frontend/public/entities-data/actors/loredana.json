@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "loredana",
+  "name": "Loredana",
+  "worksCount": 1,
+  "description": "actrice italienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Italian%20actress%20Loredana.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1924-03-19",
+  "nationality": "Italie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3836799",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Loredana_(actrice)",
+    "imdb": "nm0520553",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "rocambole",
+      "title": "Rocambole"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

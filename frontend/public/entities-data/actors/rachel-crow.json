@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "rachel-crow",
+  "name": "Rachel crow",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Crow%20(47260116441)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1998-01-23",
+  "nationality": "États-Unis",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q3244483",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rachel_Crow",
+    "imdb": "nm3907105",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bumblebee",
+      "title": "Bumblebee"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

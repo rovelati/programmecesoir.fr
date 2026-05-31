@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "nino",
+  "title": "Nino",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Nino"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Jeune homme discret et sans histoires, Nino souffre depuis quelques semaines d'une fatigue chronique et d'un mal de gorge qui persiste en dépit des médicaments. Des examens complémentaires viennent finalement lui apporter la terrible explication à tous ses maux : il souffre d'un cancer. En raison de son âge, il se retrouve prioritaire sur la liste des personnes à soigner. Sa chimiothérapie débutera trois jours plus tard. D'ici là, les médecins lui ont confié deux missions. Deux impératifs qui vont mener le jeune homme à travers Paris, le pousser à refaire corps avec les autres et avec lui-même...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

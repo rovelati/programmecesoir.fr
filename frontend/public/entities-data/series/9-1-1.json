@@ -1,0 +1,344 @@
+{
+  "type": "series",
+  "slug": "9-1-1",
+  "title": "9-1-1",
+  "airingsCount": 120,
+  "sourceTitles": [
+    "9-1-1",
+    "9-1-1 - Saison 2",
+    "9-1-1 - Saison 3",
+    "9-1-1 - Saison 4"
+  ],
+  "genres": [
+    "série télévisée dramatique"
+  ],
+  "description": "La brigade est appelée en renfort pour aider un homme en mauvaise posture. A sa grande surprise, Athena se voit proposer une promotion qu'elle n'espérait plus. Est-elle prête pour de nouveaux changements dans sa vie ? Eddie continue de jongler entre son travail et Christopher, son fils handicapé, ne laissant aucune place pour autre chose dans sa vie. Bobby et son équipe viennent en aide à une femme qui a la tête coincée dans un pot d'échappement, tandis que Eddie doit garder son fils à la caserne pendant tout un après-midi. Par ailleurs, Chimney est bouleversé après une intervention difficile dans un centre commercial...",
+  "descriptionAi": "Cette série dramatique plonge au cœur des interventions des secours d'urgence de Los Angeles. Mêlant suspense et émotion, elle capte le téléspectateur par ses intrigues palpitantes et le développement profond de ses personnages, dont les vies personnelles se mêlent aux drames quotidiens. Entre situations extrêmes et dilemmes humains, l'ambiance est à la fois intense et touchante, offrant un regard captivant sur l'héroïsme ordinaire. Une immersion haletante dans l'univers des premiers répondants, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teva.png",
+      "airingsCount": 120
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d109dc69-4de2-4cb8-ae5d-6f472313eeeb",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 10:40:00+00",
+      "endTime": "2026-04-20 11:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8646dd14-03a1-4f10-86d3-1a1655bf9bf2",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 11:25:00+00",
+      "endTime": "2026-04-20 12:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "49bba40b-ee25-4a51-a851-ea23e318842b",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 12:15:00+00",
+      "endTime": "2026-04-20 13:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "cebe2ed8-be30-46e0-8711-3072b8a1e8d2",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 13:00:00+00",
+      "endTime": "2026-04-20 13:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "cf1a30fa-b159-49f0-9dd1-69b44b2070ea",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 13:55:00+00",
+      "endTime": "2026-04-20 14:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e8accf85-5a68-42c2-90c5-b7a5e3a09e6f",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 14:45:00+00",
+      "endTime": "2026-04-20 15:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d630eb72-f2ac-458e-bb4e-ec7d4e0d1b67",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 15:30:00+00",
+      "endTime": "2026-04-20 16:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "94a9dd76-8c7a-4bf4-9af2-2970682d798e",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 16:25:00+00",
+      "endTime": "2026-04-20 17:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a8208d97-680b-4167-835e-cd6d16acc3f2",
+      "title": "9-1-1 - Saison 6",
+      "programSlug": "9-1-1-saison-6",
+      "programUrl": "/programme/teva/9-1-1-saison-6",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 17:15:00+00",
+      "endTime": "2026-04-20 18:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "62a66ba6-2bb8-4e11-8da4-57d9db877315",
+      "title": "9-1-1 - Saison 6",
+      "programSlug": "9-1-1-saison-6",
+      "programUrl": "/programme/teva/9-1-1-saison-6",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 18:00:00+00",
+      "endTime": "2026-04-20 19:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ea87377b-bff4-4b7f-a9e8-debc055a438d",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 10:40:00+00",
+      "endTime": "2026-04-21 11:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c6b49bba-ac28-4c42-9a36-d387fbc231d1",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 11:25:00+00",
+      "endTime": "2026-04-21 12:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "73ffbe31-ee5e-41ff-8bc9-9052898579c4",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 12:15:00+00",
+      "endTime": "2026-04-21 13:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d669877f-2ecc-42f5-8ecf-a309364be90e",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 13:00:00+00",
+      "endTime": "2026-04-21 13:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9cc265e1-8e22-48d3-ab61-a0709daed991",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 13:55:00+00",
+      "endTime": "2026-04-21 14:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "cde7ed04-7319-4e26-8e07-e06d091af430",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 14:45:00+00",
+      "endTime": "2026-04-21 15:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c5e2b77d-52d3-4ea5-9209-0086aae9f91d",
+      "title": "9-1-1 - Saison 6",
+      "programSlug": "9-1-1-saison-6",
+      "programUrl": "/programme/teva/9-1-1-saison-6",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 15:30:00+00",
+      "endTime": "2026-04-21 16:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "87a60f5a-761d-40a2-8ca6-0129bf2fb3ca",
+      "title": "9-1-1 - Saison 6",
+      "programSlug": "9-1-1-saison-6",
+      "programUrl": "/programme/teva/9-1-1-saison-6",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 16:25:00+00",
+      "endTime": "2026-04-21 17:15:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:07:05.087Z",
+  "startYear": 2018,
+  "numberOfSeasons": 9,
+  "cast": [
+    {
+      "qid": "Q232120",
+      "slug": "angela-bassett",
+      "name": "Angela Bassett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q433513",
+      "slug": "peter-krause",
+      "name": "Peter Krause",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3607216",
+      "slug": "aisha-hinds",
+      "name": "Aisha Hinds",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314508",
+      "slug": "rockmond-dunbar",
+      "name": "Rockmond Dunbar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235519",
+      "slug": "connie-britton",
+      "name": "Connie Britton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7087854",
+      "slug": "oliver-stark",
+      "name": "Oliver Stark",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3558573",
+      "slug": "kenneth-choi",
+      "name": "Kenneth Choi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q175104",
+      "slug": "jennifer-love-hewitt",
+      "name": "Jennifer Love Hewitt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q555738",
+      "slug": "ryan-guzman",
+      "name": "Ryan Guzman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q51886183",
+      "slug": "marcanthonee-reis",
+      "name": "Marcanthonee Reis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q118645018",
+      "slug": "gavin-mchugh",
+      "name": "Gavin McHugh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18764162",
+      "slug": "john-kim",
+      "name": "John Kim",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q316844",
+    "slug": "ryan-murphy",
+    "name": "Ryan Murphy",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 10:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

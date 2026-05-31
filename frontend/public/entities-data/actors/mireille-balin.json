@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "mireille-balin",
+  "name": "Mireille Balin",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mireille%20Balin%20e%20Fosco%20Giachetti%20in%20Alcazar%20fotodiscena.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1909-07-20",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q301484",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mireille_Balin",
+    "imdb": "nm0050249",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "gueule-d-amour",
+      "title": "Gueule d'amour"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

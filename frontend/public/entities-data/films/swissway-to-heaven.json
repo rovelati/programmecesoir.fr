@@ -1,0 +1,108 @@
+{
+  "type": "film",
+  "slug": "swissway-to-heaven",
+  "title": "Swissway to Heaven",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Swissway to Heaven"
+  ],
+  "genres": [
+    "Film",
+    "Cinéma"
+  ],
+  "description": "Le Jurassien Cédric Lachat et ses partenaires d'escalade ont filmé durant deux ans leurs efforts acharnés pour enchaîner les grandes voies les plus difficiles et les plus légendaires de Suisse, dans cinq massifs différents : l'Eiger, la vallée de Lauterbrunnen, les Gastlosen, le Wendenstock et le Rätikon.",
+  "descriptionAi": "Ce film d'aventure et de montagne plonge le téléspectateur au cœur de l'escalade extrême, dans une ambiance à la fois intense et contemplative. Il suit pendant deux ans le grimpeur jurassien Cédric Lachat et ses compagnons de cordée dans leur quête épique : enchaîner les grandes voies les plus légendaires et techniques de Suisse, à travers cinq massifs alpins majestueux. L'intérêt réside dans l'authenticité de l'effort, la beauté brute des paysages et l'humilité face à la paroi, offrant bien plus qu'une simple performance sportive. Une immersion vertigineuse dans le dépassement de soi, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "trek",
+      "channelName": "TREK",
+      "channelSlug": "trek",
+      "channelNumber": null,
+      "logoUrl": "/loghi/trek.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fd49763c-0fa5-4e4d-86be-302474113617",
+      "title": "Swissway to Heaven",
+      "programSlug": "swissway-to-heaven",
+      "programUrl": "/programme/tele-grenoble/swissway-to-heaven",
+      "channelId": "tele-grenoble",
+      "channelName": "Télé Grenoble",
+      "channelSlug": "tele-grenoble",
+      "startTime": "2026-04-19 19:00:00+00",
+      "endTime": "2026-04-19 19:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cfe7bfab-f0b1-4470-9353-f77353a1989c",
+      "title": "Swissway to Heaven",
+      "programSlug": "swissway-to-heaven",
+      "programUrl": "/programme/trek/swissway-to-heaven",
+      "channelId": "trek",
+      "channelName": "TREK",
+      "channelSlug": "trek",
+      "startTime": "2026-04-20 03:00:00+00",
+      "endTime": "2026-04-20 04:16:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d9a6d223-aa1f-44c0-8701-aca41314776f",
+      "title": "Swissway to Heaven",
+      "programSlug": "swissway-to-heaven",
+      "programUrl": "/programme/trek/swissway-to-heaven",
+      "channelId": "trek",
+      "channelName": "TREK",
+      "channelSlug": "trek",
+      "startTime": "2026-04-21 04:18:00+00",
+      "endTime": "2026-04-21 05:13:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "0045f2a1-3c02-4690-902f-fbd91f2c34d9",
+      "title": "Swissway to Heaven",
+      "programSlug": "swissway-to-heaven",
+      "programUrl": "/programme/trek/swissway-to-heaven",
+      "channelId": "trek",
+      "channelName": "TREK",
+      "channelSlug": "trek",
+      "startTime": "2026-04-21 22:14:00+00",
+      "endTime": "2026-04-21 23:10:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ebd3349a-dd93-4db5-b96f-760d58191342",
+      "title": "Swissway to Heaven",
+      "programSlug": "swissway-to-heaven",
+      "programUrl": "/programme/trek/swissway-to-heaven",
+      "channelId": "trek",
+      "channelName": "TREK",
+      "channelSlug": "trek",
+      "startTime": "2026-04-24 23:44:00+00",
+      "endTime": "2026-04-25 00:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:48:42.007Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

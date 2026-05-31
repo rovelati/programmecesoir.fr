@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "harry-woods",
+  "name": "Harry Woods",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Woods%20in%20The%20Ranger%20and%20the%20Lady.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1889-05-05",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q5673513",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Harry_Woods",
+    "imdb": "nm0940617",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "taikoun",
+      "title": "Taïkoun"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d9673e75-145f-41ee-997b-508b481199c1",
+      "title": "Taïkoun",
+      "programSlug": "taikoun",
+      "programUrl": "/programme/tcm-cinema/taikoun",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-22 16:45:00+00",
+      "endTime": "2026-04-22 18:50:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 16:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

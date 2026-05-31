@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "la-ligue-des-justiciers-dieux-et-monstres",
+  "title": "La ligue des justiciers : dieux et monstres",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "La ligue des justiciers : dieux et monstres"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'aventure",
+    "drame",
+    "film de super-héros"
+  ],
+  "description": "Dans un univers alternatif où Superman est le fils du général Zod, où Batman se nomme Kirk Langston dans le civil et où Wonder Woman est une New God, la célèbre Trinité déploie des méthodes intimidantes et violentes au nom de la justice. Accusés d'un attentat, ils doivent se battre contre le gouvernement...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 76,
+  "cast": [],
+  "director": {
+    "qid": "Q7407800",
+    "slug": "sam-liu",
+    "name": "Sam Liu",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

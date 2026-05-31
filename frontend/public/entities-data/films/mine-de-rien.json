@@ -1,0 +1,76 @@
+{
+  "type": "film",
+  "slug": "mine-de-rien",
+  "title": "Mine de rien",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Mine de rien"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Depuis que leur mine a fermé, Arnault, Di Lello et leurs collègues n'ont pas retrouvé de travail. Les fins de mois sont difficiles et ils sont bientôt en fin de droit. Arnault et ses amis ont l'idée de transformer une ancienne mine en parc d'attraction. Ils proposent leur projet lors d'un conseil municipal...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q2863100",
+      "slug": "arnaud-ducret",
+      "name": "Arnaud Ducret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380605",
+      "slug": "philippe-rebbot",
+      "name": "Philippe Rebbot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q462376",
+      "slug": "melanie-bernier",
+      "name": "Mélanie Bernier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3144876",
+      "slug": "helene-vincent",
+      "name": "Hélène Vincent",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3298586",
+    "slug": "mathias-mlekuz",
+    "name": "Mathias Mlekuz",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

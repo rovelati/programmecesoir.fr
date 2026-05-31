@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "barbara-bolotner",
+  "name": "Barbara Bolotner",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-01-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q15069954",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Barbara_Bolotner",
+    "imdb": "nm4988695",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "doux-jesus",
+      "title": "Doux Jésus"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fd7fd8f4-9272-4270-b27a-6230362224c8",
+      "title": "Doux Jésus",
+      "programSlug": "doux-jesus",
+      "programUrl": "/programme/canal/doux-jesus",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-24 07:43:00+00",
+      "endTime": "2026-04-24 09:06:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "9689f70d-c808-4840-b92b-f143b8af36e3",
+      "title": "Doux Jésus",
+      "programSlug": "doux-jesus",
+      "programUrl": "/programme/canal-box-office/doux-jesus",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 20:39:00+00",
+      "endTime": "2026-04-25 22:03:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 07:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

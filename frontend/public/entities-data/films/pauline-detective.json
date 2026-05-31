@@ -1,0 +1,130 @@
+{
+  "type": "film",
+  "slug": "pauline-detective",
+  "title": "Pauline détective",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Pauline détective"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Pauline, la quarantaine, travaille comme maquettiste dans une revue spécialisée dans les enquêtes criminelles les plus sordides. Epanouie dans son activité professionnelle comme dans sa vie privée, Pauline se sent en sécurité. Aussi, lorsque son compagnon la quitte à la veille des grandes vacances, elle s'effondre. Pour lui remonter le moral, sa soeur et son beau-frère l'emmènent dans un palace au soleil. Mais voilà, Pauline s'ennuie, et plutôt que de profiter du luxe ambiant, elle se convainc qu'un crime a été commis au sein de l'établissement. L'affaire tombe bien pour elle : improvisée apprentie détective, elle se lance aussitôt dans une enquête frénétique. Un séduisant maître-nageur la seconde dans ses investigations...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q2850979",
+      "slug": "anne-benoit",
+      "name": "Anne Benoît",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1758568",
+      "slug": "antoine-chappey",
+      "name": "Antoine Chappey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q759001",
+      "slug": "audrey-lamy",
+      "name": "Audrey Lamy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q959138",
+      "slug": "claudio-santamaria",
+      "name": "Claudio Santamaria",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3311660",
+      "slug": "michele-moretti",
+      "name": "Michèle Moretti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3944358",
+      "slug": "sabrina-impacciatore",
+      "name": "Sabrina Impacciatore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262822",
+      "slug": "sandrine-kiberlain",
+      "name": "Sandrine Kiberlain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3569553",
+      "slug": "wladimir-yordanoff",
+      "name": "Wladimir Yordanoff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3054627",
+      "slug": "enrico-di-giovanni",
+      "name": "Enrico Di Giovanni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3845634",
+      "slug": "marcello-mazzarella",
+      "name": "Marcello Mazzarella",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3765340",
+      "slug": "giorgio-caputo",
+      "name": "Giorgio Caputo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830037",
+      "slug": "alain-libolt",
+      "name": "Alain Libolt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3765217",
+      "slug": "giorgia-sinicorni",
+      "name": "Giorgia Sinicorni",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3246668",
+    "slug": "marc-fitoussi",
+    "name": "Marc Fitoussi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

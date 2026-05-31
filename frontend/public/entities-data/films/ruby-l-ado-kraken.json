@@ -1,0 +1,56 @@
+{
+  "type": "film",
+  "slug": "ruby-l-ado-kraken",
+  "title": "Ruby, l'ado Kraken",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Ruby, l'ado Kraken"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm familial",
+    "film et téléfilm d'action",
+    "film ou téléfilm d'aventure",
+    "film et téléfilm fantastique",
+    "film ou téléfilm pour enfants"
+  ],
+  "description": "Ruby Gillman, âgée de 16 ans, tente de s'intégrer au sein du lycée d'Oceanside, mais sans grand succès. Son destin est bouleversé lorsqu'elle découvre qu'elle descend des reines guerrières Kraken qui luttent depuis des siècles afin de protéger les océans des sirènes, avides de pouvoir et prétentieuses...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruby%20Gillman%2C%20Teenage%20Kraken.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2023,
+  "durationMinutes": 90,
+  "cast": [],
+  "director": {
+    "qid": "Q6415415",
+    "slug": "kirk-demicco",
+    "name": "Kirk DeMicco",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

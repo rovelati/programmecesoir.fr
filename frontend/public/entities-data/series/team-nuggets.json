@@ -1,0 +1,83 @@
+{
+  "type": "series",
+  "slug": "team-nuggets",
+  "title": "Team Nuggets",
+  "airingsCount": 13,
+  "sourceTitles": [
+    "Team Nuggets"
+  ],
+  "genres": [
+    "Séries d'animation"
+  ],
+  "description": "Zazie est une petite poussine de 8 ans. Elle aime beaucoup l'école ainsi que ses amis. Elle aimerait que tout le monde soit heureux, mais malheureusement, tout ne se passe pas toujours comme prévu. En effet, elle est très régulièrement confrontée à des difficultés en compagnie d'un ou plusieurs de ses camarades d'école.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 13
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "116bb92a-da95-4f97-84f7-2e71db5166ad",
+      "title": "Team Nuggets",
+      "programSlug": "team-nuggets",
+      "programUrl": "/programme/la-trois/team-nuggets",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-19 17:47:00+00",
+      "endTime": "2026-04-19 17:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "39ddcc80-b108-46b0-aeab-a2f30427a52b",
+      "title": "Team Nuggets",
+      "programSlug": "team-nuggets",
+      "programUrl": "/programme/la-trois/team-nuggets",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-25 17:42:00+00",
+      "endTime": "2026-04-25 17:49:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "b0e51361-d295-4d23-bdc6-b4a3c4a21c13",
+      "title": "Team Nuggets",
+      "programSlug": "team-nuggets",
+      "programUrl": "/programme/la-trois/team-nuggets",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-25 17:49:00+00",
+      "endTime": "2026-04-25 17:56:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 17:47:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

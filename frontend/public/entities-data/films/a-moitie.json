@@ -1,0 +1,71 @@
+{
+  "type": "film",
+  "slug": "a-moitie",
+  "title": "A moitié",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "A moitié"
+  ],
+  "genres": [
+    "Téléfilm"
+  ],
+  "description": "Osaze et Kemi, qui ne s'entendent plus et ont pris la décision de se séparer, doivent trouver un moyen de partager la maison qui était autrefois leur foyer.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5df707c7-d613-48e6-b439-3d11bcb6de00",
+      "title": "A moitié",
+      "programSlug": "a-moitie",
+      "programUrl": "/programme/nollywood-tv/a-moitie",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-20 14:03:00+00",
+      "endTime": "2026-04-20 15:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "74292d1b-054e-4b93-a949-13062ddb2d0e",
+      "title": "A moitié",
+      "programSlug": "a-moitie",
+      "programUrl": "/programme/nollywood-tv/a-moitie",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-24 01:02:00+00",
+      "endTime": "2026-04-24 03:00:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 0.85,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 14:03:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

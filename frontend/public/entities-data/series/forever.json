@@ -1,0 +1,80 @@
+{
+  "type": "series",
+  "slug": "forever",
+  "title": "Forever",
+  "airingsCount": 18,
+  "sourceTitles": [
+    "Forever",
+    "Forever - Saison 1"
+  ],
+  "genres": [
+    "série télévisée de fantasy",
+    "série télévisée dramatique",
+    "série télévisée de science-fiction"
+  ],
+  "description": "Un jeune homme a été percuté par un véhicule et laissé sans vie sur la chaussée, près de chez Jo. Hanson pense à un banal accident de la circulation avec délit de fuite. Mais Henry dément : les blessures de la victime prouvent qu'elle a été renversée une première fois, puis que le véhicule a roulé sur le corps en marche arrière pour achever le travail. Il s'agit donc bien d'un homicide. Les empreintes permettent d'identifier Aaron Brown, remis en liberté conditionnelle après trois années de détention pour un cambriolage. Le défunt mari de Jo était l'avocat général au procès du jeune homme. Un cheveu de Brown est alors retrouvé dans une bijouterie, cambriolée le soir du meurtre...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab1.png",
+      "airingsCount": 18
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2014,
+  "numberOfSeasons": 1,
+  "cast": [
+    {
+      "qid": "Q295974",
+      "slug": "ioan-gruffudd",
+      "name": "Ioan Gruffudd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q265285",
+      "slug": "alana-de-la-garza",
+      "name": "Alana de la Garza",
+      "role": "actor"
+    },
+    {
+      "qid": "Q371786",
+      "slug": "joel-moore",
+      "name": "Joel Moore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460786",
+      "slug": "lorraine-toussaint",
+      "name": "Lorraine Toussaint",
+      "role": "actor"
+    },
+    {
+      "qid": "Q365023",
+      "slug": "judd-hirsch",
+      "name": "Judd Hirsch",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

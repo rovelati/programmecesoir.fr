@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "josephine-de-meaux",
+  "name": "Joséphine de Meaux",
+  "worksCount": 3,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Josephine%20de%20Meaux%20Cabourg%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-01-23",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q511485",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jos%C3%A9phine_de_Meaux",
+    "imdb": "nm1525639",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "intouchables",
+      "title": "Intouchables"
+    },
+    {
+      "type": "film",
+      "slug": "les-gazelles",
+      "title": "Les gazelles"
+    },
+    {
+      "type": "film",
+      "slug": "les-petits-flocons",
+      "title": "Les petits flocons"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "09e748f9-347d-43a5-8185-6ad0da211e4a",
+      "title": "Intouchables",
+      "programSlug": "intouchables",
+      "programUrl": "/programme/rts-un/intouchables",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 19:05:00+00",
+      "endTime": "2026-04-19 21:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "62ff8ee0-9977-4cdc-b4a5-8e96c4bc4536",
+      "title": "Les petits flocons",
+      "programSlug": "les-petits-flocons",
+      "programUrl": "/programme/cine-family/les-petits-flocons",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 20:36:00+00",
+      "endTime": "2026-04-23 21:55:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 19:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

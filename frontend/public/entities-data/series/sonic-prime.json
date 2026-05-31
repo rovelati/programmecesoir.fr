@@ -1,0 +1,76 @@
+{
+  "type": "series",
+  "slug": "sonic-prime",
+  "title": "Sonic Prime",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Sonic Prime"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série télévisée de fantasy",
+    "série télévisée de science-fiction",
+    "série télévisée d'aventures",
+    "série d'action",
+    "série télévisée comique"
+  ],
+  "description": "Le Conseil du Chaos se prépare à une guerre totale. Shadow hésite à laisser Nine reconstruire le Prisme, mais Sonic affirme que c'est un véritable ami et qu'ils ont un plan pour réparer le monde. Le Conseil découvre deux hérissons surpuissants.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon-teen.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fe338120-802f-43ac-9929-a0da7c516520",
+      "title": "Sonic Prime",
+      "programSlug": "sonic-prime",
+      "programUrl": "/programme/nickelodeon-teen/sonic-prime",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 09:33:00+00",
+      "endTime": "2026-04-19 09:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a1eb1cda-2f2a-4d36-868e-4f00e7bcc20c",
+      "title": "Sonic Prime",
+      "programSlug": "sonic-prime",
+      "programUrl": "/programme/nickelodeon-teen/sonic-prime",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 09:51:00+00",
+      "endTime": "2026-04-19 10:11:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2022,
+  "numberOfSeasons": 3,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 09:33:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "mon-nom-est-personne",
+  "title": "Mon nom est Personne",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Mon nom est Personne"
+  ],
+  "genres": [
+    "film ou téléfilm parodique",
+    "comédie",
+    "western spaghetti"
+  ],
+  "description": "Constatant qu'il prend de l'âge, Jack Beauregard, légendaire pistolero, songe à rengainer ses colts et à quitter l'Ouest pour l'Europe, où il compte achever paisiblement sa vie. Mais l'argent du voyage lui manque. C'est à ce moment que débarque un jeune aventurier énigmatique. Il se fait appeler \"Personne\" et voue à Jack une admiration sans bornes, quelque peu encombrante. Il aimerait que son héros affronte les 150 hors-la-loi qui forment la redoutable \"horde sauvage\". Ces derniers, qui se sont déjà rendus coupables de l'assassinat du frère de Jack, ont leur propre idée sur la question. Ils tentent de prendre les devants et, moyennant finances, proposent à Personne d'abattre Jack...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1973,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q243430",
+      "slug": "terence-hill",
+      "name": "Terence Hill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19155",
+      "slug": "henry-fonda",
+      "name": "Henry Fonda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q936758",
+      "slug": "jean-martin",
+      "name": "Jean Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q562257",
+      "slug": "geoffrey-lewis",
+      "name": "Geoffrey Lewis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1040908",
+      "slug": "mario-brega",
+      "name": "Mario Brega",
+      "role": "actor"
+    },
+    {
+      "qid": "Q817356",
+      "slug": "benito-stefanelli",
+      "name": "Benito Stefanelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q465392",
+      "slug": "antoine-saint-john",
+      "name": "Antoine Saint-John",
+      "role": "actor"
+    },
+    {
+      "qid": "Q471957",
+      "slug": "steve-kanaly",
+      "name": "Steve Kanaly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1442523",
+      "slug": "franco-angrisano",
+      "name": "Franco Angrisano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q536257",
+      "slug": "angelo-novi",
+      "name": "Angelo Novi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1041544",
+      "slug": "carla-mancini",
+      "name": "Carla Mancini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1354894",
+      "slug": "jess-hill",
+      "name": "Jess Hill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1399617",
+      "slug": "r-g-armstrong",
+      "name": "R. G. Armstrong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q336689",
+      "slug": "leo-gordon",
+      "name": "Leo Gordon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1387862",
+      "slug": "neil-summers",
+      "name": "Neil Summers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2092897",
+      "slug": "piero-lulli",
+      "name": "Piero Lulli",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1010375",
+    "slug": "tonino-valerii",
+    "name": "Tonino Valerii",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

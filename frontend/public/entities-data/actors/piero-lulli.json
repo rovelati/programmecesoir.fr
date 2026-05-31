@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "piero-lulli",
+  "name": "Piero Lulli",
+  "worksCount": 1,
+  "description": "acteur italien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Piero%20Lulli%20in%20For%20the%20Taste%20of%20Killing%20(1966).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1923-02-01",
+  "nationality": "Italie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2092897",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Piero_Lulli",
+    "imdb": "nm0525794",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mon-nom-est-personne",
+      "title": "Mon nom est Personne"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

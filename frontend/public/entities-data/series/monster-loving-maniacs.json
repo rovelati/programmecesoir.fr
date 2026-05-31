@@ -1,0 +1,96 @@
+{
+  "type": "series",
+  "slug": "monster-loving-maniacs",
+  "title": "Monster Loving Maniacs",
+  "airingsCount": 11,
+  "sourceTitles": [
+    "Monster Loving Maniacs"
+  ],
+  "genres": [
+    "série télévisée d'aventures",
+    "série télévisée comique"
+  ],
+  "description": "Envoyés passer l'été chez Arthur, leur grand-père, trois frères et soeurs découvrent que leur aïeul est un chasseur de monstres. Celui-ci vieillit et, même s'il refuse de se l'avouer, aurait bien besoin d'un peu d'aide. Il entreprend de former ses petits-enfants à son dur métier, mais le problème est que ceux-ci, fans de films d'horreur et de créatures surnaturelles, n'ont aucune envie de chasser des monstres. C'est pourquoi, dès qu'Arthur pique du nez, ils en profitent pour monter des opérations de sauvetage et d'exfiltration des créatures surnaturelles.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teletoon-1",
+      "channelName": "Télétoon +1",
+      "channelSlug": "teletoon-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teletoon-1.svg",
+      "airingsCount": 11
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d90ea9f4-fa1d-4a5e-8b73-45bbf7ed4621",
+      "title": "Monster Loving Maniacs",
+      "programSlug": "monster-loving-maniacs",
+      "programUrl": "/programme/teletoon/monster-loving-maniacs",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 06:34:00+00",
+      "endTime": "2026-04-23 06:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "f1a5a616-1d5b-44b3-b9da-7543725090e8",
+      "title": "Monster Loving Maniacs",
+      "programSlug": "monster-loving-maniacs",
+      "programUrl": "/programme/teletoon/monster-loving-maniacs",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 06:45:00+00",
+      "endTime": "2026-04-23 07:00:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "8a416cef-97e6-4f01-b815-bb00dfa8898c",
+      "title": "Monster Loving Maniacs",
+      "programSlug": "monster-loving-maniacs",
+      "programUrl": "/programme/teletoon/monster-loving-maniacs",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 16:01:00+00",
+      "endTime": "2026-04-23 16:12:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "f1c06623-f32d-4d0c-a64e-e1457c2ca0a3",
+      "title": "Monster Loving Maniacs",
+      "programSlug": "monster-loving-maniacs",
+      "programUrl": "/programme/teletoon/monster-loving-maniacs",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 16:12:00+00",
+      "endTime": "2026-04-23 16:30:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2022,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-23 06:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

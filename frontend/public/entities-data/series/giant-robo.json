@@ -1,0 +1,51 @@
+{
+  "type": "series",
+  "slug": "giant-robo",
+  "title": "Giant Robo",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Giant Robo"
+  ],
+  "genres": [
+    "série télévisée de science-fiction"
+  ],
+  "description": "Alors que les Experts de Justice pansent leurs blessures, la mystérieuse sphère poursuit sa route vers Shanghai. Le professeur Gô a mis au point un plan capable de l'arrêter.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mangas",
+      "channelName": "Mangas",
+      "channelSlug": "mangas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mangas.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1967,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": {
+    "qid": "Q471133",
+    "slug": "mitsuteru-yokoyama",
+    "name": "Mitsuteru Yokoyama",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

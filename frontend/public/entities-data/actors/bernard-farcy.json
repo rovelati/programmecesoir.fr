@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "bernard-farcy",
+  "name": "Bernard Farcy",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Farcy.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1949-02-02",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q822410",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bernard_Farcy",
+    "imdb": "nm0267188",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "marche-a-l-ombre",
+      "title": "Marche à l'ombre"
+    },
+    {
+      "type": "film",
+      "slug": "14-jours-pour-aller-mieux",
+      "title": "14 Jours pour aller mieux"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,125 @@
+{
+  "type": "film",
+  "slug": "la-vallee-du-bonheur",
+  "title": "La vallée du bonheur",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "La vallée du bonheur"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film ou téléfilm musical"
+  ],
+  "description": "Pedro, un architecte madrilène en difficulté, voit sa vie bouleversée lorsqu'il hérite d'un grand-père qu'il n'a jamais connu. Le legs est des plus insolites : deux vaches et un âne. Il se rend dans un village reculé pour les récupérer, un voyage qui lui réservera de nombreuses surprises...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1968,
+  "durationMinutes": 144,
+  "cast": [
+    {
+      "qid": "Q100937",
+      "slug": "fred-astaire",
+      "name": "Fred Astaire",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236212",
+      "slug": "petula-clark",
+      "name": "Petula Clark",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1284241",
+      "slug": "tommy-steele",
+      "name": "Tommy Steele",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1239152",
+      "slug": "don-francks",
+      "name": "Don Francks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q946859",
+      "slug": "keenan-wynn",
+      "name": "Keenan Wynn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q807455",
+      "slug": "barbara-hancock",
+      "name": "Barbara Hancock",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2118140",
+      "slug": "al-freeman",
+      "name": "Al Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2165570",
+      "slug": "ronald-colby",
+      "name": "Ronald Colby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3034313",
+      "slug": "dolph-sweet",
+      "name": "Dolph Sweet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3445776",
+      "slug": "roy-glenn",
+      "name": "Roy Glenn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15402259",
+      "slug": "wright-king",
+      "name": "Wright King",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4829218",
+      "slug": "avon-long",
+      "name": "Avon Long",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q56094",
+    "slug": "francis-ford-coppola",
+    "name": "Francis Ford Coppola",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

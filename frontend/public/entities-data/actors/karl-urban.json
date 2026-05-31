@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "karl-urban",
+  "name": "Karl Urban",
+  "worksCount": 3,
+  "description": "acteur néo-zélandais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Urban%20at%2053rd%20Saturn%20Awards%202026.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-06-07",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q132430",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Karl_Urban",
+    "imdb": "nm0881631",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-seigneur-des-anneaux-les-deux-tours",
+      "title": "Le seigneur des anneaux : les deux tours"
+    },
+    {
+      "type": "film",
+      "slug": "star-trek-into-darkness",
+      "title": "Star Trek Into Darkness"
+    },
+    {
+      "type": "film",
+      "slug": "la-mort-dans-la-peau",
+      "title": "La mort dans la peau"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "61b0d032-79dc-4391-a0b3-586261790573",
+      "title": "Le seigneur des anneaux : les deux tours",
+      "programSlug": "le-seigneur-des-anneaux-les-deux-tours",
+      "programUrl": "/programme/ocs/le-seigneur-des-anneaux-les-deux-tours",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 18:50:00+00",
+      "endTime": "2026-04-20 21:45:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

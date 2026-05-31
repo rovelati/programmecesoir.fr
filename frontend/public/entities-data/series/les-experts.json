@@ -1,0 +1,376 @@
+{
+  "type": "series",
+  "slug": "les-experts",
+  "title": "Les experts",
+  "airingsCount": 27,
+  "sourceTitles": [
+    "Les experts",
+    "Les experts - Saison 1"
+  ],
+  "genres": [
+    "enquête policière",
+    "série télévisée dramatique",
+    "thriller"
+  ],
+  "description": "Lorsque plusieurs couples sont assassinés, les autorités pensent aussitôt qu'il s'agit d'un tueur en série. Les experts sont mis sur l'affaire. L'enquête ne doit toutefois pas leur faire oublier que d'autres crimes sont commis chaque jour à Las Vegas. Le cadavre momifié d'une femme vient ainsi d'être découvert. Et quand ce ne sont pas les meurtres qui s'accumulent, ce sont les accidents : les agents trouvent, en pleine période de canicule, le corps d'un enfant victime de déshydratation, abandonné dans une voiture. Plus tard, c'est un coureur qui décède lors d'une compétition, lui aussi victime de la chaleur. A moins qu'il n'ait été empoisonné. Une quatrième saison toujours aussi captivante, d'ailleurs distinguée aux Primetime Emmy Awards.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/club-rtl.png",
+      "airingsCount": 15
+    },
+    {
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv-breizh.png",
+      "airingsCount": 12
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dce75bab-83d6-4482-9217-3ac8a30b0b9e",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 11:00:00+00",
+      "endTime": "2026-04-19 11:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c2b4b83b-18d5-4058-86f5-406788630242",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 11:45:00+00",
+      "endTime": "2026-04-19 12:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "217915e0-4714-4f9a-aaee-bc4f478a2495",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-20 14:15:00+00",
+      "endTime": "2026-04-20 15:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8d0dfbc0-b4e0-483c-88bd-81f82b18da21",
+      "title": "Les experts - Saison 1",
+      "programSlug": "les-experts-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-20 18:50:00+00",
+      "endTime": "2026-04-20 19:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0a41c71d-71dd-4901-a08c-6c10cb4c3707",
+      "title": "Les experts - Saison 1",
+      "programSlug": "les-experts-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-20 19:45:00+00",
+      "endTime": "2026-04-20 20:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0916a16a-7a1c-47e2-aef5-40258210ee84",
+      "title": "Les experts - Saison 1",
+      "programSlug": "les-experts-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-20 20:35:00+00",
+      "endTime": "2026-04-20 21:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8538f212-32ca-469f-bdad-6f5399d79fc5",
+      "title": "Les experts - Saison 1",
+      "programSlug": "les-experts-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-20 21:30:00+00",
+      "endTime": "2026-04-20 22:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d21009bb-bebc-4db5-99dd-0ff2f18253f3",
+      "title": "Les experts - Saison 1",
+      "programSlug": "les-experts-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-20 22:25:00+00",
+      "endTime": "2026-04-20 23:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "cf78d641-8908-4d91-8e63-363cd941559b",
+      "title": "Les experts - Saison 1",
+      "programSlug": "les-experts-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-20 23:15:00+00",
+      "endTime": "2026-04-21 00:13:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "3d3f2128-208c-4ac8-b3b2-3b51d0824fc4",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-21 14:15:00+00",
+      "endTime": "2026-04-21 15:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2395f2ba-d7ff-4c6e-a89e-b1475964140f",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-22 13:20:00+00",
+      "endTime": "2026-04-22 14:10:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "81fffc2d-4485-4aea-ba96-19cfa270a451",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-22 14:10:00+00",
+      "endTime": "2026-04-22 15:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "787c7602-95ae-4162-8d0f-1a7fc980b615",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-23 13:20:00+00",
+      "endTime": "2026-04-23 14:10:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "0036be4c-671e-4f5b-b94b-4e9fb6643e96",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-23 14:10:00+00",
+      "endTime": "2026-04-23 15:00:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "b40ad677-ce3f-4b07-9d47-a04ee27dee55",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-24 13:20:00+00",
+      "endTime": "2026-04-24 14:10:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "7a926238-faee-4c3e-ba37-d5b5753f8385",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-24 14:10:00+00",
+      "endTime": "2026-04-24 15:00:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "d16bafed-be23-423d-bb32-cf6292a1c364",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-25 08:35:00+00",
+      "endTime": "2026-04-25 09:25:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "bc5d079f-4e57-4547-8ac2-53b13097c176",
+      "title": "Les experts",
+      "programSlug": "les-experts",
+      "programUrl": "/programme/club-rtl/les-experts",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-25 09:25:00+00",
+      "endTime": "2026-04-25 10:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2000,
+  "numberOfSeasons": 15,
+  "cast": [
+    {
+      "qid": "Q311892",
+      "slug": "william-petersen",
+      "name": "William Petersen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229577",
+      "slug": "marg-helgenberger",
+      "name": "Marg Helgenberger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231807",
+      "slug": "jorja-fox",
+      "name": "Jorja Fox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q355038",
+      "slug": "gary-dourdan",
+      "name": "Gary Dourdan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q365030",
+      "slug": "george-eads",
+      "name": "George Eads",
+      "role": "actor"
+    },
+    {
+      "qid": "Q464744",
+      "slug": "paul-guilfoyle",
+      "name": "Paul Guilfoyle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q126401",
+      "slug": "eric-szmanda",
+      "name": "Eric Szmanda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q712704",
+      "slug": "robert-david-hall",
+      "name": "Robert David Hall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262162",
+      "slug": "louise-lombard",
+      "name": "Louise Lombard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q562069",
+      "slug": "wallace-langham",
+      "name": "Wallace Langham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262182",
+      "slug": "lauren-lee-smith",
+      "name": "Lauren Lee Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193048",
+      "slug": "laurence-fishburne",
+      "name": "Laurence Fishburne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q287528",
+      "slug": "liz-vassey",
+      "name": "Liz Vassey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3269263",
+      "slug": "david-berman",
+      "name": "David Berman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q381203",
+      "slug": "ted-danson",
+      "name": "Ted Danson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237239",
+      "slug": "elisabeth-harnois",
+      "name": "Elisabeth Harnois",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q470834",
+    "slug": "anthony-e-zuiker",
+    "name": "Anthony E. Zuiker",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 11:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

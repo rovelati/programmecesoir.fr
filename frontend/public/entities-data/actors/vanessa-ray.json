@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "vanessa-ray",
+  "name": "Vanessa Ray",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vanessa%20Ray%20at%20PaleyFest%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1981-06-24",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3554552",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Vanessa_Ray",
+    "imdb": "nm2326075",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "blue-bloods",
+      "title": "Blue Bloods"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0e32d81-2579-41c4-adab-a529caee92b5",
+      "title": "Blue Bloods - Saison 14",
+      "programSlug": "blue-bloods-saison-14",
+      "programUrl": "/programme/rts-un/blue-bloods-saison-14",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 14:50:00+00",
+      "endTime": "2026-04-19 15:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cd20b19e-a3a1-43f5-8c5a-b22275993bdc",
+      "title": "Blue Bloods - Saison 14",
+      "programSlug": "blue-bloods-saison-14",
+      "programUrl": "/programme/rts-un/blue-bloods-saison-14",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 15:35:00+00",
+      "endTime": "2026-04-19 16:25:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 14:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

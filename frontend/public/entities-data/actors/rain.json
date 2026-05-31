@@ -1,0 +1,157 @@
+{
+  "type": "actor",
+  "slug": "rain",
+  "name": "Rain",
+  "worksCount": 1,
+  "description": "chanteur et acteur sud-coréen",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/190805%20%EC%A0%95%EC%A7%80%ED%9B%88.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1982-06-25",
+  "nationality": "Corée du Sud",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q318485",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rain_(chanteur)",
+    "imdb": "nm1713653",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "ghost-doctor",
+      "title": "Ghost Doctor"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3645bf5f-f555-448b-a4e9-fe0da1c1d27b",
+      "title": "Ghost Doctor",
+      "programSlug": "ghost-doctor",
+      "programUrl": "/programme/ninanovelasfr/ghost-doctor",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 16:00:00+00",
+      "endTime": "2026-04-19 16:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4cb800d3-fa7c-4322-8c03-001307d684e6",
+      "title": "Ghost Doctor",
+      "programSlug": "ghost-doctor",
+      "programUrl": "/programme/ninanovelasfr/ghost-doctor",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 17:06:00+00",
+      "endTime": "2026-04-19 17:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c3f3ced8-2399-4fef-a054-88b7058213ca",
+      "title": "Ghost Doctor",
+      "programSlug": "ghost-doctor",
+      "programUrl": "/programme/atvguadeloupefr/ghost-doctor",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 22:38:00+00",
+      "endTime": "2026-04-20 23:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "f7a6c22b-ae3b-4d88-b5b5-e4c102b2df97",
+      "title": "Ghost Doctor",
+      "programSlug": "ghost-doctor",
+      "programUrl": "/programme/atvguyanefr/ghost-doctor",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 22:38:00+00",
+      "endTime": "2026-04-20 23:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "287e0332-509e-45d8-824f-f7970c77fac5",
+      "title": "Ghost Doctor",
+      "programSlug": "ghost-doctor",
+      "programUrl": "/programme/atvmartiniquefr/ghost-doctor",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 22:38:00+00",
+      "endTime": "2026-04-20 23:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8e47ed14-c61d-4871-905d-de01c0a768ca",
+      "title": "Ghost Doctor",
+      "programSlug": "ghost-doctor",
+      "programUrl": "/programme/antenne-reunion/ghost-doctor",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 22:38:00+00",
+      "endTime": "2026-04-20 23:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "3a96cee0-b29c-4cd3-a332-1a9965f0ed70",
+      "title": "Ghost Doctor",
+      "programSlug": "ghost-doctor",
+      "programUrl": "/programme/tv7-bordeaux/ghost-doctor",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 22:38:00+00",
+      "endTime": "2026-04-20 23:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "487097a2-5e52-48ee-b789-3ebd53b67052",
+      "title": "Ghost Doctor",
+      "programSlug": "ghost-doctor",
+      "programUrl": "/programme/tvsudmarseillefr/ghost-doctor",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 22:38:00+00",
+      "endTime": "2026-04-20 23:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c21a70b9-7b82-4111-a500-8df1d50a0195",
+      "title": "Ghost Doctor - S01E15",
+      "programSlug": "ghost-doctor-s01e15",
+      "programUrl": "/programme/ninanovelasfr/ghost-doctor-s01e15",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-25 12:00:00+00",
+      "endTime": "2026-04-25 12:09:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "fb982565-edf3-4788-a7de-9b415ee24bb3",
+      "title": "Ghost Doctor - S01E16",
+      "programSlug": "ghost-doctor-s01e16",
+      "programUrl": "/programme/ninanovelasfr/ghost-doctor-s01e16",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-25 13:05:00+00",
+      "endTime": "2026-04-25 13:48:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 16:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

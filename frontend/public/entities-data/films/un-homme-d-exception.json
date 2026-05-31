@@ -1,0 +1,158 @@
+{
+  "type": "film",
+  "slug": "un-homme-d-exception",
+  "title": "Un homme d'exception",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Un homme d'exception"
+  ],
+  "genres": [
+    "film ou téléfilm biographique",
+    "drame",
+    "film basé sur des livres"
+  ],
+  "description": "En 1947, lauréat d'une bourse, John Nash est reçu à la prestigieuse université de Princeton. Les études qu'entreprend ce génie solitaire n'ont qu'un seul et unique but : trouver \"le\" principe révolutionnaire. Son colocataire Charles devient rapidement son ami et le défend envers et contre tous. John parvient ainsi tant bien que mal à mettre au point le théorème qui lui apportera enfin la reconnaissance espérée. Dans les années 1950, arrogant professeur de renom, il se lie avec l'une de ses étudiantes, Alicia. Constamment épié et traqué, il craque et se retrouve interné dans un hôpital psychiatrique. Le diagnostic tombe : il est schizophrène et paranoïaque...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2001,
+  "durationMinutes": 135,
+  "cast": [
+    {
+      "qid": "Q129817",
+      "slug": "russell-crowe",
+      "name": "Russell Crowe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104791",
+      "slug": "ed-harris",
+      "name": "Ed Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q103343",
+      "slug": "jennifer-connelly",
+      "name": "Jennifer Connelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242707",
+      "slug": "paul-bettany",
+      "name": "Paul Bettany",
+      "role": "actor"
+    },
+    {
+      "qid": "Q463325",
+      "slug": "vivien-cardone",
+      "name": "Vivien Cardone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q190523",
+      "slug": "christopher-plummer",
+      "name": "Christopher Plummer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q281964",
+      "slug": "adam-goldberg",
+      "name": "Adam Goldberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q53651",
+      "slug": "josh-lucas",
+      "name": "Josh Lucas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q39983",
+      "slug": "anthony-rapp",
+      "name": "Anthony Rapp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q365023",
+      "slug": "judd-hirsch",
+      "name": "Judd Hirsch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q572004",
+      "slug": "austin-pendleton",
+      "name": "Austin Pendleton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1281723",
+      "slug": "roy-thinnes",
+      "name": "Roy Thinnes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q918321",
+      "slug": "jason-gray-stanford",
+      "name": "Jason Gray-Stanford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2050378",
+      "slug": "josh-pais",
+      "name": "Josh Pais",
+      "role": "actor"
+    },
+    {
+      "qid": "Q103646",
+      "slug": "ron-howard",
+      "name": "Ron Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22681435",
+      "slug": "alessandro-tanaka",
+      "name": "Alessandro Tanaka",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q103646",
+    "slug": "ron-howard",
+    "name": "Ron Howard",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

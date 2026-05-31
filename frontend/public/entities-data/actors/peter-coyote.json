@@ -1,0 +1,63 @@
+{
+  "type": "actor",
+  "slug": "peter-coyote",
+  "name": "Peter Coyote",
+  "worksCount": 4,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Coyote%20at%20Durell%20Vineyard%2C%20Sonoma%2C%20April%202019.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1941-10-10",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q354873",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Peter_Coyote",
+    "imdb": "nm0001075",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "erin-brockovich-seule-contre-tous",
+      "title": "Erin Brockovich, seule contre tous"
+    },
+    {
+      "type": "film",
+      "slug": "deepwater",
+      "title": "Deepwater"
+    },
+    {
+      "type": "film",
+      "slug": "bon-voyage",
+      "title": "Bon voyage"
+    },
+    {
+      "type": "film",
+      "slug": "femme-fatale",
+      "title": "Femme fatale"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3e3fc914-b24c-448e-b448-5eb0fec8a2cd",
+      "title": "Bon voyage",
+      "programSlug": "bon-voyage",
+      "programUrl": "/programme/eurochannel/bon-voyage",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 00:00:00+00",
+      "endTime": "2026-04-21 02:15:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 00:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

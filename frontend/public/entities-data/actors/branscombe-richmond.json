@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "branscombe-richmond",
+  "name": "Branscombe Richmond",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Branscombe%20Richmond%20Portrait.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1955-08-08",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q131866",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Branscombe_Richmond",
+    "imdb": "nm0725079",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "echec-et-mort",
+      "title": "Echec et mort"
+    },
+    {
+      "type": "film",
+      "slug": "le-roi-scorpion",
+      "title": "Le roi Scorpion"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

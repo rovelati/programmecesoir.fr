@@ -1,0 +1,92 @@
+{
+  "type": "film",
+  "slug": "zohra-sans-permis",
+  "title": "Zohra sans permis",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Zohra sans permis"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Depuis qu'elle vit seule dans sa maison isolée dans la campagne, Zohra, petite mamie dynamique, est déterminée à passer son permis de conduire. Malgré le scepticisme de son moniteur d'auto-école, Zohra n'en démord pas : elle veut conduire la vieille Alfa Romeo de son mari...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4f511ddc-be56-4786-a5ba-eddb9db63dae",
+      "title": "Zohra sans permis",
+      "programSlug": "zohra-sans-permis",
+      "programUrl": "/programme/cine-family/zohra-sans-permis",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 11:07:00+00",
+      "endTime": "2026-04-23 11:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "5aab57d6-57c6-4e82-98f9-69d444cb97e3",
+      "title": "Zohra sans permis",
+      "programSlug": "zohra-sans-permis",
+      "programUrl": "/programme/cine-family/zohra-sans-permis",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 18:28:00+00",
+      "endTime": "2026-04-24 18:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "188cd9c0-ee46-44fc-8c9d-2db17675182f",
+      "title": "Zohra sans permis",
+      "programSlug": "zohra-sans-permis",
+      "programUrl": "/programme/cine-family/zohra-sans-permis",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 18:26:00+00",
+      "endTime": "2026-04-25 18:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-23 11:07:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

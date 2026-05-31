@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "chris-cooper",
+  "name": "Chris Cooper",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris%20Cooper%20at%20the%202009%20Tribeca%20Film%20Festival.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1951-07-09",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q273208",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Chris_Cooper",
+    "imdb": "nm0177933",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-memoire-dans-la-peau",
+      "title": "La mémoire dans la peau"
+    },
+    {
+      "type": "film",
+      "slug": "the-town",
+      "title": "The Town"
+    },
+    {
+      "type": "film",
+      "slug": "la-mort-dans-la-peau",
+      "title": "La mort dans la peau"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

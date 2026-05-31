@@ -1,0 +1,106 @@
+{
+  "type": "actor",
+  "slug": "michel-gondry",
+  "name": "Michel Gondry",
+  "worksCount": 3,
+  "description": "réalisateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Gondry%20Deauville%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-05-08",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q126098",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michel_Gondry",
+    "imdb": "nm0327273",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "the-green-hornet",
+      "title": "The Green Hornet"
+    },
+    {
+      "type": "film",
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "title": "Eternal Sunshine of the Spotless Mind"
+    },
+    {
+      "type": "film",
+      "slug": "soyez-sympas-rembobinez",
+      "title": "Soyez sympas, rembobinez"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6cfc5d38-bd20-440e-a7f2-48a84d8f9c38",
+      "title": "The Green Hornet",
+      "programSlug": "the-green-hornet",
+      "programUrl": "/programme/canal-grand-ecran/the-green-hornet",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 05:49:00+00",
+      "endTime": "2026-04-19 07:44:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f0cdbad4-3041-4bec-b28c-8f9aac1db096",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "programSlug": "eternal-sunshine-of-the-spotless-mind",
+      "programUrl": "/programme/cine-emotion/eternal-sunshine-of-the-spotless-mind",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 13:29:00+00",
+      "endTime": "2026-04-20 15:16:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "72fb94fb-96a9-44cd-aec5-5b67673ddf87",
+      "title": "Soyez sympas, rembobinez",
+      "programSlug": "soyez-sympas-rembobinez",
+      "programUrl": "/programme/cine-festival/soyez-sympas-rembobinez",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-25 03:40:00+00",
+      "endTime": "2026-04-25 04:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "dc886d28-659d-41b0-bfd0-fd1759fb6405",
+      "title": "The Green Hornet",
+      "programSlug": "the-green-hornet",
+      "programUrl": "/programme/canal-grand-ecran/the-green-hornet",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 10:24:00+00",
+      "endTime": "2026-04-25 12:20:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "a8928c3f-7b1f-4cdf-a651-df0b7c197dbe",
+      "title": "The Green Hornet",
+      "programSlug": "the-green-hornet",
+      "programUrl": "/programme/cine-frisson/the-green-hornet",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-26 05:33:00+00",
+      "endTime": "2026-04-26 07:30:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 05:49:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

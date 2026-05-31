@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "benito-stefanelli",
+  "name": "Benito Stefanelli",
+  "worksCount": 2,
+  "description": "acteur italien",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1928-09-02",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q817356",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Benito_Stefanelli",
+    "imdb": "nm0824934",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "du-rififi-a-paname",
+      "title": "Du rififi à Paname"
+    },
+    {
+      "type": "film",
+      "slug": "mon-nom-est-personne",
+      "title": "Mon nom est Personne"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

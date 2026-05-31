@@ -1,0 +1,186 @@
+{
+  "type": "film",
+  "slug": "la-guerre-des-polices",
+  "title": "La guerre des polices",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "La guerre des polices"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "drame"
+  ],
+  "description": "La brigade territoriale, que dirige avec efficacité le commissaire Ballestrat, est parvenue à repérer la cachette de Sarlat, l'ennemi public numéro un, qu'elle se dispose à présent à arrêter. Le piège se referme lorsque surgissent inopinément les hommes de l'anti-gang, conduits par le commissaire Fush. Exaspéré, Ballestrat préfère laisser filer Sarlat plutôt que d'en faire cadeau à son rival. Dès lors, les hostilités sont ouvertes entre les deux services, pour le plus grand bénéfice de Sarlat. Pendant ce temps, Ballestrat court toujours après le fuyard. Il doit maintenant jouer serré s'il veut faire honneur à son équipe et ne pas décevoir sa hiérarchie...",
+  "descriptionAi": "Ce téléfilm criminel et dramatique de 1979 plonge dans les sombres rivalités de la police parisienne. L’ambiance est tendue, réaliste, imprégnée du Paris des années 70. L’intrigue captivante repose sur un conflit interne acharné : deux brigades, l’une territoriale et l’autre anti-gang, s’affrontent plus qu’elles ne poursuivent le criminel qu’elles traquent. Cette guerre des égos, où l’orgueil l’emporte parfois sur le devoir, offre un regard cynique et passionnant sur les coulisses du pouvoir policier. Une plongée haletante dans les mécaniques de l’institution à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "65977fce-7e7b-4d2c-91e0-9c8a4de08563",
+      "title": "La guerre des polices",
+      "programSlug": "la-guerre-des-polices",
+      "programUrl": "/programme/action/la-guerre-des-polices",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-20 23:39:00+00",
+      "endTime": "2026-04-21 01:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8d980656-b120-4ea2-8686-22ee1d0ccdc7",
+      "title": "La guerre des polices",
+      "programSlug": "la-guerre-des-polices",
+      "programUrl": "/programme/action/la-guerre-des-polices",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-22 22:56:00+00",
+      "endTime": "2026-04-23 00:37:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "e11b1921-1720-45b0-82f1-0f0304f60804",
+      "title": "La guerre des polices",
+      "programSlug": "la-guerre-des-polices",
+      "programUrl": "/programme/action/la-guerre-des-polices",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 00:40:00+00",
+      "endTime": "2026-04-25 02:21:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q8883179",
+    "wikipedia": "https://fr.wikipedia.org/wiki/La_Guerre_des_polices",
+    "imdb": "tt0079250",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:23.188Z",
+  "year": 1979,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q106544",
+      "slug": "claude-brasseur",
+      "name": "Claude Brasseur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272183",
+      "slug": "marlene-jobert",
+      "name": "Marlène Jobert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1097113",
+      "slug": "claude-rich",
+      "name": "Claude Rich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2831124",
+      "slug": "albert-dray",
+      "name": "Albert Dray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289524",
+      "slug": "etienne-chicot",
+      "name": "Étienne Chicot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q966237",
+      "slug": "feodor-atkine",
+      "name": "Féodor Atkine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1451173",
+      "slug": "francois-perier",
+      "name": "François Périer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082036",
+      "slug": "franck-olivier-bonnet",
+      "name": "Franck-Olivier Bonnet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3103506",
+      "slug": "georges-staquet",
+      "name": "Georges Staquet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3123896",
+      "slug": "gerard-desarthe",
+      "name": "Gérard Desarthe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3159242",
+      "slug": "jacques-lalande",
+      "name": "Jacques Lalande",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3174435",
+      "slug": "jean-rougerie",
+      "name": "Jean Rougerie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1684856",
+      "slug": "jean-francois-stevenin",
+      "name": "Jean-François Stévenin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q961525",
+      "slug": "jean-pierre-kalfon",
+      "name": "Jean-Pierre Kalfon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3263714",
+      "slug": "louise-chevalier",
+      "name": "Louise Chevalier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q539161",
+      "slug": "ludmila-mikael",
+      "name": "Ludmila Mikaël",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3437057",
+    "slug": "robin-davis",
+    "name": "Robin Davis",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 23:39:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

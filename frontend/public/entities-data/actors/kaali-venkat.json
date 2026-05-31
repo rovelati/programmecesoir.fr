@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "kaali-venkat",
+  "name": "Kaali Venkat",
+  "worksCount": 1,
+  "description": "acteur indien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kali%20venkat.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1985-03-04",
+  "nationality": "Inde",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q17061056",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kaali_Venkat",
+    "imdb": "nm6353025",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dernier-round",
+      "title": "Dernier round"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "83948c6a-3992-4634-b40a-6ccf4bf95ac2",
+      "title": "Dernier round",
+      "programSlug": "dernier-round",
+      "programUrl": "/programme/eurochannel/dernier-round",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-24 05:40:00+00",
+      "endTime": "2026-04-24 07:20:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 05:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

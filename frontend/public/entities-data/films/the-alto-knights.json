@@ -1,0 +1,145 @@
+{
+  "type": "film",
+  "slug": "the-alto-knights",
+  "title": "The Alto Knights",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "The Alto Knights"
+  ],
+  "genres": [
+    "film ou téléfilm biographique",
+    "film de gangsters",
+    "drame"
+  ],
+  "description": "Dans les années 1950, à New York, Jadis alliés, Frank Costello et Vito Genovese sont devenus les pires ennemis en raison de quelques coups bas et de plusieurs trahisons. Chef respecté de la puissante Cosa Nostra, Frank Costello tente de garder la mainmise sur une ville sous sa coupe depuis des années, alors que Vito Genovese souhaite prendre sa place. De retour aux Etats-Unis après un exil forcé en Italie, où il s'était réfugié pour éviter la prison, celui-ci multiplie les échecs alors qu'il tente d'éliminer son féroce concurrent. Les deux hommes s'engagent dans un affrontement dont ils ignorent qu'il provoquera leur chute...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "529b0477-b04e-47e0-8e2a-34f67339845d",
+      "title": "The Alto Knights",
+      "programSlug": "the-alto-knights",
+      "programUrl": "/programme/canal-box-office/the-alto-knights",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 11:49:00+00",
+      "endTime": "2026-04-22 13:48:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 123,
+  "cast": [
+    {
+      "qid": "Q36949",
+      "slug": "robert-de-niro",
+      "name": "Robert De Niro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228739",
+      "slug": "debra-messing",
+      "name": "Debra Messing",
+      "role": "actor"
+    },
+    {
+      "qid": "Q290872",
+      "slug": "kathrine-narducci",
+      "name": "Kathrine Narducci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1136149",
+      "slug": "cosmo-jarvis",
+      "name": "Cosmo Jarvis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27277",
+      "slug": "louis-mustillo",
+      "name": "Louis Mustillo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q910854",
+      "slug": "matt-servitto",
+      "name": "Matt Servitto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109408139",
+      "slug": "belmont-cameli",
+      "name": "Belmont Cameli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q66132402",
+      "slug": "carrie-lazar",
+      "name": "Carrie Lazar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18016150",
+      "slug": "ed-amatrudo",
+      "name": "Ed Amatrudo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28793964",
+      "slug": "james-ciccone",
+      "name": "James Ciccone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4932559",
+      "slug": "bob-glouberman",
+      "name": "Bob Glouberman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189681",
+      "slug": "michael-rispoli",
+      "name": "Michael Rispoli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q562069",
+      "slug": "wallace-langham",
+      "name": "Wallace Langham",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q269692",
+    "slug": "barry-levinson",
+    "name": "Barry Levinson",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 11:49:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

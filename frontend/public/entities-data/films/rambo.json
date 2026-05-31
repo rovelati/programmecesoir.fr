@@ -1,0 +1,146 @@
+{
+  "type": "film",
+  "slug": "rambo",
+  "title": "Rambo",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Rambo"
+  ],
+  "genres": [
+    "thriller d'action",
+    "drame",
+    "film et téléfilm de guerre",
+    "film et téléfilm d'action",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Revenu du Vietnam, abruti autant par les mauvais traitements que lui ont jadis infligés ses tortionnaires que par l'indifférence de ses concitoyens, Rambo, un ancien des commandos d'élite, erre de ville en ville. Un shérif teigneux lui interdit l'accès de sa bourgade. Rambo insiste. Il veut seulement manger. Le shérif le met sous les verrous et laisse son adjoint brutaliser ce divertissant clochard. Les coups réactivent le traumatisme de Rambo. Le tueur qui sommeillait en lui se réveille. Traqué, insulté, il ne pense plus qu'à mettre la petite ville à feu et à sang. Maintenant libre, il attire ses ennemis sur son terrain de prédilection : la forêt...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1982,
+  "durationMinutes": 93,
+  "cast": [
+    {
+      "qid": "Q40026",
+      "slug": "sylvester-stallone",
+      "name": "Sylvester Stallone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318607",
+      "slug": "richard-crenna",
+      "name": "Richard Crenna",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313545",
+      "slug": "brian-dennehy",
+      "name": "Brian Dennehy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q862314",
+      "slug": "bill-mckinney",
+      "name": "Bill McKinney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294901",
+      "slug": "david-caruso",
+      "name": "David Caruso",
+      "role": "actor"
+    },
+    {
+      "qid": "Q382080",
+      "slug": "jack-starrett",
+      "name": "Jack Starrett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189389",
+      "slug": "chris-mulkey",
+      "name": "Chris Mulkey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1929577",
+      "slug": "michael-talbott",
+      "name": "Michael Talbott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2834731",
+      "slug": "alf-humphreys",
+      "name": "Alf Humphreys",
+      "role": "actor"
+    },
+    {
+      "qid": "Q342788",
+      "slug": "bruce-greenwood",
+      "name": "Bruce Greenwood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q324155",
+      "slug": "david-petersen",
+      "name": "David Petersen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3035825",
+      "slug": "don-mackay",
+      "name": "Don MacKay",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3182067",
+      "slug": "john-mcliam",
+      "name": "John McLiam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15707390",
+      "slug": "stephen-e-miller",
+      "name": "Stephen E. Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16194743",
+      "slug": "suzee-pai",
+      "name": "Suzee Pai",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q725520",
+    "slug": "ted-kotcheff",
+    "name": "Ted Kotcheff",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

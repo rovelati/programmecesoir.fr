@@ -1,0 +1,278 @@
+{
+  "type": "series",
+  "slug": "alice-lewis",
+  "title": "Alice & Lewis",
+  "airingsCount": 99,
+  "sourceTitles": [
+    "Alice & Lewis"
+  ],
+  "genres": [
+    "Série d'animation",
+    "Séries d'animation",
+    "Série TV"
+  ],
+  "description": "Persuadée d'être victime d'un esprit invisible qui attaque le château, la Reine ordonne à Lewis de le capturer. Lorsque Lewis l'attrape, avec l'aide d'Alice, il se rend compte que c'est en fait la Carte Paillasson ! À force d'être ignorée par tous ceux qui s'essuient les pieds sur elle, la Carte est devenue invisible. Depuis, elle veut seulement attirer l'attention, notamment celle de la Reine!…",
+  "descriptionAi": "Cette série d'animation française, diffusée depuis 2020, plonge le téléspectateur dans un univers médiéval-fantastique empreint d'humour et de fantaisie. Elle suit les aventures d'Alice, une jeune fille espiègle, et de son ami Lewis, un apprenti sorcier maladroit, au service d'une Reine aussi excentrique qu'autoritaire. L'intérêt réside dans la modernité des personnages et des thématiques, comme l'amitié et la quête d'identité, qui contrastent avec le cadre ancien, le tout servi par une animation colorée et dynamique. Une charmante comédie familiale, pleine de cœur et de magie, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 15
+    },
+    {
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cartoonito.png",
+      "airingsCount": 84
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cc07d21f-0fe9-4fc3-8910-656df1fbdf71",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-19 12:07:00+00",
+      "endTime": "2026-04-19 12:19:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c4d4bd32-d4a0-426e-a08b-9cc2c4ee8558",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-19 12:19:00+00",
+      "endTime": "2026-04-19 12:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a7bc594d-cf3d-4a95-a890-73dd29f145f5",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-19 12:30:00+00",
+      "endTime": "2026-04-19 12:42:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4480d42a-dfbe-4281-8501-8b6bff346f9e",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/cartoonito/alice-lewis",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 20:00:00+00",
+      "endTime": "2026-04-19 20:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a7837238-2aae-4c01-905c-601321725dc2",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/cartoonito/alice-lewis",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 20:10:00+00",
+      "endTime": "2026-04-19 20:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c240790f-f5fe-48ed-91e7-e96cbfafaa9b",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-20 14:18:00+00",
+      "endTime": "2026-04-20 14:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b911f590-ca25-49ca-ba5c-a4047a7e1e54",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-20 14:30:00+00",
+      "endTime": "2026-04-20 14:42:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "635bbc2a-5ad1-441e-93f0-0bdde21e84cf",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-21 14:21:00+00",
+      "endTime": "2026-04-21 14:32:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "33cc19c1-cd05-4ba2-a27e-ec5b160a2464",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-21 14:32:00+00",
+      "endTime": "2026-04-21 14:44:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9df292af-da83-4ef0-b92f-1066b1524462",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-22 10:25:00+00",
+      "endTime": "2026-04-22 10:36:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "09dea813-593a-4c1a-9414-9e794be32a3d",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-22 10:36:00+00",
+      "endTime": "2026-04-22 10:48:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e708a350-aeb2-46e6-a84e-2994c80279df",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-22 10:48:00+00",
+      "endTime": "2026-04-22 11:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "dd4f6da8-b734-4e12-9887-2523e9f75e40",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-22 14:12:00+00",
+      "endTime": "2026-04-22 14:24:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e620cf9e-e6c0-453f-b84b-e49bb117f12c",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-22 14:24:00+00",
+      "endTime": "2026-04-22 14:36:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "12d99529-ca88-4890-8175-cdc235ac85d2",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-23 14:17:00+00",
+      "endTime": "2026-04-23 14:28:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "28b2fbcc-c891-41c1-92a0-2b5401b669a6",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-23 14:28:00+00",
+      "endTime": "2026-04-23 14:40:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "043920b6-1a58-4596-8087-12a09b9bfe5d",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-24 14:16:00+00",
+      "endTime": "2026-04-24 14:27:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "a892b881-279e-4566-9c71-606823d8bb8b",
+      "title": "Alice & Lewis",
+      "programSlug": "alice-lewis",
+      "programUrl": "/programme/la-trois/alice-lewis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-24 14:27:00+00",
+      "endTime": "2026-04-24 14:39:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:07:29.890Z",
+  "startYear": 2020,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": {
+    "qid": "Q38082",
+    "slug": "lewis-carroll",
+    "name": "Lewis Carroll",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 12:07:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

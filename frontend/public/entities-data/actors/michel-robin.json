@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "michel-robin",
+  "name": "Michel Robin",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Robin%20-%20portrait%20de%20Fernand%20Michaud%20-%20btv1b10329519j.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1930-11-13",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q3310736",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michel_Robin",
+    "imdb": "nm0732220",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "une-pierre-dans-la-bouche",
+      "title": "Une pierre dans la bouche"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0ec6d11f-bb7b-4358-932e-d4bf67b9d12a",
+      "title": "Une pierre dans la bouche",
+      "programSlug": "une-pierre-dans-la-bouche",
+      "programUrl": "/programme/action/une-pierre-dans-la-bouche",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-20 21:58:00+00",
+      "endTime": "2026-04-20 23:39:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8ea22df7-dcaf-491e-8091-4a646c488293",
+      "title": "Une pierre dans la bouche",
+      "programSlug": "une-pierre-dans-la-bouche",
+      "programUrl": "/programme/action/une-pierre-dans-la-bouche",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 00:37:00+00",
+      "endTime": "2026-04-23 02:18:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "32c8e118-5c57-4c45-91dc-4b732dc3a552",
+      "title": "Une pierre dans la bouche",
+      "programSlug": "une-pierre-dans-la-bouche",
+      "programUrl": "/programme/action/une-pierre-dans-la-bouche",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 22:59:00+00",
+      "endTime": "2026-04-25 00:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 21:58:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,130 @@
+{
+  "type": "actor",
+  "slug": "naomi-watts",
+  "name": "Naomi Watts",
+  "worksCount": 3,
+  "description": "actrice britannico-australienne née au Royaume-Uni",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Naomi%20Watts%20(36037832511)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-09-28",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q132616",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Naomi_Watts",
+    "imdb": "nm0915208",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-cercle",
+      "title": "Le cercle"
+    },
+    {
+      "type": "film",
+      "slug": "l-enquete",
+      "title": "L'enquête"
+    },
+    {
+      "type": "film",
+      "slug": "mulholland-drive",
+      "title": "Mulholland Drive"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "40b7b691-2684-411f-ad94-e346b481ab44",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-cinema/le-cercle",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 18:14:00+00",
+      "endTime": "2026-04-20 19:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e421f727-4754-4c7a-9082-6249a3c5eb2a",
+      "title": "Mulholland Drive",
+      "programSlug": "mulholland-drive",
+      "programUrl": "/programme/ocs/mulholland-drive",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 11:29:00+00",
+      "endTime": "2026-04-21 13:51:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6ed8c2c9-45c4-44bb-86e6-382272272592",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-grand-ecran/le-cercle",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-21 16:44:00+00",
+      "endTime": "2026-04-21 17:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1598a386-611c-48c9-acb8-867df420a180",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal/le-cercle",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 03:47:00+00",
+      "endTime": "2026-04-22 04:33:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "4c7b6975-db58-4949-9ea2-154bf8e9303e",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-cinema/le-cercle",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 14:55:00+00",
+      "endTime": "2026-04-22 15:41:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9635e81b-bbdb-4c02-b9ff-dd9fe8aae997",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-cinema/le-cercle",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 05:32:00+00",
+      "endTime": "2026-04-23 06:18:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "2d7f6144-2c14-4c91-b857-f0d9d5e42589",
+      "title": "Mulholland Drive",
+      "programSlug": "mulholland-drive",
+      "programUrl": "/programme/ocs/mulholland-drive",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 03:52:00+00",
+      "endTime": "2026-04-25 06:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 18:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

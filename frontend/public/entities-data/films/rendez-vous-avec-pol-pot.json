@@ -1,0 +1,76 @@
+{
+  "type": "film",
+  "slug": "rendez-vous-avec-pol-pot",
+  "title": "Rendez-vous avec Pol Pot",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Rendez-vous avec Pol Pot"
+  ],
+  "genres": [
+    "drame historique"
+  ],
+  "description": "1978. Depuis trois ans, le Cambodge, désormais devenu le Kampuchéa démocratique, est sous le joug de Pol Pot et des Khmers rouges. Trois Français ont accepté l'invitation du régime, espérant obtenir un entretien avec le leader communiste. Sur place, les certitudes de chacun sont vite bousculées...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 112,
+  "cast": [
+    {
+      "qid": "Q230659",
+      "slug": "irene-jacob",
+      "name": "Irène Jacob",
+      "role": "actor"
+    },
+    {
+      "qid": "Q285206",
+      "slug": "gregoire-colin",
+      "name": "Grégoire Colin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3009002",
+      "slug": "cyril-guei",
+      "name": "Cyril Gueï",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1683688",
+      "slug": "rithy-panh",
+      "name": "Rithy Panh",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1683688",
+    "slug": "rithy-panh",
+    "name": "Rithy Panh",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

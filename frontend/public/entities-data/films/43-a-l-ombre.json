@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "43-a-l-ombre",
+  "title": "43° à l'ombre",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "43° à l'ombre"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Blandine, Ferdinand, Lucie, Pauline et Rio sont réunis dans un maison de campagne en Bourgogne où ils se baignent, jouent au bilboquet, mangent des sucettes et dégustent des bons plats. Ferdinand cherche désespérément un objet perdu...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

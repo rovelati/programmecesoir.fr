@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "astrid-whettnall",
+  "name": "Astrid Whettnall",
+  "worksCount": 2,
+  "description": "actrice belge",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Astrid%20Whettnall.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-03-17",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2868544",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Astrid_Whettnall",
+    "imdb": "nm2182605",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-mystere-henri-pick",
+      "title": "Le mystère Henri Pick"
+    },
+    {
+      "type": "film",
+      "slug": "le-tigre-et-le-president",
+      "title": "Le Tigre et le Président"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "859fca5e-3e91-4cc0-8855-a64a252c808c",
+      "title": "Le Tigre et le Président",
+      "programSlug": "le-tigre-et-le-president",
+      "programUrl": "/programme/cine-frisson/le-tigre-et-le-president",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 23:18:00+00",
+      "endTime": "2026-04-20 00:53:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 23:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

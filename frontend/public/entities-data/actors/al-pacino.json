@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "al-pacino",
+  "name": "Al Pacino",
+  "worksCount": 1,
+  "description": "acteur, scénariste et producteur de cinéma américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ALPACINO%200234e%20(30401875260)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1940-04-25",
+  "nationality": "États-Unis",
+  "jobTitle": "producteur ou productrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q41163",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Al_Pacino",
+    "imdb": "nm0000199",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "heat",
+      "title": "Heat"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

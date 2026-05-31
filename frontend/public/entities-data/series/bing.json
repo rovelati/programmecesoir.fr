@@ -1,0 +1,46 @@
+{
+  "type": "series",
+  "slug": "bing",
+  "title": "Bing",
+  "airingsCount": 12,
+  "sourceTitles": [
+    "Bing"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse"
+  ],
+  "description": "Bing s'est cassé le bras et caresser Arlo, empiler ses blocs et même boire du jus de fruit lui fait mal ! Bing essaie de dessiner avec Sula et, comme il n'a pas mal, il oublie son bras et fait un grand et douloureux HOPPITY WOUSH ! Amma lui explique gentiment qu'il n'y a pas de mal à demander de l'aide.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "channelNumber": 5,
+      "logoUrl": "/loghi/france-5.png",
+      "airingsCount": 12
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2014,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

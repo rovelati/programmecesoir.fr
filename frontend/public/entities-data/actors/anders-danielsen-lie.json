@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "anders-danielsen-lie",
+  "name": "Anders Danielsen Lie",
+  "worksCount": 1,
+  "description": "acteur norvégien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Danielsen%20Lie.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-01-01",
+  "nationality": "Norvège",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q4753762",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anders_Danielsen_Lie",
+    "imdb": "nm0509264",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "valeur-sentimentale",
+      "title": "Valeur sentimentale"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "91404839-f165-4459-b75c-f5d052e91531",
+      "title": "Valeur sentimentale",
+      "programSlug": "valeur-sentimentale",
+      "programUrl": "/programme/canal/valeur-sentimentale",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 22:47:00+00",
+      "endTime": "2026-04-22 00:56:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 22:47:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

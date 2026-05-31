@@ -1,0 +1,236 @@
+{
+  "type": "series",
+  "slug": "grand-hotel",
+  "title": "Grand hôtel",
+  "airingsCount": 20,
+  "sourceTitles": [
+    "Grand hôtel",
+    "Grand hôtel - Saison 1",
+    "Grand hôtel - Saison 2"
+  ],
+  "genres": [
+    "drame historique"
+  ],
+  "description": "Julio découvre avec stupeur que sa soeur est vivante. Cristina n'a plus le choix : passé le moment des retrouvailles, elle va devoir expliquer pourquoi elle s'est fait passer pour morte durant ces dernières semaines. Quel lien sa mort supposée a-t-elle avec celle des autres jeunes femmes retrouvées assassinées ? Pendant ce temps, au Grand Hôtel, la détention de Diego, accusé du meurtre de Cristina, laisse le champ libre à Alfredo et Javier qui s'affrontent pour obtenir la direction de l'établissement en son absence. Dans les étages, Belén et Catalina oeuvrent pour conquérir le coeur d'Andrés, toujours sous l'oeil inquisiteur d'Angela...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Palacio%20de%20la%20Magdalena%20(2).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nouvelle-aquitaine.svg",
+      "airingsCount": 20
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e4aaed26-07a7-4768-b286-b4f8c91f207a",
+      "title": "Grand hôtel",
+      "programSlug": "grand-hotel",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/grand-hotel",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-19 12:07:00+00",
+      "endTime": "2026-04-19 13:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8cb88c7c-becb-4e4c-9a23-1b29b2b5632c",
+      "title": "Grand hôtel",
+      "programSlug": "grand-hotel",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/grand-hotel",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-19 13:21:00+00",
+      "endTime": "2026-04-19 14:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "047963d2-9064-4622-b4ac-5d6e2bd35b95",
+      "title": "Grand hôtel",
+      "programSlug": "grand-hotel",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/grand-hotel",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-20 19:10:00+00",
+      "endTime": "2026-04-20 20:23:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "cbd288e1-d3b5-403b-a066-189cd6cd3337",
+      "title": "Grand hôtel",
+      "programSlug": "grand-hotel",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/grand-hotel",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-20 20:23:00+00",
+      "endTime": "2026-04-20 21:41:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "038a05cd-e988-4d04-8a7f-4a11a730e081",
+      "title": "Grand hôtel",
+      "programSlug": "grand-hotel",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/grand-hotel",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-24 13:48:00+00",
+      "endTime": "2026-04-24 15:01:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "b2c92c05-21e5-41bf-a3ae-07e887f38bc5",
+      "title": "Grand hôtel - Saison 1",
+      "programSlug": "grand-hotel-saison-1",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/grand-hotel-saison-1",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-24 15:01:00+00",
+      "endTime": "2026-04-24 16:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "c234a8d5-1eeb-4174-8248-ce19a80feb91",
+      "title": "Grand hôtel - Saison 1",
+      "programSlug": "grand-hotel-saison-1",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/grand-hotel-saison-1",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-25 12:09:00+00",
+      "endTime": "2026-04-25 13:34:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c8509607-54ce-4bc9-b758-d747de478f48",
+      "title": "Grand hôtel - Saison 3",
+      "programSlug": "grand-hotel-saison-3",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/grand-hotel-saison-3",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-25 13:34:00+00",
+      "endTime": "2026-04-25 15:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "01edc20a-07f3-46c7-b94b-21b2a39259e7",
+      "title": "Grand hôtel - Saison 1",
+      "programSlug": "grand-hotel-saison-1",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/grand-hotel-saison-1",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-25 19:10:00+00",
+      "endTime": "2026-04-25 20:24:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "14c98634-e6f7-4d3b-bb6f-ef580bef93a0",
+      "title": "Grand hôtel - Saison 2",
+      "programSlug": "grand-hotel-saison-2",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/grand-hotel-saison-2",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-25 20:25:00+00",
+      "endTime": "2026-04-25 21:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2011,
+  "numberOfSeasons": 3,
+  "cast": [
+    {
+      "qid": "Q594270",
+      "slug": "amaia-salamanca",
+      "name": "Amaia Salamanca",
+      "role": "actor"
+    },
+    {
+      "qid": "Q253625",
+      "slug": "yon-gonzalez",
+      "name": "Yon González",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11698517",
+      "slug": "pedro-alonso",
+      "name": "Pedro Alonso",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5977856",
+      "slug": "llorenc-gonzalez",
+      "name": "Llorenç González",
+      "role": "actor"
+    },
+    {
+      "qid": "Q375152",
+      "slug": "adriana-ozores",
+      "name": "Adriana Ozores",
+      "role": "actor"
+    },
+    {
+      "qid": "Q270812",
+      "slug": "concha-velasco",
+      "name": "Concha Velasco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1333264",
+      "slug": "eloy-azorin",
+      "name": "Eloy Azorín",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9029522",
+      "slug": "marta-larralde",
+      "name": "Marta Larralde",
+      "role": "actor"
+    },
+    {
+      "qid": "Q950998",
+      "slug": "fele-martinez",
+      "name": "Fele Martínez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9058145",
+      "slug": "pep-anton-munoz",
+      "name": "Pep Anton Muñoz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5985022",
+      "slug": "luz-valdenebro",
+      "name": "Luz Valdenebro",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 12:07:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

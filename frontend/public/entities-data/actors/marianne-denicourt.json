@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "marianne-denicourt",
+  "name": "Marianne Denicourt",
+  "worksCount": 1,
+  "description": "actrice, réalisatrice et scénariste française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marianne%20Denicourt%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-05-14",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q273342",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marianne_Denicourt",
+    "imdb": "nm0219099",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "cocorico",
+      "title": "Cocorico"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "806ee63c-6367-40d8-94df-286a05d82842",
+      "title": "Cocorico",
+      "programSlug": "cocorico",
+      "programUrl": "/programme/m6/cocorico",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-23 21:00:00+00",
+      "endTime": "2026-04-23 22:45:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 21:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

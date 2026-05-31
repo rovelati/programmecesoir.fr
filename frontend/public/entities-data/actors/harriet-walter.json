@@ -1,0 +1,85 @@
+{
+  "type": "actor",
+  "slug": "harriet-walter",
+  "name": "Harriet Walter",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harriet%20Walter%20-%20GylesDamesPalladium050323%20(56%20of%2074)%20(52728157886).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1950-09-24",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q271177",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Harriet_Walter",
+    "imdb": "nm0910040",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "londres-police-judiciaire",
+      "title": "Londres police judiciaire"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7afb3b82-56bb-4c63-bcb7-7c1a1b739d89",
+      "title": "Londres police judiciaire",
+      "programSlug": "londres-police-judiciaire",
+      "programUrl": "/programme/tf1-series-films/londres-police-judiciaire",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 15:25:00+00",
+      "endTime": "2026-04-19 16:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "13544104-3527-42e8-ab92-c6a8298ccb3a",
+      "title": "Londres police judiciaire",
+      "programSlug": "londres-police-judiciaire",
+      "programUrl": "/programme/tf1-series-films/londres-police-judiciaire",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 16:20:00+00",
+      "endTime": "2026-04-19 17:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1f81687d-d6b2-4489-b194-a75e80042943",
+      "title": "Londres police judiciaire",
+      "programSlug": "londres-police-judiciaire",
+      "programUrl": "/programme/tf1-series-films/londres-police-judiciaire",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 17:15:00+00",
+      "endTime": "2026-04-19 18:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1031705f-8563-4310-81c6-81cd854a48e2",
+      "title": "Londres police judiciaire",
+      "programSlug": "londres-police-judiciaire",
+      "programUrl": "/programme/tf1-series-films/londres-police-judiciaire",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 18:10:00+00",
+      "endTime": "2026-04-19 19:05:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 15:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

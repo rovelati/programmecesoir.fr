@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "jerry-lewis",
+  "name": "Jerry Lewis",
+  "worksCount": 8,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jerry%20Lewis%20(Paramount%20photo%20by%20Bud%20Fraker).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1926-03-16",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q294927",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jerry_Lewis",
+    "imdb": "nm0001471",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jerry-la-grande-gueule",
+      "title": "Jerry la grande gueule"
+    },
+    {
+      "type": "film",
+      "slug": "boeing-boeing",
+      "title": "Boeing Boeing"
+    },
+    {
+      "type": "film",
+      "slug": "le-tombeur-de-ces-dames",
+      "title": "Le tombeur de ces dames"
+    },
+    {
+      "type": "film",
+      "slug": "te-casse-pas-la-tete-jerry",
+      "title": "Te casse pas la tête Jerry"
+    },
+    {
+      "type": "film",
+      "slug": "trois-sur-un-sofa",
+      "title": "Trois sur un sofa"
+    },
+    {
+      "type": "film",
+      "slug": "un-pitre-au-pensionnat",
+      "title": "Un pitre au pensionnat"
+    },
+    {
+      "type": "film",
+      "slug": "amour-delices-et-golf",
+      "title": "Amour, délices et golf"
+    },
+    {
+      "type": "film",
+      "slug": "artistes-et-modeles",
+      "title": "Artistes et modèles"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

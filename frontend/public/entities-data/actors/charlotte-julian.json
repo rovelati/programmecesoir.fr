@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "charlotte-julian",
+  "name": "Charlotte Julian",
+  "worksCount": 1,
+  "description": "chanteuse, actrice et peintre française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte%20Julian%20le%204%20ao%C3%BBt%202014%20%C3%A0%20Mougins..jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1951-01-12",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2387180",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Charlotte_Julian",
+    "imdb": "nm0432191",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-gaous",
+      "title": "Les Gaous"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e7f40870-2d6a-40b4-9a60-73f060e83d4c",
+      "title": "Les Gaous",
+      "programSlug": "les-gaous",
+      "programUrl": "/programme/gongfr/les-gaous",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-19 23:10:00+00",
+      "endTime": "2026-04-20 01:15:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 23:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

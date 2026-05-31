@@ -1,0 +1,99 @@
+{
+  "type": "actor",
+  "slug": "robert-de-niro",
+  "name": "Robert De Niro",
+  "worksCount": 4,
+  "description": "acteur, producteur et réalisateur de cinéma italo-américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20De%20Niro%20Cannes%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1943-08-17",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q36949",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Robert_De_Niro",
+    "imdb": "nm0000134",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sans-limite",
+      "title": "Sans limite"
+    },
+    {
+      "type": "film",
+      "slug": "heat",
+      "title": "Heat"
+    },
+    {
+      "type": "film",
+      "slug": "the-alto-knights",
+      "title": "The Alto Knights"
+    },
+    {
+      "type": "film",
+      "slug": "voyage-au-bout-de-l-enfer",
+      "title": "Voyage au bout de l'enfer"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e34d82ba-c294-4cdb-95d5-19ce7d48c591",
+      "title": "Voyage au bout de l'enfer",
+      "programSlug": "voyage-au-bout-de-l-enfer",
+      "programUrl": "/programme/cine-festival/voyage-au-bout-de-l-enfer",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-20 13:10:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bbc5860c-c08f-4226-9760-9f6b92c55163",
+      "title": "Sans limite",
+      "programSlug": "sans-limite",
+      "programUrl": "/programme/eurochannel/sans-limite",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 15:20:00+00",
+      "endTime": "2026-04-20 17:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "529b0477-b04e-47e0-8e2a-34f67339845d",
+      "title": "The Alto Knights",
+      "programSlug": "the-alto-knights",
+      "programUrl": "/programme/canal-box-office/the-alto-knights",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 11:49:00+00",
+      "endTime": "2026-04-22 13:48:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7e80775a-9aa1-4760-9e75-a3b0e5a11fa0",
+      "title": "Sans limite",
+      "programSlug": "sans-limite",
+      "programUrl": "/programme/eurochannel/sans-limite",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 05:25:00+00",
+      "endTime": "2026-04-26 07:10:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 13:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,179 @@
+{
+  "type": "film",
+  "slug": "the-green-hornet",
+  "title": "The Green Hornet",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "The Green Hornet"
+  ],
+  "genres": [
+    "buddy movie",
+    "comédie",
+    "film de super-héros",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "film ou téléfilm criminel",
+    "film et téléfilm de fantasy"
+  ],
+  "description": "Britt Reid est le fils du directeur d'un journal de Los Angeles. Lorsque son père meurt mystérieusement, Britt, qui ne pensait qu'à faire la fête, se retrouve à la tête du puissant empire familial. Avec l'aide d'un ami, Britt décide de combattre le crime sous l'identité d'un super-héros : le Frelon Vert...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Green%20Hornet%20car.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6cfc5d38-bd20-440e-a7f2-48a84d8f9c38",
+      "title": "The Green Hornet",
+      "programSlug": "the-green-hornet",
+      "programUrl": "/programme/canal-grand-ecran/the-green-hornet",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 05:49:00+00",
+      "endTime": "2026-04-19 07:44:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dc886d28-659d-41b0-bfd0-fd1759fb6405",
+      "title": "The Green Hornet",
+      "programSlug": "the-green-hornet",
+      "programUrl": "/programme/canal-grand-ecran/the-green-hornet",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 10:24:00+00",
+      "endTime": "2026-04-25 12:20:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "a8928c3f-7b1f-4cdf-a651-df0b7c197dbe",
+      "title": "The Green Hornet",
+      "programSlug": "the-green-hornet",
+      "programUrl": "/programme/cine-frisson/the-green-hornet",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-26 05:33:00+00",
+      "endTime": "2026-04-26 07:30:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2011,
+  "durationMinutes": 119,
+  "cast": [
+    {
+      "qid": "Q220308",
+      "slug": "seth-rogen",
+      "name": "Seth Rogen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q76819",
+      "slug": "christoph-waltz",
+      "name": "Christoph Waltz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44380",
+      "slug": "cameron-diaz",
+      "name": "Cameron Diaz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q211415",
+      "slug": "edward-james-olmos",
+      "name": "Edward James Olmos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q391359",
+      "slug": "david-harbour",
+      "name": "David Harbour",
+      "role": "actor"
+    },
+    {
+      "qid": "Q211322",
+      "slug": "tom-wilkinson",
+      "name": "Tom Wilkinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238843",
+      "slug": "lio-tipton",
+      "name": "Lio Tipton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309631",
+      "slug": "edward-furlong",
+      "name": "Edward Furlong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q306403",
+      "slug": "james-franco",
+      "name": "James Franco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238819",
+      "slug": "jay-chou",
+      "name": "Jay Chou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q572618",
+      "slug": "chad-coleman",
+      "name": "Chad Coleman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q587641",
+      "slug": "jamie-harris",
+      "name": "Jamie Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q794378",
+      "slug": "robert-clotworthy",
+      "name": "Robert Clotworthy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q288123",
+      "slug": "taylor-cole",
+      "name": "Taylor Cole",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q126098",
+    "slug": "michel-gondry",
+    "name": "Michel Gondry",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 05:49:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

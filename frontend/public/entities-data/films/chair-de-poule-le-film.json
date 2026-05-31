@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "chair-de-poule-le-film",
+  "title": "Chair de poule : le film",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Chair de poule : le film"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Zach emménage dans la petite ville de Madison avec sa mère et fait la rencontre de sa voisine qui n'est autre que la fille du célèbre R. L. Stine, l'auteur des récits d'épouvante «Chair de poule». Mais un soir, Zach libère malgré lui les créatures monstrueuses que Stine gardait prisonniers dans ses oeuvres...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

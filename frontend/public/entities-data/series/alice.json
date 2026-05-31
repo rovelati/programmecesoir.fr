@@ -1,0 +1,185 @@
+{
+  "type": "series",
+  "slug": "alice",
+  "title": "Alice",
+  "airingsCount": 17,
+  "sourceTitles": [
+    "Alice"
+  ],
+  "genres": [
+    "sitcom"
+  ],
+  "description": "Dans une ville marquée par une série de meurtres mystérieux, l'inspecteur Hugo (Andréia Horta) se lance dans une enquête désespérée pour démasquer le tueur. Au fil de ses investigations, il découvre une bande énigmatique de voyageurs temporels, chacun avec des compétences et des histoires uniques. Parmi eux, se trouve Alice, une professeure charismatique (Carla Ribas) qui semble être le sosie de sa défunte mère, ce qui ravive chez lui des souvenirs enfouis et des émotions contradictoires. Alors que les meurtres continuent de semer la panique, Hugo doit jongler entre son devoir de policier et ses sentiments complexes envers Alice, qui l'entraîne dans des aventures à travers le temps. Ensemble, ils explorent des époques différentes, tentant de percer les secrets du passé qui pourraient bien être la clé pour stopper le tueur. Dans cette quête, la frontière entre réalité et fiction s'amincit, révélant des vérités insoupçonnées.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waitress%20cast%20Alice%201976.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/gongfr.svg",
+      "airingsCount": 17
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bf89b01f-e5d2-4cf3-a409-3480479227b3",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-19 14:55:00+00",
+      "endTime": "2026-04-19 16:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9f02ccb1-2b45-4b59-a6ba-546ceaf6fb15",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-20 14:55:00+00",
+      "endTime": "2026-04-20 16:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7d56100a-1bb0-43a5-a6f5-5c2fa1b113a5",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-21 14:55:00+00",
+      "endTime": "2026-04-21 16:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "632c0181-dc5a-407f-8c98-549511341ae1",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-22 14:55:00+00",
+      "endTime": "2026-04-22 16:10:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "567e4b45-54ff-430c-bf14-33e0aa0aa1ac",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-23 14:55:00+00",
+      "endTime": "2026-04-23 16:10:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "48071026-d2c5-4ac8-8a46-090c9bf2075c",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-24 14:55:00+00",
+      "endTime": "2026-04-24 16:10:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "3b5562f3-9d8e-4459-aea0-ef30081d9735",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-25 14:55:00+00",
+      "endTime": "2026-04-25 16:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1976,
+  "numberOfSeasons": 9,
+  "cast": [
+    {
+      "qid": "Q468443",
+      "slug": "linda-lavin",
+      "name": "Linda Lavin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1424403",
+      "slug": "vic-tayback",
+      "name": "Vic Tayback",
+      "role": "actor"
+    },
+    {
+      "qid": "Q434809",
+      "slug": "beth-howland",
+      "name": "Beth Howland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3901468",
+      "slug": "philip-mckeon",
+      "name": "Philip McKeon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289743",
+      "slug": "polly-holliday",
+      "name": "Polly Holliday",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234080",
+      "slug": "diane-ladd",
+      "name": "Diane Ladd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289931",
+      "slug": "celia-weston",
+      "name": "Celia Weston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2957680",
+      "slug": "charles-levin",
+      "name": "Charles Levin",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q2157280",
+    "slug": "robert-getchell",
+    "name": "Robert Getchell",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 14:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,102 @@
+{
+  "type": "film",
+  "slug": "kraven-the-hunter",
+  "title": "Kraven the Hunter",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Kraven the Hunter"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action"
+  ],
+  "description": "Le fils d'un puissant trafiquant de drogue tente de retrouver la trace de son frère, kidnappé par les hommes de main d'un concurrent de leur père.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7752c2d-8827-443c-9054-c9fc5642a8b9",
+      "title": "Kraven the Hunter",
+      "programSlug": "kraven-the-hunter",
+      "programUrl": "/programme/canal-box-office/kraven-the-hunter",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 09:10:00+00",
+      "endTime": "2026-04-19 11:14:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 127,
+  "cast": [
+    {
+      "qid": "Q45923",
+      "slug": "aaron-taylor-johnson",
+      "name": "Aaron Taylor-Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5111829",
+      "slug": "christopher-abbott",
+      "name": "Christopher Abbott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350424",
+      "slug": "alessandro-nivola",
+      "name": "Alessandro Nivola",
+      "role": "actor"
+    },
+    {
+      "qid": "Q129817",
+      "slug": "russell-crowe",
+      "name": "Russell Crowe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104902570",
+      "slug": "fred-hechinger",
+      "name": "Fred Hechinger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27733932",
+      "slug": "ariana-debose",
+      "name": "Ariana DeBose",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1676295",
+    "slug": "j-c-chandor",
+    "name": "J. C. Chandor",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 09:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

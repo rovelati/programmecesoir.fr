@@ -1,0 +1,61 @@
+{
+  "type": "film",
+  "slug": "falcon-express",
+  "title": "Falcon Express",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Falcon Express"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "comédie"
+  ],
+  "description": "Une alarme retentit au moment où un train s'apprête à quitter les quais de la gare. Tous les voyageurs évacuent, à l'exception de leurs animaux de compagnie qui n'ont pas le temps de sortir avant que la machine démarre de manière imprévue. Stupéfaits, ces derniers découvrent que le train est tombé sous le contrôle de Hans, un blaireau rancunier qui veut se venger de Rex, le chien policier qui l'avait envoyé en prison des années plus tôt. Alors que le train est lancé à pleine vitesse, les animaux ne peuvent compter que sur Falcon, un raton-laveur filou et débrouillard, prêt à tout pour les sauver...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q135923053",
+    "slug": "benoit-daffis",
+    "name": "Benoît Daffis",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

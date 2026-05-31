@@ -1,0 +1,118 @@
+{
+  "type": "actor",
+  "slug": "francois-levantal",
+  "name": "François Levantal",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Levantal%2C%202014%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-10-14",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q658664",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Levantal",
+    "imdb": "nm0505159",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "raid-dingue",
+      "title": "Raid dingue"
+    },
+    {
+      "type": "film",
+      "slug": "la-haine",
+      "title": "La haine"
+    },
+    {
+      "type": "series",
+      "slug": "la-petite-histoire-de-france",
+      "title": "La petite histoire de France"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6d6bede7-8bab-4ed4-8650-d99239270d71",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-19 14:30:00+00",
+      "endTime": "2026-04-19 19:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e419f7ba-5d34-4c12-a31c-0d7416d4294c",
+      "title": "La haine",
+      "programSlug": "la-haine",
+      "programUrl": "/programme/cine-frisson/la-haine",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 03:12:00+00",
+      "endTime": "2026-04-23 04:47:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6e5831e2-3e06-474b-8a69-e932d89c80ea",
+      "title": "La haine",
+      "programSlug": "la-haine",
+      "programUrl": "/programme/cine-frisson/la-haine",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 02:51:00+00",
+      "endTime": "2026-04-25 04:26:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "39caf4e1-2a54-4cd5-8585-1dc1a219c7e5",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 15:30:00+00",
+      "endTime": "2026-04-25 19:10:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c3b376a3-01cb-477b-9fe3-201dfb622f95",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 19:10:00+00",
+      "endTime": "2026-04-25 21:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f2b90d4b-4f33-4e05-9ae2-a68593db72df",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 21:00:00+00",
+      "endTime": "2026-04-25 22:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 14:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

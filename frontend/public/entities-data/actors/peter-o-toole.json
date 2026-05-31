@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "peter-o-toole",
+  "name": "Peter O'Toole",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20O'Toole%20-%201968.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1932-08-02",
+  "nationality": "Irlande",
+  "jobTitle": "acteur ou actrice de voix-off",
+  "externalIds": {
+    "wikidata": "Q103876",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Peter_O'Toole",
+    "imdb": "nm0000564",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "comment-voler-un-million-de-dollars",
+      "title": "Comment voler un million de dollars"
+    },
+    {
+      "type": "film",
+      "slug": "supergirl",
+      "title": "Supergirl"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

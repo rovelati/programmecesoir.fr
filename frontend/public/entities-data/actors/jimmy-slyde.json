@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jimmy-slyde",
+  "name": "Jimmy Slyde",
+  "worksCount": 1,
+  "description": "danseur de claquettes américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jimmy%20Slyde%201977.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1927-10-02",
+  "nationality": "États-Unis",
+  "jobTitle": "danseur ou danseuse",
+  "externalIds": {
+    "wikidata": "Q3179126",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jimmy_Slyde",
+    "imdb": "nm0806348",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "tap-dance",
+      "title": "Tap Dance"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,105 @@
+{
+  "type": "actor",
+  "slug": "philippe-duquesne",
+  "name": "Philippe Duquesne",
+  "worksCount": 5,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Duquesne%202013%20(cropped00).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-00-00",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3379789",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Philippe_Duquesne",
+    "imdb": "nm0243620",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "par-amour",
+      "title": "Par amour"
+    },
+    {
+      "type": "film",
+      "slug": "les-femmes-du-6e-etage",
+      "title": "Les femmes du 6e étage"
+    },
+    {
+      "type": "film",
+      "slug": "9-mois-ferme",
+      "title": "9 mois ferme"
+    },
+    {
+      "type": "film",
+      "slug": "30-jours-max",
+      "title": "30 jours max"
+    },
+    {
+      "type": "series",
+      "slug": "la-petite-histoire-de-france",
+      "title": "La petite histoire de France"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6d6bede7-8bab-4ed4-8650-d99239270d71",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-19 14:30:00+00",
+      "endTime": "2026-04-19 19:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "39caf4e1-2a54-4cd5-8585-1dc1a219c7e5",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 15:30:00+00",
+      "endTime": "2026-04-25 19:10:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c3b376a3-01cb-477b-9fe3-201dfb622f95",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 19:10:00+00",
+      "endTime": "2026-04-25 21:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f2b90d4b-4f33-4e05-9ae2-a68593db72df",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 21:00:00+00",
+      "endTime": "2026-04-25 22:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 14:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "randy-travis",
+  "name": "Randy Travis",
+  "worksCount": 1,
+  "description": "chanteur et guitariste de folk et de country",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Randy%20Travis%202007.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1959-05-04",
+  "nationality": "États-Unis",
+  "jobTitle": "musicien ou musicienne",
+  "externalIds": {
+    "wikidata": "Q467519",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Randy_Travis",
+    "imdb": "nm0871430",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "black-dog",
+      "title": "Black Dog"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ea354af-4791-4d1b-a3ef-169406106784",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/paramount-channel/black-dog",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 06:15:00+00",
+      "endTime": "2026-04-23 08:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "60883db3-f1de-40b2-8b55-5895b2b42e5f",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/canal-cinema/black-dog",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 06:18:00+00",
+      "endTime": "2026-04-23 08:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "a6588f05-4159-4a24-bd71-e123ae94efac",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/canal-box-office/black-dog",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 15:02:00+00",
+      "endTime": "2026-04-24 16:49:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 06:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

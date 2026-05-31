@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "jeremy-spenser",
+  "name": "Jeremy Spenser",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1937-07-16",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q6181907",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Spenser",
+    "imdb": "nm0818215",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "vacances-a-venise",
+      "title": "Vacances à Venise"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b0aafbb-558f-4846-b94c-231169d3f063",
+      "title": "Vacances à Venise",
+      "programSlug": "vacances-a-venise",
+      "programUrl": "/programme/tcm-cinema/vacances-a-venise",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-25 13:30:00+00",
+      "endTime": "2026-04-25 15:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 13:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

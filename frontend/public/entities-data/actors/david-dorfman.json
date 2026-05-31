@@ -1,0 +1,97 @@
+{
+  "type": "actor",
+  "slug": "david-dorfman",
+  "name": "David Dorfman",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1993-02-07",
+  "nationality": "États-Unis",
+  "jobTitle": "scénariste",
+  "externalIds": {
+    "wikidata": "Q708444",
+    "wikipedia": "https://fr.wikipedia.org/wiki/David_Dorfman",
+    "imdb": "nm0233562",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-cercle",
+      "title": "Le cercle"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "40b7b691-2684-411f-ad94-e346b481ab44",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-cinema/le-cercle",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 18:14:00+00",
+      "endTime": "2026-04-20 19:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "6ed8c2c9-45c4-44bb-86e6-382272272592",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-grand-ecran/le-cercle",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-21 16:44:00+00",
+      "endTime": "2026-04-21 17:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1598a386-611c-48c9-acb8-867df420a180",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal/le-cercle",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 03:47:00+00",
+      "endTime": "2026-04-22 04:33:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "4c7b6975-db58-4949-9ea2-154bf8e9303e",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-cinema/le-cercle",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 14:55:00+00",
+      "endTime": "2026-04-22 15:41:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9635e81b-bbdb-4c02-b9ff-dd9fe8aae997",
+      "title": "Le cercle",
+      "programSlug": "le-cercle",
+      "programUrl": "/programme/canal-cinema/le-cercle",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 05:32:00+00",
+      "endTime": "2026-04-23 06:18:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 18:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

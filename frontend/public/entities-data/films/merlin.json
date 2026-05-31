@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "merlin",
+  "title": "Merlin",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Merlin"
+  ],
+  "genres": [
+    "Telefilms"
+  ],
+  "description": "Merlin, qui file le parfait amour avec la fée Viviane, a perdu tous ses pouvoirs. Las de vivre sans magie, il se confie à Kantor, qui lui laisse entrevoir une solution. C'est alors que Morgane et Vortigern parviennent à s'extraire de la prison de boue dans laquelle Viviane et Merlin les avaient enfermés...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "channelNumber": 18,
+      "logoUrl": "/loghi/gulli.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

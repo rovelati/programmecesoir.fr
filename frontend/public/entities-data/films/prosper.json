@@ -1,0 +1,84 @@
+{
+  "type": "film",
+  "slug": "prosper",
+  "title": "Prosper",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Prosper"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Prosper, un chauffeur de VTC, prend en charge un passager dans un état critique : un homme gravement blessé par balle, sur le point de mourir. Pris de panique, Prosper décide de se débarrasser rapidement du cadavre après avoir pris soin de lui subtiliser sa paire de précieuses bottines en croco. En les enfilant, Prosper se retrouve habité par l'esprit du défunt : King, un gangster respecté dans le milieu et redouté de tous. Partagé entre ces deux personnalités radicalement opposées, Prosper et King, désormais liés dans un même corps, unissent leurs forces pour mener l'enquête et démasquer l'assassin du défunt...",
+  "descriptionAi": "Ce film mêle habilement comédie noire et thriller urbain, baignant dans une ambiance tendue et absurde. L'intrigue repose sur un concept original : un chauffeur VTC ordinaire se retrouve possédé par l'esprit d'un gangster après lui avoir volé ses bottines. Le duel psychologique et la cohabitation forcée entre les deux personnalités, contraintes de collaborer pour résoudre un meurtre, offrent un mélange savoureux d'humour et de suspense. Le téléspectateur est entraîné dans une enquête pleine de rebondissements, portée par un duo improbable aux réactions imprévisibles. Une histoire de possession décalée et de rédemption inattendue, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "70a43cad-a38d-44bf-9ea2-921018c05d58",
+      "title": "Prosper",
+      "programSlug": "prosper",
+      "programUrl": "/programme/canal-box-office/prosper",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 09:30:00+00",
+      "endTime": "2026-04-20 11:01:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q17711245",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Prosper_(pr%C3%A9nom)",
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:34:25.673Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 09:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

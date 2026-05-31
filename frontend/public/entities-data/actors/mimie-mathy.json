@@ -1,0 +1,186 @@
+{
+  "type": "actor",
+  "slug": "mimie-mathy",
+  "name": "Mimie Mathy",
+  "worksCount": 2,
+  "description": "comédienne française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mimie%20Mathy%20Cannes.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1957-07-08",
+  "nationality": "France",
+  "jobTitle": "humoriste",
+  "externalIds": {
+    "wikidata": "Q3314618",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mimie_Mathy",
+    "imdb": "nm0559008",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-prix-de-la-verite",
+      "title": "Le prix de la vérité"
+    },
+    {
+      "type": "series",
+      "slug": "josephine-ange-gardien",
+      "title": "Joséphine, ange gardien"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6dbb4114-7d6c-46a6-94b4-9be2f6c5d90a",
+      "title": "Joséphine, ange gardien",
+      "programSlug": "josephine-ange-gardien",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 06:50:00+00",
+      "endTime": "2026-04-19 08:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b0a1e9fc-1b4b-45c5-ac60-0f00b8e5bd5f",
+      "title": "Joséphine, ange gardien",
+      "programSlug": "josephine-ange-gardien",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 08:15:00+00",
+      "endTime": "2026-04-19 09:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "59365ce7-be5f-451b-b013-e1936b9f011f",
+      "title": "Joséphine, ange gardien",
+      "programSlug": "josephine-ange-gardien",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 09:50:00+00",
+      "endTime": "2026-04-19 11:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "010b4f99-4b94-4fa1-b43e-9d89d438d699",
+      "title": "Joséphine, ange gardien - Saison 16",
+      "programSlug": "josephine-ange-gardien-saison-16",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien-saison-16",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-20 04:30:00+00",
+      "endTime": "2026-04-20 06:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e6010379-da5b-4e44-8ea1-7280b1c5a82b",
+      "title": "Joséphine, ange gardien - Saison 15",
+      "programSlug": "josephine-ange-gardien-saison-15",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien-saison-15",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-20 06:00:00+00",
+      "endTime": "2026-04-20 07:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "594be912-4361-4491-a5ec-1a6bd70c4f33",
+      "title": "Joséphine, ange gardien - Saison 15",
+      "programSlug": "josephine-ange-gardien-saison-15",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien-saison-15",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-21 04:30:00+00",
+      "endTime": "2026-04-21 06:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ddaa7b07-448d-4726-aed9-b07b8c0b91bd",
+      "title": "Joséphine, ange gardien - Saison 16",
+      "programSlug": "josephine-ange-gardien-saison-16",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien-saison-16",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-21 06:00:00+00",
+      "endTime": "2026-04-21 07:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a2fc0182-a952-4435-b7d1-3d53a5bb7dac",
+      "title": "Joséphine, ange gardien - Saison 16",
+      "programSlug": "josephine-ange-gardien-saison-16",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien-saison-16",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-22 04:30:00+00",
+      "endTime": "2026-04-22 06:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9620cc9b-533a-4f44-bc7b-2f57bb2513ab",
+      "title": "Joséphine, ange gardien - Saison 17",
+      "programSlug": "josephine-ange-gardien-saison-17",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien-saison-17",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-22 06:00:00+00",
+      "endTime": "2026-04-22 07:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c664cbe7-094e-4a29-8465-ca06f56fd996",
+      "title": "Joséphine, ange gardien - Saison 16",
+      "programSlug": "josephine-ange-gardien-saison-16",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien-saison-16",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-23 04:30:00+00",
+      "endTime": "2026-04-23 06:00:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "e514fc9a-4054-46eb-a45c-52bd2e1dac60",
+      "title": "Joséphine, ange gardien - Saison 16",
+      "programSlug": "josephine-ange-gardien-saison-16",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien-saison-16",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-23 06:00:00+00",
+      "endTime": "2026-04-23 07:40:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "55a08606-8477-427d-a920-0c6ccfb770eb",
+      "title": "Joséphine, ange gardien - Saison 17",
+      "programSlug": "josephine-ange-gardien-saison-17",
+      "programUrl": "/programme/serie-club/josephine-ange-gardien-saison-17",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-24 04:30:00+00",
+      "endTime": "2026-04-24 06:00:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 06:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

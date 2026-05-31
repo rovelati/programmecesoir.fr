@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "maria-gamez",
+  "name": "María Gámez",
+  "worksCount": 1,
+  "description": "actrice argentine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1917-12-16%2C%20La%20Novela%20Teatral%2C%20Mar%C3%ADa%20G%C3%A1mez%2C%20Tovar.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1897-01-01",
+  "nationality": "Espagne",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q6003884",
+    "wikipedia": null,
+    "imdb": "nm0350650",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "the-yacht",
+      "title": "The Yacht"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

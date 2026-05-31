@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "selena-gomez",
+  "name": "Selena Gomez",
+  "worksCount": 1,
+  "description": "chanteuse et actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Selena%20Gomez%20at%20the%202024%20Toronto%20International%20Film%20Festival%2010%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1992-07-22",
+  "nationality": "États-Unis",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q83287",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Selena_Gomez",
+    "imdb": "nm1411125",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "waverly-place-les-nouveaux-sorciers",
+      "title": "Waverly Place : les nouveaux sorciers"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3241e5a7-e03b-43c6-9ff2-9d519ed5ac70",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disney-channel/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 13:35:00+00",
+      "endTime": "2026-04-19 13:59:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5614739b-216b-4588-b06b-22240488fd3d",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disney-junior/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 13:35:00+00",
+      "endTime": "2026-04-19 13:59:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fae2ad49-9cb0-4507-aef4-24fca768d007",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disneychannelplus1/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 14:35:00+00",
+      "endTime": "2026-04-19 15:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b6a404b7-04a7-40f0-96e4-ad643451d8d3",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disney-channel/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 20:19:00+00",
+      "endTime": "2026-04-19 20:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "eb0ac0be-26e3-4cae-8e2f-92b3c80b99db",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disney-junior/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 20:19:00+00",
+      "endTime": "2026-04-19 20:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "22108a8f-1396-4336-afc8-058f4ded7be8",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disneychannelplus1/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 21:20:00+00",
+      "endTime": "2026-04-19 21:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "199cbeb5-5657-4e83-9a1e-e27043a4e868",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disney-channel/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 20:20:00+00",
+      "endTime": "2026-04-20 20:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0d97ab11-85fe-48cc-9ba7-34bf51a8320b",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disneychannelplus1/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 21:20:00+00",
+      "endTime": "2026-04-20 21:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "10ae3116-a5d2-49cb-83cd-d7efe47c03a8",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disney-channel/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-21 20:20:00+00",
+      "endTime": "2026-04-21 20:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2d7e0b9b-20c7-42b0-bd38-cb2187c92dc6",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disneychannelplus1/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-21 21:20:00+00",
+      "endTime": "2026-04-21 21:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "cc0f0e54-5a85-4b39-b5f3-db6c4441185a",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disney-channel/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-22 20:20:00+00",
+      "endTime": "2026-04-22 20:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e4b032e1-6b86-4721-8f0c-307f8a95cd48",
+      "title": "Waverly Place : les nouveaux sorciers",
+      "programSlug": "waverly-place-les-nouveaux-sorciers",
+      "programUrl": "/programme/disneychannelplus1/waverly-place-les-nouveaux-sorciers",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-22 21:20:00+00",
+      "endTime": "2026-04-22 21:45:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 13:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "carmen-maura",
+  "name": "Carmen Maura",
+  "worksCount": 1,
+  "description": "actrice espagnole",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/(Carmen%20Maura)%20Entrega%20de%20la%20Medalla%20internacional%20de%20las%20Artes%20de%20la%20Comunidad%20de%20Madrid%20a%20Carmen%20Maura%20(33552184358)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1945-09-15",
+  "nationality": "Espagne",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q234807",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Carmen_Maura",
+    "imdb": "nm0560962",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-femmes-du-6e-etage",
+      "title": "Les femmes du 6e étage"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

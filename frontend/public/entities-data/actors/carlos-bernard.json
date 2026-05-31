@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "carlos-bernard",
+  "name": "Carlos Bernard",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Bernard%202014%20(14213284332).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-10-12",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q313793",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Carlos_Bernard",
+    "imdb": "nm0076167",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "magnitude-10-5-l-apocalypse",
+      "title": "Magnitude 10,5 : l'apocalypse"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "89c6e163-8ff4-4073-9c15-31a752e5bf64",
+      "title": "Magnitude 10,5 : l'apocalypse",
+      "programSlug": "magnitude-10-5-l-apocalypse",
+      "programUrl": "/programme/6ter/magnitude-10-5-l-apocalypse",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 21:20:00+00",
+      "endTime": "2026-04-19 22:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4c03cc5c-7645-434f-9aa4-bfae922cd05b",
+      "title": "Magnitude 10,5 : l'apocalypse",
+      "programSlug": "magnitude-10-5-l-apocalypse",
+      "programUrl": "/programme/6ter/magnitude-10-5-l-apocalypse",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 22:50:00+00",
+      "endTime": "2026-04-20 00:30:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 21:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

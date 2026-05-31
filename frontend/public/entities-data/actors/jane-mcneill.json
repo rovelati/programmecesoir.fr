@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jane-mcneill",
+  "name": "Jane McNeill",
+  "worksCount": 1,
+  "description": "actrice américaine née en 1966",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-06-21",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q6152556",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jane_McNeill",
+    "imdb": "nm4435266",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "magic-mike-xxl",
+      "title": "Magic Mike XXL"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

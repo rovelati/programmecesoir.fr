@@ -1,0 +1,114 @@
+{
+  "type": "film",
+  "slug": "la-dame-de-shanghai",
+  "title": "La dame de Shanghai",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La dame de Shanghai"
+  ],
+  "genres": [
+    "drame",
+    "film noir",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Michael O'Hara, un marin irlandais, vole au secours d'une jeune femme, Elsa Bannister, agressée par une bande de voyous. Il la raccompagne en calèche. Elle lui propose de l'embaucher sur son yacht, mais il refuse. Le lendemain, Arthur Bannister, le mari d'Elsa, un avocat célèbre et infirme, déambule sur les quais à la recherche de Michael et insiste pour l'engager le temps d'une croisière. Le jeune homme cède. Il embarque sur le yacht des Bannister et devient bientôt l'amant d'Elsa. Leur liaison ne suscite que l'indifférence bienveillante du mari et l'amusement de Grisby, son associé. Un jour, celui-ci fait une offre à Michael. Contre 5000 dollars, le marin devra simuler le meurtre de Grisby. L'avocat, officiellement mort, prendra la poudre d'escampette avec sa prime d'assurance vie...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lady%20from%20Shanghai%20trailer%20hayworth2.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1947,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q42745",
+      "slug": "rita-hayworth",
+      "name": "Rita Hayworth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24829",
+      "slug": "orson-welles",
+      "name": "Orson Welles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q600233",
+      "slug": "everett-sloane",
+      "name": "Everett Sloane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q472425",
+      "slug": "glenn-anders",
+      "name": "Glenn Anders",
+      "role": "actor"
+    },
+    {
+      "qid": "Q472418",
+      "slug": "ted-de-corsia",
+      "name": "Ted de Corsia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3057498",
+      "slug": "erskine-sanford",
+      "name": "Erskine Sanford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1387120",
+      "slug": "gus-schilling",
+      "name": "Gus Schilling",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3127914",
+      "slug": "harry-shannon",
+      "name": "Harry Shannon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15999109",
+      "slug": "evelyn-ellis",
+      "name": "Evelyn Ellis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2464819",
+      "slug": "philip-van-zandt",
+      "name": "Philip Van Zandt",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q24829",
+    "slug": "orson-welles",
+    "name": "Orson Welles",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

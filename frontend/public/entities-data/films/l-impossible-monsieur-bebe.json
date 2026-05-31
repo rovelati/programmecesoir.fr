@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "l-impossible-monsieur-bebe",
+  "title": "L'impossible monsieur Bébé",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "L'impossible monsieur Bébé"
+  ],
+  "genres": [
+    "comédie romantique",
+    "Screwball comedy"
+  ],
+  "description": "David Huxley, un paléontologue, s'apprête à épouser Alice Swallow, son assistante, une femme froide et peu amène. Il lui faut auparavant terminer un travail commandé par le musée Stuyvesant, la reconstitution du squelette d'un gigantesque brontosaure. Il est sur le point d'achever sa tâche lorsque Susan Vance, une héritière écervelée et impétueuse rencontrée au golf, vient bouleverser sa vie. Susan, pétulante miss catastrophe, a pour animal de compagnie un léopard, joliment prénommé Bébé. C'est le début d'un scénario apocalyptique pour David. Bébé ne trouve en effet rien de mieux à faire que de s'emparer de la clavicule du brontosaure...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BabyPoster2.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ae83289f-35be-444e-aa94-ab506a0af994",
+      "title": "L'impossible monsieur Bébé",
+      "programSlug": "l-impossible-monsieur-bebe",
+      "programUrl": "/programme/tcm-cinema/l-impossible-monsieur-bebe",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-19 09:15:00+00",
+      "endTime": "2026-04-19 10:55:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1938,
+  "durationMinutes": 102,
+  "cast": [
+    {
+      "qid": "Q56016",
+      "slug": "katharine-hepburn",
+      "name": "Katharine Hepburn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83410",
+      "slug": "cary-grant",
+      "name": "Cary Grant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q934722",
+      "slug": "charles-ruggles",
+      "name": "Charles Ruggles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2121085",
+      "slug": "walter-catlett",
+      "name": "Walter Catlett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q259600",
+      "slug": "may-robson",
+      "name": "May Robson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q69645",
+      "slug": "fritz-feld",
+      "name": "Fritz Feld",
+      "role": "actor"
+    },
+    {
+      "qid": "Q290666",
+      "slug": "barry-fitzgerald",
+      "name": "Barry Fitzgerald",
+      "role": "actor"
+    },
+    {
+      "qid": "Q85689",
+      "slug": "tala-birell",
+      "name": "Tala Birell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q530562",
+      "slug": "billy-bevan",
+      "name": "Billy Bevan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1280760",
+      "slug": "ward-bond",
+      "name": "Ward Bond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6819212",
+      "slug": "skippy",
+      "name": "Skippy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q152941",
+      "slug": "george-irving",
+      "name": "George Irving",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1393256",
+      "slug": "jack-carson",
+      "name": "Jack Carson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21664612",
+      "slug": "john-kelly",
+      "name": "John Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1767677",
+      "slug": "leona-roberts",
+      "name": "Leona Roberts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1210022",
+      "slug": "dickie-moore",
+      "name": "Dickie Moore",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51581",
+    "slug": "howard-hawks",
+    "name": "Howard Hawks",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 09:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

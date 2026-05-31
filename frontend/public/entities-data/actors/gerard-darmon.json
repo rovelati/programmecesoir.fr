@@ -1,0 +1,99 @@
+{
+  "type": "actor",
+  "slug": "gerard-darmon",
+  "name": "Gérard Darmon",
+  "worksCount": 4,
+  "description": "acteur et chanteur franco-algéro-marocain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Delanoe%20Zenith%202008%2002%2027%20n22.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1948-02-29",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q958831",
+    "wikipedia": "https://fr.wikipedia.org/wiki/G%C3%A9rard_Darmon",
+    "imdb": "nm0201462",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-cite-de-la-peur",
+      "title": "La cité de la peur"
+    },
+    {
+      "type": "film",
+      "slug": "3-zeros",
+      "title": "3 zéros"
+    },
+    {
+      "type": "film",
+      "slug": "37-2-le-matin",
+      "title": "37°2 le matin"
+    },
+    {
+      "type": "film",
+      "slug": "aimons-nous-vivants",
+      "title": "Aimons-nous vivants"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42611a44-ab50-4e94-98a2-182319fa2b6a",
+      "title": "La cité de la peur",
+      "programSlug": "la-cite-de-la-peur",
+      "programUrl": "/programme/canal-grand-ecran/la-cite-de-la-peur",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 07:57:00+00",
+      "endTime": "2026-04-22 09:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ff31e0ed-dd74-4d0a-b230-1f276cc231cc",
+      "title": "37°2 le matin",
+      "programSlug": "37-2-le-matin",
+      "programUrl": "/programme/cine-festival/37-2-le-matin",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 09:04:00+00",
+      "endTime": "2026-04-23 11:03:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "c53dcd94-56f9-4ba7-9d11-feefe81de682",
+      "title": "Aimons-nous vivants",
+      "programSlug": "aimons-nous-vivants",
+      "programUrl": "/programme/canal-box-office/aimons-nous-vivants",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 14:18:00+00",
+      "endTime": "2026-04-23 15:46:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "7d349440-fe84-4dd9-a53a-0fb4085d663d",
+      "title": "3 zéros",
+      "programSlug": "3-zeros",
+      "programUrl": "/programme/cine-family/3-zeros",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 09:41:00+00",
+      "endTime": "2026-04-24 11:17:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-22 07:57:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

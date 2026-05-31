@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "asterix-et-les-indiens",
+  "title": "Astérix et les Indiens",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Astérix et les Indiens"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Jules César ne sait pas comment venir à bout de l'intraitable village gaulois, qui résiste encore et toujours à ses entreprises de conquête. Lucullus, le plus perfide de ses conseillers, imagine d'enlever le druide Panoramix, dont la potion magique explique l'invincibilité des Gaulois, de l'emmener au bout de la Terre, qui est plate, naturellement, puis de le précipiter dans le vide interstellaire. A la faveur d'une dispute dans le village gaulois, Lucullus pense pouvoir mettre son projet à exécution. La marmite de potion ayant été opportunément renversée, Panoramix est obligé d'aller cueillir de nouveaux ingrédients en forêt. Lucullus le kidnappe, s'empare d'Idéfix par la même occasion et cingle vers le large. Astérix et Obélix, qui ont tout vu, se lancent à leur poursuite...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1995,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q16645367",
+    "slug": "jean-pierre-dorat",
+    "name": "Jean-Pierre Dorat",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

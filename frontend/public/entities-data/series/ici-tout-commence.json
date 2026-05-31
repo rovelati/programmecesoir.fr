@@ -1,0 +1,313 @@
+{
+  "type": "series",
+  "slug": "ici-tout-commence",
+  "title": "Ici tout commence",
+  "airingsCount": 85,
+  "sourceTitles": [
+    "Ici tout commence",
+    "Ici tout commence - Saison 6"
+  ],
+  "genres": [
+    "soap opera",
+    "feuilleton télévisé"
+  ],
+  "description": "A l'Institut, le concours d'entrée est marqué par le retour de Louis qui, allié à Teyssier, veut faire tomber un candidat. Anouk, sacrée meilleure cheffe du monde, crée des tensions avec ses méthodes. Stanislas est pris de court, Malik reçoit une offre en or et Lionel souffre du syndrome du nid vide...\n\nRéalisateur(s) : Céline Guerraz, Thierry Peythieu, Jérôme Navarro, Liam Engle, Laurent De Vismes\nActeurs : Benjamin Baroche (Emmanuel Teyssier), Elsa Lunghini (Clotilde Armand-Guéraud), Catherine Marchal (Claire Guinot), Azize Diabaté Abdoulaye (Enzo Lopez), Catherine Davydzenka (Hortense Rochemont), Vanessa Demouy (Rose Latour), Frédéric Diefenthal (Antoine Myriel), Stéphane Blancafort (Marc Leroy)",
+  "descriptionAi": "Ce feuilleton télévisé, un savoureux soap opera, nous plonge dans les passions et les rivalités de l'Institut Auguste Armand, une prestigieuse école hôtelière. L'ambiance, entre tensions dramatiques et intrigues sentimentales, est portée par un casting fourni dont les destins s'entremêlent. Ce qui le rend captivant, c'est l'équilibre entre les défis professionnels exigeants et les secrets personnels explosifs des élèves, des professeurs et de leurs familles, créant un mélange addictif de suspense et d'émotion. Une série riche en rebondissements à suivre sans modération, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "channelNumber": 1,
+      "logoUrl": "/loghi/tf1.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tipik.png",
+      "airingsCount": 13
+    },
+    {
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-une.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-series.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-1.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "06e900d9-e661-465b-963c-a09ab7d3ca49",
+      "title": "Ici tout commence - Saison 6",
+      "programSlug": "ici-tout-commence-saison-6",
+      "programUrl": "/programme/antenne-reunion/ici-tout-commence-saison-6",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 06:20:00+00",
+      "endTime": "2026-04-20 06:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "eef77ca2-d6aa-48b3-afeb-72c3fbced3b4",
+      "title": "Ici tout commence S6 (n°1418)",
+      "programSlug": "ici-tout-commence-s6-n-1418",
+      "programUrl": "/programme/la-une/ici-tout-commence-s6-n-1418",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-20 09:32:00+00",
+      "endTime": "2026-04-20 10:06:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "12c3bfaf-b389-4f3e-8740-0cf5ae74edba",
+      "title": "Ici tout commence S6 (n°1419)",
+      "programSlug": "ici-tout-commence-s6-n-1419",
+      "programUrl": "/programme/la-une/ici-tout-commence-s6-n-1419",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-20 15:17:00+00",
+      "endTime": "2026-04-20 15:49:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bb949431-86e1-4b48-af89-c51afa924425",
+      "title": "Ici tout commence - Saison 6",
+      "programSlug": "ici-tout-commence-saison-6",
+      "programUrl": "/programme/rts-un/ici-tout-commence-saison-6",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-20 15:50:00+00",
+      "endTime": "2026-04-20 16:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4ec6d60b-ea51-4624-987b-fe050ab0cde4",
+      "title": "Ici tout commence - Saison 6",
+      "programSlug": "ici-tout-commence-saison-6",
+      "programUrl": "/programme/tf1/ici-tout-commence-saison-6",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-20 16:30:00+00",
+      "endTime": "2026-04-20 17:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2059257c-ae82-43ce-bd31-7fbf80910ba9",
+      "title": "Ici tout commence",
+      "programSlug": "ici-tout-commence",
+      "programUrl": "/programme/canal-series/ici-tout-commence",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-20 16:30:00+00",
+      "endTime": "2026-04-20 17:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ba5830c1-35ac-4cbf-b5cf-bc58ffb27aaa",
+      "title": "Ici tout commence",
+      "programSlug": "ici-tout-commence",
+      "programUrl": "/programme/tf1-1/ici-tout-commence",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-20 17:30:00+00",
+      "endTime": "2026-04-20 18:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "83a57d3e-9f7b-4394-8dc2-73d944a2022d",
+      "title": "Ici tout commence",
+      "programSlug": "ici-tout-commence",
+      "programUrl": "/programme/la-une/ici-tout-commence",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-21 09:31:00+00",
+      "endTime": "2026-04-21 10:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "52d017c2-d9ca-4d78-8b76-e665b62fd54a",
+      "title": "Ici tout commence",
+      "programSlug": "ici-tout-commence",
+      "programUrl": "/programme/la-une/ici-tout-commence",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-21 15:20:00+00",
+      "endTime": "2026-04-21 15:51:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ad20c382-565b-4c5c-941c-6e9360ca5bce",
+      "title": "Ici tout commence - Saison 6",
+      "programSlug": "ici-tout-commence-saison-6",
+      "programUrl": "/programme/rts-un/ici-tout-commence-saison-6",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-21 15:50:00+00",
+      "endTime": "2026-04-21 16:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d447c827-dac3-4f2c-9ccb-79a89356898d",
+      "title": "Ici tout commence - Saison 6",
+      "programSlug": "ici-tout-commence-saison-6",
+      "programUrl": "/programme/tf1/ici-tout-commence-saison-6",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-21 16:30:00+00",
+      "endTime": "2026-04-21 17:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "29d18fb0-afb2-43f3-a331-276d1ca77d1b",
+      "title": "Ici tout commence",
+      "programSlug": "ici-tout-commence",
+      "programUrl": "/programme/canal-series/ici-tout-commence",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-21 16:30:00+00",
+      "endTime": "2026-04-21 17:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9608d81f-9852-48a4-b102-1c2db15556d2",
+      "title": "Ici tout commence",
+      "programSlug": "ici-tout-commence",
+      "programUrl": "/programme/tf1-1/ici-tout-commence",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-21 17:30:00+00",
+      "endTime": "2026-04-21 18:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9509d3d5-0a4b-4d35-a378-2a374ed14f99",
+      "title": "Ici tout commence",
+      "programSlug": "ici-tout-commence",
+      "programUrl": "/programme/la-une/ici-tout-commence",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-22 09:24:00+00",
+      "endTime": "2026-04-22 09:59:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "5a09e6ca-9fb6-4050-a1cd-8959aa37d301",
+      "title": "Ici tout commence",
+      "programSlug": "ici-tout-commence",
+      "programUrl": "/programme/tipik/ici-tout-commence",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-22 15:17:00+00",
+      "endTime": "2026-04-22 15:48:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "62797dc2-63c0-4545-840c-662459370e46",
+      "title": "Ici tout commence - Saison 6",
+      "programSlug": "ici-tout-commence-saison-6",
+      "programUrl": "/programme/rts-un/ici-tout-commence-saison-6",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-22 15:50:00+00",
+      "endTime": "2026-04-22 16:25:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ad6e4003-6f13-4d3c-9d37-2773e268e63c",
+      "title": "Ici tout commence - Saison 6",
+      "programSlug": "ici-tout-commence-saison-6",
+      "programUrl": "/programme/tf1/ici-tout-commence-saison-6",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 16:30:00+00",
+      "endTime": "2026-04-22 17:10:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c8da2de9-883d-443c-a03d-c5570b020888",
+      "title": "Ici tout commence",
+      "programSlug": "ici-tout-commence",
+      "programUrl": "/programme/canal-series/ici-tout-commence",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 16:30:00+00",
+      "endTime": "2026-04-22 17:10:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T22:08:05.056Z",
+  "startYear": 2020,
+  "numberOfSeasons": 4,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 06:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

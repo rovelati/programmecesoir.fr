@@ -1,0 +1,163 @@
+{
+  "type": "film",
+  "slug": "johnny-english",
+  "title": "Johnny English",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Johnny English"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm d'espionnage",
+    "film ou téléfilm parodique"
+  ],
+  "description": "Quand les services secrets britanniques sont informés qu'un plan machiavélique a été ourdi pour dérober les précieux joyaux de la Couronne, ils placent immédiatement sur l'affaire le meilleur de leurs agents. Mais celui-ci est très rapidement démasqué et tué. Lors de ses funérailles, une bombe explose, décimant tous les agents d'élite de Sa Majesté. Le sort des précieux bijoux est alors remis entre les mains du maladroit Johnny English, employé de bureau au sein des services secrets. Un soir, les joyaux disparaissent, et English traque les malfrats, accompagné de son fidèle coéquipier Bough. Les deux hommes comprennent bientôt qu'ils doivent déjouer un complot d'ampleur mondiale...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny%20English%20Title.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d3845ee2-34da-4935-84ef-15a423b9de99",
+      "title": "Johnny English",
+      "programSlug": "johnny-english",
+      "programUrl": "/programme/cine-family/johnny-english",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 11:13:00+00",
+      "endTime": "2026-04-25 12:39:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2003,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q23760",
+      "slug": "rowan-atkinson",
+      "name": "Rowan Atkinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q816568",
+      "slug": "ben-miller",
+      "name": "Ben Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q172261",
+      "slug": "john-malkovich",
+      "name": "John Malkovich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q488353",
+      "slug": "natalie-imbruglia",
+      "name": "Natalie Imbruglia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q387434",
+      "slug": "greg-wise",
+      "name": "Greg Wise",
+      "role": "actor"
+    },
+    {
+      "qid": "Q335376",
+      "slug": "kevin-mcnally",
+      "name": "Kevin McNally",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3338880",
+      "slug": "neville-phillips",
+      "name": "Neville Phillips",
+      "role": "actor"
+    },
+    {
+      "qid": "Q562973",
+      "slug": "oliver-ford-davies",
+      "name": "Oliver Ford Davies",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2525463",
+      "slug": "tasha-de-vasconcelos",
+      "name": "Tasha de Vasconcelos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1334710",
+      "slug": "tim-pigott-smith",
+      "name": "Tim Pigott-Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271348",
+      "slug": "prunella-scales",
+      "name": "Prunella Scales",
+      "role": "actor"
+    },
+    {
+      "qid": "Q201512",
+      "slug": "steve-nicolson",
+      "name": "Steve Nicolson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19560708",
+      "slug": "terence-harvey",
+      "name": "Terence Harvey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1373590",
+      "slug": "peter-howitt",
+      "name": "Peter Howitt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1753971",
+      "slug": "nina-young",
+      "name": "Nina Young",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11910476",
+      "slug": "james-greene",
+      "name": "James Greene",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1373590",
+    "slug": "peter-howitt",
+    "name": "Peter Howitt",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 11:13:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

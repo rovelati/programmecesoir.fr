@@ -1,0 +1,144 @@
+{
+  "type": "film",
+  "slug": "potiche",
+  "title": "Potiche",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Potiche"
+  ],
+  "genres": [
+    "comédie",
+    "film LGBT"
+  ],
+  "description": "En 1977, Robert Pujol, un riche industriel, est à la tête d'une usine de parapluies. Sa femme, Suzanne, est l'archétype de la bonne épouse. Un soir de rébellion, les salariés de l'usine séquestrent Robert. Suzanne fait alors appel à Maurice Babin, un élu et son ancien amant, pour débloquer la situation...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d398772e-2789-44c1-a7e4-bdaeb0b55895",
+      "title": "Potiche",
+      "programSlug": "potiche",
+      "programUrl": "/programme/cine-emotion/potiche",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-19 22:11:00+00",
+      "endTime": "2026-04-19 23:51:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4e7b44d0-6148-43c6-9df7-0545019e8d12",
+      "title": "Potiche",
+      "programSlug": "potiche",
+      "programUrl": "/programme/cine-emotion/potiche",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-24 08:19:00+00",
+      "endTime": "2026-04-24 09:59:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2010,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q106418",
+      "slug": "catherine-deneuve",
+      "name": "Catherine Deneuve",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106508",
+      "slug": "gerard-depardieu",
+      "name": "Gérard Depardieu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q620118",
+      "slug": "fabrice-luchini",
+      "name": "Fabrice Luchini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271944",
+      "slug": "karin-viard",
+      "name": "Karin Viard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q267542",
+      "slug": "judith-godreche",
+      "name": "Judith Godrèche",
+      "role": "actor"
+    },
+    {
+      "qid": "Q741080",
+      "slug": "jeremie-renier",
+      "name": "Jérémie Renier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q543814",
+      "slug": "sergi-lopez",
+      "name": "Sergi López",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2926866",
+      "slug": "bruno-lochet",
+      "name": "Bruno Lochet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q274761",
+      "slug": "elodie-frege",
+      "name": "Élodie Frégé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3592766",
+      "slug": "evelyne-dandry",
+      "name": "Évelyne Dandry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3164436",
+      "slug": "jean-baptiste-shelmerdine",
+      "name": "Jean-Baptiste Shelmerdine",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q266535",
+    "slug": "francois-ozon",
+    "name": "François Ozon",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 22:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

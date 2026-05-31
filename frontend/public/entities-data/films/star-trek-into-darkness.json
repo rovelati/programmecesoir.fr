@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "star-trek-into-darkness",
+  "title": "Star Trek Into Darkness",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Star Trek Into Darkness"
+  ],
+  "genres": [
+    "film d'action de science-fiction",
+    "film ou téléfilm de science-fiction",
+    "film ou téléfilm d'aventure",
+    "film et téléfilm d'action"
+  ],
+  "description": "Starfleet, l'institution chargée de défendre les frontières de la Fédération des planètes unies, est prise pour cible par un de ses anciens agents, John Harrison. Il multiplie les actions terroristes. Passé du côté ennemi et bien décidé à accomplir sa vengeance, il projette de détruire la flotte en même temps que les valeurs qu'elle représente. A Londres, Harrison s'attaque à un centre névralgique de Starfleet, avant de prendre la fuite. Derrière lui, tout n'est que chaos. A bord de l'\"USS Enterprise\", le capitaine Kirk entame une éprouvante chasse à l'homme aux confins de la galaxie : lui seul peut mettre Harrison hors d'état de nuire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 132,
+  "cast": [
+    {
+      "qid": "Q190162",
+      "slug": "zoe-saldana",
+      "name": "Zoë Saldaña",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312705",
+      "slug": "john-cho",
+      "name": "John Cho",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232786",
+      "slug": "alice-eve",
+      "name": "Alice Eve",
+      "role": "actor"
+    },
+    {
+      "qid": "Q360477",
+      "slug": "peter-weller",
+      "name": "Peter Weller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314133",
+      "slug": "anton-yelchin",
+      "name": "Anton Yelchin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23466",
+      "slug": "chris-pine",
+      "name": "Chris Pine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q139642",
+      "slug": "zachary-quinto",
+      "name": "Zachary Quinto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132430",
+      "slug": "karl-urban",
+      "name": "Karl Urban",
+      "role": "actor"
+    },
+    {
+      "qid": "Q244674",
+      "slug": "benedict-cumberbatch",
+      "name": "Benedict Cumberbatch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238464",
+      "slug": "simon-pegg",
+      "name": "Simon Pegg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q342788",
+      "slug": "bruce-greenwood",
+      "name": "Bruce Greenwood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q665139",
+      "slug": "noel-clarke",
+      "name": "Noel Clarke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238383",
+      "slug": "heather-langenkamp",
+      "name": "Heather Langenkamp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6983534",
+      "slug": "nazneen-contractor",
+      "name": "Nazneen Contractor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16345",
+      "slug": "leonard-nimoy",
+      "name": "Leonard Nimoy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q437799",
+      "slug": "amanda-foreman",
+      "name": "Amanda Foreman",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q188137",
+    "slug": "j-j-abrams",
+    "name": "J. J. Abrams",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

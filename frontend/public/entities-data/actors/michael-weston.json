@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "michael-weston",
+  "name": "Michael Weston",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Weston%20by%20Gage%20Skidmore.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-10-25",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q83677",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michael_Weston",
+    "imdb": "nm0922995",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "pathology",
+      "title": "Pathology"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b3f267e-df53-49d5-a5f8-73f58865d771",
+      "title": "Pathology",
+      "programSlug": "pathology",
+      "programUrl": "/programme/gongfr/pathology",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-21 23:10:00+00",
+      "endTime": "2026-04-22 01:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f3226ed2-fd89-4cc7-a29d-83fa72668ffc",
+      "title": "Pathology",
+      "programSlug": "pathology",
+      "programUrl": "/programme/gongfr/pathology",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-24 23:10:00+00",
+      "endTime": "2026-04-25 01:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 23:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

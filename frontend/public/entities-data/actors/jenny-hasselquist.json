@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "jenny-hasselquist",
+  "name": "Jenny Hasselquist",
+  "worksCount": 1,
+  "description": "danseuse et actrice suédoise (1894–1978)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%20b%20goodwin%209.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1894-07-31",
+  "nationality": "Suède",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q496081",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jenny_Hasselquist",
+    "imdb": "nm0368439",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-epreuve-du-feu",
+      "title": "L'épreuve du feu"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c3e71ded-2d80-45f0-96d2-92a20059bf0d",
+      "title": "L'épreuve du feu",
+      "programSlug": "l-epreuve-du-feu",
+      "programUrl": "/programme/canal/l-epreuve-du-feu",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 00:56:00+00",
+      "endTime": "2026-04-22 02:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "5be1679a-973d-4a68-9106-4244d8e0254c",
+      "title": "L'épreuve du feu",
+      "programSlug": "l-epreuve-du-feu",
+      "programUrl": "/programme/paramount-channel/l-epreuve-du-feu",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 15:45:00+00",
+      "endTime": "2026-04-24 17:30:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "1c4bf802-19cd-4fef-bae6-3efc928b1923",
+      "title": "L'épreuve du feu",
+      "programSlug": "l-epreuve-du-feu",
+      "programUrl": "/programme/canal-cinema/l-epreuve-du-feu",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 15:46:00+00",
+      "endTime": "2026-04-24 17:29:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 00:56:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "la-bete-a-plaisir",
+  "title": "La bête à plaisir",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La bête à plaisir"
+  ],
+  "genres": [
+    "Téléfilm"
+  ],
+  "description": "Devant la frigidité de sa femme, un homme participe à des soirées érotiques. Pendant ce temps, une amie entreprend d'enseigner l'amour à sa femme. A son retour, il retrouve une femme amoureuse qui n'a plus honte de son corps...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

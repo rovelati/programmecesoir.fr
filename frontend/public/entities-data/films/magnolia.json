@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "magnolia",
+  "title": "Magnolia",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Magnolia"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Sur le point de mourir, Earl Partridge, magnat des médias, n'a plus qu'un désir : revoir son fils, Frank Mackey, qu'il a jadis abandonné. Son infirmier, Phil Parma, est chargé de contacter Frank, devenu entretemps une vedette de la télévision et un provocateur de premier plan. De son côté, la belle Linda, qui a épousé Earl pour sa fortune, comprend brutalement à quel point elle s'est attachée à lui. Pour Jimmy Gator, présentateur vedette sur la chaîne de Partridge, l'heure est également aux bilans et aux remises en question. Atteint d'un mal incurable, Jimmy veut absolument obtenir le pardon de sa fille Claudia, dont il a abusé autrefois...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1999,
+  "durationMinutes": 188,
+  "cast": [
+    {
+      "qid": "Q37079",
+      "slug": "tom-cruise",
+      "name": "Tom Cruise",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223110",
+      "slug": "john-c-reilly",
+      "name": "John C. Reilly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q80405",
+      "slug": "julianne-moore",
+      "name": "Julianne Moore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447669",
+      "slug": "philip-baker-hall",
+      "name": "Philip Baker Hall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q180560",
+      "slug": "philip-seymour-hoffman",
+      "name": "Philip Seymour Hoffman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q224159",
+      "slug": "william-h-macy",
+      "name": "William H. Macy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242763",
+      "slug": "melora-walters",
+      "name": "Melora Walters",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296630",
+      "slug": "jason-robards",
+      "name": "Jason Robards",
+      "role": "actor"
+    },
+    {
+      "qid": "Q347395",
+      "slug": "luis-guzman",
+      "name": "Luis Guzmán",
+      "role": "actor"
+    },
+    {
+      "qid": "Q225657",
+      "slug": "henry-gibson",
+      "name": "Henry Gibson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296028",
+      "slug": "alfred-molina",
+      "name": "Alfred Molina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271883",
+      "slug": "melinda-dillon",
+      "name": "Melinda Dillon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q509013",
+      "slug": "april-grace",
+      "name": "April Grace",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1516734",
+      "slug": "ricky-jay",
+      "name": "Ricky Jay",
+      "role": "actor"
+    },
+    {
+      "qid": "Q190519",
+      "slug": "felicity-huffman",
+      "name": "Felicity Huffman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q604762",
+      "slug": "michael-bowen",
+      "name": "Michael Bowen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q25132",
+    "slug": "paul-thomas-anderson",
+    "name": "Paul Thomas Anderson",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,178 @@
+{
+  "type": "series",
+  "slug": "ghosts",
+  "title": "Ghosts",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Ghosts",
+    "Ghosts - Saison 2",
+    "Ghosts - Saison 3"
+  ],
+  "genres": [
+    "sitcom",
+    "série télévisée comique",
+    "série télévisée de fantasy",
+    "série télévisée de science-fiction"
+  ],
+  "description": "Alison passe la soirée avec ses amies et laisse Mike seul avec les fantômes. Des cambrioleurs en profitent pour s'introduire dans la maison et voler tout ce qu'ils ont reçu pour le mariage à venir. En alerte maximale, les fantômes tentent de réveiller Mike et font tout pour joindre Alison et la police…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "channelNumber": null,
+      "logoUrl": "/loghi/serie-club.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1f692365-8678-4d5e-9adb-71b9a9aaa264",
+      "title": "Ghosts - Saison 4",
+      "programSlug": "ghosts-saison-4",
+      "programUrl": "/programme/serie-club/ghosts-saison-4",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-22 22:35:00+00",
+      "endTime": "2026-04-22 23:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "0567f914-30ac-4fc0-a002-b6b55f6361d5",
+      "title": "Ghosts - Saison 4",
+      "programSlug": "ghosts-saison-4",
+      "programUrl": "/programme/serie-club/ghosts-saison-4",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-22 23:05:00+00",
+      "endTime": "2026-04-22 23:40:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "179b75a8-f946-4864-bf02-713bdccb6a4d",
+      "title": "Ghosts - Saison 5",
+      "programSlug": "ghosts-saison-5",
+      "programUrl": "/programme/serie-club/ghosts-saison-5",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-22 23:40:00+00",
+      "endTime": "2026-04-23 00:10:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "e74f21ed-ded6-4fc2-8594-dd2031c6006a",
+      "title": "Ghosts - Saison 5",
+      "programSlug": "ghosts-saison-5",
+      "programUrl": "/programme/serie-club/ghosts-saison-5",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-23 00:10:00+00",
+      "endTime": "2026-04-23 00:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6bb562a7-c930-4823-affb-9107f9574ffd",
+      "title": "Ghosts - Saison 5",
+      "programSlug": "ghosts-saison-5",
+      "programUrl": "/programme/serie-club/ghosts-saison-5",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-23 00:35:00+00",
+      "endTime": "2026-04-23 01:05:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2019,
+  "numberOfSeasons": 5,
+  "cast": [
+    {
+      "qid": "Q7518724",
+      "slug": "simon-farnaby",
+      "name": "Simon Farnaby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6195767",
+      "slug": "jim-howick",
+      "name": "Jim Howick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3298532",
+      "slug": "q3298532",
+      "name": "Q3298532",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6774431",
+      "slug": "martha-howe-douglas",
+      "name": "Martha Howe-Douglas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6500853",
+      "slug": "laurence-rickard",
+      "name": "Laurence Rickard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4886697",
+      "slug": "ben-willbond",
+      "name": "Ben Willbond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q63974254",
+      "slug": "kiell-smith-bynoe",
+      "name": "Kiell Smith-Bynoe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5086117",
+      "slug": "charlotte-ritchie",
+      "name": "Charlotte Ritchie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27505523",
+      "slug": "lolly-adefope",
+      "name": "Lolly Adefope",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6378533",
+      "slug": "katy-wix",
+      "name": "Katy Wix",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q3298532",
+    "slug": "q3298532",
+    "name": "Q3298532",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-22 22:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

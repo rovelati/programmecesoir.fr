@@ -1,0 +1,379 @@
+{
+  "type": "series",
+  "slug": "big-bang-theory",
+  "title": "Big Bang Theory",
+  "airingsCount": 311,
+  "sourceTitles": [
+    "Big Bang Theory",
+    "Big Bang Theory - Saison 1",
+    "Big Bang Theory - Saison 11",
+    "Big Bang Theory - Saison 12",
+    "Big Bang Theory - Saison 2",
+    "Big Bang Theory - Saison 3",
+    "Big Bang Theory - Saison 4"
+  ],
+  "genres": [
+    "sitcom"
+  ],
+  "description": "Quand Leonard voit Penny, la voisine dont il est amoureux, embrasser un homme devant sa porte, il est effondré. Il réalise alors combien il est loin de correspondre à l'idéal masculin de la jolie Penny. Cependant, encouragé par ses amis et collègues scientifiques, il décide de tenter sa chance avec une autre jeune femme. Il invite Leslie, une de ses collègues, à sortir avec lui. Celle-ci ayant refusé assez vertement, Leonard se sent encore plus déprimé. Poussé par Sheldon, qui ne croit pas un instant à la possibilité d'une liaison entre son ami et leur voisine, il reprend courage et décide d'inviter Penny. Mais celle-ci interprète mal sa proposition...",
+  "descriptionAi": "Cette sitcom américaine, diffusée à partir de 2007, suit avec humour le quotidien de deux brillants physiciens et de leurs amis scientifiques, aussi géniaux que socialement maladroits. L'ambiance est à la fois geek, chaleureuse et pleine de répliques cultes. La série séduit par son mélange unique de comédie de caractères et de références scientifiques accessibles, tout en explorant avec tendresse les relations improbables entre ces intellectuels et leur voisine extravertie. Une comédie attachante sur l'amitié et les codes sociaux, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cast%20of%20The%20Big%20Bang%20Theory%2005.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rmc-story",
+      "channelName": "RMC STORY",
+      "channelSlug": "rmc-story",
+      "channelNumber": 23,
+      "logoUrl": "/loghi/rmc-story.png",
+      "airingsCount": 187
+    },
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 124
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d3511704-7f58-446f-8b6b-6904142beb48",
+      "title": "Big Bang Theory - Saison 1",
+      "programSlug": "big-bang-theory-saison-1",
+      "programUrl": "/programme/warnertv/big-bang-theory-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-19 11:55:00+00",
+      "endTime": "2026-04-19 12:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d37f8a26-c269-491d-a349-b03ac156d7ef",
+      "title": "Big Bang Theory",
+      "programSlug": "big-bang-theory",
+      "programUrl": "/programme/rmc-story/big-bang-theory",
+      "channelId": "rmc-story",
+      "channelName": "RMC STORY",
+      "channelSlug": "rmc-story",
+      "startTime": "2026-04-19 12:10:00+00",
+      "endTime": "2026-04-19 12:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "62f0f4f7-1db9-4ec5-810c-f8c4c1e2a92b",
+      "title": "Big Bang Theory - Saison 1",
+      "programSlug": "big-bang-theory-saison-1",
+      "programUrl": "/programme/warnertv/big-bang-theory-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-19 12:15:00+00",
+      "endTime": "2026-04-19 12:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7c92b471-d6ca-41fd-a751-df264223f0af",
+      "title": "Big Bang Theory - Saison 2",
+      "programSlug": "big-bang-theory-saison-2",
+      "programUrl": "/programme/warnertv/big-bang-theory-saison-2",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-19 12:40:00+00",
+      "endTime": "2026-04-19 13:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cdf12eff-0b16-44e0-9f7f-6712d1efa81b",
+      "title": "Big Bang Theory",
+      "programSlug": "big-bang-theory",
+      "programUrl": "/programme/rmc-story/big-bang-theory",
+      "channelId": "rmc-story",
+      "channelName": "RMC STORY",
+      "channelSlug": "rmc-story",
+      "startTime": "2026-04-19 12:40:00+00",
+      "endTime": "2026-04-19 13:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8f208dcd-bc93-4481-823f-f452d2497e68",
+      "title": "Big Bang Theory - Saison 2",
+      "programSlug": "big-bang-theory-saison-2",
+      "programUrl": "/programme/warnertv/big-bang-theory-saison-2",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-19 13:05:00+00",
+      "endTime": "2026-04-19 13:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c19ec114-6b31-4887-b95e-3d90557370a9",
+      "title": "Big Bang Theory",
+      "programSlug": "big-bang-theory",
+      "programUrl": "/programme/rmc-story/big-bang-theory",
+      "channelId": "rmc-story",
+      "channelName": "RMC STORY",
+      "channelSlug": "rmc-story",
+      "startTime": "2026-04-19 13:10:00+00",
+      "endTime": "2026-04-19 13:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "180a2c9a-654f-496a-9e58-05e4220fc40a",
+      "title": "Big Bang Theory - Saison 2",
+      "programSlug": "big-bang-theory-saison-2",
+      "programUrl": "/programme/warnertv/big-bang-theory-saison-2",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-19 13:30:00+00",
+      "endTime": "2026-04-19 13:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "28575efc-decc-46d2-8642-8dd5e9c2ab87",
+      "title": "Big Bang Theory",
+      "programSlug": "big-bang-theory",
+      "programUrl": "/programme/rmc-story/big-bang-theory",
+      "channelId": "rmc-story",
+      "channelName": "RMC STORY",
+      "channelSlug": "rmc-story",
+      "startTime": "2026-04-19 13:35:00+00",
+      "endTime": "2026-04-19 14:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bd4188bc-43d6-4fc5-8d55-05d56265a298",
+      "title": "Big Bang Theory - Saison 2",
+      "programSlug": "big-bang-theory-saison-2",
+      "programUrl": "/programme/warnertv/big-bang-theory-saison-2",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-19 13:55:00+00",
+      "endTime": "2026-04-19 14:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "95a28814-8f5c-49d1-be99-9378d36ad816",
+      "title": "Big Bang Theory",
+      "programSlug": "big-bang-theory",
+      "programUrl": "/programme/rmc-story/big-bang-theory",
+      "channelId": "rmc-story",
+      "channelName": "RMC STORY",
+      "channelSlug": "rmc-story",
+      "startTime": "2026-04-19 14:00:00+00",
+      "endTime": "2026-04-19 14:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c1cc5a11-844a-419e-b0cd-2ee9c1016bfa",
+      "title": "Big Bang Theory - Saison 2",
+      "programSlug": "big-bang-theory-saison-2",
+      "programUrl": "/programme/warnertv/big-bang-theory-saison-2",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-19 14:20:00+00",
+      "endTime": "2026-04-19 14:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dca8b9c0-2c90-4d0b-be66-5e036923e0b9",
+      "title": "Big Bang Theory",
+      "programSlug": "big-bang-theory",
+      "programUrl": "/programme/rmc-story/big-bang-theory",
+      "channelId": "rmc-story",
+      "channelName": "RMC STORY",
+      "channelSlug": "rmc-story",
+      "startTime": "2026-04-19 14:25:00+00",
+      "endTime": "2026-04-19 14:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c3c0be9b-e81a-48ae-870e-19747a811caa",
+      "title": "Big Bang Theory - Saison 2",
+      "programSlug": "big-bang-theory-saison-2",
+      "programUrl": "/programme/warnertv/big-bang-theory-saison-2",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-19 14:45:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9f7e376b-7b9c-4be9-af9e-246a7c08685a",
+      "title": "Big Bang Theory",
+      "programSlug": "big-bang-theory",
+      "programUrl": "/programme/rmc-story/big-bang-theory",
+      "channelId": "rmc-story",
+      "channelName": "RMC STORY",
+      "channelSlug": "rmc-story",
+      "startTime": "2026-04-19 14:50:00+00",
+      "endTime": "2026-04-19 15:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "63e32155-efe5-4a43-873c-327c1037c8f3",
+      "title": "Big Bang Theory - Saison 2",
+      "programSlug": "big-bang-theory-saison-2",
+      "programUrl": "/programme/warnertv/big-bang-theory-saison-2",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-19 15:10:00+00",
+      "endTime": "2026-04-19 15:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d3675a88-1d2e-4c61-9b3d-d3802411c165",
+      "title": "Big Bang Theory",
+      "programSlug": "big-bang-theory",
+      "programUrl": "/programme/rmc-story/big-bang-theory",
+      "channelId": "rmc-story",
+      "channelName": "RMC STORY",
+      "channelSlug": "rmc-story",
+      "startTime": "2026-04-19 15:15:00+00",
+      "endTime": "2026-04-19 15:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bf1f37cb-2dd9-4919-a899-544c2f2dbca8",
+      "title": "Big Bang Theory - Saison 2",
+      "programSlug": "big-bang-theory-saison-2",
+      "programUrl": "/programme/warnertv/big-bang-theory-saison-2",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-19 15:35:00+00",
+      "endTime": "2026-04-19 16:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:17.123Z",
+  "startYear": 2007,
+  "numberOfSeasons": 12,
+  "cast": [
+    {
+      "qid": "Q190972",
+      "slug": "jim-parsons",
+      "name": "Jim Parsons",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295739",
+      "slug": "johnny-galecki",
+      "name": "Johnny Galecki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16759",
+      "slug": "q16759",
+      "name": "Q16759",
+      "role": "actor"
+    },
+    {
+      "qid": "Q299297",
+      "slug": "simon-helberg",
+      "name": "Simon Helberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310375",
+      "slug": "kunal-nayyar",
+      "name": "Kunal Nayyar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231405",
+      "slug": "sara-gilbert",
+      "name": "Sara Gilbert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236364",
+      "slug": "melissa-rauch",
+      "name": "Melissa Rauch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231093",
+      "slug": "mayim-bialik",
+      "name": "Mayim Bialik",
+      "role": "actor"
+    },
+    {
+      "qid": "Q983229",
+      "slug": "kevin-sussman",
+      "name": "Kevin Sussman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5044233",
+      "slug": "carol-ann-susi",
+      "name": "Carol Ann Susi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q522856",
+      "slug": "kate-micucci",
+      "name": "Kate Micucci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q718078",
+      "slug": "bob-newhart",
+      "name": "Bob Newhart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4725713",
+      "slug": "alice-amter",
+      "name": "Alice Amter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q303192",
+      "slug": "aarti-mann",
+      "name": "Aarti Mann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3809587",
+      "slug": "john-ross-bowie",
+      "name": "John Ross Bowie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16832120",
+      "slug": "laura-spencer",
+      "name": "Laura Spencer",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q430844",
+    "slug": "chuck-lorre",
+    "name": "Chuck Lorre",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 11:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

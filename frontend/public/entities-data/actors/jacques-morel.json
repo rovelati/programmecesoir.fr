@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jacques-morel",
+  "name": "Jacques Morel",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JacquesMorel-1950-Harcourt.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1922-05-29",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q547182",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jacques_Morel_(acteur)",
+    "imdb": "nm0603600",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "marie-antoinette-reine-de-france",
+      "title": "Marie-Antoinette reine de France"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

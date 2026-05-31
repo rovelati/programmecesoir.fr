@@ -1,0 +1,104 @@
+{
+  "type": "series",
+  "slug": "grimm",
+  "title": "Grimm",
+  "airingsCount": 58,
+  "sourceTitles": [
+    "Grimm"
+  ],
+  "genres": [
+    "série télévisée d'horreur",
+    "série télévisée de fantasy",
+    "série télévisée policière",
+    "drama policier",
+    "série télévisée dramatique"
+  ],
+  "description": "La Griffe Noire met à exécution son plan contre Hank. Pendant ce temps, Hank et Nick enquêtent sur un certain Bonaparte et Adalind et Renard doivent composer avec Diana...",
+  "descriptionAi": "Plongez dans l'univers de \"Grimm\", une série mêlant habilement le drame policier à la fantasy et à l'horreur. Débutée en 2011, cette série en six saisons suit Nick Burkhardt, un inspecteur qui découvre qu'il est un Grimm, destiné à maintenir l'équilibre entre les humains et des créatures mythiques. L'ambiance oscille entre enquêtes criminelles classiques et une tension surnaturelle palpable, où le conte de fées se transforme en cauchemar. Ce qui la rend captivante, c'est son riche folklore réinventé et la dualité constante entre le monde réel et l'occulte, offrant un mélange unique de mystère et de suspense. Pour découvrir comment la Griffe Noire met son plan à exécution et suivre les enquêtes de Nick et Hank, cette série est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 58
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:41:37.259Z",
+  "startYear": 2011,
+  "numberOfSeasons": 6,
+  "cast": [
+    {
+      "qid": "Q26636",
+      "slug": "david-giuntoli",
+      "name": "David Giuntoli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q547640",
+      "slug": "russell-hornsby",
+      "name": "Russell Hornsby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q596626",
+      "slug": "elizabeth-tulloch",
+      "name": "Elizabeth Tulloch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q357656",
+      "slug": "silas-weir-mitchell",
+      "name": "Silas Weir Mitchell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460843",
+      "slug": "claire-coffee",
+      "name": "Claire Coffee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242206",
+      "slug": "bree-turner",
+      "name": "Bree Turner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1341761",
+      "slug": "reggie-lee",
+      "name": "Reggie Lee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q187828",
+      "slug": "sasha-roiz",
+      "name": "Sasha Roiz",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q2413805",
+    "slug": "david-greenwalt",
+    "name": "David Greenwalt",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

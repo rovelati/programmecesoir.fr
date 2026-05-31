@@ -1,0 +1,114 @@
+{
+  "type": "film",
+  "slug": "d-apres-une-histoire-vraie",
+  "title": "D'après une histoire vraie",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "D'après une histoire vraie"
+  ],
+  "genres": [
+    "drame",
+    "thriller",
+    "film LGBT"
+  ],
+  "description": "Delphine, romancière, a connu le succès avec un roman intime consacré à sa mère. Depuis, épuisée par les polémiques suscitées par son oeuvre, l'écrivaine est en panne d'inspiration. Au cours d'une séance de dédicaces, elle fait la connaissance d'une jeune femme qui semble parfaitement la comprendre...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cannes%202017%2038.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q234890",
+      "slug": "emmanuelle-seigner",
+      "name": "Emmanuelle Seigner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q191644",
+      "slug": "eva-green",
+      "name": "Eva Green",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123476",
+      "slug": "vincent-perez",
+      "name": "Vincent Perez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27535240",
+      "slug": "damien-bonnard",
+      "name": "Damien Bonnard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2934882",
+      "slug": "camille-chamoux",
+      "name": "Camille Chamoux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2925481",
+      "slug": "brigitte-rouan",
+      "name": "Brigitte Roüan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q38554",
+      "slug": "dominique-pinon",
+      "name": "Dominique Pinon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q542092",
+      "slug": "josee-dayan",
+      "name": "Josée Dayan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440609",
+      "slug": "noemie-lvovsky",
+      "name": "Noémie Lvovsky",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3587913",
+      "slug": "elisabeth-quin",
+      "name": "Élisabeth Quin",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51552",
+    "slug": "roman-polanski",
+    "name": "Roman Polanski",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

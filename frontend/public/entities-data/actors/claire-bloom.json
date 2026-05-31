@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "claire-bloom",
+  "name": "Claire Bloom",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Claire%20Bloom%20-%20Karamazov-1.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1931-02-15",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q235622",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Claire_Bloom",
+    "imdb": "nm0001954",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "daylight",
+      "title": "Daylight"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4019fc0c-7454-48c5-aed3-e32397b04254",
+      "title": "Daylight",
+      "programSlug": "daylight",
+      "programUrl": "/programme/rtl9/daylight",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-25 21:10:00+00",
+      "endTime": "2026-04-25 23:05:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 21:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

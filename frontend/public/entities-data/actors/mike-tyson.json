@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "mike-tyson",
+  "name": "Mike Tyson",
+  "worksCount": 1,
+  "description": "boxeur Acteur Américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mike%20Tyson%20Photo%20Op%20GalaxyCon%20Austin%202023.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-06-30",
+  "nationality": "États-Unis",
+  "jobTitle": "boxeur ou boxeuse",
+  "externalIds": {
+    "wikidata": "Q79031",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mike_Tyson",
+    "imdb": "nm0005512",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "ip-man-3",
+      "title": "Ip Man 3"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,289 @@
+{
+  "type": "series",
+  "slug": "les-tortues-ninja",
+  "title": "Les Tortues Ninja",
+  "airingsCount": 77,
+  "sourceTitles": [
+    "Les Tortues Ninja"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série télévisée d'aventures",
+    "série d'action",
+    "série télévisée comique",
+    "série télévisée de fantasy",
+    "série télévisée de science-fiction"
+  ],
+  "description": "Les tortues découvrent un laboratoire secret déserté par les Krangs, où ils menaient des expériences sur des insectes avec le mutagène. Après avoir combattu une guêpe mutante géante, ils décident de ramener un oeuf mystérieux au repaire, sous l'impulsion de Leo. Mais le comportement de ce dernier inquiète les autres. Il est obsédé par la protection de l'oeuf, et ne laisse personne s'en approcher. Puis c'est au tour de Raphael de devenir esclave de l'oeuf. Donatello découvre qu'ils ont été infectés par un virus.\n\nRéalisateur(s) : Ciro Nieli, Alan Wan, Michael Chang",
+  "descriptionAi": "Cette série télévisée d'aventures et d'action pour la jeunesse, mêlant science-fiction, fantasy et comédie, plonge le téléspectateur dans l'ambiance trépidante et décalée de New York. Ce qui la rend captivante, c'est le parfait équilibre entre des combats dynamiques, l'humour des frères tortues et des intrigues fantastiques explorant la famille et le devoir. Le scénario de cette saison, où un œuf mystérieux corrompt lentement les héros, ajoute une tension psychologique inédite à leurs missions habituelles. Une aventure animée pleine de cœur et de rebondissements, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Teenage%20Mutant%20Ninja%20Turtles%20(5234965966).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "channelNumber": null,
+      "logoUrl": "/loghi/game-one.png",
+      "airingsCount": 30
+    },
+    {
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-j.png",
+      "airingsCount": 46
+    },
+    {
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon-teen.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c23eef9d-be2c-480d-a314-ba07727fbbeb",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/canal-j/les-tortues-ninja",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 11:30:00+00",
+      "endTime": "2026-04-19 11:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4c5f44c7-33dd-4314-a291-a6601e7c2ee3",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/game-one/les-tortues-ninja",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 11:30:00+00",
+      "endTime": "2026-04-19 11:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f5d67279-b306-4dae-8651-06be140035d3",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/canal-j/les-tortues-ninja",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 11:50:00+00",
+      "endTime": "2026-04-19 12:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ef502ac8-3cd6-4545-97e6-e6fcbe86a4ec",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/game-one/les-tortues-ninja",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 11:50:00+00",
+      "endTime": "2026-04-19 12:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "43dc90c5-549b-41c1-81d0-ca9fb634d9c8",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/canal-j/les-tortues-ninja",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 12:15:00+00",
+      "endTime": "2026-04-19 12:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c6a16c74-4c32-4fe4-abc3-3bb9b318c0bb",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/game-one/les-tortues-ninja",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 12:15:00+00",
+      "endTime": "2026-04-19 12:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "15c0217d-057b-44ac-94a0-1ab2cd7f21fb",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/canal-j/les-tortues-ninja",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 12:35:00+00",
+      "endTime": "2026-04-19 13:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "51bbd438-a48c-406c-b6cd-7f1b26f3ad77",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/game-one/les-tortues-ninja",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 12:35:00+00",
+      "endTime": "2026-04-19 13:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7befa3e5-0e9f-4b94-81ec-637ca2d041a5",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/canal-j/les-tortues-ninja",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 13:00:00+00",
+      "endTime": "2026-04-19 13:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fda16631-3258-4c5c-9a7a-e9f0051abc5b",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/game-one/les-tortues-ninja",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 13:00:00+00",
+      "endTime": "2026-04-19 13:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "96969419-1c72-4c8b-8aab-6ee1736ea2ea",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/canal-j/les-tortues-ninja",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 13:20:00+00",
+      "endTime": "2026-04-19 13:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "25b1cebe-55a4-4a05-8b5a-723d83a82ef2",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/game-one/les-tortues-ninja",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 13:20:00+00",
+      "endTime": "2026-04-19 13:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0bcc61e5-ee5a-4424-9ada-c00683113efd",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/canal-j/les-tortues-ninja",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 13:45:00+00",
+      "endTime": "2026-04-19 14:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "643f15ca-c247-4ff0-a6d1-21c6e4814e6d",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/game-one/les-tortues-ninja",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 13:45:00+00",
+      "endTime": "2026-04-19 14:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "93e50b43-80e2-40ae-bace-87d6e58d0063",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/canal-j/les-tortues-ninja",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 14:05:00+00",
+      "endTime": "2026-04-19 14:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bae32edd-4ba6-406b-97f0-3bc29d7c686f",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/game-one/les-tortues-ninja",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 14:05:00+00",
+      "endTime": "2026-04-19 14:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fc2d475c-093d-413c-9805-9499c4bc6f85",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/canal-j/les-tortues-ninja",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 11:30:00+00",
+      "endTime": "2026-04-25 11:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "74dd8a56-7261-4e88-948c-7835f94d794d",
+      "title": "Les Tortues Ninja",
+      "programSlug": "les-tortues-ninja",
+      "programUrl": "/programme/game-one/les-tortues-ninja",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 11:30:00+00",
+      "endTime": "2026-04-25 11:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:40:59.812Z",
+  "startYear": 1987,
+  "numberOfSeasons": 10,
+  "cast": [],
+  "creator": {
+    "qid": "Q718916",
+    "slug": "kevin-eastman",
+    "name": "Kevin Eastman",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 11:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

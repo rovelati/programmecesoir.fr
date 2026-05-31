@@ -1,0 +1,203 @@
+{
+  "type": "series",
+  "slug": "supernatural",
+  "title": "Supernatural",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Supernatural - Saison 2"
+  ],
+  "genres": [
+    "thriller",
+    "série télévisée de fantasy",
+    "série d'action",
+    "série télévisée d'horreur",
+    "série télévisée dramatique",
+    "série télévisée d'aventures",
+    "programme de télévision de dark fantasy"
+  ],
+  "description": "Sam, Dean et John ont été laissés pour morts après la collision avec un camion contrôlé par le démon. A l'hôpital, Sam se remet rapidement de ses blessures et John ne tarde pas à se sentir beaucoup mieux. Dean, de son côté, est dans un coma profond. Sam et John cherchent à le guérir par tous les moyens...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab1.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "82f711f2-6a1d-4485-a89c-aa86c4607733",
+      "title": "Supernatural - Saison 2",
+      "programSlug": "supernatural-saison-2",
+      "programUrl": "/programme/ab1/supernatural-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 20:35:00+00",
+      "endTime": "2026-04-25 21:25:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "cdc81683-fce2-4929-be87-2e224f6b36e1",
+      "title": "Supernatural - Saison 2",
+      "programSlug": "supernatural-saison-2",
+      "programUrl": "/programme/ab1/supernatural-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 21:25:00+00",
+      "endTime": "2026-04-25 22:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "25d52e52-fcd6-4b75-ab60-0107967b22db",
+      "title": "Supernatural - Saison 2",
+      "programSlug": "supernatural-saison-2",
+      "programUrl": "/programme/ab1/supernatural-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 22:15:00+00",
+      "endTime": "2026-04-25 23:00:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "f6b23f4d-4f1c-48f5-a500-3057c883d9ef",
+      "title": "Supernatural - Saison 2",
+      "programSlug": "supernatural-saison-2",
+      "programUrl": "/programme/ab1/supernatural-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 23:00:00+00",
+      "endTime": "2026-04-25 23:45:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2005,
+  "numberOfSeasons": 15,
+  "cast": [
+    {
+      "qid": "Q215757",
+      "slug": "jared-padalecki",
+      "name": "Jared Padalecki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193513",
+      "slug": "jensen-ackles",
+      "name": "Jensen Ackles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314704",
+      "slug": "misha-collins",
+      "name": "Misha Collins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q562084",
+      "slug": "mark-sheppard",
+      "name": "Mark Sheppard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q342665",
+      "slug": "jeffrey-dean-morgan",
+      "name": "Jeffrey Dean Morgan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242647",
+      "slug": "genevieve-cortese",
+      "name": "Genevieve Cortese",
+      "role": "actor"
+    },
+    {
+      "qid": "Q712647",
+      "slug": "kurt-fuller",
+      "name": "Kurt Fuller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q155378",
+      "slug": "jim-beaver",
+      "name": "Jim Beaver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q279169",
+      "slug": "mitch-pileggi",
+      "name": "Mitch Pileggi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q287494",
+      "slug": "samantha-ferris",
+      "name": "Samantha Ferris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2440561",
+      "slug": "cindy-sampson",
+      "name": "Cindy Sampson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q263433",
+      "slug": "alona-tal",
+      "name": "Alona Tal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q117619",
+      "slug": "osric-chau",
+      "name": "Osric Chau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229908",
+      "slug": "katie-cassidy",
+      "name": "Katie Cassidy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q128507",
+      "slug": "lauren-cohan",
+      "name": "Lauren Cohan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4718501",
+      "slug": "alexander-calvert",
+      "name": "Alexander Calvert",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q336075",
+    "slug": "eric-kripke",
+    "name": "Eric Kripke",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-25 20:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

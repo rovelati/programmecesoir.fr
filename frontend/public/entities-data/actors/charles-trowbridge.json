@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "charles-trowbridge",
+  "name": "Charles Trowbridge",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Trowbridge%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1882-01-10",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2960351",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Charles_Trowbridge",
+    "imdb": "nm0873845",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "taikoun",
+      "title": "Taïkoun"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d9673e75-145f-41ee-997b-508b481199c1",
+      "title": "Taïkoun",
+      "programSlug": "taikoun",
+      "programUrl": "/programme/tcm-cinema/taikoun",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-22 16:45:00+00",
+      "endTime": "2026-04-22 18:50:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 16:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "type": "film",
+  "slug": "detour-fatal",
+  "title": "Détour fatal",
+  "airingsCount": 15,
+  "sourceTitles": [
+    "Détour fatal"
+  ],
+  "genres": [
+    "Film",
+    "Cinéma"
+  ],
+  "description": "Alors qu'ils se précipitent à l'hôpital pour la naissance de leur enfant, un couple percute quelque chose sur la route, mais ne s'arrête pas. Plus tard, ils découvrent la vérité.",
+  "descriptionAi": "Ce thriller psychologique plonge le spectateur dans une atmosphère de culpabilité et de tension croissante. Alors qu’un couple, pressé d’arriver à la maternité, commet un délit de fuite après avoir heurté un obstacle nocturne, leur vie bascule dans une spirale de mensonges et de peur. L’intérêt réside dans l’exploration implacable des conséquences d’un choix impulsif, transformant leur attente joyeuse en un cauchemar étouffant. Le film maîtrise habilement un suspense angoissant, questionnant les limites de la morale face à la panique. Pour découvrir comment leur destin va se nouer, ce film à l’ambiance oppressante est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 15
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "019998c5-4edb-4368-a68f-17e5a45fb8b1",
+      "title": "Détour fatal",
+      "programSlug": "detour-fatal",
+      "programUrl": "/programme/eurochannel/detour-fatal",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 12:40:00+00",
+      "endTime": "2026-04-19 14:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ea0c96c6-73f0-4822-a8df-abe0863c95bb",
+      "title": "Détour fatal",
+      "programSlug": "detour-fatal",
+      "programUrl": "/programme/eurochannel/detour-fatal",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 01:00:00+00",
+      "endTime": "2026-04-20 02:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "15f7e77a-d7c0-49ba-ba7b-b50f2c9a5c2c",
+      "title": "Détour fatal",
+      "programSlug": "detour-fatal",
+      "programUrl": "/programme/eurochannel/detour-fatal",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 22:25:00+00",
+      "endTime": "2026-04-21 00:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1323c9b6-51cf-49dd-964d-8feb0c2c15da",
+      "title": "Détour fatal",
+      "programSlug": "detour-fatal",
+      "programUrl": "/programme/eurochannel/detour-fatal",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 13:55:00+00",
+      "endTime": "2026-04-23 15:30:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:26:44.496Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 12:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,101 @@
+{
+  "type": "film",
+  "slug": "te-casse-pas-la-tete-jerry",
+  "title": "Te casse pas la tête Jerry",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Te casse pas la tête Jerry"
+  ],
+  "genres": [
+    "comédie",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "George Lester est le type d'homme qui veut gagner beaucoup d'argent en un minimum de temps. Pour cela, il élabore des plans grandioses, mais si compliqués que quelque chose finit toujours par mal tourner. Lassée par ses échecs répétés, Pamela, son épouse depuis trois ans, le quitte. Profitant de son absence, George transforme leur maison de famille en discothèque. A son retour Pamela, furieuse, menace de l'envoyer derrière les barreaux pour fraude et claque la porte pour de bon. Toujours à la recherche d'argent, George projette de voler les plans d'une machine que met au point le nouvel amant de Pamela. Il vend même les documents avant de les avoir récupéré...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1968,
+  "durationMinutes": 99,
+  "cast": [
+    {
+      "qid": "Q294927",
+      "slug": "jerry-lewis",
+      "name": "Jerry Lewis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q711129",
+      "slug": "terry-thomas",
+      "name": "Terry-Thomas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q167979",
+      "slug": "jacqueline-pearce",
+      "name": "Jacqueline Pearce",
+      "role": "actor"
+    },
+    {
+      "qid": "Q822377",
+      "slug": "bernard-cribbins",
+      "name": "Bernard Cribbins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2320305",
+      "slug": "patricia-routledge",
+      "name": "Patricia Routledge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1585750",
+      "slug": "harold-goodwin",
+      "name": "Harold Goodwin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1369342",
+      "slug": "michael-bates",
+      "name": "Michael Bates",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3341498",
+      "slug": "nike-arrighi",
+      "name": "Niké Arrighi",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1381411",
+    "slug": "jerry-paris",
+    "name": "Jerry Paris",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

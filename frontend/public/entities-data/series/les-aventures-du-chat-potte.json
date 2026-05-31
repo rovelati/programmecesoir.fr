@@ -1,0 +1,83 @@
+{
+  "type": "series",
+  "slug": "les-aventures-du-chat-potte",
+  "title": "Les aventures du Chat Potté",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Les aventures du Chat Potté"
+  ],
+  "genres": [
+    "série télévisée comique"
+  ],
+  "description": "En suivant Dulcinée, le Chat Potté a découvert l'entrée de la ville de San Lorenzo, une cité cachée. Par cupidité, le félin a toutefois rompu le sort qui maintenait la cité masquée aux yeux de tous. Pour se faire pardonner, il décide de rester dans la bourgade et d'en protéger les habitants. Il reçoit la visite de son vieux maître, mais aussi de son fidèle compagnon, Jack Sprat, toujours prêt à relever de nouveaux défis. Une série conçue par les studios DreamWorks, qui déclinent ici les personnages populaires vus dans \"Shrek\" et \"Le Chat Potté\".",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Puss%20in%20Boots%2C%202011%2C%20Australia-5.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5bad89b8-0797-41c9-a7c5-dbbdf0f5969e",
+      "title": "Les aventures du Chat Potté",
+      "programSlug": "les-aventures-du-chat-potte",
+      "programUrl": "/programme/la-trois/les-aventures-du-chat-potte",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-19 14:36:00+00",
+      "endTime": "2026-04-19 14:59:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2b358b54-4c39-4fa5-935e-47fefd1344e5",
+      "title": "Les aventures du Chat Potté",
+      "programSlug": "les-aventures-du-chat-potte",
+      "programUrl": "/programme/la-trois/les-aventures-du-chat-potte",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-25 10:18:00+00",
+      "endTime": "2026-04-25 10:41:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c48923dd-142d-4696-9beb-763001957f72",
+      "title": "Les aventures du Chat Potté",
+      "programSlug": "les-aventures-du-chat-potte",
+      "programUrl": "/programme/la-trois/les-aventures-du-chat-potte",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-25 10:41:00+00",
+      "endTime": "2026-04-25 11:03:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2015,
+  "numberOfSeasons": 6,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 14:36:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

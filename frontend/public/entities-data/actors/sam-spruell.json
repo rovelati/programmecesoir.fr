@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "sam-spruell",
+  "name": "Sam Spruell",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-01-01",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q1433961",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sam_Spruell",
+    "imdb": "nm0819874",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "demineurs",
+      "title": "Démineurs"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

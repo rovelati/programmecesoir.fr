@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "les-huit-salopards",
+  "title": "Les huit salopards",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les huit salopards"
+  ],
+  "genres": [
+    "western",
+    "film ou téléfilm à énigme",
+    "thriller",
+    "film et téléfilm d'action",
+    "Anti-western",
+    "film à suspense",
+    "film policier dramatique",
+    "thriller policier",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Après la guerre de Sécession, dans un Wyoming frappé par le blizzard, John Ruth convoie la criminelle Daisy Domergue, qui doit être pendue à Red Rock. En chemin, leur diligence s'arrête pour prendre à son bord Marquis Warren, un chasseur de primes, puis Chris Mannix, prochain shérif de Red Rock...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 187,
+  "cast": [
+    {
+      "qid": "Q172678",
+      "slug": "samuel-l-jackson",
+      "name": "Samuel L. Jackson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q103157",
+      "slug": "kurt-russell",
+      "name": "Kurt Russell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232902",
+      "slug": "jennifer-jason-leigh",
+      "name": "Jennifer Jason Leigh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q516690",
+      "slug": "walton-goggins",
+      "name": "Walton Goggins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449940",
+      "slug": "demian-bichir",
+      "name": "Demián Bichir",
+      "role": "actor"
+    },
+    {
+      "qid": "Q203804",
+      "slug": "tim-roth",
+      "name": "Tim Roth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220584",
+      "slug": "michael-madsen",
+      "name": "Michael Madsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q357001",
+      "slug": "bruce-dern",
+      "name": "Bruce Dern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q967797",
+      "slug": "james-parks",
+      "name": "James Parks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212064",
+      "slug": "channing-tatum",
+      "name": "Channing Tatum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23010323",
+      "slug": "dana-gourrier",
+      "name": "Dana Gourrier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q227123",
+      "slug": "zoe-bell",
+      "name": "Zoë Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1364128",
+      "slug": "lee-horsley",
+      "name": "Lee Horsley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17612318",
+      "slug": "gene-jones",
+      "name": "Gene Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3772",
+      "slug": "quentin-tarantino",
+      "name": "Quentin Tarantino",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3772",
+    "slug": "quentin-tarantino",
+    "name": "Quentin Tarantino",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

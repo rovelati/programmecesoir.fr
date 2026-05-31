@@ -1,0 +1,79 @@
+{
+  "type": "film",
+  "slug": "better-man",
+  "title": "Better Man",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Better Man"
+  ],
+  "genres": [
+    "série télévisée dramatique"
+  ],
+  "description": "Robbie Williams grandit dans les quartiers pauvres de Manchester. Il rêve de célébrité, poussé par son père, un chanteur et comédien amateur. Après que ce dernier a abandonné le domicile conjugal, le garçon est élevé par sa mère, qu'il voit se battre pour joindre les deux bouts, et sa grand-mère adorée. A l'adolescence, Robbie intègre le boys band \"Take That\". Grâce au succès du groupe, il devient une star dans les années 1990, mais plonge peu à peu dans la dépression et les paradis artificiels, dévoré par ses démons intérieurs et ses névroses. En 1997, il retrouve le succès en solo avec la chanson \"Angels\"...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "80f6dbfb-b088-4372-b61f-4d2085014235",
+      "title": "Better Man",
+      "programSlug": "better-man",
+      "programUrl": "/programme/ocs/better-man",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-24 18:50:00+00",
+      "endTime": "2026-04-24 21:02:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q16225873",
+      "slug": "remy-hii",
+      "name": "Remy Hii",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q6401926",
+    "slug": "khoa-do",
+    "name": "Khoa Do",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

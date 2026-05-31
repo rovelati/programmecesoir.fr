@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "ben-lloyd-hughes",
+  "name": "Ben Lloyd-Hughes",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1988-04-14",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q15787617",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ben_Lloyd-Hughes",
+    "imdb": "nm2050075",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "divergente",
+      "title": "Divergente"
+    },
+    {
+      "type": "film",
+      "slug": "avant-toi",
+      "title": "Avant toi"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "928d1eb9-22c2-4dbf-9d58-21e9c5f19ed9",
+      "title": "Divergente",
+      "programSlug": "divergente",
+      "programUrl": "/programme/w9/divergente",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 19:25:00+00",
+      "endTime": "2026-04-20 21:50:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 19:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

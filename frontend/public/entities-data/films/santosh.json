@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "santosh",
+  "title": "Santosh",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Santosh"
+  ],
+  "genres": [
+    "film ou téléfilm criminel"
+  ],
+  "description": "Dans une bourgade du nord de l'Inde. Après le décès tragique de son époux, Santosh, 28 ans, se voit offrir la possibilité par la loi de reprendre le poste de ce dernier au sein de la police, une opportunité qu'elle se résout à saisir. Lorsqu'elle est appelée sur le lieu du meurtre d'une jeune fille de caste inférieure, Santosh se retrouve plongée dans une enquête tortueuse aux côtés de la charismatique inspectrice Sharma, qui la prend sous son aile. Alors que les agents de leur commissariat refusent de s'investir dans cette affaire, les deux femmes décident, quant à elles, de poursuivre les investigations seules...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 128,
+  "cast": [
+    {
+      "qid": "Q11303319",
+      "slug": "shahana-goswami",
+      "name": "Shahana Goswami",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16206736",
+      "slug": "sunita-rajwar",
+      "name": "Sunita Rajwar",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q117860470",
+    "slug": "sandhya-suri",
+    "name": "Sandhya Suri",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,84 @@
+{
+  "type": "series",
+  "slug": "ada",
+  "title": "Ada",
+  "airingsCount": 11,
+  "sourceTitles": [
+    "Ada"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Le résumé n'est pas disponible",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 11
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e4998578-8ea4-4d39-a3d4-2d4c57a1f375",
+      "title": "Ada",
+      "programSlug": "ada",
+      "programUrl": "/programme/2m-maroc/ada",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-20 22:10:00+00",
+      "endTime": "2026-04-20 23:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "66e5a440-5b99-4cb3-b1ed-c708a5000829",
+      "title": "Ada",
+      "programSlug": "ada",
+      "programUrl": "/programme/2m-maroc/ada",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-21 22:50:00+00",
+      "endTime": "2026-04-21 23:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "512be759-5c3a-471b-9acb-4331561729eb",
+      "title": "Ada",
+      "programSlug": "ada",
+      "programUrl": "/programme/2m-maroc/ada",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-22 22:55:00+00",
+      "endTime": "2026-04-22 23:45:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 22:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

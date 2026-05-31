@@ -1,0 +1,287 @@
+{
+  "type": "series",
+  "slug": "ninjago",
+  "title": "Ninjago",
+  "airingsCount": 97,
+  "sourceTitles": [
+    "Ninjago"
+  ],
+  "genres": [
+    "Série d'animation",
+    "Série",
+    "Série TV",
+    "Séries d'animation"
+  ],
+  "description": "Dans un monde où l'équilibre entre le bien et le mal est constamment menacé, les ninjas de Ninjago se préparent à affronter un nouvel adversaire redoutable. Après leur dernière victoire, Overlord, un ancien ennemi juré, réussit à survivre sous la forme d'un virus informatique, piégé dans le Digiverse. Cependant, sa ruse lui permet de s'échapper et de semer le chaos à Ninjago, où il crée une armée de nindroids, des robots de combat redoutables, pour renforcer sa puissance. Dans cette troisième saison palpitante, les ninjas, menés par Lloyd (Michael Adamthwaite), Kai (Vincent Tong), et leurs compagnons, devront puiser dans leurs forces intérieures et travailler ensemble pour contrer cette menace grandissante. Chaque membre de l'équipe sera confronté à ses propres peurs et doutes, tandis qu'ils tenteront de déjouer les plans machiavéliques d'Overlord. La lutte pour la survie et la protection de leur monde les poussera à se surpasser, à faire preuve de courage et à redécouvrir la véritable essence de l'amitié.",
+  "descriptionAi": "Cette série d'animation suit les aventures de jeunes ninjas protégeant l'île de Ninjago. Mêlant action, humour et moments épiques, elle crée une ambiance à la fois dynamique et chaleureuse. Son intérêt réside dans le développement de ses personnages, leurs liens d'amitié et la mythologie riche qui s'étoffe au fil des saisons. Un divertissement familial où le destin du monde repose sur le courage et l'unité d'une équipe attachante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "channelNumber": null,
+      "logoUrl": "/loghi/game-one.png",
+      "airingsCount": 40
+    },
+    {
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-j.png",
+      "airingsCount": 54
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "39f4e5c3-0412-45ed-8039-800eb7ddfd8f",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/canal-j/ninjago",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-20 08:25:00+00",
+      "endTime": "2026-04-20 08:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "13f1b3c7-21ba-4a1f-b19d-8e96e831c725",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/game-one/ninjago",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-20 08:25:00+00",
+      "endTime": "2026-04-20 08:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8e9235cc-b7da-4bb3-8701-040788ad14cf",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/canal-j/ninjago",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-20 08:50:00+00",
+      "endTime": "2026-04-20 09:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "47235f8a-d599-4c37-9546-e954173e9602",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/game-one/ninjago",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-20 08:50:00+00",
+      "endTime": "2026-04-20 09:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "04718ced-a51b-407c-b18f-9b77b3e38a82",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/canal-j/ninjago",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-20 09:20:00+00",
+      "endTime": "2026-04-20 09:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f413702a-c83c-44ec-af4b-253a3c651a83",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/game-one/ninjago",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-20 09:20:00+00",
+      "endTime": "2026-04-20 09:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8c13e3b8-ac81-4775-9d8a-ccdc1ef76318",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/canal-j/ninjago",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-20 16:00:00+00",
+      "endTime": "2026-04-20 16:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b4061cc7-d8d8-49fc-8368-64e944d23727",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/game-one/ninjago",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-20 16:00:00+00",
+      "endTime": "2026-04-20 16:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "58438023-2ae4-4008-bcf0-5eac054563ea",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/canal-j/ninjago",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-20 16:25:00+00",
+      "endTime": "2026-04-20 16:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bc93c126-a45d-4b5a-8ed0-eb810dc187a6",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/game-one/ninjago",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-20 16:25:00+00",
+      "endTime": "2026-04-20 16:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "73f3c3e6-7b1f-4e43-ad48-e9020d66f990",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/canal-j/ninjago",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-21 08:25:00+00",
+      "endTime": "2026-04-21 08:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7ba34cf9-1dbc-4542-8d40-f78d0ab5fd43",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/game-one/ninjago",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-21 08:25:00+00",
+      "endTime": "2026-04-21 08:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a2193c87-40a3-4bd5-8a3d-885c8154cf40",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/canal-j/ninjago",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-21 08:50:00+00",
+      "endTime": "2026-04-21 09:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "92b3b0ff-af94-472a-ac5d-1084a6383e03",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/game-one/ninjago",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-21 08:50:00+00",
+      "endTime": "2026-04-21 09:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1af4f5ad-a8f3-4ca2-b2e9-5b65d7ff6952",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/canal-j/ninjago",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-21 09:20:00+00",
+      "endTime": "2026-04-21 09:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6460f9b7-f428-4430-a7dc-8bcf69a989f5",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/game-one/ninjago",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-21 09:20:00+00",
+      "endTime": "2026-04-21 09:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "15fa16a1-2758-4a06-8f4a-998097f0851b",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/canal-j/ninjago",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-21 16:00:00+00",
+      "endTime": "2026-04-21 16:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9b7ae82b-74f2-4df2-b527-c1c11e6644c1",
+      "title": "Ninjago",
+      "programSlug": "ninjago",
+      "programUrl": "/programme/game-one/ninjago",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-21 16:00:00+00",
+      "endTime": "2026-04-21 16:25:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:07:38.142Z",
+  "startYear": 2011,
+  "numberOfSeasons": 15,
+  "cast": [],
+  "creator": {
+    "qid": "Q3308242",
+    "slug": "michael-hegner",
+    "name": "Michael Hegner",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 08:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

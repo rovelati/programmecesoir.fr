@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "hans-conried",
+  "name": "Hans Conried",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Conreid%201977.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1917-04-15",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2552902",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Hans_Conried",
+    "imdb": "nm0175788",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-jour-a-new-york",
+      "title": "Un jour à New York"
+    },
+    {
+      "type": "film",
+      "slug": "un-pitre-au-pensionnat",
+      "title": "Un pitre au pensionnat"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3087d344-6fd8-457d-aaf8-2f6a04783f6d",
+      "title": "Un jour à New York",
+      "programSlug": "un-jour-a-new-york",
+      "programUrl": "/programme/cine-classic/un-jour-a-new-york",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-21 08:17:00+00",
+      "endTime": "2026-04-21 09:58:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 08:17:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

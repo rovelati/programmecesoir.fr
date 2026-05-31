@@ -1,0 +1,71 @@
+{
+  "type": "film",
+  "slug": "trafic",
+  "title": "Trafic",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Trafic"
+  ],
+  "genres": [
+    "comédie",
+    "comédie sociale"
+  ],
+  "description": "Dessinateur chez Altra, une petite entreprise parisienne en pleine expansion, monsieur Hulot a inventé une voiture de camping révolutionnaire, équipée d'une tente et de multiples gadgets. Ses employeurs tiennent absolument à présenter cette merveille d'ingéniosité au Salon de l'automobile qui se tiendra bientôt à Amsterdam. Après avoir chargé le prototype sur un camion, monsieur Hulot prend la direction des Pays-Bas, accompagné d'une attachée de presse. Dès la sortie de Paris, le convoi s'engage sur une autoroute surchargée. Embouteillages, crevaison, panne d'essence, accident, contrôle des douanes : la fatalité n'épargnera rien au génial inventeur...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1971,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q51549",
+      "slug": "jacques-tati",
+      "name": "Jacques Tati",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1442654",
+      "slug": "franco-ressel",
+      "name": "Franco Ressel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6761308",
+      "slug": "maria-kimberly",
+      "name": "Maria Kimberly",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51549",
+    "slug": "jacques-tati",
+    "name": "Jacques Tati",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

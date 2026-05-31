@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "leslie-nielsen",
+  "name": "Leslie Nielsen",
+  "worksCount": 2,
+  "description": "acteur canadien (1926-2010)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leslie%20Nielsen.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1926-02-11",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q82786",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Leslie_Nielsen",
+    "imdb": "nm0000558",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-symphonie-des-heros",
+      "title": "La symphonie des héros"
+    },
+    {
+      "type": "film",
+      "slug": "y-a-t-il-un-flic-pour-sauver-l-humanite",
+      "title": "Y a-t-il un flic pour sauver l'humanité ?"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

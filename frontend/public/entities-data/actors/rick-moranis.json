@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "rick-moranis",
+  "name": "Rick Moranis",
+  "worksCount": 1,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rick%20Moranis%20at%20the%2062nd%20Academy%20Awards%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-04-18",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q336282",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rick_Moranis",
+    "imdb": "nm0001548",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-famille-pierrafeu",
+      "title": "La famille Pierrafeu"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

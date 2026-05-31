@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "fury",
+  "title": "Fury",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Fury"
+  ],
+  "genres": [
+    "film et téléfilm de guerre",
+    "film et téléfilm d'action",
+    "drame"
+  ],
+  "description": "En avril 1945, la guerre touche à sa fin pour tout le monde ou presque. En effet, le charismatique Wardaddy et son équipe, composée de cinq hommes, se rendent en Allemagne à bord de leur tank Sherman. Ils sont envoyés derrière les lignes ennemies pour une mission extrêmement dangereuse au cours de laquelle ils vont devoir faire face à 300 soldats allemands. Wardaddy, qui a commencé la guerre dans le désert africain, devra donner du courage à ses hommes, aux caractères très différents mais tous prêts à suivre leur chef. Parmi eux, Norman, une jeune recrue, peine à tirer sur l'ennemi. Wardaddy le prend sous son aile et lui apprend les rudiments du métier...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/M4A2E8%20Sherman%20Fury%20Tank%20Museum%20Bovington%2019-05-2017%2010-55-23.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 135,
+  "cast": [
+    {
+      "qid": "Q35332",
+      "slug": "brad-pitt",
+      "name": "Brad Pitt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q180942",
+      "slug": "shia-labeouf",
+      "name": "Shia LaBeouf",
+      "role": "actor"
+    },
+    {
+      "qid": "Q221068",
+      "slug": "logan-lerman",
+      "name": "Logan Lerman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q359488",
+      "slug": "michael-pena",
+      "name": "Michael Peña",
+      "role": "actor"
+    },
+    {
+      "qid": "Q362616",
+      "slug": "jon-bernthal",
+      "name": "Jon Bernthal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q214223",
+      "slug": "jason-isaacs",
+      "name": "Jason Isaacs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1320494",
+      "slug": "scott-eastwood",
+      "name": "Scott Eastwood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350732",
+      "slug": "xavier-samuel",
+      "name": "Xavier Samuel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q641408",
+      "slug": "brad-william-henke",
+      "name": "Brad William Henke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269258",
+      "slug": "anamaria-marinca",
+      "name": "Anamaria Marinca",
+      "role": "actor"
+    },
+    {
+      "qid": "Q973472",
+      "slug": "jim-parrack",
+      "name": "Jim Parrack",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1254834",
+      "slug": "alicia-von-rittberg",
+      "name": "Alicia von Rittberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18707289",
+      "slug": "marek-oravec",
+      "name": "Marek Oravec",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6451452",
+      "slug": "kyle-soller",
+      "name": "Kyle Soller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21693662",
+      "slug": "jack-bannon",
+      "name": "Jack Bannon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4957491",
+      "slug": "branko-tomovic",
+      "name": "Branko Tomović",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1091339",
+    "slug": "david-ayer",
+    "name": "David Ayer",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

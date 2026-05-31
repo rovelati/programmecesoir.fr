@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "nelly-frijda",
+  "name": "Nelly Frijda",
+  "worksCount": 1,
+  "description": "actrice néerlandaise",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nelly%20Frijda%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1936-05-04",
+  "nationality": "Royaume des Pays-Bas",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q1555445",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Nelly_Frijda",
+    "imdb": "nm0295747",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-silence-autour-de-christine-m",
+      "title": "Le Silence autour de Christine M."
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

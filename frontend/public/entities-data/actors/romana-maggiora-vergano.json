@@ -1,0 +1,97 @@
+{
+  "type": "actor",
+  "slug": "romana-maggiora-vergano",
+  "name": "Romana Maggiora Vergano",
+  "worksCount": 1,
+  "description": "actrice italienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Romana%20Maggiora%20Vergano%20at%2081st%20Venice%20International%20Film%20Festival%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1997-11-27",
+  "nationality": "Italie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q123267387",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Romana_Maggiora_Vergano",
+    "imdb": "nm9902996",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "prima-la-vita",
+      "title": "Prima la vita"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67ea4023-944e-4375-bc3b-8c3de50b783e",
+      "title": "Prima la vita",
+      "programSlug": "prima-la-vita",
+      "programUrl": "/programme/canal-box-office/prima-la-vita",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 23:49:00+00",
+      "endTime": "2026-04-20 02:03:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5c8162ee-276c-4fa4-b839-13dc9acb693d",
+      "title": "Prima la vita",
+      "programSlug": "prima-la-vita",
+      "programUrl": "/programme/paramount-channel/prima-la-vita",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-21 07:15:00+00",
+      "endTime": "2026-04-21 09:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b653aad3-17dd-49a2-85df-7bd49a189b1a",
+      "title": "Prima la vita",
+      "programSlug": "prima-la-vita",
+      "programUrl": "/programme/canal-cinema/prima-la-vita",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-21 07:16:00+00",
+      "endTime": "2026-04-21 09:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8359f239-19d7-4f33-9df4-13c7845b95cd",
+      "title": "Prima la vita",
+      "programSlug": "prima-la-vita",
+      "programUrl": "/programme/paramount-channel/prima-la-vita",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 05:10:00+00",
+      "endTime": "2026-04-24 07:00:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "cbd4b245-88af-4751-9801-d03a1f06fa44",
+      "title": "Prima la vita",
+      "programSlug": "prima-la-vita",
+      "programUrl": "/programme/canal-cinema/prima-la-vita",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 05:11:00+00",
+      "endTime": "2026-04-24 07:01:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 23:49:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

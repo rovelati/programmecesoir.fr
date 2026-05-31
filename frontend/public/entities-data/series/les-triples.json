@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "slug": "les-triples",
+  "title": "Les triplés",
+  "airingsCount": 29,
+  "sourceTitles": [
+    "Les triplés"
+  ],
+  "genres": [
+    "Série",
+    "Série TV"
+  ],
+  "description": "Inséparables, une soeur et deux frères du même âge passent des bêtises aux mots tendres en très peu de temps. Comme beaucoup d'enfants, ils savent comment obtenir des choses en se montrant adorables puis bien plus polissons dès que les adultes ont le dos tourné. Leur mère et leur grand-père ont parfois bien du mal à canaliser l'énergie des trois bambins et à rivaliser avec leur imagination sans limite.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "channelNumber": 5,
+      "logoUrl": "/loghi/france-5.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-corse.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

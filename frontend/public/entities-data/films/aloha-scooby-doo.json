@@ -1,0 +1,82 @@
+{
+  "type": "film",
+  "slug": "aloha-scooby-doo",
+  "title": "Aloha, Scooby-Doo",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Aloha, Scooby-Doo"
+  ],
+  "genres": [
+    "comédie horrifique",
+    "film ou téléfilm à énigme",
+    "comédie",
+    "film de détective",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Sammy et Scooby-Doo se rendent à Hawaii avec tous leurs amis. Ils se réjouissent de pouvoir suivre sur place la grande compétition annuelle de surf. Mais, peu après leur arrivée sur l'île, de mystérieuses créatures s'en prennent aux sportifs. La population locale évoque une vieille malédiction. Daphné veut en avoir le coeur net et propose de mener une enquête approfondie...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang-1.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2005,
+  "durationMinutes": 70,
+  "cast": [
+    {
+      "qid": "Q296577",
+      "slug": "frank-welker",
+      "name": "Frank Welker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1047230",
+      "slug": "casey-kasem",
+      "name": "Casey Kasem",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13938",
+      "slug": "grey-delisle",
+      "name": "Grey DeLisle",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q112784244",
+    "slug": "tim-maltby",
+    "name": "Tim Maltby",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

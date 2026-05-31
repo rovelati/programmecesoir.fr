@@ -1,0 +1,89 @@
+{
+  "type": "film",
+  "slug": "cosmoball",
+  "title": "Cosmoball",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Cosmoball"
+  ],
+  "genres": [
+    "film de super-héros",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm de sport",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "film pour adolescents"
+  ],
+  "description": "En 2071, après que les guerres galactiques ont bouleversé le climat, la ville de Moscou est recouverte par une forêt tropicale. Au-dessus de la métropole plane un énorme vaisseau extraterrestre : c'est le stade dans lequel se déroulent de spectaculaires compétitions intergalactiques de Cosmoball. Cette discipline, qui oppose des équipes de terriens et d'extraterrestres, combine sport et combats. Le jeune Anton intègre l'équipe des meilleurs terriens sans connaître l'enjeu du match à venir, la survie de la planète...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bb2970dd-697e-41bf-b97d-f3cc56172458",
+      "title": "Cosmoball",
+      "programSlug": "cosmoball",
+      "programUrl": "/programme/cine-family/cosmoball",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 20:40:00+00",
+      "endTime": "2026-04-20 22:35:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": 118,
+  "cast": [
+    {
+      "qid": "Q1393540",
+      "slug": "ievgueni-mironov",
+      "name": "Ievgueni Mironov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2373179",
+      "slug": "mikhail-yefremov",
+      "name": "Mikhaïl Yefremov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466169",
+      "slug": "ielena-iakovleva",
+      "name": "Ielena Iakovleva",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q4480570",
+    "slug": "djanik-faiziev",
+    "name": "Djanik Faïziev",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 20:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

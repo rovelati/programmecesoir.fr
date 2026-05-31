@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "dougray-scott",
+  "name": "Dougray Scott",
+  "worksCount": 1,
+  "description": "acteur écossais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dougray%20Scott%20at%20Tiff%202023.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-11-25",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q452788",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dougray_Scott",
+    "imdb": "nm0779084",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mission-impossible",
+      "title": "Mission : Impossible"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ad00c21f-597b-4cc1-bce2-4f86a09235de",
+      "title": "Mission : Impossible",
+      "programSlug": "mission-impossible",
+      "programUrl": "/programme/canal-grand-ecran/mission-impossible",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 13:55:00+00",
+      "endTime": "2026-04-22 15:42:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a18a487f-ddbb-4f19-b170-3df7c06edc9c",
+      "title": "Mission : Impossible",
+      "programSlug": "mission-impossible",
+      "programUrl": "/programme/canal-grand-ecran/mission-impossible",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 21:04:00+00",
+      "endTime": "2026-04-23 22:51:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "817de838-d3a2-4d1b-bb7a-213f377c5817",
+      "title": "Mission : Impossible",
+      "programSlug": "mission-impossible",
+      "programUrl": "/programme/canal-grand-ecran/mission-impossible",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 14:40:00+00",
+      "endTime": "2026-04-25 16:26:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 13:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

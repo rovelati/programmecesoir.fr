@@ -1,0 +1,72 @@
+{
+  "type": "series",
+  "slug": "les-moodz",
+  "title": "Les Moodz",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Les Moodz"
+  ],
+  "genres": [
+    "Série",
+    "Série TV"
+  ],
+  "description": "Youpi invite Oups et Grongron à danser ensemble dans le jardin pour bien commencer la journée, mais Grongron est de mauvaise humeur et Oups a du mal à suivre la chorégraphie.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "channelNumber": 5,
+      "logoUrl": "/loghi/france-5.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "db72a098-e950-44f6-a16b-32609403d95a",
+      "title": "Les Moodz",
+      "programSlug": "les-moodz",
+      "programUrl": "/programme/france-5/les-moodz",
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "startTime": "2026-04-19 07:00:00+00",
+      "endTime": "2026-04-19 07:03:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d5e0f3b2-e527-4880-aeb8-84a31533996a",
+      "title": "Les Moodz",
+      "programSlug": "les-moodz",
+      "programUrl": "/programme/france-5/les-moodz",
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "startTime": "2026-04-19 07:03:00+00",
+      "endTime": "2026-04-19 07:15:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 07:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

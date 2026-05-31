@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "cathy-andrieu",
+  "name": "Cathy Andrieu",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-06-25",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2942176",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Cathy_Andrieu",
+    "imdb": "nm0028993",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "helene-et-les-garcons",
+      "title": "Hélène et les garçons"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1a47f86d-5864-4ab6-9252-0482c9eafc2f",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 02:50:00+00",
+      "endTime": "2026-04-20 03:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c0ec2bc6-e355-4c23-b572-7bef75d42b35",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 03:15:00+00",
+      "endTime": "2026-04-20 03:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7b8fcdcc-4414-4aec-972b-44aff86994cf",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 03:40:00+00",
+      "endTime": "2026-04-20 04:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d4778872-46e7-4866-8857-548fe0ceb32c",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 04:05:00+00",
+      "endTime": "2026-04-20 04:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "6864d43d-8fdd-40fe-bdbc-51bd3fadaf06",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 02:50:00+00",
+      "endTime": "2026-04-21 03:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d0bd8434-bd8e-4d3c-ab5c-816a4c2f60de",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 03:15:00+00",
+      "endTime": "2026-04-21 03:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "70d3e45b-9ddd-442c-9791-d7d871c4a225",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 03:40:00+00",
+      "endTime": "2026-04-21 04:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "604a49e8-c6ec-4b7b-a647-30bee6abff7d",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 04:05:00+00",
+      "endTime": "2026-04-21 04:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "062971b9-5d01-4f78-9e13-68acb8ae1d4e",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 02:50:00+00",
+      "endTime": "2026-04-22 03:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "3ab10be5-62ed-4f39-9443-99a77ce55361",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 03:15:00+00",
+      "endTime": "2026-04-22 03:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "6d267b44-dc26-49a6-a7ea-5a4d643b8d60",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 03:40:00+00",
+      "endTime": "2026-04-22 04:05:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "1d71e250-514b-4ebe-b1f8-f043d9962651",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 04:05:00+00",
+      "endTime": "2026-04-22 04:40:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 02:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

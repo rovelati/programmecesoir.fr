@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "hiromi-tsuru",
+  "name": "Hiromi Tsuru",
+  "worksCount": 1,
+  "description": "comédienne de doublage japonaise",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-03-29",
+  "nationality": "Japon",
+  "jobTitle": "seiyū",
+  "externalIds": {
+    "wikidata": "Q2311628",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Hiromi_Tsuru",
+    "imdb": "nm0875442",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "albator-84-l-atlantis-de-ma-jeunesse",
+      "title": "Albator 84 : L'Atlantis de ma jeunesse"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b12b8823-e503-4271-8a99-2caa64eaafbc",
+      "title": "Albator 84 : L'Atlantis de ma jeunesse",
+      "programSlug": "albator-84-l-atlantis-de-ma-jeunesse",
+      "programUrl": "/programme/mangas/albator-84-l-atlantis-de-ma-jeunesse",
+      "channelId": "mangas",
+      "channelName": "Mangas",
+      "channelSlug": "mangas",
+      "startTime": "2026-04-19 11:16:00+00",
+      "endTime": "2026-04-19 13:35:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 11:16:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

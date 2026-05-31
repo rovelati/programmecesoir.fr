@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "jackie-cooper",
+  "name": "Jackie Cooper",
+  "worksCount": 1,
+  "description": "acteur et cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jackie%20Cooper%20(1989).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1922-09-15",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q372073",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jackie_Cooper",
+    "imdb": "nm0178114",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "superman",
+      "title": "Superman"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dd661284-851d-410d-a76b-dec244acfeba",
+      "title": "Superman",
+      "programSlug": "superman",
+      "programUrl": "/programme/canal-box-office/superman",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 19:00:00+00",
+      "endTime": "2026-04-20 21:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fc673a01-b065-46ff-8229-30080a241bde",
+      "title": "Superman",
+      "programSlug": "superman",
+      "programUrl": "/programme/canal-box-office/superman",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 16:13:00+00",
+      "endTime": "2026-04-22 18:18:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

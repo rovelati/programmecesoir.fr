@@ -1,0 +1,82 @@
+{
+  "type": "film",
+  "slug": "the-apprentice",
+  "title": "The Apprentice",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "The Apprentice"
+  ],
+  "genres": [
+    "film ou téléfilm biographique"
+  ],
+  "description": "Au début des années 70, à New York. Après avoir étudié à la Wharton School, une des écoles de commerce les plus prestigieuses au monde, Donald Trump rejoint l'entreprise dirigée par son père, spécialisée dans la location de logements aux classes modestes. Le jeune homme fait immédiatement preuve d'une grande habileté dans la gestion de ses affaires. Visé par une enquête pour discrimination parce qu'il ne loue ses biens qu'aux blancs, il s'offre les services de Roy Cohn, un redoutable avocat qui parvient à lui éviter une condamnation en signant un accord avec la justice. Ravi de l'issue du procès, Donald Trump en fait alors son conseiller juridique...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 120,
+  "cast": [
+    {
+      "qid": "Q455898",
+      "slug": "sebastian-stan",
+      "name": "Sebastian Stan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15854232",
+      "slug": "jeremy-strong",
+      "name": "Jeremy Strong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q100740782",
+      "slug": "maria-bakalova",
+      "name": "Maria Bakalova",
+      "role": "actor"
+    },
+    {
+      "qid": "Q726130",
+      "slug": "martin-donovan",
+      "name": "Martin Donovan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9588",
+      "slug": "richard-nixon",
+      "name": "Richard Nixon",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q28842152",
+    "slug": "ali-abbasi",
+    "name": "Ali Abbasi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,159 @@
+{
+  "type": "actor",
+  "slug": "sandrine-kiberlain",
+  "name": "Sandrine Kiberlain",
+  "worksCount": 11,
+  "description": "actrice, réalisatrice et chanteuse française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandrine%20Kiberlain%20avp%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-02-25",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q262822",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sandrine_Kiberlain",
+    "imdb": "nm0452161",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-accident-de-piano",
+      "title": "L'Accident de piano"
+    },
+    {
+      "type": "film",
+      "slug": "les-2-alfred",
+      "title": "Les 2 Alfred"
+    },
+    {
+      "type": "film",
+      "slug": "les-femmes-du-6e-etage",
+      "title": "Les femmes du 6e étage"
+    },
+    {
+      "type": "film",
+      "slug": "9-mois-ferme",
+      "title": "9 mois ferme"
+    },
+    {
+      "type": "film",
+      "slug": "fleuve-noir",
+      "title": "Fleuve noir"
+    },
+    {
+      "type": "film",
+      "slug": "sarah-bernhardt-la-divine",
+      "title": "Sarah Bernhardt, la Divine"
+    },
+    {
+      "type": "film",
+      "slug": "le-parfum-vert",
+      "title": "Le Parfum vert"
+    },
+    {
+      "type": "film",
+      "slug": "le-petit-nicolas",
+      "title": "Le petit Nicolas"
+    },
+    {
+      "type": "film",
+      "slug": "pauline-detective",
+      "title": "Pauline détective"
+    },
+    {
+      "type": "film",
+      "slug": "quand-on-a-17-ans",
+      "title": "Quand on a 17 ans"
+    },
+    {
+      "type": "film",
+      "slug": "la-petite-vadrouille",
+      "title": "La Petite Vadrouille"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "57e91742-2867-49ba-aa36-d4096f288a1f",
+      "title": "L'Accident de piano",
+      "programSlug": "l-accident-de-piano",
+      "programUrl": "/programme/canal-cinema/l-accident-de-piano",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-19 20:34:00+00",
+      "endTime": "2026-04-19 22:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "53b2e1df-6552-4488-950d-8818da6953ca",
+      "title": "L'accident de piano",
+      "programSlug": "l-accident-de-piano",
+      "programUrl": "/programme/paramount-channel/l-accident-de-piano",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-19 20:35:00+00",
+      "endTime": "2026-04-19 22:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fe63be11-7825-458c-9bcb-73d22b6422fa",
+      "title": "Le petit Nicolas",
+      "programSlug": "le-petit-nicolas",
+      "programUrl": "/programme/canal-grand-ecran/le-petit-nicolas",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 17:35:00+00",
+      "endTime": "2026-04-20 19:04:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "80e500fe-20b7-4a45-8028-3a28b1724220",
+      "title": "Sarah Bernhardt, la Divine",
+      "programSlug": "sarah-bernhardt-la-divine",
+      "programUrl": "/programme/cine-emotion/sarah-bernhardt-la-divine",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 20:37:00+00",
+      "endTime": "2026-04-20 22:13:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c3588aeb-09b5-4266-a382-b2a3b1e89889",
+      "title": "L'Accident de piano",
+      "programSlug": "l-accident-de-piano",
+      "programUrl": "/programme/canal-box-office/l-accident-de-piano",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 08:36:00+00",
+      "endTime": "2026-04-22 10:01:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "654df7e8-1d28-485b-887e-f07f1bb9656c",
+      "title": "Le Parfum vert",
+      "programSlug": "le-parfum-vert",
+      "programUrl": "/programme/cine-frisson/le-parfum-vert",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 23:19:00+00",
+      "endTime": "2026-04-25 00:53:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 20:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "dany-paris",
+  "name": "Dany París",
+  "worksCount": 1,
+  "description": "actrice et présentatrice de télévision française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1938-05-27",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3702424",
+    "wikipedia": null,
+    "imdb": "nm0661541",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-ragazza",
+      "title": "La ragazza"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

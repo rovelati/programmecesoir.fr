@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "bruno-ganz",
+  "name": "Bruno Ganz",
+  "worksCount": 1,
+  "description": "acteur suisse",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruno%20Ganz%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1941-03-22",
+  "nationality": "Suisse",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q123206",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bruno_Ganz",
+    "imdb": "nm0004486",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "nosferatu",
+      "title": "Nosferatu"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

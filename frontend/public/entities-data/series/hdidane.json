@@ -1,0 +1,96 @@
+{
+  "type": "series",
+  "slug": "hdidane",
+  "title": "Hdidane",
+  "airingsCount": 12,
+  "sourceTitles": [
+    "Hdidane"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Farceur, beau parleur et surtout doté d'une grande ruse, Hdidane a le don de s'attirer les ennuis. Mais, il finit toujours par s'en sortir au grand dam de ses ennemis. Cette fois-ci, les choses se passeront autrement pour notre baroudeur. Après son aventure en Egypte antique, il nous embarque dans des nouvelles péripéties.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 12
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "aba7bc5f-d230-47c7-9123-747307e26a79",
+      "title": "Hdidane",
+      "programSlug": "hdidane",
+      "programUrl": "/programme/2m-maroc/hdidane",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-20 06:35:00+00",
+      "endTime": "2026-04-20 07:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4f32ba01-54c1-4d23-95dd-93fac8852d2b",
+      "title": "Hdidane",
+      "programSlug": "hdidane",
+      "programUrl": "/programme/2m-maroc/hdidane",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-21 06:40:00+00",
+      "endTime": "2026-04-21 07:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6e002f31-dcb3-4a9b-8821-b8b085737d8d",
+      "title": "Hdidane",
+      "programSlug": "hdidane",
+      "programUrl": "/programme/2m-maroc/hdidane",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-22 06:40:00+00",
+      "endTime": "2026-04-22 07:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "1cf6187a-1853-434f-90ca-4004b68b2d59",
+      "title": "Hdidane",
+      "programSlug": "hdidane",
+      "programUrl": "/programme/2m-maroc/hdidane",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-23 06:35:00+00",
+      "endTime": "2026-04-23 07:35:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 06:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

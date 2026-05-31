@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "wolf-man",
+  "title": "Wolf Man",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Wolf Man"
+  ],
+  "genres": [
+    "thriller",
+    "film et téléfilm d'horreur",
+    "surnaturel horreur",
+    "film de loup-garou",
+    "body horror film",
+    "fiction",
+    "long métrage"
+  ],
+  "description": "Alors que son couple bat de l'aile, Blake Lovell convainc sa femme Charlotte de changer d'air et d'aller vivre avec leur fille dans la ferme de l'Oregon dont il vient d'hériter. Mais lorsque les Lovell arrivent à la propriété, ils sont attaqués, en pleine nuit, par un mystérieux animal qui blesse Blake...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q5111829",
+      "slug": "christopher-abbott",
+      "name": "Christopher Abbott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13560358",
+      "slug": "julia-garner",
+      "name": "Julia Garner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131387695",
+      "slug": "matilda-firth",
+      "name": "Matilda Firth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q382094",
+      "slug": "sam-jaeger",
+      "name": "Sam Jaeger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108540693",
+      "slug": "ben-prendergast",
+      "name": "Ben Prendergast",
+      "role": "actor"
+    },
+    {
+      "qid": "Q89104082",
+      "slug": "benedict-hardie",
+      "name": "Benedict Hardie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4210577",
+      "slug": "milo-cawthorne",
+      "name": "Milo Cawthorne",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q471215",
+    "slug": "leigh-whannell",
+    "name": "Leigh Whannell",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "type": "film",
+  "slug": "soldiers-of-fortune",
+  "title": "Soldiers of Fortune",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Soldiers of Fortune"
+  ],
+  "genres": [
+    "film et téléfilm d'action"
+  ],
+  "description": "Le capitaine McKenzie, un ancien militaire des forces spéciales tombé en disgrâce et reconverti dans la sécurité, est chargé par une société privée de chaperonner un groupe de millionnaires avides de sensations fortes. Ceux-ci participent en effet à un programme de simulation censé reproduire des scènes de combat militaire de façon extrêmement réaliste. Ils ont eux-mêmes financé le projet mais ignorent qu'il s'agit d'une couverture. Rapidement, les protagonistes et leur recherche d'adrénaline à tout prix font basculer l'expédition. Leurs adversaires se révèlent quant à eux bien plus coriaces que prévu...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q204590",
+      "slug": "christian-slater",
+      "name": "Christian Slater",
+      "role": "actor"
+    },
+    {
+      "qid": "Q191104",
+      "slug": "sean-bean",
+      "name": "Sean Bean",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310315",
+      "slug": "ving-rhames",
+      "name": "Ving Rhames",
+      "role": "actor"
+    },
+    {
+      "qid": "Q152165",
+      "slug": "dominic-monaghan",
+      "name": "Dominic Monaghan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q299483",
+      "slug": "james-cromwell",
+      "name": "James Cromwell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q553111",
+      "slug": "charlie-bewley",
+      "name": "Charlie Bewley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313671",
+      "slug": "colm-meaney",
+      "name": "Colm Meaney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q362697",
+      "slug": "freddy-rodriguez",
+      "name": "Freddy Rodríguez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q937888",
+      "slug": "ryan-donowho",
+      "name": "Ryan Donowho",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4107061",
+      "slug": "guennadi-venguerov",
+      "name": "Guennadi Venguerov",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q66490564",
+    "slug": "maxim-korostyshevsky",
+    "name": "Maxim Korostyshevsky",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

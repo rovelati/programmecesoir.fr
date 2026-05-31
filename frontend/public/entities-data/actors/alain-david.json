@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "alain-david",
+  "name": "Alain David",
+  "worksCount": 1,
+  "description": "acteur français de cinéma, de télévision et de théâtre",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1939-08-25",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q18213901",
+    "wikipedia": "https://fr.wikipedia.org/wiki/David_Gabison",
+    "imdb": "nm0300072",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "vipere-au-poing",
+      "title": "Vipère au poing"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

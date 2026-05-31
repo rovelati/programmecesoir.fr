@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "spectateurs",
+  "title": "Spectateurs !",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Spectateurs !"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Au début des années 1970, Paul Dédalus, âgé à l'époque de 6 ans, se rend pour la première fois dans une salle de cinéma en compagnie de sa grand-mère et de sa soeur. Pour le petit garçon, c'est une véritable révélation : il tombe immédiatement amoureux du septième art. Durant des années, Paul enchaîne des dizaines de films, allant jusqu'à visionner trois fois les oeuvres qu'il apprécie. A 14 ans, il ment sur son âge pour pouvoir voir un drame d'Ingmar Bergman. Au lycée, il fonde un ciné-club. A l'aube de la vingtaine, il est devenu un véritable cinéphile. Le jeune homme ambitionne alors de passer derrière la caméra...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q355835",
+      "slug": "mathieu-amalric",
+      "name": "Mathieu Amalric",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3086542",
+      "slug": "francoise-lebrun",
+      "name": "Françoise Lebrun",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q691335",
+    "slug": "arnaud-desplechin",
+    "name": "Arnaud Desplechin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,167 @@
+{
+  "type": "film",
+  "slug": "matrix-reloaded",
+  "title": "Matrix Reloaded",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Matrix Reloaded"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "film ou téléfilm de science-fiction",
+    "film d'arts martiaux",
+    "cyberpunk",
+    "film dystopique",
+    "film de super-héros"
+  ],
+  "description": "Dans un futur indéterminé. La guerre contre les machines s'est intensifiée. Les humains sont forcés d'affronter en permanence des machines déterminées à les réduire en esclavage. Une terrifiante nouvelle tombe : 250 000 sentinelles vont bientôt débarquer, chargées de détruire ce qui reste de vie sur Terre. Neo, l'Elu, est désigné pour sauver ses congénères. Il ne lui reste que 72 heures pour éviter que ces sentinelles ne découvrent et n'anéantissent la cité de Zion. Non content de se battre pour sauver l'Humanité, Neo entreprend également de venir en aide à la belle Trinity, dont il entrevoit, en rêve, le destin tragique...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The.Matrix.glmatrix.2.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "17fe7c6b-e9f9-4106-97c1-5fa4634053c7",
+      "title": "Matrix Reloaded",
+      "programSlug": "matrix-reloaded",
+      "programUrl": "/programme/canal-grand-ecran/matrix-reloaded",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 14:02:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2003,
+  "durationMinutes": 138,
+  "cast": [
+    {
+      "qid": "Q193048",
+      "slug": "laurence-fishburne",
+      "name": "Laurence Fishburne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q206890",
+      "slug": "carrie-anne-moss",
+      "name": "Carrie-Anne Moss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42204",
+      "slug": "hugo-weaving",
+      "name": "Hugo Weaving",
+      "role": "actor"
+    },
+    {
+      "qid": "Q455234",
+      "slug": "gloria-foster",
+      "name": "Gloria Foster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q115735",
+      "slug": "lambert-wilson",
+      "name": "Lambert Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q81819",
+      "slug": "monica-bellucci",
+      "name": "Monica Bellucci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q115932",
+      "slug": "daniel-bernhardt",
+      "name": "Daniel Bernhardt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228787",
+      "slug": "jada-pinkett-smith",
+      "name": "Jada Pinkett Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310551",
+      "slug": "harold-perrineau-jr",
+      "name": "Harold Perrineau Jr.",
+      "role": "actor"
+    },
+    {
+      "qid": "Q471215",
+      "slug": "leigh-whannell",
+      "name": "Leigh Whannell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q608709",
+      "slug": "harry-lennix",
+      "name": "Harry Lennix",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318110",
+      "slug": "randall-duk-kim",
+      "name": "Randall Duk Kim",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43416",
+      "slug": "keanu-reeves",
+      "name": "Keanu Reeves",
+      "role": "actor"
+    },
+    {
+      "qid": "Q574190",
+      "slug": "anthony-zerbe",
+      "name": "Anthony Zerbe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447717",
+      "slug": "essie-davis",
+      "name": "Essie Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q338048",
+      "slug": "collin-chou",
+      "name": "Collin Chou",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q9545711",
+    "slug": "lana-wachowski",
+    "name": "Lana Wachowski",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 14:02:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

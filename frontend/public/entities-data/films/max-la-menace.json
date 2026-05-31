@@ -1,0 +1,171 @@
+{
+  "type": "film",
+  "slug": "max-la-menace",
+  "title": "Max la menace",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Max la menace",
+    "Max la Menace"
+  ],
+  "genres": [
+    "film ou téléfilm d'espionnage",
+    "film et téléfilm d'action"
+  ],
+  "description": "Kaos est une organisation criminelle qui a attaqué le quartier général de l'agence de renseignements américaine Control. A tout moment, l'identité de tous ses membres peut être révélée et ainsi compromettre la sécurité du pays et même du monde tout entier. Maxwell Smart, simple analyste, est alors promu agent secret sous le nom de Max la Menace. Il part en mission, mais pas avec le célèbre super agent 23 comme il en a toujours rêvé. Il se retrouve en effet contraint de collaborer avec l'agent 99, aussi ravissante que redoutable. Avec des gadgets high-tech et un enthousiasme qu'il parvient mal à contrôler, Maxwell va devoir faire échouer les plans de Siegfried, le chef de Kaos...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab3.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9643570a-a31b-4a0a-96dc-9b247dbe9e8a",
+      "title": "Max la menace",
+      "programSlug": "max-la-menace",
+      "programUrl": "/programme/cine-family/max-la-menace",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 15:43:00+00",
+      "endTime": "2026-04-25 17:30:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q216221",
+      "slug": "steve-carell",
+      "name": "Steve Carell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q36301",
+      "slug": "anne-hathaway",
+      "name": "Anne Hathaway",
+      "role": "actor"
+    },
+    {
+      "qid": "Q10738",
+      "slug": "dwayne-johnson",
+      "name": "Dwayne Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108283",
+      "slug": "alan-arkin",
+      "name": "Alan Arkin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q77298",
+      "slug": "terence-stamp",
+      "name": "Terence Stamp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271464",
+      "slug": "terry-crews",
+      "name": "Terry Crews",
+      "role": "actor"
+    },
+    {
+      "qid": "Q164328",
+      "slug": "david-koechner",
+      "name": "David Koechner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95043",
+      "slug": "james-caan",
+      "name": "James Caan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q29250",
+      "slug": "bill-murray",
+      "name": "Bill Murray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q343564",
+      "slug": "patrick-warburton",
+      "name": "Patrick Warburton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309503",
+      "slug": "masi-oka",
+      "name": "Masi Oka",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44482",
+      "slug": "the-great-khali",
+      "name": "The Great Khali",
+      "role": "actor"
+    },
+    {
+      "qid": "Q562827",
+      "slug": "ken-davitian",
+      "name": "Ken Davitian",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1321037",
+      "slug": "tim-dekay",
+      "name": "Tim DeKay",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3936377",
+      "slug": "nate-torrence",
+      "name": "Nate Torrence",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4172513",
+      "slug": "jessica-barth",
+      "name": "Jessica Barth",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q339551",
+    "slug": "peter-segal",
+    "name": "Peter Segal",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 15:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

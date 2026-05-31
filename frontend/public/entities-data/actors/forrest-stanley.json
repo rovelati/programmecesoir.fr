@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "forrest-stanley",
+  "name": "Forrest Stanley",
+  "worksCount": 1,
+  "description": "acteur américain (1889-1969)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Forrest-Stanley-1922.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1889-08-21",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q375092",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Forrest_Stanley",
+    "imdb": "nm0822477",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "madame-la-presidente",
+      "title": "Madame la Présidente"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

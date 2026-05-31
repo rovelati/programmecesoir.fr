@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "aaron-taylor-johnson",
+  "name": "Aaron Taylor-Johnson",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": "Aaron Taylor-Johnson incarne avec aisance des rôles variés, passant du drame intimiste au blockbuster fantastique. Son jeu naturel et sa présence à l'écran captent immédiatement l'attention. Il excelle particulièrement dans des personnages complexes, souvent en quête d'identité ou aux prises avec des forces qui les dépassent, apportant une profondeur humaine à chaque interprétation. Pour le téléspectateur, c'est sa capacité à se fondre dans des univers très différents, tout en conservant une authenticité troublante, qui fascine. Découvrez ses performances les plus marquantes, des premières heures prometteuses aux rôles les plus récents, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rahm%20Emanuel%2C%20Aaron%20Taylor-Johnson%20and%20Brad%20Pitt%20at%20'Bullet%20Train'%20event%20at%20Tokyo%20Station%202022-08-23%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-06-13",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q45923",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Aaron_Taylor-Johnson",
+    "imdb": "nm1093951",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "28-ans-plus-tard",
+      "title": "28 Ans plus tard"
+    },
+    {
+      "type": "film",
+      "slug": "kraven-the-hunter",
+      "title": "Kraven the Hunter"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7752c2d-8827-443c-9054-c9fc5642a8b9",
+      "title": "Kraven the Hunter",
+      "programSlug": "kraven-the-hunter",
+      "programUrl": "/programme/canal-box-office/kraven-the-hunter",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 09:10:00+00",
+      "endTime": "2026-04-19 11:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "98e736c3-6592-4db0-9993-a70900b867ea",
+      "title": "28 Ans plus tard",
+      "programSlug": "28-ans-plus-tard",
+      "programUrl": "/programme/canal/28-ans-plus-tard",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 21:14:00+00",
+      "endTime": "2026-04-25 23:06:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:16.276Z",
+  "nextAiringAt": "2026-04-19 09:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

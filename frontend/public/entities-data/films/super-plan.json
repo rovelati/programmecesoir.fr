@@ -1,0 +1,219 @@
+{
+  "type": "film",
+  "slug": "super-plan",
+  "title": "Super plan",
+  "airingsCount": 13,
+  "sourceTitles": [
+    "Super plan"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Cette semaine, Antoine mène l’enquête avec Laetitia Casta et Rémi Bezançon (\"Le crime du 3e étage\"), Jérémy Ferrari cherche un trésor (\"Les K’dor\") et Renan voit Laurent Lafitte en double (« Alter Ego »). Mais aussi : Mina dans le cabaret de Camélia Jordana, Simon chez les castors de Pixar, Antek, Bertrand Goncalves, et toujours quelques super plans à emporter…",
+  "descriptionAi": "Super plan est une comédie policière pleine d'énergie, mêlant humour et suspense dans une ambiance décalée et rythmée. Le film suit une enquête improbable menée par un duo de personnages hauts en couleur, interprétés par Laetitia Casta et Rémi Bezançon, dont la dynamique explosive et les répliques cinglantes captivent l'attention. Ce qui le rend particulièrement intéressant est son habile mélange de genres, offrant à la fois des moments de franche rigolade et une intrigue bien ficelée qui tient en haleine. Une escapade cinématographique divertissante et intelligente, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "93ef073a-7d77-4865-a2f0-70f745859487",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal-box-office/super-plan",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 05:54:00+00",
+      "endTime": "2026-04-21 06:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "aa2028b8-d936-49c0-84c1-c7be8b558851",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal-box-office/super-plan",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 16:08:00+00",
+      "endTime": "2026-04-21 16:49:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "aa3759e7-e263-42d5-a4ed-401c5107f3dc",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal/super-plan",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 21:12:00+00",
+      "endTime": "2026-04-21 21:54:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "96396afd-653a-41fe-90d1-44303efcfd12",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal-box-office/super-plan",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 18:18:00+00",
+      "endTime": "2026-04-22 19:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "49d5038b-2853-46b3-9030-066307b5c539",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal/super-plan",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-23 03:33:00+00",
+      "endTime": "2026-04-23 04:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "275ec0cd-9dd4-48be-b98e-e504d1ee35c6",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal/super-plan",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-23 07:44:00+00",
+      "endTime": "2026-04-23 08:26:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "c6db1e90-89df-4938-92f3-a1cddd356b67",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal-box-office/super-plan",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 23:48:00+00",
+      "endTime": "2026-04-24 00:31:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "ca3d67b9-0231-4fbe-aff7-62efcbf76c72",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal-box-office/super-plan",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 05:38:00+00",
+      "endTime": "2026-04-24 06:21:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "40b5dcef-f2fc-4dde-b417-fb3b05b0c87f",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal/super-plan",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-24 18:22:00+00",
+      "endTime": "2026-04-24 19:10:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "621b13ce-6fcd-413b-bd8c-22d4a3d9999c",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal-cinema/super-plan",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-25 05:38:00+00",
+      "endTime": "2026-04-25 06:19:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f181eb4f-9335-42ec-9131-b0a393d6fe74",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal/super-plan",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 10:30:00+00",
+      "endTime": "2026-04-25 11:14:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "1592105f-cf37-4d52-bb6c-89ed43d13ee0",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal-box-office/super-plan",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 18:18:00+00",
+      "endTime": "2026-04-25 19:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "264bfd19-c40d-45dd-b3f3-960184b5ad64",
+      "title": "Super plan",
+      "programSlug": "super-plan",
+      "programUrl": "/programme/canal-box-office/super-plan",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-26 04:57:00+00",
+      "endTime": "2026-04-26 05:38:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q16678239",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Super_plantes",
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 0.85,
+  "updatedAt": "2026-03-23T21:26:58.319Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 05:54:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

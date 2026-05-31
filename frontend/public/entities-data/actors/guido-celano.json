@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "guido-celano",
+  "name": "Guido Celano",
+  "worksCount": 1,
+  "description": "acteur italien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Guido%20Celano.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1904-04-19",
+  "nationality": "Italie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q460063",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Guido_Celano",
+    "imdb": "nm0147940",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-bel-antonio",
+      "title": "Le bel Antonio"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

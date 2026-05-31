@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "megaboa",
+  "title": "Megaboa",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Megaboa"
+  ],
+  "genres": [
+    "Téléfilm"
+  ],
+  "description": "Le docteur Malone et ses étudiants mènent des recherches sur des dessins rupestres situés dans une île au large de la Colombie. Quand Malone est mordu à la jambe par une araignée frelon, il sait qu'il n'a plus que 36 heures environ à vivre. Malheureusement, leur hélicoptère ne peut leur porter secours à cause du mauvais temps. Sur les conseils de Joaquin, un individu rencontré sur l'île, les étudiants de Malone se mettent en quête d'une orchidée unique aux pouvoirs curateurs. Mais quand il arrivent à l'endroit indiqué par Joaquin, c'est pour découvrir que la plante est bien gardée par un gigantesque boa constrictor extrêmement agressif...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mcm.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 85,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

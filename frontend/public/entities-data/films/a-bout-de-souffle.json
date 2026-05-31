@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "a-bout-de-souffle",
+  "title": "A bout de souffle",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "A bout de souffle"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Après avoir volé une voiture à Marseille, Michel Poiccard est pourchassé par un motard pour excès de vitesse sur la route de Paris. Il se débarrasse définitivement de son poursuivant d'un tir de revolver. Parvenu dans la capitale, Michel dérobe un peu d'argent à une amie, puis retrouve une jeune étudiante américaine, Patricia Franchini, qui vend le \"New York Herald Tribune\" sur les Champs-Elysées. Amoureux, il voudrait partir avec elle à Rome. Patricia se laisse séduire par Michel et le rejoint dans sa chambre. Les jeunes gens évoquent leur dégoût de la vie et leurs angoisses. Ils s'interrogent sur leur amour. Mais la police recherche Michel...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b71eeea-aefe-4600-8afd-52e96c7bc3df",
+      "title": "A bout de souffle",
+      "programSlug": "a-bout-de-souffle",
+      "programUrl": "/programme/cine-classic/a-bout-de-souffle",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 22:28:00+00",
+      "endTime": "2026-04-23 23:56:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1960,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q106255",
+      "slug": "jean-paul-belmondo",
+      "name": "Jean-Paul Belmondo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230681",
+      "slug": "jean-seberg",
+      "name": "Jean Seberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q685277",
+      "slug": "daniel-boulanger",
+      "name": "Daniel Boulanger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q168693",
+      "slug": "jean-pierre-melville",
+      "name": "Jean-Pierre Melville",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848599",
+      "slug": "andre-s-labarthe",
+      "name": "André S. Labarthe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2977756",
+      "slug": "claude-mansard",
+      "name": "Claude Mansard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3085407",
+      "slug": "francois-moreuil",
+      "name": "François Moreuil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3130398",
+      "slug": "henri-jacques-huet",
+      "name": "Henri-Jacques Huet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3159998",
+      "slug": "jacques-siclier",
+      "name": "Jacques Siclier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3171768",
+      "slug": "jean-domarchi",
+      "name": "Jean Domarchi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q918681",
+      "slug": "jean-douchet",
+      "name": "Jean Douchet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2729701",
+      "slug": "jean-louis-richard",
+      "name": "Jean-Louis Richard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1108323",
+      "slug": "jose-benazeraf",
+      "name": "José Bénazéraf",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3240824",
+      "slug": "liliane-david",
+      "name": "Liliane David",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3430489",
+      "slug": "richard-balducci",
+      "name": "Richard Balducci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q945936",
+      "slug": "roger-hanin",
+      "name": "Roger Hanin",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q53001",
+    "slug": "jean-luc-godard",
+    "name": "Jean-Luc Godard",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 22:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

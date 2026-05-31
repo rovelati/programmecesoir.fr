@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "hazel-brooks",
+  "name": "Hazel Brooks",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hazel%20Brooks.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1924-09-08",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q531868",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Hazel_Brooks",
+    "imdb": "nm0112014",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-demoiselles-harvey",
+      "title": "Les demoiselles Harvey"
+    },
+    {
+      "type": "film",
+      "slug": "arc-de-triomphe",
+      "title": "Arc de Triomphe"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42470116-e985-4491-9932-ea53e3ff43f4",
+      "title": "Les demoiselles Harvey",
+      "programSlug": "les-demoiselles-harvey",
+      "programUrl": "/programme/cine-classic/les-demoiselles-harvey",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-19 12:10:00+00",
+      "endTime": "2026-04-19 13:48:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 12:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

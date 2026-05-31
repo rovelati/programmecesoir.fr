@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "l-enfance-nue",
+  "title": "L'enfance nue",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "L'enfance nue"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "François, 10 ans, a été abandonné par sa mère, qui s'est toutefois réservé le droit de le reprendre quand bon lui semblera. Terrible situation pour ce gamin, qui ne peut pas plus quitter son passé que sauter dans l'avenir. Son comportement lui vaut bientôt d'être qualifié de caractériel. Placé dans une famille de mineurs, il fait montre d'une telle inadaptation que les autorités sont contraintes de le reprendre et de le confier à d'autres parents nourriciers, les Minguet, une famille d'Hénin-Liétard. Au début, tout semble aller pour le mieux. François prend exemple sur Raoul, l'aîné des enfants Minguet, lui aussi enfant de l'Assistance, et soigne avec dévotion la grand-mère...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1968,
+  "durationMinutes": 82,
+  "cast": [
+    {
+      "qid": "Q2131240",
+      "slug": "raoul-billerey",
+      "name": "Raoul Billerey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3426924",
+      "slug": "rene-thierry",
+      "name": "René Thierry",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q503898",
+    "slug": "maurice-pialat",
+    "name": "Maurice Pialat",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

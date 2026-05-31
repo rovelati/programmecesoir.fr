@@ -1,0 +1,66 @@
+{
+  "type": "actor",
+  "slug": "patrick-d-assumcao",
+  "name": "Patrick d'Assumçao",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20d'Assum%C3%A7ao%20janvier%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1959-06-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q21426938",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Patrick_d'Assum%C3%A7ao",
+    "imdb": "nm1253936",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "deux-moi",
+      "title": "Deux moi"
+    },
+    {
+      "type": "film",
+      "slug": "le-tigre-et-le-president",
+      "title": "Le Tigre et le Président"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "859fca5e-3e91-4cc0-8855-a64a252c808c",
+      "title": "Le Tigre et le Président",
+      "programSlug": "le-tigre-et-le-president",
+      "programUrl": "/programme/cine-frisson/le-tigre-et-le-president",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 23:18:00+00",
+      "endTime": "2026-04-20 00:53:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e35d2b3a-ab76-4686-8779-9a6479c47000",
+      "title": "Deux moi",
+      "programSlug": "deux-moi",
+      "programUrl": "/programme/canal-grand-ecran/deux-moi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 01:26:00+00",
+      "endTime": "2026-04-22 03:38:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 23:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

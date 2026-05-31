@@ -1,0 +1,118 @@
+{
+  "type": "actor",
+  "slug": "diane-lane",
+  "name": "Diane Lane",
+  "worksCount": 3,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diane%20Lane%20(Berlin%20Film%20Festival%202011)%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-01-22",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q255070",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Diane_Lane",
+    "imdb": "nm0000178",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "man-of-steel",
+      "title": "Man of Steel"
+    },
+    {
+      "type": "film",
+      "slug": "justice-league",
+      "title": "Justice League"
+    },
+    {
+      "type": "film",
+      "slug": "outsiders",
+      "title": "Outsiders"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c6640e-5371-434d-a569-01e9fd4211a2",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/canal-grand-ecran/man-of-steel",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 12:51:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "82500398-59e9-40c4-9c7e-3dc46ff98ed8",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/canal-grand-ecran/justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 01:13:00+00",
+      "endTime": "2026-04-20 03:22:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "58ff2527-6de2-41e5-933b-9240d15074a4",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 14:59:00+00",
+      "endTime": "2026-04-20 17:18:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "24919d3f-8d16-45dd-b094-513b5060d653",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 11:30:00+00",
+      "endTime": "2026-04-23 13:48:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "08cc7bec-c0a5-4adc-b17c-88b82387e40f",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/cine-frisson/justice-league",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 08:27:00+00",
+      "endTime": "2026-04-24 10:24:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "909c41a6-c8c4-4d1b-aaca-9efee3f4d9f8",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/canal-grand-ecran/justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 08:27:00+00",
+      "endTime": "2026-04-25 10:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 12:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

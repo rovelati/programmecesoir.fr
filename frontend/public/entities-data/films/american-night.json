@@ -1,0 +1,77 @@
+{
+  "type": "film",
+  "slug": "american-night",
+  "title": "American Night",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "American Night"
+  ],
+  "genres": [
+    "thriller",
+    "film et téléfilm d'horreur"
+  ],
+  "description": "La réapparition d'un célèbre tableau provoque le chaos dans le monde de l'art contemporain. Commence alors une lutte à mort entre un chef de la mafia et un marchand d'art.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "channelNumber": null,
+      "logoUrl": "/loghi/13eme-rue.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2002,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q437576",
+      "slug": "debbie-rochon",
+      "name": "Debbie Rochon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q432087",
+      "slug": "chris-ryan",
+      "name": "Chris Ryan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2925592",
+      "slug": "brinke-stevens",
+      "name": "Brinke Stevens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3476291",
+      "slug": "scott-phillips",
+      "name": "Scott Phillips",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q15491812",
+    "slug": "jon-keeyes",
+    "name": "Jon Keeyes",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

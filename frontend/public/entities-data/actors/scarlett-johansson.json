@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "scarlett-johansson",
+  "name": "Scarlett Johansson",
+  "worksCount": 2,
+  "description": "actrice, productrice, réalisatrice, scénariste et chanteuse américano-danoise",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scarlett%20Johansson%20by%20Gage%20Skidmore%202%20(cropped)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1984-11-22",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q34436",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Scarlett_Johansson",
+    "imdb": "nm0424060",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "black-widow",
+      "title": "Black Widow"
+    },
+    {
+      "type": "film",
+      "slug": "juste-cause",
+      "title": "Juste cause"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "sariri",
+  "title": "Sariri",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Sariri"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Dans un village minier perdu en plein coeur du désert dans le nord du Chili, les femmes sont soumises aux diktats imposés par les hommes. Dina, 16 ans, sous la pression d'une grossesse non désirée, prévoit de partir pour la ville, fuyant ainsi le machisme ambiant. Sa soeur Sariri, qui vient d'avoir ses premières règles, se prépare elle aussi à un avenir difficile marqué par l'isolement et les traditions. Dina refuse de laisser celle-ci subir la brutalité de cette société patriarcale et veut la protéger. Elle se trouve alors confrontée à la difficile décision de l'emmener, ou non, avec elle dans son périple à travers le désert...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

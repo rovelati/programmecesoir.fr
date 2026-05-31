@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "edward-grover",
+  "name": "Edward Grover",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1932-10-23",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1292407",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Grover",
+    "imdb": "nm0344013",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-justicier-dans-la-ville",
+      "title": "Un justicier dans la ville"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b38a6330-ea1c-4f73-bbf8-2a20ef657bdc",
+      "title": "Un justicier dans la ville",
+      "programSlug": "un-justicier-dans-la-ville",
+      "programUrl": "/programme/tcm-cinema/un-justicier-dans-la-ville",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 20:20:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

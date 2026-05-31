@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "angus-deayton",
+  "name": "Angus Deayton",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Angus%20Deayton.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1956-01-06",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2131672",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Angus_Deayton",
+    "imdb": "nm0213291",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "mr-bean",
+      "title": "Mr Bean"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f5cec665-3561-446d-9f93-05725a1073a5",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 06:00:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "36f18893-49d5-487a-9cd4-b9ebbd205862",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 11:00:00+00",
+      "endTime": "2026-04-19 11:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "700129c1-84cb-4959-8c87-273d4a246691",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 11:10:00+00",
+      "endTime": "2026-04-19 11:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fc801b92-032a-41eb-bcc8-13f3bc850cc3",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 11:20:00+00",
+      "endTime": "2026-04-19 11:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7ac3ab78-1ffe-4053-8ea3-115ff57d8ea9",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/6ter/mr-bean",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 16:10:00+00",
+      "endTime": "2026-04-19 16:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "163a2661-5699-4575-9a1b-fcb0495cc59f",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/6ter/mr-bean",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 16:40:00+00",
+      "endTime": "2026-04-19 17:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5bdb3577-c9d3-4031-839a-2cf4dda6ed07",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 16:45:00+00",
+      "endTime": "2026-04-19 16:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f42a78a7-0a90-4aaa-aa2f-b1a8c1f8df07",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 16:55:00+00",
+      "endTime": "2026-04-19 17:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7c953b4d-ab81-4acf-a194-e6b9e1cef930",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 17:05:00+00",
+      "endTime": "2026-04-19 17:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "de5a0411-2411-4c51-b9c5-6398fdf87994",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/6ter/mr-bean",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 17:10:00+00",
+      "endTime": "2026-04-19 17:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "87c7cb06-b212-4ece-a7c2-030d4edbb62c",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 17:15:00+00",
+      "endTime": "2026-04-19 17:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b149f78d-ff50-42e7-b2da-bd87fb07736e",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/6ter/mr-bean",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 17:50:00+00",
+      "endTime": "2026-04-19 18:20:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 06:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "hercule",
+  "title": "Hercule",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Hercule"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Après avoir exécuté ses douze travaux, le demi-dieu Hercule est las de combattre. Pressé de retrouver les siens, sa femme Megara et ses enfant, il fait une terrible découverte : sa famille a été décimée par des chiens à trois têtes. Sa force n'a pu empêcher un tel drame. Hercule est terrassé de douleur. C'est alors que les autorités du royaume de Thrace font appel à lui afin de restaurer la paix. Depuis des années, le peuple s'entre-déchire et le pays n'a plus de chef. D'abord réticent, Hercule finit par prendre la tête d'un groupe de mercenaires. Parmi eux, la belle Atalante. Cette redoutable guerrière se montre la digne fille de la reine des Amazones...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HerculesCC.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "df10ddaa-96f6-452a-bfba-c8e1ead9abd6",
+      "title": "Hercule",
+      "programSlug": "hercule",
+      "programUrl": "/programme/rtl9/hercule",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-24 18:55:00+00",
+      "endTime": "2026-04-24 20:45:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-24 18:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

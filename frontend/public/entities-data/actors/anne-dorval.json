@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "anne-dorval",
+  "name": "Anne Dorval",
+  "worksCount": 1,
+  "description": "actrice québécoise",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Dorval%20Cannes%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-11-08",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2851072",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anne_Dorval",
+    "imdb": "nm0234237",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-proces-du-chien",
+      "title": "Le procès du chien"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

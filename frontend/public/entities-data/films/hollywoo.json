@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "hollywoo",
+  "title": "Hollywoo",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Hollywoo"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Jeanne assure le doublage français de Jennifer Marshall, star de \"L.A. Couples\", une série américaine à succès. Calquant son mode de vie sur celui de Jennifer, elle mène grand train, multiplie les caprices et tyrannise son entourage. Tout s'écroule le jour où Jennifer Marshall annonce qu'elle quitte la série. Ayant jusqu'alors vécu aux crochets de la star, la malheureuse Jeanne se retrouve au chômage. Terrorisée à l'idée de devoir repasser des castings minables, elle découvre la solution à son problème : s'envoler pour Hollywood, tirer Jennifer de sa retraite et la convaincre de reprendre son rôle. En chemin, elle rencontre un certain Farres, qui lui fait découvrir l'univers et les codes de Hollywood...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hollywood%20sign%20hill%20view.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 0.85,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "tang-nguyen",
+  "name": "Tang Nguyen",
+  "worksCount": 1,
+  "description": "actor",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": null,
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q23938911",
+    "wikipedia": null,
+    "imdb": "nm1574222",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "black-adam",
+      "title": "Black Adam"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "companion",
+  "title": "Companion",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Companion"
+  ],
+  "genres": [
+    "thriller",
+    "film ou téléfilm de science-fiction",
+    "humour noir"
+  ],
+  "description": "Partie passer le week-end dans une maison située au bord d'un lac, Iris s'attend à profiter d'un séjour de rêve aux côtés de Josh, son compagnon, et de leur groupe d'amis. Malheureusement, la petite escapade prend une tournure dramatique lorsque la jeune femme découvre un terrible secret la concernant...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Companion%20(2025)%20poster.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q61996880",
+      "slug": "sophie-thatcher",
+      "name": "Sophie Thatcher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1139078",
+      "slug": "jack-quaid",
+      "name": "Jack Quaid",
+      "role": "actor"
+    },
+    {
+      "qid": "Q47467699",
+      "slug": "lukas-gage",
+      "name": "Lukas Gage",
+      "role": "actor"
+    },
+    {
+      "qid": "Q110663727",
+      "slug": "megan-suri",
+      "name": "Megan Suri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55395897",
+      "slug": "harvey-guillen",
+      "name": "Harvey Guillén",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314659",
+      "slug": "rupert-friend",
+      "name": "Rupert Friend",
+      "role": "actor"
+    },
+    {
+      "qid": "Q52274823",
+      "slug": "jaboukie-young-white",
+      "name": "Jaboukie Young-White",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6789033",
+      "slug": "matt-mccarthy",
+      "name": "Matt McCarthy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28969240",
+      "slug": "marc-menchaca",
+      "name": "Marc Menchaca",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q127050054",
+    "slug": "drew-hancock",
+    "name": "Drew Hancock",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

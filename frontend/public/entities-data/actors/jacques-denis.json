@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jacques-denis",
+  "name": "Jacques Denis",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Denis.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1943-05-12",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q3158699",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jacques_Denis_(acteur)",
+    "imdb": "nm0219151",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-horloger-de-saint-paul",
+      "title": "L'horloger de Saint-Paul"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

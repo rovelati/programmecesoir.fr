@@ -1,0 +1,165 @@
+{
+  "type": "film",
+  "slug": "royal-affair",
+  "title": "Royal Affair",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Royal Affair"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm historique",
+    "film ou téléfilm d'amour",
+    "film ou téléfilm biographique",
+    "mélodrame"
+  ],
+  "description": "Depuis 1766, le roi Christian VII règne sur le Danemark. Mais son instabilité mentale le rend incapable d'exercer sa charge. Pour essayer de le soigner, il est fait appel au docteur Struensee, praticien imprégné des idées révolutionnaires des Lumières. La maladie de son patient fait du médecin un intime de la famille. Il devient l'amant de la reine, Caroline-Mathilde, à qui l'immature roi Christian ne portait guère d'attention, préférant fréquenter les maisons closes. Struensee va distraire et manipuler le monarque, rallier la reine à ses idées et la pousser à guider le royaume sur la voie d'importantes réformes sociales, vingt ans avant la révolution française...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1b2265b5-a18b-487f-b7ca-730cb0fd8c4f",
+      "title": "Royal Affair",
+      "programSlug": "royal-affair",
+      "programUrl": "/programme/cine-emotion/royal-affair",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 22:21:00+00",
+      "endTime": "2026-04-24 00:35:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 128,
+  "cast": [
+    {
+      "qid": "Q294647",
+      "slug": "mads-mikkelsen",
+      "name": "Mads Mikkelsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q439314",
+      "slug": "alicia-vikander",
+      "name": "Alicia Vikander",
+      "role": "actor"
+    },
+    {
+      "qid": "Q121237",
+      "slug": "mikkel-boe-f-lsgaard",
+      "name": "Mikkel Boe Følsgaard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q768899",
+      "slug": "david-dencik",
+      "name": "David Dencik",
+      "role": "actor"
+    },
+    {
+      "qid": "Q84081",
+      "slug": "s-ren-malling",
+      "name": "Søren Malling",
+      "role": "actor"
+    },
+    {
+      "qid": "Q469983",
+      "slug": "trine-dyrholm",
+      "name": "Trine Dyrholm",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3515027",
+      "slug": "william-j-hnk-nielsen",
+      "name": "William Jøhnk Nielsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5200983",
+      "slug": "cyron-melville",
+      "name": "Cyron Melville",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5251588",
+      "slug": "rosalinde-mynster",
+      "name": "Rosalinde Mynster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5251626",
+      "slug": "laura-bro",
+      "name": "Laura Bro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2347440",
+      "slug": "bent-mejding",
+      "name": "Bent Mejding",
+      "role": "actor"
+    },
+    {
+      "qid": "Q967680",
+      "slug": "thomas-w-gabrielsson",
+      "name": "Thomas W. Gabrielsson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2756306",
+      "slug": "s-ren-spanning",
+      "name": "Søren Spanning",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5251598",
+      "slug": "klaus-tange",
+      "name": "Klaus Tange",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11967773",
+      "slug": "erika-guntherova",
+      "name": "Erika Guntherová",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2735848",
+      "slug": "john-martinus",
+      "name": "John Martinus",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2867634",
+    "slug": "nikolaj-arcel",
+    "name": "Nikolaj Arcel",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 22:21:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

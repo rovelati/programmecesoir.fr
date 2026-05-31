@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "noir-comme-neige",
+  "title": "Noir comme neige",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Noir comme neige"
+  ],
+  "genres": [
+    "Téléfilm policier"
+  ],
+  "description": "Dans une station de ski, une adjudante du Peloton de Gendarmerie de Haute Montagne et un policier suisse enquêtent sur la mort suspecte d'un adolescent.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "channelNumber": null,
+      "logoUrl": "/loghi/13eme-rue.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q3219247",
+      "slug": "laurent-gerra",
+      "name": "Laurent Gerra",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1103950",
+      "slug": "clementine-poidatz",
+      "name": "Clémentine Poidatz",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3591389",
+    "slug": "eric-valette",
+    "name": "Éric Valette",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

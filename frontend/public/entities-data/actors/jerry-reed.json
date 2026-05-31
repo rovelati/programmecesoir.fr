@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jerry-reed",
+  "name": "Jerry Reed",
+  "worksCount": 1,
+  "description": "chanteur, compositeur et guitariste de country, cinéaste",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jerry%20Reed%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1937-03-20",
+  "nationality": "États-Unis",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q712914",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jerry_Reed",
+    "imdb": "nm0715274",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "air-force-bat-21",
+      "title": "Air Force Bat 21"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

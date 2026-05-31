@@ -1,0 +1,118 @@
+{
+  "type": "actor",
+  "slug": "lois-smith",
+  "name": "Lois Smith",
+  "worksCount": 3,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lois%20Smith%201955.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1930-11-03",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q258246",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lois_Smith",
+    "imdb": "nm0809135",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "minority-report",
+      "title": "Minority Report"
+    },
+    {
+      "type": "film",
+      "slug": "the-nice-guys",
+      "title": "The Nice Guys"
+    },
+    {
+      "type": "film",
+      "slug": "night-run",
+      "title": "Night Run"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "69b0c45e-9dfe-4a8e-bf54-be10ad4217b0",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-19 14:25:00+00",
+      "endTime": "2026-04-19 16:47:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d2b13d63-a3f4-4163-8399-42feaa813b90",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 09:06:00+00",
+      "endTime": "2026-04-21 11:28:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a0c52da9-af7b-4ef3-b450-b74ee2ecf97c",
+      "title": "Night Run",
+      "programSlug": "night-run",
+      "programUrl": "/programme/cine-frisson/night-run",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 20:34:00+00",
+      "endTime": "2026-04-22 22:22:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e9795fec-6cc4-4bd7-a44f-8b33a175bb7c",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 09:24:00+00",
+      "endTime": "2026-04-24 11:46:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "e5ea0f2a-1c28-434c-9b94-c218155ad40d",
+      "title": "Night Run",
+      "programSlug": "night-run",
+      "programUrl": "/programme/cine-frisson/night-run",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 13:41:00+00",
+      "endTime": "2026-04-25 15:35:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "e11ee0f6-1638-41ea-8821-e23f960a9289",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 20:22:00+00",
+      "endTime": "2026-04-25 22:44:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 14:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

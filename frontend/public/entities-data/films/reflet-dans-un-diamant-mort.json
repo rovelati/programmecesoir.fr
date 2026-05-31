@@ -1,0 +1,77 @@
+{
+  "type": "film",
+  "slug": "reflet-dans-un-diamant-mort",
+  "title": "Reflet dans un diamant mort",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Reflet dans un diamant mort"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller"
+  ],
+  "description": "John D, un ancien espion septuagénaire vivant désormais dans un hôtel de luxe sur la Côte d'Azur, voit son intrigante voisine de chambre disparaître mystérieusement. Ce fait replonge John face à ses démons : ses adversaires d'antan sont-ils de retour pour semer le chaos dans son monde idyllique ?...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q739291",
+      "slug": "fabio-testi",
+      "name": "Fabio Testi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2411736",
+      "slug": "yannick-renier",
+      "name": "Yannick Renier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2103750",
+      "slug": "koen-de-bouw",
+      "name": "Koen De Bouw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235115",
+      "slug": "maria-de-medeiros",
+      "name": "Maria de Medeiros",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q17289068",
+    "slug": "helene-cattet",
+    "name": "Hélène Cattet",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

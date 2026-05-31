@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "olivier-richters",
+  "name": "Olivier Richters",
+  "worksCount": 2,
+  "description": "culturiste et acteur néerlandais",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1989-09-05",
+  "nationality": "Royaume des Pays-Bas",
+  "jobTitle": "homme ou femme forte",
+  "externalIds": {
+    "wikidata": "Q65031068",
+    "wikipedia": "https://en.wikipedia.org/wiki/Olivier_Richters",
+    "imdb": "nm3689528",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "black-widow",
+      "title": "Black Widow"
+    },
+    {
+      "type": "film",
+      "slug": "indiana-jones-et-le-cadran-de-la-destinee",
+      "title": "Indiana Jones et le cadran de la destinée"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

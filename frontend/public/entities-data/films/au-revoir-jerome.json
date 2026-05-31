@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "au-revoir-jerome",
+  "title": "Au revoir Jérôme !",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Au revoir Jérôme !"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Tout juste arrivé au paradis, Jérôme se met en quête de sa femme Maryline. Au fil de ses recherches, il s'enfonce de plus en plus dans un monde surréaliste.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nouvelle-aquitaine.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

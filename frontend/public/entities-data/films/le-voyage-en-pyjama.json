@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "le-voyage-en-pyjama",
+  "title": "Le voyage en pyjama",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le voyage en pyjama"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "comédie",
+    "film ou téléfilm d'amour",
+    "comédie romantique"
+  ],
+  "description": "Quadragénaire insaisissable, Victor aime vivre au jour le jour, au grand dam d'Anne, sa compagne lassée de ses frasques. Professeur de lettres, Victor décide de profiter de ses vacances pour se lancer dans un road trip, à la poursuite d'un passé et de vieilles connaissances qui lui manquent terriblement. Sur sa route, il croise des amis perdus de vue, mais aussi ses anciennes compagnes. Pour la plupart ravies de le revoir, elles mettent surtout à profit ces retrouvailles pour lui rappeler les souffrances subies en raison de son côté fantasque et de sa totale incapacité à s'investir dans une relation...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2023,
+  "durationMinutes": 89,
+  "cast": [
+    {
+      "qid": "Q124330368",
+      "slug": "alexandre-lafaurie",
+      "name": "Alexandre Lafaurie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108472218",
+      "slug": "constance-labbe",
+      "name": "Constance Labbé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1661394",
+      "slug": "lolita-chammah",
+      "name": "Lolita Chammah",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2884036",
+      "slug": "barbara-schulz",
+      "name": "Barbara Schulz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2852396",
+      "slug": "anouchka-delon",
+      "name": "Anouchka Delon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18169333",
+      "slug": "emmanuelle-bouaziz",
+      "name": "Emmanuelle Bouaziz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1871396",
+      "slug": "louis-do-de-lencquesaing",
+      "name": "Louis-Do de Lencquesaing",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230659",
+      "slug": "irene-jacob",
+      "name": "Irène Jacob",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460423",
+      "slug": "claude-perron",
+      "name": "Claude Perron",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380212",
+      "slug": "philippe-lelievre",
+      "name": "Philippe Lelièvre",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123135",
+      "slug": "pierre-arditi",
+      "name": "Pierre Arditi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449640",
+      "slug": "anny-duperey",
+      "name": "Anny Duperey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q861481",
+      "slug": "stephanie-crayencour",
+      "name": "Stéphanie Crayencour",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1620037",
+      "slug": "hippolyte-girardot",
+      "name": "Hippolyte Girardot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1609167",
+      "slug": "christian-vadim",
+      "name": "Christian Vadim",
+      "role": "actor"
+    },
+    {
+      "qid": "Q86369125",
+      "slug": "maira-schmitt",
+      "name": "Maïra Schmitt",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3367619",
+    "slug": "pascal-thomas",
+    "name": "Pascal Thomas",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "james-ransone",
+  "name": "James Ransone",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-06-02",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q44273",
+    "wikipedia": "https://fr.wikipedia.org/wiki/James_Ransone",
+    "imdb": "nm0710447",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "inside-man-l-homme-de-l-interieur",
+      "title": "Inside Man, l'homme de l'intérieur"
+    },
+    {
+      "type": "film",
+      "slug": "tangerine",
+      "title": "Tangerine"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "29e9b305-d625-4b27-9f98-80eefcf809ae",
+      "title": "Tangerine",
+      "programSlug": "tangerine",
+      "programUrl": "/programme/cine-festival/tangerine",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-21 21:42:00+00",
+      "endTime": "2026-04-21 23:06:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 21:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,77 @@
+{
+  "type": "film",
+  "slug": "quand-on-a-17-ans",
+  "title": "Quand on a 17 ans",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Quand on a 17 ans"
+  ],
+  "genres": [
+    "drame",
+    "film LGBT"
+  ],
+  "description": "Dans un lycée de montagne, Thomas, un enfant adopté, se montre violent avec Damien, le fils d'un militaire et de Marianne, médecin. Une attitude que personne ne comprend. Un jour, Thomas appelle Marianne pour qu'elle examine sa mère, souffrante. Le médecin découvre que cette dernière est enceinte...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q262822",
+      "slug": "sandrine-kiberlain",
+      "name": "Sandrine Kiberlain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3191724",
+      "slug": "kacey-mottet-klein",
+      "name": "Kacey Mottet-Klein",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23774012",
+      "slug": "corentin-fila",
+      "name": "Corentin Fila",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2623182",
+      "slug": "alexis-loret",
+      "name": "Alexis Loret",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q523144",
+    "slug": "andre-techine",
+    "name": "André Téchiné",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

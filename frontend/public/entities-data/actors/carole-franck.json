@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "carole-franck",
+  "name": "Carole Franck",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carole%20Franck%20au%20Festival%20de%20Cannes%202010.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1044296",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Carole_Franck",
+    "imdb": "nm0290420",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "en-equilibre",
+      "title": "En équilibre"
+    },
+    {
+      "type": "film",
+      "slug": "les-liens-du-sang",
+      "title": "Les liens du sang"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

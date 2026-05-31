@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "ben-hogan",
+  "name": "Ben Hogan",
+  "worksCount": 1,
+  "description": "golfeur professionnel américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben%20Hogan%20NYWTS.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1912-08-13",
+  "nationality": "États-Unis",
+  "jobTitle": "golfeur",
+  "externalIds": {
+    "wikidata": "Q365626",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ben_Hogan",
+    "imdb": null,
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "amour-delices-et-golf",
+      "title": "Amour, délices et golf"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "le-prix-de-la-trahison",
+  "title": "Le prix de la trahison",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le prix de la trahison"
+  ],
+  "genres": [
+    "Téléfilm",
+    "Telefilms"
+  ],
+  "description": "C'est à Angoulême où elle vit que Marie Jourdan a convié son ami Paul Danceny à fêter son 35e anniversaire de mariage. Malheureusement, la fête est brutalement interrompue par des policiers qui viennent arrêter son fils Alex, marié et père d'une petite fille, pour le meurtre de sa maîtresse, une journaliste locale. Ce n'est que le début de la descente aux enfers pour Marie, dont le tableau familial idéal est de plus en plus lacéré par les révélations de l'enquête. Outre la liaison extra-conjugale de son fils, Marie va découvrir que son mari a financé son nouveau restaurant avec de l'argent sale appartenant à son ennemi juré, un homme d'affaires sulfureux.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teva.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "68224765-7545-458a-a9de-fae481f19649",
+      "title": "Le prix de la trahison",
+      "programSlug": "le-prix-de-la-trahison",
+      "programUrl": "/programme/la-une/le-prix-de-la-trahison",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-24 18:57:00+00",
+      "endTime": "2026-04-24 20:37:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 92,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-24 18:57:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

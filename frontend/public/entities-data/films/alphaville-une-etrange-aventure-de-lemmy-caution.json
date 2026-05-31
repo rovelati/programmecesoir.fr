@@ -1,0 +1,129 @@
+{
+  "type": "film",
+  "slug": "alphaville-une-etrange-aventure-de-lemmy-caution",
+  "title": "Alphaville, une étrange aventure de Lemmy Caution",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Alphaville, une étrange aventure de Lemmy Caution"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film dystopique",
+    "drame",
+    "film ou téléfilm criminel",
+    "arthouse science fiction film"
+  ],
+  "description": "1984. Les autorités des \"planètes extérieures\" envoient l'agent secret Lemmy Caution en mission à Alphaville, une cité déshumanisée, éloignée de quelques années-lumière de la Terre. Caution est chargé de neutraliser le professeur von Braun, le tout-puissant maître d'Alphaville, qui y a aboli tous les sentiments humains. Un redoutable ordinateur, Alpha 60, régit toute la ville. Un message de Dickson, un ex-agent secret, ordonne à Lemmy de \"détruire Alpha 60 et de sauver ceux qui pleurent\". Mais Lemmy est enlevé, interrogé par Alpha 60 et condamné à mort...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alphaville%20(1965)%20-%20US%20movie%20poster.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ed1aa73f-86ac-4c9a-8db4-d2bb879db9dc",
+      "title": "Alphaville, une étrange aventure de Lemmy Caution",
+      "programSlug": "alphaville-une-etrange-aventure-de-lemmy-caution",
+      "programUrl": "/programme/cine-classic/alphaville-une-etrange-aventure-de-lemmy-caution",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 00:52:00+00",
+      "endTime": "2026-04-24 02:28:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1965,
+  "durationMinutes": 89,
+  "cast": [
+    {
+      "qid": "Q561234",
+      "slug": "eddie-constantine",
+      "name": "Eddie Constantine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232113",
+      "slug": "anna-karina",
+      "name": "Anna Karina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q418424",
+      "slug": "akim-tamiroff",
+      "name": "Akim Tamiroff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q116145",
+      "slug": "howard-vernon",
+      "name": "Howard Vernon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q446583",
+      "slug": "jean-louis-comolli",
+      "name": "Jean-Louis Comolli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295834",
+      "slug": "jean-pierre-leaud",
+      "name": "Jean-Pierre Léaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q375191",
+      "slug": "laszlo-szabo",
+      "name": "László Szabó",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3309416",
+      "slug": "michel-delahaye",
+      "name": "Michel Delahaye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3554236",
+      "slug": "valerie-boisgel",
+      "name": "Valérie Boisgel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22006155",
+      "slug": "christa-lang",
+      "name": "Christa Lang",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q53001",
+    "slug": "jean-luc-godard",
+    "name": "Jean-Luc Godard",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 00:52:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

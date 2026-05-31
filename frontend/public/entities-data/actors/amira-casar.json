@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "amira-casar",
+  "name": "Amira Casar",
+  "worksCount": 3,
+  "description": "actrice française",
+  "descriptionAi": "Amira Casar est une actrice française au parcours singulier, naviguant entre le cinéma d'auteur et les productions internationales. Son jeu, d'une grande intensité et d'une retenue élégante, lui permet d'incarner des personnages complexes, souvent marqués par une profonde intériorité. L'ambiance de ses films oscille fréquemment entre le drame intimiste et le mystère psychologique. Pour le téléspectateur, son intérêt réside dans sa présence à l'écran, à la fois énigmatique et captivante, qui donne une épaisseur unique à chaque rôle. Elle est une interprète qui ne cesse de surprendre par ses choix audacieux. Pour découvrir ses performances les plus marquantes, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amira%20Casar%20Call%20Me%20By%20Your%20Name%20Photo%20Call%20Berlinale%202017.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-05-01",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q271553",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Amira_Casar",
+    "imdb": "nm0142972",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sarah-bernhardt-la-divine",
+      "title": "Sarah Bernhardt, la Divine"
+    },
+    {
+      "type": "film",
+      "slug": "la-verite-si-je-mens-2",
+      "title": "La vérité si je mens ! 2"
+    },
+    {
+      "type": "series",
+      "slug": "from-behind",
+      "title": "From Behind"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "80e500fe-20b7-4a45-8028-3a28b1724220",
+      "title": "Sarah Bernhardt, la Divine",
+      "programSlug": "sarah-bernhardt-la-divine",
+      "programUrl": "/programme/cine-emotion/sarah-bernhardt-la-divine",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 20:37:00+00",
+      "endTime": "2026-04-20 22:13:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:05.405Z",
+  "nextAiringAt": "2026-04-20 20:37:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

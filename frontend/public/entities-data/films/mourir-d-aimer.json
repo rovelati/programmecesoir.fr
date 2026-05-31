@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "mourir-d-aimer",
+  "title": "Mourir d'aimer",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Mourir d'aimer"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Danièle Guénot, 32 ans, divorcée, deux enfants, est professeur de latin-français à Rouen. Elle est aimée de ses élèves pour sa jeunesse d'esprit et la compréhension saine qu'elle leur manifeste. Lors des événements de mai 68, elle organise chez elle des réunions de discussion et de remise en cause de la société. Un de ses élèves, Gérard Leguen, âgé de 17 ans, tombe amoureux d'elle et le lui dit. Elle le repousse, pour le préserver surtout, mais sachant aussi ce qu'ils risquent. Pourtant, elle finit par céder à cet amour qu'elle partage. Les parents de Gérard, avertis, crient au scandale et déposent plainte. Danièle est condamnée pour détournement de mineur...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q542092",
+    "slug": "josee-dayan",
+    "name": "Josée Dayan",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

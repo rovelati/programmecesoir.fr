@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "fritz-alberti",
+  "name": "Fritz Alberti",
+  "worksCount": 1,
+  "description": "acteur allemand",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1877-10-22",
+  "nationality": "Allemagne",
+  "jobTitle": "acteur ou actrice de voix-off",
+  "externalIds": {
+    "wikidata": "Q95962",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fritz_Alberti",
+    "imdb": "nm0016641",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "ballerino",
+      "title": "Ballerino"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

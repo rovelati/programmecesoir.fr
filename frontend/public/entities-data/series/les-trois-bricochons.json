@@ -1,0 +1,80 @@
+{
+  "type": "series",
+  "slug": "les-trois-bricochons",
+  "title": "Les trois Bricochons",
+  "airingsCount": 25,
+  "sourceTitles": [
+    "Les trois Bricochons"
+  ],
+  "genres": [
+    "Série",
+    "Série TV"
+  ],
+  "description": "Les lapinous n'arrivent pas à faire la sieste car leur mobile est cassé. Les Bricochons sont ravis de leur en fabriquer un nouveau mais les améliorations les amusent tellement que l'effet est inverse : les endormir devient impossible !",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "channelNumber": 5,
+      "logoUrl": "/loghi/france-5.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "40fe5a47-51e2-4da6-96e7-75ea12f649ef",
+      "title": "Les trois Bricochons",
+      "programSlug": "les-trois-bricochons",
+      "programUrl": "/programme/france-5/les-trois-bricochons",
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "startTime": "2026-04-19 06:15:00+00",
+      "endTime": "2026-04-19 06:23:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f38e5c00-9336-4c16-9ffe-4a1045fa20da",
+      "title": "Les trois Bricochons",
+      "programSlug": "les-trois-bricochons",
+      "programUrl": "/programme/france-5/les-trois-bricochons",
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "startTime": "2026-04-19 06:23:00+00",
+      "endTime": "2026-04-19 06:40:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 06:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

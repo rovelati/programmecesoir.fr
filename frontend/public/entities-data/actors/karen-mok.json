@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "karen-mok",
+  "name": "Karen Mok",
+  "worksCount": 2,
+  "description": "actrice et chanteuse née à Hong Kong",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karen%20Mok%20(%E8%8E%AB%E6%96%87%E8%94%9A)%20at%20the%20TV%20show%20%22The%20Singing%20Battle%20(%E5%A4%A9%E7%B1%81%E4%B9%8B%E6%88%98)%22%20on%2031%20Oct%202016%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-06-02",
+  "nationality": "République populaire de Chine",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q716027",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Karen_Mok",
+    "imdb": "nm0596297",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-homme-du-tai-chi",
+      "title": "L'homme du Tai Chi"
+    },
+    {
+      "type": "film",
+      "slug": "man-of-tai-chi",
+      "title": "Man of Tai Chi"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bc6ffbc8-b3bd-4edb-9765-8dd983551db2",
+      "title": "Man of Tai Chi",
+      "programSlug": "man-of-tai-chi",
+      "programUrl": "/programme/canal-grand-ecran/man-of-tai-chi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-26 05:50:00+00",
+      "endTime": "2026-04-26 07:32:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-26 05:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

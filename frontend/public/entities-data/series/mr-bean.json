@@ -1,0 +1,352 @@
+{
+  "type": "series",
+  "slug": "mr-bean",
+  "title": "Mr Bean",
+  "airingsCount": 256,
+  "sourceTitles": [
+    "Mr Bean"
+  ],
+  "genres": [
+    "sitcom",
+    "comique de geste",
+    "film ou téléfilm familial",
+    "comédie"
+  ],
+  "description": "Mister Bean prend un taxi pour aller à son magasin de jouets local, mais un chauffeur de taxi louche pense pouvoir mener Mister Bean en bateau. Après un malentendu Mister Bean finit par conduire lui-même le taxi et prend du plaisir à transporter les gens à leurs destinations. Ce dernier offre même une belle visite de Londres à un touriste américain. Mais le chauffeur de taxi finira-t-il par connaitre la véritable histoire et à combien s'élèvera le prix total de la course de Bean ?...",
+  "descriptionAi": "Cette série britannique, débutée en 1990, est un classique de la sitcom et du comique de geste. Sur six saisons, elle dépeint avec génie les mésaventures burlesques et silencieuses de l'éternel enfant qu'est Mr Bean. L'ambiance est légère, absurde et universellement comique, reposant sur le talent physique de Rowan Atkinson. Son intérêt réside dans cette capacité à provoquer le rire sans un mot, à travers des situations du quotidien transformées en chaos hilarant, ce qui en fait une comédie familiale intemporelle. Ne manquez pas ses aventures, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mr.%20Bean%202007.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang.png",
+      "airingsCount": 128
+    },
+    {
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang-1.png",
+      "airingsCount": 128
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f5cec665-3561-446d-9f93-05725a1073a5",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 06:00:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "36f18893-49d5-487a-9cd4-b9ebbd205862",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 11:00:00+00",
+      "endTime": "2026-04-19 11:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "700129c1-84cb-4959-8c87-273d4a246691",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 11:10:00+00",
+      "endTime": "2026-04-19 11:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fc801b92-032a-41eb-bcc8-13f3bc850cc3",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 11:20:00+00",
+      "endTime": "2026-04-19 11:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7ac3ab78-1ffe-4053-8ea3-115ff57d8ea9",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/6ter/mr-bean",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 16:10:00+00",
+      "endTime": "2026-04-19 16:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "163a2661-5699-4575-9a1b-fcb0495cc59f",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/6ter/mr-bean",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 16:40:00+00",
+      "endTime": "2026-04-19 17:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5bdb3577-c9d3-4031-839a-2cf4dda6ed07",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 16:45:00+00",
+      "endTime": "2026-04-19 16:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f42a78a7-0a90-4aaa-aa2f-b1a8c1f8df07",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 16:55:00+00",
+      "endTime": "2026-04-19 17:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7c953b4d-ab81-4acf-a194-e6b9e1cef930",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 17:05:00+00",
+      "endTime": "2026-04-19 17:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "de5a0411-2411-4c51-b9c5-6398fdf87994",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/6ter/mr-bean",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 17:10:00+00",
+      "endTime": "2026-04-19 17:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "87c7cb06-b212-4ece-a7c2-030d4edbb62c",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/boomerang/mr-bean",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 17:15:00+00",
+      "endTime": "2026-04-19 17:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b149f78d-ff50-42e7-b2da-bd87fb07736e",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/6ter/mr-bean",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 17:50:00+00",
+      "endTime": "2026-04-19 18:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4b338b91-4b5a-443f-a698-d1974c63f191",
+      "title": "Mr Bean",
+      "programSlug": "mr-bean",
+      "programUrl": "/programme/6ter/mr-bean",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 18:20:00+00",
+      "endTime": "2026-04-19 19:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a30ca03c-3af6-4495-b0de-86324fabb5bf",
+      "title": "Mr Bean - S04E26",
+      "programSlug": "mr-bean-s04e26",
+      "programUrl": "/programme/boomerang-1/mr-bean-s04e26",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-20 06:15:00+00",
+      "endTime": "2026-04-20 06:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "358dc6c4-e222-4509-993b-fb99a82c97d0",
+      "title": "Mr Bean - S04E27",
+      "programSlug": "mr-bean-s04e27",
+      "programUrl": "/programme/boomerang-1/mr-bean-s04e27",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-20 06:30:00+00",
+      "endTime": "2026-04-20 06:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "843dc5df-80eb-4ba6-971f-c45ad69d146d",
+      "title": "Mr Bean - S04E28",
+      "programSlug": "mr-bean-s04e28",
+      "programUrl": "/programme/boomerang-1/mr-bean-s04e28",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-20 06:45:00+00",
+      "endTime": "2026-04-20 07:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d7fb960d-f57d-4647-bbd1-e7413a0cecca",
+      "title": "Mr Bean - S04E29",
+      "programSlug": "mr-bean-s04e29",
+      "programUrl": "/programme/boomerang-1/mr-bean-s04e29",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-20 07:00:00+00",
+      "endTime": "2026-04-20 07:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3f5576e5-2ab1-48f9-89e6-e8da57d70fa4",
+      "title": "Mr Bean - S04E10",
+      "programSlug": "mr-bean-s04e10",
+      "programUrl": "/programme/boomerang-1/mr-bean-s04e10",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-20 12:00:00+00",
+      "endTime": "2026-04-20 12:10:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:26.707Z",
+  "startYear": 1990,
+  "numberOfSeasons": 6,
+  "cast": [
+    {
+      "qid": "Q23760",
+      "slug": "rowan-atkinson",
+      "name": "Rowan Atkinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1761327",
+      "slug": "robin-driscoll",
+      "name": "Robin Driscoll",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459605",
+      "slug": "matilda-ziegler",
+      "name": "Matilda Ziegler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2131672",
+      "slug": "angus-deayton",
+      "name": "Angus Deayton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q467362",
+      "slug": "sophie-thompson",
+      "name": "Sophie Thompson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q516671",
+      "slug": "richard-wilson",
+      "name": "Richard Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275383",
+      "slug": "phyllis-calvert",
+      "name": "Phyllis Calvert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3806815",
+      "slug": "jamie-yeates",
+      "name": "Jamie Yeates",
+      "role": "actor"
+    },
+    {
+      "qid": "Q943914",
+      "slug": "howard-goodall",
+      "name": "Howard Goodall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2734945",
+      "slug": "richard-briers",
+      "name": "Richard Briers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1964106",
+      "slug": "rupert-vansittart",
+      "name": "Rupert Vansittart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q935153",
+      "slug": "roger-lloyd-pack",
+      "name": "Roger Lloyd Pack",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q23760",
+    "slug": "rowan-atkinson",
+    "name": "Rowan Atkinson",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 06:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

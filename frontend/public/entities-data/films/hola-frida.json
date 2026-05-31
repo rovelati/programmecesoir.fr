@@ -1,0 +1,53 @@
+{
+  "type": "film",
+  "slug": "hola-frida",
+  "title": "Hola Frida",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Hola Frida"
+  ],
+  "genres": [
+    "film ou téléfilm familial",
+    "film ou téléfilm historique",
+    "film ou téléfilm biographique"
+  ],
+  "description": "Au début du XXe siècle, à Coyoacan, un quartier situé au sud de la capitale mexicaine. Pétillante, vibrante, Frida est une fillette qui s'intéresse à tout. Visiblement différente de ses camarades, elle s'aide de son imaginaire débordant afin de faire face aux nombreuses épreuves qu'elle doit affronter. Atteinte d'une poliomyélite qui provoque une atrophie de sa jambe droite, Frida subit les moqueries des élèves de sa classe, elle se réfugie dans son propre monde, où elle possède des super-pouvoirs qui lui permettent de franchir les murs qui se dressent devant elle. Elle fait bientôt montre d'un talent incroyable pour la peinture...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 82,
+  "cast": [],
+  "director": {
+    "qid": "Q56605648",
+    "slug": "andre-kadi",
+    "name": "André Kadi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

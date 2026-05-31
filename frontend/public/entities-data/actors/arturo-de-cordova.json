@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "arturo-de-cordova",
+  "name": "Arturo de Córdova",
+  "worksCount": 1,
+  "description": "acteur",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arturo%20de%20C%C3%B3rdova%20postcard%20photo.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1908-05-08",
+  "nationality": "Mexique",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2865963",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Arturo_de_C%C3%B3rdova",
+    "imdb": "nm0194742",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "the-yacht",
+      "title": "The Yacht"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

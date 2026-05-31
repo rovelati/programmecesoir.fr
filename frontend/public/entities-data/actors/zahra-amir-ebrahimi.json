@@ -1,0 +1,90 @@
+{
+  "type": "actor",
+  "slug": "zahra-amir-ebrahimi",
+  "name": "Zahra Amir Ebrahimi",
+  "worksCount": 2,
+  "description": "actrice franco-iranienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zar%20Amir%20Ebrahimi%20at%20the%202025%20Locarno%20Film%20Festival.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1981-07-09",
+  "nationality": "Iran",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q464616",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Zar_Amir_Ebrahimi",
+    "imdb": "nm4399355",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "deux-personnes-echangeant-de-la-salive",
+      "title": "Deux personnes échangeant de la salive"
+    },
+    {
+      "type": "film",
+      "slug": "lire-lolita-a-teheran",
+      "title": "Lire Lolita à Téhéran"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "96b3a8a2-f46a-4907-8784-b7e4f3f14ee5",
+      "title": "Lire Lolita à Téhéran",
+      "programSlug": "lire-lolita-a-teheran",
+      "programUrl": "/programme/paramount-channel/lire-lolita-a-teheran",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-22 15:40:00+00",
+      "endTime": "2026-04-22 17:25:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c49b1d7e-e2ea-4d5b-9c10-7a8645aa4d5c",
+      "title": "Lire Lolita à Téhéran",
+      "programSlug": "lire-lolita-a-teheran",
+      "programUrl": "/programme/canal-cinema/lire-lolita-a-teheran",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 15:41:00+00",
+      "endTime": "2026-04-22 17:26:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7ddca125-8b46-4cc3-868c-e6e0fa544836",
+      "title": "Lire Lolita à Téhéran",
+      "programSlug": "lire-lolita-a-teheran",
+      "programUrl": "/programme/paramount-channel/lire-lolita-a-teheran",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 23:20:00+00",
+      "endTime": "2026-04-25 01:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "edf230a3-7a0b-42af-9c88-68203681d0e1",
+      "title": "Lire Lolita à Téhéran",
+      "programSlug": "lire-lolita-a-teheran",
+      "programUrl": "/programme/canal-cinema/lire-lolita-a-teheran",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 23:24:00+00",
+      "endTime": "2026-04-25 01:08:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 15:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

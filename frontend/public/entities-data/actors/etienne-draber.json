@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "etienne-draber",
+  "name": "Étienne Draber",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1939-03-26",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3592141",
+    "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89tienne_Draber",
+    "imdb": "nm0236580",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "vipere-au-poing",
+      "title": "Vipère au poing"
+    },
+    {
+      "type": "film",
+      "slug": "mon-meilleur-ami",
+      "title": "Mon meilleur ami"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

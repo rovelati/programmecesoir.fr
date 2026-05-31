@@ -1,0 +1,97 @@
+{
+  "type": "actor",
+  "slug": "hassie-harrison",
+  "name": "Hassie Harrison",
+  "worksCount": 1,
+  "description": "American actress and comedian",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-03-20",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q108913327",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Hassie_Harrison",
+    "imdb": "nm6076950",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dangerous-animals",
+      "title": "Dangerous Animals"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0f06165-13f8-40b4-8129-573e54aa01d0",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/canal-cinema/dangerous-animals",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 20:40:00+00",
+      "endTime": "2026-04-20 22:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "df50f842-e69f-470b-9a6f-193e0bd9d853",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/paramount-channel/dangerous-animals",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-20 20:40:00+00",
+      "endTime": "2026-04-20 22:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "40ce24fe-b796-42ca-9fd0-9e1d02dcfc63",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/canal-box-office/dangerous-animals",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 14:33:00+00",
+      "endTime": "2026-04-21 16:08:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "be864a3f-53ef-44a4-ba0c-01d4080c331a",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/paramount-channel/dangerous-animals",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 23:10:00+00",
+      "endTime": "2026-04-24 00:45:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "2ad513d6-dcb3-4158-9256-abffc0cd0e0c",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/canal-cinema/dangerous-animals",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 23:11:00+00",
+      "endTime": "2026-04-24 00:47:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 20:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

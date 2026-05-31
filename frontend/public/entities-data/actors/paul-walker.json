@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "paul-walker",
+  "name": "Paul Walker",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PaulWalkerEdit-1.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-09-12",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q213864",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Paul_Walker",
+    "imdb": "nm0908094",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "brick-mansions",
+      "title": "Brick Mansions"
+    },
+    {
+      "type": "film",
+      "slug": "prisonniers-du-temps",
+      "title": "Prisonniers du temps"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

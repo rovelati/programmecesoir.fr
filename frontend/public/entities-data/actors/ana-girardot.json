@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "ana-girardot",
+  "name": "Ana Girardot",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": "Ana Girardot incarne une actrice française au jeu aussi naturel que captivant. Fille de l’acteur Hippolyte Girardot, elle s’est imposée par son propre talent, naviguant avec aisance entre le cinéma d’auteur et les séries à succès. Ses rôles, souvent ancrés dans des drames contemporains ou des thrillers psychologiques, dégagent une intensité et une vulnérabilité qui saisissent immédiatement le spectateur. Elle possède cette rare capacité à rendre ses personnages profondément humains et complexes, transformant chaque projet en une expérience immersive. Pour découvrir ses performances puissantes et suivre son parcours, une sélection de ses films et séries est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Girardot%20C%C3%A9sar%202018.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1988-08-01",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2844973",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ana_Girardot",
+    "imdb": "nm0320759",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "deux-moi",
+      "title": "Deux moi"
+    },
+    {
+      "type": "film",
+      "slug": "radiostars",
+      "title": "Radiostars"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7cee21b-9787-4fb4-9cf0-ee09695438ea",
+      "title": "Radiostars",
+      "programSlug": "radiostars",
+      "programUrl": "/programme/cine-family/radiostars",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 13:09:00+00",
+      "endTime": "2026-04-21 14:48:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e35d2b3a-ab76-4686-8779-9a6479c47000",
+      "title": "Deux moi",
+      "programSlug": "deux-moi",
+      "programUrl": "/programme/canal-grand-ecran/deux-moi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 01:26:00+00",
+      "endTime": "2026-04-22 03:38:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:12.126Z",
+  "nextAiringAt": "2026-04-21 13:09:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

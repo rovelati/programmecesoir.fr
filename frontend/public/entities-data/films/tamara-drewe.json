@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "tamara-drewe",
+  "title": "Tamara Drewe",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Tamara Drewe"
+  ],
+  "genres": [
+    "comédie romantique",
+    "cinéma indépendant",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "Nicholas Hardiment, auteur à succès de romans policiers, et son épouse dévouée, Beth, ouvrent leur cottage à quelques écrivains en résidence. Parmi ceux-ci, Glen, un universitaire américain en panne d'inspiration. Une nouvelle infidélité de Nicholas a failli lui coûter son mariage. Il se réconcilie brillamment avec Beth, tandis que le retour au village de Tamara Drewe fait sensation. Partie laide et quasiment défigurée par un nez proéminent, la jeune femme revient avec un appendice refait, de longues jambes et un charme ravageur. Glen se prend à rêver, Nicholas échafaude des projets et Andy, le jeune fermier qui naguère refusa l'amour de Tamara, accepte de restaurer sa maison...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2010,
+  "durationMinutes": 111,
+  "cast": [
+    {
+      "qid": "Q255323",
+      "slug": "gemma-arterton",
+      "name": "Gemma Arterton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317761",
+      "slug": "dominic-cooper",
+      "name": "Dominic Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q722001",
+      "slug": "luke-evans",
+      "name": "Luke Evans",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2424994",
+      "slug": "roger-allam",
+      "name": "Roger Allam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3639959",
+      "slug": "bill-camp",
+      "name": "Bill Camp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2926038",
+      "slug": "bronagh-gallagher",
+      "name": "Bronagh Gallagher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438085",
+      "slug": "jessica-barden",
+      "name": "Jessica Barden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16208371",
+      "slug": "joel-fry",
+      "name": "Joel Fry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q462982",
+      "slug": "patricia-quinn",
+      "name": "Patricia Quinn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3119814",
+      "slug": "tamsin-greig",
+      "name": "Tamsin Greig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6668408",
+      "slug": "lois-winstone",
+      "name": "Lois Winstone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7197473",
+      "slug": "pippa-haywood",
+      "name": "Pippa Haywood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7814766",
+      "slug": "tom-allen",
+      "name": "Tom Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8064731",
+      "slug": "zahra-ahmadi",
+      "name": "Zahra Ahmadi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6140302",
+      "slug": "james-naughtie",
+      "name": "James Naughtie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5116094",
+      "slug": "susan-wooldridge",
+      "name": "Susan Wooldridge",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55258",
+    "slug": "stephen-frears",
+    "name": "Stephen Frears",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

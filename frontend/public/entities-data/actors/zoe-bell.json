@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "zoe-bell",
+  "name": "Zoë Bell",
+  "worksCount": 2,
+  "description": "cascadeuse et actrice néo-zélandaise",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zoe%20Bell%202019%20by%20Glenn%20Francis%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-11-17",
+  "nationality": "Nouvelle-Zélande",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q227123",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Zo%C3%AB_Bell",
+    "imdb": "nm1057928",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "boulevard-de-la-mort",
+      "title": "Boulevard de la mort"
+    },
+    {
+      "type": "film",
+      "slug": "les-huit-salopards",
+      "title": "Les huit salopards"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

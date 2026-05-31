@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "abbie-cornish",
+  "name": "Abbie Cornish",
+  "worksCount": 1,
+  "description": "actrice australienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbie%20Cornish%20(2017)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1982-08-07",
+  "nationality": "Australie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q236097",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Abbie_Cornish",
+    "imdb": "nm0180411",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sans-limite",
+      "title": "Sans limite"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bbc5860c-c08f-4226-9760-9f6b92c55163",
+      "title": "Sans limite",
+      "programSlug": "sans-limite",
+      "programUrl": "/programme/eurochannel/sans-limite",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 15:20:00+00",
+      "endTime": "2026-04-20 17:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7e80775a-9aa1-4760-9e75-a3b0e5a11fa0",
+      "title": "Sans limite",
+      "programSlug": "sans-limite",
+      "programUrl": "/programme/eurochannel/sans-limite",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 05:25:00+00",
+      "endTime": "2026-04-26 07:10:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 15:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

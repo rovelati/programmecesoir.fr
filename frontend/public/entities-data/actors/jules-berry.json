@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jules-berry",
+  "name": "Jules Berry",
+  "worksCount": 1,
+  "description": "acteur et réalisateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JulesBerry-1937-StarPresse.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1883-02-09",
+  "nationality": "France",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q553331",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jules_Berry",
+    "imdb": "nm0077598",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "apres-l-orage",
+      "title": "Après l'orage"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

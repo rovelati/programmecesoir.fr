@@ -1,0 +1,156 @@
+{
+  "type": "series",
+  "slug": "inazuma-eleven-orion",
+  "title": "Inazuma Eleven Orion",
+  "airingsCount": 20,
+  "sourceTitles": [
+    "Inazuma Eleven Orion"
+  ],
+  "genres": [
+    "jeu vidéo de football"
+  ],
+  "description": "Ichihoshi s'entraîne avec Mark mais son comportement intrigue Jude. Des éléments suspects autour du tournoi et de certains joueurs sèment le doute. Alors que le prochain match se prépare, les tensions grandissent et les apparences deviennent trompeuses...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "channelNumber": null,
+      "logoUrl": "/loghi/game-one.png",
+      "airingsCount": 8
+    },
+    {
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-j.png",
+      "airingsCount": 12
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2018,
+  "numberOfSeasons": null,
+  "cast": [
+    {
+      "qid": "Q11523377",
+      "slug": "ayumu-murase",
+      "name": "Ayumu Murase",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1331936",
+      "slug": "hiroshi-kamiya",
+      "name": "Hiroshi Kamiya",
+      "role": "actor"
+    },
+    {
+      "qid": "Q441288",
+      "slug": "jun-fukuyama",
+      "name": "Jun Fukuyama",
+      "role": "actor"
+    },
+    {
+      "qid": "Q64783389",
+      "slug": "tomohiro-omachi",
+      "name": "Tomohiro Ōmachi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242493",
+      "slug": "junko-takeuchi",
+      "name": "Junko Takeuchi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3136257",
+      "slug": "hirofumi-nojima",
+      "name": "Hirofumi Nojima",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1202709",
+      "slug": "hiroyuki-yoshino",
+      "name": "Hiroyuki Yoshino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11429286",
+      "slug": "toshiki-masuda",
+      "name": "Toshiki Masuda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18759065",
+      "slug": "shunsuke-takeuchi",
+      "name": "Shunsuke Takeuchi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17158528",
+      "slug": "soma-saito",
+      "name": "Soma Saito",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1142845",
+      "slug": "takahiro-mizushima",
+      "name": "Takahiro Mizushima",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1369257",
+      "slug": "yuki-kaji",
+      "name": "Yūki Kaji",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8060558",
+      "slug": "yuka-nishigaki",
+      "name": "Yuka Nishigaki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459902",
+      "slug": "takahiro-sakurai",
+      "name": "Takahiro Sakurai",
+      "role": "actor"
+    },
+    {
+      "qid": "Q519821",
+      "slug": "mamoru-miyano",
+      "name": "Mamoru Miyano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17160610",
+      "slug": "rie-takahashi",
+      "name": "Rie Takahashi",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q2082917",
+    "slug": "akihiro-hino",
+    "name": "Akihiro Hino",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

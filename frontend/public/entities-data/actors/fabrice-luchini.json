@@ -1,0 +1,105 @@
+{
+  "type": "actor",
+  "slug": "fabrice-luchini",
+  "name": "Fabrice Luchini",
+  "worksCount": 5,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fabrice%20Luchini%202010.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1951-11-01",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q620118",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fabrice_Luchini",
+    "imdb": "nm0524528",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-hermine",
+      "title": "L'hermine"
+    },
+    {
+      "type": "film",
+      "slug": "le-mystere-henri-pick",
+      "title": "Le mystère Henri Pick"
+    },
+    {
+      "type": "film",
+      "slug": "les-femmes-du-6e-etage",
+      "title": "Les femmes du 6e étage"
+    },
+    {
+      "type": "film",
+      "slug": "le-secret-de-kheops",
+      "title": "Le Secret de Khéops"
+    },
+    {
+      "type": "film",
+      "slug": "potiche",
+      "title": "Potiche"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d398772e-2789-44c1-a7e4-bdaeb0b55895",
+      "title": "Potiche",
+      "programSlug": "potiche",
+      "programUrl": "/programme/cine-emotion/potiche",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-19 22:11:00+00",
+      "endTime": "2026-04-19 23:51:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fc9e3cbb-00b5-4ca6-97a1-91175aa22f4c",
+      "title": "Le Secret de Khéops",
+      "programSlug": "le-secret-de-kheops",
+      "programUrl": "/programme/canal/le-secret-de-kheops",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-20 11:22:00+00",
+      "endTime": "2026-04-20 12:58:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "20cc6ce7-9965-4ff6-8d73-6fcdb3ed0367",
+      "title": "Le Secret de Khéops",
+      "programSlug": "le-secret-de-kheops",
+      "programUrl": "/programme/canal/le-secret-de-kheops",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-23 06:09:00+00",
+      "endTime": "2026-04-23 07:44:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "4e7b44d0-6148-43c6-9df7-0545019e8d12",
+      "title": "Potiche",
+      "programSlug": "potiche",
+      "programUrl": "/programme/cine-emotion/potiche",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-24 08:19:00+00",
+      "endTime": "2026-04-24 09:59:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 22:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

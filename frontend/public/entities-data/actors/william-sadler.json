@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "william-sadler",
+  "name": "William Sadler",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20Sadler%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1950-04-13",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q152542",
+    "wikipedia": "https://fr.wikipedia.org/wiki/William_Sadler",
+    "imdb": "nm0006669",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "echec-et-mort",
+      "title": "Echec et mort"
+    },
+    {
+      "type": "film",
+      "slug": "jesse-stone-le-benefice-du-doute",
+      "title": "Jesse Stone : le bénéfice du doute"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

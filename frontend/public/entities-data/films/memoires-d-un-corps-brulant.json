@@ -1,0 +1,58 @@
+{
+  "type": "film",
+  "slug": "memoires-d-un-corps-brulant",
+  "title": "Mémoires d'un corps brûlant",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Mémoires d'un corps brûlant"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Après des années passées sous le joug du père, du frère, du mari, Ana, âgée de 71 ans, vit sa vraie jeunesse, s'épanouissant dans une féminité enfin libérée. Elle se transporte d'une époque à l'autre en évoquant les souvenirs d'une vie entre tabous, sentiment de culpabilité et sexualité réprimée...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Goyas%202025%20-%20Equipo%20Memorias%20de%20un%20cuerpo%20que%20arde.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q130759656",
+      "slug": "sol-carballo",
+      "name": "Sol Carballo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q88217026",
+    "slug": "antonella-sudasassi",
+    "name": "Antonella Sudasassi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "emily-mortimer",
+  "name": "Emily Mortimer",
+  "worksCount": 2,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Premios%20Goya%202018%20-%20Emily%20Mortimer%20(cropped)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-10-06",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q230308",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Emily_Mortimer",
+    "imdb": "nm0607865",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "paddington-au-perou",
+      "title": "Paddington au Pérou"
+    },
+    {
+      "type": "film",
+      "slug": "scream-3",
+      "title": "Scream 3"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

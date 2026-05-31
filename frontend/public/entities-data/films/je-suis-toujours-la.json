@@ -1,0 +1,190 @@
+{
+  "type": "film",
+  "slug": "je-suis-toujours-la",
+  "title": "Je suis toujours là",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Je suis toujours là"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm biographique"
+  ],
+  "description": "Rio de Janeiro, en janvier 1971, dans un Brésil sous le joug de la dictature militaire. La grande maison des Paiva, située près de la plage, est un havre de vie plein de livres, de musiques et de jeux. Jusqu'au jour où des hommes du régime viennent arrêter Rubens, le père de famille, qui disparaît sans laisser de traces. Revenu d'exil quelques mois plus tôt, cet ancien député fédéral du Parti travailliste brésilien semble déranger le pouvoir en place. Son épouse Eunice et ses cinq enfants refusent de baisser les bras et décident alors de mener un combat acharné à la recherche de la vérité. Obstinée, Eunice va poursuivre sa quête pendant des années...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fernanda%20Torres%20at%20the%202024%20Toronto%20International%20Film%20Festival%205.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "51c59c83-7fe3-4c37-b33b-b976850f4b49",
+      "title": "Je suis toujours là",
+      "programSlug": "je-suis-toujours-la",
+      "programUrl": "/programme/canal-box-office/je-suis-toujours-la",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 06:18:00+00",
+      "endTime": "2026-04-23 08:32:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "14c8bd7e-9886-45bf-84dc-4fe44a699790",
+      "title": "Je suis toujours là",
+      "programSlug": "je-suis-toujours-la",
+      "programUrl": "/programme/canal/je-suis-toujours-la",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-24 02:06:00+00",
+      "endTime": "2026-04-24 04:20:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 135,
+  "cast": [
+    {
+      "qid": "Q465907",
+      "slug": "fernanda-torres",
+      "name": "Fernanda Torres",
+      "role": "actor"
+    },
+    {
+      "qid": "Q335455",
+      "slug": "fernanda-montenegro",
+      "name": "Fernanda Montenegro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4289700",
+      "slug": "selton-mello",
+      "name": "Selton Mello",
+      "role": "actor"
+    },
+    {
+      "qid": "Q10263934",
+      "slug": "daniel-dantas",
+      "name": "Daniel Dantas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43193626",
+      "slug": "valentina-herszage",
+      "name": "Valentina Herszage",
+      "role": "actor"
+    },
+    {
+      "qid": "Q10326016",
+      "slug": "maria-manoella",
+      "name": "Maria Manoella",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132889844",
+      "slug": "helena-albergaria",
+      "name": "Helena Albergaria",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65165189",
+      "slug": "antonio-saboia",
+      "name": "Antonio Saboia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q10287926",
+      "slug": "gabriela-carneiro-da-cunha",
+      "name": "Gabriela Carneiro da Cunha",
+      "role": "actor"
+    },
+    {
+      "qid": "Q288933",
+      "slug": "marjorie-estiano",
+      "name": "Marjorie Estiano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q10340793",
+      "slug": "olivia-torres",
+      "name": "Olívia Torres",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131142095",
+      "slug": "pri-helena",
+      "name": "Pri Helena",
+      "role": "actor"
+    },
+    {
+      "qid": "Q10298866",
+      "slug": "humberto-carrao",
+      "name": "Humberto Carrão",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16337154",
+      "slug": "charles-fricks",
+      "name": "Charles Fricks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15711845",
+      "slug": "maeve-jinkings",
+      "name": "Maeve Jinkings",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8273055",
+      "slug": "dan-stulbach",
+      "name": "Dan Stulbach",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q458696",
+    "slug": "walter-salles",
+    "name": "Walter Salles",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 06:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

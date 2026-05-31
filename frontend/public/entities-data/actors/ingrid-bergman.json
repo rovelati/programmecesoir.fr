@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "ingrid-bergman",
+  "name": "Ingrid Bergman",
+  "worksCount": 1,
+  "description": "actrice suédoise (1915–1982)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20Bergman%20The%20Constant%20Wife%201975%20(cropped).JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1915-08-29",
+  "nationality": "Suède",
+  "jobTitle": "autobiographe",
+  "externalIds": {
+    "wikidata": "Q43247",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ingrid_Bergman",
+    "imdb": "nm0000006",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "arc-de-triomphe",
+      "title": "Arc de Triomphe"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

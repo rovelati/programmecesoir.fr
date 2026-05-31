@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "le-massacre-de-fort-apache",
+  "title": "Le massacre de Fort Apache",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le massacre de Fort Apache"
+  ],
+  "genres": [
+    "western",
+    "film et téléfilm de guerre"
+  ],
+  "description": "Le colonel Thursday est envoyé dans l'Arizona pour prendre le commandement de Fort Apache, petite garnison perdue dans le désert. Aigri par la perte de son grade de général, Thursday espère y retrouver la gloire. Il pense qu'en ramenant les Apaches en terre américaine, il sera remarqué par Washington...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eiganotomo-fortapache-nov1952.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1948,
+  "durationMinutes": 125,
+  "cast": [
+    {
+      "qid": "Q40531",
+      "slug": "john-wayne",
+      "name": "John Wayne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19155",
+      "slug": "henry-fonda",
+      "name": "Henry Fonda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1280760",
+      "slug": "ward-bond",
+      "name": "Ward Bond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q182580",
+      "slug": "shirley-temple",
+      "name": "Shirley Temple",
+      "role": "actor"
+    },
+    {
+      "qid": "Q593286",
+      "slug": "john-agar",
+      "name": "John Agar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q329577",
+      "slug": "victor-mclaglen",
+      "name": "Victor McLaglen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q359996",
+      "slug": "pedro-armendariz",
+      "name": "Pedro Armendáriz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1009495",
+      "slug": "george-o-brien",
+      "name": "George O'Brien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q453962",
+      "slug": "irene-rich",
+      "name": "Irene Rich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3115415",
+      "slug": "grant-withers",
+      "name": "Grant Withers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1209649",
+      "slug": "dick-foran",
+      "name": "Dick Foran",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1677155",
+      "slug": "jack-pennick",
+      "name": "Jack Pennick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1376991",
+      "slug": "hank-worden",
+      "name": "Hank Worden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460474",
+      "slug": "anna-lee",
+      "name": "Anna Lee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q554094",
+      "slug": "guy-kibbee",
+      "name": "Guy Kibbee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1361838",
+      "slug": "francis-ford",
+      "name": "Francis Ford",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51114",
+    "slug": "john-ford",
+    "name": "John Ford",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

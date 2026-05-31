@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "mary-stewart",
+  "name": "Mary Stewart",
+  "worksCount": 1,
+  "description": "écrivain britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1916-09-17",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "romancier ou romancière",
+  "externalIds": {
+    "wikidata": "Q271111",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mary_Stewart",
+    "imdb": "nm0829650",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-entreprenant-monsieur-petrov",
+      "title": "L'Entreprenant Monsieur Petrov"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

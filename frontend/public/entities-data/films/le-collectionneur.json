@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "le-collectionneur",
+  "title": "Le collectionneur",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le collectionneur"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "drame",
+    "adaptation d'un roman au cinéma",
+    "néo-noir"
+  ],
+  "description": "Un psychopathe sévit dans le Sud-Est des Etats-Unis. Collectionneur de femmes, il les garde captives pour en faire les jouets de ses pulsions. Quand elles cessent de lui plaire, il les tue. Lorsque l'inspecteur Cross apprend que sa nièce a été kidnappée dans la région, il s'y rend pour enquêter...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1998,
+  "durationMinutes": 111,
+  "cast": [
+    {
+      "qid": "Q48337",
+      "slug": "morgan-freeman",
+      "name": "Morgan Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228645",
+      "slug": "ashley-judd",
+      "name": "Ashley Judd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311093",
+      "slug": "cary-elwes",
+      "name": "Cary Elwes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q224754",
+      "slug": "tony-goldwyn",
+      "name": "Tony Goldwyn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1319653",
+      "slug": "jay-o-sanders",
+      "name": "Jay O. Sanders",
+      "role": "actor"
+    },
+    {
+      "qid": "Q34975",
+      "slug": "brian-cox",
+      "name": "Brian Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q279834",
+      "slug": "bill-nunn",
+      "name": "Bill Nunn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202461",
+      "slug": "roma-maffia",
+      "name": "Roma Maffia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315083",
+      "slug": "jeremy-piven",
+      "name": "Jeremy Piven",
+      "role": "actor"
+    },
+    {
+      "qid": "Q374181",
+      "slug": "richard-t-jones",
+      "name": "Richard T. Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240541",
+      "slug": "tatyana-ali",
+      "name": "Tatyana Ali",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461146",
+      "slug": "gina-ravera",
+      "name": "Gina Ravera",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27535232",
+      "slug": "william-converse-roberts",
+      "name": "William Converse-Roberts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4282539",
+      "slug": "helen-martin",
+      "name": "Helen Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9147116",
+      "slug": "alex-mcarthur",
+      "name": "Alex McArthur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223303",
+      "slug": "mena-suvari",
+      "name": "Mena Suvari",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1494859",
+    "slug": "gary-fleder",
+    "name": "Gary Fleder",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

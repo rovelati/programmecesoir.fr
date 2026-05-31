@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "grey-delisle",
+  "name": "Grey DeLisle",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DSC%207678%20(49645907452).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-08-24",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q13938",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Grey_DeLisle",
+    "imdb": "nm0217221",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bumblebee",
+      "title": "Bumblebee"
+    },
+    {
+      "type": "film",
+      "slug": "aloha-scooby-doo",
+      "title": "Aloha, Scooby-Doo"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

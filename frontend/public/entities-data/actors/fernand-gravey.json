@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "fernand-gravey",
+  "name": "Fernand Gravey",
+  "worksCount": 2,
+  "description": "acteur franco-belge",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fernand%20Gravey%20006.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1905-12-25",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1406503",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fernand_Gravey",
+    "imdb": "nm0336380",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "comment-voler-un-million-de-dollars",
+      "title": "Comment voler un million de dollars"
+    },
+    {
+      "type": "film",
+      "slug": "la-ronde",
+      "title": "La ronde"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

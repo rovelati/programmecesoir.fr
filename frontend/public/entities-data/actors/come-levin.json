@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "come-levin",
+  "name": "Côme Levin",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Come%20Levin%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-09-11",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3010586",
+    "wikipedia": "https://fr.wikipedia.org/wiki/C%C3%B4me_Levin",
+    "imdb": "nm1363886",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "radiostars",
+      "title": "Radiostars"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7cee21b-9787-4fb4-9cf0-ee09695438ea",
+      "title": "Radiostars",
+      "programSlug": "radiostars",
+      "programUrl": "/programme/cine-family/radiostars",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 13:09:00+00",
+      "endTime": "2026-04-21 14:48:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 13:09:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

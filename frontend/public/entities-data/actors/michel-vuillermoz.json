@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "michel-vuillermoz",
+  "name": "Michel Vuillermoz",
+  "worksCount": 3,
+  "description": "acteur et metteur en scène français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Vuillermoz%2020070511%20Fnac%206.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-12-18",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1930952",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michel_Vuillermoz",
+    "imdb": "nm0904273",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bernie",
+      "title": "Bernie"
+    },
+    {
+      "type": "film",
+      "slug": "bon-voyage",
+      "title": "Bon voyage"
+    },
+    {
+      "type": "film",
+      "slug": "amour-turbulences",
+      "title": "Amour & Turbulences"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "77c52286-0702-4684-9920-123f5d7e7be8",
+      "title": "Amour & Turbulences",
+      "programSlug": "amour-turbulences",
+      "programUrl": "/programme/carac-1-hd/amour-turbulences",
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "startTime": "2026-04-20 21:15:00+00",
+      "endTime": "2026-04-20 22:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3e3fc914-b24c-448e-b448-5eb0fec8a2cd",
+      "title": "Bon voyage",
+      "programSlug": "bon-voyage",
+      "programUrl": "/programme/eurochannel/bon-voyage",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 00:00:00+00",
+      "endTime": "2026-04-21 02:15:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 21:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

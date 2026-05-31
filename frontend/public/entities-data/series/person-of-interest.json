@@ -1,0 +1,369 @@
+{
+  "type": "series",
+  "slug": "person-of-interest",
+  "title": "Person of Interest",
+  "airingsCount": 20,
+  "sourceTitles": [
+    "Person of Interest - Saison 3"
+  ],
+  "genres": [
+    "série télévisée policière",
+    "série télévisée dramatique",
+    "série télévisée de science-fiction",
+    "série d'action",
+    "séries télévisées sur le thème des LGBTI+"
+  ],
+  "description": "Reese à peine rentré d'Italie, les affaires reprennent. Le nouveau numéro est celui de Kelli Lin, une jeune femme d'origine asiatique, organisatrice d'événements. Elle doit orchestrer le soir même le vernissage de la nouvelle exposition du musée d'histoire. Shaw, Finch et Reese s'y rendent lorsqu'une panne de courant plonge les lieux dans le noir. Une toile de Cézanne est volée...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "channelNumber": null,
+      "logoUrl": "/loghi/t18.png",
+      "airingsCount": 20
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4c085826-b3d0-4ff1-8b39-1c1c3c65a366",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-20 15:30:00+00",
+      "endTime": "2026-04-20 16:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d3a6d830-dbd2-44d2-8519-909caa11cfc2",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-20 16:20:00+00",
+      "endTime": "2026-04-20 17:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7538abec-fe79-4a61-a368-204db2780fe9",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-20 17:15:00+00",
+      "endTime": "2026-04-20 18:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5d2743db-e816-4a86-bf6c-7ce3b0ed4d4e",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-20 18:00:00+00",
+      "endTime": "2026-04-20 18:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e55f2ceb-8418-4fe2-9e47-f7fd8a7367d2",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-21 15:30:00+00",
+      "endTime": "2026-04-21 16:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "48b352aa-d268-4037-9f87-728eaafede1d",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-21 16:20:00+00",
+      "endTime": "2026-04-21 17:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "25757c20-9c09-4fbc-8067-e53a1f03dd31",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-21 17:15:00+00",
+      "endTime": "2026-04-21 18:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e6c715d8-7f3e-4eed-9539-c88f8186d649",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-21 18:00:00+00",
+      "endTime": "2026-04-21 18:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ef737a45-d8ce-4669-8b66-4959aaf2784e",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-22 15:30:00+00",
+      "endTime": "2026-04-22 16:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "6a626710-c3cb-47da-aed1-9bc0872b20fb",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-22 16:20:00+00",
+      "endTime": "2026-04-22 17:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "16d9524e-308d-42d5-a225-b35a0ad42956",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-22 17:15:00+00",
+      "endTime": "2026-04-22 18:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "349f2b72-3aed-46bf-bedd-3250e1064b98",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-22 18:00:00+00",
+      "endTime": "2026-04-22 18:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "289b8b87-131f-40d8-88f8-ae51ec18c9ed",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-23 15:30:00+00",
+      "endTime": "2026-04-23 16:20:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "45ee0aa9-c042-4eea-80c4-350c968d4851",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-23 16:20:00+00",
+      "endTime": "2026-04-23 17:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6105e9fd-afdf-43d2-9288-750d765d68ee",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-23 17:15:00+00",
+      "endTime": "2026-04-23 18:00:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6cc8804d-8e47-421a-a1b7-414394206b74",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-23 18:00:00+00",
+      "endTime": "2026-04-23 18:55:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "837fd577-6566-469c-9483-930b069833bf",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-24 15:30:00+00",
+      "endTime": "2026-04-24 16:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "73cedcd8-d8d2-4d82-b838-5c7ad32fcf4a",
+      "title": "Person of Interest - Saison 4",
+      "programSlug": "person-of-interest-saison-4",
+      "programUrl": "/programme/t18/person-of-interest-saison-4",
+      "channelId": "t18",
+      "channelName": "T18",
+      "channelSlug": "t18",
+      "startTime": "2026-04-24 16:20:00+00",
+      "endTime": "2026-04-24 17:15:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2011,
+  "numberOfSeasons": 5,
+  "cast": [
+    {
+      "qid": "Q200841",
+      "slug": "jim-caviezel",
+      "name": "Jim Caviezel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3195676",
+      "slug": "kevin-chapman",
+      "name": "Kevin Chapman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q276302",
+      "slug": "michael-emerson",
+      "name": "Michael Emerson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q152773",
+      "slug": "amy-acker",
+      "name": "Amy Acker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235511",
+      "slug": "taraji-p-henson",
+      "name": "Taraji P. Henson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230530",
+      "slug": "sarah-shahi",
+      "name": "Sarah Shahi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12858652",
+      "slug": "john-nolan",
+      "name": "John Nolan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q545711",
+      "slug": "enrico-colantoni",
+      "name": "Enrico Colantoni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q935081",
+      "slug": "robert-john-burke",
+      "name": "Robert John Burke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2598599",
+      "slug": "al-sapienza",
+      "name": "Al Sapienza",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4945331",
+      "slug": "boris-mcgiver",
+      "name": "Boris McGiver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q176277",
+      "slug": "brett-cullen",
+      "name": "Brett Cullen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1095834",
+      "slug": "clarke-peters",
+      "name": "Clarke Peters",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5240592",
+      "slug": "david-valcin",
+      "name": "David Valcin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q984443",
+      "slug": "john-doman",
+      "name": "John Doman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q268046",
+      "slug": "paige-turco",
+      "name": "Paige Turco",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q372788",
+    "slug": "jonathan-nolan",
+    "name": "Jonathan Nolan",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 15:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

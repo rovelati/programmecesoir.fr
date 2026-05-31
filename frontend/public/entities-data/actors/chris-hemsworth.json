@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "chris-hemsworth",
+  "name": "Chris Hemsworth",
+  "worksCount": 2,
+  "description": "acteur et producteur australien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris%20Hemsworth%20-%20Crime%20101.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1983-08-11",
+  "nationality": null,
+  "jobTitle": "mannequin",
+  "externalIds": {
+    "wikidata": "Q54314",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Chris_Hemsworth",
+    "imdb": "nm1165110",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "star-trek",
+      "title": "Star Trek"
+    },
+    {
+      "type": "film",
+      "slug": "s-o-s-fantomes",
+      "title": "S.O.S. Fantômes"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0ce70329-69a0-4dc2-9cda-c9680af3516c",
+      "title": "S.O.S. Fantômes",
+      "programSlug": "s-o-s-fantomes",
+      "programUrl": "/programme/syfy/s-o-s-fantomes",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-25 14:35:00+00",
+      "endTime": "2026-04-25 16:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-25 14:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "claude-pieplu",
+  "name": "Claude Piéplu",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ClaudePieplu-1955-StudioHarcourt.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1923-05-09",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q722333",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Claude_Pi%C3%A9plu",
+    "imdb": "nm0686263",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "asterix-et-obelix-contre-cesar",
+      "title": "Astérix et Obélix contre César"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

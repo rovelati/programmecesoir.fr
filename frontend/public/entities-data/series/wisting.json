@@ -1,0 +1,123 @@
+{
+  "type": "series",
+  "slug": "wisting",
+  "title": "Wisting",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Wisting - Saison 2",
+    "Wisting - Saison 3"
+  ],
+  "genres": [
+    "série télévisée policière",
+    "adaptation d'un roman à la télévision",
+    "polar polaire",
+    "thriller"
+  ],
+  "description": "Wisting et son équipe remontent la piste d'un réseau de narcotrafiquants qui utilisent des mineurs réfugiés pour faire passer leur drogue. Ils partent à la recherche de Khaled, un mineur du centre de Suzanne qui a eu affaire au réseau un an auparavant. Cato Dalen semble lui aussi lié à ce trafic. Line interviewe Sammy et tente de trouver le chef du réseau grâce au jeune dealer...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d3802816-1f8d-4532-88c2-680e664b2a7e",
+      "title": "Wisting - Saison 3",
+      "programSlug": "wisting-saison-3",
+      "programUrl": "/programme/polar/wisting-saison-3",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 20:58:00+00",
+      "endTime": "2026-04-19 21:46:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "daca7485-53a4-426d-abb0-8a0d9e0be7e8",
+      "title": "Wisting - Saison 3",
+      "programSlug": "wisting-saison-3",
+      "programUrl": "/programme/polar/wisting-saison-3",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 21:46:00+00",
+      "endTime": "2026-04-19 22:33:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2019,
+  "numberOfSeasons": 3,
+  "cast": [
+    {
+      "qid": "Q1771414",
+      "slug": "sven-nordin",
+      "name": "Sven Nordin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q206890",
+      "slug": "carrie-anne-moss",
+      "name": "Carrie-Anne Moss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6728713",
+      "slug": "mads-ousdal",
+      "name": "Mads Ousdal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q91618066",
+      "slug": "jonas-strand-gravli",
+      "name": "Jonas Strand Gravli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18912647",
+      "slug": "mads-sj-gard-pettersen",
+      "name": "Mads Sjøgård Pettersen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q57416935",
+      "slug": "lars-berge",
+      "name": "Lars Berge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5628839",
+      "slug": "gard-b-eidsvold",
+      "name": "Gard B. Eidsvold",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q3999896",
+    "slug": "trygve-allister-diesen",
+    "name": "Trygve Allister Diesen",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 20:58:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

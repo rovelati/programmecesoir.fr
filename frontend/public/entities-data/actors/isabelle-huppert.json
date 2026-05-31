@@ -1,0 +1,94 @@
+{
+  "type": "actor",
+  "slug": "isabelle-huppert",
+  "name": "Isabelle Huppert",
+  "worksCount": 3,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isabelle%20Huppert-68117%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-03-16",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q106365",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Isabelle_Huppert",
+    "imdb": "nm0001376",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-juge-et-l-assassin",
+      "title": "Le juge et l'assassin"
+    },
+    {
+      "type": "film",
+      "slug": "coup-de-torchon",
+      "title": "Coup de torchon"
+    },
+    {
+      "type": "film",
+      "slug": "loulou",
+      "title": "Loulou"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3a0402ea-1ec6-4046-9b83-c8c5c51056f5",
+      "title": "Loulou",
+      "programSlug": "loulou",
+      "programUrl": "/programme/cine-festival/loulou",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-21 09:41:00+00",
+      "endTime": "2026-04-21 11:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7df4cb44-9414-472c-a71a-d8807655c3d5",
+      "title": "Loulou",
+      "programSlug": "loulou",
+      "programUrl": "/programme/cine-festival/loulou",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-24 03:26:00+00",
+      "endTime": "2026-04-24 05:07:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "41bb0643-9a66-42c6-bc35-76d75761f5b2",
+      "title": "Coup de torchon",
+      "programSlug": "coup-de-torchon",
+      "programUrl": "/programme/cine-classic/coup-de-torchon",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 21:22:00+00",
+      "endTime": "2026-04-24 23:27:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "1e73d553-0bd8-4615-96f4-bfd79a3effee",
+      "title": "Coup de torchon",
+      "programSlug": "coup-de-torchon",
+      "programUrl": "/programme/cine-classic/coup-de-torchon",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-25 06:38:00+00",
+      "endTime": "2026-04-25 08:43:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 09:41:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

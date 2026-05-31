@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "michael-brostrup",
+  "name": "Michael Brostrup",
+  "worksCount": 3,
+  "description": "acteur danois",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-01-15",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q12326893",
+    "wikipedia": null,
+    "imdb": "nm0098292",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-enquetes-du-departement-v-dossier-64",
+      "title": "Les enquêtes du département V : dossier 64"
+    },
+    {
+      "type": "film",
+      "slug": "les-enquetes-du-departement-v-delivrance",
+      "title": "Les enquêtes du département V : délivrance"
+    },
+    {
+      "type": "film",
+      "slug": "les-enquetes-du-departement-v-misericorde",
+      "title": "Les enquêtes du département V : miséricorde"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

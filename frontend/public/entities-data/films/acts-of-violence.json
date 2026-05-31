@@ -1,0 +1,125 @@
+{
+  "type": "film",
+  "slug": "acts-of-violence",
+  "title": "Acts of Violence",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Acts of Violence"
+  ],
+  "genres": [
+    "thriller",
+    "film et téléfilm d'action"
+  ],
+  "description": "Lorsque Mia, sa compagne, est enlevée par des trafiquants lors de sa soirée d'enterrement de vie de jeune fille, Roman MacGregor embarque ses ex-frères d'armes dans une traque pour la retrouver. Il est également épaulé par James Avery, un policier qui enquête sur le trafic d'êtres humains. Il s'avère que derrière cet enlèvement crapuleux et brutal se cache un certain Max Livingston, un businessman véreux. Celui-ci cache, sous le couvert de ses activités parfaitement légales, un vaste réseau de prostitution. Pour retrouver la trace de Mia, ses anges gardiens ne doivent pas perdre de temps...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": 86,
+  "cast": [
+    {
+      "qid": "Q2680",
+      "slug": "bruce-willis",
+      "name": "Bruce Willis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2231922",
+      "slug": "ashton-holmes",
+      "name": "Ashton Holmes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q532180",
+      "slug": "cole-hauser",
+      "name": "Cole Hauser",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313579",
+      "slug": "shawn-ashmore",
+      "name": "Shawn Ashmore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24514904",
+      "slug": "melissa-bolona",
+      "name": "Melissa Bolona",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7440840",
+      "slug": "sean-brosnan",
+      "name": "Sean Brosnan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q206916",
+      "slug": "sophia-bush",
+      "name": "Sophia Bush",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311962",
+      "slug": "mike-epps",
+      "name": "Mike Epps",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9358677",
+      "slug": "tiffany-brouwer",
+      "name": "Tiffany Brouwer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6569492",
+      "slug": "patrick-st-esprit",
+      "name": "Patrick St. Esprit",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7370542",
+      "slug": "rotimi",
+      "name": "Rotimi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4952356",
+      "slug": "boyd-kestner",
+      "name": "Boyd Kestner",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q64620678",
+    "slug": "brett-donowho",
+    "name": "Brett Donowho",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

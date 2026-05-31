@@ -1,0 +1,67 @@
+{
+  "type": "film",
+  "slug": "jesse-stone",
+  "title": "Jesse Stone",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Jesse Stone"
+  ],
+  "genres": [
+    "film ou téléfilm à énigme",
+    "drame",
+    "film ou téléfilm criminel",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Jesse enquête sur le meurtre d'un employé de banque, mais aussi sur une affaire de viol que la mairie aimerait étouffer pour ne pas nuire à l'image de la ville.",
+  "descriptionAi": "Ce téléfilm policier de 2005, adapté des romans de Robert B. Parker, plonge dans l'atmosphère morose d'une petite ville côtière. L'intrigue, à la fois enquête criminelle et drame social, suit le chef de police Jesse Stone, un homme taciturne aux méthodes peu orthodoxes. L'intérêt réside dans la dualité de l'enquête, mêlant un meurtre apparemment simple à une affaire de viol que les puissants veulent étouffer, révélant ainsi les sombres secrets d'une communauté sous son vernis paisible. Une plongée captivante dans les ambiguïtés humaines, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "channelNumber": null,
+      "logoUrl": "/loghi/serie-club.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q4354489",
+    "wikipedia": null,
+    "imdb": "tt0431420",
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:34:43.744Z",
+  "year": 2005,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q213706",
+      "slug": "tom-selleck",
+      "name": "Tom Selleck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436360",
+      "slug": "jane-adams",
+      "name": "Jane Adams",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1287882",
+    "slug": "robert-harmon",
+    "name": "Robert Harmon",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

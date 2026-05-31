@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "clovis-cornillac",
+  "name": "Clovis Cornillac",
+  "worksCount": 3,
+  "description": "acteur et réalisateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clovis%20Cornillac%20Cabourg%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-08-16",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q606555",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Clovis_Cornillac",
+    "imdb": "nm0180404",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "c-est-magnifique",
+      "title": "C'est magnifique !"
+    },
+    {
+      "type": "film",
+      "slug": "radiostars",
+      "title": "Radiostars"
+    },
+    {
+      "type": "film",
+      "slug": "vacances-forcees",
+      "title": "Vacances forcées"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7cee21b-9787-4fb4-9cf0-ee09695438ea",
+      "title": "Radiostars",
+      "programSlug": "radiostars",
+      "programUrl": "/programme/cine-family/radiostars",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 13:09:00+00",
+      "endTime": "2026-04-21 14:48:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 13:09:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

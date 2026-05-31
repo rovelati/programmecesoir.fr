@@ -1,0 +1,69 @@
+{
+  "type": "film",
+  "slug": "f1-le-film",
+  "title": "F1 : Le film",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "F1 : Le film"
+  ],
+  "genres": [
+    "Cinema",
+    "Film d'aventures",
+    "Film"
+  ],
+  "description": "Sonny Hayes était le jeune pilote de Formule 1 le plus talentueux des années 1990 jusqu'au terrible accident qui avait mis un terme à sa carrière. Trente ans plus tard, devenu pilote indépendant, il est contacté par Ruben Cervantes, patron d'une écurie en difficulté, qui le convainc de reprendre du service afin de lui épargner la faillite. Sonny fera équipe avec Joshua Pearce, diamant brut prêt à devenir le numéro 1, dont il deviendra le mentor, mais aussi le rival...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "641d5046-b5ee-4144-9017-3bd209f4e92c",
+      "title": "F1 : Le film",
+      "programSlug": "f1-le-film",
+      "programUrl": "/programme/canal-box-office/f1-le-film",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 19:00:00+00",
+      "endTime": "2026-04-24 21:30:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-24 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

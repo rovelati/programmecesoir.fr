@@ -1,0 +1,138 @@
+{
+  "type": "film",
+  "slug": "air-america",
+  "title": "Air America",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Air America"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "buddy movie",
+    "comédie"
+  ],
+  "description": "En 1969. L'armée américaine ravitaille secrètement les maquisards anticommunistes du Laos. Officiellement, ces activités illégales n'existent pas. Aussi, tous les pilotes recrutés pour servir sur la base de Long Tien - appelée \"Air America\" - l'ont-ils été en sous-main, par la toute-puissante CIA. Tel est le cas de Billy Covington, un nouvel arrivant sur le site, initié par Gene Ryack, un collègue, aux innombrables trafics qui améliorent l'ordinaire des soldats. Mais les petits détournements d'armes de Gene et de ses amis ne sont rien en comparaison du lucratif trafic de drogue organisé par le commandant de la base lui-même, qui collabore avec un général laotien...",
+  "descriptionAi": "Ce film d'action et buddy movie, teinté de comédie noire, plonge dans l'ambiance trouble de la guerre du Vietnam. En 1969, des pilotes recrutés par la CIA ravitaillent secrètement le Laos. L'intérêt réside dans ce mélange cynique d'aventures aériennes et de trafics illicites, dépeignant une guerre parallèle où les héros sont aussi des contrebandiers. Le duo Mel Gibson et Robert Downey Jr. incarne parfaitement cette équipe déjantée, naviguant entre missions officieuses et combines personnelles. Une satire corrosive des dérives militaires, portée par un rythme effréné et un humour grinçant, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:46.608Z",
+  "year": 1990,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q42229",
+      "slug": "mel-gibson",
+      "name": "Mel Gibson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q165219",
+      "slug": "robert-downey-jr",
+      "name": "Robert Downey Jr.",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233042",
+      "slug": "nancy-travis",
+      "name": "Nancy Travis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q471921",
+      "slug": "ken-jenkins",
+      "name": "Ken Jenkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q547310",
+      "slug": "art-lafleur",
+      "name": "Art LaFleur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q679987",
+      "slug": "marshall-bell",
+      "name": "Marshall Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2174481",
+      "slug": "david-bowe",
+      "name": "David Bowe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1240407",
+      "slug": "harvey-jason",
+      "name": "Harvey Jason",
+      "role": "actor"
+    },
+    {
+      "qid": "Q327938",
+      "slug": "david-marshall-grant",
+      "name": "David Marshall Grant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q551305",
+      "slug": "michael-dudikoff",
+      "name": "Michael Dudikoff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q740939",
+      "slug": "lane-smith",
+      "name": "Lane Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q725674",
+      "slug": "burt-kwouk",
+      "name": "Burt Kwouk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2434326",
+      "slug": "tim-thomerson",
+      "name": "Tim Thomerson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2928490",
+      "slug": "burke-byrnes",
+      "name": "Burke Byrnes",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q506352",
+    "slug": "roger-spottiswoode",
+    "name": "Roger Spottiswoode",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

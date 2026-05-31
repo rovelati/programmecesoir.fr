@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "brad-garrett",
+  "name": "Brad Garrett",
+  "worksCount": 2,
+  "description": "comédien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brad%20Garrett%20(25730514003)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-04-14",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q331720",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Brad_Garrett",
+    "imdb": "nm0004951",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-come-back",
+      "title": "Le come-back"
+    },
+    {
+      "type": "series",
+      "slug": "un-gars-du-queens",
+      "title": "Un gars du Queens"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

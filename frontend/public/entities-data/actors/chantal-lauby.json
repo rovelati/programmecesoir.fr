@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "chantal-lauby",
+  "name": "Chantal Lauby",
+  "worksCount": 3,
+  "description": "actrice, humoriste, réalisatrice et scénariste française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chantal%20Lauby%20Cannes%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1948-03-23",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2956299",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Chantal_Lauby",
+    "imdb": "nm0490702",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-cite-de-la-peur",
+      "title": "La cité de la peur"
+    },
+    {
+      "type": "film",
+      "slug": "jour-j",
+      "title": "Jour J"
+    },
+    {
+      "type": "film",
+      "slug": "14-jours-pour-aller-mieux",
+      "title": "14 Jours pour aller mieux"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42611a44-ab50-4e94-98a2-182319fa2b6a",
+      "title": "La cité de la peur",
+      "programSlug": "la-cite-de-la-peur",
+      "programUrl": "/programme/canal-grand-ecran/la-cite-de-la-peur",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 07:57:00+00",
+      "endTime": "2026-04-22 09:35:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-22 07:57:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

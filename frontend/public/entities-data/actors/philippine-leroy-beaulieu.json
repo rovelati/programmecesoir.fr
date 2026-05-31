@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "philippine-leroy-beaulieu",
+  "name": "Philippine Leroy-Beaulieu",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippine-Leroy-Beaulieu%2C%202011%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-04-25",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q1215287",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Philippine_Leroy-Beaulieu",
+    "imdb": "nm0503800",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-venue-de-l-avenir",
+      "title": "La Venue de l'avenir"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "027bf865-81c6-422e-95b6-3e53da1a6b74",
+      "title": "La Venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/canal/la-venue-de-l-avenir",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 11:28:00+00",
+      "endTime": "2026-04-21 13:29:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4e6d724f-7056-4d35-a243-100c134594ac",
+      "title": "La venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/paramount-channel/la-venue-de-l-avenir",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 13:15:00+00",
+      "endTime": "2026-04-24 15:15:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "81b3811a-de71-4159-aa73-d7844bc0c2b0",
+      "title": "La Venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/canal-cinema/la-venue-de-l-avenir",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 13:16:00+00",
+      "endTime": "2026-04-24 15:18:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 11:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

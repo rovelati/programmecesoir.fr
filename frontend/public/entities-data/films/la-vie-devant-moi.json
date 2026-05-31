@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "la-vie-devant-moi",
+  "title": "La vie devant moi",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "La vie devant moi",
+    "La Vie devant moi"
+  ],
+  "genres": [
+    "drame historique"
+  ],
+  "description": "Le 16 juillet 1942, Tauba, une adolescente pleine d'énergie, parvient miraculeusement à échapper à la rafle du Vel d'Hiv avec ses parents, des juifs polonais. Un couple, les Dinanceau, leur propose alors de les cacher provisoirement dans une minuscule chambre de bonne de leur immeuble, sous les toits de Paris, le temps que les choses se calment. Malheureusement, ce qui devait être temporaire s'éternise, et la famille s'enfonce lentement mais sûrement dans le silence et l'immobilité, minée par le manque de confort et la peur permanente d'être découverte. Mais Tauba est une battante, et rien ne pourra l'empêcher de bousculer le destin...",
+  "descriptionAi": "Ce drame historique poignant nous plonge dans l’intimité étouffante d’une cache durant l’Occupation. L’ambiance, tendue et claustrophobe, contraste avec la force vitale de Tauba, une adolescente dont la résilience éclaire cette sombre page de l’Histoire. Le film captive par son portrait sensible d’une famille juive polonaise suspendue entre peur et espoir, et par la lutte acharnée d’une jeune fille pour préserver son humanité. Une histoire de survie et de lumière dans les ténèbres, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d4cf3297-7f66-4a48-bfa5-72c0d269094d",
+      "title": "La Vie devant moi",
+      "programSlug": "la-vie-devant-moi",
+      "programUrl": "/programme/canal-cinema/la-vie-devant-moi",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 06:49:00+00",
+      "endTime": "2026-04-20 08:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ef487d35-c943-4d92-84f9-d581820c1443",
+      "title": "La vie devant moi",
+      "programSlug": "la-vie-devant-moi",
+      "programUrl": "/programme/paramount-channel/la-vie-devant-moi",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-20 06:50:00+00",
+      "endTime": "2026-04-20 08:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "734b309a-8d56-4280-9b1e-70071564232a",
+      "title": "La Vie devant moi",
+      "programSlug": "la-vie-devant-moi",
+      "programUrl": "/programme/canal/la-vie-devant-moi",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-23 02:01:00+00",
+      "endTime": "2026-04-23 03:33:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "802c8a21-4d7d-443f-96a4-ecc0b6efcd97",
+      "title": "La Vie devant moi",
+      "programSlug": "la-vie-devant-moi",
+      "programUrl": "/programme/canal-box-office/la-vie-devant-moi",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 23:40:00+00",
+      "endTime": "2026-04-26 01:10:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q131828549",
+    "wikipedia": "https://fr.wikipedia.org/wiki/La_Vie_devant_moi",
+    "imdb": "tt30399248",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:22.858Z",
+  "year": 2025,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q388744",
+      "slug": "guillaume-gallienne",
+      "name": "Guillaume Gallienne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2824224",
+      "slug": "adeline-d-hermy",
+      "name": "Adeline d'Hermy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232937",
+      "slug": "sandrine-bonnaire",
+      "name": "Sandrine Bonnaire",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3219022",
+      "slug": "laurent-bateau",
+      "name": "Laurent Bateau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2388357",
+      "slug": "claude-mathieu",
+      "name": "Claude Mathieu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19945198",
+      "slug": "rod-paradot",
+      "name": "Rod Paradot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q346121",
+      "slug": "bernard-le-coq",
+      "name": "Bernard Le Coq",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3341887",
+    "slug": "nils-tavernier",
+    "name": "Nils Tavernier",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 06:49:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

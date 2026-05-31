@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "adorables",
+  "title": "Adorables",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Adorables"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Emma, psychologue, est persuadée d'être une mère formidable pour sa fille, Lila, qu'elle éduque avec bienveillance. Par ailleurs, Emma entretient d'excellentes relations avec son ex-mari Victor, le père de Lila. Mais leur fille devient une ado de 14 ans qui veut sortir en boîte de nuit...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "channelNumber": 21,
+      "logoUrl": "/loghi/6ter.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": 91,
+  "cast": [],
+  "director": {
+    "qid": "Q28497856",
+    "slug": "solange-cicurel",
+    "name": "Solange Cicurel",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "gaspar-noe",
+  "name": "Gaspar Noé",
+  "worksCount": 1,
+  "description": "producteur, réalisateur et scénariste argentin",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaspar%20No%C3%A9%20(2021).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-12-27",
+  "nationality": "Argentine",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q347950",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Gaspar_No%C3%A9",
+    "imdb": "nm0637615",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "9-mois-ferme",
+      "title": "9 mois ferme"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

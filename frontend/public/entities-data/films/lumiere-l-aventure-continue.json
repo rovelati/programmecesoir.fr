@@ -1,0 +1,72 @@
+{
+  "type": "film",
+  "slug": "lumiere-l-aventure-continue",
+  "title": "Lumière, l'aventure continue !",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Lumière, l'aventure continue !"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Il y a 130 ans, les frères Lumière, pionniers du cinéma, posaient les bases de ce qui allait devenir un art majeur, en réalisant certains des tout premiers films de l'histoire du 7e art. A cette époque, tous les éléments fondamentaux étaient déjà présents : les plans, les travellings, le drame, la comédie, le jeu des acteurs. S'appuyant sur la restauration minutieuse de plus de 120 vues Lumière inédites, ce film dévoile le spectacle intact du monde tel qu'il était au tout début du XXe siècle, ainsi qu'un voyage stimulant aux origines d'un cinéma qui, loin de connaître une fin, n'aura cessé de se déployer à travers les âges...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2889d400-a8eb-45dd-95b6-83162765cbf4",
+      "title": "Lumière, l'aventure continue !",
+      "programSlug": "lumiere-l-aventure-continue",
+      "programUrl": "/programme/cine-classic/lumiere-l-aventure-continue",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 09:48:00+00",
+      "endTime": "2026-04-23 11:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "e75fa0ac-2903-4f17-a0f3-9711d82027f3",
+      "title": "Lumière, l'aventure continue !",
+      "programSlug": "lumiere-l-aventure-continue",
+      "programUrl": "/programme/cine-classic/lumiere-l-aventure-continue",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-25 04:56:00+00",
+      "endTime": "2026-04-25 06:38:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-23 09:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

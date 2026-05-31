@@ -1,0 +1,272 @@
+{
+  "type": "series",
+  "slug": "chicago-med",
+  "title": "Chicago Med",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Chicago Med",
+    "Chicago Med - Saison 8"
+  ],
+  "genres": [
+    "série médicale"
+  ],
+  "description": "D'importants changements viennent s'ajouter aux interventions et cas médicaux déjà complexes gérés par le personnel médical du centre médical Gaffney. Maggie Lockwood doit ainsi dire au revoir à sa fille, qui se voit offrir une proposition professionnelle qu'elle ne peut pas refuser. Ethan Choi prend également une décision radicale. Par ailleurs, Jack Dayton, un entrepreneur milliardaire, investit massivement dans l'établissement, non sans arrières pensées. Cette huitième saison est marquée par les départs de Nick Gehlfuss et Brian Tee, présents depuis le début.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rts-deux",
+      "channelName": "RTS Deux",
+      "channelSlug": "rts-deux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-deux.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3214c890-42b1-4330-a409-58e85abb3104",
+      "title": "Chicago Med - Saison 10",
+      "programSlug": "chicago-med-saison-10",
+      "programUrl": "/programme/tf1/chicago-med-saison-10",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 21:00:00+00",
+      "endTime": "2026-04-22 21:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "874f9073-08da-41e5-898f-384a6073e382",
+      "title": "Chicago Med",
+      "programSlug": "chicago-med",
+      "programUrl": "/programme/canal-series/chicago-med",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 21:00:00+00",
+      "endTime": "2026-04-22 21:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7a82072c-df60-42d9-a310-c669f563bc8d",
+      "title": "Chicago Med - Saison 10",
+      "programSlug": "chicago-med-saison-10",
+      "programUrl": "/programme/tf1/chicago-med-saison-10",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 21:55:00+00",
+      "endTime": "2026-04-22 22:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9935ef56-9d7d-476d-a1ab-d03a6a74795c",
+      "title": "Chicago Med",
+      "programSlug": "chicago-med",
+      "programUrl": "/programme/canal-series/chicago-med",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 21:55:00+00",
+      "endTime": "2026-04-22 22:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9e820fd6-34bb-465f-abad-4a311e1d80b9",
+      "title": "Chicago Med",
+      "programSlug": "chicago-med",
+      "programUrl": "/programme/tf1-1/chicago-med",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-22 22:00:00+00",
+      "endTime": "2026-04-22 22:55:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "7b7ef6ca-b364-4aab-b6db-52566a07b5e0",
+      "title": "Chicago Med - Saison 9",
+      "programSlug": "chicago-med-saison-9",
+      "programUrl": "/programme/tf1/chicago-med-saison-9",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 22:40:00+00",
+      "endTime": "2026-04-22 23:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "769a7ec9-2fac-475e-b154-6d43579a7bd1",
+      "title": "Chicago Med",
+      "programSlug": "chicago-med",
+      "programUrl": "/programme/canal-series/chicago-med",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 22:40:00+00",
+      "endTime": "2026-04-22 23:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6a497c91-fd56-40a4-b9fb-9a9a9c492074",
+      "title": "Chicago Med",
+      "programSlug": "chicago-med",
+      "programUrl": "/programme/tf1-1/chicago-med",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-22 22:55:00+00",
+      "endTime": "2026-04-22 23:40:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "dde8d5ea-f968-4ed0-858a-2ca09549ab0c",
+      "title": "Chicago Med - Saison 9",
+      "programSlug": "chicago-med-saison-9",
+      "programUrl": "/programme/tf1/chicago-med-saison-9",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 23:35:00+00",
+      "endTime": "2026-04-23 00:25:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "a0c0cc1a-53d4-4fc7-ba84-fecded6aa183",
+      "title": "Chicago Med",
+      "programSlug": "chicago-med",
+      "programUrl": "/programme/canal-series/chicago-med",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 23:35:00+00",
+      "endTime": "2026-04-23 00:25:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "5f78302d-9453-4cc2-8efe-adf0ad990549",
+      "title": "Chicago Med",
+      "programSlug": "chicago-med",
+      "programUrl": "/programme/tf1-1/chicago-med",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-22 23:40:00+00",
+      "endTime": "2026-04-23 00:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "45bddf1b-dbf6-42d7-b0e1-d00c8286391d",
+      "title": "Chicago Med",
+      "programSlug": "chicago-med",
+      "programUrl": "/programme/tf1-1/chicago-med",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-23 00:35:00+00",
+      "endTime": "2026-04-23 01:25:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "a71b5ce3-d3d4-4a1e-b1a7-6d3bcb82730a",
+      "title": "Chicago Med - Saison 8",
+      "programSlug": "chicago-med-saison-8",
+      "programUrl": "/programme/rts-deux/chicago-med-saison-8",
+      "channelId": "rts-deux",
+      "channelName": "RTS Deux",
+      "channelSlug": "rts-deux",
+      "startTime": "2026-04-23 20:10:00+00",
+      "endTime": "2026-04-23 20:55:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "174da413-e029-438a-a956-57ac7b546495",
+      "title": "Chicago Med - Saison 8",
+      "programSlug": "chicago-med-saison-8",
+      "programUrl": "/programme/rts-deux/chicago-med-saison-8",
+      "channelId": "rts-deux",
+      "channelName": "RTS Deux",
+      "channelSlug": "rts-deux",
+      "startTime": "2026-04-23 20:55:00+00",
+      "endTime": "2026-04-23 21:35:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2015,
+  "numberOfSeasons": 11,
+  "cast": [
+    {
+      "qid": "Q343510",
+      "slug": "oliver-platt",
+      "name": "Oliver Platt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19946099",
+      "slug": "nick-gehlfuss",
+      "name": "Nick Gehlfuss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q260211",
+      "slug": "yaya-dacosta",
+      "name": "Yaya DaCosta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235546",
+      "slug": "torrey-devitto",
+      "name": "Torrey DeVitto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q608086",
+      "slug": "colin-donnell",
+      "name": "Colin Donnell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q913132",
+      "slug": "brian-tee",
+      "name": "Brian Tee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1198897",
+      "slug": "s-epatha-merkerson",
+      "name": "S. Epatha Merkerson",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q3856120",
+    "slug": "michael-brandt",
+    "name": "Michael Brandt",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-22 21:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

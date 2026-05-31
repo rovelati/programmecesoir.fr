@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "biyouna",
+  "name": "Biyouna",
+  "worksCount": 1,
+  "description": "actrice, chanteuse et danseuse algérienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Biyouna%20Cannes%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1952-09-13",
+  "nationality": "Algérie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2905002",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Biyouna",
+    "imdb": "nm0084670",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "amour-sur-place-ou-a-emporter",
+      "title": "Amour sur place ou à emporter"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

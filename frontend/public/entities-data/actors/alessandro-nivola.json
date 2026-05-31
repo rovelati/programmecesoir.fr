@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "alessandro-nivola",
+  "name": "Alessandro Nivola",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Nivola%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-06-28",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q350424",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alessandro_Nivola",
+    "imdb": "nm0005273",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "kraven-the-hunter",
+      "title": "Kraven the Hunter"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7752c2d-8827-443c-9054-c9fc5642a8b9",
+      "title": "Kraven the Hunter",
+      "programSlug": "kraven-the-hunter",
+      "programUrl": "/programme/canal-box-office/kraven-the-hunter",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 09:10:00+00",
+      "endTime": "2026-04-19 11:14:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 09:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

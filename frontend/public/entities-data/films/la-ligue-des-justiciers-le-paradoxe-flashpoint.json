@@ -1,0 +1,66 @@
+{
+  "type": "film",
+  "slug": "la-ligue-des-justiciers-le-paradoxe-flashpoint",
+  "title": "La ligue des Justiciers : le paradoxe Flashpoint",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "La ligue des Justiciers : le paradoxe Flashpoint"
+  ],
+  "genres": [
+    "film et téléfilm fantastique",
+    "film et téléfilm d'action",
+    "thriller",
+    "film ou téléfilm à énigme",
+    "film dystopique",
+    "film de voyage dans le temps",
+    "film de super-héros",
+    "drame"
+  ],
+  "description": "Flash, qui ne parvient pas à se remettre de la mort de sa mère, remonte le temps grâce à sa super-vitesse pour changer le cours de événements. Mais, ce faisant, le justicier crée un univers parallèle chaotique où les atlantes, peuple d'Aquaman, affrontent sans répit les amazones de Wonder Woman...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 81,
+  "cast": [],
+  "director": {
+    "qid": "Q11866244",
+    "slug": "jay-oliva",
+    "name": "Jay Oliva",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

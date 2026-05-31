@@ -1,0 +1,46 @@
+{
+  "type": "series",
+  "slug": "geordie-shore",
+  "title": "Geordie Shore",
+  "airingsCount": 16,
+  "sourceTitles": [
+    "Geordie Shore"
+  ],
+  "genres": [
+    "téléréalité"
+  ],
+  "description": "Le groupe est rentré mais Sam quitte la maison, ce qui fait croire à Chloe que leur relation est finie. Tout le monde se lâche à la fête foraine de Newcastle et Beau demande à Bethan de devenir sa copine...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mtv",
+      "channelName": "MTV",
+      "channelSlug": "mtv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mtv.png",
+      "airingsCount": 16
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2013,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

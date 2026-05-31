@@ -1,0 +1,123 @@
+{
+  "type": "actor",
+  "slug": "jean-paul-rouve",
+  "name": "Jean-Paul Rouve",
+  "worksCount": 4,
+  "description": "acteur et réalisateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Paul%20Rouve%20Cannes.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-01-26",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q949391",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Paul_Rouve",
+    "imdb": "nm0746162",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-tuche-2-le-reve-americain",
+      "title": "Les Tuche 2 : le rêve américain"
+    },
+    {
+      "type": "film",
+      "slug": "le-grand-saut",
+      "title": "Le grand saut"
+    },
+    {
+      "type": "film",
+      "slug": "god-save-the-tuche",
+      "title": "God Save the Tuche"
+    },
+    {
+      "type": "film",
+      "slug": "les-tuche-3",
+      "title": "Les Tuche 3"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7d97f242-41da-4815-9b49-2edcf1ac5c70",
+      "title": "Les Tuche 3",
+      "programSlug": "les-tuche-3",
+      "programUrl": "/programme/ocs/les-tuche-3",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 11:30:00+00",
+      "endTime": "2026-04-20 13:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c05693cb-297f-4dc4-8b03-288b73e47b28",
+      "title": "Les Tuche 2 : le rêve américain",
+      "programSlug": "les-tuche-2-le-reve-americain",
+      "programUrl": "/programme/ocs/les-tuche-2-le-reve-americain",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 04:56:00+00",
+      "endTime": "2026-04-22 06:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "303d5de5-cafd-45cd-8704-842fc64feaa9",
+      "title": "Les Tuche 3",
+      "programSlug": "les-tuche-3",
+      "programUrl": "/programme/ocs/les-tuche-3",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:01:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "b5214fe6-8fed-4d7c-a572-d1f528f74b3f",
+      "title": "Les Tuche 2 : le rêve américain",
+      "programSlug": "les-tuche-2-le-reve-americain",
+      "programUrl": "/programme/ocs/les-tuche-2-le-reve-americain",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-23 13:54:00+00",
+      "endTime": "2026-04-23 15:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "336ec877-8b68-41d9-9cea-d826bb846024",
+      "title": "Le grand saut",
+      "programSlug": "le-grand-saut",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/le-grand-saut",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-23 15:30:00+00",
+      "endTime": "2026-04-23 15:37:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "7b5814f9-5d46-4bee-8a92-e1ae4e92f675",
+      "title": "Les Tuche 2 : le rêve américain",
+      "programSlug": "les-tuche-2-le-reve-americain",
+      "programUrl": "/programme/ocs/les-tuche-2-le-reve-americain",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 06:15:00+00",
+      "endTime": "2026-04-25 07:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 11:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

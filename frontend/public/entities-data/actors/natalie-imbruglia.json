@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "natalie-imbruglia",
+  "name": "Natalie Imbruglia",
+  "worksCount": 1,
+  "description": "chanteuse et actrice australo-britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Natalie%20Imbruglia%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-02-04",
+  "nationality": "Australie",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q488353",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Natalie_Imbruglia",
+    "imdb": "nm0001386",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "johnny-english",
+      "title": "Johnny English"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d3845ee2-34da-4935-84ef-15a423b9de99",
+      "title": "Johnny English",
+      "programSlug": "johnny-english",
+      "programUrl": "/programme/cine-family/johnny-english",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 11:13:00+00",
+      "endTime": "2026-04-25 12:39:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 11:13:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

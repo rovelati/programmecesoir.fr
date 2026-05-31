@@ -1,0 +1,75 @@
+{
+  "type": "film",
+  "slug": "le-poids-du-silence",
+  "title": "Le poids du silence",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Le poids du silence"
+  ],
+  "genres": [
+    "Téléfilm dramatique"
+  ],
+  "description": "Sainte-Anne, en Guadeloupe. Betty tient un petit restaurant de plage et élève seule ses deux fils. Swann, l'aîné, aveugle mais brillant, rêve de partir étudier à Paris. Mais dans cette famille où l'amour est là sans se dire et où l'absence du père et les raisons de la cécité de Swann ont toujours été tues, la quête d'émancipation du jeune homme va provoquer une véritable déflagration.\n\nRéalisateur(s) : Marc Barrat\nActeurs : Karine Pédurand (Betty), Hélène Dabriou (Monette), Aïhan Seymour-Songeons (Swann), Mylan Darly (Mathis), Suzanne Magry (Lola)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguyanefr.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguadeloupefr.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tvsudmarseillefr.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvmartiniquefr.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q3287790",
+    "slug": "marc-barrat",
+    "name": "Marc Barrat",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

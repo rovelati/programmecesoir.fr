@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "martin-garralaga",
+  "name": "Martin Garralaga",
+  "worksCount": 1,
+  "description": "acteur espagnol",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Garralaga%20in%20The%20Fighter%20(1952).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1894-11-10",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q6775506",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Martin_Garralaga",
+    "imdb": "nm0307986",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "taikoun",
+      "title": "Taïkoun"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d9673e75-145f-41ee-997b-508b481199c1",
+      "title": "Taïkoun",
+      "programSlug": "taikoun",
+      "programUrl": "/programme/tcm-cinema/taikoun",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-22 16:45:00+00",
+      "endTime": "2026-04-22 18:50:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 16:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

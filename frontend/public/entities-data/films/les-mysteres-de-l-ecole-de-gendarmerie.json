@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "les-mysteres-de-l-ecole-de-gendarmerie",
+  "title": "Les mystères de l'école de gendarmerie",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Les mystères de l'école de gendarmerie"
+  ],
+  "genres": [
+    "thriller",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Emma et Adrien se retrouvent pour des vacances en amoureux. Mais Adrien est appelé sur une affaire à l'école de gendarmerie, où une instructrice vient d'être retrouvée pendue. Cela tombe mal, car Emma est prise d'une crise de jalousie à l'égard de Clémentine, la nouvelle collègue d'Adrien, et que Françoise, la mère d'Emma est folle d'inquiétude depuis que Bernard, son compagnon, s'est volatilisé avec, pense-t-elle, une maîtresse. Le procureur profite de la présence d'Emma et lui demande d'aider Adrien à faire la lumière sur le meurtre, car au sein de l'école de gendarmerie cette affaire fait désordre...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teva.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 95,
+  "cast": [],
+  "director": {
+    "qid": "Q66365653",
+    "slug": "lorenzo-gabriele",
+    "name": "Lorenzo Gabriele",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

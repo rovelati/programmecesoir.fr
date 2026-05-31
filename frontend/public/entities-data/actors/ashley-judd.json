@@ -1,0 +1,63 @@
+{
+  "type": "actor",
+  "slug": "ashley-judd",
+  "name": "Ashley Judd",
+  "worksCount": 4,
+  "description": "actrice et féministe américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ashley%20Judd%20SXSW%202024.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-04-19",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q228645",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ashley_Judd",
+    "imdb": "nm0000171",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "divergente",
+      "title": "Divergente"
+    },
+    {
+      "type": "film",
+      "slug": "double-jeu",
+      "title": "Double Jeu"
+    },
+    {
+      "type": "film",
+      "slug": "heat",
+      "title": "Heat"
+    },
+    {
+      "type": "film",
+      "slug": "le-collectionneur",
+      "title": "Le collectionneur"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "928d1eb9-22c2-4dbf-9d58-21e9c5f19ed9",
+      "title": "Divergente",
+      "programSlug": "divergente",
+      "programUrl": "/programme/w9/divergente",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 19:25:00+00",
+      "endTime": "2026-04-20 21:50:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 19:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,116 @@
+{
+  "type": "film",
+  "slug": "doux-jesus",
+  "title": "Doux Jésus",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Doux Jésus"
+  ],
+  "genres": [
+    "comédie",
+    "nonnesploitation"
+  ],
+  "description": "Religieuse aussi discrète que dévouée, soeur Lucie, qui vient de passer près de deux décennies dans un couvent austère, est victime d'un inexplicable coup de folie lors d'une visite de routine chez le médecin. En effet, elle choisit soudain de prendre la poudre d'escampette en montant dans le premier bus qu'elle croise, bien décidée à retrouver son amour de jeunesse. Confrontée à un monde moderne qu'elle ne comprend pas et qui met immédiatement sa foi à l'épreuve, elle réalise vite qu'elle va devoir surmonter de nombreux obstacles sur son chemin vers la \"vraie vie\"...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fd7fd8f4-9272-4270-b27a-6230362224c8",
+      "title": "Doux Jésus",
+      "programSlug": "doux-jesus",
+      "programUrl": "/programme/canal/doux-jesus",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-24 07:43:00+00",
+      "endTime": "2026-04-24 09:06:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "9689f70d-c808-4840-b92b-f143b8af36e3",
+      "title": "Doux Jésus",
+      "programSlug": "doux-jesus",
+      "programUrl": "/programme/canal-box-office/doux-jesus",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 20:39:00+00",
+      "endTime": "2026-04-25 22:03:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 86,
+  "cast": [
+    {
+      "qid": "Q201810",
+      "slug": "marilou-berry",
+      "name": "Marilou Berry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3141565",
+      "slug": "isabelle-nanty",
+      "name": "Isabelle Nanty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3592761",
+      "slug": "evelyne-buyle",
+      "name": "Évelyne Buyle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q524747",
+      "slug": "valerie-mairesse",
+      "name": "Valérie Mairesse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15069954",
+      "slug": "barbara-bolotner",
+      "name": "Barbara Bolotner",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3090150",
+    "slug": "frederic-quiring",
+    "name": "Frédéric Quiring",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 07:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

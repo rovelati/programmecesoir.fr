@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "chris-collins",
+  "name": "Chris Collins",
+  "worksCount": 2,
+  "description": "chanteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-08-10",
+  "nationality": "États-Unis",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q861156",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Chris_Collins_(chanteur)",
+    "imdb": null,
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "arrete-ou-ma-mere-va-tirer",
+      "title": "Arrête ou ma mère va tirer !"
+    },
+    {
+      "type": "film",
+      "slug": "ip-man-4",
+      "title": "Ip Man 4"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

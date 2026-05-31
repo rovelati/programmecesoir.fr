@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "la-chambre-de-mariana",
+  "title": "La chambre de Mariana",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "La chambre de Mariana",
+    "La Chambre de Mariana"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "1943, aux confins de l'Ukraine et de la Pologne. Fuyant la déportation, Yulia confie son fils Hugo, 11 ans, à une amie d'enfance, Mariana, 35 ans, qui se prostitue dans une maison close. Reclus dans un réduit privé de fenêtres, attenant à la chambre de la jeune femme, son existence est suspendue aux bruits et aux scènes qu'il devine à travers la cloison : avec l'imagination pour seule ressource, Hugo prend conscience à la fois des massacres en train de se perpétrer et des mystères de la sexualité. Lorsque le jour pointe, Mariana l'invite dans sa chambre, et l'enveloppe de douceur et de volupté. Hugo devient bientôt un jeune homme...",
+  "descriptionAi": "Ce film dramatique historique plonge dans l’intimité oppressante de 1943. L’ambiance est étouffante et sensuelle, portée par le huis clos d’une maison close où un enfant, caché, grandit trop vite. L’intérêt réside dans ce récit poignant de l’initiation, où la découverte du désir et de la violence du monde se mêlent aux murmures filtrant d’une cloison. Une œuvre sur la perte de l’innocence, d’une grande délicatesse visuelle et émotionnelle, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q16651736",
+    "wikipedia": "https://fr.wikipedia.org/wiki/La_Chambre_de_Mariana",
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:34:48.027Z",
+  "year": 2006,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

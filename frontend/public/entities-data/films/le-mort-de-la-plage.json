@@ -1,0 +1,82 @@
+{
+  "type": "film",
+  "slug": "le-mort-de-la-plage",
+  "title": "Le mort de la plage",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Le mort de la plage"
+  ],
+  "genres": [
+    "fiction"
+  ],
+  "description": "Eloïse Gentil, capitaine de la section de recherches de Caen, est en froid depuis plus de vingt ans avec son père Robert, historien spécialiste de la Seconde Guerre mondiale. Elle le retrouve pourtant autour d'une enquête sur le décès de James Crawley, 91 ans, retrouvé mort, revêtu de son uniforme de GI. La mise en scène macabre semble signifier que Crawley, attaché à un poteau, a été fusillé \"pour l'exemple\". Eloïse trouve malgré elle une aide précieuse auprès de son père, seul à pouvoir l'éclairer sur le passé du défunt et le lien de ce meurtre avec un événement qui se serait produit pendant la guerre...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teva.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q2975013",
+      "slug": "claire-borotra",
+      "name": "Claire Borotra",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165444",
+      "slug": "jean-francois-balmer",
+      "name": "Jean-François Balmer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1342944",
+      "slug": "michel-jonasz",
+      "name": "Michel Jonasz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q452106",
+      "slug": "claire-chazal",
+      "name": "Claire Chazal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3384711",
+      "slug": "pierre-deny",
+      "name": "Pierre Deny",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2976812",
+    "slug": "claude-michel-rome",
+    "name": "Claude-Michel Rome",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

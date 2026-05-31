@@ -1,0 +1,144 @@
+{
+  "type": "film",
+  "slug": "ma-famille-t-adore-deja",
+  "title": "Ma famille t'adore déjà",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Ma famille t'adore déjà"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Julien, trentenaire modeste, est fou d'amour pour Eva. Après avoir accepté sa demande en mariage, Eva est obligée de le présenter à ses parents, qui résident sur l'île de Ré. Au cours du trajet en voiture, Julien fait la rencontre de Jean-Seb, le frère d'Eva, et de sa femme Corinne. Les relations entre le futur marié et son beau-frère sont de prime abord tendues, car ce dernier ne l'apprécie guère. Arrivé sur l'île de Ré, Julien fait la connaissance de Jean et Marie-Lau, ses beaux-parents un brin excentriques. Le week-end s'annonce plein de surprises, d'autant que la nouvelle nounou allemande des enfants de Jean-Seb et Corinne est fort séduisante...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 85,
+  "cast": [
+    {
+      "qid": "Q2865083",
+      "slug": "arthur-dupont",
+      "name": "Arthur Dupont",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239498",
+      "slug": "deborah-francois",
+      "name": "Déborah François",
+      "role": "actor"
+    },
+    {
+      "qid": "Q548400",
+      "slug": "thierry-lhermitte",
+      "name": "Thierry Lhermitte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459676",
+      "slug": "marie-anne-chazel",
+      "name": "Marie-Anne Chazel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3190858",
+      "slug": "jerome-commandeur",
+      "name": "Jérôme Commandeur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q510056",
+      "slug": "valerie-karsenti",
+      "name": "Valérie Karsenti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106592",
+      "slug": "sabine-azema",
+      "name": "Sabine Azéma",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1031692",
+      "slug": "eric-berger",
+      "name": "Éric Berger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3170114",
+      "slug": "jean-yves-chatelais",
+      "name": "Jean-Yves Chatelais",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1602203",
+      "slug": "alicia-endemann",
+      "name": "Alicia Endemann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3479429",
+      "slug": "serge-maillat",
+      "name": "Serge Maillat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2941829",
+      "slug": "catherine-benguigui",
+      "name": "Catherine Benguigui",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3554319",
+      "slug": "valerie-vogt",
+      "name": "Valérie Vogt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15965422",
+      "slug": "tom-villa",
+      "name": "Tom Villa",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3190858",
+    "slug": "jerome-commandeur",
+    "name": "Jérôme Commandeur",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

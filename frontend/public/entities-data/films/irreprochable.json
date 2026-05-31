@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "irreprochable",
+  "title": "Irréprochable",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Irréprochable"
+  ],
+  "genres": [
+    "thriller"
+  ],
+  "description": "Constance, agent immobilier à Paris, a perdu son emploi. Sans appartement et vivant du RSA, elle repart en Charente-Maritime où elle a commencé sa carrière. Elle tente de retrouver du travail dans sa première agence et demande l'aide de Philippe, un ancien amant. Mais le gérant préfère embaucher Audrey...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q456360",
+      "slug": "marina-fois",
+      "name": "Marina Foïs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q182991",
+      "slug": "benjamin-biolay",
+      "name": "Benjamin Biolay",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55599975",
+    "slug": "sebastien-marnier",
+    "name": "Sébastien Marnier",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

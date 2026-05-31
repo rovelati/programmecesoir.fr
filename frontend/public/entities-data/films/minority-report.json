@@ -1,0 +1,201 @@
+{
+  "type": "film",
+  "slug": "minority-report",
+  "title": "Minority Report",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Minority Report"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "film dystopique",
+    "thriller",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "Washington, en 2054. L'agent John Anderton est à la tête d'une unité de police très particulière, la division \"Pré-Crime\", capable de détecter un criminel avant qu'il ne le devienne. Cette expérience controversée repose sur les visions de trois extralucides, les \"Pré-Cogs\". Un jour, alors qu'il revient d'une mission périlleuse, Anderton prend connaissance d'un nouveau dossier. L'impensable se produit : il est le prochain criminel. Il s'enfuit pour échapper à ses propres troupes. Le fugitif tente de comprendre comment \"Pré-Crime\" a pu le désigner comme un tueur. Il part à la recherche de sa future victime et porte son attention sur Agatha, la plus douée des \"Pré-Cogs\"...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "69b0c45e-9dfe-4a8e-bf54-be10ad4217b0",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-19 14:25:00+00",
+      "endTime": "2026-04-19 16:47:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d2b13d63-a3f4-4163-8399-42feaa813b90",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 09:06:00+00",
+      "endTime": "2026-04-21 11:28:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e9795fec-6cc4-4bd7-a44f-8b33a175bb7c",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 09:24:00+00",
+      "endTime": "2026-04-24 11:46:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "e11ee0f6-1638-41ea-8821-e23f960a9289",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 20:22:00+00",
+      "endTime": "2026-04-25 22:44:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2002,
+  "durationMinutes": 145,
+  "cast": [
+    {
+      "qid": "Q37079",
+      "slug": "tom-cruise",
+      "name": "Tom Cruise",
+      "role": "actor"
+    },
+    {
+      "qid": "Q172035",
+      "slug": "colin-farrell",
+      "name": "Colin Farrell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230190",
+      "slug": "samantha-morton",
+      "name": "Samantha Morton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q203215",
+      "slug": "max-von-sydow",
+      "name": "Max von Sydow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1849463",
+      "slug": "patrick-kilpatrick",
+      "name": "Patrick Kilpatrick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q258246",
+      "slug": "lois-smith",
+      "name": "Lois Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295148",
+      "slug": "peter-stormare",
+      "name": "Peter Stormare",
+      "role": "actor"
+    },
+    {
+      "qid": "Q515095",
+      "slug": "tim-blake-nelson",
+      "name": "Tim Blake Nelson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232968",
+      "slug": "kathryn-morris",
+      "name": "Kathryn Morris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1635281",
+      "slug": "mike-binder",
+      "name": "Mike Binder",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40057",
+      "slug": "jessica-capshaw",
+      "name": "Jessica Capshaw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q975919",
+      "slug": "steve-harris",
+      "name": "Steve Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q918616",
+      "slug": "frank-grillo",
+      "name": "Frank Grillo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q445125",
+      "slug": "neal-mcdonough",
+      "name": "Neal McDonough",
+      "role": "actor"
+    },
+    {
+      "qid": "Q717982",
+      "slug": "arye-gross",
+      "name": "Arye Gross",
+      "role": "actor"
+    },
+    {
+      "qid": "Q225239",
+      "slug": "joel-gretsch",
+      "name": "Joel Gretsch",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q8877",
+    "slug": "steven-spielberg",
+    "name": "Steven Spielberg",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 14:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

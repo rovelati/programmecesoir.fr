@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "dissection",
+  "title": "Dissection",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Dissection"
+  ],
+  "genres": [
+    "melodic black metal",
+    "death metal mélodique"
+  ],
+  "description": "Après la mort d'un patient, un chirurgien respecté se retrouve au coeur d'un scandale. Une journaliste chevronnée et déterminée débute son enquête.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dissection%20live1%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "frank-hopf",
+  "name": "Frank Hopf",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1954-04-30",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q3082654",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Frank_Hopf",
+    "imdb": "nm1363650",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "inside-man-l-homme-de-l-interieur",
+      "title": "Inside Man, l'homme de l'intérieur"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

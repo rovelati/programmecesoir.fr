@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "une-pointe-d-amour",
+  "title": "Une pointe d'amour",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Une pointe d'amour"
+  ],
+  "genres": [
+    "comédie dramatique"
+  ],
+  "description": "Mélanie, une jeune avocate atteinte d'une maladie incurable, a décidé qu'il était temps de profiter de la vie. Elle embarque Benjamin, son ami de toujours, dans un périple vers l'Espagne pour explorer enfin leur sensualité dans une maison close. Les voici à bord d'un van délabré, conduit par Lucas, un chauffeur bourru sorti de prison la veille. Contrairement à Mélanie, Benjamin ne semble pas pressé d'arriver et fait d'ailleurs tout pour prolonger cet improbable voyage à ses côtés…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q138281774",
+    "slug": "mael-piriou",
+    "name": "Maël Piriou",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

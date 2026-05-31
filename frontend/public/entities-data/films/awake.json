@@ -1,0 +1,115 @@
+{
+  "type": "film",
+  "slug": "awake",
+  "title": "Awake",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Awake"
+  ],
+  "genres": [
+    "thriller",
+    "film ou téléfilm catastrophe",
+    "film ou téléfilm de science-fiction",
+    "film apocalyptique"
+  ],
+  "description": "L'existence de Clay Beresford, jeune homme à l'avenir prometteur, bascule le jour où son médecin lui annonce qu'il doit être opéré au plus vite pour soigner un problème congénital gravissime. Epaulé par celle qu'il aime, la belle Sam, Clay accepte de passer au bloc opératoire. Mais rien ne se passe comme prévu...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q16729296",
+      "slug": "gina-rodriguez",
+      "name": "Gina Rodriguez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232902",
+      "slug": "jennifer-jason-leigh",
+      "name": "Jennifer Jason Leigh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315604",
+      "slug": "barry-pepper",
+      "name": "Barry Pepper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q368090",
+      "slug": "finn-jones",
+      "name": "Finn Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23928895",
+      "slug": "ariana-greenblatt",
+      "name": "Ariana Greenblatt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q35011",
+      "slug": "frances-fisher",
+      "name": "Frances Fisher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26703645",
+      "slug": "shamier-anderson",
+      "name": "Shamier Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q360313",
+      "slug": "gil-bellows",
+      "name": "Gil Bellows",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7442499",
+      "slug": "sebastian-pigott",
+      "name": "Sebastian Pigott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q112617684",
+      "slug": "michael-hough",
+      "name": "Michael Hough",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q20685259",
+    "slug": "mark-raso",
+    "name": "Mark Raso",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

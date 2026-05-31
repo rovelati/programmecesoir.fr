@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "magma",
+  "title": "Magma",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Magma"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "A la tête de l'Observatoire volcanologique de Guadeloupe depuis une dizaine d'années, Katia Reiter forme un duo de choc avec Aimé, jeune Guadeloupéen auquel elle transmet sa passion du métier. Alors qu'elle se prépare pour une nouvelle mission à l'autre bout du monde, la menace d'une éruption majeure de la Soufrière se profile. L'île est aux abois et Katia, qui se doit d'assurer la sécurité de la population, doit faire face à des Guadeloupéens pris de panique et à une forte pression des médias. Incapable d'anticiper précisément l'étendue des dégâts potentiels, elle voit l'île peu à peu se plonger dans un véritable chaos...",
+  "descriptionAi": "Ce film catastrophe captivant mêle tension dramatique et paysages grandioses. Il plonge le téléspectateur dans l'urgence scientifique et le chaos social précédant une éruption volcanique majeure en Guadeloupe. L'intérêt réside dans le duo de choc formé par une vulcanologue expérimentée et son jeune protégé, confrontés à une crise imprévisible, à la panique de la population et à la pression médiatique. L'ambiance est étouffante, portée par la menace sourde de la Soufrière et les dilemmes humains qui en découlent. Une course contre la montre haletante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hawai'i%20Volcanoes%20National%20Park%20HAVO3171.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d6ec3605-d83b-431d-9e8c-553def14bf43",
+      "title": "Magma",
+      "programSlug": "magma",
+      "programUrl": "/programme/canal-box-office/magma",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 10:05:00+00",
+      "endTime": "2026-04-21 11:26:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "fb5f89ed-da4a-40a9-a8d7-bbcfd2d69213",
+      "title": "Magma",
+      "programSlug": "magma",
+      "programUrl": "/programme/paramount-channel/magma",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 21:50:00+00",
+      "endTime": "2026-04-23 23:10:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "27870e85-7c9c-477d-889c-5d0b0846272b",
+      "title": "Magma",
+      "programSlug": "magma",
+      "programUrl": "/programme/canal-cinema/magma",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 21:50:00+00",
+      "endTime": "2026-04-23 23:11:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "5e727c92-6a73-4b32-ac2e-5ff218e9b02e",
+      "title": "Magma",
+      "programSlug": "magma",
+      "programUrl": "/programme/paramount-channel/magma",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 07:00:00+00",
+      "endTime": "2026-04-24 08:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "3e4b4f66-dffc-427d-9b5e-a664677220d2",
+      "title": "Magma",
+      "programSlug": "magma",
+      "programUrl": "/programme/canal-cinema/magma",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 07:01:00+00",
+      "endTime": "2026-04-24 08:22:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:48:27.808Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 10:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

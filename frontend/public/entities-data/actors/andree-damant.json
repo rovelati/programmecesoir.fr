@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "andree-damant",
+  "name": "Andrée Damant",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": "Andrée Damant est une actrice française dont la carrière, principalement active dans les années 1960 et 1970, s’inscrit dans le genre de la comédie dramatique. L’ambiance de ses films est souvent légère et charmante, teintée d’une sensibilité typique du cinéma populaire de l’époque. Ce qui la rend intéressante pour le téléspectateur, c’est sa présence naturelle et son talent pour incarner des personnages attachants, souvent des jeunes femmes espiègles ou romantiques, qui captent immédiatement la sympathie. Elle offre un aperçu délicieux d’une certaine époque du cinéma français. Pour découvrir ses performances, retrouvez ses films à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1929-09-20",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2848938",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Andr%C3%A9e_Damant",
+    "imdb": "nm0198610",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mon-meilleur-ami",
+      "title": "Mon meilleur ami"
+    },
+    {
+      "type": "film",
+      "slug": "la-haine",
+      "title": "La haine"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e419f7ba-5d34-4c12-a31c-0d7416d4294c",
+      "title": "La haine",
+      "programSlug": "la-haine",
+      "programUrl": "/programme/cine-frisson/la-haine",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 03:12:00+00",
+      "endTime": "2026-04-23 04:47:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6e5831e2-3e06-474b-8a69-e932d89c80ea",
+      "title": "La haine",
+      "programSlug": "la-haine",
+      "programUrl": "/programme/cine-frisson/la-haine",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 02:51:00+00",
+      "endTime": "2026-04-25 04:26:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:18.847Z",
+  "nextAiringAt": "2026-04-23 03:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

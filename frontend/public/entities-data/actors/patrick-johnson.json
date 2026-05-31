@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "patrick-johnson",
+  "name": "Patrick Johnson",
+  "worksCount": 1,
+  "description": "acteur américain (1993)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1993-02-19",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2057710",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Johnson_(actor)",
+    "imdb": "nm3416247",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "maximum-ride",
+      "title": "Maximum Ride"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

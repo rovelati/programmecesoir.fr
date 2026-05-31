@@ -1,0 +1,68 @@
+{
+  "type": "actor",
+  "slug": "jean-pierre-darroussin",
+  "name": "Jean-Pierre Darroussin",
+  "worksCount": 5,
+  "description": "acteur et réalisateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20Darroussin%20C%C3%A9sar%202%202020.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-12-04",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q615469",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Pierre_Darroussin",
+    "imdb": "nm0201669",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-pressentiment",
+      "title": "Le pressentiment"
+    },
+    {
+      "type": "film",
+      "slug": "marius-et-jeannette",
+      "title": "Marius et Jeannette"
+    },
+    {
+      "type": "film",
+      "slug": "l-ecole-est-a-nous",
+      "title": "L'école est à nous"
+    },
+    {
+      "type": "film",
+      "slug": "la-buche",
+      "title": "La bûche"
+    },
+    {
+      "type": "film",
+      "slug": "au-fil-d-ariane",
+      "title": "Au fil d'Ariane"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7d078269-80ac-4271-a986-a75080eab346",
+      "title": "Le pressentiment",
+      "programSlug": "le-pressentiment",
+      "programUrl": "/programme/canal-grand-ecran/le-pressentiment",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 23:54:00+00",
+      "endTime": "2026-04-21 01:35:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 23:54:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

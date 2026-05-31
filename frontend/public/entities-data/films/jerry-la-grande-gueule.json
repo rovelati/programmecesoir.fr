@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "jerry-la-grande-gueule",
+  "title": "Jerry la grande gueule",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Jerry la grande gueule"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Gerald Clamson est un petit comptable sans histoires. Pour ses congés annuels, il a décidé de s'offrir le bord de mer et de s'y livrer à la pêche, son loisir favori. Sa première prise est malheureusement un homme-grenouille blessé à mort. Les dernières paroles de celui-ci font allusion à un hôtel et à des diamants. L'enquête révèle que le défunt s'appelle Sid Valentine, et qu'il officie dans le trafic international de pierres précieuses. Son associé, Thor, a juré sa perte parce qu'il l'a trahi. Or, le hasard veut que Gerald soit le sosie de Sid. Voilà donc Thor et ses tueurs lancés à la poursuite du malheureux Gerald, qui ne comprend pas ce qu'on lui veut...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1967,
+  "durationMinutes": 107,
+  "cast": [
+    {
+      "qid": "Q294927",
+      "slug": "jerry-lewis",
+      "name": "Jerry Lewis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1585876",
+      "slug": "harold-j-stone",
+      "name": "Harold J. Stone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7151931",
+      "slug": "paul-lambert",
+      "name": "Paul Lambert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q666108",
+      "slug": "frank-de-vol",
+      "name": "Frank De Vol",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3176288",
+      "slug": "jeannine-riley",
+      "name": "Jeannine Riley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q969860",
+      "slug": "charlie-callas",
+      "name": "Charlie Callas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q926563",
+      "slug": "eddie-ryder",
+      "name": "Eddie Ryder",
+      "role": "actor"
+    },
+    {
+      "qid": "Q110154",
+      "slug": "george-takei",
+      "name": "George Takei",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12858652",
+      "slug": "john-nolan",
+      "name": "John Nolan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272505",
+      "slug": "kathleen-freeman",
+      "name": "Kathleen Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3559408",
+      "slug": "vince-barnett",
+      "name": "Vince Barnett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q727310",
+      "slug": "percy-helton",
+      "name": "Percy Helton",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q294927",
+    "slug": "jerry-lewis",
+    "name": "Jerry Lewis",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

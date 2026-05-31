@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "black-widow",
+  "title": "Black Widow",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Black Widow"
+  ],
+  "genres": [
+    "film de super-héros",
+    "film et téléfilm d'action",
+    "film ou téléfilm de science-fiction",
+    "film ou téléfilm d'aventure",
+    "thriller"
+  ],
+  "description": "Bien avant d'intégrer l'équipe des Avengers, Natasha Romanoff, alias Black Widow, est rattrapée par son passé. Elle retrouve Yelena Belova, qui comme elle a été entraînée au sein de la Chambre rouge. Avec Alexei Shostakov, alias le Gardien rouge et Melina Vostokoff, ses anciens collègues, elles vont tenter de mettre le redoutable Taskmaster hors d'état de nuire...\n\nRéalisateur(s) : Cate Shortland\nActeurs : Scarlett Johansson (Natasha Romanoff / Black Widow), Florence Pugh (Yelena Belova), David Harbour (Alexei Shostakov / Gardien rouge), Rachel Weisz (Melina Vostokoff / Iron Maiden), Robert Downey Jr. (Tony Stark), Michelle Lee, O-T Fagbenle (Mason), William Hurt (Thaddeus Ross), Ray Winstone (le général Dreykov), Ahmed Bakare (Prisoner), Yolanda Lynes (Widow), Olivier Richters (Muscular Gulag Inmate), Shaina West, Jade Ma, Nanna Blondell, Simona Zivkovska, Joakim Skarli (Russian Soldier), Paul O'Kelly (Riot Guard), Georgia Curtis, Dale Liner (SWAT Team leader), Ty Hurley (Prison Riot Guard), Daniel Joseph Woolf (Gulag Inmate #120), Stephen Samson (KGB), Liran Nathan (Budapest Mechanic), Andrew Byron (Gulag Cookie Guard), David Turner (SWAT Team), John Wolfe (Guard), Gavin Lee Lewis (Prisoner), Kyle Marasciulo (Polish Soldier 2), Marcel Dorian (Hungarian Driver)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "channelNumber": 1,
+      "logoUrl": "/loghi/tf1.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-1.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-series.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 133,
+  "cast": [
+    {
+      "qid": "Q34436",
+      "slug": "scarlett-johansson",
+      "name": "Scarlett Johansson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q391359",
+      "slug": "david-harbour",
+      "name": "David Harbour",
+      "role": "actor"
+    },
+    {
+      "qid": "Q134077",
+      "slug": "rachel-weisz",
+      "name": "Rachel Weisz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7072174",
+      "slug": "o-t-fagbenle",
+      "name": "O. T. Fagbenle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22277803",
+      "slug": "florence-pugh",
+      "name": "Florence Pugh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310932",
+      "slug": "ray-winstone",
+      "name": "Ray Winstone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105825",
+      "slug": "william-hurt",
+      "name": "William Hurt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q99485564",
+      "slug": "ahmed-bakare",
+      "name": "Ahmed Bakare",
+      "role": "actor"
+    },
+    {
+      "qid": "Q99485567",
+      "slug": "joakim-skarli",
+      "name": "Joakim Skarli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104416100",
+      "slug": "simona-brown-zivkovska",
+      "name": "Simona Brown-Zivkovska",
+      "role": "actor"
+    },
+    {
+      "qid": "Q164730",
+      "slug": "olga-kurylenko",
+      "name": "Olga Kurylenko",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65031068",
+      "slug": "olivier-richters",
+      "name": "Olivier Richters",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111487225",
+      "slug": "yuuki-luna",
+      "name": "Yuuki Luna",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q441510",
+    "slug": "cate-shortland",
+    "name": "Cate Shortland",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

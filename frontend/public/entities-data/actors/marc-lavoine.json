@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "marc-lavoine",
+  "name": "Marc Lavoine",
+  "worksCount": 2,
+  "description": "acteur et chanteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Lavoine%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-08-06",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q951025",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marc_Lavoine",
+    "imdb": "nm0492200",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sous-les-jupes-des-filles",
+      "title": "Sous les jupes des filles"
+    },
+    {
+      "type": "series",
+      "slug": "crossing-lines",
+      "title": "Crossing Lines"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

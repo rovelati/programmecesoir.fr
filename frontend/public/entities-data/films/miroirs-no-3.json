@@ -1,0 +1,70 @@
+{
+  "type": "film",
+  "slug": "miroirs-no-3",
+  "title": "Miroirs No. 3",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Miroirs No. 3"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Lors d'un week-end à la campagne, Laura, étudiante à Berlin, survit miraculeusement à un accident de voiture durant lequel son petit ami perd la vie. Physiquement indemne mais profondément secouée, elle est recueillie par Betty, une mère de famille qui a été témoin de l'accident et s'occupe d'elle avec affection. Peu à peu, Richard et Max, le mari et le fils de Betty, surmontent leur réticence, et une quiétude quasi familiale qu'ils aimeraient tous voir durer éternellement s'installe dans le foyer. Mais bientôt, ils ne peuvent plus ignorer leur passé, et Laura doit affronter sa propre vie...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 86,
+  "cast": [
+    {
+      "qid": "Q2063518",
+      "slug": "paula-beer",
+      "name": "Paula Beer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q90079",
+      "slug": "barbara-auer",
+      "name": "Barbara Auer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123309",
+      "slug": "matthias-brandt",
+      "name": "Matthias Brandt",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q67268",
+    "slug": "christian-petzold",
+    "name": "Christian Petzold",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

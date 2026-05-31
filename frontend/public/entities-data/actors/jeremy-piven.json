@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jeremy-piven",
+  "name": "Jeremy Piven",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JeremyPivenFeb09.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-07-26",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q315083",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jeremy_Piven",
+    "imdb": "nm0005315",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-collectionneur",
+      "title": "Le collectionneur"
+    },
+    {
+      "type": "film",
+      "slug": "rock-n-rolla",
+      "title": "Rock'n'Rolla"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

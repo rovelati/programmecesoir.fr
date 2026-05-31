@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jeffrey-rogers",
+  "name": "Jeffrey Rogers",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-07-02",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3049936",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jeffrey_Rogers",
+    "imdb": "nm0736947",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "karate-kid-ii",
+      "title": "Karaté Kid II"
+    },
+    {
+      "type": "film",
+      "slug": "karate-kid-le-moment-de-verite",
+      "title": "Karaté Kid, le moment de vérité"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,133 @@
+{
+  "type": "film",
+  "slug": "la-buche",
+  "title": "La bûche",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La bûche"
+  ],
+  "genres": [
+    "comédie",
+    "film de Noël"
+  ],
+  "description": "Noël approche. Pour trois soeurs et leurs parents, c'est l'heure de vérité. Louba, la chanteuse, est enceinte de son amant de toujours, marié et déjà père de cinq enfants. Sonia, la bourgeoise, trompe son mari avec un fleuriste. Quant à Milla, la jeune rebelle, elle enchaîne les échecs sentimentaux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1999,
+  "durationMinutes": 106,
+  "cast": [
+    {
+      "qid": "Q106592",
+      "slug": "sabine-azema",
+      "name": "Sabine Azéma",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106458",
+      "slug": "emmanuelle-beart",
+      "name": "Emmanuelle Béart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q276005",
+      "slug": "charlotte-gainsbourg",
+      "name": "Charlotte Gainsbourg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1097113",
+      "slug": "claude-rich",
+      "name": "Claude Rich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q456668",
+      "slug": "francoise-fabian",
+      "name": "Françoise Fabian",
+      "role": "actor"
+    },
+    {
+      "qid": "Q615469",
+      "slug": "jean-pierre-darroussin",
+      "name": "Jean-Pierre Darroussin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289032",
+      "slug": "isabelle-carre",
+      "name": "Isabelle Carré",
+      "role": "actor"
+    },
+    {
+      "qid": "Q638129",
+      "slug": "helene-fillieres",
+      "name": "Hélène Fillières",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2966653",
+      "slug": "christopher-thompson",
+      "name": "Christopher Thompson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2728330",
+      "slug": "francoise-brion",
+      "name": "Françoise Brion",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3292808",
+      "slug": "marie-de-villepin",
+      "name": "Marie de Villepin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3471167",
+      "slug": "samuel-labarthe",
+      "name": "Samuel Labarthe",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q374760",
+    "slug": "daniele-thompson",
+    "name": "Danièle Thompson",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,279 @@
+{
+  "type": "series",
+  "slug": "les-experts-manhattan",
+  "title": "Les experts : Manhattan",
+  "airingsCount": 20,
+  "sourceTitles": [
+    "Les experts : Manhattan",
+    "Les experts : Manhattan - Saison 1"
+  ],
+  "genres": [
+    "enquête policière",
+    "série télévisée dramatique"
+  ],
+  "description": "Mac et Stella se retrouvent avec deux affaires sur les bras. Un crime a eu lieu à la Bourse et, d'après les empreintes relevées, il aurait été commis par un certain Luke Sutton, un malfrat bien connu des services de police. Mac et Aiden se rendent chez Luke, qui habite dans un appartement de la Côte Est. Ils trouvent les lieux sens dessus dessous. Parallèlement, Stella et Flack enquêtent sur la mort de Trina, laquelle est tombée du toit d'une église. L'autopsie révèle que la jeune femme était enceinte et qu'elle a été battue à mort avec un bougeoir. Les policiers découvrent également une lettre d'amour destinée à Trina dans un livre de prières. Les empreintes relevées appartiennent au père Murphy...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv-breizh.png",
+      "airingsCount": 14
+    },
+    {
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/club-rtl.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ba5b44e0-7d2f-4492-a01a-07fb9c5b2685",
+      "title": "Les experts : Manhattan",
+      "programSlug": "les-experts-manhattan",
+      "programUrl": "/programme/club-rtl/les-experts-manhattan",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-21 16:15:00+00",
+      "endTime": "2026-04-21 17:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b3092f26-4ec8-440c-bb02-dcf1d32b1d48",
+      "title": "Les experts : Manhattan",
+      "programSlug": "les-experts-manhattan",
+      "programUrl": "/programme/club-rtl/les-experts-manhattan",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-22 16:15:00+00",
+      "endTime": "2026-04-22 17:05:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "b7274768-c077-4546-89a3-3fe4707edfa0",
+      "title": "Les experts : Manhattan",
+      "programSlug": "les-experts-manhattan",
+      "programUrl": "/programme/club-rtl/les-experts-manhattan",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-23 16:15:00+00",
+      "endTime": "2026-04-23 17:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "aedcd3f4-1ac3-4074-b792-37f81d8e39c5",
+      "title": "Les experts : Manhattan - Saison 2",
+      "programSlug": "les-experts-manhattan-saison-2",
+      "programUrl": "/programme/tv-breizh/les-experts-manhattan-saison-2",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-23 18:50:00+00",
+      "endTime": "2026-04-23 19:40:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "648a3417-3f27-4b6e-b12f-5064287e61d9",
+      "title": "Les experts : Manhattan - Saison 2",
+      "programSlug": "les-experts-manhattan-saison-2",
+      "programUrl": "/programme/tv-breizh/les-experts-manhattan-saison-2",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-23 19:40:00+00",
+      "endTime": "2026-04-23 20:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "3352654b-b65a-4627-91b5-a1f766a99746",
+      "title": "Les experts : Manhattan - Saison 2",
+      "programSlug": "les-experts-manhattan-saison-2",
+      "programUrl": "/programme/tv-breizh/les-experts-manhattan-saison-2",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-23 20:30:00+00",
+      "endTime": "2026-04-23 21:25:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "4b1403a3-c1d8-4700-ad93-d5df9df5f65a",
+      "title": "Les experts : Manhattan - Saison 2",
+      "programSlug": "les-experts-manhattan-saison-2",
+      "programUrl": "/programme/tv-breizh/les-experts-manhattan-saison-2",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-23 21:25:00+00",
+      "endTime": "2026-04-23 22:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "8f515ea5-6845-499a-90d2-6c207cc8200d",
+      "title": "Les experts : Manhattan - Saison 1",
+      "programSlug": "les-experts-manhattan-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-manhattan-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-23 22:05:00+00",
+      "endTime": "2026-04-23 23:00:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "4513fac2-37df-40a8-a0f0-401cfdc49986",
+      "title": "Les experts : Manhattan - Saison 1",
+      "programSlug": "les-experts-manhattan-saison-1",
+      "programUrl": "/programme/tv-breizh/les-experts-manhattan-saison-1",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-23 23:00:00+00",
+      "endTime": "2026-04-23 23:55:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "deb1a4a2-11a9-4586-9689-b46de5030ff1",
+      "title": "Les experts : Manhattan",
+      "programSlug": "les-experts-manhattan",
+      "programUrl": "/programme/club-rtl/les-experts-manhattan",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-24 16:15:00+00",
+      "endTime": "2026-04-24 17:05:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2004,
+  "numberOfSeasons": 9,
+  "cast": [
+    {
+      "qid": "Q180272",
+      "slug": "gary-sinise",
+      "name": "Gary Sinise",
+      "role": "actor"
+    },
+    {
+      "qid": "Q355234",
+      "slug": "carmine-giovinazzo",
+      "name": "Carmine Giovinazzo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229584",
+      "slug": "melina-kanakaredes",
+      "name": "Melina Kanakaredes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236117",
+      "slug": "anna-belknap",
+      "name": "Anna Belknap",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40228",
+      "slug": "claire-forlani",
+      "name": "Claire Forlani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229187",
+      "slug": "sela-ward",
+      "name": "Sela Ward",
+      "role": "actor"
+    },
+    {
+      "qid": "Q463536",
+      "slug": "hill-harper",
+      "name": "Hill Harper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350506",
+      "slug": "eddie-cahill",
+      "name": "Eddie Cahill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233724",
+      "slug": "vanessa-ferlito",
+      "name": "Vanessa Ferlito",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229353",
+      "slug": "holly-valance",
+      "name": "Holly Valance",
+      "role": "actor"
+    },
+    {
+      "qid": "Q260344",
+      "slug": "daniella-alonso",
+      "name": "Daniella Alonso",
+      "role": "actor"
+    },
+    {
+      "qid": "Q767972",
+      "slug": "ed-quinn",
+      "name": "Ed Quinn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231116",
+      "slug": "kelly-hu",
+      "name": "Kelly Hu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83694",
+      "slug": "carmen-argenziano",
+      "name": "Carmen Argenziano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q225239",
+      "slug": "joel-gretsch",
+      "name": "Joel Gretsch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210327",
+      "slug": "amaury-nolasco",
+      "name": "Amaury Nolasco",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q470834",
+    "slug": "anthony-e-zuiker",
+    "name": "Anthony E. Zuiker",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-21 16:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

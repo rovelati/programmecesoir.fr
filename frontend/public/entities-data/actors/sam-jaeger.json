@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "sam-jaeger",
+  "name": "Sam Jaeger",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam%20Jaeger%20Paleyfest%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-01-29",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q382094",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sam_Jaeger",
+    "imdb": "nm0415382",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "wolf-man",
+      "title": "Wolf Man"
+    },
+    {
+      "type": "film",
+      "slug": "american-sniper",
+      "title": "American Sniper"
+    },
+    {
+      "type": "series",
+      "slug": "the-handmaid-s-tale",
+      "title": "The handmaid's tale"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "77c112d9-ec35-4a35-a558-de93c6272bab",
+      "title": "The Handmaid's Tale - Saison 5",
+      "programSlug": "the-handmaid-s-tale-saison-5",
+      "programUrl": "/programme/rts-un/the-handmaid-s-tale-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 20:50:00+00",
+      "endTime": "2026-04-24 21:35:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "6e2446c3-4f9e-4ffa-97c9-eac523aecfc6",
+      "title": "The Handmaid's Tale - Saison 5",
+      "programSlug": "the-handmaid-s-tale-saison-5",
+      "programUrl": "/programme/rts-un/the-handmaid-s-tale-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 21:35:00+00",
+      "endTime": "2026-04-24 22:30:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-24 20:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

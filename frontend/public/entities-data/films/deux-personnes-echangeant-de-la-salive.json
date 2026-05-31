@@ -1,0 +1,78 @@
+{
+  "type": "film",
+  "slug": "deux-personnes-echangeant-de-la-salive",
+  "title": "Deux personnes échangeant de la salive",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Deux personnes échangeant de la salive"
+  ],
+  "genres": [
+    "court métrage"
+  ],
+  "description": "(Prix CANAL+ et Prix Public Clermont-Ferrand 2025) Une tragédie absurde qui se déroule dans une société répressive où le baiser est puni de mort et où les gens paient en recevant des gifles au visage. Angine, une femme malheureuse, fait des achats compulsifs dans un grand magasin et se laisse captiver par une vendeuse ingénue. Malgré l’interdiction de l’embrasser, les deux se rapprochent, éveillant les soupçons d’une collègue jalouse.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 36,
+  "cast": [
+    {
+      "qid": "Q464616",
+      "slug": "zahra-amir-ebrahimi",
+      "name": "Zahra Amir Ebrahimi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65468168",
+      "slug": "luana-bajrami",
+      "name": "Luàna Bajrami",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2522116",
+      "slug": "vicky-krieps",
+      "name": "Vicky Krieps",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q137886891",
+    "slug": "natalie-musteata",
+    "name": "Natalie Musteata",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

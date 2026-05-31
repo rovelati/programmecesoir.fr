@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "georges-riquier",
+  "name": "Georges Riquier",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1918-01-10",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q474711",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Georges_Riquier",
+    "imdb": "nm0728174",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mata-hari-agent-h21",
+      "title": "Mata Hari, agent H21"
+    },
+    {
+      "type": "film",
+      "slug": "que-la-fete-commence",
+      "title": "Que la fête commence"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

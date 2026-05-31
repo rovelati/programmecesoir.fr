@@ -1,0 +1,124 @@
+{
+  "type": "series",
+  "slug": "mongeville",
+  "title": "Mongeville",
+  "airingsCount": 16,
+  "sourceTitles": [
+    "Mongeville - Saison 1"
+  ],
+  "genres": [
+    "Series"
+  ],
+  "description": "Soeur Amélie est retrouvée assassinée dans son couvent. A-t-elle été tuée par ce père en colère qui l'accusait d'avoir embrigadé sa fille ? Ou par cet imprimeur en faillite, étouffé par la concurrence de l'atelier de calligraphie du couvent ? A moins que le crime ne soit lié à la double vie de la victime...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Perrin%20Cannes%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 16
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bc496f84-0fe9-4fe6-bc7d-f0afc1198774",
+      "title": "Mongeville - Saison 1",
+      "programSlug": "mongeville-saison-1",
+      "programUrl": "/programme/polar/mongeville-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 07:17:00+00",
+      "endTime": "2026-04-19 08:52:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fb6a76ab-073f-4693-b2f1-c48d9659aaa1",
+      "title": "Mongeville - Saison 1",
+      "programSlug": "mongeville-saison-1",
+      "programUrl": "/programme/polar/mongeville-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 08:52:00+00",
+      "endTime": "2026-04-19 10:27:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f8fa78e4-8703-48c1-98db-0affe93ea01d",
+      "title": "Mongeville - Saison 1",
+      "programSlug": "mongeville-saison-1",
+      "programUrl": "/programme/polar/mongeville-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 10:27:00+00",
+      "endTime": "2026-04-19 12:08:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f07dcaad-e795-40fc-bc5f-0370e2acca02",
+      "title": "Mongeville - Saison 1",
+      "programSlug": "mongeville-saison-1",
+      "programUrl": "/programme/polar/mongeville-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-25 07:37:00+00",
+      "endTime": "2026-04-25 09:12:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "12dff267-bd49-4b40-9d5f-2d7926ed5f74",
+      "title": "Mongeville - Saison 1",
+      "programSlug": "mongeville-saison-1",
+      "programUrl": "/programme/polar/mongeville-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-25 09:12:00+00",
+      "endTime": "2026-04-25 10:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "11223062-9706-4af4-9b78-9a75f388b918",
+      "title": "Mongeville - Saison 1",
+      "programSlug": "mongeville-saison-1",
+      "programUrl": "/programme/polar/mongeville-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-25 10:50:00+00",
+      "endTime": "2026-04-25 12:21:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": 7,
+  "cast": [],
+  "creator": {
+    "qid": "Q16947300",
+    "slug": "jacques-santamaria",
+    "name": "Jacques Santamaria",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 07:17:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

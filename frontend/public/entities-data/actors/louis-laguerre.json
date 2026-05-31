@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "louis-laguerre",
+  "name": "Louis Laguerre",
+  "worksCount": 1,
+  "description": "peintre français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portret%20Louis%20Laguerre%2C%20RP-P-2004-73-90.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1663-01-01",
+  "nationality": "France",
+  "jobTitle": "artiste peintre",
+  "externalIds": {
+    "wikidata": "Q2897108",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Louis_Laguerre",
+    "imdb": null,
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "vipere-au-poing",
+      "title": "Vipère au poing"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

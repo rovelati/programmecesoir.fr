@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "il-vient-la-nuit",
+  "title": "Il vient la nuit",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Il vient la nuit"
+  ],
+  "genres": [
+    "Cinéma"
+  ],
+  "description": "Une jeune femme a décidé de restaurer un moulin abandonné et isolé. Au bout d'un moment, elle réalise que quelque chose ne va pas : le lieu pourrait abriter une créature étrange.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

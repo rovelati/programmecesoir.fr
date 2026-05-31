@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "will-wright",
+  "name": "Will Wright",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/California%20(1947)%20trailer%201.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1891-03-26",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3568307",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Will_Wright_(acteur)",
+    "imdb": "nm0942926",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-equipee-sauvage",
+      "title": "L'équipée sauvage"
+    },
+    {
+      "type": "film",
+      "slug": "les-amants-de-la-nuit",
+      "title": "Les amants de la nuit"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,82 @@
+{
+  "type": "actor",
+  "slug": "francois-bureloup",
+  "name": "François Bureloup",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Bureloup.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1969-07-23",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3084132",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Bureloup",
+    "imdb": "nm2910150",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "intouchables",
+      "title": "Intouchables"
+    },
+    {
+      "type": "film",
+      "slug": "les-tuche-3",
+      "title": "Les Tuche 3"
+    },
+    {
+      "type": "series",
+      "slug": "cherif",
+      "title": "Cherif"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "09e748f9-347d-43a5-8185-6ad0da211e4a",
+      "title": "Intouchables",
+      "programSlug": "intouchables",
+      "programUrl": "/programme/rts-un/intouchables",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 19:05:00+00",
+      "endTime": "2026-04-19 21:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7d97f242-41da-4815-9b49-2edcf1ac5c70",
+      "title": "Les Tuche 3",
+      "programSlug": "les-tuche-3",
+      "programUrl": "/programme/ocs/les-tuche-3",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 11:30:00+00",
+      "endTime": "2026-04-20 13:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "303d5de5-cafd-45cd-8704-842fc64feaa9",
+      "title": "Les Tuche 3",
+      "programSlug": "les-tuche-3",
+      "programUrl": "/programme/ocs/les-tuche-3",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:01:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 19:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

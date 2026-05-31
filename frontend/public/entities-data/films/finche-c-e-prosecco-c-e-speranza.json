@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "finche-c-e-prosecco-c-e-speranza",
+  "title": "Finché c'è prosecco c'è speranza",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Finché c'è prosecco c'è speranza"
+  ],
+  "genres": [
+    "noir fiction",
+    "comédie"
+  ],
+  "description": "Un viticulteur qui se battait pour protéger son domaine est retrouvé mort. Au fil de son enquête, un inspecteur découvre un puissant conflit foncier.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 101,
+  "cast": [],
+  "director": {
+    "qid": "Q60841806",
+    "slug": "antonio-padovan",
+    "name": "Antonio Padovan",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

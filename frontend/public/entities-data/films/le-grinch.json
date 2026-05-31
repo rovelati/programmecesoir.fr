@@ -1,0 +1,175 @@
+{
+  "type": "film",
+  "slug": "le-grinch",
+  "title": "Le Grinch",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le Grinch"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm familial",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm pour enfants",
+    "film ou téléfilm d'aventure",
+    "film de Noël",
+    "film ou téléfilm musical"
+  ],
+  "description": "Au pays imaginaire des Whos, tout le monde est heureux. Seule exception, le Grinch, un monstre au corps vert et poilu, qui rumine inlassablement son dépit et sa colère dans une tanière au sommet du mont Crumpit. Un jour, pour se venger, il a l'idée de saboter la fête préférée des Whos : Noël...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "944f5cb4-68ec-4619-8641-a81bb4a7bbc7",
+      "title": "Le Grinch",
+      "programSlug": "le-grinch",
+      "programUrl": "/programme/cine-family/le-grinch",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 14:48:00+00",
+      "endTime": "2026-04-21 16:30:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2000,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q40504",
+      "slug": "jim-carrey",
+      "name": "Jim Carrey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193509",
+      "slug": "taylor-momsen",
+      "name": "Taylor Momsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q320204",
+      "slug": "jeffrey-tambor",
+      "name": "Jeffrey Tambor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229134",
+      "slug": "christine-baranski",
+      "name": "Christine Baranski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q603317",
+      "slug": "bill-irwin",
+      "name": "Bill Irwin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239145",
+      "slug": "molly-shannon",
+      "name": "Molly Shannon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1101612",
+      "slug": "clint-howard",
+      "name": "Clint Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q445242",
+      "slug": "josh-ryan-evans",
+      "name": "Josh Ryan Evans",
+      "role": "actor"
+    },
+    {
+      "qid": "Q103646",
+      "slug": "ron-howard",
+      "name": "Ron Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65932",
+      "slug": "anthony-hopkins",
+      "name": "Anthony Hopkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229775",
+      "slug": "bryce-dallas-howard",
+      "name": "Bryce Dallas Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q361158",
+      "slug": "thomas-joseph-thyne",
+      "name": "Thomas Joseph Thyne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271471",
+      "slug": "verne-troyer",
+      "name": "Verne Troyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271627",
+      "slug": "mindy-sterling",
+      "name": "Mindy Sterling",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3178896",
+      "slug": "jim-meskimen",
+      "name": "Jim Meskimen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3217106",
+      "slug": "landry-allbright",
+      "name": "Landry Allbright",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q103646",
+    "slug": "ron-howard",
+    "name": "Ron Howard",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 14:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

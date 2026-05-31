@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "le-tombeur-de-ces-dames",
+  "title": "Le tombeur de ces dames",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le tombeur de ces dames"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "C'est irrévocable. Herbert Heebert ne veut plus entendre parler des femmes depuis que sa fiancée l'a abandonné. Dégoûté de l'amour et de la gent féminine, il s'installe à Los Angeles. Là, il a la ferme intention de rester célibataire jusqu'à ce que mort s'ensuive. Très vite, il trouve un emploi dans la pension de famille que dirige Helen Wellenmellon, une ancienne cantatrice. La misogynie toute nouvelle de Herbert est mise à rude épreuve : la pension n'est habitée que par des jeunes femmes. Sans le vouloir, il leur rend de nombreux services. Ces demoiselles finissent toutes par s'enticher de ce garçon serviable et innocent, plutôt maladroit mais tellement sympathique...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Ladies%20Man%20trailer.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1961,
+  "durationMinutes": 106,
+  "cast": [
+    {
+      "qid": "Q6548091",
+      "slug": "lillian-briggs",
+      "name": "Lillian Briggs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q435347",
+      "slug": "helen-traubel",
+      "name": "Helen Traubel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272505",
+      "slug": "kathleen-freeman",
+      "name": "Kathleen Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1001240",
+      "slug": "buddy-lester",
+      "name": "Buddy Lester",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436187",
+      "slug": "george-raft",
+      "name": "George Raft",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294927",
+      "slug": "jerry-lewis",
+      "name": "Jerry Lewis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2832945",
+      "slug": "alex-gerry",
+      "name": "Alex Gerry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1150547",
+      "slug": "darren-mcgavin",
+      "name": "Darren McGavin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q163861",
+      "slug": "harry-james",
+      "name": "Harry James",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1374376",
+      "slug": "jack-kruschen",
+      "name": "Jack Kruschen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271877",
+      "slug": "martha-hyer",
+      "name": "Martha Hyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3179619",
+      "slug": "joan-staley",
+      "name": "Joan Staley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3035739",
+      "slug": "don-brodie",
+      "name": "Don Brodie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q513362",
+      "slug": "patricia-blair",
+      "name": "Patricia Blair",
+      "role": "actor"
+    },
+    {
+      "qid": "Q69645",
+      "slug": "fritz-feld",
+      "name": "Fritz Feld",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275276",
+      "slug": "madlyn-rhue",
+      "name": "Madlyn Rhue",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q294927",
+    "slug": "jerry-lewis",
+    "name": "Jerry Lewis",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

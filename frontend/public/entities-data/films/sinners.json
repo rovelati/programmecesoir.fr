@@ -1,0 +1,160 @@
+{
+  "type": "film",
+  "slug": "sinners",
+  "title": "Sinners",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Sinners"
+  ],
+  "genres": [
+    "film de vampires",
+    "drame",
+    "film et téléfilm de fantasy",
+    "thriller",
+    "film et téléfilm d'horreur"
+  ],
+  "description": "Les années 1930, pendant la Prohibition. Alors qu'ils cherchent à s'affranchir d'un lourd passé, Stack et Smoke, des jumeaux, reviennent dans leur ville natale dans le Mississippi pour repartir à zéro. Ils réalisent rapidement qu'une puissance maléfique redoutable a guetté leur retour avec impatience...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 137,
+  "cast": [
+    {
+      "qid": "Q3308007",
+      "slug": "michael-b-jordan",
+      "name": "Michael B. Jordan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q362559",
+      "slug": "delroy-lindo",
+      "name": "Delroy Lindo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q348066",
+      "slug": "jack-o-connell",
+      "name": "Jack O'Connell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83688296",
+      "slug": "jayme-lawson",
+      "name": "Jayme Lawson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q541803",
+      "slug": "wunmi-mosaku",
+      "name": "Wunmi Mosaku",
+      "role": "actor"
+    },
+    {
+      "qid": "Q288680",
+      "slug": "omar-benson-miller",
+      "name": "Omar Benson Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231726",
+      "slug": "hailee-steinfeld",
+      "name": "Hailee Steinfeld",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27864073",
+      "slug": "li-jun-li",
+      "name": "Li Jun Li",
+      "role": "actor"
+    },
+    {
+      "qid": "Q134016247",
+      "slug": "miles-caton",
+      "name": "Miles Caton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17612516",
+      "slug": "lola-kirke",
+      "name": "Lola Kirke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269212",
+      "slug": "nathaniel-arcand",
+      "name": "Nathaniel Arcand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q134707713",
+      "slug": "peter-dreimanis",
+      "name": "Peter Dreimanis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q533369",
+      "slug": "saul-williams",
+      "name": "Saul Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q134590105",
+      "slug": "yao",
+      "name": "Yao",
+      "role": "actor"
+    },
+    {
+      "qid": "Q77514930",
+      "slug": "david-maldonado",
+      "name": "David Maldonado",
+      "role": "actor"
+    },
+    {
+      "qid": "Q136721738",
+      "slug": "helena-hu",
+      "name": "Helena Hu",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q7383978",
+    "slug": "ryan-coogler",
+    "name": "Ryan Coogler",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

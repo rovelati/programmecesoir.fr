@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "nadja-tiller",
+  "name": "Nadja Tiller",
+  "worksCount": 2,
+  "description": "actrice autrichienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nadja%20Tiller%20(2009).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1929-03-16",
+  "nationality": "Autriche",
+  "jobTitle": "participante ou participant à un concours de beauté",
+  "externalIds": {
+    "wikidata": "Q288970",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Nadja_Tiller",
+    "imdb": "nm0863302",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "du-rififi-a-paname",
+      "title": "Du rififi à Paname"
+    },
+    {
+      "type": "film",
+      "slug": "la-tour-prends-garde",
+      "title": "La Tour, prends garde !"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

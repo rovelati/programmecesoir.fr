@@ -1,0 +1,144 @@
+{
+  "type": "film",
+  "slug": "sarah-bernhardt-la-divine",
+  "title": "Sarah Bernhardt, la Divine",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Sarah Bernhardt, la Divine"
+  ],
+  "genres": [
+    "film ou téléfilm biographique",
+    "drame"
+  ],
+  "description": "En 1896, à Paris. Véritable icône de son époque et première vedette mondiale, Sarah Bernhardt est au sommet de sa gloire. Elle se réjouit de voir que des sommités de l'art, parmi lesquelles Edmond Rostand, organisent un événement en son honneur et pour rendre hommage à sa brillante carrière...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "80e500fe-20b7-4a45-8028-3a28b1724220",
+      "title": "Sarah Bernhardt, la Divine",
+      "programSlug": "sarah-bernhardt-la-divine",
+      "programUrl": "/programme/cine-emotion/sarah-bernhardt-la-divine",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 20:37:00+00",
+      "endTime": "2026-04-20 22:13:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q262822",
+      "slug": "sandrine-kiberlain",
+      "name": "Sandrine Kiberlain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3219319",
+      "slug": "laurent-lafitte",
+      "name": "Laurent Lafitte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271553",
+      "slug": "amira-casar",
+      "name": "Amira Casar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2063839",
+      "slug": "pauline-etienne",
+      "name": "Pauline Étienne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q59232977",
+      "slug": "mathilde-ollivier",
+      "name": "Mathilde Ollivier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3219528",
+      "slug": "laurent-stocker",
+      "name": "Laurent Stocker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105959040",
+      "slug": "samuel-brafman-moutier",
+      "name": "Samuel Brafman-Moutier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3506967",
+      "slug": "sylvain-creuzevault",
+      "name": "Sylvain Creuzevault",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2980615",
+      "slug": "clement-hervieu-leger",
+      "name": "Clément Hervieu-Léger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24008552",
+      "slug": "arthur-igual",
+      "name": "Arthur Igual",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1551551",
+      "slug": "gregoire-leprince-ringuet",
+      "name": "Grégoire Leprince-Ringuet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2865232",
+      "slug": "arthur-mazet",
+      "name": "Arthur Mazet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q60232783",
+      "slug": "sebastien-pouderoux",
+      "name": "Sébastien Pouderoux",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q735668",
+    "slug": "guillaume-nicloux",
+    "name": "Guillaume Nicloux",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 20:37:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

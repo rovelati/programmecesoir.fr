@@ -1,0 +1,106 @@
+{
+  "type": "series",
+  "slug": "mes-parrains-sont-magiques",
+  "title": "Mes parrains sont magiques",
+  "airingsCount": 28,
+  "sourceTitles": [
+    "Mes parrains sont magiques"
+  ],
+  "genres": [
+    "série télévisée de fantasy",
+    "satire",
+    "série télévisée comique",
+    "comédie",
+    "série télévisée pour la jeunesse",
+    "comédie",
+    "fantasy"
+  ],
+  "description": "\"Le glacier futé\". Le détecteur de fées de monsieur Crocker a détecté une nouvelle source de magie chez les Turner, et il veut absolument se l'approprier pour se libérer de sa peur des insectes. - Timmy a de très mauvaises notes à l'école, et monsieur Crocker le menace de l'inscrire à des cours d'été. Le problème est que ses notes varient en fonction de la moyenne de la classe. Que faire ? Demander à ses parrains de le rendre plus intelligent, ou de rendre les autres plus bêtes ?...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fairy%20World%20Spin5.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon-teen.png",
+      "airingsCount": 28
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "500efa0a-3104-4377-a063-3c52b58d1b65",
+      "title": "Mes parrains sont magiques",
+      "programSlug": "mes-parrains-sont-magiques",
+      "programUrl": "/programme/nickelodeon-teen/mes-parrains-sont-magiques",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 07:27:00+00",
+      "endTime": "2026-04-19 07:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a0de8231-6f2f-4c7a-9ce2-948d155810ac",
+      "title": "Mes parrains sont magiques",
+      "programSlug": "mes-parrains-sont-magiques",
+      "programUrl": "/programme/nickelodeon-teen/mes-parrains-sont-magiques",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 07:50:00+00",
+      "endTime": "2026-04-19 08:13:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c7aba3d0-cd65-4378-a1f3-b8563d4c585f",
+      "title": "Mes parrains sont magiques",
+      "programSlug": "mes-parrains-sont-magiques",
+      "programUrl": "/programme/nickelodeon-teen/mes-parrains-sont-magiques",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 08:13:00+00",
+      "endTime": "2026-04-19 08:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "801835c4-87ed-46f2-84bb-01684de75473",
+      "title": "Mes parrains sont magiques",
+      "programSlug": "mes-parrains-sont-magiques",
+      "programUrl": "/programme/nickelodeon-teen/mes-parrains-sont-magiques",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 08:25:00+00",
+      "endTime": "2026-04-19 08:48:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2001,
+  "numberOfSeasons": 10,
+  "cast": [],
+  "creator": {
+    "qid": "Q558143",
+    "slug": "butch-hartman",
+    "name": "Butch Hartman",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 07:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

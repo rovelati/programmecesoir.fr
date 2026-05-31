@@ -1,0 +1,83 @@
+{
+  "type": "series",
+  "slug": "les-minus",
+  "title": "Les Minus",
+  "airingsCount": 33,
+  "sourceTitles": [
+    "Les Minus"
+  ],
+  "genres": [
+    "littérature d'enfance"
+  ],
+  "description": "Barbe Verte est embêté: personne ne veut jouer au pirate avec lui. Pour lui remonter le moral, Oli et Titus lui organisent une grande chasse au trésor... mais le pirate en profite pour semer le chaos à Minusville. Pour l'arrêter, Oli et Titus vont devoir jouer aux pirates eux aussi !",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 33
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "21311d74-615b-4e15-9150-28a10bcd6853",
+      "title": "Les Minus",
+      "programSlug": "les-minus",
+      "programUrl": "/programme/la-trois/les-minus",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-26 04:50:00+00",
+      "endTime": "2026-04-26 05:01:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "17cc00cc-444d-4b75-9466-7000cfb67717",
+      "title": "Les Minus",
+      "programSlug": "les-minus",
+      "programUrl": "/programme/la-trois/les-minus",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-26 05:01:00+00",
+      "endTime": "2026-04-26 05:12:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "c0679e13-f678-43a8-8f97-4fe30267e3dd",
+      "title": "Les Minus",
+      "programSlug": "les-minus",
+      "programUrl": "/programme/la-trois/les-minus",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-26 05:12:00+00",
+      "endTime": "2026-04-26 05:24:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 0.85,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1991,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-26 04:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

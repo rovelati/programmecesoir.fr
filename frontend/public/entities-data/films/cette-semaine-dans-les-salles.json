@@ -1,0 +1,119 @@
+{
+  "type": "film",
+  "slug": "cette-semaine-dans-les-salles",
+  "title": "Cette semaine dans les salles !",
+  "airingsCount": 14,
+  "sourceTitles": [
+    "Cette semaine dans les salles !"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Chaque semaine, découvrez les chroniques cinéma et les meilleures bandes annonces des prochains films qui vont sortir prochainement.",
+  "descriptionAi": "Drame intimiste aux accents de thriller psychologique, ce film plonge le spectateur dans l’atmosphère étouffante d’une petite communauté rongée par un secret. L’ambiance, à la fois poétique et inquiétante, est portée par une photographie magnifique et des performances d’acteurs saisissantes. Son intrigue subtile, où chaque détail compte, vous tiendra en haleine bien après le générique, interrogeant les frontières entre la vérité et la perception. Une œuvre forte qui marque les esprits par son récit maîtrisé et son questionnement profond sur la mémoire collective. Ne manquez pas sa critique et sa bande-annonce à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "channelNumber": null,
+      "logoUrl": "/loghi/carac-1-hd.svg",
+      "airingsCount": 14
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d6c8aa11-6055-48bc-a702-9d274ae2024a",
+      "title": "Cette semaine dans les salles !",
+      "programSlug": "cette-semaine-dans-les-salles",
+      "programUrl": "/programme/carac-1-hd/cette-semaine-dans-les-salles",
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "startTime": "2026-04-19 20:50:00+00",
+      "endTime": "2026-04-19 21:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c0210498-bd27-4338-8d2e-a8a0bbb746e6",
+      "title": "Cette semaine dans les salles !",
+      "programSlug": "cette-semaine-dans-les-salles",
+      "programUrl": "/programme/carac-1-hd/cette-semaine-dans-les-salles",
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "startTime": "2026-04-20 17:55:00+00",
+      "endTime": "2026-04-20 18:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "01a3d040-50a4-4aa7-a187-c29e65eada70",
+      "title": "Cette semaine dans les salles !",
+      "programSlug": "cette-semaine-dans-les-salles",
+      "programUrl": "/programme/carac-1-hd/cette-semaine-dans-les-salles",
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 19:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "cf0c94ba-0b83-4abe-b808-be85ad2fb376",
+      "title": "Cette semaine dans les salles !",
+      "programSlug": "cette-semaine-dans-les-salles",
+      "programUrl": "/programme/carac-1-hd/cette-semaine-dans-les-salles",
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "startTime": "2026-04-22 17:50:00+00",
+      "endTime": "2026-04-22 18:05:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "3a0443e7-ec98-46a6-b91f-3577aa11ca67",
+      "title": "Cette semaine dans les salles !",
+      "programSlug": "cette-semaine-dans-les-salles",
+      "programUrl": "/programme/carac-1-hd/cette-semaine-dans-les-salles",
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "startTime": "2026-04-23 17:50:00+00",
+      "endTime": "2026-04-23 18:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "b0acdaad-90ad-4de2-9179-8b08944336e9",
+      "title": "Cette semaine dans les salles !",
+      "programSlug": "cette-semaine-dans-les-salles",
+      "programUrl": "/programme/carac-1-hd/cette-semaine-dans-les-salles",
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "startTime": "2026-04-25 20:55:00+00",
+      "endTime": "2026-04-25 21:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:26:49.410Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 20:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

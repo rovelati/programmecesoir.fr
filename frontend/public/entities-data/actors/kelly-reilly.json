@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "kelly-reilly",
+  "name": "Kelly Reilly",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelly%20Reilly%202013%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-07-18",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q236167",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kelly_Reilly",
+    "imdb": "nm0717709",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bastille-day",
+      "title": "Bastille Day"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d3ee1234-47e0-481d-9ea9-77f44e0dbeb2",
+      "title": "Bastille Day",
+      "programSlug": "bastille-day",
+      "programUrl": "/programme/canal-grand-ecran/bastille-day",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 03:45:00+00",
+      "endTime": "2026-04-24 05:15:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "4fa7595c-a53d-4dcc-a515-8dbcd9a2a61f",
+      "title": "Bastille Day",
+      "programSlug": "bastille-day",
+      "programUrl": "/programme/cine-frisson/bastille-day",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 12:12:00+00",
+      "endTime": "2026-04-25 13:41:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 03:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

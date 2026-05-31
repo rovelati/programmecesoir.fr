@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "franka-potente",
+  "name": "Franka Potente",
+  "worksCount": 2,
+  "description": "actrice allemande",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MJK%20335110%20Franka%20Potente%20(NRW-Empfang%2C%20Berlinale%202019).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1974-07-22",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q65105",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Franka_Potente",
+    "imdb": "nm0004376",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-memoire-dans-la-peau",
+      "title": "La mémoire dans la peau"
+    },
+    {
+      "type": "film",
+      "slug": "la-mort-dans-la-peau",
+      "title": "La mort dans la peau"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

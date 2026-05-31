@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "john-gallaudet",
+  "name": "John Gallaudet",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Gallaudet%20in%20Quicksand.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1903-08-23",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q15469159",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Gallaudet",
+    "imdb": "nm0302664",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "amour-delices-et-golf",
+      "title": "Amour, délices et golf"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

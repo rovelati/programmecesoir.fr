@@ -1,0 +1,80 @@
+{
+  "type": "film",
+  "slug": "la-voix-du-tueur",
+  "title": "La voix du tueur",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "La voix du tueur"
+  ],
+  "genres": [
+    "Téléfilm",
+    "Telefilms",
+    "Téléfilm de suspense"
+  ],
+  "description": "Faye travaille pour un service de secours de la police depuis plus de dix ans. Un soir, elle reçoit l'appel d'un mystérieux individu qui dit vouloir se venger d'elle et qui menace de tuer sa famille. Aidée de son nouveau collègue, Jake, elle se lance dans une véritable course contre la montre pour sauver les siens...\n\nRéalisateur(s) : Craig Pryce\nActeurs : Janaya Stephens (Faye Byrne), Robert Bazzocchi (Jake), Alex Hook (Alex), Duane Keogh (Chris), Joe Pingue (Ed), Rob Stewart (Michael Draper), Bree Wasylenko (Stella), Scott Ryan Yamamura (Ken Saito), Jamaal Grant (Adam Croft), Andrew Moodie (Don Hamlin), Doug MacLeod (Arnold), Heather Brownlee (Bree), Emily Stranges (Lucy)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "channelNumber": 1,
+      "logoUrl": "/loghi/tf1.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-series.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

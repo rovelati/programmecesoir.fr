@@ -1,0 +1,87 @@
+{
+  "type": "actor",
+  "slug": "chiwetel-ejiofor",
+  "name": "Chiwetel Ejiofor",
+  "worksCount": 4,
+  "description": "acteur, réalisateur et scénariste britannico-nigérian",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiwetel%20Ejiofor%20at%20the%202024%20Toronto%20International%20Film%20Festival%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-07-10",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q317343",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Chiwetel_Ejiofor",
+    "imdb": "nm0252230",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "life-of-chuck",
+      "title": "Life of Chuck"
+    },
+    {
+      "type": "film",
+      "slug": "2012",
+      "title": "2012"
+    },
+    {
+      "type": "film",
+      "slug": "inside-man-l-homme-de-l-interieur",
+      "title": "Inside Man, l'homme de l'intérieur"
+    },
+    {
+      "type": "film",
+      "slug": "quatre-freres",
+      "title": "Quatre frères"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1cb23026-2c11-4b24-8f46-77cd5e041250",
+      "title": "2012",
+      "programSlug": "2012",
+      "programUrl": "/programme/cine-frisson/2012",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 12:35:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "94e324df-cc05-4a75-824b-4e77902fde3d",
+      "title": "Life of Chuck",
+      "programSlug": "life-of-chuck",
+      "programUrl": "/programme/canal-box-office/life-of-chuck",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 15:45:00+00",
+      "endTime": "2026-04-20 17:32:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "93015ca0-767e-4247-b731-87a5635aa6fe",
+      "title": "2012",
+      "programSlug": "2012",
+      "programUrl": "/programme/ocs/2012",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 16:17:00+00",
+      "endTime": "2026-04-22 18:50:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 12:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

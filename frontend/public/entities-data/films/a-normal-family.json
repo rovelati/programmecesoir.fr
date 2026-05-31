@@ -1,0 +1,130 @@
+{
+  "type": "film",
+  "slug": "a-normal-family",
+  "title": "A Normal Family",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "A Normal Family"
+  ],
+  "genres": [
+    "drame",
+    "thriller"
+  ],
+  "description": "A Séoul, Jae-wan, un avocat matérialiste, et son frère Jae-gyu, un chirurgien idéaliste, ont une vision de la vie bien différente. Comme tous les mois, ils se retrouvent avec leurs épouses pour dîner dans un restaurant chic de la ville. Et, comme à chaque fois, ces agapes donnent lieu à un affrontement entre Jae-wan et Jae-gyu. Le lendemain, les deux hommes découvrent avec effroi dans les médias la vidéo d'une violente agression d'un sans-abri, commise la veille. Ils en sont certains, les agresseurs ne sont nuls autres que leurs enfants adolescents. Cette affaire va chambouler l'existence des deux frères et mettre leur sens de la morale à l'épreuve...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2f842ab6-bbb7-4883-9c4f-bf66f88351d3",
+      "title": "A Normal Family",
+      "programSlug": "a-normal-family",
+      "programUrl": "/programme/canal-box-office/a-normal-family",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 06:50:00+00",
+      "endTime": "2026-04-22 08:36:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2023,
+  "durationMinutes": 109,
+  "cast": [
+    {
+      "qid": "Q490120",
+      "slug": "seol-gyeong-gu",
+      "name": "Seol Gyeong-gu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q468490",
+      "slug": "jang-dong-geon",
+      "name": "Jang Dong-geon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q484360",
+      "slug": "kim-hee-ae",
+      "name": "Kim Hee-ae",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3788246",
+      "slug": "claudia-kim",
+      "name": "Claudia Kim",
+      "role": "actor"
+    },
+    {
+      "qid": "Q112966295",
+      "slug": "hong-ye-ji",
+      "name": "Hong Ye-ji",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27952725",
+      "slug": "choi-ri",
+      "name": "Choi Ri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q64329673",
+      "slug": "yoo-su-bin",
+      "name": "Yoo Su-bin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q120068768",
+      "slug": "roh-jae-won",
+      "name": "Roh Jae-won",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q487607",
+    "slug": "hur-jin-ho",
+    "name": "Hur Jin-ho",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 06:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

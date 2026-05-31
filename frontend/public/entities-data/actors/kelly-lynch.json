@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "kelly-lynch",
+  "name": "Kelly Lynch",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelly%20Lynch%202007.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1959-01-31",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q242523",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kelly_Lynch",
+    "imdb": "nm0001488",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "charlie-s-angels",
+      "title": "Charlie's Angels"
+    },
+    {
+      "type": "film",
+      "slug": "super-papa",
+      "title": "Super Papa"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

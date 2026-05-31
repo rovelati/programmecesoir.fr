@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "brian-f-o-byrne",
+  "name": "Brían F. O'Byrne",
+  "worksCount": 2,
+  "description": "acteur irlandais",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-05-16",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q918510",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Br%C3%ADan_F._O'Byrne",
+    "imdb": "nm0639928",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-gout-de-la-vie",
+      "title": "Le goût de la vie"
+    },
+    {
+      "type": "film",
+      "slug": "l-enquete",
+      "title": "L'enquête"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b00cd056-0a0b-457b-961a-c1ed3ba0cec4",
+      "title": "Le goût de la vie",
+      "programSlug": "le-gout-de-la-vie",
+      "programUrl": "/programme/cine-emotion/le-gout-de-la-vie",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 00:34:00+00",
+      "endTime": "2026-04-23 02:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 00:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

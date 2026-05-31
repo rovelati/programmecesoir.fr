@@ -1,0 +1,152 @@
+{
+  "type": "series",
+  "slug": "tom-et-jerry-a-new-york",
+  "title": "Tom et Jerry à New York",
+  "airingsCount": 28,
+  "sourceTitles": [
+    "Tom et Jerry à New York"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série télévisée comique"
+  ],
+  "description": "Le duo Tom et Jerry débarque à New York. Les compères s'installent dans leurs nouveaux locaux au Royal Gate Hotel et déclenchent la pagaille dans la \"grosse pomme\", provoquant un chaos hilarant partout où leurs escapades les mènent.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang.png",
+      "airingsCount": 14
+    },
+    {
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang-1.png",
+      "airingsCount": 14
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "10b58dce-23fd-4c9c-8915-e02f06d2b47d",
+      "title": "Tom et Jerry à New York",
+      "programSlug": "tom-et-jerry-a-new-york",
+      "programUrl": "/programme/boomerang/tom-et-jerry-a-new-york",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 20:15:00+00",
+      "endTime": "2026-04-19 20:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bbb78242-94d4-4e1b-9cf4-ee1ef092e2c5",
+      "title": "Tom et Jerry à New York",
+      "programSlug": "tom-et-jerry-a-new-york",
+      "programUrl": "/programme/boomerang-1/tom-et-jerry-a-new-york",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-19 21:15:00+00",
+      "endTime": "2026-04-19 21:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "66ecab17-c0da-4e16-b315-6ecd3d4ef427",
+      "title": "Tom et Jerry à New York - S01E03",
+      "programSlug": "tom-et-jerry-a-new-york-s01e03",
+      "programUrl": "/programme/boomerang-1/tom-et-jerry-a-new-york-s01e03",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-20 21:15:00+00",
+      "endTime": "2026-04-20 21:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0bca9f85-e69c-4ab2-83e8-6a658aeb1cda",
+      "title": "Tom et Jerry à New York - S01E04",
+      "programSlug": "tom-et-jerry-a-new-york-s01e04",
+      "programUrl": "/programme/boomerang-1/tom-et-jerry-a-new-york-s01e04",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-21 21:15:00+00",
+      "endTime": "2026-04-21 21:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "12cda022-d258-4ee5-a458-7351e89c066b",
+      "title": "Tom et Jerry à New York - S02E03",
+      "programSlug": "tom-et-jerry-a-new-york-s02e03",
+      "programUrl": "/programme/boomerang-1/tom-et-jerry-a-new-york-s02e03",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-22 21:15:00+00",
+      "endTime": "2026-04-22 21:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "fb018a50-76ef-44fe-80d5-e8e8b9611ca9",
+      "title": "Tom et Jerry à New York - S02E05",
+      "programSlug": "tom-et-jerry-a-new-york-s02e05",
+      "programUrl": "/programme/boomerang-1/tom-et-jerry-a-new-york-s02e05",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-23 21:15:00+00",
+      "endTime": "2026-04-23 21:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "bc9d23ee-4ce7-41db-80f5-463f397bbbb6",
+      "title": "Tom et Jerry à New York - S02E02",
+      "programSlug": "tom-et-jerry-a-new-york-s02e02",
+      "programUrl": "/programme/boomerang-1/tom-et-jerry-a-new-york-s02e02",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-24 21:15:00+00",
+      "endTime": "2026-04-24 21:35:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "46f1889c-2c6e-4e81-a2dd-cbb5a3cb0f2d",
+      "title": "Tom et Jerry à New York - S02E01",
+      "programSlug": "tom-et-jerry-a-new-york-s02e01",
+      "programUrl": "/programme/boomerang-1/tom-et-jerry-a-new-york-s02e01",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-25 21:15:00+00",
+      "endTime": "2026-04-25 21:35:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2021,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 20:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

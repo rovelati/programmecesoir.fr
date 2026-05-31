@@ -1,0 +1,84 @@
+{
+  "type": "series",
+  "slug": "al-berrani",
+  "title": "Al Berrani",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Al Berrani"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Ifrane, une destination calme où, d'habitude, il ne se passe rien. Pourtant, à l'abri des regards, les forêts de cèdre renferment un vieux secret ; Celui de la disparition du petit Amine. Un incident tombé dans l'oubli qui sera déterré avec l'arrivée de l'étranger.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "075b7b07-c773-4c32-9ea4-242b265b447f",
+      "title": "Al Berrani",
+      "programSlug": "al-berrani",
+      "programUrl": "/programme/2m-maroc/al-berrani",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-20 00:55:00+00",
+      "endTime": "2026-04-20 01:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "9975fcf7-414b-4c0e-bf8f-5306f14df790",
+      "title": "Al Berrani",
+      "programSlug": "al-berrani",
+      "programUrl": "/programme/2m-maroc/al-berrani",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-20 20:45:00+00",
+      "endTime": "2026-04-20 21:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4326dc08-0be4-40ef-b355-2d8ffe0376ed",
+      "title": "Al Berrani",
+      "programSlug": "al-berrani",
+      "programUrl": "/programme/2m-maroc/al-berrani",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-25 18:00:00+00",
+      "endTime": "2026-04-25 18:55:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 00:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

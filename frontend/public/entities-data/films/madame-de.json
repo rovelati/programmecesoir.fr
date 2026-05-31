@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "madame-de",
+  "title": "Madame de...",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Madame de..."
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm d'amour",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "En 1900, à Paris. Louise, épouse particulièrement coquette et frivole d'un général attaché au ministère de la Guerre, vend en secret des boucles d'oreilles dans le but de rembourser une très importante dette de jeu qu'elle a contractée. Elle feint ensuite de les avoir perdues au cours d'une soirée à l'opéra. Les bijoux, finalement, arrivent dans les mains du baron Fausto Donati, qui, en les offrant à Louise, y trouve enfin l'occasion de lui déclarer sa flamme. La jeune femme tente alors de faire croire à son mari que c'est le hasard le plus total qui a fait ressurgir ces bijoux dans sa vie. Mais il ne la croit pas et provoque le baron en duel...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1953,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q105987",
+      "slug": "charles-boyer",
+      "name": "Charles Boyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234149",
+      "slug": "danielle-darrieux",
+      "name": "Danielle Darrieux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q53004",
+      "slug": "vittorio-de-sica",
+      "name": "Vittorio De Sica",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3171608",
+      "slug": "jean-debucourt",
+      "name": "Jean Debucourt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2831397",
+      "slug": "albert-michel",
+      "name": "Albert Michel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2958498",
+      "slug": "charles-bayard",
+      "name": "Charles Bayard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1094796",
+      "slug": "claire-duhamel",
+      "name": "Claire Duhamel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2982522",
+      "slug": "colette-regis",
+      "name": "Colette Régis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3014443",
+      "slug": "daniel-mendaille",
+      "name": "Daniel Mendaille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3588532",
+      "slug": "emile-genevois",
+      "name": "Émile Genevois",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082209",
+      "slug": "franck-maurice",
+      "name": "Franck Maurice",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3103302",
+      "slug": "georges-paulais",
+      "name": "Georges Paulais",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3103625",
+      "slug": "georges-vitray",
+      "name": "Georges Vitray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3123799",
+      "slug": "gerard-buhr",
+      "name": "Gérard Buhr",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3104223",
+      "slug": "germaine-stainval",
+      "name": "Germaine Stainval",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3121762",
+      "slug": "guy-favieres",
+      "name": "Guy Favières",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55410",
+    "slug": "max-ophuls",
+    "name": "Max Ophüls",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

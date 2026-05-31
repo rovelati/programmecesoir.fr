@@ -1,0 +1,73 @@
+{
+  "type": "film",
+  "slug": "a-bicyclette",
+  "title": "A bicyclette !",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "A bicyclette !"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "road movie"
+  ],
+  "description": "De l'Atlantique jusqu'à la mer Noire, Mathias embarque son meilleur ami Philippe dans un road trip à bicyclette. Ensemble, ils vont refaire le voyage que Youri, son fils, avait entrepris avant de disparaître tragiquement. Mathias, qui a eu cette lumineuse idée, espère ainsi continuer de le faire vivre en roulant sur ses traces. Malheureusement, les deux hommes comprennent rapidement qu'ils ont probablement surestimé leurs capacités, et ils ne tardent pas à souffrir de terribles courbatures qui ralentissent leur cadence. En dépit de ces menus contretemps, ils traversent cette incroyable épopée avec tendresse, humour et émotion...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 89,
+  "cast": [
+    {
+      "qid": "Q3298586",
+      "slug": "mathias-mlekuz",
+      "name": "Mathias Mlekuz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380605",
+      "slug": "philippe-rebbot",
+      "name": "Philippe Rebbot",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3298586",
+    "slug": "mathias-mlekuz",
+    "name": "Mathias Mlekuz",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

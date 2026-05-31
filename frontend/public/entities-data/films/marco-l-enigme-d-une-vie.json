@@ -1,0 +1,96 @@
+{
+  "type": "film",
+  "slug": "marco-l-enigme-d-une-vie",
+  "title": "Marco, l'énigme d'une vie",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Marco, l'énigme d'une vie"
+  ],
+  "genres": [
+    "drame",
+    "thriller",
+    "film ou téléfilm biographique"
+  ],
+  "description": "Enric Marco est une figure très respectée en Espagne. Il est le fondateur et le président de l'association des victimes de l'Holocauste dans son pays. A l'approche d'une commémoration, son monde s'effondre lorsque l'historien Benito Bermejo conteste son récit d'ancien déporté du camp de concentration de Flossenbürg. Ses accusations sont bientôt relayées par les médias nationaux. Marco se bat alors pour maintenir sa version alors que les preuves contre lui s'accumulent et que même ses proches doutent de lui. Bientôt, un immense scandale éclate et Marco doit faire face à ses propres mensonges...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q1224788",
+      "slug": "eduard-fernandez",
+      "name": "Eduard Fernández",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6038628",
+      "slug": "nathalie-poza",
+      "name": "Nathalie Poza",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23906951",
+      "slug": "chani-martin",
+      "name": "Chani Martín",
+      "role": "actor"
+    },
+    {
+      "qid": "Q86447947",
+      "slug": "sonia-almarcha",
+      "name": "Sonia Almarcha",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8961231",
+      "slug": "fermi-reixach",
+      "name": "Fermí Reixach",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22704284",
+      "slug": "julia-molins",
+      "name": "Júlia Molins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q120018977",
+      "slug": "jordi-rico",
+      "name": "Jordi Rico",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q33646184",
+    "slug": "aitor-arregi",
+    "name": "Aitor Arregi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "van-heflin",
+  "name": "Van Heflin",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Van%20Heflin%20-%201941.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1910-12-13",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de genre",
+  "externalIds": {
+    "wikidata": "Q350678",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Van_Heflin",
+    "imdb": "nm0001336",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "madame-bovary",
+      "title": "Madame Bovary"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

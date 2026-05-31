@@ -1,0 +1,58 @@
+{
+  "type": "film",
+  "slug": "all-inclusive",
+  "title": "All Inclusive",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "All Inclusive"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "En participant à un concours, Bruno a gagné une semaine de vacances tout compris aux Caraïbes avec sa compagne. Malheureusement, à la douane, la jeune femme constate que son passeport n'est plus valable. Bruno part donc seul. Sur place, il apprend qu'il doit partager sa chambre avec Jean-Paul Cisse, éternel célibataire et bellâtre envahissant. De son côté, Lulu, retraitée et veuve très libérée, voudrait bien mettre Jean-Paul dans son lit. Jean-Paul préférerait conclure avec Caroline, Manon et Sonia, trois amies venues enterrer le divorce de la première. Pendant que tout ce petit monde tente de passer de bonnes vacances, Edouard Laurent, le directeur du club, arnaque ses clients...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/club-rtl.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2019,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q2646765",
+      "slug": "franck-dubosc",
+      "name": "Franck Dubosc",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3063643",
+    "slug": "fabien-onteniente",
+    "name": "Fabien Onteniente",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

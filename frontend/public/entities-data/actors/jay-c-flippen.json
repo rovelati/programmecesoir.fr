@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "jay-c-flippen",
+  "name": "Jay C. Flippen",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jay%20C.%20Flippen%20in%20Hot%20Summer%20Night%20trailer.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1899-03-06",
+  "nationality": "États-Unis",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q330847",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jay_C._Flippen",
+    "imdb": "nm0282435",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-equipee-sauvage",
+      "title": "L'équipée sauvage"
+    },
+    {
+      "type": "film",
+      "slug": "les-amants-de-la-nuit",
+      "title": "Les amants de la nuit"
+    },
+    {
+      "type": "film",
+      "slug": "les-diables-de-guadalcanal",
+      "title": "Les diables de Guadalcanal"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6ed400d0-7a70-4a71-86cf-7148fb2b82ce",
+      "title": "Les diables de Guadalcanal",
+      "programSlug": "les-diables-de-guadalcanal",
+      "programUrl": "/programme/tcm-cinema/les-diables-de-guadalcanal",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-20 21:10:00+00",
+      "endTime": "2026-04-20 22:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7c44d2d3-1948-40d6-af30-920af14904a1",
+      "title": "Les diables de Guadalcanal",
+      "programSlug": "les-diables-de-guadalcanal",
+      "programUrl": "/programme/tcm-cinema/les-diables-de-guadalcanal",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-24 07:25:00+00",
+      "endTime": "2026-04-24 09:05:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 21:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

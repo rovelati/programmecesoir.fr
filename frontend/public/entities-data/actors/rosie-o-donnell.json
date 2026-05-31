@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "rosie-o-donnell",
+  "name": "Rosie O'Donnell",
+  "worksCount": 1,
+  "description": "animatrice de télévision, humoriste, productrice, actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosie%20O'Donnell%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-03-21",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q272929",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rosie_O'Donnell",
+    "imdb": "nm0005280",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-famille-pierrafeu",
+      "title": "La famille Pierrafeu"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

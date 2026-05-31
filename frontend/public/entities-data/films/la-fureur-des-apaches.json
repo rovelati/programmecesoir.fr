@@ -1,0 +1,94 @@
+{
+  "type": "film",
+  "slug": "la-fureur-des-apaches",
+  "title": "La fureur des Apaches",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La fureur des Apaches"
+  ],
+  "genres": [
+    "western"
+  ],
+  "description": "A la fin du XIXe siècle, dans l'Arizona. Les Apaches ont déterré la hache de guerre pour empêcher des prospecteurs de s'approprier l'or de leurs terres. Jeff Stanton, un officier de cavalerie, est dépêché sur place pour tenter de ramener la paix. Comme il ne peut rien contre les chercheurs d'or, qui agissent avec l'aval du gouvernement, Stanton doit convaincre les Indiens de regagner paisiblement leur réserve. Face aux représailles et aux tentatives de manipulations des prospecteurs, l'officier se laisse peu à peu gagner à la cause des Apaches...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1964,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q337185",
+      "slug": "audie-murphy",
+      "name": "Audie Murphy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q934345",
+      "slug": "l-q-jones",
+      "name": "L. Q. Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14941763",
+      "slug": "hugh-sanders",
+      "name": "Hugh Sanders",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3195059",
+      "slug": "ken-lynch",
+      "name": "Ken Lynch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13560258",
+      "slug": "linda-lawson",
+      "name": "Linda Lawson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21091666",
+      "slug": "charles-watts",
+      "name": "Charles Watts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q580032",
+      "slug": "peter-hansen",
+      "name": "Peter Hansen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2064707",
+    "slug": "william-witney",
+    "name": "William Witney",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

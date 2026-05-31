@@ -1,0 +1,82 @@
+{
+  "type": "film",
+  "slug": "angelo-dans-la-foret-mysterieuse",
+  "title": "Angelo dans la forêt mystérieuse",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Angelo dans la forêt mystérieuse"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm familial",
+    "film et téléfilm fantastique"
+  ],
+  "description": "Angelo, 10 ans, rêve depuis toujours de devenir un aventurier et un explorateur. Jusqu'au jour où, partant en voiture avec sa famille pour se rendre au chevet de sa grand-mère malade, il est brusquement mis au défi de prouver sa témérité. En effet, oublié par erreur sur une aire d'autoroute, Angelo, n'écoutant que son courage, décide de couper à travers la forêt pour rejoindre la maison de Mémé. Il s'enfonce alors dans un territoire mystérieux peuplé d'êtres étranges que menace un ennemi pire encore que l'ogre de la région…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4eebfc20-9182-4a40-8ac9-ebfd6528679b",
+      "title": "Angelo dans la forêt mystérieuse",
+      "programSlug": "angelo-dans-la-foret-mysterieuse",
+      "programUrl": "/programme/cine-family/angelo-dans-la-foret-mysterieuse",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 03:44:00+00",
+      "endTime": "2026-04-20 05:06:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q1890346",
+    "slug": "winshluss",
+    "name": "Winshluss",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 03:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

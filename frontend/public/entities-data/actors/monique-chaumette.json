@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "monique-chaumette",
+  "name": "Monique Chaumette",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1927-04-04",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q274043",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Monique_Chaumette",
+    "imdb": "nm0154319",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-horloger-de-saint-paul",
+      "title": "L'horloger de Saint-Paul"
+    },
+    {
+      "type": "film",
+      "slug": "un-dimanche-a-la-campagne",
+      "title": "Un dimanche à la campagne"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

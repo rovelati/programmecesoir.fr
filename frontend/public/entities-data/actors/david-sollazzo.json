@@ -1,0 +1,121 @@
+{
+  "type": "actor",
+  "slug": "david-sollazzo",
+  "name": "David Sollazzo",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q137795405",
+    "wikipedia": null,
+    "imdb": "nm10080747",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "la-stagiaire",
+      "title": "La stagiaire"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0fd1dccd-2659-42c1-8449-87bb293a7665",
+      "title": "La stagiaire",
+      "programSlug": "la-stagiaire",
+      "programUrl": "/programme/rts-un/la-stagiaire",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 19:00:00+00",
+      "endTime": "2026-04-24 19:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "a3a1a05f-f8f8-4231-9a8a-811a2cf2135f",
+      "title": "La stagiaire",
+      "programSlug": "la-stagiaire",
+      "programUrl": "/programme/rts-un/la-stagiaire",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 19:50:00+00",
+      "endTime": "2026-04-24 20:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "16aa2bcc-47ce-44bf-a3de-f8a696add457",
+      "title": "La stagiaire - Saison 4",
+      "programSlug": "la-stagiaire-saison-4",
+      "programUrl": "/programme/tv-breizh/la-stagiaire-saison-4",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 18:50:00+00",
+      "endTime": "2026-04-25 19:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "141ce4b0-c974-4eb9-8b19-5281186f561c",
+      "title": "La stagiaire - Saison 4",
+      "programSlug": "la-stagiaire-saison-4",
+      "programUrl": "/programme/tv-breizh/la-stagiaire-saison-4",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 19:55:00+00",
+      "endTime": "2026-04-25 21:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "ba26d622-aa01-49cc-915d-4d38954b3219",
+      "title": "La stagiaire - Saison 3",
+      "programSlug": "la-stagiaire-saison-3",
+      "programUrl": "/programme/tv-breizh/la-stagiaire-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 21:05:00+00",
+      "endTime": "2026-04-25 22:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "08a5effc-1aad-472c-bf82-8b0cff3cc6f5",
+      "title": "La stagiaire - Saison 3",
+      "programSlug": "la-stagiaire-saison-3",
+      "programUrl": "/programme/tv-breizh/la-stagiaire-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 22:05:00+00",
+      "endTime": "2026-04-25 23:05:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "247c4c3c-e1d1-4eb6-aeed-961bed6ef714",
+      "title": "La stagiaire - Saison 3",
+      "programSlug": "la-stagiaire-saison-3",
+      "programUrl": "/programme/tv-breizh/la-stagiaire-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 23:05:00+00",
+      "endTime": "2026-04-26 00:05:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

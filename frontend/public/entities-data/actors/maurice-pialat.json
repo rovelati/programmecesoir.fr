@@ -1,0 +1,82 @@
+{
+  "type": "actor",
+  "slug": "maurice-pialat",
+  "name": "Maurice Pialat",
+  "worksCount": 3,
+  "description": "réalisateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1925-08-31",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q503898",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Maurice_Pialat",
+    "imdb": "nm0681207",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-enfance-nue",
+      "title": "L'enfance nue"
+    },
+    {
+      "type": "film",
+      "slug": "loulou",
+      "title": "Loulou"
+    },
+    {
+      "type": "film",
+      "slug": "passe-ton-bac-d-abord",
+      "title": "Passe ton bac d'abord"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3a0402ea-1ec6-4046-9b83-c8c5c51056f5",
+      "title": "Loulou",
+      "programSlug": "loulou",
+      "programUrl": "/programme/cine-festival/loulou",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-21 09:41:00+00",
+      "endTime": "2026-04-21 11:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "81de72af-0ee0-4730-9aff-48b3c79afa2f",
+      "title": "Passe ton bac d'abord",
+      "programSlug": "passe-ton-bac-d-abord",
+      "programUrl": "/programme/cine-festival/passe-ton-bac-d-abord",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-22 09:51:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7df4cb44-9414-472c-a71a-d8807655c3d5",
+      "title": "Loulou",
+      "programSlug": "loulou",
+      "programUrl": "/programme/cine-festival/loulou",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-24 03:26:00+00",
+      "endTime": "2026-04-24 05:07:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 09:41:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

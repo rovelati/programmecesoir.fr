@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "life-sentence",
+  "title": "Life Sentence",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Life Sentence"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Un jeune homme issu d'un milieu aisé rejoint progressivement les rangs de la mafia. Entre luttes de pouvoir et trahisons, il gravit un à un les échelons.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LifeSentenceMapNew.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e855c9a9-c399-4be0-9252-b8cd9a71999b",
+      "title": "Life Sentence",
+      "programSlug": "life-sentence",
+      "programUrl": "/programme/eurochannel/life-sentence",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 08:40:00+00",
+      "endTime": "2026-04-23 10:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-23 08:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

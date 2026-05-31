@@ -1,0 +1,165 @@
+{
+  "type": "film",
+  "slug": "jack-le-chasseur-de-geants",
+  "title": "Jack le chasseur de géants",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Jack le chasseur de géants"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film ou téléfilm de monstre",
+    "cinéma de conte de fées",
+    "film ou téléfilm d'aventure",
+    "film et téléfilm d'action"
+  ],
+  "description": "Jack, un jeune orphelin, se retrouve confronté à un danger inattendu lorsqu'il réactive une légende et doit affronter les géants invincibles qui peuplent un monde hostile. Cette légende remonte à l'époque où les moines utilisaient des graines magiques pour atteindre le paradis, mais ont été accueillis par des géants cruels, cupides et cannibales. Le roi Erik a réussi à les emprisonner entre ciel et terre grâce à une couronne magique. Jack doit trouver un moyen de survivre et de sauver le royaume, ainsi qu'Isabelle, la belle princesse dont il est tombé amoureux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "79bda564-c115-4d77-ba2c-1c5cfc621167",
+      "title": "Jack le chasseur de géants",
+      "programSlug": "jack-le-chasseur-de-geants",
+      "programUrl": "/programme/cine-family/jack-le-chasseur-de-geants",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 20:46:00+00",
+      "endTime": "2026-04-24 22:37:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 114,
+  "cast": [
+    {
+      "qid": "Q298347",
+      "slug": "nicholas-hoult",
+      "name": "Nicholas Hoult",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1582005",
+      "slug": "eleanor-tomlinson",
+      "name": "Eleanor Tomlinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q165518",
+      "slug": "ewan-mcgregor",
+      "name": "Ewan McGregor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223117",
+      "slug": "stanley-tucci",
+      "name": "Stanley Tucci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234141",
+      "slug": "ian-mcshane",
+      "name": "Ian McShane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207179",
+      "slug": "bill-nighy",
+      "name": "Bill Nighy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q609458",
+      "slug": "ben-daniels",
+      "name": "Ben Daniels",
+      "role": "actor"
+    },
+    {
+      "qid": "Q45647",
+      "slug": "eddie-marsan",
+      "name": "Eddie Marsan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108270",
+      "slug": "warwick-davis",
+      "name": "Warwick Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q520651",
+      "slug": "ewen-bremner",
+      "name": "Ewen Bremner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26721131",
+      "slug": "aaron-jackson",
+      "name": "Aaron Jackson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2849808",
+      "slug": "angus-barnett",
+      "name": "Angus Barnett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q452650",
+      "slug": "christopher-fairbank",
+      "name": "Christopher Fairbank",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111941117",
+      "slug": "peter-elliott",
+      "name": "Peter Elliott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3379063",
+      "slug": "philip-philmar",
+      "name": "Philip Philmar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q124357",
+      "slug": "ralph-brown",
+      "name": "Ralph Brown",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q220751",
+    "slug": "bryan-singer",
+    "name": "Bryan Singer",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 20:46:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "mos-def",
+  "name": "Mos Def",
+  "worksCount": 1,
+  "description": "musicien et acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mos%20Def%20-%20Ilosaarirock%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-12-11",
+  "nationality": "États-Unis",
+  "jobTitle": "rappeur ou rappeuse",
+  "externalIds": {
+    "wikidata": "Q38875",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mos_Def",
+    "imdb": "nm0080049",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "soyez-sympas-rembobinez",
+      "title": "Soyez sympas, rembobinez"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "72fb94fb-96a9-44cd-aec5-5b67673ddf87",
+      "title": "Soyez sympas, rembobinez",
+      "programSlug": "soyez-sympas-rembobinez",
+      "programUrl": "/programme/cine-festival/soyez-sympas-rembobinez",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-25 03:40:00+00",
+      "endTime": "2026-04-25 04:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 03:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

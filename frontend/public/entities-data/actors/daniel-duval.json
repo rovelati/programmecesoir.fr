@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "daniel-duval",
+  "name": "Daniel Duval",
+  "worksCount": 2,
+  "description": "acteur, réalisateur et scénariste français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1944-11-28",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q778573",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Daniel_Duval",
+    "imdb": "nm0244999",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "que-la-fete-commence",
+      "title": "Que la fête commence"
+    },
+    {
+      "type": "film",
+      "slug": "rtt",
+      "title": "RTT"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

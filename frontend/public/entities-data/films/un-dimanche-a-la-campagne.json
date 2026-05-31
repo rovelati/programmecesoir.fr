@@ -1,0 +1,118 @@
+{
+  "type": "film",
+  "slug": "un-dimanche-a-la-campagne",
+  "title": "Un dimanche à la campagne",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Un dimanche à la campagne"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Fin de l'été 1912. Comme tous les dimanches, le vieux monsieur Ladmiral, artiste peintre mélancolique, se livre aux escarmouches habituelles avec sa fidèle servante Mercédès, avant de partir à pied vers la petite gare de campagne pour accueillir son fils, Gonzague-Edouard, sa belle-fille, Marie-Thérèse, et leurs trois enfants. Cette traditionnelle visite met un peu de joie dans sa vie et dans sa grande maison, même si son fils se montre par trop rigide et ennuyeux. Mais cette visite va être bouleversée par l'arrivée d'Irène Ladmiral, la soeur de Gonzague-Edouard qui ne s'embarrasse guère de convenances. Son comportement, mais aussi sa liberté, choquent beaucoup son frère...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1984,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q106592",
+      "slug": "sabine-azema",
+      "name": "Sabine Azéma",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3261786",
+      "slug": "louis-ducreux",
+      "name": "Louis Ducreux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3100676",
+      "slug": "genevieve-mnich",
+      "name": "Geneviève Mnich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q358089",
+      "slug": "michel-aumont",
+      "name": "Michel Aumont",
+      "role": "actor"
+    },
+    {
+      "qid": "Q274043",
+      "slug": "monique-chaumette",
+      "name": "Monique Chaumette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2978278",
+      "slug": "claude-winter",
+      "name": "Claude Winter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q337226",
+      "slug": "bertrand-tavernier",
+      "name": "Bertrand Tavernier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3159793",
+      "slug": "jacques-poitrenaud",
+      "name": "Jacques Poitrenaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3169986",
+      "slug": "jean-roger-milo",
+      "name": "Jean-Roger Milo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3288315",
+      "slug": "marc-perrone",
+      "name": "Marc Perrone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3367712",
+      "slug": "pascale-vignal",
+      "name": "Pascale Vignal",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q337226",
+    "slug": "bertrand-tavernier",
+    "name": "Bertrand Tavernier",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

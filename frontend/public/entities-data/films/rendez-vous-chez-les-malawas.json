@@ -1,0 +1,58 @@
+{
+  "type": "film",
+  "slug": "rendez-vous-chez-les-malawas",
+  "title": "Rendez-vous chez les Malawas",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Rendez-vous chez les Malawas"
+  ],
+  "genres": [
+    "film ou téléfilm parodique"
+  ],
+  "description": "Animateur de télévision à succès, Léo Poli prépare un numéro spécial de \"Rencontre au bout du bout du monde\" pour les fêtes de fin d'année. A cette occasion, il invite non pas une, comme à son habitude, mais quatre célébrités, à partir en sa compagnie à l'aventure en Afrique. Leur objectif est de passer du temps avec les Malawas, considérés comme une des tribus les plus isolées du monde. Mais les quatre invités sont très différents et vont avoir du mal à s'entendre. Et les choses ne vont pas du tout se passer comme prévu...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2019,
+  "durationMinutes": 93,
+  "cast": [
+    {
+      "qid": "Q312661",
+      "slug": "jamel-debbouze",
+      "name": "Jamel Debbouze",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3161170",
+    "slug": "james-huth",
+    "name": "James Huth",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

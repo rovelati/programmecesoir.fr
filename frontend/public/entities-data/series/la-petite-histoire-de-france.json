@@ -1,0 +1,197 @@
+{
+  "type": "series",
+  "slug": "la-petite-histoire-de-france",
+  "title": "La petite histoire de France",
+  "airingsCount": 12,
+  "sourceTitles": [
+    "La petite histoire de France"
+  ],
+  "genres": [
+    "série télévisée comique"
+  ],
+  "description": "Si tout le monde connaît Vercingétorix, Jeanne d'Arc, Louis XIV et Napoléon, leurs cousins, en revanche, ne sont pas rentrés dans l'Histoire de France, pas plus que leurs conjoints. Pourtant, les aventures domestiques de Yorik et Maelle, de François, du comte Philippe de Roche-Saint-Pierre et son épouse Marie-Louise, et celles de Renata Bonaparte et de son mari Jean Plancher méritent d'être connues. Une série historique humoristique dont l'un des créateurs est Jamel Debbouze.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "channelNumber": 9,
+      "logoUrl": "/loghi/w9.png",
+      "airingsCount": 12
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6d6bede7-8bab-4ed4-8650-d99239270d71",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-19 14:30:00+00",
+      "endTime": "2026-04-19 19:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "39caf4e1-2a54-4cd5-8585-1dc1a219c7e5",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 15:30:00+00",
+      "endTime": "2026-04-25 19:10:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c3b376a3-01cb-477b-9fe3-201dfb622f95",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 19:10:00+00",
+      "endTime": "2026-04-25 21:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f2b90d4b-4f33-4e05-9ae2-a68593db72df",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 21:00:00+00",
+      "endTime": "2026-04-25 22:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2015,
+  "numberOfSeasons": 4,
+  "cast": [
+    {
+      "qid": "Q110754547",
+      "slug": "q110754547",
+      "name": "Q110754547",
+      "role": "actor"
+    },
+    {
+      "qid": "Q110754678",
+      "slug": "maxime-gasteuil",
+      "name": "Maxime Gasteuil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q98754821",
+      "slug": "paul-scarfoglio",
+      "name": "Paul Scarfoglio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107065409",
+      "slug": "faustine-koziel",
+      "name": "Faustine Koziel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2850979",
+      "slug": "anne-benoit",
+      "name": "Anne Benoît",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830765",
+      "slug": "alban-ivanov",
+      "name": "Alban Ivanov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3354159",
+      "slug": "ophelia-kolb",
+      "name": "Ophélia Kolb",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23021082",
+      "slug": "fatsah-bouyahmed",
+      "name": "Fatsah Bouyahmed",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3379789",
+      "slug": "philippe-duquesne",
+      "name": "Philippe Duquesne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q658664",
+      "slug": "francois-levantal",
+      "name": "François Levantal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19956036",
+      "slug": "anne-sophie-girard",
+      "name": "Anne-Sophie Girard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106782242",
+      "slug": "philippe-beglia",
+      "name": "Philippe Beglia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3509994",
+      "slug": "sebastien-castro",
+      "name": "Sébastien Castro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3018751",
+      "slug": "david-salles",
+      "name": "David Salles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22138692",
+      "slug": "karina-marimon",
+      "name": "Karina Marimon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107974086",
+      "slug": "grant-lawrens",
+      "name": "Grant Lawrens",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q312661",
+    "slug": "jamel-debbouze",
+    "name": "Jamel Debbouze",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 14:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

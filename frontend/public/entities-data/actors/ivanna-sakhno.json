@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "ivanna-sakhno",
+  "name": "Ivanna Sakhno",
+  "worksCount": 1,
+  "description": "actrice ukrainienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sakhno%20Ukrinform%202023.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1997-11-14",
+  "nationality": "Ukraine",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q20069680",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ivanna_Sakhno",
+    "imdb": "nm4854961",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "m3gan-2-0",
+      "title": "M3GAN 2.0"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "998b9897-1d22-48c5-899e-661784bf3688",
+      "title": "M3GAN 2.0",
+      "programSlug": "m3gan-2-0",
+      "programUrl": "/programme/canal-box-office/m3gan-2-0",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 21:05:00+00",
+      "endTime": "2026-04-20 23:01:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "94c2dd63-6a8a-4606-9aa2-f65378f5fc34",
+      "title": "M3GAN 2.0",
+      "programSlug": "m3gan-2-0",
+      "programUrl": "/programme/canal-box-office/m3gan-2-0",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 13:14:00+00",
+      "endTime": "2026-04-25 15:11:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 21:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

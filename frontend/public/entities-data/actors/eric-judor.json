@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "eric-judor",
+  "name": "Éric Judor",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89ric%20Judor.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-07-25",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3591196",
+    "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89ric_Judor",
+    "imdb": "nm0431956",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-tour-montparnasse-infernale",
+      "title": "La Tour Montparnasse infernale"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5bba922d-b832-4409-8340-7750dec16143",
+      "title": "La Tour Montparnasse infernale",
+      "programSlug": "la-tour-montparnasse-infernale",
+      "programUrl": "/programme/canal-grand-ecran/la-tour-montparnasse-infernale",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 04:56:00+00",
+      "endTime": "2026-04-22 06:27:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "fc6ae759-c337-4ce4-aa71-3128376c953e",
+      "title": "La Tour Montparnasse infernale",
+      "programSlug": "la-tour-montparnasse-infernale",
+      "programUrl": "/programme/canal-grand-ecran/la-tour-montparnasse-infernale",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-26 04:20:00+00",
+      "endTime": "2026-04-26 05:50:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 04:56:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

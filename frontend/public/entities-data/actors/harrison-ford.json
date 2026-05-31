@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "harrison-ford",
+  "name": "Harrison Ford",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harrison%20Ford%20at%20the%202009%20Deauville%20American%20Film%20Festival%2C%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1942-07-13",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q81328",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Harrison_Ford",
+    "imdb": "nm0000148",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "apocalypse-now-final-cut",
+      "title": "Apocalypse Now Final Cut"
+    },
+    {
+      "type": "film",
+      "slug": "indiana-jones-et-le-cadran-de-la-destinee",
+      "title": "Indiana Jones et le cadran de la destinée"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "gerard-lenorman",
+  "name": "Gérard Lenorman",
+  "worksCount": 1,
+  "description": "auteur-compositeur-interprète français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Lenorman.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1945-02-09",
+  "nationality": "France",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q512950",
+    "wikipedia": "https://fr.wikipedia.org/wiki/G%C3%A9rard_Lenorman",
+    "imdb": "nm0502168",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "vacances-forcees",
+      "title": "Vacances forcées"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

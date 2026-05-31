@@ -1,0 +1,121 @@
+{
+  "type": "film",
+  "slug": "le-justicier-de-new-york",
+  "title": "Le justicier de New York",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le justicier de New York"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film et téléfilm d'action",
+    "rape and revenge",
+    "film de vigilante"
+  ],
+  "description": "Depuis que Paul Kersey a perdu toute sa famille lors d'une agression, il a pris l'habitude de rendre justice lui-même. Il se fait un devoir de débusquer les meurtriers plus vite que la police et de les abattre sans attendre qu'on vienne le déranger. La malchance, il est vrai, s'attache à ses pas. Veut-il rendre visite à son vieil ami Charley qu'il trouve celui-ci baignant dans son sang. A la suite d'une méprise, il est soupçonné du meurtre. Le chef de la police, Striker, qui croit en son innocence, lui offre la liberté en échange de sa collaboration dans la lutte contre la bande d'assassins. Dans sa cellule, Kersey a déjà eu le temps de se colleter à un inquiétant personnage...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1985,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q36105",
+      "slug": "charles-bronson",
+      "name": "Charles Bronson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q127870",
+      "slug": "deborah-raffin",
+      "name": "Deborah Raffin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q39972",
+      "slug": "ed-lauter",
+      "name": "Ed Lauter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312107",
+      "slug": "martin-balsam",
+      "name": "Martin Balsam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1748652",
+      "slug": "gavan-o-herlihy",
+      "name": "Gavan O'Herlihy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7823470",
+      "slug": "tony-spiridakis",
+      "name": "Tony Spiridakis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1398367",
+      "slug": "alex-winter",
+      "name": "Alex Winter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232945",
+      "slug": "marina-sirtis",
+      "name": "Marina Sirtis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5646782",
+      "slug": "hana-maria-pravda",
+      "name": "Hana Maria Pravda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3273931",
+      "slug": "mac-mcdonald",
+      "name": "Mac McDonald",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3314039",
+      "slug": "mildred-shay",
+      "name": "Mildred Shay",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q722890",
+    "slug": "michael-winner",
+    "name": "Michael Winner",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

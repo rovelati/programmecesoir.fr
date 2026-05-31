@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "feles",
+  "title": "Fêlés",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Fêlés"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "A Marmande, l'Arc-en-ciel est un lieu associatif qui héberge des personnes passées par un service psychiatrique après avoir été malmenées par la vie. Soudain menacés d'expulsion, les résidents organisent un élan de solidarité autour de Pierre, le fondateur, pour tenter de sauver cette maison d'accueil unique...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cat%20grooming.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

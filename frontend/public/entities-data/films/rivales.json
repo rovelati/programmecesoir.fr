@@ -1,0 +1,101 @@
+{
+  "type": "film",
+  "slug": "rivales",
+  "title": "Rivales",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Rivales"
+  ],
+  "genres": [
+    "thriller",
+    "drame"
+  ],
+  "description": "Tessa ne parvient pas à se remettre de sa rupture d'avec David, qui a rencontré Julia Banks, avec laquelle il vit une parfaite idylle. Tessa constate donc que Julia habite désormais dans la maison qu'elle partageait autrefois avec David et sa fille, Lilly. Elle décide de rendre la vie de sa rivale impossible...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q189554",
+      "slug": "katherine-heigl",
+      "name": "Katherine Heigl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228692",
+      "slug": "rosario-dawson",
+      "name": "Rosario Dawson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q255293",
+      "slug": "geoff-stults",
+      "name": "Geoff Stults",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20973995",
+      "slug": "isabella-rice",
+      "name": "Isabella Rice",
+      "role": "actor"
+    },
+    {
+      "qid": "Q218884",
+      "slug": "cheryl-ladd",
+      "name": "Cheryl Ladd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3298525",
+      "slug": "whitney-cummings",
+      "name": "Whitney Cummings",
+      "role": "actor"
+    },
+    {
+      "qid": "Q320973",
+      "slug": "robert-wisdom",
+      "name": "Robert Wisdom",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3208206",
+      "slug": "jayson-blair",
+      "name": "Jayson Blair",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2053826",
+    "slug": "denise-di-novi",
+    "name": "Denise Di Novi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

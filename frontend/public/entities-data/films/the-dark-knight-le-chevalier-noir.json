@@ -1,0 +1,199 @@
+{
+  "type": "film",
+  "slug": "the-dark-knight-le-chevalier-noir",
+  "title": "The Dark Knight, le chevalier noir",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "The Dark Knight, le chevalier noir"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "néo-noir",
+    "thriller policier",
+    "film ou téléfilm criminel",
+    "film de super-héros",
+    "drame",
+    "thriller"
+  ],
+  "description": "A Gotham City, ville gangrenée par la violence, la criminalité et la corruption, des cambrioleurs armés dévalisent une banque. Chacun doit se débarrasser de ses complices, jusqu'à ce qu'il n'en reste plus qu'un : le commanditaire du casse, le Joker, clown psychopathe, infantile et cruel. Cette même nuit, Batman arrête plusieurs criminels. Le lendemain, un nouveau procureur arrive en ville, décidé à lutter contre la mafia. Beau, blond, angélique et charismatique, Harvey Dent est peut-être le sauveur que tout le monde attend. Mais le Joker a juré la perte de tous les défenseurs de l'ordre et de la loi, et tout particulièrement celle de Batman. Dans l'ombre, il s'allie à tous les parrains de la mafia...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c2e552e5-5034-45b9-a0c8-4a53b1bae6b6",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-le-chevalier-noir",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 07:44:00+00",
+      "endTime": "2026-04-19 10:12:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b544160d-b826-4661-803a-b06f2fd0584b",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-le-chevalier-noir",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 21:16:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "22b05300-eddd-4187-a307-0f99ef85a0d7",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-le-chevalier-noir",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:56:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 153,
+  "cast": [
+    {
+      "qid": "Q45772",
+      "slug": "christian-bale",
+      "name": "Christian Bale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123351",
+      "slug": "michael-caine",
+      "name": "Michael Caine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40572",
+      "slug": "heath-ledger",
+      "name": "Heath Ledger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83492",
+      "slug": "gary-oldman",
+      "name": "Gary Oldman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192643",
+      "slug": "aaron-eckhart",
+      "name": "Aaron Eckhart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202381",
+      "slug": "maggie-gyllenhaal",
+      "name": "Maggie Gyllenhaal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q48337",
+      "slug": "morgan-freeman",
+      "name": "Morgan Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207969",
+      "slug": "eric-roberts",
+      "name": "Eric Roberts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1108562",
+      "slug": "colin-mcfarlane",
+      "name": "Colin McFarlane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q938855",
+      "slug": "chin-han",
+      "name": "Chin Han",
+      "role": "actor"
+    },
+    {
+      "qid": "Q361215",
+      "slug": "anthony-michael-hall",
+      "name": "Anthony Michael Hall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2635096",
+      "slug": "melinda-mcgraw",
+      "name": "Melinda McGraw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q934484",
+      "slug": "nathan-gamble",
+      "name": "Nathan Gamble",
+      "role": "actor"
+    },
+    {
+      "qid": "Q225933",
+      "slug": "nestor-carbonell",
+      "name": "Nestor Carbonell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202589",
+      "slug": "cillian-murphy",
+      "name": "Cillian Murphy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1388258",
+      "slug": "keith-szarabajka",
+      "name": "Keith Szarabajka",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q25191",
+    "slug": "christopher-nolan",
+    "name": "Christopher Nolan",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 07:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

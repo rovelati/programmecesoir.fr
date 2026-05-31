@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "le-bug",
+  "title": "Le Bug",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le Bug"
+  ],
+  "genres": [
+    "Cinéma"
+  ],
+  "description": "Une mère de famille androïde voit sa programmation parfaite perturbée par un bug, dévoilant sa nature artificielle et menaçant la sécurité de sa famille.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Bugue%20-%20H%C3%B4tel%20de%20ville%20-%2020090924.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ef45cbb1-ef15-4f60-af5c-aa3ff6abf165",
+      "title": "Le Bug",
+      "programSlug": "le-bug",
+      "programUrl": "/programme/eurochannel/le-bug",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-22 09:30:00+00",
+      "endTime": "2026-04-22 10:45:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 0.85,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-22 09:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

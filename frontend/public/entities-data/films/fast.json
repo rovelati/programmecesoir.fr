@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "fast",
+  "title": "Fast",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Fast"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Jean-Louis, vingt-cinq ans et très naïf, a toujours vécu avec son pépé, dans un village presque désert. Un jour, une belle Parisienne aux cheveux jaunes le trouve seul dans son pré et se donne à lui en attendant que son ami répare leur véhicule. Elle le quitte ensuite en lui laissant une boîte d'allumettes sur laquelle on peut lire \"Fast Burger\". Ebloui par cette découverte de l'amour et laissé seul par la mort subite de son grand-père, Jean-Louis prend sa bicyclette et monte à Paris retrouver la fille aux cheveux jaunes. Il se présente dans un Fast Burger et y trouve rapidement du travail, grâce à un employé qui prend pitié de lui. Sa gentillesse et sa naïveté vont lui assurer une promotion très rapide...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

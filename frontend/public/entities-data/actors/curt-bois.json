@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "curt-bois",
+  "name": "Curt Bois",
+  "worksCount": 1,
+  "description": "acteur allemand",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Curt%20Bois%20im%20Schiller-Theater%20-%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1901-04-05",
+  "nationality": "Allemagne",
+  "jobTitle": "humoriste",
+  "externalIds": {
+    "wikidata": "Q66479",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Curt_Bois",
+    "imdb": "nm0092290",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "arc-de-triomphe",
+      "title": "Arc de Triomphe"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

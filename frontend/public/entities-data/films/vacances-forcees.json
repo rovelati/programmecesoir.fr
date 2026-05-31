@@ -1,0 +1,88 @@
+{
+  "type": "film",
+  "slug": "vacances-forcees",
+  "title": "Vacances forcées",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Vacances forcées"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "A la suite d'une erreur de réservation, deux familles que tout oppose, ainsi qu'un éditeur un peu snob et l'influenceuse qu'il souhaite publier, sont contraints de partager une sublime villa au bord de l'océan. Le choc des cultures est immédiat, entre habitudes incompatibles et personnalités bien affirmées. Pourtant, malgré les tensions et les quiproquos, ces vacances forcées prennent une tournure inattendue et se révèlent une aventure pleine de surprises et d'éclats de rire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q606555",
+      "slug": "clovis-cornillac",
+      "name": "Clovis Cornillac",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3219528",
+      "slug": "laurent-stocker",
+      "name": "Laurent Stocker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q62083629",
+      "slug": "bertrand-usclat",
+      "name": "Bertrand Usclat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q291521",
+      "slug": "aure-atika",
+      "name": "Aure Atika",
+      "role": "actor"
+    },
+    {
+      "qid": "Q62083597",
+      "slug": "pauline-clement",
+      "name": "Pauline Clément",
+      "role": "actor"
+    },
+    {
+      "qid": "Q512950",
+      "slug": "gerard-lenorman",
+      "name": "Gérard Lenorman",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3085619",
+    "slug": "francois-prevot-leygonie",
+    "name": "François Prévôt-Leygonie",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

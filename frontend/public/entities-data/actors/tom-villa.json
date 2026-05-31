@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "tom-villa",
+  "name": "Tom Villa",
+  "worksCount": 1,
+  "description": "humoriste, animateur de radio et acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Villa.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1989-06-05",
+  "nationality": "France",
+  "jobTitle": "humoriste",
+  "externalIds": {
+    "wikidata": "Q15965422",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tom_Villa",
+    "imdb": "nm5264089",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "ma-famille-t-adore-deja",
+      "title": "Ma famille t'adore déjà"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "jean-francois-derec",
+  "name": "Jean-François Dérec",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20D%C3%A9rec%20Cannes.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1957-05-11",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3165588",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_D%C3%A9rec",
+    "imdb": "nm0220282",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "par-amour",
+      "title": "Par amour"
+    },
+    {
+      "type": "film",
+      "slug": "marche-a-l-ombre",
+      "title": "Marche à l'ombre"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

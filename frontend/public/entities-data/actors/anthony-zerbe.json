@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "anthony-zerbe",
+  "name": "Anthony Zerbe",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": "Anthony Zerbe est un acteur américain spécialisé dans les rôles de personnages complexes, souvent dans des genres dramatiques ou des thrillers psychologiques. Son jeu intense et sa présence à l'écran captent immédiatement l'attention. Il excelle à incarner des figures ambiguës, charismatiques ou inquiétantes, apportant une profondeur subtile à chaque rôle. Pour le téléspectateur, le plaisir réside dans sa capacité à rendre ces personnages crédibles et fascinants, ajoutant une couche de tension et d'intelligence narrative à ses films et séries. Découvrez ses performances marquantes à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthony-zerbe-trailer.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1936-05-20",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q574190",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anthony_Zerbe",
+    "imdb": "nm0001875",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "matrix-reloaded",
+      "title": "Matrix Reloaded"
+    },
+    {
+      "type": "film",
+      "slug": "matrix-revolutions",
+      "title": "Matrix Revolutions"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "17fe7c6b-e9f9-4106-97c1-5fa4634053c7",
+      "title": "Matrix Reloaded",
+      "programSlug": "matrix-reloaded",
+      "programUrl": "/programme/canal-grand-ecran/matrix-reloaded",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 14:02:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "97362478-1d0e-4bb7-9ee9-c19e605c394f",
+      "title": "Matrix Revolutions",
+      "programSlug": "matrix-revolutions",
+      "programUrl": "/programme/canal-grand-ecran/matrix-revolutions",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 11:10:00+00",
+      "endTime": "2026-04-23 13:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "955b2c9a-fcb1-4fc5-91e8-ff9772fae3d7",
+      "title": "Matrix Revolutions",
+      "programSlug": "matrix-revolutions",
+      "programUrl": "/programme/canal-grand-ecran/matrix-revolutions",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 21:19:00+00",
+      "endTime": "2026-04-25 23:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:52.892Z",
+  "nextAiringAt": "2026-04-20 14:02:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

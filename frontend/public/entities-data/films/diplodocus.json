@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "diplodocus",
+  "title": "Diplodocus",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Diplodocus"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Diplodocus, un petit dinosaure curieux et plein de rêves, aspire à vivre une grande aventure au-delà des frontières de son monde. Mais ses parents, profondément inquiets pour sa sécurité, ont érigé un mur autour de leur foyer niché au coeur de la jungle, le tenant ainsi à l'écart des merveilles mais aussi des dangers du monde extérieur. Diplo ignore encore que son univers coloré et palpitant n'est en réalité qu'un monde imaginé par Ted, un dessinateur sous pression, à qui son éditrice a demandé de créer un héros plus mignon. Contraint d'abandonner ses anciens projets, l'artiste commence à effacer le monde de Diplo...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diplodocus%20carnegii.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

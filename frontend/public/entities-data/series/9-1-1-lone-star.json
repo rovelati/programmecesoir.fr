@@ -1,0 +1,155 @@
+{
+  "type": "series",
+  "slug": "9-1-1-lone-star",
+  "title": "9-1-1: Lone Star",
+  "airingsCount": 20,
+  "sourceTitles": [
+    "9-1-1: Lone Star"
+  ],
+  "genres": [
+    "drama policier",
+    "série d'action",
+    "série télévisée dramatique",
+    "séries télévisées sur le thème des LGBTI+"
+  ],
+  "description": "Owen prend une décision concernant son avenir. Tommy reçoit de mauvaises nouvelles. TK et Carlos s'inquiètent pour l'adoption de Jonah. Mateo voit son permis de séjour menacé après une altercation. Un survivaliste se retrouve piégé dans un abri antiatomique. La brigade du 126 et toute la ville d'Austin se préparent à la chute d'un astéroïde...\n\nRéalisateur(s) : John J. Gray\nActeurs : Rob Lowe (Owen Strand), Gina Torres (Tommy Vega), Ronen Rubinstein (T.K. Strand), Jim Parrack (Judd Ryder), Natacha Karam (Marjan Marwani), Brian Michael Smith (Paul Strickland), Rafael Silva (Carlos Reyes), Julian Works (Mateo Chavez), Brianna Baker (Nancy Gillian), Kelsey Yates (Isabella Vega), Skyler Yates (Evie Vega), Jackson Pace (Wyatt Harris), Annabelle Kavanagh (Ysabel), Miles McKenna (Jax), Jake Brennan (Evan), Wayne Knight (Milton), Catherine Kresge (Alissa), Michael G. Martinez (Agent Sutton), Ned Vaughn (Peter Braswick), Scarlett Bates (Meadow), Derek Webster (Charles Vega), Natalie Burtney (Faith), B Z Cullins (Brooks), Reamy Hall (Officer Ross), Bobby Hernandez (Sgt. Landon), Saylyn Jesse Lucien (Charlie Ryder), Saylyr Ann Lucien (Charlie Ryder), Anton Peeples (Chris), Maurice Warfield (Seymour), Christine Weatherup (Dr. Collins)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguyanefr.svg",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguadeloupefr.svg",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvmartiniquefr.svg",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tvsudmarseillefr.svg",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv7-bordeaux.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2020,
+  "numberOfSeasons": 5,
+  "cast": [
+    {
+      "qid": "Q296505",
+      "slug": "rob-lowe",
+      "name": "Rob Lowe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q62959277",
+      "slug": "ronen-rubinstein",
+      "name": "Ronen Rubinstein",
+      "role": "actor"
+    },
+    {
+      "qid": "Q10898133",
+      "slug": "sierra-mcclain",
+      "name": "Sierra McClain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q973472",
+      "slug": "jim-parrack",
+      "name": "Jim Parrack",
+      "role": "actor"
+    },
+    {
+      "qid": "Q168763",
+      "slug": "liv-tyler",
+      "name": "Liv Tyler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q66317539",
+      "slug": "natacha-karam",
+      "name": "Natacha Karam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q56612688",
+      "slug": "brian-michael-smith",
+      "name": "Brian Michael Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q97926277",
+      "slug": "rafael-l-silva",
+      "name": "Rafael L. Silva",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241471",
+      "slug": "gina-torres",
+      "name": "Gina Torres",
+      "role": "actor"
+    },
+    {
+      "qid": "Q114242610",
+      "slug": "juan-alfonso",
+      "name": "Juan Alfonso",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q316844",
+    "slug": "ryan-murphy",
+    "name": "Ryan Murphy",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

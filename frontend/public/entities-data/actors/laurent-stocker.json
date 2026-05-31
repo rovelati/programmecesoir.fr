@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "laurent-stocker",
+  "name": "Laurent Stocker",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laurent%20Stocker.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-05-23",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3219528",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Laurent_Stocker",
+    "imdb": "nm0830802",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sarah-bernhardt-la-divine",
+      "title": "Sarah Bernhardt, la Divine"
+    },
+    {
+      "type": "film",
+      "slug": "les-pistolets-en-plastique",
+      "title": "Les pistolets en plastique"
+    },
+    {
+      "type": "film",
+      "slug": "vacances-forcees",
+      "title": "Vacances forcées"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "80e500fe-20b7-4a45-8028-3a28b1724220",
+      "title": "Sarah Bernhardt, la Divine",
+      "programSlug": "sarah-bernhardt-la-divine",
+      "programUrl": "/programme/cine-emotion/sarah-bernhardt-la-divine",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 20:37:00+00",
+      "endTime": "2026-04-20 22:13:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fe87a507-19f0-4f95-a887-45371d772aa4",
+      "title": "Les pistolets en plastique",
+      "programSlug": "les-pistolets-en-plastique",
+      "programUrl": "/programme/cine-festival/les-pistolets-en-plastique",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-25 18:50:00+00",
+      "endTime": "2026-04-25 20:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 20:37:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "tu-ne-mentiras-point",
+  "title": "Tu ne mentiras point",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Tu ne mentiras point"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Irlande, à l'aube de Noël, en 1985. Modeste entrepreneur dans la vente de charbon, Bill Furlong se donne tous les moyens pour tenter de maintenir à flot son entreprise, et de subvenir ainsi aux besoins de son épouse et de ses cinq filles. Un jour, lors d'une livraison au couvent de la ville, il tombe par hasard sur une adolescente prénommée Sarah qui lui fait une révélation des plus troublantes et qui le supplie de l'aider. L'inavouable secret qu'il vient de découvrir va contraindre Bill à se confronter à son propre passé et, par la même occasion, au silence complice d'une communauté vivant dans la peur...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q202589",
+      "slug": "cillian-murphy",
+      "name": "Cillian Murphy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131994265",
+      "slug": "q131994265",
+      "name": "Q131994265",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125372931",
+      "slug": "peter-claffey",
+      "name": "Peter Claffey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16902215",
+      "slug": "ian-o-reilly",
+      "name": "Ian O'Reilly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q96059513",
+      "slug": "helen-behan",
+      "name": "Helen Behan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123003397",
+      "slug": "zara-devlin",
+      "name": "Zara Devlin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131994271",
+      "slug": "q131994271",
+      "name": "Q131994271",
+      "role": "actor"
+    },
+    {
+      "qid": "Q110221373",
+      "slug": "cillian-o-gairbhi",
+      "name": "Cillian O'Gairbhi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131994276",
+      "slug": "q131994276",
+      "name": "Q131994276",
+      "role": "actor"
+    },
+    {
+      "qid": "Q517868",
+      "slug": "eileen-walsh",
+      "name": "Eileen Walsh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q126940349",
+      "slug": "liadan-dunlea",
+      "name": "Liadán Dunlea",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131994280",
+      "slug": "q131994280",
+      "name": "Q131994280",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131994281",
+      "slug": "q131994281",
+      "name": "Q131994281",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131994282",
+      "slug": "q131994282",
+      "name": "Q131994282",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131994285",
+      "slug": "q131994285",
+      "name": "Q131994285",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108807081",
+      "slug": "agnes-o-casey",
+      "name": "Agnes O'Casey",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q111343078",
+    "slug": "tim-mielants",
+    "name": "Tim Mielants",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

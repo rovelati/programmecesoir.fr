@@ -1,0 +1,60 @@
+{
+  "type": "series",
+  "slug": "tina-tony",
+  "title": "Tina & Tony",
+  "airingsCount": 26,
+  "sourceTitles": [
+    "Tina & Tony"
+  ],
+  "genres": [
+    "série télévisée comique",
+    "série télévisée pour la jeunesse"
+  ],
+  "description": "Tina, l'éléphant, et Tony, l'hippopotame, sont deux amis inséparables malgré leurs personnalités bien différentes. Ensemble, ils créent et imaginent leur propre monde rempli de joie, d'aventures et d'amour.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "channelNumber": 5,
+      "logoUrl": "/loghi/france-5.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-corse.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2015,
+  "numberOfSeasons": 4,
+  "cast": [],
+  "creator": {
+    "qid": "Q1658580",
+    "slug": "ilja-bereznickas",
+    "name": "Ilja Bereznickas",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

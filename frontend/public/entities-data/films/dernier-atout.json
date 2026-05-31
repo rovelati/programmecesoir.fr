@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "dernier-atout",
+  "title": "Dernier atout",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Dernier atout"
+  ],
+  "genres": [
+    "film ou téléfilm criminel"
+  ],
+  "description": "A Carical, la capitale d'un Etat sud-américain, l'école de police s'apprête à fermer ses portes. La promotion compte deux majors, Montès et Clarence. Pour les départager, les lauréats sont soumis à une épreuve supplémentaire : résoudre une affaire criminelle, le meurtre dans un palace d'un certain Collins, qui était venu là avec sa femme. Clarence semble rapidement se désintéresser de son enquête pour flirter avec une jolie femme, tandis que Montès prend les choses très à coeur. En fait, Collins n'était autre que Toni Amanito, l'ennemi public numéro un, et sa compagne Pearl, surnommée \"la femme aux perles\". Il s'agit d'un règlement de comptes entre associés...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1942,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q2965007",
+      "slug": "christian-argentin",
+      "name": "Christian Argentin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2980609",
+      "slug": "clement-duhour",
+      "name": "Clément Duhour",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3048831",
+      "slug": "edy-debray",
+      "name": "Edy Debray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082209",
+      "slug": "franck-maurice",
+      "name": "Franck Maurice",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3085009",
+      "slug": "francois-joux",
+      "name": "François Joux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q323377",
+      "slug": "gaston-modot",
+      "name": "Gaston Modot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3103428",
+      "slug": "georges-rollin",
+      "name": "Georges Rollin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3121708",
+      "slug": "guy-decomble",
+      "name": "Guy Decomble",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3158224",
+      "slug": "jacques-beauvais",
+      "name": "Jacques Beauvais",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3158588",
+      "slug": "jacques-courtin",
+      "name": "Jacques Courtin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8327598",
+      "slug": "jacques-meyran",
+      "name": "Jacques Meyran",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3171608",
+      "slug": "jean-debucourt",
+      "name": "Jean Debucourt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q323175",
+      "slug": "maurice-baquet",
+      "name": "Maurice Baquet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3301108",
+      "slug": "maurice-marceau",
+      "name": "Maurice Marceau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3301369",
+      "slug": "maurice-salabert",
+      "name": "Maurice Salabert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3302554",
+      "slug": "maxime-fabert",
+      "name": "Maxime Fabert",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55381",
+    "slug": "jacques-becker",
+    "name": "Jacques Becker",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

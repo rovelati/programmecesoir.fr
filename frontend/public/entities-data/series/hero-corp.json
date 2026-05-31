@@ -1,0 +1,60 @@
+{
+  "type": "series",
+  "slug": "hero-corp",
+  "title": "Hero Corp",
+  "airingsCount": 42,
+  "sourceTitles": [
+    "Hero Corp",
+    "Hero Corp - Saison 5"
+  ],
+  "genres": [
+    "comédie dramatique"
+  ],
+  "description": "L'agence Hero Corp et ses super-héros contrôlent la ville de Montréal où règne le calme. Au cours d'une mission de routine hors de la cité, John, Doug, Mique et Stan réalisent qu'au-delà des remparts de protection, tout n'est pas si simple : les habitants de la campagne vivent dans la misère, sont exploités et semblent détester les super-héros. De retour à l'agence, John et ses amis découvrent qu'ils sont devenus indésirables...",
+  "descriptionAi": "Cette comédie dramatique, débutée en 2008, suit les super-héros de l'agence Hero Corp, gardiens d'une Montréal paisible. L'ambiance bascule lorsqu'une mission en campagne révèle une réalité brutale : la misère et une haine féroce envers ces protecteurs. De retour, nos héros se retrouvent paradoxalement rejetés par la cité qu'ils défendaient. La série captive par son ton unique, mêlant humour et gravité pour interroger les notions de héros, de pouvoir et d'illusion du bien-être collectif. Une satire sociale décalée et intelligente à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 21
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 21
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:42:43.950Z",
+  "startYear": 2008,
+  "numberOfSeasons": 5,
+  "cast": [],
+  "creator": {
+    "qid": "Q3484193",
+    "slug": "simon-astier",
+    "name": "Simon Astier",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

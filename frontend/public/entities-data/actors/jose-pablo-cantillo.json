@@ -1,0 +1,78 @@
+{
+  "type": "actor",
+  "slug": "jose-pablo-cantillo",
+  "name": "Jose Pablo Cantillo",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jose%20Pablo%20Cantillo%20at%20the%202008%20Tribeca%20Film%20Festival.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-03-30",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q350014",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jose_Pablo_Cantillo",
+    "imdb": "nm1504678",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "cleaner",
+      "title": "Cleaner"
+    },
+    {
+      "type": "film",
+      "slug": "elysium",
+      "title": "Elysium"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d8a40c73-6744-4f26-bb75-9116b5137a7c",
+      "title": "Cleaner",
+      "programSlug": "cleaner",
+      "programUrl": "/programme/canal-box-office/cleaner",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 13:23:00+00",
+      "endTime": "2026-04-19 14:58:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0337b7ef-f2de-454a-a9b3-91061f89114c",
+      "title": "Elysium",
+      "programSlug": "elysium",
+      "programUrl": "/programme/canal-grand-ecran/elysium",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 21:05:00+00",
+      "endTime": "2026-04-19 22:52:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2130ea8b-11b4-4d5f-a6bf-f24939ee12a1",
+      "title": "Cleaner",
+      "programSlug": "cleaner",
+      "programUrl": "/programme/canal-box-office/cleaner",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 10:14:00+00",
+      "endTime": "2026-04-22 11:49:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 13:23:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

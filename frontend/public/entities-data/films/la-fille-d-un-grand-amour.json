@@ -1,0 +1,101 @@
+{
+  "type": "film",
+  "slug": "la-fille-d-un-grand-amour",
+  "title": "La fille d'un grand amour",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "La fille d'un grand amour"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Ana et Yves se sont aimés passionnément, puis se sont séparés. Des années plus tard, leur fille Cécile, étudiante dans une école de cinéma, se voit confier une mission originale par l'un de ses professeurs. Il lui demande de réaliser un documentaire sur ses parents, en se focalisant sur les détails de leur rencontre. A cette occasion, et pour la première fois depuis des années, Ana et Yves se revoient. Ils découvrent alors qu'ils sont toujours marqués par leur amour passé. Bouleversés par ces retrouvailles aussi surprenantes qu'émouvantes, tous deux se mettent à chercher un chemin pour revenir l'un vers l'autre…",
+  "descriptionAi": "Ce film romantique de 2025 déploie une ambiance à la fois nostalgique et pleine d'espoir. Il explore avec finesse les réminiscences d'un grand amour à travers le regard de Cécile, leur fille, qui tente de capturer l'essence de la rencontre de ses parents pour un documentaire. L'intérêt réside dans ce double récit : la quête cinématographique de la jeune femme et la résurgence de sentiments que ses parents, Ana et Yves, croyaient enfouis. Le film devient alors une touchante réflexion sur la mémoire, les liens familiaux et la seconde chance, le tout porté par des émotions authentiques. Une belle histoire de retrouvailles à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1d36d8ef-7072-43f8-b829-209c5ebe2d3e",
+      "title": "La fille d'un grand amour",
+      "programSlug": "la-fille-d-un-grand-amour",
+      "programUrl": "/programme/cine-emotion/la-fille-d-un-grand-amour",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 20:21:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "14b89eef-c0cd-4c72-992d-7701976c0dac",
+      "title": "La fille d'un grand amour",
+      "programSlug": "la-fille-d-un-grand-amour",
+      "programUrl": "/programme/cine-emotion/la-fille-d-un-grand-amour",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-24 09:59:00+00",
+      "endTime": "2026-04-24 11:31:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q131592574",
+    "wikipedia": "https://fr.wikipedia.org/wiki/La_Fille_d'un_grand_amour",
+    "imdb": "tt32103879",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:27:15.216Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q15147075",
+    "slug": "agnes-de-sacy",
+    "name": "Agnès de Sacy",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

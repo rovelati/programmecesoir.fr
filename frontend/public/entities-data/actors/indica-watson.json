@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "indica-watson",
+  "name": "Indica Watson",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indica%20Watson%20attending%20the%20London%20Premiere%20of%20Radioactive%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "2010-01-20",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q51368788",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indica_Watson",
+    "imdb": "nm8569177",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "radioactive",
+      "title": "Radioactive"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "marc-barbe",
+  "name": "Marc Barbé",
+  "worksCount": 2,
+  "description": "acteur, réalisateur et scénariste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Barb%C3%A9%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1961-05-06",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3287782",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marc_Barb%C3%A9",
+    "imdb": "nm0053903",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "planete-b",
+      "title": "Planète B"
+    },
+    {
+      "type": "series",
+      "slug": "crossing-lines",
+      "title": "Crossing Lines"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

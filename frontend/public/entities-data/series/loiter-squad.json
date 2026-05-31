@@ -1,0 +1,61 @@
+{
+  "type": "series",
+  "slug": "loiter-squad",
+  "title": "Loiter Squad",
+  "airingsCount": 16,
+  "sourceTitles": [
+    "Loiter Squad"
+  ],
+  "genres": [
+    "Série"
+  ],
+  "description": "Dans une villa isolée en plein désert marocain, 14 personnalités du petit écran, les plus joueurs, les meilleurs compétiteurs et les plus grands stratèges, se retrouvent pour une nouvelle saison de \"The Power !\" Chaque semaine, un Power Player prendra le pouvoir et régnera en maître absolu. Son rôle ? Tout contrôler, imposer ses décisions, manipuler les autres, et surtout éliminer l'un des Players ! Cette année, le Power Player pourra désormais désigner deux cibles, plaçant ainsi deux candidats en danger. Delta a décidé d'offrir aux Players qui n'auront pas le pouvoir la possibilité de se rebeller et déstabiliser ses stratégies jusqu'à la dernière seconde. Entre alliances secrètes, manipulations et coups de théâtre, qui aura le pouvoir ?",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 8
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2012,
+  "numberOfSeasons": 2,
+  "cast": [
+    {
+      "qid": "Q167635",
+      "slug": "tyler-the-creator",
+      "name": "Tyler, the Creator",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

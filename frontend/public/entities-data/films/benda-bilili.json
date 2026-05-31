@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "benda-bilili",
+  "title": "Benda Bilili !",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Benda Bilili !"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Staff Benda Bilili (\"Au-delà des apparences\") est un groupe de musiciens, stars du ghetto de Kinshasa, en République démocratique du Congo. Les artistes écument la ville. Cinq d'entre eux, paraplégiques, sont en fauteuils roulants customisés façon Mad Max, jouant sur des instruments faits de bric et de broc. Les premières répétitions, les doutes et quelques péripéties vont vite laisser la place à un franc succès, qui amènera le groupe à jouer dans les festivals du monde entier. Mais le véritable triomphe de ces huit hommes aura été de déjouer les pièges de la misère et de la rue et de trouver, dans la musique, la force d'espérer une vie meilleure...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7822008c-a909-4cd5-809b-f6912a05d36f",
+      "title": "Benda Bilili !",
+      "programSlug": "benda-bilili",
+      "programUrl": "/programme/cine-festival/benda-bilili",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 03:24:00+00",
+      "endTime": "2026-04-23 04:48:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-23 03:24:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "audrey-tautou",
+  "name": "Audrey Tautou",
+  "worksCount": 2,
+  "description": "actrice, mannequin et photographe française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Audrey%20Tautou%20janvier%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-08-09",
+  "nationality": "France",
+  "jobTitle": "mannequin",
+  "externalIds": {
+    "wikidata": "Q304123",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Audrey_Tautou",
+    "imdb": "nm0851582",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "da-vinci-code",
+      "title": "Da Vinci Code"
+    },
+    {
+      "type": "film",
+      "slug": "hors-de-prix",
+      "title": "Hors de prix"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

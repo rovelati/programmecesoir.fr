@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "men-in-black",
+  "title": "Men in Black",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Men in Black"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm de science-fiction",
+    "buddy movie",
+    "film de copains policiers",
+    "comédie"
+  ],
+  "description": "Les \"Men in Black\" sont des agents du gouvernement qui ont une mission secrète bien délicate à remplir. Leur tâche consiste à surveiller les populations extraterrestres sur la Terre et à en assurer l'intégration. La discrétion de leur comportement permet de maintenir de bonnes relations avec les planètes voisines. L'agent K a déjà une longue carrière de M.I.B. derrière lui. Un jour, un engin s'écrase à proximité d'une ferme. Son occupant prend l'apparence d'un paysan, prénommé Edgar. Au même moment, K parvient à convaincre un policier, Edwards, d'intégrer les forces spéciales, sous le nom de l'agent J. Le duo de choc enquête sur les méfaits de l'alien \"Edgar\"...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "channelNumber": 11,
+      "logoUrl": "/loghi/tfx.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1997,
+  "durationMinutes": 94,
+  "cast": [
+    {
+      "qid": "Q170587",
+      "slug": "tommy-lee-jones",
+      "name": "Tommy Lee Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q204393",
+      "slug": "linda-fiorentino",
+      "name": "Linda Fiorentino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q320052",
+      "slug": "vincent-d-onofrio",
+      "name": "Vincent D'Onofrio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313522",
+      "slug": "rip-torn",
+      "name": "Rip Torn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107249",
+      "slug": "tony-shalhoub",
+      "name": "Tony Shalhoub",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1319770",
+      "slug": "jon-gries",
+      "name": "Jon Gries",
+      "role": "actor"
+    },
+    {
+      "qid": "Q496503",
+      "slug": "carel-struycken",
+      "name": "Carel Struycken",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1364838",
+      "slug": "fredric-lehne",
+      "name": "Fredric Lehne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40096",
+      "slug": "will-smith",
+      "name": "Will Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q362332",
+      "slug": "david-cross",
+      "name": "David Cross",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1986671",
+      "slug": "sergio-calderon",
+      "name": "Sergio Calderón",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3528590",
+      "slug": "tim-blaney",
+      "name": "Tim Blaney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271471",
+      "slug": "verne-troyer",
+      "name": "Verne Troyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1673431",
+      "slug": "isaac-mizrahi",
+      "name": "Isaac Mizrahi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457991",
+      "slug": "siobhan-fallon-hogan",
+      "name": "Siobhan Fallon Hogan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2057449",
+      "slug": "patrick-breen",
+      "name": "Patrick Breen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q317567",
+    "slug": "barry-sonnenfeld",
+    "name": "Barry Sonnenfeld",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

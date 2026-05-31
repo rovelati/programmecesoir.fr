@@ -1,0 +1,144 @@
+{
+  "type": "film",
+  "slug": "push",
+  "title": "Push",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Push"
+  ],
+  "genres": [
+    "thriller",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action"
+  ],
+  "description": "Quelques adolescents dotés de pouvoirs paranormaux se réfugient à Hong Kong, où ils unissent leurs forces pour contrer les militaires qui les traquent.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 107,
+  "cast": [
+    {
+      "qid": "Q178348",
+      "slug": "chris-evans",
+      "name": "Chris Evans",
+      "role": "actor"
+    },
+    {
+      "qid": "Q115541",
+      "slug": "dakota-fanning",
+      "name": "Dakota Fanning",
+      "role": "actor"
+    },
+    {
+      "qid": "Q387072",
+      "slug": "camilla-belle",
+      "name": "Camilla Belle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298682",
+      "slug": "djimon-hounsou",
+      "name": "Djimon Hounsou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q359325",
+      "slug": "cliff-curtis",
+      "name": "Cliff Curtis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254205",
+      "slug": "ming-na",
+      "name": "Ming-Na",
+      "role": "actor"
+    },
+    {
+      "qid": "Q594265",
+      "slug": "neil-jackson",
+      "name": "Neil Jackson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242208",
+      "slug": "maggie-siff",
+      "name": "Maggie Siff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q225239",
+      "slug": "joel-gretsch",
+      "name": "Joel Gretsch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q715783",
+      "slug": "li-xiaolu",
+      "name": "Li Xiaolu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1108456",
+      "slug": "colin-ford",
+      "name": "Colin Ford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26231",
+      "slug": "corey-stoll",
+      "name": "Corey Stoll",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1151830",
+      "slug": "nate-mooney",
+      "name": "Nate Mooney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3952855",
+      "slug": "scott-michael-campbell",
+      "name": "Scott Michael Campbell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3783562",
+      "slug": "hal-yamanouchi",
+      "name": "Hal Yamanouchi",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1377534",
+    "slug": "paul-mcguigan",
+    "name": "Paul McGuigan",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

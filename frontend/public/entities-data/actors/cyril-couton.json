@@ -1,0 +1,75 @@
+{
+  "type": "actor",
+  "slug": "cyril-couton",
+  "name": "Cyril Couton",
+  "worksCount": 4,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-03-20",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3008989",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Cyril_Couton",
+    "imdb": "nm1998692",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-petit-nicolas",
+      "title": "Le petit Nicolas"
+    },
+    {
+      "type": "film",
+      "slug": "mon-meilleur-ami",
+      "title": "Mon meilleur ami"
+    },
+    {
+      "type": "film",
+      "slug": "le-tigre-et-le-president",
+      "title": "Le Tigre et le Président"
+    },
+    {
+      "type": "film",
+      "slug": "les-liens-du-sang",
+      "title": "Les liens du sang"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "859fca5e-3e91-4cc0-8855-a64a252c808c",
+      "title": "Le Tigre et le Président",
+      "programSlug": "le-tigre-et-le-president",
+      "programUrl": "/programme/cine-frisson/le-tigre-et-le-president",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 23:18:00+00",
+      "endTime": "2026-04-20 00:53:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fe63be11-7825-458c-9bcb-73d22b6422fa",
+      "title": "Le petit Nicolas",
+      "programSlug": "le-petit-nicolas",
+      "programUrl": "/programme/canal-grand-ecran/le-petit-nicolas",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 17:35:00+00",
+      "endTime": "2026-04-20 19:04:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 23:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

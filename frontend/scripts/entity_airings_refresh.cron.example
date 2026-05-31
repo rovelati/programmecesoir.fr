@@ -1,0 +1,2 @@
+CRON_TZ=Europe/Rome
+17 */6 * * * /home/u914016995/epg_importer_fr/run_entity_airings_refresh.sh >> /home/u914016995/epg_importer_fr/entity_airings_refresh.log 2>&1

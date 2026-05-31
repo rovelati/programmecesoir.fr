@@ -1,0 +1,110 @@
+{
+  "type": "series",
+  "slug": "un-homme-a-part",
+  "title": "Un homme à part",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Un homme à part"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "thriller",
+    "film et téléfilm d'action",
+    "drame",
+    "film de vigilante"
+  ],
+  "description": "Lorsque Leyla Gediz, jeune procureure déterminée, revient à Istanbul, elle pense retrouver uniquement les tensions familiales laissées derrière elle. Mais dès les premiers jours, un événement bouleverse ses repères : le meurtre d'un puissant homme d'affaires. Cette découverte l'entraîne alors dans une enquête complexe mêlant meurtres en série, secrets d'état et traumatismes du passé.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/novelas.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2003,
+  "numberOfSeasons": null,
+  "cast": [
+    {
+      "qid": "Q178166",
+      "slug": "vin-diesel",
+      "name": "Vin Diesel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1805906",
+      "slug": "larenz-tate",
+      "name": "Larenz Tate",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3759876",
+      "slug": "geno-silva",
+      "name": "Geno Silva",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309835",
+      "slug": "timothy-olyphant",
+      "name": "Timothy Olyphant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q562827",
+      "slug": "ken-davitian",
+      "name": "Ken Davitian",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3973330",
+      "slug": "steve-eastin",
+      "name": "Steve Eastin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1469565",
+      "slug": "jeff-kober",
+      "name": "Jeff Kober",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272070",
+      "slug": "jacqueline-obradors",
+      "name": "Jacqueline Obradors",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1710454",
+      "slug": "juan-fernandez-de-alarcon",
+      "name": "Juan Fernández de Alarcon",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q462078",
+    "slug": "f-gary-gray",
+    "name": "F. Gary Gray",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

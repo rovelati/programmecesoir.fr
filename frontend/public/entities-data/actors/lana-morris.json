@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "lana-morris",
+  "name": "Lana Morris",
+  "worksCount": 1,
+  "description": "actrice britannique (1930-1998)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1930-03-11",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3216898",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lana_Morris",
+    "imdb": "nm0606718",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-berets-rouges",
+      "title": "Les bérets rouges"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

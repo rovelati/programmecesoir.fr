@@ -1,0 +1,92 @@
+{
+  "type": "actor",
+  "slug": "philippe-noiret",
+  "name": "Philippe Noiret",
+  "worksCount": 5,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Noiret%20Cannes%201989%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1930-10-01",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q106482",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Philippe_Noiret",
+    "imdb": "nm0634159",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-horloger-de-saint-paul",
+      "title": "L'horloger de Saint-Paul"
+    },
+    {
+      "type": "film",
+      "slug": "le-juge-et-l-assassin",
+      "title": "Le juge et l'assassin"
+    },
+    {
+      "type": "film",
+      "slug": "coup-de-torchon",
+      "title": "Coup de torchon"
+    },
+    {
+      "type": "film",
+      "slug": "que-la-fete-commence",
+      "title": "Que la fête commence"
+    },
+    {
+      "type": "film",
+      "slug": "zazie-dans-le-metro",
+      "title": "Zazie dans le métro"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "41bb0643-9a66-42c6-bc35-76d75761f5b2",
+      "title": "Coup de torchon",
+      "programSlug": "coup-de-torchon",
+      "programUrl": "/programme/cine-classic/coup-de-torchon",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 21:22:00+00",
+      "endTime": "2026-04-24 23:27:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "1e73d553-0bd8-4615-96f4-bfd79a3effee",
+      "title": "Coup de torchon",
+      "programSlug": "coup-de-torchon",
+      "programUrl": "/programme/cine-classic/coup-de-torchon",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-25 06:38:00+00",
+      "endTime": "2026-04-25 08:43:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "86b7d271-194c-4d7a-854b-9ed4945b3edd",
+      "title": "Zazie dans le métro",
+      "programSlug": "zazie-dans-le-metro",
+      "programUrl": "/programme/cine-classic/zazie-dans-le-metro",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-25 08:43:00+00",
+      "endTime": "2026-04-25 10:13:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-24 21:22:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

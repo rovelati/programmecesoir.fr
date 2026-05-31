@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "marie-anne-chazel",
+  "name": "Marie-Anne Chazel",
+  "worksCount": 2,
+  "description": "actrice, réalisatrice et scénariste française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Anne%20Chazel%20-%20Monte-Carlo%20Television%20Festival.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1951-09-19",
+  "nationality": "France",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q459676",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marie-Anne_Chazel",
+    "imdb": "nm0154707",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "30-jours-max",
+      "title": "30 jours max"
+    },
+    {
+      "type": "film",
+      "slug": "ma-famille-t-adore-deja",
+      "title": "Ma famille t'adore déjà"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

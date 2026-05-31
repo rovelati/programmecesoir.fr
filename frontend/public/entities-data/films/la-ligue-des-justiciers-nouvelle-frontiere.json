@@ -1,0 +1,86 @@
+{
+  "type": "film",
+  "slug": "la-ligue-des-justiciers-nouvelle-frontiere",
+  "title": "La ligue des Justiciers : nouvelle frontière",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La ligue des Justiciers : nouvelle frontière"
+  ],
+  "genres": [
+    "cross-over",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm fantastique"
+  ],
+  "description": "A la fin des années 1950, en pleine Guerre froide, les super-héros, dorénavant considérés comme des hors-la-loi, ont pris leur retraite. Seuls Superman et Wonder Woman sont toujours actifs au service du gouvernement, tandis que Batman agit en franc-tireur. Ils reprennent du service alors qu'un danger gravissime menace l'humanité...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 75,
+  "cast": [
+    {
+      "qid": "Q463497",
+      "slug": "miguel-ferrer",
+      "name": "Miguel Ferrer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q485310",
+      "slug": "neil-patrick-harris",
+      "name": "Neil Patrick Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q133112",
+      "slug": "lucy-lawless",
+      "name": "Lucy Lawless",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207506",
+      "slug": "kyle-maclachlan",
+      "name": "Kyle MacLachlan",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q113677615",
+    "slug": "dave-bullock",
+    "name": "Dave Bullock",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "juste-cause",
+  "title": "Juste cause",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Juste cause"
+  ],
+  "genres": [
+    "thriller",
+    "drame",
+    "film ou téléfilm criminel",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Paul Armstrong, un brillant professeur de droit, partisan déclaré de l'abolition de la peine de mort, est contacté par une vieille dame, qui le prie de prendre la défense de son petit-fils, Bobby Earl Ferguson, condamné à mort huit ans auparavant pour le viol et l'assassinat d'une fillette de 11 ans. Armstrong hésite, mais sa femme, Laurie, parvient à le convaincre. Il rend visite à Bobby Earl et découvre un jeune homme cultivé et sympathique, qui avait avoué le meurtre uniquement pour échapper aux sévices que lui faisaient subir les deux enquêteurs. En outre, assure le condamné à mort, un tueur en série lui a confessé avoir commis l'odieux assassinat...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1995,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q4573",
+      "slug": "sean-connery",
+      "name": "Sean Connery",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193048",
+      "slug": "laurence-fishburne",
+      "name": "Laurence Fishburne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40162",
+      "slug": "kate-capshaw",
+      "name": "Kate Capshaw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q525304",
+      "slug": "blair-underwood",
+      "name": "Blair Underwood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104791",
+      "slug": "ed-harris",
+      "name": "Ed Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234360",
+      "slug": "ruby-dee",
+      "name": "Ruby Dee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q34436",
+      "slug": "scarlett-johansson",
+      "name": "Scarlett Johansson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q443004",
+      "slug": "liz-torres",
+      "name": "Liz Torres",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239301",
+      "slug": "hope-lange",
+      "name": "Hope Lange",
+      "role": "actor"
+    },
+    {
+      "qid": "Q281404",
+      "slug": "kevin-mccarthy",
+      "name": "Kevin McCarthy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q363684",
+      "slug": "chris-sarandon",
+      "name": "Chris Sarandon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15944747",
+      "slug": "christopher-murray",
+      "name": "Christopher Murray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q963765",
+      "slug": "daniel-j-travanti",
+      "name": "Daniel J. Travanti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449580",
+      "slug": "lynne-thigpen",
+      "name": "Lynne Thigpen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4212",
+      "slug": "ned-beatty",
+      "name": "Ned Beatty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q537228",
+      "slug": "taral-hicks",
+      "name": "Taral Hicks",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q4794564",
+    "slug": "arne-glimcher",
+    "name": "Arne Glimcher",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "radioactive",
+  "title": "Radioactive",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Radioactive"
+  ],
+  "genres": [
+    "film ou téléfilm biographique",
+    "drame"
+  ],
+  "description": "A Paris, à la fin du XIXe siècle, Marie, d'origine polonaise, veut se lancer dans la science. Malmenée dans un monde d'hommes, elle développe les recherches sur la radioactivité, met au point des techniques innovantes pour isoler les isotopes radioactifs et découvre deux nouveaux éléments : le polonium et le radium. Elle travaille avec son mari Pierre Curie et c'est d'ailleurs sur l'insistance de celui-ci que Marie est reconnue comme son égale. Elle reste à ce jour la seule femme à avoir remporté deux fois le Nobel. Après la mort accidentelle de Pierre, elle crée un scandale en fréquentant le physicien Paul Langevin...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q230004",
+      "slug": "rosamund-pike",
+      "name": "Rosamund Pike",
+      "role": "actor"
+    },
+    {
+      "qid": "Q520001",
+      "slug": "sam-riley",
+      "name": "Sam Riley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20882479",
+      "slug": "anya-taylor-joy",
+      "name": "Anya Taylor-Joy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q245880",
+      "slug": "aneurin-barnard",
+      "name": "Aneurin Barnard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q971782",
+      "slug": "simon-russell-beale",
+      "name": "Simon Russell Beale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7506784",
+      "slug": "sian-brooke",
+      "name": "Sian Brooke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111422694",
+      "slug": "ariella-glaser",
+      "name": "Ariella Glaser",
+      "role": "actor"
+    },
+    {
+      "qid": "Q51368788",
+      "slug": "indica-watson",
+      "name": "Indica Watson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111422699",
+      "slug": "cara-bossom",
+      "name": "Cara Bossom",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111422708",
+      "slug": "edward-davis",
+      "name": "Edward Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q265208",
+      "slug": "katherine-parkinson",
+      "name": "Katherine Parkinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7804515",
+      "slug": "tim-woodward",
+      "name": "Tim Woodward",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6272441",
+      "slug": "jonathan-aris",
+      "name": "Jonathan Aris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108984",
+      "slug": "mirjam-novak",
+      "name": "Mirjam Novak",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1132632",
+      "slug": "corey-johnson",
+      "name": "Corey Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3022086",
+      "slug": "demetri-goritsas",
+      "name": "Demetri Goritsas",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q126633",
+    "slug": "marjane-satrapi",
+    "name": "Marjane Satrapi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

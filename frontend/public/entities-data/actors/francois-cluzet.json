@@ -1,0 +1,87 @@
+{
+  "type": "actor",
+  "slug": "francois-cluzet",
+  "name": "François Cluzet",
+  "worksCount": 4,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/FrancoisCluzet-StudioHarcourt-1987.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1955-09-21",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q600051",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Cluzet",
+    "imdb": "nm0167388",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "11-6",
+      "title": "11.6"
+    },
+    {
+      "type": "film",
+      "slug": "ne-le-dis-a-personne",
+      "title": "Ne le dis à personne"
+    },
+    {
+      "type": "film",
+      "slug": "intouchables",
+      "title": "Intouchables"
+    },
+    {
+      "type": "film",
+      "slug": "les-liens-du-sang",
+      "title": "Les liens du sang"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "09e748f9-347d-43a5-8185-6ad0da211e4a",
+      "title": "Intouchables",
+      "programSlug": "intouchables",
+      "programUrl": "/programme/rts-un/intouchables",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 19:05:00+00",
+      "endTime": "2026-04-19 21:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "eb2c22a7-1329-4ada-813e-3b0fb032b7e4",
+      "title": "Ne le dis à personne",
+      "programSlug": "ne-le-dis-a-personne",
+      "programUrl": "/programme/ocs/ne-le-dis-a-personne",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-24 16:41:00+00",
+      "endTime": "2026-04-24 18:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f584d2b5-fdf2-4137-a111-543e238f4162",
+      "title": "Ne le dis à personne",
+      "programSlug": "ne-le-dis-a-personne",
+      "programUrl": "/programme/ocs/ne-le-dis-a-personne",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 10:20:00+00",
+      "endTime": "2026-04-25 12:29:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 19:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

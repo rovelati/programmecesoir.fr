@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "helene-de-fougerolles",
+  "name": "Hélène de Fougerolles",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A9l%C3%A8ne%20de%20Fougerolles%20Cannes%202009.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-02-25",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q462147",
+    "wikipedia": "https://fr.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_de_Fougerolles",
+    "imdb": "nm0288271",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-cite-de-la-peur",
+      "title": "La cité de la peur"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42611a44-ab50-4e94-98a2-182319fa2b6a",
+      "title": "La cité de la peur",
+      "programSlug": "la-cite-de-la-peur",
+      "programUrl": "/programme/canal-grand-ecran/la-cite-de-la-peur",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 07:57:00+00",
+      "endTime": "2026-04-22 09:35:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 07:57:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

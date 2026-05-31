@@ -1,0 +1,154 @@
+{
+  "type": "film",
+  "slug": "les-enquetes-du-departement-v-misericorde",
+  "title": "Les enquêtes du département V : miséricorde",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les enquêtes du département V : miséricorde",
+    "Les enquêtes du département V : Miséricorde"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film et téléfilm d'horreur",
+    "drame",
+    "adaptation d'un roman au cinéma",
+    "thriller",
+    "film ou téléfilm à énigme"
+  ],
+  "description": "Carl Morck s'est retrouvé rétrogradé aux affaires non résolues, un département peu prisé de la police danoise. Assisté de son collègue Assad, il travaille sur des dossiers vieux de plusieurs années. Tout change quand Carl et Assad sont chargés d'enquêter sur la disparition, vieille de cinq ans, de Merete Lynggaard, une femme politique, qui voyageait sur un ferry avec son frère handicapé. Pour Morck, la thèse du suicide est totalement invalide. Mais son enquête semble déranger des personnes bien placées...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q706673",
+      "slug": "fares-fares",
+      "name": "Fares Fares",
+      "role": "actor"
+    },
+    {
+      "qid": "Q383754",
+      "slug": "nikolaj-lie-kaas",
+      "name": "Nikolaj Lie Kaas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11995280",
+      "slug": "per-scheel-kruger",
+      "name": "Per Scheel-Krüger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q121237",
+      "slug": "mikkel-boe-f-lsgaard",
+      "name": "Mikkel Boe Følsgaard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12303009",
+      "slug": "bebiane-ivalo-kreutzmann",
+      "name": "Bebiane Ivalo Kreutzmann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12308752",
+      "slug": "divya-das",
+      "name": "Divya Das",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12308858",
+      "slug": "dorte-h-jsted",
+      "name": "Dorte Højsted",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12316399",
+      "slug": "henrik-larsen",
+      "name": "Henrik Larsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12319661",
+      "slug": "jesper-riefensthal",
+      "name": "Jesper Riefensthal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12323706",
+      "slug": "lane-lind",
+      "name": "Lane Lind",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12325728",
+      "slug": "magnus-millang",
+      "name": "Magnus Millang",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12326057",
+      "slug": "marie-louise-coninck",
+      "name": "Marie-Louise Coninck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12326106",
+      "slug": "marijana-jankovic",
+      "name": "Marijana Janković",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12326893",
+      "slug": "michael-brostrup",
+      "name": "Michael Brostrup",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12327695",
+      "slug": "morten-kirkskov",
+      "name": "Morten Kirkskov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12327753",
+      "slug": "morten-thunbo",
+      "name": "Morten Thunbo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q12327179",
+    "slug": "mikkel-n-rgaard",
+    "name": "Mikkel Nørgaard",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

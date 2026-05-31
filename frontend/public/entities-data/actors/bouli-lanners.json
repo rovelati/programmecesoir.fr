@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "bouli-lanners",
+  "name": "Bouli Lanners",
+  "worksCount": 3,
+  "description": "acteur, réalisateur et scénariste belge",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bouli%20Lanners.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-05-20",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q895091",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bouli_Lanners",
+    "imdb": "nm0099521",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "11-6",
+      "title": "11.6"
+    },
+    {
+      "type": "film",
+      "slug": "tueurs",
+      "title": "Tueurs"
+    },
+    {
+      "type": "film",
+      "slug": "9-mois-ferme",
+      "title": "9 mois ferme"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

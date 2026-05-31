@@ -1,0 +1,71 @@
+{
+  "type": "film",
+  "slug": "zmane-al-3ager",
+  "title": "Zmane al 3ager",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Zmane al 3ager"
+  ],
+  "genres": [
+    "Telefilms"
+  ],
+  "description": null,
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b301c78e-bc84-45ae-aa7b-21b63180b5f6",
+      "title": "Zmane al 3ager",
+      "programSlug": "zmane-al-3ager",
+      "programUrl": "/programme/2m-maroc/zmane-al-3ager",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-20 09:25:00+00",
+      "endTime": "2026-04-20 11:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "350c95dd-4dac-4431-b4c8-7537a889e23f",
+      "title": "Zmane al 3ager",
+      "programSlug": "zmane-al-3ager",
+      "programUrl": "/programme/2m-maroc/zmane-al-3ager",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-20 23:55:00+00",
+      "endTime": "2026-04-21 01:50:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 09:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,145 @@
+{
+  "type": "film",
+  "slug": "a-toute-allure",
+  "title": "A toute allure",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "A toute allure"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "comédie",
+    "film ou téléfilm criminel",
+    "road movie"
+  ],
+  "description": "Marianne est officier dans un sous-marin nucléaire. Marco est chef de cabine dans une compagnie aérienne. Ils se rencontrent dans un bar lors d'une escale. Mais au grand dam de Marco, leur histoire naissante doit subitement s'interrompre, un fait qui émeut peu Marianne, qui ne prévoyait rien de plus qu'une simple aventure d'un soir. Tombé fou amoureux, Marco, lui, refuse d'abandonner si facilement. Il décide de s'infiltrer discrètement dans le sous-marin de Marianne, convaincu de pouvoir la conquérir en faisant preuve d'un tel \"romantisme\"...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1994,
+  "durationMinutes": 88,
+  "cast": [
+    {
+      "qid": "Q103939",
+      "slug": "charlie-sheen",
+      "name": "Charlie Sheen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238394",
+      "slug": "kristy-swanson",
+      "name": "Kristy Swanson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q636324",
+      "slug": "rocky-carroll",
+      "name": "Rocky Carroll",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318509",
+      "slug": "henry-rollins",
+      "name": "Henry Rollins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q961297",
+      "slug": "josh-mostel",
+      "name": "Josh Mostel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q530646",
+      "slug": "ray-wise",
+      "name": "Ray Wise",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241909",
+      "slug": "claudia-christian",
+      "name": "Claudia Christian",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311093",
+      "slug": "cary-elwes",
+      "name": "Cary Elwes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q204751",
+      "slug": "anthony-kiedis",
+      "name": "Anthony Kiedis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202859",
+      "slug": "michael-balzary",
+      "name": "Michael Balzary",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3566829",
+      "slug": "wayne-grace",
+      "name": "Wayne Grace",
+      "role": "actor"
+    },
+    {
+      "qid": "Q679987",
+      "slug": "marshall-bell",
+      "name": "Marshall Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1966135",
+      "slug": "natalia-nogulich",
+      "name": "Natalia Nogulich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q503013",
+      "slug": "ron-jeremy",
+      "name": "Ron Jeremy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3218753",
+      "slug": "laure-duthilleul",
+      "name": "Laure Duthilleul",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q350710",
+    "slug": "adam-rifkin",
+    "name": "Adam Rifkin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

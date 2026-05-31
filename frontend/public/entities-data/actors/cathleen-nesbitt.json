@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "cathleen-nesbitt",
+  "name": "Cathleen Nesbitt",
+  "worksCount": 1,
+  "description": "actrice britannique (1888-1982)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cathleen%20Nesbitt.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1888-11-24",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q264713",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Cathleen_Nesbitt",
+    "imdb": "nm0626350",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "elle-et-lui",
+      "title": "Elle et lui"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b5a393c-cb73-4b59-8c85-4bc4be080ce6",
+      "title": "Elle et lui",
+      "programSlug": "elle-et-lui",
+      "programUrl": "/programme/cine-classic/elle-et-lui",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-21 04:12:00+00",
+      "endTime": "2026-04-21 05:37:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 04:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

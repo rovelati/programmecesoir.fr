@@ -1,0 +1,141 @@
+{
+  "type": "film",
+  "slug": "black-adam",
+  "title": "Black Adam",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Black Adam"
+  ],
+  "genres": [
+    "film de super-héros",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm de fantasy",
+    "film et téléfilm d'action",
+    "film et téléfilm fantastique",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Il y a 5000 ans, Black Adam a été emprisonné pour avoir vengé l'assassinat de son fils. Aujourd'hui libéré, il décide d'utiliser les super-pouvoirs dont il a hérité des anciens dieux afin de rendre la justice selon ses critères. Mais ses agissements ne passent pas inaperçus, notamment pour la Justice Society of America, qui souhaite tout d'abord l'arrêter avant de comprendre qu'il peut leur apporter beaucoup plus sur Terre que derrière des barreaux. Mais la tâche s'annonce plus compliquée que prévu au vu du caractère du personnage...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab3.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 124,
+  "cast": [
+    {
+      "qid": "Q10738",
+      "slug": "dwayne-johnson",
+      "name": "Dwayne Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230530",
+      "slug": "sarah-shahi",
+      "name": "Sarah Shahi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1319798",
+      "slug": "aldis-hodge",
+      "name": "Aldis Hodge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3877574",
+      "slug": "noah-centineo",
+      "name": "Noah Centineo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q86643595",
+      "slug": "quintessa-swindell",
+      "name": "Quintessa Swindell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q81520",
+      "slug": "pierce-brosnan",
+      "name": "Pierce Brosnan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13817318",
+      "slug": "marwan-kenzari",
+      "name": "Marwan Kenzari",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6892966",
+      "slug": "mohammed-amer",
+      "name": "Mohammed Amer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19875117",
+      "slug": "uli-latukefu",
+      "name": "Uli Latukefu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q100546600",
+      "slug": "james-cusati-moyer",
+      "name": "James Cusati-Moyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13479530",
+      "slug": "joseph-gatt",
+      "name": "Joseph Gatt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23938911",
+      "slug": "tang-nguyen",
+      "name": "Tang Nguyen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229181",
+      "slug": "viola-davis",
+      "name": "Viola Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295498",
+      "slug": "henry-cavill",
+      "name": "Henry Cavill",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q357183",
+    "slug": "jaume-collet-serra",
+    "name": "Jaume Collet-Serra",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

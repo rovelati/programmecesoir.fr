@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "eli-roth",
+  "name": "Eli Roth",
+  "worksCount": 1,
+  "description": "acteur et réalisateur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/EliRothIBAug09.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-04-18",
+  "nationality": "États-Unis",
+  "jobTitle": "producteur ou productrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q358714",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Eli_Roth",
+    "imdb": "nm0744834",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "boulevard-de-la-mort",
+      "title": "Boulevard de la mort"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

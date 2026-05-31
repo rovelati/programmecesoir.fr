@@ -1,0 +1,57 @@
+{
+  "type": "series",
+  "slug": "steven-universe",
+  "title": "Steven Universe",
+  "airingsCount": 17,
+  "sourceTitles": [
+    "Steven Universe"
+  ],
+  "genres": [
+    "série télévisée de fantasy",
+    "programme de télévision initiatique",
+    "comédie dramatique",
+    "série télévisée d'aventures",
+    "musical",
+    "série télévisée de science-fiction",
+    "série télévisée pour la jeunesse"
+  ],
+  "description": "Steven découvre qu'Améthyste, lassée d'être sans arrêt critiquée par Perle et Grenat, se défoule tous les soirs dans des compétitions de catch où elle peut enfin être elle-même...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cartoon-network.png",
+      "airingsCount": 17
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2013,
+  "numberOfSeasons": 5,
+  "cast": [],
+  "creator": {
+    "qid": "Q12569944",
+    "slug": "rebecca-sugar",
+    "name": "Rebecca Sugar",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

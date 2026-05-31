@@ -1,0 +1,129 @@
+{
+  "type": "series",
+  "slug": "dora",
+  "title": "Dora",
+  "airingsCount": 62,
+  "sourceTitles": [
+    "Dora"
+  ],
+  "genres": [
+    "Série",
+    "Série TV",
+    "Séries d'animation"
+  ],
+  "description": "Dora et Babouche passent une belle journée à la plage quand ils rencontrent Snow, un nuage que le vent a poussé loin de la Montage enneigée. Snow doit vite y retourner pour couvrir la montagne de neige. Dora et Babouche la ramènent chez elle, en traversant la forêt tropicale et une grotte de glace magique...",
+  "descriptionAi": "Cette série d'animation invite à un voyage éducatif et joyeux aux côtés de l'intrépide Dora. Mêlant aventure et découverte, elle crée une ambiance à la fois dynamique et bienveillante, parfaite pour les jeunes téléspectateurs. Son intérêt réside dans son approche interactive qui encourage la participation et l'apprentissage de notions simples, le tout porté par des personnages attachants. Une aventure colorée qui stimule la curiosité tout en divertissant. Ne manquez pas ses épisodes à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon-junior.png",
+      "airingsCount": 60
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2b6c3152-58df-4f87-a01c-d5fe96155256",
+      "title": "Dora",
+      "programSlug": "dora",
+      "programUrl": "/programme/nickelodeon-junior/dora",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 06:49:00+00",
+      "endTime": "2026-04-19 07:11:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a2ec3479-a6e1-4db2-844a-b0b637c12aec",
+      "title": "Dora",
+      "programSlug": "dora",
+      "programUrl": "/programme/nickelodeon-junior/dora",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 07:11:00+00",
+      "endTime": "2026-04-19 07:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "351f4af0-bb9a-4fe5-aad1-464c0c4e5b3d",
+      "title": "Dora",
+      "programSlug": "dora",
+      "programUrl": "/programme/nickelodeon-junior/dora",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 11:09:00+00",
+      "endTime": "2026-04-19 11:31:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "05f4cc15-1026-4e31-b8c3-b9ffa7449fbd",
+      "title": "Dora",
+      "programSlug": "dora",
+      "programUrl": "/programme/nickelodeon-junior/dora",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 11:31:00+00",
+      "endTime": "2026-04-19 11:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dbbcf2d1-c5f0-49e4-b119-9bac5e4ceeff",
+      "title": "Dora",
+      "programSlug": "dora",
+      "programUrl": "/programme/nickelodeon-junior/dora",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 17:19:00+00",
+      "endTime": "2026-04-19 17:41:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9cc6688d-c8e8-450e-aed9-b37138fcc82c",
+      "title": "Dora",
+      "programSlug": "dora",
+      "programUrl": "/programme/nickelodeon-junior/dora",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 17:41:00+00",
+      "endTime": "2026-04-19 18:04:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T22:41:26.620Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 06:49:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

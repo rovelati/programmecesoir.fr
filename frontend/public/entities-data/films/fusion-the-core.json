@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "fusion-the-core",
+  "title": "Fusion, The Core",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Fusion, The Core"
+  ],
+  "genres": [
+    "Film de suspense",
+    "Cinéma"
+  ],
+  "description": "A la suite de diverses catastrophes, le géophysicien Josh Keyes découvre que le noyau de la Terre s'est arrêté de tourner sur lui-même. Privé de ce mouvement, la planète sera bientôt dénuée de tout champ électromagnétique protecteur et l'humanité anéantie. Une expédition internationale est alors envoyée au centre de la Terre pour tenter de relancer le noyau grâce à une explosion nucléaire.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

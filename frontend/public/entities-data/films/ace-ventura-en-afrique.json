@@ -1,0 +1,131 @@
+{
+  "type": "film",
+  "slug": "ace-ventura-en-afrique",
+  "title": "Ace Ventura en Afrique",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Ace Ventura en Afrique"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Détective spécialisé dans la recherche d'animaux, Ace Ventura est accablé par l'échec d'une mission de sauvetage d'un raton laveur en Himalaya. Il se retire dans une lamaserie tibétaine, où un émissaire lui rend visite pour lui demander de retrouver une chauve-souris sacrée mystérieusement disparue...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "612495e8-9d36-460c-a3ef-7f3f65e6d239",
+      "title": "Ace Ventura en Afrique",
+      "programSlug": "ace-ventura-en-afrique",
+      "programUrl": "/programme/cine-family/ace-ventura-en-afrique",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:01:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1995,
+  "durationMinutes": 94,
+  "cast": [
+    {
+      "qid": "Q40504",
+      "slug": "jim-carrey",
+      "name": "Jim Carrey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1655608",
+      "slug": "ian-mcneice",
+      "name": "Ian McNeice",
+      "role": "actor"
+    },
+    {
+      "qid": "Q731187",
+      "slug": "simon-callow",
+      "name": "Simon Callow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6797398",
+      "slug": "maynard-eziashi",
+      "name": "Maynard Eziashi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q352203",
+      "slug": "bob-gunton",
+      "name": "Bob Gunton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238864",
+      "slug": "sophie-okonedo",
+      "name": "Sophie Okonedo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q368587",
+      "slug": "tommy-davidson",
+      "name": "Tommy Davidson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q704314",
+      "slug": "bruce-spence",
+      "name": "Bruce Spence",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294586",
+      "slug": "adewale-akinnuoye-agbaje",
+      "name": "Adewale Akinnuoye-Agbaje",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1228672",
+      "slug": "ken-kirzinger",
+      "name": "Ken Kirzinger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3229155",
+      "slug": "leif-tilden",
+      "name": "Leif Tilden",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q562063",
+    "slug": "steve-oedekerk",
+    "name": "Steve Oedekerk",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 11:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,515 @@
+{
+  "type": "series",
+  "slug": "un-si-grand-soleil",
+  "title": "Un si grand soleil",
+  "airingsCount": 641,
+  "sourceTitles": [
+    "Un si grand soleil",
+    "Un si grand soleil - Saison 5",
+    "Un si grand soleil - Saison 7",
+    "Un si grand soleil - Saison 8"
+  ],
+  "genres": [
+    "soap opera",
+    "feuilleton télévisé"
+  ],
+  "description": "La police commence à s'intéresser à la commande frauduleuse de chez L. Cosmétiques. Paloma révèle à Kira que, dans son couple, c'est elle qui porte la charge mentale.\n\nRéalisateur(s) : Christophe Barbier, Julien Seri, Chris Nahon, David Durca\nActeurs : Mélanie Maudran (Claire Estrela), Moïse Santamaria (Manu Léoni), Yvon Back (Clément Becker), Tonya Kinzinger (Janet), Frédéric Van den Driessche (Alain Alphand), Chrystelle Labaude (Elisabeth Bastide), Emma Colberti (Eve), Benjamin Bourgois (Alexandre Lévy), Marie-Gaëlle Cals (Cécile Alphand), Fabrice Deville (Florent Graçay), Aurore Delplace (Johanna Lemeur), Nadia Fossier (Alix), Sophie Le Tellier (Hélène)",
+  "descriptionAi": "Ce feuilleton télévisé, diffusé depuis 2018, mêle intrigues policières et drames familiaux au cœur de Montpellier. Entre suspense et émotion, il plonge le téléspectateur dans les vies entrelacées d'une communauté où secrets et passions s'affrontent. L'intérêt réside dans l'équilibre entre les enquêtes captivantes, comme celle sur L. Cosmétiques, et la profondeur des relations humaines, illustrée par les confessions de Paloma sur la charge mentale. Une fresque humaine addictive, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 20
+    },
+    {
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-corse.png",
+      "airingsCount": 41
+    },
+    {
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv5-monde.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tvsudmarseillefr.svg",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv7-bordeaux.png",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguyanefr.svg",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvmartiniquefr.svg",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguadeloupefr.svg",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 20
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4b03529a-29e6-4bbe-8112-fdc8ab466cd4",
+      "title": "Un si grand soleil",
+      "programSlug": "un-si-grand-soleil",
+      "programUrl": "/programme/france-3-corse/un-si-grand-soleil",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 18:45:00+00",
+      "endTime": "2026-04-19 19:06:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d9fe0844-de1e-4167-8576-8d525acd51d1",
+      "title": "Un si grand soleil",
+      "programSlug": "un-si-grand-soleil",
+      "programUrl": "/programme/france-3-corse/un-si-grand-soleil",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 19:06:00+00",
+      "endTime": "2026-04-19 19:28:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1d02b1cf-be17-4653-adac-50de86219b4c",
+      "title": "Un si grand soleil",
+      "programSlug": "un-si-grand-soleil",
+      "programUrl": "/programme/france-3-corse/un-si-grand-soleil",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 19:28:00+00",
+      "endTime": "2026-04-19 19:49:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7acd1c4b-c3fb-40b9-bf56-405e442086d8",
+      "title": "Un si grand soleil",
+      "programSlug": "un-si-grand-soleil",
+      "programUrl": "/programme/france-3-corse/un-si-grand-soleil",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 19:49:00+00",
+      "endTime": "2026-04-19 20:11:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "df8f62c1-e3cf-43e6-a228-93591107fe9d",
+      "title": "Un si grand soleil",
+      "programSlug": "un-si-grand-soleil",
+      "programUrl": "/programme/france-3-corse/un-si-grand-soleil",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 20:11:00+00",
+      "endTime": "2026-04-19 20:33:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "01fc256c-ea92-4732-bec6-d5fd633aa1ea",
+      "title": "Un si grand soleil - Saison 7",
+      "programSlug": "un-si-grand-soleil-saison-7",
+      "programUrl": "/programme/tv5-monde/un-si-grand-soleil-saison-7",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-20 11:00:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ddf0e720-f0b8-4e27-b509-5647c0dc8242",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3-rhone-alpes/un-si-grand-soleil-saison-8",
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "96a18c94-f1bb-4c28-b410-cf0e744eff7c",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3/un-si-grand-soleil-saison-8",
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bf1a5ae3-d1be-4258-a6ed-4cfa5385cbef",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3-alpes/un-si-grand-soleil-saison-8",
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "94a5958b-a0aa-409c-bab6-cbd089d056fe",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3-alsace/un-si-grand-soleil-saison-8",
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8920a04c-4c4f-4615-9c48-c2ab4dd0f682",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3-aquitaine/un-si-grand-soleil-saison-8",
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "1c2f3717-0083-442a-9a9c-a0d3152f05c4",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3-basse-normandie/un-si-grand-soleil-saison-8",
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "11f0df25-af95-4f1a-947c-65e83fdbc2e1",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3-bourgogne/un-si-grand-soleil-saison-8",
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e93f9054-1fe6-4081-8cce-c21d9137da8f",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3-bretagne/un-si-grand-soleil-saison-8",
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3f062db1-acb2-480c-aa89-a76358872747",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3-centre/un-si-grand-soleil-saison-8",
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "15f46891-f3b2-428d-9d8b-4f361b182404",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3-champagne-ardenne/un-si-grand-soleil-saison-8",
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e9a01027-6373-4338-b0d9-253147865374",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3-franche-comte/un-si-grand-soleil-saison-8",
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5307bdc9-a270-4db2-8dfc-c5d3b9b3df72",
+      "title": "Un si grand soleil - Saison 8",
+      "programSlug": "un-si-grand-soleil-saison-8",
+      "programUrl": "/programme/france-3-haute-normandie/un-si-grand-soleil-saison-8",
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "startTime": "2026-04-20 18:25:00+00",
+      "endTime": "2026-04-20 18:45:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q56309042",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Un_si_grand_soleil",
+    "imdb": "tt8883922",
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T22:06:06.409Z",
+  "startYear": 2018,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 18:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

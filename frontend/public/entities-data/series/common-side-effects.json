@@ -1,0 +1,64 @@
+{
+  "type": "series",
+  "slug": "common-side-effects",
+  "title": "Common Side Effects",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Common Side Effects"
+  ],
+  "genres": [
+    "satire",
+    "science-fiction",
+    "aventure",
+    "série d'animation pour adultes",
+    "comédie dramatique",
+    "thriller conspirationniste"
+  ],
+  "description": "Marshall est sauvé par un autre détenu, à qui il doit maintenant obéir. Il cherche désespérément à sortir de prison, et élabore un plan très risqué après avoir rencontré une alliée inattendue. Frances est confrontée à un événement bouleversant.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2025,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": {
+    "qid": "Q7612811",
+    "slug": "steve-hely",
+    "name": "Steve Hely",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

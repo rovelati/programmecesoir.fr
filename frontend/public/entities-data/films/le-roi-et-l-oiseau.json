@@ -1,0 +1,69 @@
+{
+  "type": "film",
+  "slug": "le-roi-et-l-oiseau",
+  "title": "Le roi et l'oiseau",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le roi et l'oiseau"
+  ],
+  "genres": [
+    "film d'animation",
+    "film ou téléfilm familial",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'amour",
+    "conte merveilleux",
+    "pritcha"
+  ],
+  "description": "En son château labyrinthique, le roi de Takicardie, triste personnage tyrannique et fat, se pâme d'amour pour une jolie bergère, peinte sur l'une des boiseries de sa chambre. Mais la bergère aime le ramoneur, son voisin. Les tourtereaux prennent la fuite. Furieux, le roi fait rechercher la bergère...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/B.Fi%C3%A9v%C3%A9-G%C3%A9meaux%201.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "47bb2c83-cee7-4f7a-b8c5-f6c0a92e48cd",
+      "title": "Le roi et l'oiseau",
+      "programSlug": "le-roi-et-l-oiseau",
+      "programUrl": "/programme/cine-family/le-roi-et-l-oiseau",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 03:53:00+00",
+      "endTime": "2026-04-25 05:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1980,
+  "durationMinutes": 81,
+  "cast": [],
+  "director": {
+    "qid": "Q1351064",
+    "slug": "paul-grimault",
+    "name": "Paul Grimault",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 03:53:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

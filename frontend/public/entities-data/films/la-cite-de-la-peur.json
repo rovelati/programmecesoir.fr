@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "la-cite-de-la-peur",
+  "title": "La cité de la peur",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "La cité de la peur"
+  ],
+  "genres": [
+    "film ou téléfilm parodique",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Odile Deray, attachée de presse, se démène pour faire parler de son film, \"Red Is Dead\". En compétition au Festival de Cannes, ce navet raconte l'histoire d'un sidérurgiste qui assassine ses victimes avec un marteau et une faucille. Or, après chaque projection et avec une régularité de métronome, un maniaque élimine les projectionnistes de la même manière. Odile voit du meilleur oeil ces crimes qui assurent à son fichu navet une promotion aussi efficace qu'inespérée. Profitant de cet engouement de la presse autour de l'\"affaire\", elle fait venir à Cannes l'interprète principal du film, Simon Jérémi, protégé par son garde du corps, Serge Karamazov. Ce dernier n'a d'yeux que pour les starlettes qui tapissent les lieux. Bialès, le commissaire chargé de l'enquête, est obsédé quant à lui par les médias...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Les%20nuls%2006-1999.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42611a44-ab50-4e94-98a2-182319fa2b6a",
+      "title": "La cité de la peur",
+      "programSlug": "la-cite-de-la-peur",
+      "programUrl": "/programme/canal-grand-ecran/la-cite-de-la-peur",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 07:57:00+00",
+      "endTime": "2026-04-22 09:35:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1994,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q448021",
+      "slug": "alain-chabat",
+      "name": "Alain Chabat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q958831",
+      "slug": "gerard-darmon",
+      "name": "Gérard Darmon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3470502",
+      "slug": "sam-karmann",
+      "name": "Sam Karmann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2865970",
+      "slug": "artus-de-penguern",
+      "name": "Artus de Penguern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2956299",
+      "slug": "chantal-lauby",
+      "name": "Chantal Lauby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q663553",
+      "slug": "daniel-gelin",
+      "name": "Daniel Gélin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q346102",
+      "slug": "dominique-besnehard",
+      "name": "Dominique Besnehard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3035143",
+      "slug": "dominique-farrugia",
+      "name": "Dominique Farrugia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3047356",
+      "slug": "eddy-mitchell",
+      "name": "Eddy Mitchell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3591317",
+      "slug": "eric-prat",
+      "name": "Éric Prat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3074038",
+      "slug": "florence-viala",
+      "name": "Florence Viala",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16832002",
+      "slug": "geraldine-bonnet-guerin",
+      "name": "Géraldine Bonnet-Guérin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q462147",
+      "slug": "helene-de-fougerolles",
+      "name": "Hélène de Fougerolles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2493753",
+      "slug": "jean-christophe-bouvet",
+      "name": "Jean-Christophe Bouvet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q981203",
+      "slug": "jean-pierre-bacri",
+      "name": "Jean-Pierre Bacri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3288528",
+      "slug": "marc-de-jonge",
+      "name": "Marc de Jonge",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2829550",
+    "slug": "alain-berberian",
+    "name": "Alain Berbérian",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 07:57:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

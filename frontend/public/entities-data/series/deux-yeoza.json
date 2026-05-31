@@ -1,0 +1,96 @@
+{
+  "type": "series",
+  "slug": "deux-yeoza",
+  "title": "Deux Yeoza",
+  "airingsCount": 9,
+  "sourceTitles": [
+    "Deux Yeoza"
+  ],
+  "genres": [
+    "Série",
+    "Série TV"
+  ],
+  "description": "Le résumé n'est pas disponible",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/gongfr.svg",
+      "airingsCount": 9
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d5405e4b-23f7-4ec9-a4a3-e149a779b787",
+      "title": "Deux Yeoza",
+      "programSlug": "deux-yeoza",
+      "programUrl": "/programme/gongfr/deux-yeoza",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-21 16:55:00+00",
+      "endTime": "2026-04-21 17:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c148f41f-fc02-4f93-b3a7-51c13684835d",
+      "title": "Deux Yeoza",
+      "programSlug": "deux-yeoza",
+      "programUrl": "/programme/gongfr/deux-yeoza",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-22 16:55:00+00",
+      "endTime": "2026-04-22 17:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "17f55875-67ec-453f-b4f3-7ef6ad603aa5",
+      "title": "Deux Yeoza",
+      "programSlug": "deux-yeoza",
+      "programUrl": "/programme/gongfr/deux-yeoza",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-23 16:50:00+00",
+      "endTime": "2026-04-23 17:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "b88063d3-3037-4c1d-b95f-c1d4235370a5",
+      "title": "Deux Yeoza",
+      "programSlug": "deux-yeoza",
+      "programUrl": "/programme/gongfr/deux-yeoza",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-24 16:55:00+00",
+      "endTime": "2026-04-24 17:15:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-21 16:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

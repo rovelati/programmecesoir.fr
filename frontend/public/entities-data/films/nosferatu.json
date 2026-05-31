@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "nosferatu",
+  "title": "Nosferatu",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Nosferatu"
+  ],
+  "genres": [
+    "film de vampires",
+    "drame"
+  ],
+  "description": "1838. Thomas Hutter, un clerc de notaire, est envoyé en Transylvanie, dans les Carpates, chez le comte Orlok, pour lui faire signer l'acte d'achat d'une propriété, voisine de sa maison de Wisborg, en Allemagne. Malgré les mises en garde des paysans, Thomas décide de passer la nuit dans le sinistre château du comte. Celui-ci enferme le jeune homme dans sa demeure et se met en route pour Wisborg. Orlok, qui s'avère être un vampire, a l'intention de rejoindre Ellen, l'épouse de Thomas, dont il est follement épris. Depuis des semaines, la jeune femme, sous l'emprise d'Orlok, est tourmentée par de terribles cauchemars et des crises de somnambulisme...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1979,
+  "durationMinutes": 107,
+  "cast": [
+    {
+      "qid": "Q55419",
+      "slug": "klaus-kinski",
+      "name": "Klaus Kinski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106383",
+      "slug": "isabelle-adjani",
+      "name": "Isabelle Adjani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123206",
+      "slug": "bruno-ganz",
+      "name": "Bruno Ganz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q550806",
+      "slug": "q550806",
+      "name": "Q550806",
+      "role": "actor"
+    },
+    {
+      "qid": "Q615795",
+      "slug": "jacques-dufilho",
+      "name": "Jacques Dufilho",
+      "role": "actor"
+    },
+    {
+      "qid": "Q85718",
+      "slug": "walter-ladengast",
+      "name": "Walter Ladengast",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262886",
+      "slug": "rijk-de-gooyer",
+      "name": "Rijk de Gooyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16540379",
+      "slug": "clemens-scheitz",
+      "name": "Clemens Scheitz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q97616",
+      "slug": "dan-van-husen",
+      "name": "Dan van Husen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1116846",
+      "slug": "jan-groth",
+      "name": "Jan Groth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1819827",
+      "slug": "john-leddy",
+      "name": "John Leddy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2214171",
+      "slug": "lo-van-hensbergen",
+      "name": "Lo van Hensbergen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44131",
+      "slug": "werner-herzog",
+      "name": "Werner Herzog",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2548001",
+      "slug": "tim-beekman",
+      "name": "Tim Beekman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1310972",
+      "slug": "norbert-losch",
+      "name": "Norbert Losch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2530520",
+      "slug": "johan-te-slaa",
+      "name": "Johan te Slaa",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q44131",
+    "slug": "werner-herzog",
+    "name": "Werner Herzog",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

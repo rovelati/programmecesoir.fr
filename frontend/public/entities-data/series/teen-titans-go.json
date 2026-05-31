@@ -1,0 +1,432 @@
+{
+  "type": "series",
+  "slug": "teen-titans-go",
+  "title": "Teen Titans Go !",
+  "airingsCount": 171,
+  "sourceTitles": [
+    "Teen Titans Go !"
+  ],
+  "genres": [
+    "Série d'animation",
+    "Série"
+  ],
+  "description": "C'est un matin comme tous les autres qui commence. Robin fait tranquillement sa toilette tout en parlant à son magnifique reflet dans le miroir. Mais… l'alerte retentit ! Un monstre s'attaque à la ville et se dirige vers la centrale électrique.",
+  "descriptionAi": "Cette série d'animation décalée suit les aventures quotidiennes et héroïques des célèbres Teen Titans dans leur tour. Loin du ton épique habituel, l'ambiance est résolument comique, absurde et pleine d'autodérision, transformant la vie de super-héros en une sitcom farfelue. Ce qui la rend si attachante, c'est son humour irrévérencieux, ses références à la culture pop et la dynamique hilarante entre les personnages, qui passent plus de temps à se chamailler qu'à sauver le monde. Un divertissement léger et espiègle pour tous les âges, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cartoon-network.png",
+      "airingsCount": 147
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ea4c3e2b-78c9-4227-8c84-e14ab164c6a8",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 10:00:00+00",
+      "endTime": "2026-04-19 10:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b427cbc2-143b-435c-a122-b666cc559670",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 10:15:00+00",
+      "endTime": "2026-04-19 10:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fb1742d2-f65e-4067-b11e-27f98e202124",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 10:25:00+00",
+      "endTime": "2026-04-19 10:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1cb98bb2-731e-4a52-a711-f9936d6be9d7",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 10:35:00+00",
+      "endTime": "2026-04-19 10:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c19d7a0c-6369-4e24-b346-a0050dfa8d17",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 12:45:00+00",
+      "endTime": "2026-04-19 12:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "51986d47-7bc8-4a75-ac51-3e0155df495a",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 12:55:00+00",
+      "endTime": "2026-04-19 13:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "95db5b4a-755f-4b19-a509-dec19cd26ce7",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 13:05:00+00",
+      "endTime": "2026-04-19 13:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9ea10626-a551-4ac7-8c94-cc487b07b3fe",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 13:15:00+00",
+      "endTime": "2026-04-19 13:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e24294d4-6100-4e7d-a67f-36d42d862a0c",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 15:00:00+00",
+      "endTime": "2026-04-19 15:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "eefc1d5a-c1ac-4fff-b337-4237e5b30467",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 15:15:00+00",
+      "endTime": "2026-04-19 15:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7ee5e0ae-a252-4fb0-ba64-1cf31586ba60",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 15:25:00+00",
+      "endTime": "2026-04-19 15:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fced95eb-8e4f-4b7b-99b7-a3add040cff7",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 15:35:00+00",
+      "endTime": "2026-04-19 15:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "961a5dc1-2d55-48d4-a367-d204273968b9",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 17:45:00+00",
+      "endTime": "2026-04-19 17:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ef488021-e63b-41bd-80b0-9c8e025de9f0",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 17:55:00+00",
+      "endTime": "2026-04-19 18:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "717b5318-cf46-4d4e-9880-0c8f6cb899c7",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 18:05:00+00",
+      "endTime": "2026-04-19 18:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1004e451-1655-4b65-803c-596307b39cdd",
+      "title": "Teen Titans Go !",
+      "programSlug": "teen-titans-go",
+      "programUrl": "/programme/cartoon-network/teen-titans-go",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 18:15:00+00",
+      "endTime": "2026-04-19 18:25:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T22:06:41.744Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 10:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

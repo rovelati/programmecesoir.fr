@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "bon-voyage",
+  "title": "Bon voyage",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Bon voyage"
+  ],
+  "genres": [
+    "comédie noire",
+    "comédie dramatique"
+  ],
+  "description": "Neil et Elisabeth, un couple en quête de détente, décident d'emmener leurs enfants, David et Rachel, pour un séjour de camping en France. Dès leur arrivée, ils croisent un autre couple, Simon (Ben Miles) et Linda, qui prétendent également passer des vacances en famille. Toutefois, Elisabeth (Fay Ripley) ne peut s'empêcher de ressentir un malaise face à leur attitude trop amicale et intrusif. Les coïncidences s'accumulent lorsque la caravane de Simon et Linda se trouve juste à côté de la leur, amplifiant l'inquiétude d'Elisabeth. L'atmosphère devient encore plus tendue lorsque, au cours de leur séjour, un petit garçon disparaît mystérieusement du camping. Convaincus que Simon et Linda pourraient être impliqués, Neil et Elisabeth se retrouvent plongés dans une spirale de suspicion et de peur, remettant en question la sécurité de leur famille et la nature même de leurs vacances. La tension monte alors qu'ils tentent de percer le mystère entourant ce couple énigmatique.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3e3fc914-b24c-448e-b448-5eb0fec8a2cd",
+      "title": "Bon voyage",
+      "programSlug": "bon-voyage",
+      "programUrl": "/programme/eurochannel/bon-voyage",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 00:00:00+00",
+      "endTime": "2026-04-21 02:15:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2003,
+  "durationMinutes": 114,
+  "cast": [
+    {
+      "qid": "Q106383",
+      "slug": "isabelle-adjani",
+      "name": "Isabelle Adjani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106508",
+      "slug": "gerard-depardieu",
+      "name": "Gérard Depardieu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234683",
+      "slug": "virginie-ledoyen",
+      "name": "Virginie Ledoyen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q724208",
+      "slug": "yvan-attal",
+      "name": "Yvan Attal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q354873",
+      "slug": "peter-coyote",
+      "name": "Peter Coyote",
+      "role": "actor"
+    },
+    {
+      "qid": "Q136221",
+      "slug": "aurore-clement",
+      "name": "Aurore Clément",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1551550",
+      "slug": "gregori-derangere",
+      "name": "Grégori Dérangère",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2842345",
+      "slug": "ambre-rochard",
+      "name": "Ambre Rochard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273803",
+      "slug": "edith-scob",
+      "name": "Édith Scob",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11310274",
+      "slug": "jean-marc-stehle",
+      "name": "Jean-Marc Stehlé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1930952",
+      "slug": "michel-vuillermoz",
+      "name": "Michel Vuillermoz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3324016",
+      "slug": "morgane-more",
+      "name": "Morgane Moré",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3340681",
+      "slug": "nicolas-pignon",
+      "name": "Nicolas Pignon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3340838",
+      "slug": "nicolas-vaude",
+      "name": "Nicolas Vaude",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3350916",
+      "slug": "olivier-claverie",
+      "name": "Olivier Claverie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3384770",
+      "slug": "pierre-diot",
+      "name": "Pierre Diot",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q709973",
+    "slug": "jean-paul-rappeneau",
+    "name": "Jean-Paul Rappeneau",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 00:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

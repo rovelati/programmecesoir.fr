@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "lewis-peek",
+  "name": "Lewis Peek",
+  "worksCount": 1,
+  "description": "English actor",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1993-01-01",
+  "nationality": null,
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q100292307",
+    "wikipedia": null,
+    "imdb": "nm6037035",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "les-enquetes-de-morse",
+      "title": "Les enquêtes de Morse"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

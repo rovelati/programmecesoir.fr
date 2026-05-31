@@ -1,0 +1,66 @@
+{
+  "type": "actor",
+  "slug": "laura-dern",
+  "name": "Laura Dern",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laura%20Dern%202025%20(facecrop).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-02-10",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q220901",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Laura_Dern",
+    "imdb": "nm0000368",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "novocaine",
+      "title": "Novocaïne"
+    },
+    {
+      "type": "film",
+      "slug": "sailor-et-lula",
+      "title": "Sailor et Lula"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7a414086-749b-44a1-af6c-af0a38d32953",
+      "title": "Novocaïne",
+      "programSlug": "novocaine",
+      "programUrl": "/programme/canal-box-office/novocaine",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 23:48:00+00",
+      "endTime": "2026-04-22 01:38:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "80e966ce-93b1-4bea-8594-8f2f73a020c8",
+      "title": "Novocaïne",
+      "programSlug": "novocaine",
+      "programUrl": "/programme/canal/novocaine",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 23:06:00+00",
+      "endTime": "2026-04-26 00:53:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 23:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

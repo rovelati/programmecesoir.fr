@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "le-roi-scorpion-4-la-quete-du-pouvoir",
+  "title": "Le roi Scorpion 4 : la quête du pouvoir",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le roi Scorpion 4 : la quête du pouvoir"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film et téléfilm de fantasy"
+  ],
+  "description": "Accusé à tort du meurtre du roi de Norvania, Mathayus est contraint de fuir le royaume. Il est poursuivi par les troupes de Drazen, l'héritier factice du trône. Il est soutenu par Valina, descendante de la lignée historique des Norvania, et son père, Sorrell. Afin de renverser le pouvoir en place, ils partent ensemble à la recherche du palais légendaire du sorcier Alcaman.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q724281",
+      "slug": "victor-webster",
+      "name": "Victor Webster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5364882",
+      "slug": "ellen-hollman",
+      "name": "Ellen Hollman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q809019",
+      "slug": "barry-bostwick",
+      "name": "Barry Bostwick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q213574",
+      "slug": "rutger-hauer",
+      "name": "Rutger Hauer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241510",
+      "slug": "michael-biehn",
+      "name": "Michael Biehn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q498420",
+      "slug": "m-emmet-walsh",
+      "name": "M. Emmet Walsh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q553469",
+      "slug": "royce-gracie",
+      "name": "Royce Gracie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230473",
+      "slug": "eve-torres",
+      "name": "Eve Torres",
+      "role": "actor"
+    },
+    {
+      "qid": "Q940845",
+      "slug": "brandon-hardesty",
+      "name": "Brandon Hardesty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313306",
+      "slug": "lou-ferrigno",
+      "name": "Lou Ferrigno",
+      "role": "actor"
+    },
+    {
+      "qid": "Q958077",
+      "slug": "don-wilson",
+      "name": "Don Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q968275",
+      "slug": "roy-nelson",
+      "name": "Roy Nelson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2526336",
+      "slug": "antonio-silva",
+      "name": "Antonio Silva",
+      "role": "actor"
+    },
+    {
+      "qid": "Q680441",
+      "slug": "will-kemp",
+      "name": "Will Kemp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1655682",
+      "slug": "ian-whyte",
+      "name": "Ian Whyte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440013",
+      "slug": "esme-bianco",
+      "name": "Esmé Bianco",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q6846685",
+    "slug": "mike-elliott",
+    "name": "Mike Elliott",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "sophie-mounicot",
+  "name": "Sophie Mounicot",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-08-06",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3491010",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sophie_Mounicot",
+    "imdb": "nm0609824",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "aimons-nous-vivants",
+      "title": "Aimons-nous vivants"
+    },
+    {
+      "type": "film",
+      "slug": "par-amour",
+      "title": "Par amour"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c53dcd94-56f9-4ba7-9d11-feefe81de682",
+      "title": "Aimons-nous vivants",
+      "programSlug": "aimons-nous-vivants",
+      "programUrl": "/programme/canal-box-office/aimons-nous-vivants",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 14:18:00+00",
+      "endTime": "2026-04-23 15:46:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 14:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

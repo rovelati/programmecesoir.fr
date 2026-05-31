@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "walton-goggins",
+  "name": "Walton Goggins",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walton%20Goggins.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-11-10",
+  "nationality": "États-Unis",
+  "jobTitle": "producteur ou productrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q516690",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Walton_Goggins",
+    "imdb": "nm0324658",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-memoire-dans-la-peau",
+      "title": "La mémoire dans la peau"
+    },
+    {
+      "type": "film",
+      "slug": "les-huit-salopards",
+      "title": "Les huit salopards"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "type": "actor",
+  "slug": "isaac-hayes",
+  "name": "Isaac Hayes",
+  "worksCount": 1,
+  "description": "acteur et compositeur américain (1942-2008)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Issac%20Hayes%201971%20press%20photo.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1942-08-20",
+  "nationality": "États-Unis",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q206439",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Isaac_Hayes",
+    "imdb": "nm0005002",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "south-park",
+      "title": "South Park"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "abb62c7b-59b3-405f-8c5a-6028fa4e1591",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 18:50:00+00",
+      "endTime": "2026-04-19 19:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9c0ce287-6bdb-4faf-b4cd-91ea1fc42239",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 19:15:00+00",
+      "endTime": "2026-04-19 19:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fbc85b55-a55a-40ce-a6f9-15231bfe7fad",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 19:40:00+00",
+      "endTime": "2026-04-19 20:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "44e9b44e-249c-4f62-b896-d6d3cb00af6d",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 21:05:00+00",
+      "endTime": "2026-04-19 21:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7a38f158-c239-47c3-b8d4-b1fe9077c975",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 21:25:00+00",
+      "endTime": "2026-04-19 21:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "72067633-da58-4be7-802f-95bb7fbed7cc",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 21:50:00+00",
+      "endTime": "2026-04-19 22:15:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

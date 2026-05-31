@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "heureux-gagants",
+  "title": "Heureux gagants",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Heureux gagants"
+  ],
+  "genres": [
+    "Telefilms",
+    "Téléfilm"
+  ],
+  "description": "Un couple au bord du divorce est contraint de rester ensemble un peu plus longtemps alors qu'il se bat pour réclamer un gain de loterie remporté accidentellement.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

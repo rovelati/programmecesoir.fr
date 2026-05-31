@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "le-maitre-et-marguerite",
+  "title": "Le Maître et Marguerite",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le Maître et Marguerite"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "drame",
+    "film ou téléfilm à énigme"
+  ],
+  "description": "A Moscou, dans les années 1930, un jeune écrivain plébiscité puis censuré est poussé par sa muse à écrire un récit au travers duquel il se venge.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 125,
+  "cast": [
+    {
+      "qid": "Q4389429",
+      "slug": "viktor-rakov",
+      "name": "Viktor Rakov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q302878",
+      "slug": "anastasia-vertinskaia",
+      "name": "Anastasia Vertinskaïa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1964825",
+      "slug": "nikolai-bourliaiev",
+      "name": "Nikolaï Bourliaïev",
+      "role": "actor"
+    },
+    {
+      "qid": "Q376335",
+      "slug": "mikhail-oulianov",
+      "name": "Mikhaïl Oulianov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1964037",
+      "slug": "valentin-gaft",
+      "name": "Valentin Gaft",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4484032",
+      "slug": "aleksandr-filippenko",
+      "name": "Aleksandr Filippenko",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4441520",
+      "slug": "vladimir-aleksandrovich-steklov",
+      "name": "Vladimir Aleksandrovich Steklov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q571006",
+      "slug": "victor-pavlov",
+      "name": "Victor Pavlov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4188704",
+      "slug": "alexandra-zakharova",
+      "name": "Alexandra Zakharova",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2626247",
+      "slug": "serguei-leonidovitch-garmach",
+      "name": "Sergueï Léonidovitch Garmach",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4154670",
+      "slug": "mikhail-danilov",
+      "name": "Mikhail Danilov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2368070",
+      "slug": "leonid-kouravliov",
+      "name": "Leonid Kouravliov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4218267",
+      "slug": "vladimir-kachpour",
+      "name": "Vladimir Kachpour",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2632355",
+      "slug": "lev-durov",
+      "name": "Lev Durov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4519680",
+      "slug": "vyacheslav-shalevich",
+      "name": "Vyacheslav Shalevich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4523208",
+      "slug": "iouri-borissovitch-cherstniov",
+      "name": "Iouri Borissovitch Cherstniov",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1910485",
+    "slug": "iouri-kara",
+    "name": "Iouri Kara",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

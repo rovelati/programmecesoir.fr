@@ -1,0 +1,98 @@
+{
+  "type": "film",
+  "slug": "echec-et-mort",
+  "title": "Echec et mort",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Echec et mort"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "film d'arts martiaux",
+    "film ou téléfilm criminel",
+    "film de vigilante"
+  ],
+  "description": "Ancien journaliste d'investigation intrépide, Ulrik Torp a connu le chômage avant de retrouver une place de stagiaire au sein de Dagbladet. Henrik Moll lui demande de couvrir le meurtre d'un jeune employé du ministère de l'Intérieur. Torp met au jour une conspiration politique d'envergure...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1990,
+  "durationMinutes": 89,
+  "cast": [
+    {
+      "qid": "Q82110",
+      "slug": "steven-seagal",
+      "name": "Steven Seagal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q152542",
+      "slug": "william-sadler",
+      "name": "William Sadler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242722",
+      "slug": "kelly-le-brock",
+      "name": "Kelly Le Brock",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4354022",
+      "slug": "frederick-coffin",
+      "name": "Frederick Coffin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131866",
+      "slug": "branscombe-richmond",
+      "name": "Branscombe Richmond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q432385",
+      "slug": "dean-norris",
+      "name": "Dean Norris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q720233",
+      "slug": "robert-lasardo",
+      "name": "Robert LaSardo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q991733",
+    "slug": "bruce-malmuth",
+    "name": "Bruce Malmuth",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

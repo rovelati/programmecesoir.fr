@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "eye-haidara",
+  "name": "Eye Haïdara",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eye%20Haidara%202017.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1983-03-07",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q11282528",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Eye_Ha%C3%AFdara",
+    "imdb": "nm2754446",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-grand-saut",
+      "title": "Le grand saut"
+    },
+    {
+      "type": "film",
+      "slug": "deux-moi",
+      "title": "Deux moi"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e35d2b3a-ab76-4686-8779-9a6479c47000",
+      "title": "Deux moi",
+      "programSlug": "deux-moi",
+      "programUrl": "/programme/canal-grand-ecran/deux-moi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 01:26:00+00",
+      "endTime": "2026-04-22 03:38:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "336ec877-8b68-41d9-9cea-d826bb846024",
+      "title": "Le grand saut",
+      "programSlug": "le-grand-saut",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/le-grand-saut",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-23 15:30:00+00",
+      "endTime": "2026-04-23 15:37:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-22 01:26:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

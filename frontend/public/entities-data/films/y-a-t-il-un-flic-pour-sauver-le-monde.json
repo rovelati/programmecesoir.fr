@@ -1,0 +1,139 @@
+{
+  "type": "film",
+  "slug": "y-a-t-il-un-flic-pour-sauver-le-monde",
+  "title": "Y a-t-il un flic pour sauver le monde ?",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Y a-t-il un flic pour sauver le monde ?"
+  ],
+  "genres": [
+    "comédie d'action"
+  ],
+  "description": "Lieutenant au sein d'une brigade spéciale de la police de Los Angeles, Frank Drebin Jr. marche sur les traces de son illustre paternel, véritable légende des forces de l'ordre de la ville. Appelé à enquêter sur la mort d'un brillant ingénieur dans un accident de la route, Frank ne tarde pas à découvrir des éléments suspects qui l'amènent à penser que celui-ci a été assassiné. Ses investigations le conduisent bientôt jusqu'au patron de la victime, à la tête d'une entreprise qui a mis au point une inquiétante machine capable de ramener les humains à leur nature barbare...",
+  "descriptionAi": "Cette comédie d'action délirante de 2025 plonge le spectateur dans une ambiance loufoque et trépidante. On suit Frank Drebin Jr., un flic maladroit mais tenace, qui enquête sur un meurtre déguisé en accident. L'intérêt réside dans cet humour absurde et ces situations catastrophiques qui émaillent une intrigue plus sérieuse qu'il n'y paraît, impliquant une machine diabolique. Un savoureux mélange de gags visuels et de parodie des films policiers, pour une détente garantie. Un divertissement décalé à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "972aeaab-e57a-4fb3-abc9-f2bdc6fd2830",
+      "title": "Y a-t-il un flic pour sauver le monde ?",
+      "programSlug": "y-a-t-il-un-flic-pour-sauver-le-monde",
+      "programUrl": "/programme/canal/y-a-t-il-un-flic-pour-sauver-le-monde",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 15:15:00+00",
+      "endTime": "2026-04-22 16:39:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "d8f2fa45-4264-4d44-a27f-5e233bf7d71a",
+      "title": "Y a-t-il un flic pour sauver le monde ?",
+      "programSlug": "y-a-t-il-un-flic-pour-sauver-le-monde",
+      "programUrl": "/programme/canal-box-office/y-a-t-il-un-flic-pour-sauver-le-monde",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 16:55:00+00",
+      "endTime": "2026-04-25 18:18:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:46.014Z",
+  "year": 2025,
+  "durationMinutes": 85,
+  "cast": [
+    {
+      "qid": "Q58444",
+      "slug": "liam-neeson",
+      "name": "Liam Neeson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83325",
+      "slug": "pamela-anderson",
+      "name": "Pamela Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26921822",
+      "slug": "paul-walter-hauser",
+      "name": "Paul Walter Hauser",
+      "role": "actor"
+    },
+    {
+      "qid": "Q320084",
+      "slug": "kevin-durand",
+      "name": "Kevin Durand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q357762",
+      "slug": "danny-huston",
+      "name": "Danny Huston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28549850",
+      "slug": "liza-koshy",
+      "name": "Liza Koshy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q299222",
+      "slug": "cody-rhodes",
+      "name": "Cody Rhodes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236434",
+      "slug": "q236434",
+      "name": "Q236434",
+      "role": "actor"
+    },
+    {
+      "qid": "Q59185",
+      "slug": "busta-rhymes",
+      "name": "Busta Rhymes",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q419466",
+    "slug": "akiva-schaffer",
+    "name": "Akiva Schaffer",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 15:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "s-ren-malling",
+  "name": "Søren Malling",
+  "worksCount": 2,
+  "description": "acteur danois",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8ren%20Malling.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-02-03",
+  "nationality": "Royaume de Danemark",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q84081",
+    "wikipedia": "https://fr.wikipedia.org/wiki/S%C3%B8ren_Malling",
+    "imdb": "nm0540038",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-enquetes-du-departement-v-promesse",
+      "title": "Les enquêtes du département V : Promesse"
+    },
+    {
+      "type": "film",
+      "slug": "royal-affair",
+      "title": "Royal Affair"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1b2265b5-a18b-487f-b7ca-730cb0fd8c4f",
+      "title": "Royal Affair",
+      "programSlug": "royal-affair",
+      "programUrl": "/programme/cine-emotion/royal-affair",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 22:21:00+00",
+      "endTime": "2026-04-24 00:35:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 22:21:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

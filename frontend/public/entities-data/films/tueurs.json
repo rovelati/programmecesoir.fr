@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "tueurs",
+  "title": "Tueurs",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Tueurs"
+  ],
+  "genres": [
+    "thriller"
+  ],
+  "description": "Frank Valken veut faire un dernier casse fructueux avant de tirer sa révérence. Le plan est huilé, les tâches distribuées, l'équipe au complet et sans faille. L'opération se déroule comme prévu, mais dans le même temps, un gang de tueurs profite du braquage pour exécuter une juge sur le point de déterrer une affaire vieille de trente ans. Frank est très vite arrêté et immédiatement accusé. Il n'a alors plus d'autre choix que de planifier son évasion. Pendant ce temps, l'inspecteur de police Lucie Tesla, qui travaille sur l'affaire avec Danny Bouvy, doute de la culpabilité de Valken. Elle détient des preuves de corruption au plus haut sommet de l'Etat...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 86,
+  "cast": [
+    {
+      "qid": "Q462256",
+      "slug": "lubna-azabal",
+      "name": "Lubna Azabal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q983020",
+      "slug": "olivier-gourmet",
+      "name": "Olivier Gourmet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2684230",
+      "slug": "kevin-janssens",
+      "name": "Kevin Janssens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q895091",
+      "slug": "bouli-lanners",
+      "name": "Bouli Lanners",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15882905",
+      "slug": "tibo-vandenborre",
+      "name": "Tibo Vandenborre",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851033",
+      "slug": "anne-coesens",
+      "name": "Anne Coesens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466465",
+      "slug": "johan-leysen",
+      "name": "Johan Leysen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q446883",
+      "slug": "natacha-regnier",
+      "name": "Natacha Régnier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3166975",
+      "slug": "jean-louis-sbille",
+      "name": "Jean-Louis Sbille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23711375",
+      "slug": "jean-jacques-rausin",
+      "name": "Jean-Jacques Rausin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41672554",
+      "slug": "francois-troukens",
+      "name": "François Troukens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3486697",
+      "slug": "slimane-dazi",
+      "name": "Slimane Dazi",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q41672554",
+    "slug": "francois-troukens",
+    "name": "François Troukens",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

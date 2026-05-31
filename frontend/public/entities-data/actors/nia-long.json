@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "nia-long",
+  "name": "Nia Long",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nia%20Long%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-10-30",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q272956",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Nia_Long",
+    "imdb": "nm0000505",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "ncis-los-angeles",
+      "title": "NCIS : Los Angeles"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "27d88762-d70f-4e6d-896c-047d7fd0ec16",
+      "title": "NCIS : Los Angeles - Saison 9",
+      "programSlug": "ncis-los-angeles-saison-9",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-9",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 10:40:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d8fe36c7-87b3-4fa3-8bcf-35cf1189f158",
+      "title": "NCIS : Los Angeles - Saison 9",
+      "programSlug": "ncis-los-angeles-saison-9",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-9",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 11:30:00+00",
+      "endTime": "2026-04-20 12:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "92a62c90-0f48-4a17-9192-a36a479fa85a",
+      "title": "NCIS : Los Angeles - Saison 9",
+      "programSlug": "ncis-los-angeles-saison-9",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-9",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 12:15:00+00",
+      "endTime": "2026-04-20 13:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "38c015bc-5daf-4aec-868d-b0e693e65183",
+      "title": "NCIS : Los Angeles - Saison 10",
+      "programSlug": "ncis-los-angeles-saison-10",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-10",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 13:05:00+00",
+      "endTime": "2026-04-20 13:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "34957dbc-cb9b-419c-bb07-cab94b54b032",
+      "title": "NCIS : Los Angeles - Saison 10",
+      "programSlug": "ncis-los-angeles-saison-10",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-10",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 13:50:00+00",
+      "endTime": "2026-04-20 14:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b950c3c7-a8fa-47b1-b0a6-6e52ba97ebb6",
+      "title": "NCIS : Los Angeles - Saison 7",
+      "programSlug": "ncis-los-angeles-saison-7",
+      "programUrl": "/programme/antenne-reunion/ncis-los-angeles-saison-7",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 15:55:00+00",
+      "endTime": "2026-04-20 16:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "dc2eed5d-2769-4f65-8f0a-1f1c6a93d334",
+      "title": "NCIS : Los Angeles - Saison 7",
+      "programSlug": "ncis-los-angeles-saison-7",
+      "programUrl": "/programme/antenne-reunion/ncis-los-angeles-saison-7",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 16:45:00+00",
+      "endTime": "2026-04-20 17:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "588d98f8-0955-4321-b5b2-d23324bec110",
+      "title": "NCIS : Los Angeles - Saison 9",
+      "programSlug": "ncis-los-angeles-saison-9",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-9",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-21 10:40:00+00",
+      "endTime": "2026-04-21 11:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7c6eae67-5c78-4647-8c77-3a3db275cab9",
+      "title": "NCIS : Los Angeles - Saison 9",
+      "programSlug": "ncis-los-angeles-saison-9",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-9",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-21 11:30:00+00",
+      "endTime": "2026-04-21 12:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e8e7f2ac-fc4f-4bc5-af50-e8e994a4423e",
+      "title": "NCIS : Los Angeles - Saison 9",
+      "programSlug": "ncis-los-angeles-saison-9",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-9",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-21 12:15:00+00",
+      "endTime": "2026-04-21 13:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "0994f4c1-192e-48c3-8144-37ecea1b963c",
+      "title": "NCIS : Los Angeles - Saison 10",
+      "programSlug": "ncis-los-angeles-saison-10",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-10",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-21 13:05:00+00",
+      "endTime": "2026-04-21 13:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b40b106c-fd6e-43f2-997d-f832742ec83d",
+      "title": "NCIS : Los Angeles - Saison 10",
+      "programSlug": "ncis-los-angeles-saison-10",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-10",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-21 13:50:00+00",
+      "endTime": "2026-04-21 14:35:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 10:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

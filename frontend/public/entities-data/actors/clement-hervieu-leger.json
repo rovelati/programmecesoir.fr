@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "clement-hervieu-leger",
+  "name": "Clément Hervieu-Léger",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-06-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2980615",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Hervieu-L%C3%A9ger",
+    "imdb": "nm0381173",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sarah-bernhardt-la-divine",
+      "title": "Sarah Bernhardt, la Divine"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "80e500fe-20b7-4a45-8028-3a28b1724220",
+      "title": "Sarah Bernhardt, la Divine",
+      "programSlug": "sarah-bernhardt-la-divine",
+      "programUrl": "/programme/cine-emotion/sarah-bernhardt-la-divine",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 20:37:00+00",
+      "endTime": "2026-04-20 22:13:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 20:37:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

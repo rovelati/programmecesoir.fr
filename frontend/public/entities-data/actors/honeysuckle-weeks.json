@@ -1,0 +1,109 @@
+{
+  "type": "actor",
+  "slug": "honeysuckle-weeks",
+  "name": "Honeysuckle Weeks",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Honeysuckle%20weeks%20november%202008.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-08-01",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q440206",
+    "wikipedia": "https://en.wikipedia.org/wiki/Honeysuckle_Weeks",
+    "imdb": "nm0917320",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "les-enquetes-de-foyle",
+      "title": "Les enquêtes de Foyle"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8706dc0b-b384-44fd-b68f-261d26c8ab8d",
+      "title": "Les enquêtes de Foyle - Saison 5",
+      "programSlug": "les-enquetes-de-foyle-saison-5",
+      "programUrl": "/programme/polar/les-enquetes-de-foyle-saison-5",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 12:08:00+00",
+      "endTime": "2026-04-19 13:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ddf472aa-3125-4b60-8e95-4ad60ebc91f2",
+      "title": "Les enquêtes de Foyle - Saison 5",
+      "programSlug": "les-enquetes-de-foyle-saison-5",
+      "programUrl": "/programme/polar/les-enquetes-de-foyle-saison-5",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 13:45:00+00",
+      "endTime": "2026-04-19 15:23:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9eecfa03-ce6d-418d-9353-69d7efd5d156",
+      "title": "Les enquêtes de Foyle - Saison 6",
+      "programSlug": "les-enquetes-de-foyle-saison-6",
+      "programUrl": "/programme/polar/les-enquetes-de-foyle-saison-6",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 15:23:00+00",
+      "endTime": "2026-04-19 17:08:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a4b2ced3-14f1-4eaf-816c-1465b923422c",
+      "title": "Les enquêtes de Foyle - Saison 6",
+      "programSlug": "les-enquetes-de-foyle-saison-6",
+      "programUrl": "/programme/polar/les-enquetes-de-foyle-saison-6",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 17:08:00+00",
+      "endTime": "2026-04-19 18:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8ad05102-e629-4dd7-978a-a3c30e871238",
+      "title": "Les enquêtes de Foyle - Saison 6",
+      "programSlug": "les-enquetes-de-foyle-saison-6",
+      "programUrl": "/programme/polar/les-enquetes-de-foyle-saison-6",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-24 18:55:00+00",
+      "endTime": "2026-04-24 20:31:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "07dd37fd-59fd-4022-a7f9-824f2450097d",
+      "title": "Les enquêtes de Foyle - Saison 6",
+      "programSlug": "les-enquetes-de-foyle-saison-6",
+      "programUrl": "/programme/polar/les-enquetes-de-foyle-saison-6",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-24 20:31:00+00",
+      "endTime": "2026-04-24 22:07:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 12:08:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

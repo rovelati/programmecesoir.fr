@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "indiana-jones-et-le-cadran-de-la-destinee",
+  "title": "Indiana Jones et le cadran de la destinée",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Indiana Jones et le cadran de la destinée"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure",
+    "film et téléfilm d'action"
+  ],
+  "description": "En 1969, au moment de prendre sa retraite universitaire pour des raisons politiques, le célèbre professeur Indiana Jones reçoit la visite de sa filleule, Helena Shaw. Celle-ci est à la recherche du fameux cadran d'Archimède que son père a remis à Jones et qu'elle parvient à lui subtiliser avant de s'enfuir. Plus de 25 ans après avoir empêché Jürgen Voller, un nazi, de s'en emparer, Indiana Jones doit se résoudre à se lancer à la poursuite de sa filleule et du cadran pour éviter qu'il ne tombe entre de mauvaises mains. Mais Jürgen Voller ne l'entend pas de cette oreille, lui qui espère remonter le temps afin de changer le destin du monde...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Glasgow%20High%20Street%20film%20set.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "channelNumber": 6,
+      "logoUrl": "/loghi/m6.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2023,
+  "durationMinutes": 154,
+  "cast": [
+    {
+      "qid": "Q81328",
+      "slug": "harrison-ford",
+      "name": "Harrison Ford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16455",
+      "slug": "john-rhys-davies",
+      "name": "John Rhys-Davies",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16224046",
+      "slug": "phoebe-waller-bridge",
+      "name": "Phoebe Waller-Bridge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294647",
+      "slug": "mads-mikkelsen",
+      "name": "Mads Mikkelsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41548",
+      "slug": "antonio-banderas",
+      "name": "Antonio Banderas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q611096",
+      "slug": "boyd-holbrook",
+      "name": "Boyd Holbrook",
+      "role": "actor"
+    },
+    {
+      "qid": "Q342419",
+      "slug": "toby-jones",
+      "name": "Toby Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229137",
+      "slug": "karen-allen",
+      "name": "Karen Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q57614",
+      "slug": "thomas-kretschmann",
+      "name": "Thomas Kretschmann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55081544",
+      "slug": "shaunette-renee-wilson",
+      "name": "Shaunette Renée Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65031068",
+      "slug": "olivier-richters",
+      "name": "Olivier Richters",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6768382",
+      "slug": "mark-killeen",
+      "name": "Mark Killeen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28839699",
+      "slug": "nasser-memarzia",
+      "name": "Nasser Memarzia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111544418",
+      "slug": "martin-mcdougall",
+      "name": "Martin McDougall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27624466",
+      "slug": "alaa-safi",
+      "name": "Alaa Safi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q120262014",
+      "slug": "ethann-isidore",
+      "name": "Ethann Isidore",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q433893",
+    "slug": "james-mangold",
+    "name": "James Mangold",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

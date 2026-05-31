@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "julie-dreyfus",
+  "name": "Julie Dreyfus",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Julie%20Dreyfus%20Gerardmer%202007.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-01-24",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q263178",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Julie_Dreyfus",
+    "imdb": "nm0237838",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "kill-bill-volume-2",
+      "title": "Kill Bill Volume 2"
+    },
+    {
+      "type": "film",
+      "slug": "kill-bill-volume-1",
+      "title": "Kill Bill Volume 1"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

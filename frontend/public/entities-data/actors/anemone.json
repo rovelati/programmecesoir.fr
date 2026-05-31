@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "anemone",
+  "name": "Anémone",
+  "worksCount": 2,
+  "description": "actrice et scénariste française",
+  "descriptionAi": "Anémone, de son vrai nom Anne Bourguignon, fut une actrice et scénariste française au charme singulier, incarnant souvent des personnages francs et anticonformistes. Son jeu, à la fois naturel et piquant, a marqué le cinéma français des années 1970 aux années 2000. Le genre de ses films varie de la comédie grinçante au drame intimiste, avec une ambiance souvent teintée d'humour noir et d'une tendre mélancolie. Ce qui la rend captivante, c'est cette authenticité crue et son refus des conventions, qui lui ont permis de créer des portraits de femmes inoubliables, à la fois vulnérables et résolument libres. Pour découvrir ou redécouvrir son talent unique, retrouvez ses films à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anemone2-Le%20Petit%20Nicolas-Avant%20Premi%C3%A8re.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1950-08-09",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q449240",
+    "wikipedia": "https://fr.wikipedia.org/wiki/An%C3%A9mone_(actrice)",
+    "imdb": "nm0031785",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-petit-nicolas",
+      "title": "Le petit Nicolas"
+    },
+    {
+      "type": "film",
+      "slug": "maman",
+      "title": "Maman"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fe63be11-7825-458c-9bcb-73d22b6422fa",
+      "title": "Le petit Nicolas",
+      "programSlug": "le-petit-nicolas",
+      "programUrl": "/programme/canal-grand-ecran/le-petit-nicolas",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 17:35:00+00",
+      "endTime": "2026-04-20 19:04:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:22.633Z",
+  "nextAiringAt": "2026-04-20 17:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

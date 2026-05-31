@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "lucy-davis",
+  "name": "Lucy Davis",
+  "worksCount": 2,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucy%20Davis%2C%20May%202004%20(3)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-02-17",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q436620",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lucy_Davis",
+    "imdb": "nm0205063",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "shaun-of-the-dead",
+      "title": "Shaun of the Dead"
+    },
+    {
+      "type": "film",
+      "slug": "wonder-woman",
+      "title": "Wonder Woman"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

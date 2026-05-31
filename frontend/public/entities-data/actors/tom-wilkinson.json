@@ -1,0 +1,94 @@
+{
+  "type": "actor",
+  "slug": "tom-wilkinson",
+  "name": "Tom Wilkinson",
+  "worksCount": 3,
+  "description": "acteur britannique (1948–2023)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Wilkinson.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1948-02-05",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q211322",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tom_Wilkinson",
+    "imdb": "nm0929489",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "the-green-hornet",
+      "title": "The Green Hornet"
+    },
+    {
+      "type": "film",
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "title": "Eternal Sunshine of the Spotless Mind"
+    },
+    {
+      "type": "film",
+      "slug": "rock-n-rolla",
+      "title": "Rock'n'Rolla"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6cfc5d38-bd20-440e-a7f2-48a84d8f9c38",
+      "title": "The Green Hornet",
+      "programSlug": "the-green-hornet",
+      "programUrl": "/programme/canal-grand-ecran/the-green-hornet",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 05:49:00+00",
+      "endTime": "2026-04-19 07:44:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f0cdbad4-3041-4bec-b28c-8f9aac1db096",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "programSlug": "eternal-sunshine-of-the-spotless-mind",
+      "programUrl": "/programme/cine-emotion/eternal-sunshine-of-the-spotless-mind",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 13:29:00+00",
+      "endTime": "2026-04-20 15:16:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "dc886d28-659d-41b0-bfd0-fd1759fb6405",
+      "title": "The Green Hornet",
+      "programSlug": "the-green-hornet",
+      "programUrl": "/programme/canal-grand-ecran/the-green-hornet",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 10:24:00+00",
+      "endTime": "2026-04-25 12:20:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "a8928c3f-7b1f-4cdf-a651-df0b7c197dbe",
+      "title": "The Green Hornet",
+      "programSlug": "the-green-hornet",
+      "programUrl": "/programme/cine-frisson/the-green-hornet",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-26 05:33:00+00",
+      "endTime": "2026-04-26 07:30:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 05:49:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

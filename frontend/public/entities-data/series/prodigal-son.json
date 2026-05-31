@@ -1,0 +1,262 @@
+{
+  "type": "series",
+  "slug": "prodigal-son",
+  "title": "Prodigal Son",
+  "airingsCount": 20,
+  "sourceTitles": [
+    "Prodigal Son"
+  ],
+  "genres": [
+    "série télévisée dramatique",
+    "drama policier"
+  ],
+  "description": "Dessaisi de l'enquête sur le tueur de la casse par le FBI, Bright enquête sur un nouveau meurtre : celui de Ian Turner, chef de la police judiciaire de New York, assassiné dans sa chambre d'hôtel en compagnie d'une prostituée. Bright envisage immédiatement la thèse du double homicide, qui impliquerait qu'une troisième personne ait commis les deux assassinats. Leur enquête les conduit auprès d'Owen Shannon, ancien partenaire de Turner, que Bright reconnaît tout de suite. C'est le policier qui l'a interrogé lors de l'arrestation de son père, il y a vingt ans. Shannon finit à son tour par reconnaître Bright et l'emmène dans les archives secrètes de Turner...\n\nRéalisateur(s) : Valerie Weiss\nActeurs : Tom Payne (Malcolm Bright), Michael Sheen (Martin Whitly), Bellamy Young (Jessica Whitly), Lou Diamond Phillips (Gil Arroyo), Halston Sage (Ainsley Whitly), Aurora Perrineau (Dani Powell), Frank Harts (JT), Keiko Agena (Edrisa), Meagan Good (Colette Swanson), Michael Raymond-James (Paul Lazar), Sean Pertwee (Det. Owen Shannon), Marylouise Burke (Matilda Watkins), Kasjan Wilson (Young Malcolm), Ashley Austin Morris (Macy Barnes), Tim Nicolai (Reporter #1), Mlé Chester (Reporter #2), Chelsea Townsend (Emily), Abraham Vasquez (Police Officer NYPD)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tvsudmarseillefr.svg",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv7-bordeaux.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguyanefr.svg",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvmartiniquefr.svg",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguadeloupefr.svg",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "904dc570-50da-40e6-9851-9d28e0b98b83",
+      "title": "Prodigal Son",
+      "programSlug": "prodigal-son",
+      "programUrl": "/programme/atvguadeloupefr/prodigal-son",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 21:10:00+00",
+      "endTime": "2026-04-20 21:53:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "30c40499-28d3-4743-a963-132d2578b54d",
+      "title": "Prodigal Son",
+      "programSlug": "prodigal-son",
+      "programUrl": "/programme/atvguyanefr/prodigal-son",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 21:10:00+00",
+      "endTime": "2026-04-20 21:53:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ec82eabd-86b8-43f4-91c7-653e2df3a6b8",
+      "title": "Prodigal Son",
+      "programSlug": "prodigal-son",
+      "programUrl": "/programme/atvmartiniquefr/prodigal-son",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 21:10:00+00",
+      "endTime": "2026-04-20 21:53:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a7e6c9fd-679b-429d-b59b-b1d6dbf7f044",
+      "title": "Prodigal Son",
+      "programSlug": "prodigal-son",
+      "programUrl": "/programme/tv7-bordeaux/prodigal-son",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 21:10:00+00",
+      "endTime": "2026-04-20 21:53:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "76934619-74e0-4313-baa1-d9bf2ec0a240",
+      "title": "Prodigal Son",
+      "programSlug": "prodigal-son",
+      "programUrl": "/programme/tvsudmarseillefr/prodigal-son",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 21:10:00+00",
+      "endTime": "2026-04-20 21:53:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3f787168-6b80-435f-9c47-759da34deaf6",
+      "title": "Prodigal Son",
+      "programSlug": "prodigal-son",
+      "programUrl": "/programme/atvguadeloupefr/prodigal-son",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 21:53:00+00",
+      "endTime": "2026-04-20 22:38:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "72ed4461-f964-4a77-9b6a-a171fae28334",
+      "title": "Prodigal Son",
+      "programSlug": "prodigal-son",
+      "programUrl": "/programme/atvguyanefr/prodigal-son",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 21:53:00+00",
+      "endTime": "2026-04-20 22:38:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "74112e92-fbb0-48d1-8b8e-a978eec5a76a",
+      "title": "Prodigal Son",
+      "programSlug": "prodigal-son",
+      "programUrl": "/programme/atvmartiniquefr/prodigal-son",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 21:53:00+00",
+      "endTime": "2026-04-20 22:38:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fba64ba5-79f1-42cc-a015-7dfb5dea3719",
+      "title": "Prodigal Son",
+      "programSlug": "prodigal-son",
+      "programUrl": "/programme/tv7-bordeaux/prodigal-son",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 21:53:00+00",
+      "endTime": "2026-04-20 22:38:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "68b5fff6-322a-4e24-b5ec-aac12d411280",
+      "title": "Prodigal Son",
+      "programSlug": "prodigal-son",
+      "programUrl": "/programme/tvsudmarseillefr/prodigal-son",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 21:53:00+00",
+      "endTime": "2026-04-20 22:38:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2019,
+  "numberOfSeasons": 2,
+  "cast": [
+    {
+      "qid": "Q7817189",
+      "slug": "tom-payne",
+      "name": "Tom Payne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298276",
+      "slug": "michael-sheen",
+      "name": "Michael Sheen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q384452",
+      "slug": "bellamy-young",
+      "name": "Bellamy Young",
+      "role": "actor"
+    },
+    {
+      "qid": "Q319725",
+      "slug": "lou-diamond-phillips",
+      "name": "Lou Diamond Phillips",
+      "role": "actor"
+    },
+    {
+      "qid": "Q513169",
+      "slug": "halston-sage",
+      "name": "Halston Sage",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16935162",
+      "slug": "aurora-perrineau",
+      "name": "Aurora Perrineau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17183005",
+      "slug": "frank-harts",
+      "name": "Frank Harts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241530",
+      "slug": "keiko-agena",
+      "name": "Keiko Agena",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q2353961",
+    "slug": "chris-fedak",
+    "name": "Chris Fedak",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 21:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

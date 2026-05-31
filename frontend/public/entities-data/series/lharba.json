@@ -1,0 +1,96 @@
+{
+  "type": "series",
+  "slug": "lharba",
+  "title": "Lharba",
+  "airingsCount": 12,
+  "sourceTitles": [
+    "Lharba"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Une capsule humoristique qui propose des saynètes légères inspirées du quotidien marocain. En quelques minutes, elle apporte humour, situations cocasses et clins d'oeil sociaux.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 12
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e16defa1-e59c-4ef8-b60d-2443f95ed395",
+      "title": "Lharba",
+      "programSlug": "lharba",
+      "programUrl": "/programme/2m-maroc/lharba",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-21 03:15:00+00",
+      "endTime": "2026-04-21 03:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "dd3ad911-2a07-40e8-b9cf-2e638c90ca41",
+      "title": "Lharba",
+      "programSlug": "lharba",
+      "programUrl": "/programme/2m-maroc/lharba",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-21 06:30:00+00",
+      "endTime": "2026-04-21 06:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "eaaa3bba-e19d-453f-8ae7-f5c16d2c81a6",
+      "title": "Lharba",
+      "programSlug": "lharba",
+      "programUrl": "/programme/2m-maroc/lharba",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 06:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "17192427-c38c-47e4-8fb1-1b6ec5773b42",
+      "title": "Lharba",
+      "programSlug": "lharba",
+      "programUrl": "/programme/2m-maroc/lharba",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-23 06:30:00+00",
+      "endTime": "2026-04-23 06:35:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-21 03:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

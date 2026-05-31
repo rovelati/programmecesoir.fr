@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "nathaniel-lees",
+  "name": "Nathaniel Lees",
+  "worksCount": 1,
+  "description": "acteur néo-zélandais",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1952-07-20",
+  "nationality": "Nouvelle-Zélande",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q3790484",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nathaniel_Lees",
+    "imdb": "nm0498731",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "matrix-revolutions",
+      "title": "Matrix Revolutions"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "97362478-1d0e-4bb7-9ee9-c19e605c394f",
+      "title": "Matrix Revolutions",
+      "programSlug": "matrix-revolutions",
+      "programUrl": "/programme/canal-grand-ecran/matrix-revolutions",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 11:10:00+00",
+      "endTime": "2026-04-23 13:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "955b2c9a-fcb1-4fc5-91e8-ff9772fae3d7",
+      "title": "Matrix Revolutions",
+      "programSlug": "matrix-revolutions",
+      "programUrl": "/programme/canal-grand-ecran/matrix-revolutions",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 21:19:00+00",
+      "endTime": "2026-04-25 23:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 11:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

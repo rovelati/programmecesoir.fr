@@ -1,0 +1,195 @@
+{
+  "type": "actor",
+  "slug": "martin-freeman",
+  "name": "Martin Freeman",
+  "worksCount": 4,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Freeman-5341.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-09-08",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q309486",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Martin_Freeman",
+    "imdb": "nm0293509",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "shaun-of-the-dead",
+      "title": "Shaun of the Dead"
+    },
+    {
+      "type": "series",
+      "slug": "sherlock",
+      "title": "Sherlock"
+    },
+    {
+      "type": "series",
+      "slug": "breeders",
+      "title": "Breeders"
+    },
+    {
+      "type": "series",
+      "slug": "the-responder",
+      "title": "The responder"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ee34634-b005-49d6-ba40-ad3bfac87f7c",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvguadeloupefr/sherlock",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-19 11:27:00+00",
+      "endTime": "2026-04-19 12:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bb02b7b6-8d42-49a5-b352-2a2ff9b076e1",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvguyanefr/sherlock",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-19 11:27:00+00",
+      "endTime": "2026-04-19 12:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9aa4d62a-ebec-4014-9d6f-52c16c897776",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvmartiniquefr/sherlock",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-19 11:27:00+00",
+      "endTime": "2026-04-19 12:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4f3fecc5-076a-4463-8a80-1cf0e6064c47",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/tvsudmarseillefr/sherlock",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-19 11:27:00+00",
+      "endTime": "2026-04-19 12:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8ae245d2-2615-42c8-8a8e-b14c7a6588fe",
+      "title": "Breeders - Saison 3",
+      "programSlug": "breeders-saison-3",
+      "programUrl": "/programme/cine-family/breeders-saison-3",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 18:14:00+00",
+      "endTime": "2026-04-20 18:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "dd4c696f-d4e7-4849-809a-b310ee4c9052",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvguadeloupefr/sherlock",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 19:40:00+00",
+      "endTime": "2026-04-20 21:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e7c65394-6bd1-4946-a1d6-5e23021b5c4f",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvguyanefr/sherlock",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 19:40:00+00",
+      "endTime": "2026-04-20 21:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "af8c64dd-19f2-4ab0-a71a-4552cafd602a",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvmartiniquefr/sherlock",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 19:40:00+00",
+      "endTime": "2026-04-20 21:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "9d0333fa-1242-44ac-b230-65bc4d9c955c",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/tv7-bordeaux/sherlock",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 19:40:00+00",
+      "endTime": "2026-04-20 21:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e6073e2d-2012-4840-8357-d6a878887735",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/tvsudmarseillefr/sherlock",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 19:40:00+00",
+      "endTime": "2026-04-20 21:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "66c53e31-0552-4665-af16-42cb321793f6",
+      "title": "Breeders - Saison 4",
+      "programSlug": "breeders-saison-4",
+      "programUrl": "/programme/cine-family/breeders-saison-4",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 18:01:00+00",
+      "endTime": "2026-04-21 18:24:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "557ce9c0-e1a1-4aa8-84d5-f117c38b6997",
+      "title": "Breeders - Saison 4",
+      "programSlug": "breeders-saison-4",
+      "programUrl": "/programme/cine-family/breeders-saison-4",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 18:24:00+00",
+      "endTime": "2026-04-21 18:50:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 11:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

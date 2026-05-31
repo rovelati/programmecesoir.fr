@@ -1,0 +1,95 @@
+{
+  "type": "series",
+  "slug": "twisted-metal",
+  "title": "Twisted Metal",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Twisted Metal - Saison 2"
+  ],
+  "genres": [
+    "jeu de combat motorisé"
+  ],
+  "description": "John Doe et Quiet participent au tournoi mortel Twisted Metal, un derby de démolition organisé par Calypso, un personnage mystérieux et inquiétant.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c0faf5d6-8d86-4850-863d-d5e8ac117314",
+      "title": "Twisted Metal - Saison 2",
+      "programSlug": "twisted-metal-saison-2",
+      "programUrl": "/programme/ocs/twisted-metal-saison-2",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 19:21:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "bae58d2c-0a73-43df-a505-403943fec884",
+      "title": "Twisted Metal - Saison 2",
+      "programSlug": "twisted-metal-saison-2",
+      "programUrl": "/programme/ocs/twisted-metal-saison-2",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 19:21:00+00",
+      "endTime": "2026-04-21 19:48:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b9ec2106-0a5c-40d9-9fb4-d3ca321fbc0d",
+      "title": "Twisted Metal - Saison 2",
+      "programSlug": "twisted-metal-saison-2",
+      "programUrl": "/programme/ocs/twisted-metal-saison-2",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 23:51:00+00",
+      "endTime": "2026-04-26 00:22:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "39d35dc7-7e5f-4236-aa60-054911bf7583",
+      "title": "Twisted Metal - Saison 2",
+      "programSlug": "twisted-metal-saison-2",
+      "programUrl": "/programme/ocs/twisted-metal-saison-2",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-26 00:22:00+00",
+      "endTime": "2026-04-26 00:50:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-21 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

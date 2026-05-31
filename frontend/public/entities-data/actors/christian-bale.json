@@ -1,0 +1,155 @@
+{
+  "type": "actor",
+  "slug": "christian-bale",
+  "name": "Christian Bale",
+  "worksCount": 8,
+  "description": "acteur britannico-américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Bale-7837.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1974-01-30",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q45772",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Christian_Bale",
+    "imdb": "nm0000288",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "terminator-renaissance",
+      "title": "Terminator Renaissance"
+    },
+    {
+      "type": "film",
+      "slug": "vice",
+      "title": "Vice"
+    },
+    {
+      "type": "film",
+      "slug": "rescue-dawn",
+      "title": "Rescue Dawn"
+    },
+    {
+      "type": "film",
+      "slug": "the-dark-knight-rises",
+      "title": "The Dark Knight Rises"
+    },
+    {
+      "type": "film",
+      "slug": "the-dark-knight-le-chevalier-noir",
+      "title": "The Dark Knight, le chevalier noir"
+    },
+    {
+      "type": "film",
+      "slug": "hostiles",
+      "title": "Hostiles"
+    },
+    {
+      "type": "film",
+      "slug": "3h10-pour-yuma",
+      "title": "3h10 pour Yuma"
+    },
+    {
+      "type": "film",
+      "slug": "american-psycho",
+      "title": "American Psycho"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c2e552e5-5034-45b9-a0c8-4a53b1bae6b6",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-le-chevalier-noir",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 07:44:00+00",
+      "endTime": "2026-04-19 10:12:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "67c1ebbf-a111-4083-a014-1cb877a116d5",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-rises",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 10:12:00+00",
+      "endTime": "2026-04-19 12:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f16e334c-8387-422b-8b9f-2172bd621195",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/canal-grand-ecran/hostiles",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 09:30:00+00",
+      "endTime": "2026-04-20 11:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b544160d-b826-4661-803a-b06f2fd0584b",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-le-chevalier-noir",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 21:16:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "3d1f0ee5-ff66-44e8-8bb5-fbf2e07d1fac",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-rises",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 21:16:00+00",
+      "endTime": "2026-04-21 23:57:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "22b05300-eddd-4187-a307-0f99ef85a0d7",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-le-chevalier-noir",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:56:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "4dacd68f-e0db-4701-b856-27454c5900bc",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/cine-frisson/hostiles",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:39:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 07:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

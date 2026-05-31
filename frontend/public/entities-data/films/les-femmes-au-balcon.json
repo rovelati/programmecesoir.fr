@@ -1,0 +1,76 @@
+{
+  "type": "film",
+  "slug": "les-femmes-au-balcon",
+  "title": "Les femmes au balcon",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Les femmes au balcon"
+  ],
+  "genres": [
+    "comédie horrifique"
+  ],
+  "description": "Elise, Ruby et Nicole, trois jeunes femmes aux caractères diamétralement opposés, partagent un petit appartement à Marseille. En plein été, alors que le thermomètre flirte avec les 50 degrés, elles observent avec gourmandise leur voisin d'en face, un brun ténébreux et visiblement peu pudique. Un soir, elles reçoivent un message de ce dernier, qui les invite toutes les trois à venir boire un verre dans son appartement. Ravies de l'aubaine, elles s'y rendent avec hâte, ignorant que la petite fête va bientôt virer au cauchemar...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q3345735",
+      "slug": "noemie-merlant",
+      "name": "Noémie Merlant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3491566",
+      "slug": "souheila-yacoub",
+      "name": "Souheila Yacoub",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125456481",
+      "slug": "sanda-codreanu",
+      "name": "Sanda Codreanu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q99460747",
+      "slug": "lucas-bravo",
+      "name": "Lucas Bravo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3345735",
+    "slug": "noemie-merlant",
+    "name": "Noémie Merlant",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

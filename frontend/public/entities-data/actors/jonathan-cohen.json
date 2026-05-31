@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "jonathan-cohen",
+  "name": "Jonathan Cohen",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jonathan%20Cohen%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1980-06-16",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3183342",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jonathan_Cohen",
+    "imdb": "nm3214170",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "je-l-aimais",
+      "title": "Je l'aimais"
+    },
+    {
+      "type": "film",
+      "slug": "amour-turbulences",
+      "title": "Amour & Turbulences"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "77c52286-0702-4684-9920-123f5d7e7be8",
+      "title": "Amour & Turbulences",
+      "programSlug": "amour-turbulences",
+      "programUrl": "/programme/carac-1-hd/amour-turbulences",
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "startTime": "2026-04-20 21:15:00+00",
+      "endTime": "2026-04-20 22:55:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 21:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

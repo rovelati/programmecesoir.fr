@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "la-derniere-plongee",
+  "title": "La dernière plongée",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "La dernière plongée"
+  ],
+  "genres": [
+    "film documentaire"
+  ],
+  "description": "Dans les Caraïbes, cinq amis se retrouvent pour un séjour de plongée sous-marine. Ils se lancent dans l'exploration de l'épave d'un cuirassé de la Seconde Guerre mondiale avec l'espoir d'y découvrir un trésor. Ils se retrouvent piégés dans les ruines du navire, entourés de grands requins blancs...",
+  "descriptionAi": "Ce documentaire captivant de 2020 plonge le spectateur dans une aventure sous-marine à suspense. Il suit cinq amis en quête de trésor dans l'épave d'un cuirassé des Caraïbes, où l'exploration idyllique vire au cauchemar. L'ambiance, d'abord légère, bascule progressivement vers une tension palpable et claustrophobique, magnifiée par des images sous-marines saisissantes. L'intérêt réside dans ce récit authentique, à la frontière du thriller, où le danger des profondeurs et la psychologie du groupe se mêlent pour créer un récit haletant et immersif. Une aventure humaine intense et visuellement stupéfiante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b171d2f-31b8-442a-93e3-3826ee05f962",
+      "title": "La dernière plongée",
+      "programSlug": "la-derniere-plongee",
+      "programUrl": "/programme/canal-cinema/la-derniere-plongee",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 22:15:00+00",
+      "endTime": "2026-04-20 23:49:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8c858c12-d343-409b-b1f1-4ee188adf610",
+      "title": "La dernière plongée",
+      "programSlug": "la-derniere-plongee",
+      "programUrl": "/programme/paramount-channel/la-derniere-plongee",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-20 22:15:00+00",
+      "endTime": "2026-04-20 23:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1c5877a5-76a2-48a8-8a39-31bb6dfe710f",
+      "title": "La dernière plongée",
+      "programSlug": "la-derniere-plongee",
+      "programUrl": "/programme/paramount-channel/la-derniere-plongee",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 00:45:00+00",
+      "endTime": "2026-04-24 02:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "65ef027b-e4c3-4c60-9de6-309460918962",
+      "title": "La dernière plongée",
+      "programSlug": "la-derniere-plongee",
+      "programUrl": "/programme/canal-cinema/la-derniere-plongee",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 00:47:00+00",
+      "endTime": "2026-04-24 02:25:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q99393822",
+    "wikipedia": null,
+    "imdb": "tt8999972",
+    "tmdb": null
+  },
+  "matchConfidence": 0.85,
+  "updatedAt": "2026-03-23T21:48:18.370Z",
+  "year": 2020,
+  "durationMinutes": 92,
+  "cast": [],
+  "director": {
+    "qid": "Q109036943",
+    "slug": "jonah-malak",
+    "name": "Jonah Malak",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 22:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

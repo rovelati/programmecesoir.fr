@@ -1,0 +1,156 @@
+{
+  "type": "film",
+  "slug": "la-guerre-des-mondes",
+  "title": "La guerre des mondes",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La guerre des mondes"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm de science-fiction",
+    "thriller",
+    "invasion extraterrestre",
+    "film ou téléfilm catastrophe",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'aventure",
+    "drame",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Ray Ferrier, un docker, mène une vie désordonnée depuis son divorce. Quand son ex-femme lui confie la garde de ses enfants, Robbie, 17 ans, et Rachel, 11 ans, il ne cache pas sa crainte de ne pas réussir à assumer son rôle de père. Le premier soir, un violent orage éclate sur la ville. De sa fenêtre, Ray assiste à un spectacle extraordinaire : une étrange machine, sorte d'engin à trois pieds, surgit brusquement de sous la terre, détruisant tout sur son passage. Ray tente de fuir mais il ne sait pas que des centaines de machines semblables sont sorties de terre en même temps aux quatre coins de la planète : une invasion extraterrestre a débuté...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/WarOfTheWorlds-Set.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2005,
+  "durationMinutes": 117,
+  "cast": [
+    {
+      "qid": "Q37079",
+      "slug": "tom-cruise",
+      "name": "Tom Cruise",
+      "role": "actor"
+    },
+    {
+      "qid": "Q115541",
+      "slug": "dakota-fanning",
+      "name": "Dakota Fanning",
+      "role": "actor"
+    },
+    {
+      "qid": "Q129978",
+      "slug": "justin-chatwin",
+      "name": "Justin Chatwin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294975",
+      "slug": "miranda-otto",
+      "name": "Miranda Otto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95048",
+      "slug": "tim-robbins",
+      "name": "Tim Robbins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1370072",
+      "slug": "rick-gonzalez",
+      "name": "Rick Gonzalez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2528786",
+      "slug": "lenny-venito",
+      "name": "Lenny Venito",
+      "role": "actor"
+    },
+    {
+      "qid": "Q434802",
+      "slug": "lisa-ann-walter",
+      "name": "Lisa Ann Walter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1173538",
+      "slug": "david-alan-basche",
+      "name": "David Alan Basche",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231203",
+      "slug": "amy-ryan",
+      "name": "Amy Ryan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q181274",
+      "slug": "george-fisher",
+      "name": "George Fisher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q452047",
+      "slug": "ann-robinson",
+      "name": "Ann Robinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q558368",
+      "slug": "gene-barry",
+      "name": "Gene Barry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459025",
+      "slug": "kirsten-nelson",
+      "name": "Kirsten Nelson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q48337",
+      "slug": "morgan-freeman",
+      "name": "Morgan Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8060892",
+      "slug": "yul-vazquez",
+      "name": "Yul Vazquez",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q8877",
+    "slug": "steven-spielberg",
+    "name": "Steven Spielberg",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,90 @@
+{
+  "type": "film",
+  "slug": "la-proie-des-ombres",
+  "title": "La Proie des ombres",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "La proie des ombres",
+    "La Proie des ombres"
+  ],
+  "genres": [
+    "Cinema",
+    "Film",
+    "Film de suspense"
+  ],
+  "description": "Chef cuisinier de talent, Ryan fuit d'importantes dettes de jeu en rendant visite à Jack, un ancien condisciple installé désormais en Amérique latine. Peu après son arrivée, Ryan retrouve son ami pendu. Il décide d'usurper l'identité du défunt, qui avait accepté un engagement horrible...",
+  "descriptionAi": "Ce film de suspense plonge le spectateur dans une atmosphère étouffante et paranoïaque. Un chef cuisinier, fuyant ses dettes, se retrouve piégé dans l'identité d'un ami retrouvé mort, héritant malgré lui d'un pacte terrifiant. L'intrigue se déroule dans une Amérique latine envoûtante et dangereuse, où chaque ombre semble cacher une menace. L'intérêt réside dans l'engrenage implacable qui saisit le protagoniste, transformant sa fuite en un cauchemar bien pire que ce qu'il cherchait à éviter, explorant les thèmes de l'identité et de la fatalité. Un thriller haletant à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b8e5d03-e4fd-4ccd-a42e-aeb5d2e3c3d2",
+      "title": "La Proie des ombres",
+      "programSlug": "la-proie-des-ombres",
+      "programUrl": "/programme/ocs/la-proie-des-ombres",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 04:51:00+00",
+      "endTime": "2026-04-20 06:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a8f2adfb-d3e8-4643-9c8b-c387f6b353e1",
+      "title": "La Proie des ombres",
+      "programSlug": "la-proie-des-ombres",
+      "programUrl": "/programme/ocs/la-proie-des-ombres",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-24 01:49:00+00",
+      "endTime": "2026-04-24 03:29:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q121859952",
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:34:16.886Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 04:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

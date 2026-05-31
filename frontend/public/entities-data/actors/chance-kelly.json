@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "chance-kelly",
+  "name": "Chance Kelly",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-01-28",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q15007836",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chance_Kelly",
+    "imdb": "nm0446257",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "loin-du-paradis",
+      "title": "Loin du paradis"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "52cbf378-4db4-4f16-ba50-5653f3a1fc24",
+      "title": "Loin du paradis",
+      "programSlug": "loin-du-paradis",
+      "programUrl": "/programme/cine-festival/loin-du-paradis",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-19 14:13:00+00",
+      "endTime": "2026-04-19 16:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "36da493d-65ad-49c0-b7e7-0bc4d299e8f2",
+      "title": "Loin du paradis",
+      "programSlug": "loin-du-paradis",
+      "programUrl": "/programme/cine-festival/loin-du-paradis",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:13:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 14:13:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

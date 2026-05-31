@@ -1,0 +1,95 @@
+{
+  "type": "actor",
+  "slug": "bastien-bouillon",
+  "name": "Bastien Bouillon",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bastien%20Bouillon%20Lumi%C3%A8res%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1985-05-19",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2887704",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bastien_Bouillon",
+    "imdb": "nm3319078",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-mystere-henri-pick",
+      "title": "Le mystère Henri Pick"
+    },
+    {
+      "type": "film",
+      "slug": "partir-un-jour",
+      "title": "Partir un jour"
+    },
+    {
+      "type": "film",
+      "slug": "seules-les-betes",
+      "title": "Seules les bêtes"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "aa048c4b-7076-442d-8ce1-88d5dc1758ad",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 14:51:00+00",
+      "endTime": "2026-04-21 16:46:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "73463dbd-0d24-48f0-95a1-5068ad553278",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 16:55:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "f28c0994-d653-4c9c-b607-9a823b76cde7",
+      "title": "Partir un jour",
+      "programSlug": "partir-un-jour",
+      "programUrl": "/programme/canal-box-office/partir-un-jour",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 22:14:00+00",
+      "endTime": "2026-04-23 23:48:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "bc39ab94-9a09-4e74-8f1a-a6abb2323210",
+      "title": "Seules les bêtes",
+      "programSlug": "seules-les-betes",
+      "programUrl": "/programme/action/seules-les-betes",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 07:04:00+00",
+      "endTime": "2026-04-25 08:59:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-21 14:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,161 @@
+{
+  "type": "film",
+  "slug": "wonder-woman",
+  "title": "Wonder Woman",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Wonder Woman"
+  ],
+  "genres": [
+    "film de super-héros",
+    "film et téléfilm d'action",
+    "film ou téléfilm d'aventure",
+    "drame",
+    "film et téléfilm de guerre",
+    "film et téléfilm de fantasy"
+  ],
+  "description": "Les Amazones, de puissantes guerrières, vivent en secret, à l'abri de la civilisation, sur l'île de Themyscira. Lorsque Steve Trevor, un pilote de l'armée, s'écrase sur l'île, la princesse Diana défie les lois de son pays pour le raccompagner chez lui, dans la civilisation. La jeune guerrière doit par ailleurs empêcher le Dieu Arès d'instaurer un conflit amené à faire régner la terreur durant des siècles...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosplayer%20in%20Wonder%20Woman%20costume%20at%20Igromir%202016%20(29756516910).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 141,
+  "cast": [
+    {
+      "qid": "Q185654",
+      "slug": "gal-gadot",
+      "name": "Gal Gadot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23466",
+      "slug": "chris-pine",
+      "name": "Chris Pine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231951",
+      "slug": "connie-nielsen",
+      "name": "Connie Nielsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436620",
+      "slug": "lucy-davis",
+      "name": "Lucy Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272972",
+      "slug": "q272972",
+      "name": "Q272972",
+      "role": "actor"
+    },
+    {
+      "qid": "Q357762",
+      "slug": "danny-huston",
+      "name": "Danny Huston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212790",
+      "slug": "david-thewlis",
+      "name": "David Thewlis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240949",
+      "slug": "elena-anaya",
+      "name": "Elena Anaya",
+      "role": "actor"
+    },
+    {
+      "qid": "Q373034",
+      "slug": "said-taghmaoui",
+      "name": "Saïd Taghmaoui",
+      "role": "actor"
+    },
+    {
+      "qid": "Q520651",
+      "slug": "ewen-bremner",
+      "name": "Ewen Bremner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q30068053",
+      "slug": "eugene-brave-rock",
+      "name": "Eugene Brave Rock",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17100163",
+      "slug": "lisa-loven-kongsli",
+      "name": "Lisa Loven Kongsli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108289",
+      "slug": "doutzen-kroes",
+      "name": "Doutzen Kroes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1325733",
+      "slug": "eleanor-matsuura",
+      "name": "Eleanor Matsuura",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1429374",
+      "slug": "florence-kasumba",
+      "name": "Florence Kasumba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q139890",
+      "slug": "zack-snyder",
+      "name": "Zack Snyder",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q456910",
+    "slug": "patty-jenkins",
+    "name": "Patty Jenkins",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

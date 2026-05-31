@@ -1,0 +1,75 @@
+{
+  "type": "film",
+  "slug": "dragons",
+  "title": "Dragons",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Dragons"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film ou téléfilm pour enfants",
+    "film ou téléfilm d'aventure",
+    "adaptation d'un roman au cinéma",
+    "comédie",
+    "Moyen Âge au cinéma",
+    "film et téléfilm d'action",
+    "film ou téléfilm familial",
+    "film ou téléfilm de monstre"
+  ],
+  "description": "Harold est un jeune viking, qui grandit dans un village côtier régulièrement attaqué par des dragons. Sa maladresse le laisse à l'écart de ses compagnons, tous d'intrépides guerriers. Une nuit, alors que les créatures pillent le bourg, il teste une de ses inventions pour capturer un dragon. Au lieu de cela, il met le feu au village. Le lendemain, son père, Stoïk, monte une expédition pour détruire l'antre des dragons et en finir avec cette menace. Pendant ce temps, Harold reste au village, où il doit apprendre le maniement des armes. Persuadé d'avoir touché un dragon, il explore les environs et découvre une Furie nocturne blessée. Il tente de l'apprivoiser...",
+  "descriptionAi": "Ce film d'animation familial mêle aventure, fantasy et comédie sur fond de Moyen Âge viking. L'ambiance oscille entre l'action épique et des moments de tendre complicité, le tout servi par un humour chaleureux. L'intérêt réside dans le renversement des préjugés, où un héros maladroit et un dragon redouté apprennent à se connaître, bouleversant l'ordre établi de leur monde. Cette histoire touchante d'amitié improbable et de courage différent est une ode à l'acceptation et à la découverte de l'autre. Une belle aventure à partager en famille, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q373096",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dragons_(film%2C_2010)",
+    "imdb": "tt0892769",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:14.614Z",
+  "year": 2010,
+  "durationMinutes": 98,
+  "cast": [],
+  "director": {
+    "qid": "Q1181049",
+    "slug": "dean-deblois",
+    "name": "Dean DeBlois",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

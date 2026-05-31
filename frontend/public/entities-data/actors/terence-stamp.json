@@ -1,0 +1,78 @@
+{
+  "type": "actor",
+  "slug": "terence-stamp",
+  "name": "Terence Stamp",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Terence%20Stamp.2794.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1938-07-22",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q77298",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Terence_Stamp",
+    "imdb": "nm0000654",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "max-la-menace",
+      "title": "Max la menace"
+    },
+    {
+      "type": "film",
+      "slug": "superman",
+      "title": "Superman"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dd661284-851d-410d-a76b-dec244acfeba",
+      "title": "Superman",
+      "programSlug": "superman",
+      "programUrl": "/programme/canal-box-office/superman",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 19:00:00+00",
+      "endTime": "2026-04-20 21:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fc673a01-b065-46ff-8229-30080a241bde",
+      "title": "Superman",
+      "programSlug": "superman",
+      "programUrl": "/programme/canal-box-office/superman",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 16:13:00+00",
+      "endTime": "2026-04-22 18:18:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9643570a-a31b-4a0a-96dc-9b247dbe9e8a",
+      "title": "Max la menace",
+      "programSlug": "max-la-menace",
+      "programUrl": "/programme/cine-family/max-la-menace",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 15:43:00+00",
+      "endTime": "2026-04-25 17:30:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

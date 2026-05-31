@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "filante",
+  "title": "Filante",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Filante"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Chaque nuit, Paulette, la petite sorcière, observe la même étoile filante dans le ciel. Elle lui adresse son voeu le plus cher : retrouver son rat domestique mystérieusement disparu. Les jours passent, mais l'animal ne revient pas. Paulette veut alors comprendre ce qui cloche avec son étoile...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c8ef5f12-3fc9-45d1-9220-7dd6ee5e8bfa",
+      "title": "Filante",
+      "programSlug": "filante",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/filante",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-23 15:56:00+00",
+      "endTime": "2026-04-23 16:06:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-23 15:56:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

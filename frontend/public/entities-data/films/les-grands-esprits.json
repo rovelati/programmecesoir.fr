@@ -1,0 +1,58 @@
+{
+  "type": "film",
+  "slug": "les-grands-esprits",
+  "title": "Les grands esprits",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les grands esprits"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "François Foucault, professeur agrégé de lettres au lycée Henri-IV, mène la vie dure à ses élèves. Sans pitié dans ses notations, il l'est également au moment où il rend les copies. Il va devoir faire preuve d'un peu d'humilité quand il est contraint d'enseigner pendant un an dans un collège classé REP+...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 106,
+  "cast": [
+    {
+      "qid": "Q1187592",
+      "slug": "denis-podalydes",
+      "name": "Denis Podalydès",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q975657",
+    "slug": "olivier-ayache-vidal",
+    "name": "Olivier Ayache-Vidal",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

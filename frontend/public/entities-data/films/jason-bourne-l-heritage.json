@@ -1,0 +1,166 @@
+{
+  "type": "film",
+  "slug": "jason-bourne-l-heritage",
+  "title": "Jason Bourne : l'héritage",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Jason Bourne : l'héritage"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm d'espionnage",
+    "thriller",
+    "film ou téléfilm d'aventure",
+    "thriller d'action",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Du programme Treadstone, dont Jason Bourne était le cobaye, est né \"Outcome\". Aaron Cross est l'un des agents de ce groupe, qui a pour objectif non seulement de former des tueurs, mais surtout des hommes capables d'assurer des missions à haut risque. Mais désormais le destin de ces agents est compromis : Jason Bourne, en dévoilant une partie de cette organisation, les a condamnés à une liquidation brutale. Ils seront effacés à jamais afin que le fondateur du programme, le colonel Byer, puisse poursuivre ses activités machiavéliques sans être dérangé. Le premier agent à éliminer est Aaron Cross : il réussit à s'enfuir et fait équipe avec le docteur Marta Shearing, une généticienne...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "926ff80c-13f7-4e5f-8f5b-fa5305d4e8e8",
+      "title": "Jason Bourne : L'héritage",
+      "programSlug": "jason-bourne-l-heritage",
+      "programUrl": "/programme/ab3/jason-bourne-l-heritage",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-22 19:55:00+00",
+      "endTime": "2026-04-22 22:00:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 135,
+  "cast": [
+    {
+      "qid": "Q23365",
+      "slug": "jeremy-renner",
+      "name": "Jeremy Renner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q134077",
+      "slug": "rachel-weisz",
+      "name": "Rachel Weisz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125904",
+      "slug": "edward-norton",
+      "name": "Edward Norton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229305",
+      "slug": "joan-allen",
+      "name": "Joan Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310318",
+      "slug": "david-strathairn",
+      "name": "David Strathairn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q219546",
+      "slug": "albert-finney",
+      "name": "Albert Finney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q114179",
+      "slug": "scott-glenn",
+      "name": "Scott Glenn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315090",
+      "slug": "stacy-keach",
+      "name": "Stacy Keach",
+      "role": "actor"
+    },
+    {
+      "qid": "Q336788",
+      "slug": "oscar-isaac",
+      "name": "Oscar Isaac",
+      "role": "actor"
+    },
+    {
+      "qid": "Q439457",
+      "slug": "donna-murphy",
+      "name": "Donna Murphy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26231",
+      "slug": "corey-stoll",
+      "name": "Corey Stoll",
+      "role": "actor"
+    },
+    {
+      "qid": "Q382197",
+      "slug": "zeljko-ivanek",
+      "name": "Željko Ivanek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q76877",
+      "slug": "elizabeth-marvel",
+      "name": "Elizabeth Marvel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q948751",
+      "slug": "michael-papajohn",
+      "name": "Michael Papajohn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1132632",
+      "slug": "corey-johnson",
+      "name": "Corey Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1188980",
+      "slug": "dennis-boutsikaris",
+      "name": "Dennis Boutsikaris",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q353117",
+    "slug": "tony-gilroy",
+    "name": "Tony Gilroy",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 19:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

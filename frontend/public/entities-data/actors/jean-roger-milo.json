@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "jean-roger-milo",
+  "name": "Jean-Roger Milo",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1957-06-05",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3169986",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Roger_Milo",
+    "imdb": "nm0590440",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-marginal",
+      "title": "Le marginal"
+    },
+    {
+      "type": "film",
+      "slug": "un-dimanche-a-la-campagne",
+      "title": "Un dimanche à la campagne"
+    },
+    {
+      "type": "film",
+      "slug": "asterix-et-obelix-contre-cesar",
+      "title": "Astérix et Obélix contre César"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b88a8cf2-b41a-4118-8c92-460d607bec41",
+      "title": "Le marginal",
+      "programSlug": "le-marginal",
+      "programUrl": "/programme/cine-classic/le-marginal",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 17:11:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 17:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,100 @@
+{
+  "type": "film",
+  "slug": "promised-land",
+  "title": "Promised Land",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Promised Land"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Représentants d'un grand groupe énergétique, Steve Butler et sa collègue Sue Thomason se rendent dans une petite ville du Nord-Est des Etats-Unis. Ils ont pour mission d'acheter les terres des paysans en leur promettant la fortune grâce à l'important gisement de gaz de schiste qu'elles renferment. Lorsqu'un retraité de chez Boeing se met à critiquer le projet avec le soutien d'un activiste écologiste, les choses se compliquent sérieusement pour Steve Butler. D'autant que les habitants du village, alertés par les dangers de l'exploitation de cette ressource énergétique, ont décidé de voter sur cette question du gaz de schiste...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reno2002.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1987,
+  "durationMinutes": 102,
+  "cast": [
+    {
+      "qid": "Q572974",
+      "slug": "jason-gedrick",
+      "name": "Jason Gedrick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275958",
+      "slug": "tracy-pollan",
+      "name": "Tracy Pollan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q103946",
+      "slug": "kiefer-sutherland",
+      "name": "Kiefer Sutherland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q167498",
+      "slug": "meg-ryan",
+      "name": "Meg Ryan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3020886",
+      "slug": "deborah-richter",
+      "name": "Deborah Richter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q547056",
+      "slug": "herta-ware",
+      "name": "Herta Ware",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3163273",
+      "slug": "jay-underwood",
+      "name": "Jay Underwood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9960",
+      "slug": "ronald-reagan",
+      "name": "Ronald Reagan",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q382599",
+    "slug": "michael-hoffman",
+    "name": "Michael Hoffman",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

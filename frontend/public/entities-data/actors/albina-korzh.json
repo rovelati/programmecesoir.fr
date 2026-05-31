@@ -1,0 +1,97 @@
+{
+  "type": "actor",
+  "slug": "albina-korzh",
+  "name": "Albina Korzh",
+  "worksCount": 1,
+  "description": null,
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "2000-00-00",
+  "nationality": null,
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q135495788",
+    "wikipedia": null,
+    "imdb": "nm10975426",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "oxana",
+      "title": "Oxana"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fbe4bb50-80eb-489f-ae19-efaf1b385f51",
+      "title": "Oxana",
+      "programSlug": "oxana",
+      "programUrl": "/programme/canal-cinema/oxana",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 13:20:00+00",
+      "endTime": "2026-04-20 15:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5874c734-57a8-4152-b8fd-9105a5faa0c8",
+      "title": "Oxana",
+      "programSlug": "oxana",
+      "programUrl": "/programme/paramount-channel/oxana",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-20 13:20:00+00",
+      "endTime": "2026-04-20 15:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e6f69f65-dfec-4889-859f-aba081377450",
+      "title": "Oxana",
+      "programSlug": "oxana",
+      "programUrl": "/programme/canal-box-office/oxana",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 22:53:00+00",
+      "endTime": "2026-04-23 00:34:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "06632389-4bde-4a22-b2fa-16ff339746c1",
+      "title": "Oxana",
+      "programSlug": "oxana",
+      "programUrl": "/programme/paramount-channel/oxana",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 08:20:00+00",
+      "endTime": "2026-04-24 10:00:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "8914ee32-a850-4322-9b49-7a40584d0422",
+      "title": "Oxana",
+      "programSlug": "oxana",
+      "programUrl": "/programme/canal-cinema/oxana",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 08:22:00+00",
+      "endTime": "2026-04-24 10:02:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 13:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

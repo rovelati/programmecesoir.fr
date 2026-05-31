@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "antonin-chalon",
+  "name": "Antonin Chalon",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1993-08-08",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2857110",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Antonin_Chalon",
+    "imdb": "nm1074206",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "je-l-aimais",
+      "title": "Je l'aimais"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

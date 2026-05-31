@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "lev-durov",
+  "name": "Lev Durov",
+  "worksCount": 2,
+  "description": "acteur de théâtre et cinéma soviétique, puis russe",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lev%20Durov%201.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1931-12-23",
+  "nationality": "Union soviétique",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q2632355",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lev_Dourov",
+    "imdb": "nm0244296",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-maitre-et-marguerite",
+      "title": "Le Maître et Marguerite"
+    },
+    {
+      "type": "series",
+      "slug": "d-artagnan-et-les-trois-mousquetaires",
+      "title": "D'Artagnan et les trois mousquetaires"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

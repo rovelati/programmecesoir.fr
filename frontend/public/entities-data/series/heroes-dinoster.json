@@ -1,0 +1,260 @@
+{
+  "type": "series",
+  "slug": "heroes-dinoster",
+  "title": "Heroes Dinoster",
+  "airingsCount": 44,
+  "sourceTitles": [
+    "Heroes Dinoster"
+  ],
+  "genres": [
+    "série d'action",
+    "série télévisée de science-fiction",
+    "space opera",
+    "superhero television program",
+    "mecha",
+    "série télévisée comique"
+  ],
+  "description": "Pendant le festival des costumes de Dinopia, un nouveau Technosaure très évolué sème le chaos et oblige les Dinosters à combattre au beau milieu de la ville.\n\nRéalisateur(s) : Son Gwangwon, Jang Jihyun, Sim Younggyo, Hsu Jack, Li Youngxian, Eunji Hong, Juhyun Cho",
+  "descriptionAi": "Cette série d'action et de science-fiction, mêlant space opera et éléments de mecha, suit les Dinosters, des héros aux pouvoirs uniques. Débutée en 2023, elle déploie trois saisons d'aventures où l'humour vient tempérer des enjeux colossaux. L'ambiance oscille entre l'épique et le comique, notamment lorsque, pendant le festival des costumes de Dinopia, un Technosaure hyper-évolué semant le chaos oblige nos héros à un combat spectaculaire en pleine ville. Ce mélange détonnant de super-héros, de dinosaures mécaniques et de situations cocasses rend la série parfaitement divertissante. Ne manquez pas cette épopée familiale et trépidante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "channelNumber": 18,
+      "logoUrl": "/loghi/gulli.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "channelNumber": null,
+      "logoUrl": "/loghi/game-one.png",
+      "airingsCount": 16
+    },
+    {
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-j.png",
+      "airingsCount": 24
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b0fa3b8-f3f0-47ad-ba6c-13594ac16b3b",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/canal-j/heroes-dinoster",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 08:25:00+00",
+      "endTime": "2026-04-19 08:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d23d365c-187e-4295-ae8a-cedf88f1e9ef",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/game-one/heroes-dinoster",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 08:25:00+00",
+      "endTime": "2026-04-19 08:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fb1f3113-d3bf-4248-964f-e8eca29392f3",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/canal-j/heroes-dinoster",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 08:35:00+00",
+      "endTime": "2026-04-19 08:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2d6e2f7b-062f-49eb-bc6c-ecc0f2aaecf9",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/game-one/heroes-dinoster",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 08:35:00+00",
+      "endTime": "2026-04-19 08:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ebfad22b-5f0a-4aaf-a234-15f95a92f601",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/canal-j/heroes-dinoster",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 08:45:00+00",
+      "endTime": "2026-04-19 09:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "07244dfe-9803-40d5-ac72-2f4cfc09d50a",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/game-one/heroes-dinoster",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 08:45:00+00",
+      "endTime": "2026-04-19 09:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "28487aa5-bfd6-4634-9c59-1f36e1b26ade",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/canal-j/heroes-dinoster",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-19 09:00:00+00",
+      "endTime": "2026-04-19 09:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "98443743-8b61-4589-aa69-03ef3c81dd64",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/game-one/heroes-dinoster",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-19 09:00:00+00",
+      "endTime": "2026-04-19 09:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ee8545a8-0dce-4a7c-ab40-44e32881b51e",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/canal-j/heroes-dinoster",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 08:25:00+00",
+      "endTime": "2026-04-25 08:35:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "ff1f9018-6210-43e9-9ad4-71fb7c9cc95b",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/game-one/heroes-dinoster",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 08:25:00+00",
+      "endTime": "2026-04-25 08:35:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "ab43ffcb-8023-4ea5-be39-e42857fc82ee",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/canal-j/heroes-dinoster",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 08:35:00+00",
+      "endTime": "2026-04-25 08:45:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "5613ee3f-3198-4e56-952b-dc6b0b01a576",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/game-one/heroes-dinoster",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 08:35:00+00",
+      "endTime": "2026-04-25 08:45:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "8af3e098-0547-4f81-b88c-578415ac6a62",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/canal-j/heroes-dinoster",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 08:45:00+00",
+      "endTime": "2026-04-25 09:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "9d962017-fbf1-4e82-9b55-63fbcb690b65",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/game-one/heroes-dinoster",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 08:45:00+00",
+      "endTime": "2026-04-25 09:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "57542456-a1a3-41d0-822c-1562d80ab3ad",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/canal-j/heroes-dinoster",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 09:00:00+00",
+      "endTime": "2026-04-25 09:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "02335721-0a43-4b0a-b610-4ab521a878bd",
+      "title": "Heroes Dinoster",
+      "programSlug": "heroes-dinoster",
+      "programUrl": "/programme/game-one/heroes-dinoster",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 09:00:00+00",
+      "endTime": "2026-04-25 09:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:42:38.285Z",
+  "startYear": 2023,
+  "numberOfSeasons": 3,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 08:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

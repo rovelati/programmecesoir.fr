@@ -1,0 +1,186 @@
+{
+  "type": "actor",
+  "slug": "olivier-casadesus",
+  "name": "Olivier Casadesus",
+  "worksCount": 2,
+  "description": "French actor and model",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-09-02",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3350894",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Olivier_Casadesus",
+    "imdb": "nm1320625",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "helene-et-les-garcons",
+      "title": "Hélène et les garçons"
+    },
+    {
+      "type": "series",
+      "slug": "les-vacances-de-l-amour",
+      "title": "Les vacances de l'amour"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4de75146-4633-47b1-a428-0aebc30c2466",
+      "title": "Les vacances de l'amour",
+      "programSlug": "les-vacances-de-l-amour",
+      "programUrl": "/programme/ab3/les-vacances-de-l-amour",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-20 00:20:00+00",
+      "endTime": "2026-04-20 01:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "15e3a1ea-837c-4b3f-8ec1-a640d06a897b",
+      "title": "Les vacances de l'amour",
+      "programSlug": "les-vacances-de-l-amour",
+      "programUrl": "/programme/ab3/les-vacances-de-l-amour",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-20 01:10:00+00",
+      "endTime": "2026-04-20 02:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "55b3d97d-341c-4c73-b7f0-e2eba8ea038b",
+      "title": "Les vacances de l'amour - Saison 4",
+      "programSlug": "les-vacances-de-l-amour-saison-4",
+      "programUrl": "/programme/ab1/les-vacances-de-l-amour-saison-4",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 01:15:00+00",
+      "endTime": "2026-04-20 02:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "acb050c4-9b11-4777-820e-083c14923613",
+      "title": "Les vacances de l'amour - Saison 4",
+      "programSlug": "les-vacances-de-l-amour-saison-4",
+      "programUrl": "/programme/ab1/les-vacances-de-l-amour-saison-4",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 02:05:00+00",
+      "endTime": "2026-04-20 02:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "1a47f86d-5864-4ab6-9252-0482c9eafc2f",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 02:50:00+00",
+      "endTime": "2026-04-20 03:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c0ec2bc6-e355-4c23-b572-7bef75d42b35",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 03:15:00+00",
+      "endTime": "2026-04-20 03:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7b8fcdcc-4414-4aec-972b-44aff86994cf",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 03:40:00+00",
+      "endTime": "2026-04-20 04:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d4778872-46e7-4866-8857-548fe0ceb32c",
+      "title": "Hélène et les garçons - Saison 1",
+      "programSlug": "helene-et-les-garcons-saison-1",
+      "programUrl": "/programme/ab1/helene-et-les-garcons-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 04:05:00+00",
+      "endTime": "2026-04-20 04:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b63e14e3-25b3-4031-a3f9-195f39f6d17a",
+      "title": "Les vacances de l'amour",
+      "programSlug": "les-vacances-de-l-amour",
+      "programUrl": "/programme/ab3/les-vacances-de-l-amour",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-21 00:20:00+00",
+      "endTime": "2026-04-21 01:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a9821c6d-ce93-4198-8915-37a78b3da9c0",
+      "title": "Les vacances de l'amour",
+      "programSlug": "les-vacances-de-l-amour",
+      "programUrl": "/programme/ab3/les-vacances-de-l-amour",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-21 01:10:00+00",
+      "endTime": "2026-04-21 02:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a260f65d-5684-4a65-874e-9a0356e9a1df",
+      "title": "Les vacances de l'amour - Saison 4",
+      "programSlug": "les-vacances-de-l-amour-saison-4",
+      "programUrl": "/programme/ab1/les-vacances-de-l-amour-saison-4",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 01:15:00+00",
+      "endTime": "2026-04-21 02:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6ead8904-65a3-479f-a0b9-b8906cd5b7ec",
+      "title": "Les vacances de l'amour - Saison 4",
+      "programSlug": "les-vacances-de-l-amour-saison-4",
+      "programUrl": "/programme/ab1/les-vacances-de-l-amour-saison-4",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 02:05:00+00",
+      "endTime": "2026-04-21 02:50:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 00:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "ewen-bremner",
+  "name": "Ewen Bremner",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MJK31286%20Ewen%20Bremner%20(T2%20Trainspotting%2C%20Berlinale%202017).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-01-23",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q520651",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ewen_Bremner",
+    "imdb": "nm0001971",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jack-le-chasseur-de-geants",
+      "title": "Jack le chasseur de géants"
+    },
+    {
+      "type": "film",
+      "slug": "wonder-woman",
+      "title": "Wonder Woman"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "79bda564-c115-4d77-ba2c-1c5cfc621167",
+      "title": "Jack le chasseur de géants",
+      "programSlug": "jack-le-chasseur-de-geants",
+      "programUrl": "/programme/cine-family/jack-le-chasseur-de-geants",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 20:46:00+00",
+      "endTime": "2026-04-24 22:37:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-24 20:46:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

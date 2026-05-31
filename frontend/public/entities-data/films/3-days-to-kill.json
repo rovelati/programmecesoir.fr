@@ -1,0 +1,132 @@
+{
+  "type": "film",
+  "slug": "3-days-to-kill",
+  "title": "3 Days to Kill",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "3 Days to Kill"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "drame"
+  ],
+  "description": "A cause de son métier d'agent secret, Ethan Renner a failli dans son rôle de père. Il voudrait améliorer sa relation avec sa fille, car il se sait condamné par la maladie. La mystérieuse Vivi lui propose un marché : si Ethan élimine un terroriste, elle lui donnera un médicament censé le guérir...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q229166",
+      "slug": "amber-heard",
+      "name": "Amber Heard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11930",
+      "slug": "kevin-costner",
+      "name": "Kevin Costner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231951",
+      "slug": "connie-nielsen",
+      "name": "Connie Nielsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231726",
+      "slug": "hailee-steinfeld",
+      "name": "Hailee Steinfeld",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4353280",
+      "slug": "tao-okamoto",
+      "name": "Tao Okamoto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q705522",
+      "slug": "hiroyuki-sanada",
+      "name": "Hiroyuki Sanada",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7334155",
+      "slug": "rila-fukushima",
+      "name": "Rila Fukushima",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1340950",
+      "slug": "eriq-ebouaney",
+      "name": "Ériq Ebouaney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q86336",
+      "slug": "richard-sammel",
+      "name": "Richard Sammel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5304927",
+      "slug": "dragana-atlija",
+      "name": "Dragana Atlija",
+      "role": "actor"
+    },
+    {
+      "qid": "Q736652",
+      "slug": "tomas-lemarquis",
+      "name": "Tómas Lemarquis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20752197",
+      "slug": "jonas-bloquet",
+      "name": "Jonas Bloquet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3287751",
+      "slug": "marc-andreoni",
+      "name": "Marc Andréoni",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q385058",
+    "slug": "mcg",
+    "name": "McG",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

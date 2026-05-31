@@ -1,0 +1,117 @@
+{
+  "type": "actor",
+  "slug": "sara-giraudeau",
+  "name": "Sara Giraudeau",
+  "worksCount": 5,
+  "description": "comédienne française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sara%20Giraudeau%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1985-08-01",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3473265",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sara_Giraudeau",
+    "imdb": "nm0320812",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-discours",
+      "title": "Le Discours"
+    },
+    {
+      "type": "film",
+      "slug": "la-venue-de-l-avenir",
+      "title": "La Venue de l'avenir"
+    },
+    {
+      "type": "film",
+      "slug": "sur-un-fil",
+      "title": "Sur un fil"
+    },
+    {
+      "type": "film",
+      "slug": "boule-bill",
+      "title": "Boule & Bill"
+    },
+    {
+      "type": "film",
+      "slug": "adieu-monsieur-haffmann",
+      "title": "Adieu Monsieur Haffmann"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "445ff83b-a26f-4392-8605-78477c98923d",
+      "title": "Le discours",
+      "programSlug": "le-discours",
+      "programUrl": "/programme/ocs/le-discours",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-19 09:59:00+00",
+      "endTime": "2026-04-19 10:06:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "85ddd2a1-29db-44a1-8e2f-d9b15dfe66fc",
+      "title": "Boule & Bill",
+      "programSlug": "boule-bill",
+      "programUrl": "/programme/canal-grand-ecran/boule-bill",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 16:15:00+00",
+      "endTime": "2026-04-20 17:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "027bf865-81c6-422e-95b6-3e53da1a6b74",
+      "title": "La Venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/canal/la-venue-de-l-avenir",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 11:28:00+00",
+      "endTime": "2026-04-21 13:29:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4e6d724f-7056-4d35-a243-100c134594ac",
+      "title": "La venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/paramount-channel/la-venue-de-l-avenir",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 13:15:00+00",
+      "endTime": "2026-04-24 15:15:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "81b3811a-de71-4159-aa73-d7844bc0c2b0",
+      "title": "La Venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/canal-cinema/la-venue-de-l-avenir",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 13:16:00+00",
+      "endTime": "2026-04-24 15:18:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 09:59:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

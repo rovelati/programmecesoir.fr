@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "shawn-michaels",
+  "name": "Shawn Michaels",
+  "worksCount": 1,
+  "description": "catcheur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shawn%20Michaels%20WM24%20shot%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-07-22",
+  "nationality": "États-Unis",
+  "jobTitle": "catcheur",
+  "externalIds": {
+    "wikidata": "Q31317",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Shawn_Michaels",
+    "imdb": "nm0382582",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-arme-fatale-4",
+      "title": "L'arme fatale 4"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

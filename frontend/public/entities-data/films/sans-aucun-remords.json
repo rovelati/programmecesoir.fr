@@ -1,0 +1,126 @@
+{
+  "type": "film",
+  "slug": "sans-aucun-remords",
+  "title": "Sans aucun remords",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Sans aucun remords"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm d'espionnage",
+    "thriller"
+  ],
+  "description": "L'adjudant-chef John Kelly, membre des forces spéciales des marines, se retrouve en mission à Alep, en Syrie. Au cours de l'opération, lui et son équipe parviennent à sauver un agent de la CIA pris en otage par un groupe paramilitaire, présumé pro-régime. Mais très vite, ils comprennent qu'il s'agit en fait d'un groupe de militaires russes en mission...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 109,
+  "cast": [
+    {
+      "qid": "Q3308007",
+      "slug": "michael-b-jordan",
+      "name": "Michael B. Jordan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q297071",
+      "slug": "jamie-bell",
+      "name": "Jamie Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q63514190",
+      "slug": "jodie-turner-smith",
+      "name": "Jodie Turner-Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q458479",
+      "slug": "luke-mitchell",
+      "name": "Luke Mitchell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18922733",
+      "slug": "jacob-scipio",
+      "name": "Jacob Scipio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236074",
+      "slug": "cam-gigandet",
+      "name": "Cam Gigandet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q30110185",
+      "slug": "jack-kesy",
+      "name": "Jack Kesy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3435766",
+      "slug": "todd-lasance",
+      "name": "Todd Lasance",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4962181",
+      "slug": "brett-gelman",
+      "name": "Brett Gelman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2344116",
+      "slug": "lauren-london",
+      "name": "Lauren London",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5147723",
+      "slug": "colman-domingo",
+      "name": "Colman Domingo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223745",
+      "slug": "guy-pearce",
+      "name": "Guy Pearce",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3497995",
+    "slug": "stefano-sollima",
+    "name": "Stefano Sollima",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "alan-tudyk",
+  "name": "Alan Tudyk",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": "Alan Tudyk est un acteur américain polyvalent, aussi à l'aise dans la comédie que dans des rôles plus dramatiques ou de science-fiction. Son jeu se caractérise par une énergie contagieuse et une expressivité unique, capable de donner vie à des personnages aussi bien excentriques que profondément humains. Il crée souvent une ambiance à la fois décalée et chaleureuse, sachant faire rire et émouvoir avec une authenticité rare. Pour le téléspectateur, son charisme immédiat et sa capacité à incarner des rôles mémorables, qu'ils soient principaux ou de soutien, rendent chaque apparition captivante. Une filmographie éclectique à découvrir absolument, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Tudyk%20(53771747157)(1)%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-03-16",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q349350",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alan_Tudyk",
+    "imdb": "nm0876138",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "en-cloque-mode-d-emploi",
+      "title": "En cloque, mode d'emploi"
+    },
+    {
+      "type": "film",
+      "slug": "3h10-pour-yuma",
+      "title": "3h10 pour Yuma"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d9c78314-093d-49c7-9b98-a78f5b59a690",
+      "title": "En cloque, mode d'emploi",
+      "programSlug": "en-cloque-mode-d-emploi",
+      "programUrl": "/programme/cine-emotion/en-cloque-mode-d-emploi",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-22 18:50:00+00",
+      "endTime": "2026-04-22 20:59:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:30.970Z",
+  "nextAiringAt": "2026-04-22 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

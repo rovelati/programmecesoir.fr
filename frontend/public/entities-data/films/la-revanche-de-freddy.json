@@ -1,0 +1,116 @@
+{
+  "type": "film",
+  "slug": "la-revanche-de-freddy",
+  "title": "La revanche de Freddy",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La revanche de Freddy"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "film pour adolescents",
+    "film LGBT",
+    "slasher",
+    "thriller policier",
+    "cinéma indépendant",
+    "surnaturel horreur",
+    "thriller",
+    "film ou téléfilm criminel",
+    "film et téléfilm de fantasy",
+    "film à suspense"
+  ],
+  "description": "Depuis leur récent emménagement à Elm Street, les Walsh sont témoins d'incidents étranges, plus ou moins dramatiques. Tentant de trouver dans un premier temps une explication rationnelle à ces événements, ils basculent dans la peur lorsque, sous leurs yeux, un oiseau se consume en plein vol. Jesse, le fils aîné, fait fréquemment des cauchemars, qu'il cache à ses parents mais qu'il finit par confier à Lisa Poletti, sa petite amie. Un jour, les deux adolescents découvrent l'horrible vérité : des années auparavant, un psychopathe sanguinaire, un certain Freddy Krueger, a sévi en ces lieux. Jesse comprend peu à peu qu'il est possédé par l'esprit du dément...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1985,
+  "durationMinutes": 82,
+  "cast": [
+    {
+      "qid": "Q2319262",
+      "slug": "mark-patton",
+      "name": "Mark Patton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q919394",
+      "slug": "kim-myers",
+      "name": "Kim Myers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q687218",
+      "slug": "robert-rusler",
+      "name": "Robert Rusler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q943390",
+      "slug": "clu-gulager",
+      "name": "Clu Gulager",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239301",
+      "slug": "hope-lange",
+      "name": "Hope Lange",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310389",
+      "slug": "robert-englund",
+      "name": "Robert Englund",
+      "role": "actor"
+    },
+    {
+      "qid": "Q679987",
+      "slug": "marshall-bell",
+      "name": "Marshall Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q485106",
+      "slug": "lyman-ward",
+      "name": "Lyman Ward",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2789834",
+      "slug": "melinda-o-fee",
+      "name": "Melinda O. Fee",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q11338",
+    "slug": "jack-sholder",
+    "name": "Jack Sholder",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

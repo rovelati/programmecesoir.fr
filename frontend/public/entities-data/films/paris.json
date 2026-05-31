@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "paris",
+  "title": "Paris",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Paris"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Pierre, un jeune Parisien, est malade et se demande s'il est condamné. Tandis qu'il sombre dans la mélancolie, malgré le soutien de sa soeur Elise, son état lui donne un regard neuf et différent sur les personnes qu'il croise au quotidien. Peu à peu, le fait d'envisager sa propre fin met en valeur sa vie, la vie des autres et celle de la ville de Paris tout entière. Des maraîchers, une boulangère revêche, une assistante sociale, un danseur, un architecte, un SDF, un prof de fac amoureux, un mannequin et un clandestin camerounais croisent leurs destins et les mêlent à celui de Pierre...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Tour%20Eiffel%20vue%20de%20la%20Tour%20Saint-Jacques%2C%20Paris%20ao%C3%BBt%202014%20(2).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

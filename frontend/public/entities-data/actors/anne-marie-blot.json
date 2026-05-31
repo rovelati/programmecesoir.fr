@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "anne-marie-blot",
+  "name": "Anne-Marie Blot",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1946-04-17",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2850827",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anne-Marie_Blot",
+    "imdb": "nm0089356",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "du-rififi-a-paname",
+      "title": "Du rififi à Paname"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "37-2-le-matin",
+  "title": "37°2 le matin",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "37°2 le matin"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Ils se connaissent depuis une semaine et passent ensemble de folles nuits d'amour. Sans prévenir, Betty s'installe chez lui, Zorg, paisible gardien d'un village de vacances en bord de mer, hors saison. Un petit incendie criminel leur permet de rompre avec leur fade passé. Les voici en fuite...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ff31e0ed-dd74-4d0a-b230-1f276cc231cc",
+      "title": "37°2 le matin",
+      "programSlug": "37-2-le-matin",
+      "programUrl": "/programme/cine-festival/37-2-le-matin",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 09:04:00+00",
+      "endTime": "2026-04-23 11:03:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1986,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q690283",
+      "slug": "jean-hugues-anglade",
+      "name": "Jean-Hugues Anglade",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273394",
+      "slug": "beatrice-dalle",
+      "name": "Béatrice Dalle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q557272",
+      "slug": "vincent-lindon",
+      "name": "Vincent Lindon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q38554",
+      "slug": "dominique-pinon",
+      "name": "Dominique Pinon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q958831",
+      "slug": "gerard-darmon",
+      "name": "Gérard Darmon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18633969",
+      "slug": "consuelo-de-haviland",
+      "name": "Consuelo de Haviland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q511848",
+      "slug": "clementine-celarie",
+      "name": "Clémentine Célarié",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3159516",
+      "slug": "jacques-mathou",
+      "name": "Jacques Mathou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2976918",
+      "slug": "claude-aufaure",
+      "name": "Claude Aufaure",
+      "role": "actor"
+    },
+    {
+      "qid": "Q346102",
+      "slug": "dominique-besnehard",
+      "name": "Dominique Besnehard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2131240",
+      "slug": "raoul-billerey",
+      "name": "Raoul Billerey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2977209",
+      "slug": "claude-confortes",
+      "name": "Claude Confortès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848018",
+      "slug": "andre-julien",
+      "name": "André Julien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2087638",
+      "slug": "philippe-laudenbach",
+      "name": "Philippe Laudenbach",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082036",
+      "slug": "franck-olivier-bonnet",
+      "name": "Franck-Olivier Bonnet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2897370",
+      "slug": "bernadette-palas",
+      "name": "Bernadette Palas",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q505626",
+    "slug": "jean-jacques-beineix",
+    "name": "Jean-Jacques Beineix",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 09:04:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

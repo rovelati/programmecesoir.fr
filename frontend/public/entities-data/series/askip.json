@@ -1,0 +1,239 @@
+{
+  "type": "series",
+  "slug": "askip",
+  "title": "ASKIP",
+  "airingsCount": 26,
+  "sourceTitles": [
+    "ASKIP"
+  ],
+  "genres": [
+    "Série"
+  ],
+  "description": "Six filles et six garçons racontent le fait d'être un collégien en 2020. Un regard immersif sur une tranche d'âge à la croisée de l'enfance et de l'adolescence.\n\nRéalisateur(s) : Benoît Masocco\nActeurs : Guillaume Auvert (Jules), Gabriel Caballero (Maxime), Nassima Benchicou (Leila Faki), Emilia Blayer (Tom), Agnès Miguras (Sophie Chémène)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 10
+    },
+    {
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvmartiniquefr.svg",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguyanefr.svg",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguadeloupefr.svg",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv7-bordeaux.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tvsudmarseillefr.svg",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0387190d-cfda-4bf9-8059-58d0d3ca43aa",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/atvguadeloupefr/askip",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-22 12:50:00+00",
+      "endTime": "2026-04-22 13:03:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "59bd7eb9-2070-45ba-b59f-ee6c20e4c9b8",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/atvguyanefr/askip",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-22 12:50:00+00",
+      "endTime": "2026-04-22 13:03:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "4369cb86-95e5-4804-bda6-1cfa9c2ab965",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/atvmartiniquefr/askip",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-22 12:50:00+00",
+      "endTime": "2026-04-22 13:03:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f76812e6-1fd5-4341-a232-01e3f06a3027",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/antenne-reunion/askip",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-22 12:50:00+00",
+      "endTime": "2026-04-22 13:03:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "3f96eace-1e91-4fe6-9120-94d6df1dfc34",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/tv7-bordeaux/askip",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-22 12:50:00+00",
+      "endTime": "2026-04-22 13:03:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "d76873c3-6002-4145-9c8b-8b70ebb21896",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/tvsudmarseillefr/askip",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-22 12:50:00+00",
+      "endTime": "2026-04-22 13:03:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "b4c2933e-598b-41e9-996f-1b73289e4b5c",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/atvguadeloupefr/askip",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-22 13:03:00+00",
+      "endTime": "2026-04-22 13:17:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "b5699c47-47d0-434f-adb4-b9c9667cbbe7",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/atvguyanefr/askip",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-22 13:03:00+00",
+      "endTime": "2026-04-22 13:17:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "70e72af9-6955-4aae-9165-5e4f19319058",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/atvmartiniquefr/askip",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-22 13:03:00+00",
+      "endTime": "2026-04-22 13:17:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "3b26ade4-554a-431d-b5b2-11a1cba4584e",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/antenne-reunion/askip",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-22 13:03:00+00",
+      "endTime": "2026-04-22 13:17:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "72c1dd68-daae-4bc9-9b33-fe0a42b7c719",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/tv7-bordeaux/askip",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-22 13:03:00+00",
+      "endTime": "2026-04-22 13:17:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7ad56394-c2bd-4ba3-895f-dfe7de7521bb",
+      "title": "ASKIP",
+      "programSlug": "askip",
+      "programUrl": "/programme/tvsudmarseillefr/askip",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-22 13:03:00+00",
+      "endTime": "2026-04-22 13:17:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2020,
+  "numberOfSeasons": 4,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-22 12:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

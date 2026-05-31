@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "scooby-doo-et-la-legende-du-roi-arthur",
+  "title": "Scooby-Doo et la légende du roi Arthur",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Scooby-Doo et la légende du roi Arthur"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Sous la malédiction du fantôme de Morgan Le Fey, la bande de Scoob est renvoyée à l'époque du Roi Arthur, qui est lui-même sous le joug de la sorcière maléfique. Tandis qu'il se coupe un morceau de fromage, Sammy tire involontairement Excalibur de sa pierre. Cet événement soulève le doute sur le souverain légitime. Selon Merlin, le trône de Camelot va devoir se jouer au cours d'un duel. La bande va tenter de remporter le tournoi et briser le sort sur le roi Arthur...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang-1.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 76,
+  "cast": [],
+  "director": {
+    "qid": "Q2706935",
+    "slug": "maxwell-atoms",
+    "name": "Maxwell Atoms",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

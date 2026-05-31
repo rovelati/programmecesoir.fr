@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "franck-dubosc",
+  "name": "Franck Dubosc",
+  "worksCount": 3,
+  "description": "humoriste et acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Franck%20Dubosc%202012.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-11-07",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2646765",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Franck_Dubosc",
+    "imdb": "nm0239498",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "boule-bill",
+      "title": "Boule & Bill"
+    },
+    {
+      "type": "film",
+      "slug": "all-inclusive",
+      "title": "All Inclusive"
+    },
+    {
+      "type": "film",
+      "slug": "prodigieuses",
+      "title": "Prodigieuses"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "85ddd2a1-29db-44a1-8e2f-d9b15dfe66fc",
+      "title": "Boule & Bill",
+      "programSlug": "boule-bill",
+      "programUrl": "/programme/canal-grand-ecran/boule-bill",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 16:15:00+00",
+      "endTime": "2026-04-20 17:35:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 16:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

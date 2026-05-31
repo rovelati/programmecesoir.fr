@@ -1,0 +1,100 @@
+{
+  "type": "film",
+  "slug": "killer-kid",
+  "title": "Killer Kid",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Killer Kid"
+  ],
+  "genres": [
+    "western spaghetti"
+  ],
+  "description": "Laïd, un enfant libanais de onze ans, est vendu par les siens à un groupuscule terroriste qui l'entraîne durement, parmi d'autres gamins, à devenir un tueur sans état d'âme. A l'issue d'une sélection particulièrement rigoureuse, Laïd, totalement endoctriné, se réjouit d'être choisi pour la périlleuse mission qui fera de lui un héros national. Mais tout d'abord, avant d'approcher sa cible, qui se trouve en France, Laïd doit se familiariser avec son nouvel environnement. Karim, un jeune Beur arraché à ses parents sous la menace, doit lui servir de guide et d'initiateur. Peu à peu, ces deux enfants si différents se lient d'une profonde amitié...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1967,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q574025",
+      "slug": "anthony-steffen",
+      "name": "Anthony Steffen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1406829",
+      "slug": "fernando-sancho",
+      "name": "Fernando Sancho",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1694622",
+      "slug": "luisa-baratto",
+      "name": "Luisa Baratto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q963576",
+      "slug": "giovanni-cianfriglia",
+      "name": "Giovanni Cianfriglia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2439637",
+      "slug": "tom-felleghy",
+      "name": "Tom Felleghy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12294348",
+      "slug": "fedele-gentile",
+      "name": "Fedele Gentile",
+      "role": "actor"
+    },
+    {
+      "qid": "Q356924",
+      "slug": "yorgo-voyagis",
+      "name": "Yorgo Voyagis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1439092",
+      "slug": "fortunato-arena",
+      "name": "Fortunato Arena",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1819968",
+    "slug": "leopoldo-savona",
+    "name": "Leopoldo Savona",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

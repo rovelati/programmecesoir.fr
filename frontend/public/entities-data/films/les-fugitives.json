@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "les-fugitives",
+  "title": "Les fugitives",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Les fugitives"
+  ],
+  "genres": [
+    "Cinéma",
+    "Film"
+  ],
+  "description": "A la suite d'un cambriolage qui a mal tourné, deux femmes doivent prendre la fuite avec un otage. Une course-poursuite s'engage avec la police.",
+  "descriptionAi": "Ce film de suspense haletant plonge le spectateur dans une course contre la montre intense et nerveuse. Après un braquage raté, deux femmes se retrouvent en cavale avec un otage, traquées par la police dans une atmosphère de tension croissante. L'intérêt réside dans la complexité des personnages et les choix moraux auxquels elles sont confrontées, brouillant les lignes entre victimes et coupables. La dynamique entre les trois femmes, mêlée à l'adrénaline de la poursuite, offre un récit captivant sur la survie et les alliances improbables. Une plongée immersive dans la fuite et ses conséquences, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q65064309",
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:34:20.255Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

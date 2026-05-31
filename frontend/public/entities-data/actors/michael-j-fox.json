@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "michael-j-fox",
+  "name": "Michael J. Fox",
+  "worksCount": 1,
+  "description": "acteur et activiste canado-américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20J%20Fox%202020.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1961-06-09",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q395274",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michael_J._Fox",
+    "imdb": "nm0000150",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "outrages",
+      "title": "Outrages"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

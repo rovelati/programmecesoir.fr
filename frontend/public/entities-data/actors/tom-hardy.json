@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "tom-hardy",
+  "name": "Tom Hardy",
+  "worksCount": 3,
+  "description": "acteur, scénariste et producteur de cinéma anglais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Hardy%20by%20Gage%20Skidmore%20in%202018.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-09-15",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q208026",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tom_Hardy",
+    "imdb": "nm0362766",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "the-dark-knight-rises",
+      "title": "The Dark Knight Rises"
+    },
+    {
+      "type": "film",
+      "slug": "legend",
+      "title": "Legend"
+    },
+    {
+      "type": "film",
+      "slug": "rock-n-rolla",
+      "title": "Rock'n'Rolla"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67c1ebbf-a111-4083-a014-1cb877a116d5",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-rises",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 10:12:00+00",
+      "endTime": "2026-04-19 12:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3d1f0ee5-ff66-44e8-8bb5-fbf2e07d1fac",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-rises",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 21:16:00+00",
+      "endTime": "2026-04-21 23:57:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 10:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

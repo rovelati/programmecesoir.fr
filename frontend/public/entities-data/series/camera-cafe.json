@@ -1,0 +1,124 @@
+{
+  "type": "series",
+  "slug": "camera-cafe",
+  "title": "Caméra café",
+  "airingsCount": 14,
+  "sourceTitles": [
+    "Caméra café"
+  ],
+  "genres": [
+    "sitcom"
+  ],
+  "description": "Devant la machine à café défile tout le personnel de l'entreprise GES, qui s'y retrouve pour évoquer ses tracas d'ordre professionnel ou privé. Parmi les employés, on compte notamment le délégué syndical Hervé Dumont, le truculent commercial Jean-Claude Convenant, Sylvain Müller, le comptable naïf, et son alter ego Maeva Capucin, Jeanne Bignon, qui élève seule ses trois enfants ou encore Jean-Guy Lecointre, DRH de l'entreprise âgé d'une cinquantaine d'années. Déclinée en 570 épisodes, cette série qui aborde la vie en entreprise par le biais de l'humour a connu un franc succès et a même eu droit à un long métrage intitulé \"Espace détente\".",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paris-premiere.png",
+      "airingsCount": 14
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1fefc1d3-d923-44e4-ac7e-bd596dcf43d0",
+      "title": "Caméra café",
+      "programSlug": "camera-cafe",
+      "programUrl": "/programme/paris-premiere/camera-cafe",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 05:00:00+00",
+      "endTime": "2026-04-20 08:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b228bf52-f403-4d2c-a62a-72cbf94d49f4",
+      "title": "Caméra café",
+      "programSlug": "camera-cafe",
+      "programUrl": "/programme/paris-premiere/camera-cafe",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-21 05:00:00+00",
+      "endTime": "2026-04-21 08:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e4eb749b-68b2-468a-bc2c-6a785cd72c58",
+      "title": "Caméra café",
+      "programSlug": "camera-cafe",
+      "programUrl": "/programme/paris-premiere/camera-cafe",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-22 05:00:00+00",
+      "endTime": "2026-04-22 08:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f865519b-011a-4bef-aa58-887cdd3fb71f",
+      "title": "Caméra café",
+      "programSlug": "camera-cafe",
+      "programUrl": "/programme/paris-premiere/camera-cafe",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-23 05:00:00+00",
+      "endTime": "2026-04-23 08:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6a89f7fe-2c88-4851-92b4-017299fee10e",
+      "title": "Caméra café",
+      "programSlug": "camera-cafe",
+      "programUrl": "/programme/paris-premiere/camera-cafe",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-24 05:00:00+00",
+      "endTime": "2026-04-24 09:30:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "8b904ec5-9568-4067-a294-f454603ca442",
+      "title": "Caméra café",
+      "programSlug": "camera-cafe",
+      "programUrl": "/programme/paris-premiere/camera-cafe",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-25 08:00:00+00",
+      "endTime": "2026-04-25 11:05:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2001,
+  "numberOfSeasons": 7,
+  "cast": [],
+  "creator": {
+    "qid": "Q2926989",
+    "slug": "bruno-solo",
+    "name": "Bruno Solo",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 05:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

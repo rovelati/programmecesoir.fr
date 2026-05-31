@@ -1,0 +1,107 @@
+{
+  "type": "film",
+  "slug": "jurassic-domination",
+  "title": "Jurassic Domination",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Jurassic Domination"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "film ou téléfilm d'aventure",
+    "biopunk",
+    "film et téléfilm d'horreur",
+    "thriller"
+  ],
+  "description": "Branle-bas de combat dans une petite ville paisible : un camion de l'armée qui transportait deux allosaures, crées par clonage et manipulés génétiquement pour devenir invulnérables, laisse échapper son terrible chargement. Tandis que le shérif du bourg tente de protéger la population, au Pentagone, le général Greer décide d'envoyer une équipe de soldats d'élite sur place. L'objectif de la mission ne doit en aucun cas être divulguée au grand public car elle pourrait mettre le gouvernement dans une situation critique. C'est en effet à la demande de ce dernier que des scientifiques ont créé ces créatures terrifiantes...",
+  "descriptionAi": "Plongez dans un thriller d'action et de science-fiction où l'horreur biopunk prend vie. L'ambiance est à la tension extrême lorsqu'une paire d'allosaures génétiquement modifiés, créatures invulnérables et échappées d'un convoi militaire, sème la terreur dans une petite ville. Le film mêle le combat désespéré d'un shérif local et l'intervention clandestine de soldats d'élite, révélant un sombre secret gouvernemental. L'intrigue palpitante, teintée de frissons et de conspiration, explore les conséquences terrifiantes d'une science sans limites. Pour un divertissement intense mêlant créatures préhistoriques et suspense militaire, c'est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mcm.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4b36ab65-c9cb-49be-8109-1ee818e780fa",
+      "title": "Jurassic Domination",
+      "programSlug": "jurassic-domination",
+      "programUrl": "/programme/mcm/jurassic-domination",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-20 19:00:00+00",
+      "endTime": "2026-04-20 20:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e4ce4ab8-002d-44c6-b878-2423ab1f67ac",
+      "title": "Jurassic Domination",
+      "programSlug": "jurassic-domination",
+      "programUrl": "/programme/mcm/jurassic-domination",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-25 20:35:00+00",
+      "endTime": "2026-04-25 22:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:49:10.476Z",
+  "year": 2022,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q26213677",
+      "slug": "jamie-bernadette",
+      "name": "Jamie Bernadette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q110156436",
+      "slug": "deangelo-davis",
+      "name": "DeAngelo Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q100230392",
+      "slug": "alissa-filoramo",
+      "name": "Alissa Filoramo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105666005",
+      "slug": "jack-pearson",
+      "name": "Jack Pearson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207969",
+      "slug": "eric-roberts",
+      "name": "Eric Roberts",
+      "role": "actor"
+    }
+  ],
+  "director": null,
+  "nextAiringAt": "2026-04-20 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

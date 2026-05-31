@@ -1,0 +1,174 @@
+{
+  "type": "film",
+  "slug": "from-paris-with-love",
+  "title": "From Paris with Love",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "From Paris with Love"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller"
+  ],
+  "description": "James Reece a toujours rêvé d'intégrer les services secrets et de jouer aux espions et aux agents très spéciaux pour son pays. Mais pour le moment, James occupe le poste d'assistant personnel de l'ambassadeur américain à Paris. Il lui arrive parfois de rendre quelques services aux Forces spéciales de son pays mais ces missions ne font que le frustrer davantage. Jusqu'au jour où un sommet spécial est en préparation à Paris. James est enfin recruté \"pour de vrai\" et on lui assigne un partenaire, Wax, qu'il est chargé de récupérer à l'aéroport. En travaillant aux côtés de cet élément d'élite surentraîné, James va vite se rendre compte que la vie d'agent secret est loin d'être une sinécure...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b3efa48-33ba-4e07-ac3c-142a54a8b64d",
+      "title": "From Paris with Love",
+      "programSlug": "from-paris-with-love",
+      "programUrl": "/programme/cine-frisson/from-paris-with-love",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 09:55:00+00",
+      "endTime": "2026-04-23 11:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "ba809530-0f1a-46a5-8aaa-1291898052b2",
+      "title": "From Paris with Love",
+      "programSlug": "from-paris-with-love",
+      "programUrl": "/programme/cine-frisson/from-paris-with-love",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 17:19:00+00",
+      "endTime": "2026-04-25 18:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2010,
+  "durationMinutes": 93,
+  "cast": [
+    {
+      "qid": "Q80938",
+      "slug": "john-travolta",
+      "name": "John Travolta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q213567",
+      "slug": "jonathan-rhys-meyers",
+      "name": "Jonathan Rhys-Meyers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269762",
+      "slug": "kasia-smutniak",
+      "name": "Kasia Smutniak",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7325325",
+      "slug": "richard-durden",
+      "name": "Richard Durden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2903928",
+      "slug": "bing-yin",
+      "name": "Bing Yin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2962583",
+      "slug": "chems-dahmani",
+      "name": "Chems Dahmani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2975504",
+      "slug": "clara-plume",
+      "name": "Clara Plume",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2560838",
+      "slug": "david-gasman",
+      "name": "David Gasman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3591162",
+      "slug": "eric-godon",
+      "name": "Éric Godon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3089707",
+      "slug": "frederic-chau",
+      "name": "Frédéric Chau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3167422",
+      "slug": "jean-marc-loubier",
+      "name": "Jean-Marc Loubier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236842",
+      "slug": "kelly-preston",
+      "name": "Kelly Preston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q484779",
+      "slug": "luc-besson",
+      "name": "Luc Besson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3305131",
+      "slug": "melissa-mars",
+      "name": "Melissa Mars",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15147196",
+      "slug": "michael-vander-meiren",
+      "name": "Michaël Vander-Meiren",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3325022",
+      "slug": "mostefa-stiti",
+      "name": "Mostéfa Stiti",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1356708",
+    "slug": "pierre-morel",
+    "name": "Pierre Morel",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 09:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

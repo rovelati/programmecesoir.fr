@@ -1,0 +1,98 @@
+{
+  "type": "film",
+  "slug": "tangerine",
+  "title": "Tangerine",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Tangerine"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "film de Noël",
+    "film sur les transgenres",
+    "film LGBT"
+  ],
+  "description": "Sin-Dee et Alexandra, deux prostituées transgenres, se retrouvent autour d'un verre. Sin-Dee sort de prison et veut retrouver Chester, son petit ami et souteneur. Alexandra gaffe en lui révélant son infidélité. Hors d'elle, Sin-Dee est bien décidée à retrouver la fille qui a osé coucher avec son amant...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "29e9b305-d625-4b27-9f98-80eefcf809ae",
+      "title": "Tangerine",
+      "programSlug": "tangerine",
+      "programUrl": "/programme/cine-festival/tangerine",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-21 21:42:00+00",
+      "endTime": "2026-04-21 23:06:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 88,
+  "cast": [
+    {
+      "qid": "Q21596659",
+      "slug": "kitana-kiki-rodriguez",
+      "name": "Kitana Kiki Rodriguez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21596656",
+      "slug": "mya-taylor",
+      "name": "Mya Taylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44273",
+      "slug": "james-ransone",
+      "name": "James Ransone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q977095",
+      "slug": "scott-krinsky",
+      "name": "Scott Krinsky",
+      "role": "actor"
+    },
+    {
+      "qid": "Q943390",
+      "slug": "clu-gulager",
+      "name": "Clu Gulager",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q7441419",
+    "slug": "sean-s-baker",
+    "name": "Sean S. Baker",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 21:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

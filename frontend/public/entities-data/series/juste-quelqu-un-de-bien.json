@@ -1,0 +1,96 @@
+{
+  "type": "series",
+  "slug": "juste-quelqu-un-de-bien",
+  "title": "Juste quelqu'un de bien",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Juste quelqu'un de bien",
+    "Juste quelqu'un de bien - Saison 1"
+  ],
+  "genres": [
+    "musique populaire"
+  ],
+  "description": "Yves et Steve échangent leur CV. Anne et Marius, mariés depuis deux ans, n'arrivent pas à avoir d'enfant. Paul demande Edith en mariage. Anne est bouleversée par sa fausse couche.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv5-monde.png",
+      "airingsCount": 10
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a3335140-6eae-45cc-9229-ea5813a65d14",
+      "title": "Juste quelqu'un de bien - Saison 1",
+      "programSlug": "juste-quelqu-un-de-bien-saison-1",
+      "programUrl": "/programme/tv5-monde/juste-quelqu-un-de-bien-saison-1",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-25 15:00:00+00",
+      "endTime": "2026-04-25 15:25:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "3d3983d2-d012-4537-a77a-8d2ff11831fe",
+      "title": "Juste quelqu'un de bien - Saison 1",
+      "programSlug": "juste-quelqu-un-de-bien-saison-1",
+      "programUrl": "/programme/tv5-monde/juste-quelqu-un-de-bien-saison-1",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-25 15:25:00+00",
+      "endTime": "2026-04-25 16:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c30f2613-226e-4d35-ae00-cd99eb30702e",
+      "title": "Juste quelqu'un de bien - Saison 1",
+      "programSlug": "juste-quelqu-un-de-bien-saison-1",
+      "programUrl": "/programme/tv5-monde/juste-quelqu-un-de-bien-saison-1",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-25 23:41:00+00",
+      "endTime": "2026-04-26 00:06:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "71e71cb8-ece0-4a3a-8d95-ddb174e03077",
+      "title": "Juste quelqu'un de bien - Saison 1",
+      "programSlug": "juste-quelqu-un-de-bien-saison-1",
+      "programUrl": "/programme/tv5-monde/juste-quelqu-un-de-bien-saison-1",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-26 00:06:00+00",
+      "endTime": "2026-04-26 00:35:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1994,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-25 15:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,126 @@
+{
+  "type": "film",
+  "slug": "comment-voler-un-million-de-dollars",
+  "title": "Comment voler un million de dollars",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Comment voler un million de dollars"
+  ],
+  "genres": [
+    "comédie romantique",
+    "film ou téléfilm de casse",
+    "comédie"
+  ],
+  "description": "Charles Bonnet a fait fortune en attribuant les toiles qui sortent de son atelier à des noms aussi prestigieux que Rembrandt ou Gauguin. Enivré par son succès, il imagine de présenter une statuette, oeuvre de son grand-père, comme étant de la main de Benvenuto Cellini. La plaisanterie menace de tourner court lorsque l'oeuvre, prêtée à une exposition, est sur le point d'être expertisée. Nicole, la fille du faussaire, convainc un cambrioleur de s'emparer de la pièce pour tirer son père de ce mauvais pas. Mais le voleur dissimule un policier, spécialiste des falsifications d'oeuvres d'art. Il entend bien mettre tout ce petit monde derrière les barreaux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1966,
+  "durationMinutes": 123,
+  "cast": [
+    {
+      "qid": "Q42786",
+      "slug": "audrey-hepburn",
+      "name": "Audrey Hepburn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q103876",
+      "slug": "peter-o-toole",
+      "name": "Peter O'Toole",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104067",
+      "slug": "eli-wallach",
+      "name": "Eli Wallach",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310934",
+      "slug": "hugh-griffith",
+      "name": "Hugh Griffith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105987",
+      "slug": "charles-boyer",
+      "name": "Charles Boyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1406503",
+      "slug": "fernand-gravey",
+      "name": "Fernand Gravey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1893008",
+      "slug": "marcel-dalio",
+      "name": "Marcel Dalio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1663127",
+      "slug": "jacques-marin",
+      "name": "Jacques Marin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1951075",
+      "slug": "moustache",
+      "name": "Moustache",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3159834",
+      "slug": "jacques-ramade",
+      "name": "Jacques Ramade",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3386300",
+      "slug": "pierre-mirat",
+      "name": "Pierre Mirat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q323832",
+      "slug": "roger-treville",
+      "name": "Roger Tréville",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51495",
+    "slug": "william-wyler",
+    "name": "William Wyler",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

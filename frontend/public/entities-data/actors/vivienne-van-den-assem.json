@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "vivienne-van-den-assem",
+  "name": "Viviënne van den Assem",
+  "worksCount": 1,
+  "description": "Dutch television presenter, television actor, actor and presenter",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vivienne%20van%20den%20Assem%20(2009).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1983-11-15",
+  "nationality": "Royaume des Pays-Bas",
+  "jobTitle": "animateur ou animatrice de télévision",
+  "externalIds": {
+    "wikidata": "Q1683531",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Vivi%C3%ABnne_van_den_Assem",
+    "imdb": "nm0039813",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "drole-de-prof",
+      "title": "Drôle de prof"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "de4e69d3-e304-4192-b9bb-107168bbb443",
+      "title": "Drôle de prof",
+      "programSlug": "drole-de-prof",
+      "programUrl": "/programme/cine-family/drole-de-prof",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-26 00:32:00+00",
+      "endTime": "2026-04-26 03:03:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-26 00:32:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

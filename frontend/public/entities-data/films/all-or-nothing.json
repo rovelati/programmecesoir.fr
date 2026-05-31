@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "all-or-nothing",
+  "title": "All or Nothing",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "All or Nothing"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm d'amour",
+    "comédie"
+  ],
+  "description": "Le morne quotidien de Phil se partage entre ses interminables journées dans son taxi et sa vie de famille qui se délite depuis longtemps déjà. Penny, sa femme, travaille dans une grande surface et tente, tant bien que mal, d'assurer la cohésion de leur famille. Leur fille, Rachel, fait le ménage dans une maison de retraite tandis que Rory, leur fils, est au chômage depuis un certain temps. Autour d'eux, la vie poursuit son cours, contrastant avec leur quotidien déprimant. Les choses vont de mal en pis quand Rory, alors qu'il traînait en bas de l'immeuble, est victime d'une série de convulsions et s'effondre. Penny le conduit immédiatement à l'hôpital...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2002,
+  "durationMinutes": 128,
+  "cast": [
+    {
+      "qid": "Q287824",
+      "slug": "timothy-spall",
+      "name": "Timothy Spall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q444410",
+      "slug": "lesley-manville",
+      "name": "Lesley Manville",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4885474",
+      "slug": "ben-crompton",
+      "name": "Ben Crompton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2924857",
+      "slug": "brian-bovell",
+      "name": "Brian Bovell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q579571",
+      "slug": "daniel-mays",
+      "name": "Daniel Mays",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459482",
+      "slug": "kathryn-hunter",
+      "name": "Kathryn Hunter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7151583",
+      "slug": "paul-jesson",
+      "name": "Paul Jesson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3436554",
+      "slug": "robert-wilfort",
+      "name": "Robert Wilfort",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436451",
+      "slug": "ruth-sheen",
+      "name": "Ruth Sheen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233563",
+      "slug": "sally-hawkins",
+      "name": "Sally Hawkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2419414",
+      "slug": "sam-kelly",
+      "name": "Sam Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5525560",
+      "slug": "gary-mcdonald",
+      "name": "Gary McDonald",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6765072",
+      "slug": "marion-bailey",
+      "name": "Marion Bailey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q767499",
+      "slug": "james-corden",
+      "name": "James Corden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447540",
+      "slug": "timothy-bateson",
+      "name": "Timothy Bateson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3853137",
+      "slug": "maxine-peake",
+      "name": "Maxine Peake",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q315756",
+    "slug": "mike-leigh",
+    "name": "Mike Leigh",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

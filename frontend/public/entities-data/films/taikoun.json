@@ -1,0 +1,163 @@
+{
+  "type": "film",
+  "slug": "taikoun",
+  "title": "Taïkoun",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Taïkoun"
+  ],
+  "genres": [
+    "film ou téléfilm d'amour",
+    "drame",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Après une difficile semaine consacrée à creuser un tunnel dans les Andes, Johnny Munroe, un ingénieur américain, considère qu'il peut bien s'amuser un peu à Tenango, la cité voisine. Son compère de toujours, Pop Mathews, préfère discuter de l'avancement des travaux avec leur riche commanditaire, Frederick Alexander. L'austère magnat américain voit d'un mauvais oeil les excès de boisson de Johnny. Sa fille, Maura, que Johnny, très aviné, importune dans une église sans savoir qui elle est, le considère avec indulgence et le remet gentiment à sa place. Elle accepte ensuite de le recevoir chez elle. Lorsqu'il s'en avise, Alexander jette tout simplement Johnny à la porte...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d9673e75-145f-41ee-997b-508b481199c1",
+      "title": "Taïkoun",
+      "programSlug": "taikoun",
+      "programUrl": "/programme/tcm-cinema/taikoun",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-22 16:45:00+00",
+      "endTime": "2026-04-22 18:50:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1947,
+  "durationMinutes": 128,
+  "cast": [
+    {
+      "qid": "Q40531",
+      "slug": "john-wayne",
+      "name": "John Wayne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466063",
+      "slug": "laraine-day",
+      "name": "Laraine Day",
+      "role": "actor"
+    },
+    {
+      "qid": "Q527735",
+      "slug": "cedric-hardwicke",
+      "name": "Cedric Hardwicke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230415",
+      "slug": "judith-anderson",
+      "name": "Judith Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q726398",
+      "slug": "james-gleason",
+      "name": "James Gleason",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83484",
+      "slug": "anthony-quinn",
+      "name": "Anthony Quinn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3115415",
+      "slug": "grant-withers",
+      "name": "Grant Withers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q551824",
+      "slug": "michael-harvey",
+      "name": "Michael Harvey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2831802",
+      "slug": "alberto-morin",
+      "name": "Alberto Morin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q340039",
+      "slug": "argentina-brunetti",
+      "name": "Argentina Brunetti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2960351",
+      "slug": "charles-trowbridge",
+      "name": "Charles Trowbridge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q744357",
+      "slug": "paul-fix",
+      "name": "Paul Fix",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2412911",
+      "slug": "trevor-bardette",
+      "name": "Trevor Bardette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5673513",
+      "slug": "harry-woods",
+      "name": "Harry Woods",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6775506",
+      "slug": "martin-garralaga",
+      "name": "Martin Garralaga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4766328",
+      "slug": "ann-codee",
+      "name": "Ann Codee",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q374455",
+    "slug": "richard-wallace",
+    "name": "Richard Wallace",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 16:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "leonard-nimoy",
+  "name": "Leonard Nimoy",
+  "worksCount": 2,
+  "description": "acteur et cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonard%20Nimoy%20Mission%20Impossible.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1931-03-26",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q16345",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Leonard_Nimoy",
+    "imdb": "nm0000559",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "star-trek-into-darkness",
+      "title": "Star Trek Into Darkness"
+    },
+    {
+      "type": "film",
+      "slug": "star-trek",
+      "title": "Star Trek"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

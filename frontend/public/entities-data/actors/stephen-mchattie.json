@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "stephen-mchattie",
+  "name": "Stephen McHattie",
+  "worksCount": 2,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/StephenMcHattie08TIFF.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1947-02-03",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1321265",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Stephen_McHattie",
+    "imdb": "nm0570385",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "300",
+      "title": "300"
+    },
+    {
+      "type": "film",
+      "slug": "jesse-stone-le-benefice-du-doute",
+      "title": "Jesse Stone : le bénéfice du doute"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

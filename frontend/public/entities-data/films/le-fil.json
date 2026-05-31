@@ -1,0 +1,139 @@
+{
+  "type": "film",
+  "slug": "le-fil",
+  "title": "Le fil",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le fil"
+  ],
+  "genres": [
+    "drame",
+    "film LGBT",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Depuis qu'il a fait innocenter un meurtrier récidiviste, Jean Monier, un avocat chevronné, refuse catégoriquement de prendre en charge de nouveaux dossiers criminels. Mais sa rencontre avec Nicolas Milik, un brave père de famille accusé du meurtre de son épouse alcoolique, le bouleverse et fait vaciller ses certitudes. Convaincu de l'innocence de son client, Monier est prêt à tout pour lui faire gagner son procès aux assises, retrouvant ainsi le sens de sa vocation. Il ignore encore que cette affaire va avoir des répercussions sur son existence et la suite de sa carrière...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c5650e58-ca02-474d-aacb-d2c9dd0c4317",
+      "title": "Le fil",
+      "programSlug": "le-fil",
+      "programUrl": "/programme/ocs/le-fil",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 04:37:00+00",
+      "endTime": "2026-04-21 06:29:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "64053119-ed1e-4355-9e96-a146d8561361",
+      "title": "Le fil",
+      "programSlug": "le-fil",
+      "programUrl": "/programme/france-3-corse/le-fil",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-23 18:45:00+00",
+      "endTime": "2026-04-23 20:16:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "ec2e884b-5d98-440d-b94f-7709991f4bfc",
+      "title": "Le fil",
+      "programSlug": "le-fil",
+      "programUrl": "/programme/ocs/le-fil",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-24 08:02:00+00",
+      "endTime": "2026-04-24 09:54:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 93,
+  "cast": [
+    {
+      "qid": "Q107006",
+      "slug": "claudia-cardinale",
+      "name": "Claudia Cardinale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2857138",
+      "slug": "antonin-stahly-vishwanadan",
+      "name": "Antonin Stahly-Vishwanadan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1367862",
+      "slug": "salim-kechiouche",
+      "name": "Salim Kechiouche",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3259990",
+      "slug": "lotfi-dziri",
+      "name": "Lotfi Dziri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3304469",
+      "slug": "mehdi-ben-attia",
+      "name": "Mehdi Ben Attia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20723722",
+      "slug": "ramla-ayari",
+      "name": "Ramla Ayari",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111032332",
+      "slug": "driss-ramdi",
+      "name": "Driss Ramdi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20751671",
+      "slug": "mohamed-grayaa",
+      "name": "Mohamed Grayaâ",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3304469",
+    "slug": "mehdi-ben-attia",
+    "name": "Mehdi Ben Attia",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 04:37:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

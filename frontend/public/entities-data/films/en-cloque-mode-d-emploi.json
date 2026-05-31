@@ -1,0 +1,163 @@
+{
+  "type": "film",
+  "slug": "en-cloque-mode-d-emploi",
+  "title": "En cloque, mode d'emploi",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "En cloque, mode d'emploi"
+  ],
+  "genres": [
+    "comédie romantique",
+    "comédie dramatique",
+    "drame"
+  ],
+  "description": "Avec ses inséparables copains, Ben mène une existence sans tracas. Refusant de se poser trop de questions sur l'avenir, il passe ses journées à perdre tranquillement son temps. Un soir, dans une boîte de nuit, il croise Alison. Dynamique et talentueuse, Alison fête une promotion en compagnie de sa copine Debbie. Passablement ivre, Alison se laisse séduire par l'allure décontractée et débraillée de Ben. Et c'est sans complexes qu'elle passe la nuit avec lui. Le lendemain, Alison n'a qu'une idée : se débarrasser - poliment mais fermement - de Ben. Quelque temps plus tard, elle constate que quelque chose en elle a changé...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d9c78314-093d-49c7-9b98-a78f5b59a690",
+      "title": "En cloque, mode d'emploi",
+      "programSlug": "en-cloque-mode-d-emploi",
+      "programUrl": "/programme/cine-emotion/en-cloque-mode-d-emploi",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-22 18:50:00+00",
+      "endTime": "2026-04-22 20:59:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2007,
+  "durationMinutes": 129,
+  "cast": [
+    {
+      "qid": "Q189554",
+      "slug": "katherine-heigl",
+      "name": "Katherine Heigl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q276525",
+      "slug": "paul-rudd",
+      "name": "Paul Rudd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229011",
+      "slug": "leslie-mann",
+      "name": "Leslie Mann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316756",
+      "slug": "jay-baruchel",
+      "name": "Jay Baruchel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313388",
+      "slug": "jonah-hill",
+      "name": "Jonah Hill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2301339",
+      "slug": "charlyne-yi",
+      "name": "Charlyne Yi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202304",
+      "slug": "jason-segel",
+      "name": "Jason Segel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q716343",
+      "slug": "martin-starr",
+      "name": "Martin Starr",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220308",
+      "slug": "seth-rogen",
+      "name": "Seth Rogen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349350",
+      "slug": "alan-tudyk",
+      "name": "Alan Tudyk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q201842",
+      "slug": "adam-scott",
+      "name": "Adam Scott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q367094",
+      "slug": "andy-dick",
+      "name": "Andy Dick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459925",
+      "slug": "b-j-novak",
+      "name": "B.J. Novak",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14537",
+      "slug": "bill-hader",
+      "name": "Bill Hader",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2925059",
+      "slug": "brianna-brown",
+      "name": "Brianna Brown",
+      "role": "actor"
+    },
+    {
+      "qid": "Q926912",
+      "slug": "craig-robinson",
+      "name": "Craig Robinson",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q325396",
+    "slug": "judd-apatow",
+    "name": "Judd Apatow",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

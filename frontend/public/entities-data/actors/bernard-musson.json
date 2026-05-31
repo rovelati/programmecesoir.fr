@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "bernard-musson",
+  "name": "Bernard Musson",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1925-02-22",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1984434",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bernard_Musson",
+    "imdb": "nm0615913",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-magnifique",
+      "title": "Le magnifique"
+    },
+    {
+      "type": "film",
+      "slug": "marie-antoinette-reine-de-france",
+      "title": "Marie-Antoinette reine de France"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

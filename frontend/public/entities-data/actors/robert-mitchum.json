@@ -1,0 +1,66 @@
+{
+  "type": "actor",
+  "slug": "robert-mitchum",
+  "name": "Robert Mitchum",
+  "worksCount": 2,
+  "description": "acteur américain, XXe siècle (1917-1997)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Mitchum%201949%20(no%20signature).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1917-08-06",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q16472",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Robert_Mitchum",
+    "imdb": "nm0000053",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-griffe-du-passe",
+      "title": "La griffe du passé"
+    },
+    {
+      "type": "film",
+      "slug": "les-forcats-de-la-gloire",
+      "title": "Les forçats de la gloire"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "55c8c1fa-15b4-4952-823b-eb5ba250af3f",
+      "title": "Les forçats de la gloire",
+      "programSlug": "les-forcats-de-la-gloire",
+      "programUrl": "/programme/cine-classic/les-forcats-de-la-gloire",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 13:40:00+00",
+      "endTime": "2026-04-23 15:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "985356ca-2f1e-4e40-958a-32f99089e836",
+      "title": "La griffe du passé",
+      "programSlug": "la-griffe-du-passe",
+      "programUrl": "/programme/tcm-cinema/la-griffe-du-passe",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-24 04:05:00+00",
+      "endTime": "2026-04-24 05:40:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 13:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "sebastian-stan",
+  "name": "Sebastian Stan",
+  "worksCount": 2,
+  "description": "acteur américain, né en Roumanie",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sebastian%20Stan%20by%20Gage%20Skidmore%202%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1982-08-13",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q455898",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sebastian_Stan",
+    "imdb": "nm1659221",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "logan-lucky",
+      "title": "Logan Lucky"
+    },
+    {
+      "type": "film",
+      "slug": "the-apprentice",
+      "title": "The Apprentice"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

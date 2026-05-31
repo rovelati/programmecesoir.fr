@@ -1,0 +1,94 @@
+{
+  "type": "actor",
+  "slug": "henry-fonda",
+  "name": "Henry Fonda",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Fonda%20in%20Warlock.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1905-05-16",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q19155",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Henry_Fonda",
+    "imdb": "nm0000020",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-maison-du-lac",
+      "title": "La maison du lac"
+    },
+    {
+      "type": "film",
+      "slug": "le-massacre-de-fort-apache",
+      "title": "Le massacre de Fort Apache"
+    },
+    {
+      "type": "film",
+      "slug": "mon-nom-est-personne",
+      "title": "Mon nom est Personne"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d493adbd-ee05-494e-bfaa-daf4e33249d9",
+      "title": "La maison du lac",
+      "programSlug": "la-maison-du-lac",
+      "programUrl": "/programme/eurochannel/la-maison-du-lac",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 08:30:00+00",
+      "endTime": "2026-04-19 10:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "66a92193-ac18-4246-81cd-65189973a855",
+      "title": "La maison du lac",
+      "programSlug": "la-maison-du-lac",
+      "programUrl": "/programme/eurochannel/la-maison-du-lac",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 17:20:00+00",
+      "endTime": "2026-04-19 18:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a440120c-d683-442f-924f-1a5a33bbc771",
+      "title": "La maison du lac",
+      "programSlug": "la-maison-du-lac",
+      "programUrl": "/programme/eurochannel/la-maison-du-lac",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 20:35:00+00",
+      "endTime": "2026-04-23 22:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "8544c03f-1c3c-41bd-9275-a93f3642dcec",
+      "title": "La maison du lac",
+      "programSlug": "la-maison-du-lac",
+      "programUrl": "/programme/eurochannel/la-maison-du-lac",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-25 05:45:00+00",
+      "endTime": "2026-04-25 07:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 08:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "spider-man-homecoming",
+  "title": "Spider-Man: Homecoming",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Spider-Man: Homecoming"
+  ],
+  "genres": [
+    "film de super-héros",
+    "film et téléfilm d'action"
+  ],
+  "description": "Après avoir prouvé sa valeur aux Avengers, Peter Parker, alias Spider-Man, est surveillé de près par son mentor Tony Stark. Il apprend difficilement son métier de superhéros. Le jeune homme veut montrer ce dont il est capable quand il est confronté au Vautour, un nouvel ennemi, qui est parvenu à mettre la main sur une technologie extraterrestre. Spider-Man fait alors preuve d'une initiative qui aurait pu coûter la vie aux passagers d'un ferry de New York. Tony Stark demande à son protégé s'il se sent l'étoffe d'un superhéros. Soutenu par son ami Ned, qui connaît son identité secrète, Peter va tout tenter pour lui prouver qu'il peut remplir son rôle...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab3.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 133,
+  "cast": [
+    {
+      "qid": "Q2023710",
+      "slug": "tom-holland",
+      "name": "Tom Holland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q191828",
+      "slug": "marisa-tomei",
+      "name": "Marisa Tomei",
+      "role": "actor"
+    },
+    {
+      "qid": "Q189489",
+      "slug": "zendaya",
+      "name": "Zendaya",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16237562",
+      "slug": "tony-revolori",
+      "name": "Tony Revolori",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23894602",
+      "slug": "laura-harrier",
+      "name": "Laura Harrier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q165219",
+      "slug": "robert-downey-jr",
+      "name": "Robert Downey Jr.",
+      "role": "actor"
+    },
+    {
+      "qid": "Q138005",
+      "slug": "michael-keaton",
+      "name": "Michael Keaton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1239933",
+      "slug": "donald-glover",
+      "name": "Donald Glover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q716343",
+      "slug": "martin-starr",
+      "name": "Martin Starr",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21004892",
+      "slug": "abraham-attah",
+      "name": "Abraham Attah",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2658535",
+      "slug": "selenis-leyva",
+      "name": "Selenis Leyva",
+      "role": "actor"
+    },
+    {
+      "qid": "Q472084",
+      "slug": "logan-marshall-green",
+      "name": "Logan Marshall-Green",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6832484",
+      "slug": "michael-mando",
+      "name": "Michael Mando",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1139685",
+      "slug": "bokeem-woodbine",
+      "name": "Bokeem Woodbine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q255651",
+      "slug": "tyne-daly",
+      "name": "Tyne Daly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q450219",
+      "slug": "garcelle-beauvais",
+      "name": "Garcelle Beauvais",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q18519749",
+    "slug": "jon-watts",
+    "name": "Jon Watts",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

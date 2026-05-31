@@ -1,0 +1,140 @@
+{
+  "type": "film",
+  "slug": "tous-au-cinema",
+  "title": "Tous au cinéma",
+  "airingsCount": 9,
+  "sourceTitles": [
+    "Tous au cinéma"
+  ],
+  "genres": [
+    "Cinema",
+    "Emissions cinéma"
+  ],
+  "description": "\"Tous au cinéma\" est le rendez-vous des amoureux et des curieux du 7e Art. Chaque semaine tout au long de l'année, le magazine traite toutes les sorties en salles sans exception, interviews exclusives à la clé.",
+  "descriptionAi": "Ce magazine cinématographique hebdomadaire est le compagnon idéal des passionnés et des simples curieux. Il explore toutes les sorties en salles sans exception, offrant un tour d'horizon complet et des interviews exclusives. L'ambiance est à la fois dynamique et experte, guidant le téléspectateur dans la richesse de l'actualité du 7e Art. Son intérêt réside dans sa capacité à informer et à faire découvrir, servant de véritable guide pour choisir son prochain film. Une émission incontournable pour ne rien manquer du monde du cinéma, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e5d6b4a4-1e7f-4bb1-8454-07f09d77fdd1",
+      "title": "Tous au cinéma",
+      "programSlug": "tous-au-cinema",
+      "programUrl": "/programme/ocs/tous-au-cinema",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 18:34:00+00",
+      "endTime": "2026-04-21 18:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "03c26af3-f22b-42bd-954a-987599dfd442",
+      "title": "Tous au cinéma",
+      "programSlug": "tous-au-cinema",
+      "programUrl": "/programme/cine-emotion/tous-au-cinema",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-22 04:25:00+00",
+      "endTime": "2026-04-22 04:37:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "28e8c2a2-2e36-4004-ae67-2dfb8c2f95e7",
+      "title": "Tous au cinéma",
+      "programSlug": "tous-au-cinema",
+      "programUrl": "/programme/cine-frisson/tous-au-cinema",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 10:24:00+00",
+      "endTime": "2026-04-24 10:37:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "cb62577a-dfdf-4221-8d73-f97f53535c57",
+      "title": "Tous au cinéma",
+      "programSlug": "tous-au-cinema",
+      "programUrl": "/programme/cine-festival/tous-au-cinema",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-24 18:37:00+00",
+      "endTime": "2026-04-24 18:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "11d367e0-b521-4ffe-aaa3-d4e133d94a47",
+      "title": "Tous au cinéma",
+      "programSlug": "tous-au-cinema",
+      "programUrl": "/programme/ocs/tous-au-cinema",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 18:20:00+00",
+      "endTime": "2026-04-25 18:32:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:34:09.784Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 18:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

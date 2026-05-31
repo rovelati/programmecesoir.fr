@@ -1,0 +1,82 @@
+{
+  "type": "film",
+  "slug": "la-foret-de-glace",
+  "title": "La forêt de glace",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "La forêt de glace"
+  ],
+  "genres": [
+    "thriller"
+  ],
+  "description": "Une tempête de neige menace un village de montagne, un jeune technicien arrive pour réparer la centrale électrique. Il s'y passe des choses étranges.",
+  "descriptionAi": "Ce thriller glaçant de 2014 plonge le spectateur dans une atmosphère de claustrophobie et de mystère. Alors qu'une tempête de neige isole un village de montagne, un jeune technicien arrive pour réparer la centrale électrique, mais découvre rapidement que des phénomènes inexplicables rôdent dans le froid. L'intrigue habile mêle tension psychologique et éléments surnaturels, captivant par son suspense grandissant et son ambiance visuelle envoûtante. L'isolement et le blizzard deviennent des personnages à part entière, rendant chaque révélations plus angoissante. Un film qui vous tiendra en haleine jusqu'au dénouement final, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q20804367",
+    "wikipedia": "https://fr.wikipedia.org/wiki/La_For%C3%AAt_de_glace",
+    "imdb": "tt2559786",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:18.234Z",
+  "year": 2014,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q94882",
+      "slug": "emir-kusturica",
+      "name": "Emir Kusturica",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1077542",
+      "slug": "adriano-giannini",
+      "name": "Adriano Giannini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q167243",
+      "slug": "ksenia-rappoport",
+      "name": "Ksenia Rappoport",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13636157",
+      "slug": "domenico-diele",
+      "name": "Domenico Diele",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3768347",
+      "slug": "giovanni-vettorazzo",
+      "name": "Giovanni Vettorazzo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q16542310",
+    "slug": "claudio-noce",
+    "name": "Claudio Noce",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

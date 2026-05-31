@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "patrick-mille",
+  "name": "Patrick Mille",
+  "worksCount": 2,
+  "description": "acteur portugais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9sars%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-04-08",
+  "nationality": "Portugal",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3369703",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Patrick_Mille",
+    "imdb": "nm0587791",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "en-equilibre",
+      "title": "En équilibre"
+    },
+    {
+      "type": "film",
+      "slug": "raid-dingue",
+      "title": "Raid dingue"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

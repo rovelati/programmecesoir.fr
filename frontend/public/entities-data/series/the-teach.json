@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "slug": "the-teach",
+  "title": "The Teach",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "The Teach - Saison 1"
+  ],
+  "genres": [
+    "Series"
+  ],
+  "description": "L'enquête sur le meurtre de Joanna pèse sur les lycéens et perturbe les activités illicites de certains habitants. L'étau policier se resserre autour de Daniel Poreba, le professeur de sport du lycée. Son attitude inappropriée avec les jeunes élèves fait de lui le suspect principal. Pawel se lie d'amitié avec Catarina, l'épouse de Grégor Molenda, un homme d'affaires sans scrupules...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "68d25b6e-6d6f-46e1-8811-f59e96915061",
+      "title": "The Teach - Saison 2",
+      "programSlug": "the-teach-saison-2",
+      "programUrl": "/programme/polar/the-teach-saison-2",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 22:30:00+00",
+      "endTime": "2026-04-19 23:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f2aadff5-8078-4136-ad46-bd8799b78c77",
+      "title": "The Teach - Saison 2",
+      "programSlug": "the-teach-saison-2",
+      "programUrl": "/programme/polar/the-teach-saison-2",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 23:25:00+00",
+      "endTime": "2026-04-20 00:13:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 0.85,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 22:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

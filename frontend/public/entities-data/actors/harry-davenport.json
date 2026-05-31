@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "harry-davenport",
+  "name": "Harry Davenport",
+  "worksCount": 1,
+  "description": "acteur et cinéaste américain (1866-1949)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Davenport.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1866-01-19",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q744955",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Harry_Davenport",
+    "imdb": "nm0003193",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "quasimodo",
+      "title": "Quasimodo"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

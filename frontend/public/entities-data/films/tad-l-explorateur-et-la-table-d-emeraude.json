@@ -1,0 +1,61 @@
+{
+  "type": "film",
+  "slug": "tad-l-explorateur-et-la-table-d-emeraude",
+  "title": "Tad l'explorateur et la table d'émeraude",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Tad l'explorateur et la table d'émeraude"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm familial",
+    "comédie"
+  ],
+  "description": "Jeune homme féru d'histoire et fort ambitieux, Tad Stones se contente d'accompagner une équipe d'archéologues menée par Ryan, un chef d'expédition pour le moins autoritaire. Parti en mission en Egypte, Tad pense tenir une occasion en or d'accomplir son rêve lorsqu'il découvre un mystérieux sarcophage. Malheureusement pour lui, son idée se transforme en tragédie puisqu'il fait ressurgir une malédiction en ouvrant ce dernier. Pour sauver ses amis sous la menace, Tad consulte Sara, qui accepte de l'aider pour tenter d'annuler le sort. Avec elle, il se lance dans une course contre la montre qui va les mener aux quatre coins du globe...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "channelNumber": 18,
+      "logoUrl": "/loghi/gulli.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 89,
+  "cast": [],
+  "director": {
+    "qid": "Q5785736",
+    "slug": "enrique-gato",
+    "name": "Enrique Gato",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

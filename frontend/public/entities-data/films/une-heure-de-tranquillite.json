@@ -1,0 +1,130 @@
+{
+  "type": "film",
+  "slug": "une-heure-de-tranquillite",
+  "title": "Une heure de tranquillité",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Une heure de tranquillité"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Alors qu'il fait une brocante, Michel, fan absolu de jazz, tombe sur l'album qu'il cherchait depuis toujours. Ravi de sa découverte, il s'empresse de rentrer chez lui pour l'écouter. Peine perdue. Sa femme Nathalie lui annonce que leur fils revient vivre à la maison. Maria, la femme de ménage, choisit justement ce jour-là pour passer l'aspirateur. Léa, la maîtresse de Michel, veut révéler leur liaison à Nathalie. Alors qu'il fait des travaux, un conduit explose et fait un dégât des eaux chez Pavel, son voisin envahissant. Cerise sur le gâteau, c'est la fête des voisins et tout le monde débarque dans son appartement. Michel, qui a depuis longtemps perdu son sang-froid, se demande si un jour il pourra écouter son vinyle...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 80,
+  "cast": [
+    {
+      "qid": "Q310692",
+      "slug": "christian-clavier",
+      "name": "Christian Clavier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106607",
+      "slug": "carole-bouquet",
+      "name": "Carole Bouquet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440995",
+      "slug": "valerie-bonneton",
+      "name": "Valérie Bonneton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q266626",
+      "slug": "rossy-de-palma",
+      "name": "Rossy de Palma",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2360332",
+      "slug": "stephane-de-groodt",
+      "name": "Stéphane De Groodt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3509994",
+      "slug": "sebastien-castro",
+      "name": "Sébastien Castro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965134",
+      "slug": "christian-charmetant",
+      "name": "Christian Charmetant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2863129",
+      "slug": "arnaud-henriet",
+      "name": "Arnaud Henriet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20961933",
+      "slug": "beatrice-michel",
+      "name": "Béatrice Michel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3168428",
+      "slug": "jean-paul-comart",
+      "name": "Jean-Paul Comart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165711",
+      "slug": "jean-francois-kopf",
+      "name": "Jean-François Kopf",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3058900",
+      "slug": "estelle-galarme",
+      "name": "Estelle Galarme",
+      "role": "actor"
+    },
+    {
+      "qid": "Q739521",
+      "slug": "jean-pierre-marielle",
+      "name": "Jean-Pierre Marielle",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q106709",
+    "slug": "patrice-leconte",
+    "name": "Patrice Leconte",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

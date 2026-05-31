@@ -1,0 +1,186 @@
+{
+  "type": "film",
+  "slug": "legitime-violence",
+  "title": "Légitime violence",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Légitime violence"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "drame"
+  ],
+  "description": "Des hommes armés font irruption dans la gare de Deauville. Ils tirent dans la foule, au hasard. La mère, la femme et la fille de Martin Modot sont mortellement blessées. De retour à Paris, Martin, profondément choqué, est interrogé par l'inspecteur Gouvion et contacté par le \"Capmac\", une association d'autodéfense. Comme les démarches de la police lui semblent trop lentes, Martin décide de retrouver lui-même les coupables et s'octroie les droits de haute et basse justices. Il prend un congé, adhère au \"Capmac\" et se lance à la recherche du seul témoin direct du drame, une jeune femme dont la police n'a pas encore réussi à établir l'identité...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "446bead3-c7c9-4330-a059-47db43c2c967",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-19 23:50:00+00",
+      "endTime": "2026-04-20 01:24:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b41982db-b0e7-4ba1-a15f-c77d25a6a119",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 22:17:00+00",
+      "endTime": "2026-04-21 23:51:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "50268974-b6ba-4329-931b-197093e3efd7",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 00:06:00+00",
+      "endTime": "2026-04-24 01:40:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1982,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q106544",
+      "slug": "claude-brasseur",
+      "name": "Claude Brasseur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436260",
+      "slug": "veronique-genest",
+      "name": "Véronique Genest",
+      "role": "actor"
+    },
+    {
+      "qid": "Q548400",
+      "slug": "thierry-lhermitte",
+      "name": "Thierry Lhermitte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q374912",
+      "slug": "roger-planchon",
+      "name": "Roger Planchon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q558440",
+      "slug": "plastic-bertrand",
+      "name": "Plastic Bertrand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105158",
+      "slug": "christophe-lambert",
+      "name": "Christophe Lambert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q328101",
+      "slug": "andre-valardy",
+      "name": "André Valardy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965070",
+      "slug": "christian-bouillette",
+      "name": "Christian Bouillette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q346102",
+      "slug": "dominique-besnehard",
+      "name": "Dominique Besnehard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3035505",
+      "slug": "dominique-valadie",
+      "name": "Dominique Valadié",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3591286",
+      "slug": "eric-metayer",
+      "name": "Éric Métayer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3081554",
+      "slug": "francis-lemarque",
+      "name": "Francis Lemarque",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2983075",
+      "slug": "mado-maurin",
+      "name": "Mado Maurin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q358089",
+      "slug": "michel-aumont",
+      "name": "Michel Aumont",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3311012",
+      "slug": "michel-tugot-doris",
+      "name": "Michel Tugot-Doris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3315957",
+      "slug": "mireille-delcroix",
+      "name": "Mireille Delcroix",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3479418",
+    "slug": "serge-leroy",
+    "name": "Serge Leroy",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 23:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

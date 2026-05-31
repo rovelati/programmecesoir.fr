@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "james-woods",
+  "name": "James Woods",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Woods%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1947-04-18",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q193105",
+    "wikipedia": "https://fr.wikipedia.org/wiki/James_Woods",
+    "imdb": "nm0000249",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-fugue",
+      "title": "La fugue"
+    },
+    {
+      "type": "film",
+      "slug": "nos-plus-belles-annees",
+      "title": "Nos plus belles années"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8c0907a1-66cd-4c9d-8937-ac1b3079401f",
+      "title": "Nos plus belles années",
+      "programSlug": "nos-plus-belles-annees",
+      "programUrl": "/programme/rts-deux/nos-plus-belles-annees",
+      "channelId": "rts-deux",
+      "channelName": "RTS Deux",
+      "channelSlug": "rts-deux",
+      "startTime": "2026-04-21 22:35:00+00",
+      "endTime": "2026-04-22 00:40:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 22:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

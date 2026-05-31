@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "geoff-bell",
+  "name": "Geoff Bell",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Geoff%20Bell%20-%20Poison%20Arrows%202022.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-02-24",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q5534044",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Geoff_Bell",
+    "imdb": "nm1052141",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-suffragettes",
+      "title": "Les suffragettes"
+    },
+    {
+      "type": "film",
+      "slug": "rock-n-rolla",
+      "title": "Rock'n'Rolla"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2ab3a59d-d90d-49ea-abe8-b51f78b5829f",
+      "title": "Les suffragettes",
+      "programSlug": "les-suffragettes",
+      "programUrl": "/programme/canal-grand-ecran/les-suffragettes",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 23:32:00+00",
+      "endTime": "2026-04-25 01:14:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-24 23:32:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

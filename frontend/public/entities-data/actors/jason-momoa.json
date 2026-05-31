@@ -1,0 +1,111 @@
+{
+  "type": "actor",
+  "slug": "jason-momoa",
+  "name": "Jason Momoa",
+  "worksCount": 4,
+  "description": "acteur, producteur de cinéma et réalisateur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jason%20Momoa%20(43055621224)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-08-01",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q315271",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jason_Momoa",
+    "imdb": "nm0597388",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "minecraft-le-film",
+      "title": "Minecraft, le film"
+    },
+    {
+      "type": "film",
+      "slug": "zack-snyder-s-justice-league",
+      "title": "Zack Snyder's Justice League"
+    },
+    {
+      "type": "film",
+      "slug": "justice-league",
+      "title": "Justice League"
+    },
+    {
+      "type": "series",
+      "slug": "stargate-atlantis",
+      "title": "Stargate Atlantis"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "085ef5a4-7b14-4dbe-9472-f3ca746c33ef",
+      "title": "Zack Snyder's Justice League",
+      "programSlug": "zack-snyder-s-justice-league",
+      "programUrl": "/programme/canal-grand-ecran/zack-snyder-s-justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 15:10:00+00",
+      "endTime": "2026-04-19 19:04:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "82500398-59e9-40c4-9c7e-3dc46ff98ed8",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/canal-grand-ecran/justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 01:13:00+00",
+      "endTime": "2026-04-20 03:22:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8204e0ae-3829-4b0a-93e6-49009eae0876",
+      "title": "Minecraft, le film",
+      "programSlug": "minecraft-le-film",
+      "programUrl": "/programme/canal/minecraft-le-film",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 13:37:00+00",
+      "endTime": "2026-04-22 15:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "08cc7bec-c0a5-4adc-b17c-88b82387e40f",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/cine-frisson/justice-league",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 08:27:00+00",
+      "endTime": "2026-04-24 10:24:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "909c41a6-c8c4-4d1b-aaca-9efee3f4d9f8",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/canal-grand-ecran/justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 08:27:00+00",
+      "endTime": "2026-04-25 10:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 15:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

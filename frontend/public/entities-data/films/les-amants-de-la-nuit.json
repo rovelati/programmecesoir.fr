@@ -1,0 +1,121 @@
+{
+  "type": "film",
+  "slug": "les-amants-de-la-nuit",
+  "title": "Les amants de la nuit",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Les amants de la nuit"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "drame",
+    "film noir",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Dans les années 1920, au coeur du Mississippi, Chicamaw et T-Dub, deux criminels endurcis, s'évadent d'un pénitencier en compagnie du jeune et naïf Bowie, injustement condamné. Après l'attaque d'une banque, Bowie, blessé dans un accident de voiture, est repéré par les autorités. Les fuyards se réfugient chez le frère de Chicamaw. Bowie est soigné par une jeune fille, Keechie. Les adolescents s'éprennent l'un de l'autre. Après leur mariage, ils s'apprêtent à fuir au Mexique. Mais T-Dub et Chicamaw obligent Bowie à participer à un nouveau hold-up. T-Dub y trouve la mort...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/They%20Live%20By%20Night%20(1948)%20poster.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1948,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q524094",
+      "slug": "cathy-o-donnell",
+      "name": "Cathy O'Donnell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240076",
+      "slug": "farley-granger",
+      "name": "Farley Granger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1631771",
+      "slug": "howard-da-silva",
+      "name": "Howard Da Silva",
+      "role": "actor"
+    },
+    {
+      "qid": "Q330847",
+      "slug": "jay-c-flippen",
+      "name": "Jay C. Flippen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q346833",
+      "slug": "ian-wolfe",
+      "name": "Ian Wolfe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3568307",
+      "slug": "will-wright",
+      "name": "Will Wright",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3568884",
+      "slug": "william-phipps",
+      "name": "William Phipps",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17166316",
+      "slug": "helen-craig",
+      "name": "Helen Craig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5669543",
+      "slug": "harry-harvey",
+      "name": "Harry Harvey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19400085",
+      "slug": "james-nolan",
+      "name": "James Nolan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5004353",
+      "slug": "byron-foulger",
+      "name": "Byron Foulger",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q240677",
+    "slug": "nicholas-ray",
+    "name": "Nicholas Ray",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

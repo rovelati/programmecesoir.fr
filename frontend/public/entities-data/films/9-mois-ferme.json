@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "9-mois-ferme",
+  "title": "9 mois ferme",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "9 mois ferme"
+  ],
+  "genres": [
+    "comédie",
+    "film documentaire"
+  ],
+  "description": "Ariane consacre sa vie à son métier de juge d'instruction. Elle apprend avec surprise qu'elle est enceinte. Le soir du réveillon, elle a fait l'amour complètement saoule avec un inconnu. Il s'agit de Bob, un psychopathe qui a mangé les yeux de sa victime. Celui-ci lui demande de l'aider à l'innocenter...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Dupontel%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 82,
+  "cast": [
+    {
+      "qid": "Q124389",
+      "slug": "albert-dupontel",
+      "name": "Albert Dupontel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q895091",
+      "slug": "bouli-lanners",
+      "name": "Bouli Lanners",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965328",
+      "slug": "christian-hecq",
+      "name": "Christian Hecq",
+      "role": "actor"
+    },
+    {
+      "qid": "Q347950",
+      "slug": "gaspar-noe",
+      "name": "Gaspar Noé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3106251",
+      "slug": "gilles-gaston-dreyfus",
+      "name": "Gilles Gaston-Dreyfus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q716398",
+      "slug": "jan-kounen",
+      "name": "Jan Kounen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q189422",
+      "slug": "jean-dujardin",
+      "name": "Jean Dujardin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3309608",
+      "slug": "michel-fau",
+      "name": "Michel Fau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3340568",
+      "slug": "nicolas-marie",
+      "name": "Nicolas Marié",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3379789",
+      "slug": "philippe-duquesne",
+      "name": "Philippe Duquesne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380809",
+      "slug": "philippe-uchan",
+      "name": "Philippe Uchan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1385135",
+      "slug": "ray-cooper",
+      "name": "Ray Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262822",
+      "slug": "sandrine-kiberlain",
+      "name": "Sandrine Kiberlain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q25078",
+      "slug": "terry-gilliam",
+      "name": "Terry Gilliam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241437",
+      "slug": "yolande-moreau",
+      "name": "Yolande Moreau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3218747",
+      "slug": "laure-calamy",
+      "name": "Laure Calamy",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q124389",
+    "slug": "albert-dupontel",
+    "name": "Albert Dupontel",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,146 @@
+{
+  "type": "film",
+  "slug": "toutes-pour-une",
+  "title": "Toutes pour une",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Toutes pour une"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Royaume de France, au XVIIe siècle. Louis XIII a ordonné l'expulsion des musulmans convertis. Sara, une jeune esclave morisque en fuite, est délivrée de ses chaînes par trois mousquetaires, Athos, Portau et Aramitz. Lors de leur première halte, Sara découvre que ces as de l'épée sont en réalité des femmes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e042757e-a35d-4c03-a51d-38530d0c5c0b",
+      "title": "Toutes pour une",
+      "programSlug": "toutes-pour-une",
+      "programUrl": "/programme/canal-box-office/toutes-pour-une",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 23:01:00+00",
+      "endTime": "2026-04-21 00:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "58219161-5382-4093-847e-80c074bfcbe7",
+      "title": "Toutes pour une",
+      "programSlug": "toutes-pour-une",
+      "programUrl": "/programme/paramount-channel/toutes-pour-une",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-21 11:15:00+00",
+      "endTime": "2026-04-21 12:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e7d313bd-0b9c-4f62-ab40-a87493e10f8e",
+      "title": "Toutes pour une",
+      "programSlug": "toutes-pour-une",
+      "programUrl": "/programme/canal-cinema/toutes-pour-une",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-21 11:17:00+00",
+      "endTime": "2026-04-21 12:50:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q26761761",
+      "slug": "oulaya-amamra",
+      "name": "Oulaya Amamra",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436888",
+      "slug": "sabrina-ouazani",
+      "name": "Sabrina Ouazani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28374117",
+      "slug": "deborah-lukumuena",
+      "name": "Déborah Lukumuena",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23793495",
+      "slug": "daphne-patakia",
+      "name": "Daphné Patakia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q67462100",
+      "slug": "georgina-amoros",
+      "name": "Georgina Amorós",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3191724",
+      "slug": "kacey-mottet-klein",
+      "name": "Kacey Mottet-Klein",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17635663",
+      "slug": "nemo-schiffman",
+      "name": "Nemo Schiffman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q36697305",
+      "slug": "maryne-cayon",
+      "name": "Maryne Cayon",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q4002575",
+    "slug": "houda-benyamina",
+    "name": "Houda Benyamina",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 23:01:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "un-traitre-parmi-nous",
+  "title": "Un traître parmi nous",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Un traître parmi nous"
+  ],
+  "genres": [
+    "Téléfilms"
+  ],
+  "description": "Les membres d'un groupe d'anciens camarades de classe sont attirés dans un chalet de ski abandonné, avant d'y être enfermés. Pour survivre et identifier celui qui est à l'origine de ce qui leur arrive, ils vont devoir mettre au jour de très vieux et terribles secrets...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q3525240",
+    "slug": "thomas-j-wright",
+    "name": "Thomas J. Wright",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

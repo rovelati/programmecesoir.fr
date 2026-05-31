@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "stephane-rousseau",
+  "name": "Stéphane Rousseau",
+  "worksCount": 1,
+  "description": "acteur, humoriste canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St%C3%A9phane%20Rousseau%20Cannes.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-09-17",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q360899",
+    "wikipedia": "https://fr.wikipedia.org/wiki/St%C3%A9phane_Rousseau",
+    "imdb": "nm1234157",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jour-j",
+      "title": "Jour J"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

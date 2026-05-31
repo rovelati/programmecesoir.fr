@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "herbert-anderson",
+  "name": "Herbert Anderson",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dennis%20the%20Menace%20North%20Anderson%20Henry%201959.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1917-03-30",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q2228583",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Herbert_Anderson",
+    "imdb": "nm0026802",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "nous-avons-gagne-ce-soir",
+      "title": "Nous avons gagné ce soir"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f9155799-2432-4eb5-a1bb-225147cd5c02",
+      "title": "Nous avons gagné ce soir",
+      "programSlug": "nous-avons-gagne-ce-soir",
+      "programUrl": "/programme/tcm-cinema/nous-avons-gagne-ce-soir",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 02:55:00+00",
+      "endTime": "2026-04-23 04:05:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 02:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

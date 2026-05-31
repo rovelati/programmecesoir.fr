@@ -1,0 +1,108 @@
+{
+  "type": "film",
+  "slug": "rambo-ii-la-mission",
+  "title": "Rambo II : la mission",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Rambo II : la mission"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "drame"
+  ],
+  "description": "Ex-combattant du Viêtnam, John Rambo purge une peine de cinq années de prison. Son ancien colonel lui offre une chance de se racheter : il devra retourner au Viêtnam et repérer les camps détenant des prisonniers américains depuis la fin de la guerre. Rambo prend sa tâche très au sérieux et ne tarde pas à découvrir quelques compatriotes gémissant sous le joug de tortionnaires communistes. En dépit des ordres, il libère l'un d'eux. Inquiétés par son esprit frondeur, ses supérieurs l'abandonnent à son sort. Pris par l'ennemi et sauvagement torturé, Rambo conserve toutefois assez d'énergie pour massacrer une armée entière et sauver un grand nombre de ses compagnons...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1985,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q40026",
+      "slug": "sylvester-stallone",
+      "name": "Sylvester Stallone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318607",
+      "slug": "richard-crenna",
+      "name": "Richard Crenna",
+      "role": "actor"
+    },
+    {
+      "qid": "Q431356",
+      "slug": "charles-napier",
+      "name": "Charles Napier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q529849",
+      "slug": "steven-berkoff",
+      "name": "Steven Berkoff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272145",
+      "slug": "julia-nickson-soul",
+      "name": "Julia Nickson-Soul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q508795",
+      "slug": "martin-kove",
+      "name": "Martin Kove",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3045427",
+      "slug": "george-cheung",
+      "name": "George Cheung",
+      "role": "actor"
+    },
+    {
+      "qid": "Q961431",
+      "slug": "john-pankow",
+      "name": "John Pankow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q933856",
+      "slug": "peter-macdonald",
+      "name": "Peter MacDonald",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q504722",
+    "slug": "george-cosmatos",
+    "name": "George Cosmatos",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

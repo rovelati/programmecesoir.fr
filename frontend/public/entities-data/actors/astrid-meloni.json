@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "astrid-meloni",
+  "name": "Astrid Meloni",
+  "worksCount": 1,
+  "description": "actrice italienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Astrid%20Meloni%20TeatroStabileTorino%20TST%202019.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1983-03-11",
+  "nationality": "Italie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3627622",
+    "wikipedia": "https://en.wikipedia.org/wiki/Astrid_Meloni",
+    "imdb": "nm3265325",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-equilibrio",
+      "title": "L'equilibrio"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4e087ad7-8f6e-4e8b-b530-32f00eff0784",
+      "title": "L'equilibrio",
+      "programSlug": "l-equilibrio",
+      "programUrl": "/programme/eurochannel/l-equilibrio",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 23:35:00+00",
+      "endTime": "2026-04-24 01:05:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "0ecef234-1a0a-47f3-aed9-71056431f4c4",
+      "title": "L'equilibrio",
+      "programSlug": "l-equilibrio",
+      "programUrl": "/programme/eurochannel/l-equilibrio",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 02:30:00+00",
+      "endTime": "2026-04-26 04:00:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 23:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

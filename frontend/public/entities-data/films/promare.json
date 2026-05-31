@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "promare",
+  "title": "Promare",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Promare"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "Les aventures de Galo, fraichement débarquée dans une caserne de pompiers nouvelle génération équipée des mechas du genre Matoi-Tech. La High Mobility Rescue Team doit combattre le redoutable Rio et sa bande de terroristes mutants surpuissants déjà responsables de la disparition de la moitié de la planète...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mangas",
+      "channelName": "Mangas",
+      "channelSlug": "mangas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mangas.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2019,
+  "durationMinutes": 111,
+  "cast": [],
+  "director": {
+    "qid": "Q3023829",
+    "slug": "hiroyuki-imaishi",
+    "name": "Hiroyuki Imaishi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

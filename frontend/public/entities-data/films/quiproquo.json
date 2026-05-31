@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "quiproquo",
+  "title": "Quiproquo",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Quiproquo"
+  ],
+  "genres": [
+    "film muet"
+  ],
+  "description": "Aujourd'hui, pendant leur partie de Scrabble hebdomadaire, il a décidé de se jeter à l'eau et de lui déclarer sa flamme. Mais les mots lui manquent.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1908,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q152272",
+    "slug": "georges-melies",
+    "name": "Georges Méliès",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,279 @@
+{
+  "type": "series",
+  "slug": "grey-s-anatomy",
+  "title": "Grey's Anatomy",
+  "airingsCount": 79,
+  "sourceTitles": [
+    "Grey's Anatomy",
+    "Grey's Anatomy - Saison 20",
+    "Grey's Anatomy - Saison 21"
+  ],
+  "genres": [
+    "série médicale"
+  ],
+  "description": "Amelia et Kai arrivent à Grey Sloan. Kai évoque à nouveau Londres, mais Amelia n'est pas prête à entendre parler de la chose pour laquelle Kai l'abandonne. Winston est avec Maggie. Lorsqu'ils sont ensemble au bloc opératoire, ils travaillent en synchronisation et savent constamment ce dont l'autre a besoin. Elle lui demande de venir avec elle dans sa nouvelle destination et est sûre qu'il peut trouver un emploi là-bas. Il lui demande de rester et de se battre pour les nombreuses bonnes choses qui existent entre eux. Mais Maggie ne veut pas renoncer à cette opportunité.",
+  "descriptionAi": "Cette série médicale dramatique, débutée en 2005, plonge le téléspectateur dans l’intensité émotionnelle et professionnelle de l’hôpital Grey Sloan Memorial. Entre relations complexes, dilemmes éthiques et cas médicaux captivants, elle explore la vie personnelle et les défis chirurgicaux de ses personnages attachants. L’ambiance, à la fois haletante et intimiste, est portée par des intrigues entremêlant amour, amitié et rivalités. Ce qui la rend passionnante est son équilibre parfait entre suspense médical et récits humains profonds, offrant un miroir poignant sur les sacrifices et les passions qui animent ces médecins. Ne manquez pas les derniers rebondissements, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-series-films.png",
+      "airingsCount": 77
+    },
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dd97eb7b-19e3-4db8-b890-9028059d06c4",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/tf1/grey-s-anatomy-saison-22",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 19:10:00+00",
+      "endTime": "2026-04-22 20:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "0cb4d046-6e76-4b91-981d-71c3bc7510d8",
+      "title": "Grey's Anatomy",
+      "programSlug": "grey-s-anatomy",
+      "programUrl": "/programme/canal-series/grey-s-anatomy",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 19:10:00+00",
+      "endTime": "2026-04-22 20:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c62f3582-0707-4e92-8b91-da13e55ff745",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/tf1/grey-s-anatomy-saison-22",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 20:00:00+00",
+      "endTime": "2026-04-22 21:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "8903346b-34cb-449b-b33e-5763cacd4c0a",
+      "title": "Grey's Anatomy",
+      "programSlug": "grey-s-anatomy",
+      "programUrl": "/programme/canal-series/grey-s-anatomy",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 20:00:00+00",
+      "endTime": "2026-04-22 21:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "840f97ef-6f8e-48a5-b522-8b7acc74ab56",
+      "title": "Grey's Anatomy",
+      "programSlug": "grey-s-anatomy",
+      "programUrl": "/programme/tf1-1/grey-s-anatomy",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-22 20:10:00+00",
+      "endTime": "2026-04-22 21:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a0f9d2b2-4296-4a0a-8cc9-b774b41cc0cf",
+      "title": "Grey's Anatomy",
+      "programSlug": "grey-s-anatomy",
+      "programUrl": "/programme/tf1-1/grey-s-anatomy",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-22 21:00:00+00",
+      "endTime": "2026-04-22 22:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f637be0f-6358-480a-8af6-d62c701d4242",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/rts-un/grey-s-anatomy-saison-22",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 07:55:00+00",
+      "endTime": "2026-04-24 08:35:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "6bacf044-2338-41fc-9679-8e905718d18d",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/rts-un/grey-s-anatomy-saison-22",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 08:35:00+00",
+      "endTime": "2026-04-24 09:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "91b38071-00a5-4033-8f18-8e68ba662a87",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/rts-un/grey-s-anatomy-saison-22",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-25 15:10:00+00",
+      "endTime": "2026-04-25 15:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "25827992-8dc8-4399-b8ac-b54771beb54e",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/rts-un/grey-s-anatomy-saison-22",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-25 15:55:00+00",
+      "endTime": "2026-04-25 16:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:08:26.060Z",
+  "startYear": 2005,
+  "numberOfSeasons": 22,
+  "cast": [
+    {
+      "qid": "Q215849",
+      "slug": "ellen-pompeo",
+      "name": "Ellen Pompeo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40337",
+      "slug": "sandra-oh",
+      "name": "Sandra Oh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q189554",
+      "slug": "katherine-heigl",
+      "name": "Katherine Heigl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40087",
+      "slug": "justin-chambers",
+      "name": "Justin Chambers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40032",
+      "slug": "t-r-knight",
+      "name": "T.R. Knight",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40090",
+      "slug": "chandra-wilson",
+      "name": "Chandra Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q39965",
+      "slug": "james-pickens",
+      "name": "James Pickens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40048",
+      "slug": "isaiah-washington",
+      "name": "Isaiah Washington",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212518",
+      "slug": "patrick-dempsey",
+      "name": "Patrick Dempsey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229979",
+      "slug": "kate-walsh",
+      "name": "Kate Walsh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40069",
+      "slug": "sara-ramirez",
+      "name": "Sara Ramírez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q299421",
+      "slug": "eric-dane",
+      "name": "Eric Dane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230765",
+      "slug": "chyler-leigh",
+      "name": "Chyler Leigh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235725",
+      "slug": "brooke-smith",
+      "name": "Brooke Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312133",
+      "slug": "kevin-mckidd",
+      "name": "Kevin McKidd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40057",
+      "slug": "jessica-capshaw",
+      "name": "Jessica Capshaw",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q242329",
+    "slug": "shonda-rhimes",
+    "name": "Shonda Rhimes",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-22 19:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

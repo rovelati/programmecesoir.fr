@@ -1,0 +1,108 @@
+{
+  "type": "series",
+  "slug": "al-mektoub",
+  "title": "Al Mektoub",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Al Mektoub"
+  ],
+  "genres": [
+    "Series",
+    "Série"
+  ],
+  "description": "Suivez des histoires intrigantes de ce drame sociale qui traite de véritables problématiques de la société marocaine.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "233da7de-3a31-4b9b-977c-aafcfc0ce0a5",
+      "title": "Al Mektoub",
+      "programSlug": "al-mektoub",
+      "programUrl": "/programme/2m-maroc/al-mektoub",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-19 08:40:00+00",
+      "endTime": "2026-04-19 09:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5391f301-1e70-4567-b9f5-7b278fc788a6",
+      "title": "Al Mektoub",
+      "programSlug": "al-mektoub",
+      "programUrl": "/programme/2m-maroc/al-mektoub",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-19 13:55:00+00",
+      "endTime": "2026-04-19 14:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "887994a3-1143-4a31-bff7-3a44ab6c3538",
+      "title": "Al Mektoub",
+      "programSlug": "al-mektoub",
+      "programUrl": "/programme/2m-maroc/al-mektoub",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-24 08:20:00+00",
+      "endTime": "2026-04-24 08:55:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "a4b474df-2677-4157-b915-cf861ed026e9",
+      "title": "Al Mektoub",
+      "programSlug": "al-mektoub",
+      "programUrl": "/programme/2m-maroc/al-mektoub",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-25 08:40:00+00",
+      "endTime": "2026-04-25 09:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "1061d8ed-a8ac-428d-8ff5-6b3e5d03fdbe",
+      "title": "Al Mektoub",
+      "programSlug": "al-mektoub",
+      "programUrl": "/programme/2m-maroc/al-mektoub",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-25 15:10:00+00",
+      "endTime": "2026-04-25 15:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 08:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

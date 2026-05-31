@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "josh-pence",
+  "name": "Josh Pence",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1982-06-08",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q967833",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Josh_Pence",
+    "imdb": "nm2966488",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "gangster-squad",
+      "title": "Gangster Squad"
+    },
+    {
+      "type": "film",
+      "slug": "the-dark-knight-rises",
+      "title": "The Dark Knight Rises"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67c1ebbf-a111-4083-a014-1cb877a116d5",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-rises",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 10:12:00+00",
+      "endTime": "2026-04-19 12:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3d1f0ee5-ff66-44e8-8bb5-fbf2e07d1fac",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-rises",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 21:16:00+00",
+      "endTime": "2026-04-21 23:57:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 10:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

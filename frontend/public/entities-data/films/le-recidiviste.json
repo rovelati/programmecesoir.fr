@@ -1,0 +1,107 @@
+{
+  "type": "film",
+  "slug": "le-recidiviste",
+  "title": "Le récidiviste",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le récidiviste"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "drame"
+  ],
+  "description": "Après six années d'incarcération pour vol à main armée, Max Dembo obtient sa libération conditionnelle. Il a la ferme intention de vivre désormais en honnête homme. Mais il va en être tout autrement. En effet, Earl Frank, l'éducateur chargé de son suivi judiciaire, se montre tellement suspicieux, borné et tatillon que Dembo se retrouve en réalité en régime de semi-liberté. Ne supportant plus cette existence de reclus, il s'évade du centre où il a été placé et, poussé à bout par Frank, revient à ses anciennes et malhonnêtes amours. Il prépare un gros coup, l'attaque d'une bijouterie...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1978,
+  "durationMinutes": 114,
+  "cast": [
+    {
+      "qid": "Q42930",
+      "slug": "dustin-hoffman",
+      "name": "Dustin Hoffman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314290",
+      "slug": "harry-dean-stanton",
+      "name": "Harry Dean Stanton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312081",
+      "slug": "gary-busey",
+      "name": "Gary Busey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q253467",
+      "slug": "theresa-russell",
+      "name": "Theresa Russell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q498420",
+      "slug": "m-emmet-walsh",
+      "name": "M. Emmet Walsh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q544465",
+      "slug": "kathy-bates",
+      "name": "Kathy Bates",
+      "role": "actor"
+    },
+    {
+      "qid": "Q112973",
+      "slug": "sandy-baron",
+      "name": "Sandy Baron",
+      "role": "actor"
+    },
+    {
+      "qid": "Q250539",
+      "slug": "edward-bunker",
+      "name": "Edward Bunker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q708824",
+      "slug": "jake-busey",
+      "name": "Jake Busey",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q953683",
+    "slug": "ulu-grosbard",
+    "name": "Ulu Grosbard",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

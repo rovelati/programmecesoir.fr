@@ -1,0 +1,387 @@
+{
+  "type": "series",
+  "slug": "ncis",
+  "title": "NCIS",
+  "airingsCount": 87,
+  "sourceTitles": [
+    "NCIS",
+    "NCIS - Saison 21",
+    "NCIS - Saison 23",
+    "NCIS - Saison 4",
+    "NCIS - Saison 5"
+  ],
+  "genres": [
+    "enquête policière",
+    "série d'action",
+    "série télévisée dramatique"
+  ],
+  "description": "Un jeune homme, officiellement mort, se réveille en sursaut à la morgue sur la table de Ducky. Son état étant très critique, il doit être mis sous respirateur et ne peut donc pas répondre aux questions qui agitent le NCIS. En fouillant dans son passé, l'équipe découvre son identité : il s'agit du caporal Liam O'Neill, qui était encore récemment posté en Irak. Les hommes du NCIS apprennent également qu'il voyageait secrètement à Bagdad en empruntant des vols commerciaux, et qu'il avait de nombreux soucis d'argent. Un peu plus tard, Abby identifie un proche du caporal, Mike Franks, qui affirme être son père. L'enquête les mène également sur la piste de Jalil Shaloub, un prêteur sur gages peu recommandable...",
+  "descriptionAi": "Cette série policière allie enquêtes minutieuses et scènes d'action au sein du Naval Criminal Investigative Service. L'ambiance, à la fois procédurale et dramatique, est portée par la dynamique d'une équipe d'agents aux personnalités marquées. Son intérêt réside dans l'équilibre entre la résolution de cas complexes liés à la marine et le développement subtil des intrigues personnelles des personnages sur le long terme. Une plongée captivante dans les coulisses des enquêtes fédérales, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "channelNumber": 6,
+      "logoUrl": "/loghi/m6.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "channelNumber": 9,
+      "logoUrl": "/loghi/w9.png",
+      "airingsCount": 79
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "21771f2b-c816-4fb0-a6eb-408dc98029c8",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 09:20:00+00",
+      "endTime": "2026-04-20 10:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4f69ab17-04cc-47cb-b1e7-eadac5d0c68c",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 10:20:00+00",
+      "endTime": "2026-04-20 11:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4abc56c6-6331-4bc7-ba3b-7c29b51061a5",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 11:20:00+00",
+      "endTime": "2026-04-20 12:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ccb83db8-8d8e-4182-8b50-522a220f6945",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 12:10:00+00",
+      "endTime": "2026-04-20 13:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "17617072-bbab-4f47-a45e-9aa823d8fbc0",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 13:10:00+00",
+      "endTime": "2026-04-20 14:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4fa925a1-8837-48b9-8801-63ab9bb1cf67",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 14:00:00+00",
+      "endTime": "2026-04-20 14:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "14f5dc79-4890-4c37-92c4-be9f45e6533c",
+      "title": "NCIS - Saison 6",
+      "programSlug": "ncis-saison-6",
+      "programUrl": "/programme/w9/ncis-saison-6",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 14:50:00+00",
+      "endTime": "2026-04-20 15:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "93eb3ca9-bf68-4393-959f-8eb2b5ac8421",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-21 09:20:00+00",
+      "endTime": "2026-04-21 10:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e1fcf824-eddb-402e-99f3-e5f68fdcdf33",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-21 10:20:00+00",
+      "endTime": "2026-04-21 11:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "edbf389a-3c57-4e3e-996e-b02aa5a8228b",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-21 11:20:00+00",
+      "endTime": "2026-04-21 12:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8e179e42-ed50-40d5-b423-c4e2d1014dc7",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-21 12:10:00+00",
+      "endTime": "2026-04-21 13:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ac5ca6bd-e682-419c-87d2-46ce369f05a5",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-21 13:10:00+00",
+      "endTime": "2026-04-21 14:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2321d2a9-481d-4c64-8dea-c5db620bce1a",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-21 14:00:00+00",
+      "endTime": "2026-04-21 14:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c1bf80da-40b4-4619-a32f-814e60ed1443",
+      "title": "NCIS - Saison 6",
+      "programSlug": "ncis-saison-6",
+      "programUrl": "/programme/w9/ncis-saison-6",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-21 14:50:00+00",
+      "endTime": "2026-04-21 15:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "5ef0202b-5bd1-48fc-b443-5a737219e68f",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-22 09:20:00+00",
+      "endTime": "2026-04-22 10:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "dc601d99-695a-42c6-8dc0-c97244e02058",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-22 10:20:00+00",
+      "endTime": "2026-04-22 11:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "3ca4b8d5-89a2-496f-83b1-90c403135d48",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-22 11:20:00+00",
+      "endTime": "2026-04-22 12:10:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e3579ac9-78b8-4d69-90f7-5197192b5c74",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-22 12:10:00+00",
+      "endTime": "2026-04-22 13:10:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T22:07:54.578Z",
+  "startYear": 2003,
+  "numberOfSeasons": 23,
+  "cast": [
+    {
+      "qid": "Q296774",
+      "slug": "mark-harmon",
+      "name": "Mark Harmon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q221923",
+      "slug": "michael-weatherly",
+      "name": "Michael Weatherly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231815",
+      "slug": "pauley-perrette",
+      "name": "Pauley Perrette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313023",
+      "slug": "david-mccallum",
+      "name": "David McCallum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231730",
+      "slug": "sasha-alexander",
+      "name": "Sasha Alexander",
+      "role": "actor"
+    },
+    {
+      "qid": "Q366939",
+      "slug": "sean-murray",
+      "name": "Sean Murray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230647",
+      "slug": "cote-de-pablo",
+      "name": "Cote de Pablo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229560",
+      "slug": "lauren-holly",
+      "name": "Lauren Holly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q636324",
+      "slug": "rocky-carroll",
+      "name": "Rocky Carroll",
+      "role": "actor"
+    },
+    {
+      "qid": "Q373848",
+      "slug": "brian-dietzen",
+      "name": "Brian Dietzen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15257250",
+      "slug": "emily-wickersham",
+      "name": "Emily Wickersham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q347436",
+      "slug": "wilmer-valderrama",
+      "name": "Wilmer Valderrama",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233922",
+      "slug": "jennifer-esposito",
+      "name": "Jennifer Esposito",
+      "role": "actor"
+    },
+    {
+      "qid": "Q437912",
+      "slug": "scottie-thompson",
+      "name": "Scottie Thompson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q261926",
+      "slug": "muse-watson",
+      "name": "Muse Watson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q287596",
+      "slug": "liza-lapira",
+      "name": "Liza Lapira",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q710739",
+    "slug": "donald-bellisario",
+    "name": "Donald Bellisario",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 09:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

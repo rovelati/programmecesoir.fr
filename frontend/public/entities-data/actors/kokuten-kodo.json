@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "kokuten-kodo",
+  "name": "Kokuten Kōdō",
+  "worksCount": 2,
+  "description": "acteur japonais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kokuten%20Kodo.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1887-01-29",
+  "nationality": "Japon",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3198422",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kokuten_K%C5%8Dd%C5%8D",
+    "imdb": "nm0462679",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "godzilla",
+      "title": "Godzilla"
+    },
+    {
+      "type": "film",
+      "slug": "les-sept-samourais",
+      "title": "Les sept samouraïs"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

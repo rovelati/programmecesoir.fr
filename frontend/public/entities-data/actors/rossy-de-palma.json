@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "rossy-de-palma",
+  "name": "Rossy de Palma",
+  "worksCount": 2,
+  "description": "actrice espagnole",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rossy%20de%20Palma%20-%2033558147445.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-09-16",
+  "nationality": "Espagne",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q266626",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rossy_de_Palma",
+    "imdb": "nm0658041",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-origine-du-monde",
+      "title": "L'origine du monde"
+    },
+    {
+      "type": "film",
+      "slug": "une-heure-de-tranquillite",
+      "title": "Une heure de tranquillité"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

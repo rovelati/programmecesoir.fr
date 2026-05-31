@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "arrete-ou-ma-mere-va-tirer",
+  "title": "Arrête ou ma mère va tirer !",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Arrête ou ma mère va tirer !"
+  ],
+  "genres": [
+    "buddy movie",
+    "film de copains policiers",
+    "comédie",
+    "film et téléfilm d'action"
+  ],
+  "description": "Joe Bomowski, policier à Los Angeles, n'entretient pas de très bonnes relations avec sa supérieure et maîtresse, le lieutenant Gwen Harper. Il est en outre obligé de supporter pendant quelques jours la présence de sa mère, Tutti, fraîchement arrivée de New York. Celle-ci n'a pas vu son fils grandir. Dès le soir de son arrivée, elle le borde dans son lit, lui impose des petits déjeuners pantagruéliques et entreprend un nettoyage complet de son appartement. Mais Tutti comprend, trop tard, qu'il ne fallait pas laver l'arme de service de son fils à l'eau chaude et, pour réparer les dégâts, elle prend contact avec deux trafiquants notoires qui sont assassinés sous ses yeux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1992,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q40026",
+      "slug": "sylvester-stallone",
+      "name": "Sylvester Stallone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232827",
+      "slug": "estelle-getty",
+      "name": "Estelle Getty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237809",
+      "slug": "jobeth-williams",
+      "name": "JoBeth Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1750774",
+      "slug": "roger-rees",
+      "name": "Roger Rees",
+      "role": "actor"
+    },
+    {
+      "qid": "Q971854",
+      "slug": "john-wesley",
+      "name": "John Wesley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310315",
+      "slug": "ving-rhames",
+      "name": "Ving Rhames",
+      "role": "actor"
+    },
+    {
+      "qid": "Q718338",
+      "slug": "martin-ferrero",
+      "name": "Martin Ferrero",
+      "role": "actor"
+    },
+    {
+      "qid": "Q261539",
+      "slug": "j-kenneth-campbell",
+      "name": "J. Kenneth Campbell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q861156",
+      "slug": "chris-collins",
+      "name": "Chris Collins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189009",
+      "slug": "dennis-burkley",
+      "name": "Dennis Burkley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436503",
+      "slug": "gailard-sartain",
+      "name": "Gailard Sartain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q355209",
+      "slug": "richard-schiff",
+      "name": "Richard Schiff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q268271",
+      "slug": "vanessa-angel",
+      "name": "Vanessa Angel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5364519",
+      "slug": "ella-joyce",
+      "name": "Ella Joyce",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6766197",
+      "slug": "marjean-holden",
+      "name": "Marjean Holden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7026155",
+      "slug": "nicholas-sadler",
+      "name": "Nicholas Sadler",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q506352",
+    "slug": "roger-spottiswoode",
+    "name": "Roger Spottiswoode",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

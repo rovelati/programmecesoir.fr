@@ -1,0 +1,145 @@
+{
+  "type": "film",
+  "slug": "valeur-sentimentale",
+  "title": "Valeur sentimentale",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Valeur sentimentale"
+  ],
+  "genres": [
+    "drame",
+    "comédie",
+    "comédie dramatique"
+  ],
+  "description": "A la suite du décès de leur mère, Agnes et Nora voient leur père Gustav revenir dans leur vie après de longues années d'absence. Réalisateur autrefois célèbre, mais aujourd'hui presque oublié, le septuagénaire tente tant bien que mal de relancer sa carrière. Il propose à Nora, comédienne de théâtre, de jouer dans son prochain film, mais celle-ci refuse catégoriquement. Gustav décide alors de confier le rôle à Rachel Kemp, une jeune star hollywoodienne, ravivant ainsi des souvenirs de famille douloureux...",
+  "descriptionAi": "Ce drame familial à la tonalité de comédie douce-amère explore les liens brisés et les souvenirs qui hantent. L'ambiance oscille entre la mélancolie des retrouvailles et l'absurdité tendre des tentatives de rédemption. Le film captive par son portrait nuancé d'un patriarche faillible et le choc des générations, où le passé artistique refait surface pour interroger l'héritage et le pardon. Une histoire touchante sur la reconstruction fragile des familles, portée par des personnages profondément humains. Une œuvre sur les regrets et les secondes chances, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "91404839-f165-4459-b75c-f5d052e91531",
+      "title": "Valeur sentimentale",
+      "programSlug": "valeur-sentimentale",
+      "programUrl": "/programme/canal/valeur-sentimentale",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 22:47:00+00",
+      "endTime": "2026-04-22 00:56:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q130284179",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Valeur_sentimentale",
+    "imdb": "tt27714581",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:27:29.454Z",
+  "year": 2025,
+  "durationMinutes": 133,
+  "cast": [
+    {
+      "qid": "Q28718257",
+      "slug": "renate-reinsve",
+      "name": "Renate Reinsve",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208667",
+      "slug": "stellan-skarsgard",
+      "name": "Stellan Skarsgård",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228943",
+      "slug": "elle-fanning",
+      "name": "Elle Fanning",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28152938",
+      "slug": "inga-ibsdotter-lilleaas",
+      "name": "Inga Ibsdotter Lilleaas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17012336",
+      "slug": "cory-michael-smith",
+      "name": "Cory Michael Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65627204",
+      "slug": "catherine-cohen",
+      "name": "Catherine Cohen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4753762",
+      "slug": "anders-danielsen-lie",
+      "name": "Anders Danielsen Lie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q530997",
+      "slug": "jesper-christensen",
+      "name": "Jesper Christensen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q270559",
+      "slug": "lena-endre",
+      "name": "Lena Endre",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q653571",
+    "slug": "joachim-trier",
+    "name": "Joachim Trier",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 22:47:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

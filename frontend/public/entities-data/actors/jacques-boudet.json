@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jacques-boudet",
+  "name": "Jacques Boudet",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Boudet%20en%20octobre%202013%2C%20Waterloo.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1935-04-15",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3158341",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jacques_Boudet",
+    "imdb": "nm0099134",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "marius-et-jeannette",
+      "title": "Marius et Jeannette"
+    },
+    {
+      "type": "film",
+      "slug": "au-fil-d-ariane",
+      "title": "Au fil d'Ariane"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

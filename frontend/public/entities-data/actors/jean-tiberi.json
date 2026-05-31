@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "jean-tiberi",
+  "name": "Jean Tiberi",
+  "worksCount": 1,
+  "description": "magistrat et homme politique français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Tiberi%202007%2006%2006.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1935-01-30",
+  "nationality": "France",
+  "jobTitle": "personnalité politique",
+  "externalIds": {
+    "wikidata": "Q1685859",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Tiberi",
+    "imdb": null,
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "3-zeros",
+      "title": "3 zéros"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7d349440-fe84-4dd9-a53a-0fb4085d663d",
+      "title": "3 zéros",
+      "programSlug": "3-zeros",
+      "programUrl": "/programme/cine-family/3-zeros",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 09:41:00+00",
+      "endTime": "2026-04-24 11:17:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 09:41:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

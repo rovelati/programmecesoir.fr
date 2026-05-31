@@ -1,0 +1,151 @@
+{
+  "type": "series",
+  "slug": "broadchurch",
+  "title": "Broadchurch",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Broadchurch",
+    "Broadchurch - Saison 1"
+  ],
+  "genres": [
+    "thriller",
+    "drama policier"
+  ],
+  "description": "Dans la petite ville côtière de Broadchurch, la journée s'annonce mal pour le lieutenant Ellie Miller. Elle vient en effet d'apprendre de la bouche du divisionnaire principal que le poste qu'elle convoitait a été attribué à un nouvel arrivant, Alec Hardy. Au-delà des murs du commissariat, la communauté est en émoi. Le cadavre de Daniel Latimer, 11 ans, a été retrouvé sur la plage. L'adolescent, qui était aussi le meilleur ami du fils d'Ellie, a été étranglé. Le lieutenant connaît bien les parents de la victime et tente de cacher son identité à Olly, son neveu, un jeune journaliste ambitieux qui la presse de questions...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Perry%20Simon%20(14776390764).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "novo19",
+      "channelName": "NOVO19",
+      "channelSlug": "novo19",
+      "channelNumber": null,
+      "logoUrl": "/loghi/novo19.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3ac6560e-50c4-43e3-a7f6-712d436f0311",
+      "title": "Broadchurch - Saison 2",
+      "programSlug": "broadchurch-saison-2",
+      "programUrl": "/programme/novo19/broadchurch-saison-2",
+      "channelId": "novo19",
+      "channelName": "NOVO19",
+      "channelSlug": "novo19",
+      "startTime": "2026-04-25 19:10:00+00",
+      "endTime": "2026-04-25 19:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "3cbe494b-3b4a-4948-a0cb-3006d630c593",
+      "title": "Broadchurch - Saison 2",
+      "programSlug": "broadchurch-saison-2",
+      "programUrl": "/programme/novo19/broadchurch-saison-2",
+      "channelId": "novo19",
+      "channelName": "NOVO19",
+      "channelSlug": "novo19",
+      "startTime": "2026-04-25 19:55:00+00",
+      "endTime": "2026-04-25 20:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "cc3e3a76-b98a-4630-aa7e-5a6d8c89d4c0",
+      "title": "Broadchurch - Saison 2",
+      "programSlug": "broadchurch-saison-2",
+      "programUrl": "/programme/novo19/broadchurch-saison-2",
+      "channelId": "novo19",
+      "channelName": "NOVO19",
+      "channelSlug": "novo19",
+      "startTime": "2026-04-25 20:55:00+00",
+      "endTime": "2026-04-25 21:55:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2013,
+  "numberOfSeasons": 3,
+  "cast": [
+    {
+      "qid": "Q214601",
+      "slug": "david-tennant",
+      "name": "David Tennant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7088045",
+      "slug": "olivia-colman",
+      "name": "Olivia Colman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449402",
+      "slug": "jodie-whittaker",
+      "name": "Jodie Whittaker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q434201",
+      "slug": "vicky-mcclure",
+      "name": "Vicky McClure",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125942",
+      "slug": "arthur-darvill",
+      "name": "Arthur Darvill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q320073",
+      "slug": "david-bradley",
+      "name": "David Bradley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1677416",
+      "slug": "jacob-anderson",
+      "name": "Jacob Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234679",
+      "slug": "charlotte-rampling",
+      "name": "Charlotte Rampling",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254876",
+      "slug": "eve-myles",
+      "name": "Eve Myles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q717194",
+      "slug": "james-d-arcy",
+      "name": "James D'Arcy",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q2964683",
+    "slug": "chris-chibnall",
+    "name": "Chris Chibnall",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-25 19:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

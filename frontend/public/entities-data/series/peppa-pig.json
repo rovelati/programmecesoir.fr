@@ -1,0 +1,278 @@
+{
+  "type": "series",
+  "slug": "peppa-pig",
+  "title": "Peppa Pig",
+  "airingsCount": 301,
+  "sourceTitles": [
+    "Peppa Pig"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série télévisée comique",
+    "educational television"
+  ],
+  "description": "Peppa est une petite cochonne espiègle qui partage son quotidien avec sa famille dans un univers coloré et ludique. Entourée de son petit frère George, de Maman Pig et de Papa Pig, elle explore le monde qui l’entoure avec curiosité et enthousiasme. Les deux enfants se lancent dans des aventures quotidiennes, que ce soit en sautant dans des flaques de boue, en visitant le zoo ou en jouant avec leurs amis. À travers des situations amusantes et parfois cocasses, Peppa et George découvrent les joies simples de la vie, apprenant à exprimer leurs émotions et à développer leur vocabulaire. Les thèmes de l'amitié, de la famille et de l'apprentissage sont au cœur de chaque épisode, offrant aux jeunes spectateurs des leçons précieuses tout en les divertissant. La série, qui a remporté un BAFTA Award en 2005 pour sa qualité d'animation, continue de captiver les enfants du monde entier avec ses personnages attachants et ses récits pleins de fantaisie.",
+  "descriptionAi": "Peppa Pig est une série télévisée éducative et comique pour la jeunesse, diffusée depuis 2004. Elle dépeint avec légèreté et couleurs vives le quotidien de Peppa, une petite cochonne espiègle, de sa famille et de ses amis. L'ambiance est joyeuse et rassurante, centrée sur les petites aventures et découvertes qui rythment la vie des enfants. Ce qui la rend captivante, c'est son habileté à aborder avec humour et simplicité des thèmes universels comme l'amitié, la famille et l'apprentissage, tout en permettant aux jeunes téléspectateurs de développer leur vocabulaire et de comprendre leurs émotions. Une charmante invitation à partager des moments de complicité et de rire, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PeppaPigAldridge2009.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "channelNumber": 5,
+      "logoUrl": "/loghi/france-5.png",
+      "airingsCount": 44
+    },
+    {
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon-junior.png",
+      "airingsCount": 257
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6833aed0-8a72-4e41-ad01-395f10d73c82",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/france-5/peppa-pig",
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "startTime": "2026-04-19 06:40:00+00",
+      "endTime": "2026-04-19 06:49:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9ebcbabd-409f-4c76-aca8-8304118df6a5",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/france-5/peppa-pig",
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "startTime": "2026-04-19 06:49:00+00",
+      "endTime": "2026-04-19 06:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "973b1519-8d97-447a-aff6-9ead45cd8838",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/france-5/peppa-pig",
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "startTime": "2026-04-19 06:51:00+00",
+      "endTime": "2026-04-19 06:59:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "39b5b05d-6fbb-4083-afe7-b9a5cd8394bb",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/france-5/peppa-pig",
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "startTime": "2026-04-19 06:59:00+00",
+      "endTime": "2026-04-19 07:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "98f79d02-289d-417b-ae90-aed084436cd4",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 07:25:00+00",
+      "endTime": "2026-04-19 07:31:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d9687ac9-de7b-4b40-a677-b68a8dee1637",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 07:31:00+00",
+      "endTime": "2026-04-19 07:36:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "92a85080-63cd-4e3e-90d0-ce22b3190559",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 07:36:00+00",
+      "endTime": "2026-04-19 07:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c0bb92b2-cb16-42ef-ac4c-220291d13537",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 07:40:00+00",
+      "endTime": "2026-04-19 07:46:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dad31553-e027-4ed2-aaf9-4e133353d97b",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 13:37:00+00",
+      "endTime": "2026-04-19 13:42:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "426d29c2-5d74-42ce-977b-9f0e6b66a40b",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 13:42:00+00",
+      "endTime": "2026-04-19 13:46:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "81d5eea4-ffce-46d2-b6b7-08e5980e2662",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 13:46:00+00",
+      "endTime": "2026-04-19 13:52:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "99943d19-5fa0-4ce0-a192-9b73ec115112",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 13:52:00+00",
+      "endTime": "2026-04-19 13:57:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a41aa26e-2e31-4872-8cae-aa0211d2e76d",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 13:57:00+00",
+      "endTime": "2026-04-19 14:01:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "505c294c-59b8-40e4-a857-5ac85153ca10",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 14:01:00+00",
+      "endTime": "2026-04-19 14:07:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d770ca07-38ca-4cbf-b2f1-1182293ef53b",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 18:04:00+00",
+      "endTime": "2026-04-19 18:08:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "78ce788e-170d-472c-b3dd-c78e288f678f",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 18:08:00+00",
+      "endTime": "2026-04-19 18:13:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "060ff94a-ddc9-4005-a1c0-1ab0864e8fcf",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 18:13:00+00",
+      "endTime": "2026-04-19 18:17:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d79ff183-8133-4705-b39a-65e575d2c3ce",
+      "title": "Peppa Pig",
+      "programSlug": "peppa-pig",
+      "programUrl": "/programme/nickelodeon-junior/peppa-pig",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 18:17:00+00",
+      "endTime": "2026-04-19 18:23:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:22.001Z",
+  "startYear": 2004,
+  "numberOfSeasons": 10,
+  "cast": [],
+  "creator": {
+    "qid": "Q47122334",
+    "slug": "neville-astley",
+    "name": "Neville Astley",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 06:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

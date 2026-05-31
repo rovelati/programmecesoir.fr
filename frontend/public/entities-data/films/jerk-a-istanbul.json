@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "jerk-a-istanbul",
+  "title": "Jerk à Istanbul",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Jerk à Istanbul"
+  ],
+  "genres": [
+    "thriller",
+    "drame"
+  ],
+  "description": "Vincent et Grégoire sont amis de longue date et férus de courses. Chaque dimanche, de façon quasi-rituelle, ils jouent au tiercé, récoltant parfois quelque gain. Décidant de changer de méthode et espérant empocher plus, ils décident un jour de jouer la même combinaison. C'est alors que la chance leur sourit : les deux joueurs gagnent la coquette somme de cent millions. Malheureusement, Grégoire, chargé d'aller récupérer leurs gains, disparaît subitement dans la nature avec la somme en poche. Après une rapide enquête, Vincent comprend que son ami est parti à Istanbul. Il s'empresse de le rejoindre afin de récupérer sa part du butin et s'aperçoit que l'argent est entre les mains d'un patron de cabaret...",
+  "descriptionAi": "Ce thriller dramatique de 1967 plonge le spectateur dans l’ambiance fiévreuse des courses et des amitiés trahies. L’histoire de Vincent et Grégoire, deux amis dont la fortune soudaine se transforme en cauchemar, captive par son récit de poursuite et de trahison. L’intrigue prend un tour haletant lorsque Vincent part à Istanbul sur les traces de l’argent et de son ami disparu, nous entraînant dans les bas-fonds de la ville où règnent le danger et la duplicité. Le film mêle tension psychologique et suspense, explorant avec acuité les conséquences du mensonge et de l’appât du gain. Une plongée intrigante dans les recoins sombres d’une amitié brisée, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:49:09.348Z",
+  "year": 1967,
+  "durationMinutes": 85,
+  "cast": [
+    {
+      "qid": "Q62257",
+      "slug": "michel-constantin",
+      "name": "Michel Constantin",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3081657",
+    "slug": "francis-rigaud",
+    "name": "Francis Rigaud",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

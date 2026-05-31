@@ -1,0 +1,163 @@
+{
+  "type": "film",
+  "slug": "le-seigneur-des-anneaux-les-deux-tours",
+  "title": "Le seigneur des anneaux : les deux tours",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Le seigneur des anneaux : les deux tours"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'aventure",
+    "film et téléfilm d'action"
+  ],
+  "description": "Frodon et Sam, les deux hobbits, continuent leur route vers la montagne du destin pour y détruire l'Anneau unique. Ils ignorent que leurs amis Merry et Pippin ont été capturés par les orques et qu'Aragorn, accompagné de Gimli et Legolas, s'est lancé à leur poursuite vers le domaine de Saroumane...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "61b0d032-79dc-4391-a0b3-586261790573",
+      "title": "Le seigneur des anneaux : les deux tours",
+      "programSlug": "le-seigneur-des-anneaux-les-deux-tours",
+      "programUrl": "/programme/ocs/le-seigneur-des-anneaux-les-deux-tours",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 18:50:00+00",
+      "endTime": "2026-04-20 21:45:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2002,
+  "durationMinutes": 179,
+  "cast": [
+    {
+      "qid": "Q170510",
+      "slug": "ian-mckellen",
+      "name": "Ian McKellen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q189351",
+      "slug": "sean-astin",
+      "name": "Sean Astin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q171363",
+      "slug": "viggo-mortensen",
+      "name": "Viggo Mortensen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q206922",
+      "slug": "andy-serkis",
+      "name": "Andy Serkis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q168763",
+      "slug": "liv-tyler",
+      "name": "Liv Tyler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q80966",
+      "slug": "cate-blanchett",
+      "name": "Cate Blanchett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16455",
+      "slug": "john-rhys-davies",
+      "name": "John Rhys-Davies",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44467",
+      "slug": "orlando-bloom",
+      "name": "Orlando Bloom",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310515",
+      "slug": "bernard-hill",
+      "name": "Bernard Hill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q180338",
+      "slug": "christopher-lee",
+      "name": "Christopher Lee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q276425",
+      "slug": "billy-boyd",
+      "name": "Billy Boyd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q152165",
+      "slug": "dominic-monaghan",
+      "name": "Dominic Monaghan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42204",
+      "slug": "hugo-weaving",
+      "name": "Hugo Weaving",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294975",
+      "slug": "miranda-otto",
+      "name": "Miranda Otto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132430",
+      "slug": "karl-urban",
+      "name": "Karl Urban",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296328",
+      "slug": "david-wenham",
+      "name": "David Wenham",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q4465",
+    "slug": "peter-jackson",
+    "name": "Peter Jackson",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

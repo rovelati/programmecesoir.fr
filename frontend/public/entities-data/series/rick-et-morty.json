@@ -1,0 +1,278 @@
+{
+  "type": "series",
+  "slug": "rick-et-morty",
+  "title": "Rick et Morty",
+  "airingsCount": 127,
+  "sourceTitles": [
+    "Rick et Morty"
+  ],
+  "genres": [
+    "sitcom",
+    "série télévisée de science-fiction",
+    "humour noir"
+  ],
+  "description": "Dans la boutique d'un prêteur sur gages spatial, Rick achète un robot pour Morty. Bientôt, l'androïde conçoit un hybride qu'il baptise Morty junior. Rick et Summer se rendent sur la planète d'origine du robot, Gazorpazorp, à la recherche de parents plus adaptés pour Morty junior. Ils découvrent une société dirigée par les femmes où les hommes mûrissent en quelques jours. Morty junior commence rapidement à donner des conseils de paternité à Morty...",
+  "descriptionAi": "Cette série animée mêle sitcom et science-fiction avec un humour noir décapant. Suivez les aventures chaotiques de Rick, un scientifique cynique, et de son petit-fils Morty à travers les dimensions. L'ambiance oscille entre l'absurde et des réflexions inattendues sur la famille et l'existence. Ce qui captive, c'est son audace à bousculer les codes narratifs tout en maintenant un rythme effréné. Chaque épisode offre un mélange unique de gags déjantés et de moments surprenamment profonds. Une œuvre culte qui ne cesse de surprendre par son inventivité et son ton singulier, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 79
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 48
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "56e14ad7-c80f-441b-a9c6-f1175322bc59",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-19 09:55:00+00",
+      "endTime": "2026-04-19 10:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "379bdca7-0f48-47c2-9c59-fc1e917bb2d9",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/warner-tv-next/rick-et-morty",
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "startTime": "2026-04-19 09:55:00+00",
+      "endTime": "2026-04-19 10:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "47c3e201-abc8-4d50-b8df-f50ee9b626d8",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-19 10:20:00+00",
+      "endTime": "2026-04-19 10:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bf5e2990-d7bd-4ffc-aad6-f1b6889ed86f",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/warner-tv-next/rick-et-morty",
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "startTime": "2026-04-19 10:20:00+00",
+      "endTime": "2026-04-19 10:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5f4ca97e-15c0-476c-ae88-ab9be0a136bd",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-19 10:45:00+00",
+      "endTime": "2026-04-19 11:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9d181cc9-5be1-4453-ac2b-d93acdcc19c9",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/warner-tv-next/rick-et-morty",
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "startTime": "2026-04-19 10:45:00+00",
+      "endTime": "2026-04-19 11:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cda3bf2f-5e71-4e4f-994f-f370b542a577",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-20 05:40:00+00",
+      "endTime": "2026-04-20 06:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "901d19c5-a2fc-4ed7-8752-726fcd7fdfcf",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-20 06:05:00+00",
+      "endTime": "2026-04-20 06:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "921822cc-66f8-4f56-9fa0-01ff5c8784d4",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-20 10:45:00+00",
+      "endTime": "2026-04-20 11:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "49df592b-71b8-4c6d-881e-5dc5fc46f894",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-20 11:10:00+00",
+      "endTime": "2026-04-20 11:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2eda3d84-37dd-4776-9fc7-384360ba4700",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-20 15:55:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5f8dc074-7573-46c5-af36-675dd0c3c334",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-20 16:15:00+00",
+      "endTime": "2026-04-20 16:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "aa59c848-6de8-49ef-b774-7d591cf0b0ee",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-20 18:15:00+00",
+      "endTime": "2026-04-20 18:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5fb7942d-91df-4ded-be6e-15bf4ba5fb74",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-20 18:40:00+00",
+      "endTime": "2026-04-20 19:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "9433cf49-d717-410f-af4e-55466664b0ab",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-21 05:40:00+00",
+      "endTime": "2026-04-21 06:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "5a0d966a-10bf-4d3d-a7ea-6a35ad0da04f",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/warner-tv-next/rick-et-morty",
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "startTime": "2026-04-21 05:40:00+00",
+      "endTime": "2026-04-21 06:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "f087b3d6-201d-4156-a656-780faf26ab98",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/adultswimfr/rick-et-morty",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-21 06:05:00+00",
+      "endTime": "2026-04-21 06:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a86f680a-ac6c-4220-88f4-0bed1fdf639b",
+      "title": "Rick et Morty",
+      "programSlug": "rick-et-morty",
+      "programUrl": "/programme/warner-tv-next/rick-et-morty",
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "startTime": "2026-04-21 06:05:00+00",
+      "endTime": "2026-04-21 06:35:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:07:01.235Z",
+  "startYear": 2013,
+  "numberOfSeasons": 8,
+  "cast": [],
+  "creator": {
+    "qid": "Q6318075",
+    "slug": "justin-roiland",
+    "name": "Justin Roiland",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 09:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

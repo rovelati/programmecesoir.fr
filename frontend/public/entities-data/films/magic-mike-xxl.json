@@ -1,0 +1,145 @@
+{
+  "type": "film",
+  "slug": "magic-mike-xxl",
+  "title": "Magic Mike XXL",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Magic Mike XXL"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "comédie",
+    "drame",
+    "sexploitation"
+  ],
+  "description": "Le strip-tease, c'est de l'histoire ancienne pour Magic Mike, qui a préféré retrouver une vie normale. Ses collègues, les Kings of Tampa, s'apprêtent également à jeter l'éponge. Mais ils veulent le faire de façon flamboyante, lors d'un ultime show qui restera dans les mémoires. Leur but ? Se rendre avec leur leader, Magic Mike, à une convention à Myrtle Beach, en Caroline du Sud. Mais rien n'est gagné d'avance et ils s'entraînent d'arrache-pied à Jacksonville et Savannah. Sur place, ils se font de nouveaux amis, préparent de nouveaux numéros et rencontrent leurs futurs rivaux. Ces retrouvailles sont aussi l'occasion d'évoquer le passé...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 115,
+  "cast": [
+    {
+      "qid": "Q212064",
+      "slug": "channing-tatum",
+      "name": "Channing Tatum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315340",
+      "slug": "matthew-bomer",
+      "name": "Matthew Bomer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q280793",
+      "slug": "kevin-nash",
+      "name": "Kevin Nash",
+      "role": "actor"
+    },
+    {
+      "qid": "Q470005",
+      "slug": "joe-manganiello",
+      "name": "Joe Manganiello",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2738010",
+      "slug": "gabriel-iglesias",
+      "name": "Gabriel Iglesias",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350746",
+      "slug": "adam-rodriguez",
+      "name": "Adam Rodriguez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3698901",
+      "slug": "crystal-hunt",
+      "name": "Crystal Hunt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229166",
+      "slug": "amber-heard",
+      "name": "Amber Heard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228787",
+      "slug": "jada-pinkett-smith",
+      "name": "Jada Pinkett Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1239933",
+      "slug": "donald-glover",
+      "name": "Donald Glover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208558",
+      "slug": "andie-macdowell",
+      "name": "Andie MacDowell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6152556",
+      "slug": "jane-mcneill",
+      "name": "Jane McNeill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18933",
+      "slug": "rhoda-griffis",
+      "name": "Rhoda Griffis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4766428",
+      "slug": "ann-hamilton",
+      "name": "Ann Hamilton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q219373",
+      "slug": "elizabeth-banks",
+      "name": "Elizabeth Banks",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q20657044",
+    "slug": "gregory-jacobs",
+    "name": "Gregory Jacobs",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

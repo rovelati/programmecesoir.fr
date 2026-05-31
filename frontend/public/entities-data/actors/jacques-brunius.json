@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "jacques-brunius",
+  "name": "Jacques Brunius",
+  "worksCount": 1,
+  "description": "acteur et réalisateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/En%201961.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1906-09-16",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3158422",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jacques_Brunius",
+    "imdb": "nm0096293",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "partie-de-campagne",
+      "title": "Partie de campagne"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cee3b06d-399a-4c31-aa05-1ac72c9c78be",
+      "title": "Partie de campagne",
+      "programSlug": "partie-de-campagne",
+      "programUrl": "/programme/france-3-corse/partie-de-campagne",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 06:44:00+00",
+      "endTime": "2026-04-19 06:56:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 06:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

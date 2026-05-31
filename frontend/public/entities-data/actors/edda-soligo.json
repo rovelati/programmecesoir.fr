@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "edda-soligo",
+  "name": "Edda Soligo",
+  "worksCount": 1,
+  "description": "actrice italienne",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1905-07-17",
+  "nationality": "Italie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3718910",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edda_Soligo",
+    "imdb": "nm0813059",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-fille-a-la-valise",
+      "title": "La fille à la valise"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

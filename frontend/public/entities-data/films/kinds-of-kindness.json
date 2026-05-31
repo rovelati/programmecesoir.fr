@@ -1,0 +1,127 @@
+{
+  "type": "film",
+  "slug": "kinds-of-kindness",
+  "title": "Kinds of Kindness",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Kinds of Kindness"
+  ],
+  "genres": [
+    "film à sketches",
+    "comédie dramatique",
+    "comédie noire"
+  ],
+  "description": "Robert Fletcher est totalement soumis à son patron qui régente tous les détails de sa vie, même les plus infimes et privés. Un jour, il se rebelle contre un ordre qu'il juge choquant et tente de reprendre sa liberté, mais le résultat est désastreux. Parallèlement, Daniel, un policier, ne peut cacher son inquiétude lorsque son épouse, portée disparue lors d'une sortie en mer, fait soudain son retour et qu'elle semble être une personne totalement différente. Enfin, Emily, membre d'une secte, mène des recherches afin de trouver une femme qui, d'après une prophétie, serait dotée d'un pouvoir spécial et destinée à devenir une cheffe spirituelle...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "03358bdc-b134-4494-ba73-ffa6bd2bf0f8",
+      "title": "Kinds of Kindness",
+      "programSlug": "kinds-of-kindness",
+      "programUrl": "/programme/ocs/kinds-of-kindness",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-19 22:52:00+00",
+      "endTime": "2026-04-20 01:31:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8b5391ed-c5e8-4f74-9ed9-a807048b510b",
+      "title": "Kinds of Kindness",
+      "programSlug": "kinds-of-kindness",
+      "programUrl": "/programme/ocs/kinds-of-kindness",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 00:58:00+00",
+      "endTime": "2026-04-25 03:38:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 165,
+  "cast": [
+    {
+      "qid": "Q147077",
+      "slug": "emma-stone",
+      "name": "Emma Stone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188772",
+      "slug": "willem-dafoe",
+      "name": "Willem Dafoe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1138674",
+      "slug": "jesse-plemons",
+      "name": "Jesse Plemons",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17380672",
+      "slug": "margaret-qualley",
+      "name": "Margaret Qualley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q38195662",
+      "slug": "hong-chau",
+      "name": "Hong Chau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q27440303",
+      "slug": "joe-alwyn",
+      "name": "Joe Alwyn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40550981",
+      "slug": "mamoudou-athie",
+      "name": "Mamoudou Athie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q59248250",
+      "slug": "hunter-schafer",
+      "name": "Hunter Schafer",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q975410",
+    "slug": "yorgos-lanthimos",
+    "name": "Yórgos Lánthimos",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 22:52:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

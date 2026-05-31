@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "grave",
+  "title": "Grave",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Grave"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Justine, comme le reste de sa famille, est végétarienne. A 16 ans, la jeune fille, précoce, est reçue dans l'école vétérinaire où sa soeur aînée, Alexia, est déjà élève. Mais l'intégration est brutale : le bizutage commence en effet tout de suite pour Justine, qui ne peut pas compter sur le soutien de sa soeur et se retrouve forcée d'ingérer un morceau de viande crue. Dès le lendemain, son corps porte de nombreux stigmates allergiques. Cette expérience douloureuse n'est pas sans conséquences sur l'adolescente qui commence à développer un étrange comportement...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grave%20skyline%20maaskade.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

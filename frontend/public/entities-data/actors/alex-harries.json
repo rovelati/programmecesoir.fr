@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "alex-harries",
+  "name": "Alex Harries",
+  "worksCount": 1,
+  "description": "Welsh actor",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": null,
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q25558134",
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "hinterland",
+      "title": "Hinterland"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7e252443-6905-41af-b91c-50532eea2b70",
+      "title": "Hinterland - Saison 2",
+      "programSlug": "hinterland-saison-2",
+      "programUrl": "/programme/polar/hinterland-saison-2",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-25 22:17:00+00",
+      "endTime": "2026-04-25 23:53:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 22:17:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

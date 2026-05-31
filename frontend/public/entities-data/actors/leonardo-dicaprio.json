@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "leonardo-dicaprio",
+  "name": "Leonardo DiCaprio",
+  "worksCount": 2,
+  "description": "acteur, producteur et scénariste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20DiCaprio%20-%20BFI%20Southbank%203%20(crop).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1974-11-11",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q38111",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Leonardo_DiCaprio",
+    "imdb": "nm0000138",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-infiltres",
+      "title": "Les infiltrés"
+    },
+    {
+      "type": "film",
+      "slug": "une-bataille-apres-l-autre",
+      "title": "Une bataille après l'autre"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8c551de2-3fe3-45ac-8dc9-d05085ae39b7",
+      "title": "Une bataille après l'autre",
+      "programSlug": "une-bataille-apres-l-autre",
+      "programUrl": "/programme/canal-box-office/une-bataille-apres-l-autre",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 11:14:00+00",
+      "endTime": "2026-04-20 13:50:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 11:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

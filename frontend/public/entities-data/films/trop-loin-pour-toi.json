@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "trop-loin-pour-toi",
+  "title": "Trop loin pour toi",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Trop loin pour toi"
+  ],
+  "genres": [
+    "comédie romantique"
+  ],
+  "description": "Erin, future journaliste, quitte Manhattan et son petit ami Garrett pour étudier à San Francisco. Ils espèrent que leur amour surmontera les aléas de la séparation. Mais lorsque leur galère semble enfin tirer à sa fin, Erin décroche le job de ses rêves en Californie, et la carrière de Garrett décolle...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Going%20the%20distance.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2010,
+  "durationMinutes": 102,
+  "cast": [
+    {
+      "qid": "Q676094",
+      "slug": "drew-barrymore",
+      "name": "Drew Barrymore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298672",
+      "slug": "justin-long",
+      "name": "Justin Long",
+      "role": "actor"
+    },
+    {
+      "qid": "Q365915",
+      "slug": "charlie-day",
+      "name": "Charlie Day",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14539",
+      "slug": "jason-sudeikis",
+      "name": "Jason Sudeikis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188280",
+      "slug": "christina-applegate",
+      "name": "Christina Applegate",
+      "role": "actor"
+    },
+    {
+      "qid": "Q528126",
+      "slug": "ron-livingston",
+      "name": "Ron Livingston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q264996",
+      "slug": "kelli-garner",
+      "name": "Kelli Garner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q199931",
+      "slug": "leighton-meester",
+      "name": "Leighton Meester",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457106",
+      "slug": "natalie-morales",
+      "name": "Natalie Morales",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2093638",
+      "slug": "jim-gaffigan",
+      "name": "Jim Gaffigan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272927",
+      "slug": "kristen-schaal",
+      "name": "Kristen Schaal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q373371",
+      "slug": "mick-hazen",
+      "name": "Mick Hazen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5576465",
+      "slug": "mike-birbiglia",
+      "name": "Mike Birbiglia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3132212",
+      "slug": "oliver-jackson-cohen",
+      "name": "Oliver Jackson-Cohen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234299",
+      "slug": "peyton-roi-list",
+      "name": "Peyton Roi List",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1616538",
+      "slug": "rob-riggle",
+      "name": "Rob Riggle",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2913350",
+    "slug": "nanette-burstein",
+    "name": "Nanette Burstein",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

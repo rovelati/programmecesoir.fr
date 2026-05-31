@@ -1,0 +1,139 @@
+{
+  "type": "film",
+  "slug": "le-discours",
+  "title": "Le Discours",
+  "airingsCount": 9,
+  "sourceTitles": [
+    "Le discours",
+    "Le Discours"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Coincé à un repas de famille qui n'en finit pas, Adrien voudrait s'échapper. Tandis qu'à table on discute des avantages du chauffage au sol, le jeune homme en pleine crise existentielle a la tête dans son portable qui ne sonne pas. Sonia, la femme de sa vie, ne répond toujours pas à son SMS...",
+  "descriptionAi": "Cette comédie romantique de 2020 capture avec humour et justesse l'ambiance étouffante d'un dîner familial interminable. Le film nous plonge dans l'angoisse légère et universelle d'Adrien, coincé entre des conversations banales et l'attente angoissée d'un message de l'être aimé. Son portrait d'une crise existentielle moderne, rythmée par les silences d'un téléphone, est à la fois drôle et profondément touchant. Une tranche de vie espiègle sur l'amour et l'ennui, qui résonnera avec tous ceux ayant déjà guetté une notification. Une comédie délicate sur les petits drames du quotidien, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "445ff83b-a26f-4392-8605-78477c98923d",
+      "title": "Le discours",
+      "programSlug": "le-discours",
+      "programUrl": "/programme/ocs/le-discours",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-19 09:59:00+00",
+      "endTime": "2026-04-19 10:06:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q99328479",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Le_Discours",
+    "imdb": "tt12105554",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:00.202Z",
+  "year": 2020,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q22248002",
+      "slug": "benjamin-lavernhe",
+      "name": "Benjamin Lavernhe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3473265",
+      "slug": "sara-giraudeau",
+      "name": "Sara Giraudeau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3200883",
+      "slug": "kyan-khojandi",
+      "name": "Kyan Khojandi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3189060",
+      "slug": "julia-piaton",
+      "name": "Julia Piaton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3085412",
+      "slug": "francois-morel",
+      "name": "François Morel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3119522",
+      "slug": "guilaine-londez",
+      "name": "Guilaine Londez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42559952",
+      "slug": "sebastien-chassagne",
+      "name": "Sébastien Chassagne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22968159",
+      "slug": "sarah-suco",
+      "name": "Sarah Suco",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3219542",
+    "slug": "laurent-tirard",
+    "name": "Laurent Tirard",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 09:59:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,206 @@
+{
+  "type": "actor",
+  "slug": "audrey-fleurot",
+  "name": "Audrey Fleurot",
+  "worksCount": 6,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Audrey%20Fleurot%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-07-06",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q457089",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Audrey_Fleurot",
+    "imdb": "nm1109153",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-femmes-du-6e-etage",
+      "title": "Les femmes du 6e étage"
+    },
+    {
+      "type": "film",
+      "slug": "sous-les-jupes-des-filles",
+      "title": "Sous les jupes des filles"
+    },
+    {
+      "type": "film",
+      "slug": "intouchables",
+      "title": "Intouchables"
+    },
+    {
+      "type": "film",
+      "slug": "les-gazelles",
+      "title": "Les gazelles"
+    },
+    {
+      "type": "series",
+      "slug": "kaamelott",
+      "title": "Kaamelott"
+    },
+    {
+      "type": "series",
+      "slug": "hpi",
+      "title": "HPI"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "09e748f9-347d-43a5-8185-6ad0da211e4a",
+      "title": "Intouchables",
+      "programSlug": "intouchables",
+      "programUrl": "/programme/rts-un/intouchables",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 19:05:00+00",
+      "endTime": "2026-04-19 21:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "366cbf3d-aa26-4ae8-9b97-de1fce536232",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/w9/kaamelott",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 07:00:00+00",
+      "endTime": "2026-04-20 09:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d998e825-7ae4-4816-9819-9ddac8372b55",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/paris-premiere/kaamelott",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 08:40:00+00",
+      "endTime": "2026-04-20 10:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "26c2656e-e599-499b-babc-7854d9fc24d5",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-20 19:10:00+00",
+      "endTime": "2026-04-20 20:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e974b0a7-e630-4601-b442-747411eda90a",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-20 20:55:00+00",
+      "endTime": "2026-04-20 22:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7e47875a-411f-4185-ab90-302187c85da4",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-20 22:45:00+00",
+      "endTime": "2026-04-21 00:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "068c4ad2-b9f7-4b5c-9ba6-60b728607473",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/w9/kaamelott",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-21 07:00:00+00",
+      "endTime": "2026-04-21 09:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "44ef2baf-c378-4975-88f7-6471c35176c6",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/paris-premiere/kaamelott",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-21 08:50:00+00",
+      "endTime": "2026-04-21 10:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c08469d2-c164-413f-89ce-43affe30bb6a",
+      "title": "HPI - Saison 4",
+      "programSlug": "hpi-saison-4",
+      "programUrl": "/programme/tv-breizh/hpi-saison-4",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 20:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b431c5d8-5dc3-47df-b3eb-9d71be95a947",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-21 19:10:00+00",
+      "endTime": "2026-04-21 20:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "af3872d1-f884-4cfe-b2bc-a396d787bd65",
+      "title": "HPI - Saison 4",
+      "programSlug": "hpi-saison-4",
+      "programUrl": "/programme/tv-breizh/hpi-saison-4",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-21 20:05:00+00",
+      "endTime": "2026-04-21 21:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "16f779df-7fda-426d-a447-51ab557e1d2a",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-21 20:30:00+00",
+      "endTime": "2026-04-21 22:00:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 19:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

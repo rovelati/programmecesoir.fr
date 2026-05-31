@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "haley-bennett",
+  "name": "Haley Bennett",
+  "worksCount": 2,
+  "description": "actrice et chanteuse américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Haley%20Bennett%20during%20an%20interview%2C%20December%202021.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1988-01-07",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q232797",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Haley_Bennett",
+    "imdb": "nm2247245",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-exception",
+      "title": "L'exception"
+    },
+    {
+      "type": "film",
+      "slug": "le-come-back",
+      "title": "Le come-back"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

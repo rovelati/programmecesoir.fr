@@ -1,0 +1,65 @@
+{
+  "type": "film",
+  "slug": "vingt-dieux",
+  "title": "Vingt dieux",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Vingt dieux"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "drame"
+  ],
+  "description": "Anthony, alias \"Totone\", 18 ans, passe le plus clair de son temps à boire des bières et à écumer les bals du Jura avec sa bande de potes. Mais il finit par être rattrapé par la réalité. Après le décès brutal de son père veuf, il se retrouve soudainement responsable de sa petite soeur de 7 ans. Il doit alors trouver un moyen de gagner sa vie. Totone se met en tête de fabriquer le meilleur comté de la région, celui avec lequel il remportera la médaille d'or du concours agricole et son prix de 30 000 euros. Soutenu par les uns, moqué par les autres, il refuse de baisser les bras, même s'il ne connaît rien à la production de fromage...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q134893022",
+      "slug": "clement-faveau",
+      "name": "Clément Faveau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132831179",
+      "slug": "maiwene-barthelemy",
+      "name": "Maïwène Barthelemy",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q125960788",
+    "slug": "louise-courvoisier",
+    "name": "Louise Courvoisier",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

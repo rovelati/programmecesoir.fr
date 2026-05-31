@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "logan-lucky",
+  "title": "Logan Lucky",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Logan Lucky"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm de casse"
+  ],
+  "description": "Jimmy Logan vient encore d'être licencié d'un chantier de construction. Son frère, Clyde, qui n'est pas plus malin, a également du mal à garder un emploi. Ensemble, ils pensent avoir trouvé l'idée du siècle en organisant un casse de haute volée. Ils veulent dérober les recettes, énormes, de la plus grande course automobile de l'année. Mais ils n'y connaissent rien en cambriolage. Ils veulent donc faire équipe avec Joe Bang, le meilleur braqueur de coffre-fort du pays. Ce dernier étant incarcéré, les deux frères vont l'aider à s'évader. Il ne leur reste maintenant qu'à dénicher un expert en informatique qui pourra trouver les codes d'ouverture...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/All%20race.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 119,
+  "cast": [
+    {
+      "qid": "Q4547",
+      "slug": "daniel-craig",
+      "name": "Daniel Craig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q455898",
+      "slug": "sebastian-stan",
+      "name": "Sebastian Stan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212064",
+      "slug": "channing-tatum",
+      "name": "Channing Tatum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q189554",
+      "slug": "katherine-heigl",
+      "name": "Katherine Heigl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254947",
+      "slug": "riley-keough",
+      "name": "Riley Keough",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4678990",
+      "slug": "adam-driver",
+      "name": "Adam Driver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q93187",
+      "slug": "hilary-swank",
+      "name": "Hilary Swank",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188492",
+      "slug": "seth-macfarlane",
+      "name": "Seth MacFarlane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15222780",
+      "slug": "katherine-waterston",
+      "name": "Katherine Waterston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q64560",
+      "slug": "david-denman",
+      "name": "David Denman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1139078",
+      "slug": "jack-quaid",
+      "name": "Jack Quaid",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6197242",
+      "slug": "jim-o-heir",
+      "name": "Jim O'Heir",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18637413",
+      "slug": "brian-gleeson",
+      "name": "Brian Gleeson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6185701",
+      "slug": "jesco-white",
+      "name": "Jesco White",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23834468",
+      "slug": "macon-blair",
+      "name": "Macon Blair",
+      "role": "actor"
+    },
+    {
+      "qid": "Q174346",
+      "slug": "katie-holmes",
+      "name": "Katie Holmes",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q103917",
+    "slug": "steven-soderbergh",
+    "name": "Steven Soderbergh",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

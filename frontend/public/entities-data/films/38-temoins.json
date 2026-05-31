@@ -1,0 +1,118 @@
+{
+  "type": "film",
+  "slug": "38-temoins",
+  "title": "38 témoins",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "38 témoins"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Louise était en Chine, pour raisons professionnelles, lorsqu'une jeune baby-sitter a été poignardée de plusieurs de coups de couteau, dans le hall d'un immeuble voisin du sien, au Havre. Pierre, son fiancé, n'a rien pu voir. Il travaillait, guidant dans le port les bateaux à l'accostage. Il n'y a d'ailleurs aucun témoin. Toute la rue dormait lorsque la victime a été sauvagement assassinée. Toute la rue ? Et pourquoi Pierre est-il d'une humeur aussi noire ? Et voici qu'une nuit, alors qu'il croit sa femme endormie, il se met à raconter ce qu'il a vu et entendu cette nuit-là. Car il était chez lui, et il a bien été réveillé par les hurlements de la jeune fille...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 104,
+  "cast": [
+    {
+      "qid": "Q724208",
+      "slug": "yvan-attal",
+      "name": "Yvan Attal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q292545",
+      "slug": "sophie-quinton",
+      "name": "Sophie Quinton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q434060",
+      "slug": "nicole-garcia",
+      "name": "Nicole Garcia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3027186",
+      "slug": "didier-sandre",
+      "name": "Didier Sandre",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3028139",
+      "slug": "dimitri-rataud",
+      "name": "Dimitri Rataud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3084605",
+      "slug": "francois-feroleto",
+      "name": "François Feroleto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3167934",
+      "slug": "jean-michel-aphatie",
+      "name": "Jean-Michel Aphatie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q446883",
+      "slug": "natacha-regnier",
+      "name": "Natacha Régnier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2405609",
+      "slug": "patrick-descamps",
+      "name": "Patrick Descamps",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380676",
+      "slug": "philippe-resimont",
+      "name": "Philippe Résimont",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16670062",
+      "slug": "pierre-rochefort",
+      "name": "Pierre Rochefort",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1873071",
+    "slug": "lucas-belvaux",
+    "name": "Lucas Belvaux",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

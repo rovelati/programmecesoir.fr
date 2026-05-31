@@ -1,0 +1,112 @@
+{
+  "type": "film",
+  "slug": "brick-mansions",
+  "title": "Brick Mansions",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Brick Mansions"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "thriller",
+    "film et téléfilm d'action",
+    "film dystopique",
+    "drame"
+  ],
+  "description": "A Detroit en 2018, Damien, un policier expert en arts martiaux et spécialisé dans les infiltrations de réseaux criminels, se voit confier une nouvelle mission périlleuse : intégrer Brick Mansions, un ghetto de la ville, et retrouver une bombe à neutrons qui a été volée par Tremaine Alexander, un chef de gang. Aidé par Lino, un membre du même gang qui connaît parfaitement le ghetto, il va devoir se rapprocher de dangereux criminels dans un environnement hostile, et faire face à Alexander, qu'il cherche à neutraliser depuis longtemps. L'occasion également pour Lino de régler un compte avec le bandit, qui a enlevé sa fiancée...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q16530533",
+      "slug": "ayisha-issa",
+      "name": "Ayisha Issa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q608695",
+      "slug": "carlo-rota",
+      "name": "Carlo Rota",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461656",
+      "slug": "catalina-denis",
+      "name": "Catalina Denis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q333814",
+      "slug": "david-belle",
+      "name": "David Belle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q589775",
+      "slug": "robert-maillet",
+      "name": "Robert Maillet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q52447",
+      "slug": "rza",
+      "name": "RZA",
+      "role": "actor"
+    },
+    {
+      "qid": "Q213864",
+      "slug": "paul-walker",
+      "name": "Paul Walker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q173399",
+      "slug": "elliot-page",
+      "name": "Elliot Page",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q16535255",
+    "slug": "camille-delamarre",
+    "name": "Camille Delamarre",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

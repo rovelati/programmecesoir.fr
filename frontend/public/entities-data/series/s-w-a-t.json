@@ -1,0 +1,227 @@
+{
+  "type": "series",
+  "slug": "s-w-a-t",
+  "title": "S.W.A.T.",
+  "airingsCount": 43,
+  "sourceTitles": [
+    "S.W.A.T.",
+    "S.W.A.T. - Saison 4",
+    "S.W.A.T. - Saison 5",
+    "S.W.A.T. - Saison 6",
+    "S.W.A.T. - Saison 8"
+  ],
+  "genres": [
+    "thriller",
+    "film et téléfilm d'action"
+  ],
+  "description": "Après une année particulièrement éprouvante, Hondo (Shemar Moore) choisit de quitter Los Angeles pour se retirer au Mexique, espérant trouver un peu de paix et faire le point sur sa vie loin des tumultes de son métier de policier. Cependant, son désir d'évasion est rapidement compromis lorsqu'il se retrouve mêlé à un violent conflit local qui le force à reconsidérer sa position. De retour à Los Angeles, Hondo découvre qu'il n'est plus le leader de son unité, ayant été remplacé par Hicks, qui a décidé d'intégrer de nouveaux membres dans l'équipe. Hondo tente de retrouver son rythme, mais la réalité de son métier le rattrape : braqueurs, gangs, trafiquants de drogue et tireurs fous font partie de son quotidien. Cette cinquième saison, marquée par l'intensité des opérations, se conclut par une attaque terroriste qui met à l'épreuve la cohésion et la détermination de l'équipe.",
+  "descriptionAi": "\"S.W.A.T.\" est un thriller d'action palpitant qui plonge le téléspectateur au cœur des opérations risquées d'une unité d'élite de Los Angeles. L'ambiance est tendue et réaliste, mêlant scènes de bravoure et dilemmes personnels. Ce qui rend la série captivante, c'est son équilibre entre une action spectaculaire et l'exploration des liens qui unissent ces officiers, confrontés à des menaces toujours plus extrêmes. Le parcours du sergent Hondo, partagé entre son devoir et ses démons, ajoute une profondeur humaine à ce récit haletant. Une série intense qui interroge le prix de l'engagement, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "channelNumber": 1,
+      "logoUrl": "/loghi/tf1.png",
+      "airingsCount": 14
+    },
+    {
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "channelNumber": 17,
+      "logoUrl": "/loghi/cstar.png",
+      "airingsCount": 12
+    },
+    {
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/club-rtl.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-1.png",
+      "airingsCount": 14
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bdab2599-4985-48a4-9d25-1714190f3d83",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/club-rtl/s-w-a-t",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 18:05:00+00",
+      "endTime": "2026-04-19 18:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e05d1a15-210c-48dd-86a6-f1201911cb84",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/club-rtl/s-w-a-t",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 18:55:00+00",
+      "endTime": "2026-04-19 19:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "db4402dc-c338-4bb6-8f15-d609bdab86ff",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/cstar/s-w-a-t",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 19:56:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "73194785-1d32-436c-91c7-f177c5606e99",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/club-rtl/s-w-a-t",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 19:45:00+00",
+      "endTime": "2026-04-19 20:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3fb5ccca-06ea-4e61-9ebb-5ce75f69cc6d",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/cstar/s-w-a-t",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-19 19:56:00+00",
+      "endTime": "2026-04-19 20:48:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5be8e085-711e-4382-83e2-612dfe71a9b7",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/cstar/s-w-a-t",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-19 20:48:00+00",
+      "endTime": "2026-04-19 21:33:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dfb2e009-b197-494a-9a9a-c71b62381a1c",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/cstar/s-w-a-t",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-19 21:33:00+00",
+      "endTime": "2026-04-19 22:25:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:42:44.841Z",
+  "startYear": 2017,
+  "numberOfSeasons": 8,
+  "cast": [
+    {
+      "qid": "Q320941",
+      "slug": "shemar-moore",
+      "name": "Shemar Moore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19561785",
+      "slug": "stephanie-sigman",
+      "name": "Stephanie Sigman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2833025",
+      "slug": "alex-russell",
+      "name": "Alex Russell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2655318",
+      "slug": "lina-esco",
+      "name": "Lina Esco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1371295",
+      "slug": "kenneth-allen-johnson",
+      "name": "Kenneth Allen Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q328409",
+      "slug": "peter-onorati",
+      "name": "Peter Onorati",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1139296",
+      "slug": "jay-harrington",
+      "name": "Jay Harrington",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42959573",
+      "slug": "david-lim",
+      "name": "David Lim",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6569492",
+      "slug": "patrick-st-esprit",
+      "name": "Patrick St. Esprit",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4749179",
+      "slug": "amy-farrington",
+      "name": "Amy Farrington",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2376800",
+      "slug": "rochelle-aytes",
+      "name": "Rochelle Aytes",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 18:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

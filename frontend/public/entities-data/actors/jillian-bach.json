@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "jillian-bach",
+  "name": "Jillian Bach",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jillian%20Bach%20-%20Lola%20Nankin.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-04-27",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q10306912",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jillian_Bach",
+    "imdb": "nm0045322",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "julie-julia",
+      "title": "Julie & Julia"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8feb3738-8b3a-465f-bb67-714353c2129d",
+      "title": "Julie & Julia",
+      "programSlug": "julie-julia",
+      "programUrl": "/programme/cine-emotion/julie-julia",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 04:30:00+00",
+      "endTime": "2026-04-23 06:30:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 04:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

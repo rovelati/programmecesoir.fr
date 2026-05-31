@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "sam-kelly",
+  "name": "Sam Kelly",
+  "worksCount": 1,
+  "description": "acteur britannique (1943-2014)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1943-12-19",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2419414",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Kelly",
+    "imdb": "nm0446844",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "all-or-nothing",
+      "title": "All or Nothing"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

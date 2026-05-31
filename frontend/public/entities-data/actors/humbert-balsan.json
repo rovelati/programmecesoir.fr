@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "humbert-balsan",
+  "name": "Humbert Balsan",
+  "worksCount": 1,
+  "description": "producteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1954-08-21",
+  "nationality": "France",
+  "jobTitle": "producteur ou productrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q321395",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Humbert_Balsan",
+    "imdb": "nm0051116",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "loulou",
+      "title": "Loulou"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3a0402ea-1ec6-4046-9b83-c8c5c51056f5",
+      "title": "Loulou",
+      "programSlug": "loulou",
+      "programUrl": "/programme/cine-festival/loulou",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-21 09:41:00+00",
+      "endTime": "2026-04-21 11:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7df4cb44-9414-472c-a71a-d8807655c3d5",
+      "title": "Loulou",
+      "programSlug": "loulou",
+      "programUrl": "/programme/cine-festival/loulou",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-24 03:26:00+00",
+      "endTime": "2026-04-24 05:07:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 09:41:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

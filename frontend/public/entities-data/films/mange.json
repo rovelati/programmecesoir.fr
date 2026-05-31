@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "mange",
+  "title": "Mange",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Mange"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Jill est escort girl. Lorsqu'elle rencontre Alex qui la paye pour la regarder manger, c'est son propre désir qui se transforme et vire à l'obsession.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q3560613",
+    "slug": "virgile-bramly",
+    "name": "Virgile Bramly",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

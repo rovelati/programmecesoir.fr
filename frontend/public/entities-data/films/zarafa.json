@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "zarafa",
+  "title": "Zarafa",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Zarafa"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm pour enfants"
+  ],
+  "description": "Au début du XIXe siècle, en Afrique. Un garçonnet, Maki, échappe à une bande patibulaire, dirigée par Moreno, qui voulait le réduire en esclavage. Avant de prendre la fuite, il s'est lié avec la jeune Soula. Alors que Moreno s'est lancé sur ses traces, Maki croise la route d'une girafe et de son bébé, Zarafa. Moreno tue la maman girafe. Un bédouin sauve Maki et le girafon, qu'il emmène avec lui. Maki les suit à distance. Au Caire, le sultan demande à Hassan d'offrir Zarafa au roi de France, Charles X, dont il espère une aide militaire en retour. Avec l'aide de Malaterre, l'heureux propriétaire d'un ballon dirigeable, tout ce petit monde prend la direction de l'Europe...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 78,
+  "cast": [],
+  "director": {
+    "qid": "Q2080043",
+    "slug": "remi-bezancon",
+    "name": "Rémi Bezançon",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

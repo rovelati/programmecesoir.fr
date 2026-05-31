@@ -1,0 +1,135 @@
+{
+  "type": "film",
+  "slug": "hors-du-temps",
+  "title": "Hors du temps",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Hors du temps"
+  ],
+  "genres": [
+    "film ou téléfilm d'amour",
+    "film ou téléfilm de science-fiction",
+    "adaptation d'un roman au cinéma",
+    "drame",
+    "film et téléfilm de fantasy",
+    "mélodrame"
+  ],
+  "description": "Avril 2020. Paul, réalisateur, et son frère Etienne, un journaliste spécialisé en musique, décident de se rendre à la campagne dans la maison où ils ont grandi pour y vivre le temps du confinement imposé par les autorités durant la pandémie. Morgane et Carole, leurs compagnes respectives, les accompagnent sur place. Chaque pièce de la demeure, chaque objet qui s'y trouve, les arbres du jardin, les sentiers parcourant les sous-bois des alentours : tout rappelle aux deux frères les souvenirs de leur enfance. Malheureusement, quelques révélations dérangeantes provoquent bientôt de vives tensions lors de cette cohabitation imposée...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20time%20traveler's%20wife.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q4440",
+      "slug": "eric-bana",
+      "name": "Eric Bana",
+      "role": "actor"
+    },
+    {
+      "qid": "Q190386",
+      "slug": "rachel-mcadams",
+      "name": "Rachel McAdams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q528126",
+      "slug": "ron-livingston",
+      "name": "Ron Livingston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3807015",
+      "slug": "jane-mclean",
+      "name": "Jane McLean",
+      "role": "actor"
+    },
+    {
+      "qid": "Q376131",
+      "slug": "stephen-tobolowsky",
+      "name": "Stephen Tobolowsky",
+      "role": "actor"
+    },
+    {
+      "qid": "Q675776",
+      "slug": "arliss-howard",
+      "name": "Arliss Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1188962",
+      "slug": "brooklynn-proulx",
+      "name": "Brooklynn Proulx",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1139898",
+      "slug": "alex-ferris",
+      "name": "Alex Ferris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2621356",
+      "slug": "maggie-castle",
+      "name": "Maggie Castle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q522765",
+      "slug": "michelle-nolden",
+      "name": "Michelle Nolden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7183387",
+      "slug": "philip-craig",
+      "name": "Philip Craig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1569246",
+      "slug": "hailey-mccann",
+      "name": "Hailey McCann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4392574",
+      "slug": "fiona-reid",
+      "name": "Fiona Reid",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q66867",
+    "slug": "robert-schwentke",
+    "name": "Robert Schwentke",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

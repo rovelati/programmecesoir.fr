@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "claude-michel-rome",
+  "name": "Claude-Michel Rome",
+  "worksCount": 2,
+  "description": "réalisateur, scénariste et écrivain français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-01-01",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2976812",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Claude-Michel_Rome",
+    "imdb": "nm0739168",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-mort-de-la-plage",
+      "title": "Le mort de la plage"
+    },
+    {
+      "type": "film",
+      "slug": "crime-en-lozere",
+      "title": "Crime en Lozère"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6ade7e5f-7239-4ed7-8656-05761cd99f1e",
+      "title": "Crime en Lozère",
+      "programSlug": "crime-en-lozere",
+      "programUrl": "/programme/teva/crime-en-lozere",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-19 17:05:00+00",
+      "endTime": "2026-04-19 19:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 17:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

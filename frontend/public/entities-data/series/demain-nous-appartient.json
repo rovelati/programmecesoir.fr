@@ -1,0 +1,326 @@
+{
+  "type": "series",
+  "slug": "demain-nous-appartient",
+  "title": "Demain nous appartient",
+  "airingsCount": 87,
+  "sourceTitles": [
+    "Demain nous appartient",
+    "Demain nous appartient - Saison 6",
+    "Demain nous appartient - Saison 9"
+  ],
+  "genres": [
+    "soap opera"
+  ],
+  "description": "Un violent séisme frappe la ville de Sète, provoquant le chaos et mobilisant les secours. Tandis que l'urgence est gérée, les personnalités s'exacerbent. Dans ce contexte, Aurore cherche une preuve décisive pour condamner Brice. Vexée, Marianne fait un choix radical, et Gabriel est submergé par l'avenir...\n\nRéalisateur(s) : Martin Day, Nicolas Herdt, Alexis Charrier, David Lanzmann, Yann Elmosnino, Sophie Vigneu, Dyna Gauzy, Marc Atgé\nActeurs : Ingrid Chauvin (Chloé Delcourt), Alexandre Brasseur (Alex Bertrand), Jennifer Lauret (Raphaëlle Perraud), Solène Hébert (Victoire Lazzari), Franck Monsigny (Martin Constant), Xavier Deluc (Sébastien Perraud), Samy Gharbi (Karim Saeed), Emmanuel Moire (François Lehaut), Charlotte Gaccio (Audrey Roussel)",
+  "descriptionAi": "Cette série dramatique, un soap opera français lancé en 2017, plonge le téléspectateur dans les vies entrelacées des habitants de Sète. L'ambiance, à la fois intense et quotidienne, alterne entre tensions familiales, intrigues amoureuses et secrets bien gardés. Son intérêt réside dans le mélange captivant de destins individuels et de rebondissements collectifs, comme lors du séisme qui bouleverse la ville et exacerbe les conflits. On suit avec passion les choix radicaux, les quêtes de vérité et les doutes qui animent des personnages profondément humains. Une saga où les émotions et les drames font écho à nos propres vies, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "channelNumber": 1,
+      "logoUrl": "/loghi/tf1.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tipik.png",
+      "airingsCount": 15
+    },
+    {
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-une.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-series.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-1.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4c770bcb-5919-4638-b2e3-c883134fac74",
+      "title": "Demain nous appartient - Saison 6",
+      "programSlug": "demain-nous-appartient-saison-6",
+      "programUrl": "/programme/antenne-reunion/demain-nous-appartient-saison-6",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 06:45:00+00",
+      "endTime": "2026-04-20 07:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "44f25b54-abba-4b74-a1d7-f60eecbdcfb1",
+      "title": "Demain nous appartient S9 (n°2186)",
+      "programSlug": "demain-nous-appartient-s9-n-2186",
+      "programUrl": "/programme/la-une/demain-nous-appartient-s9-n-2186",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-20 10:06:00+00",
+      "endTime": "2026-04-20 10:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "325ce1f3-6cd3-42f6-90c9-356b6e372953",
+      "title": "Demain nous appartient - Saison 9",
+      "programSlug": "demain-nous-appartient-saison-9",
+      "programUrl": "/programme/rts-un/demain-nous-appartient-saison-9",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-20 10:10:00+00",
+      "endTime": "2026-04-20 10:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4644b5f7-7afa-4b01-8900-631406551fca",
+      "title": "Demain nous appartient S9 (n°2187)",
+      "programSlug": "demain-nous-appartient-s9-n-2187",
+      "programUrl": "/programme/la-une/demain-nous-appartient-s9-n-2187",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-20 15:49:00+00",
+      "endTime": "2026-04-20 16:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0e6019f6-cf7e-4d20-a837-3a412d4662b3",
+      "title": "Demain nous appartient - Saison 9",
+      "programSlug": "demain-nous-appartient-saison-9",
+      "programUrl": "/programme/tf1/demain-nous-appartient-saison-9",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-20 17:10:00+00",
+      "endTime": "2026-04-20 17:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "dff434b5-79b0-45e6-9cef-f7a992d2d658",
+      "title": "Demain nous appartient",
+      "programSlug": "demain-nous-appartient",
+      "programUrl": "/programme/canal-series/demain-nous-appartient",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-20 17:10:00+00",
+      "endTime": "2026-04-20 17:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3043cc11-0964-4bb3-8039-da6332c7628e",
+      "title": "Demain nous appartient",
+      "programSlug": "demain-nous-appartient",
+      "programUrl": "/programme/tf1-1/demain-nous-appartient",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-20 18:10:00+00",
+      "endTime": "2026-04-20 18:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7ec1fb65-f39a-496f-8d0d-a83adaa0ef3c",
+      "title": "Demain nous appartient",
+      "programSlug": "demain-nous-appartient",
+      "programUrl": "/programme/la-une/demain-nous-appartient",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-21 10:05:00+00",
+      "endTime": "2026-04-21 10:39:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "277f86c5-a5ad-4614-a3d8-022ff2267b37",
+      "title": "Demain nous appartient - Saison 9",
+      "programSlug": "demain-nous-appartient-saison-9",
+      "programUrl": "/programme/rts-un/demain-nous-appartient-saison-9",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-21 10:10:00+00",
+      "endTime": "2026-04-21 10:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ef188642-1493-4f19-af95-9ad72d449f78",
+      "title": "Demain nous appartient",
+      "programSlug": "demain-nous-appartient",
+      "programUrl": "/programme/la-une/demain-nous-appartient",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-21 15:51:00+00",
+      "endTime": "2026-04-21 16:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "544d18e8-7833-4c08-9ef3-22a73b6c3e1f",
+      "title": "Demain nous appartient - Saison 9",
+      "programSlug": "demain-nous-appartient-saison-9",
+      "programUrl": "/programme/tf1/demain-nous-appartient-saison-9",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-21 17:10:00+00",
+      "endTime": "2026-04-21 17:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "432f97ba-86c3-4939-a5dd-da5b9ff3f68a",
+      "title": "Demain nous appartient",
+      "programSlug": "demain-nous-appartient",
+      "programUrl": "/programme/canal-series/demain-nous-appartient",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-21 17:10:00+00",
+      "endTime": "2026-04-21 17:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d0bf2140-a66f-49be-baa2-93fe9067584e",
+      "title": "Demain nous appartient",
+      "programSlug": "demain-nous-appartient",
+      "programUrl": "/programme/tf1-1/demain-nous-appartient",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-21 18:10:00+00",
+      "endTime": "2026-04-21 18:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8b5d0a6f-6dd9-4e17-ab79-1fd5c3730d28",
+      "title": "Demain nous appartient",
+      "programSlug": "demain-nous-appartient",
+      "programUrl": "/programme/la-une/demain-nous-appartient",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-22 09:59:00+00",
+      "endTime": "2026-04-22 10:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ee30cfd8-8e30-4f6c-8c7c-bd5da4dffb6f",
+      "title": "Demain nous appartient - Saison 9",
+      "programSlug": "demain-nous-appartient-saison-9",
+      "programUrl": "/programme/rts-un/demain-nous-appartient-saison-9",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-22 10:10:00+00",
+      "endTime": "2026-04-22 10:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ebcc8519-8c12-4514-b0d9-8563b1dca3d6",
+      "title": "Demain nous appartient",
+      "programSlug": "demain-nous-appartient",
+      "programUrl": "/programme/tipik/demain-nous-appartient",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-22 15:48:00+00",
+      "endTime": "2026-04-22 16:24:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "33f3ad30-0565-4d58-8ee3-5fbf441c22e9",
+      "title": "Demain nous appartient - Saison 9",
+      "programSlug": "demain-nous-appartient-saison-9",
+      "programUrl": "/programme/tf1/demain-nous-appartient-saison-9",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 17:10:00+00",
+      "endTime": "2026-04-22 17:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ab3ecf26-cc3f-4526-9e39-284b821dea75",
+      "title": "Demain nous appartient",
+      "programSlug": "demain-nous-appartient",
+      "programUrl": "/programme/canal-series/demain-nous-appartient",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 17:10:00+00",
+      "endTime": "2026-04-22 17:55:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T22:07:55.189Z",
+  "startYear": 2017,
+  "numberOfSeasons": 7,
+  "cast": [
+    {
+      "qid": "Q445948",
+      "slug": "ingrid-chauvin",
+      "name": "Ingrid Chauvin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109540424",
+      "slug": "artemisia-toussaint",
+      "name": "Artemisia Toussaint",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 06:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

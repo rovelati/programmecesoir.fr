@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "donald-glover",
+  "name": "Donald Glover",
+  "worksCount": 2,
+  "description": "comique, acteur et rappeur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Donald%20Glover%20TIFF%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1983-09-25",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1239933",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Donald_Glover",
+    "imdb": "nm2255973",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "magic-mike-xxl",
+      "title": "Magic Mike XXL"
+    },
+    {
+      "type": "film",
+      "slug": "spider-man-homecoming",
+      "title": "Spider-Man: Homecoming"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

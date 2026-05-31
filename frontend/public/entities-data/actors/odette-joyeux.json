@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "odette-joyeux",
+  "name": "Odette Joyeux",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joyeux%20Harcourt%201948.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1914-12-05",
+  "nationality": "France",
+  "jobTitle": "scénariste",
+  "externalIds": {
+    "wikidata": "Q536635",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Odette_Joyeux",
+    "imdb": "nm0431641",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-ronde",
+      "title": "La ronde"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

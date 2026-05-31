@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "viveca-lindfors",
+  "name": "Viveca Lindfors",
+  "worksCount": 3,
+  "description": "actrice suédo-américaine (1920–1995)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Viveca%20Lindfors%201957.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1920-12-29",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q267217",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Viveca_Lindfors",
+    "imdb": "nm0511798",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "stargate-la-porte-des-etoiles",
+      "title": "Stargate, la Porte des étoiles"
+    },
+    {
+      "type": "film",
+      "slug": "les-contrebandiers-de-moonfleet",
+      "title": "Les contrebandiers de Moonfleet"
+    },
+    {
+      "type": "film",
+      "slug": "nos-plus-belles-annees",
+      "title": "Nos plus belles années"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8c0907a1-66cd-4c9d-8937-ac1b3079401f",
+      "title": "Nos plus belles années",
+      "programSlug": "nos-plus-belles-annees",
+      "programUrl": "/programme/rts-deux/nos-plus-belles-annees",
+      "channelId": "rts-deux",
+      "channelName": "RTS Deux",
+      "channelSlug": "rts-deux",
+      "startTime": "2026-04-21 22:35:00+00",
+      "endTime": "2026-04-22 00:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "dd2a8b3e-41ba-4d80-9d21-6d69a77679bb",
+      "title": "Les contrebandiers de Moonfleet",
+      "programSlug": "les-contrebandiers-de-moonfleet",
+      "programUrl": "/programme/cine-classic/les-contrebandiers-de-moonfleet",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-22 10:06:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 22:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

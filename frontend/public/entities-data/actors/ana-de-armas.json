@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "ana-de-armas",
+  "name": "Ana de Armas",
+  "worksCount": 2,
+  "description": "actrice cubano-espagnole",
+  "descriptionAi": "Ana de Armas incarne une actrice polyvalente, passant avec aisance du drame au thriller. Son jeu naturel et sa présence à l'écran captivent immédiatement. Elle apporte une profondeur émotionnelle palpable à ses rôles, qu'il s'agisse de personnages fragiles ou déterminés. Cette capacité à incarner des femmes complexes, souvent dans des ambiances cinématographiques intenses, rend chacun de ses films singulier. Pour découvrir ses performances qui mêlent sensibilité et force, et pour explorer sa filmographie en constante évolution, une sélection de ses œuvres est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ana%20de%20Armas%20(54462619561)%20(cropped%203).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1988-04-30",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q698173",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ana_de_Armas",
+    "imdb": "nm1869101",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "a-couteaux-tires",
+      "title": "A couteaux tirés"
+    },
+    {
+      "type": "film",
+      "slug": "war-dogs",
+      "title": "War Dogs"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a5de045b-86a2-4a3e-a069-4578af9978b6",
+      "title": "A couteaux tirés",
+      "programSlug": "a-couteaux-tires",
+      "programUrl": "/programme/ocs/a-couteaux-tires",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-19 16:42:00+00",
+      "endTime": "2026-04-19 18:50:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:09.977Z",
+  "nextAiringAt": "2026-04-19 16:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

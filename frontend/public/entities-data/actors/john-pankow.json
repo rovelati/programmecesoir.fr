@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "john-pankow",
+  "name": "John Pankow",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1954-04-28",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q961431",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Pankow",
+    "imdb": "nm0659601",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "predateurs",
+      "title": "Prédateurs"
+    },
+    {
+      "type": "film",
+      "slug": "rambo-ii-la-mission",
+      "title": "Rambo II : la mission"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

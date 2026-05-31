@@ -1,0 +1,333 @@
+{
+  "type": "film",
+  "slug": "droles-d-oiseaux",
+  "title": "Drôles d'oiseaux",
+  "airingsCount": 24,
+  "sourceTitles": [
+    "Drôles d'oiseaux"
+  ],
+  "genres": [
+    "comédie",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Ellie, dix ans et demi, est passionnée d'ornithologie. Un jour, elle doit absolument rapporter un livre au CDI, malheureusement fermé. Ellie décide alors de le ramener directement chez Anna, la documentaliste, qui vit sur une île sur la Loire à quelques kilomètres du collège, une île pleine d'oiseaux...",
+  "descriptionAi": "Cette comédie légère, adaptation d'un roman au cinéma, nous plonge dans l'univers poétique et drôle d'Ellie, une collégienne passionnée d'ornithologie. L'ambiance est celle d'une douce aventure estivale, teintée de découvertes et d'amitié insolite. Le film séduit par son regard tendre et espiègle sur l'adolescence, où une simple course pour rendre un livre devient un voyage initiatique au cœur de la nature. Porté par l'innocence de son héroïne, ce récit offre une parenthèse charmante et pleine de fraîcheur, une escapade dépaysante à savourer sans modération, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q1304692",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dr%C3%B4les_d'oiseaux_(film%2C_2011)",
+    "imdb": "tt1053810",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:26:34.472Z",
+  "year": 2011,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q16473",
+      "slug": "steve-martin",
+      "name": "Steve Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q483907",
+      "slug": "jack-black",
+      "name": "Jack Black",
+      "role": "actor"
+    },
+    {
+      "qid": "Q161916",
+      "slug": "owen-wilson",
+      "name": "Owen Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230004",
+      "slug": "rosamund-pike",
+      "name": "Rosamund Pike",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237809",
+      "slug": "jobeth-williams",
+      "name": "JoBeth Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q540608",
+      "slug": "rashida-jones",
+      "name": "Rashida Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q190998",
+      "slug": "anjelica-huston",
+      "name": "Anjelica Huston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q190972",
+      "slug": "jim-parsons",
+      "name": "Jim Parsons",
+      "role": "actor"
+    },
+    {
+      "qid": "Q351812",
+      "slug": "kevin-pollak",
+      "name": "Kevin Pollak",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313545",
+      "slug": "brian-dennehy",
+      "name": "Brian Dennehy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q217573",
+      "slug": "dianne-wiest",
+      "name": "Dianne Wiest",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313918",
+      "slug": "anthony-anderson",
+      "name": "Anthony Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q515095",
+      "slug": "tim-blake-nelson",
+      "name": "Tim Blake Nelson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311993",
+      "slug": "joel-mchale",
+      "name": "Joel McHale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q809099",
+      "slug": "barry-shabaka-henley",
+      "name": "Barry Shabaka Henley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q25014",
+      "slug": "john-cleese",
+      "name": "John Cleese",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q934964",
+    "slug": "david-frankel",
+    "name": "David Frankel",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

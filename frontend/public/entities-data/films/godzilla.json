@@ -1,0 +1,123 @@
+{
+  "type": "film",
+  "slug": "godzilla",
+  "title": "Godzilla",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Godzilla"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "kaijū"
+  ],
+  "description": "Les essais nucléaires de la France dans le Pacifique sont observés d'un oeil placide par des varans. Peu après, un navire est mystérieusement entraîné par le fond et une série de catastrophes inexpliquées intrigue les autorités américaines. Le docteur Nick Tatopoulos est enlevé à ses chères études en pleine analyse passionnée de la mutation des vers dans la boue de Tchernobyl. Devant une empreinte de lézard gigantesque, il se demande si les radiations françaises n'auraient pas transformé un saurien en animal préhistorique. L'irruption d'un monstre dans les rues de New York semble lui donner raison. Tatopoulos est rapatrié de toute urgence. Un Français, Philippe Roche, le suit comme son ombre...",
+  "descriptionAi": "Ce film de science-fiction et d'horreur, pionnier du kaijū, plonge le spectateur dans une ambiance angoissante de catastrophe nucléaire. L'intérêt réside dans sa puissance allégorique, utilisant la figure monstrueuse de Godzilla pour interroger les conséquences des essais atomiques. Bien plus qu'un simple film de monstres, c'est une œuvre fondatrice au suspense palpable et aux effets spéciaux marquants pour son époque. Une plongée dans les peurs de l'âge atomique, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Godzilla%20(1954).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q860461",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Godzilla_(film%2C_1954)",
+    "imdb": "tt0047034",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:42.331Z",
+  "year": 1954,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q40070",
+      "slug": "takashi-shimura",
+      "name": "Takashi Shimura",
+      "role": "actor"
+    },
+    {
+      "qid": "Q418046",
+      "slug": "akihiko-hirata",
+      "name": "Akihiko Hirata",
+      "role": "actor"
+    },
+    {
+      "qid": "Q636593",
+      "slug": "akira-takarada",
+      "name": "Akira Takarada",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3074303",
+      "slug": "momoko-kochi",
+      "name": "Momoko Kōchi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1315977",
+      "slug": "haruo-nakajima",
+      "name": "Haruo Nakajima",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3198422",
+      "slug": "kokuten-kodo",
+      "name": "Kokuten Kōdō",
+      "role": "actor"
+    },
+    {
+      "qid": "Q977656",
+      "slug": "kenji-sahara",
+      "name": "Kenji Sahara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6132837",
+      "slug": "katsumi-tezuka",
+      "name": "Katsumi Tezuka",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3548276",
+      "slug": "kin-sugai",
+      "name": "Kin Sugai",
+      "role": "actor"
+    },
+    {
+      "qid": "Q150840",
+      "slug": "ishiro-honda",
+      "name": "Ishirō Honda",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q150840",
+    "slug": "ishiro-honda",
+    "name": "Ishirō Honda",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

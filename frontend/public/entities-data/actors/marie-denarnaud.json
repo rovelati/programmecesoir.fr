@@ -1,0 +1,190 @@
+{
+  "type": "actor",
+  "slug": "marie-denarnaud",
+  "name": "Marie Denarnaud",
+  "worksCount": 3,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Denardaud%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-08-30",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1647279",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marie_Denarnaud",
+    "imdb": "nm0218884",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-secret-de-kheops",
+      "title": "Le Secret de Khéops"
+    },
+    {
+      "type": "film",
+      "slug": "les-liens-du-sang",
+      "title": "Les liens du sang"
+    },
+    {
+      "type": "series",
+      "slug": "hpi",
+      "title": "HPI"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fc9e3cbb-00b5-4ca6-97a1-91175aa22f4c",
+      "title": "Le Secret de Khéops",
+      "programSlug": "le-secret-de-kheops",
+      "programUrl": "/programme/canal/le-secret-de-kheops",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-20 11:22:00+00",
+      "endTime": "2026-04-20 12:58:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c08469d2-c164-413f-89ce-43affe30bb6a",
+      "title": "HPI - Saison 4",
+      "programSlug": "hpi-saison-4",
+      "programUrl": "/programme/tv-breizh/hpi-saison-4",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 20:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "af3872d1-f884-4cfe-b2bc-a396d787bd65",
+      "title": "HPI - Saison 4",
+      "programSlug": "hpi-saison-4",
+      "programUrl": "/programme/tv-breizh/hpi-saison-4",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-21 20:05:00+00",
+      "endTime": "2026-04-21 21:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "cd9bf9ea-e843-4016-8698-8ffa686634c0",
+      "title": "HPI - Saison 4",
+      "programSlug": "hpi-saison-4",
+      "programUrl": "/programme/tv-breizh/hpi-saison-4",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-21 21:15:00+00",
+      "endTime": "2026-04-21 22:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "13360bb6-c252-42bb-855f-403f2262da85",
+      "title": "HPI - Saison 4",
+      "programSlug": "hpi-saison-4",
+      "programUrl": "/programme/tv-breizh/hpi-saison-4",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-21 22:25:00+00",
+      "endTime": "2026-04-21 23:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "20cc6ce7-9965-4ff6-8d73-6fcdb3ed0367",
+      "title": "Le Secret de Khéops",
+      "programSlug": "le-secret-de-kheops",
+      "programUrl": "/programme/canal/le-secret-de-kheops",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-23 06:09:00+00",
+      "endTime": "2026-04-23 07:44:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "e3eb8566-9c77-459d-98fd-7d093fbcd286",
+      "title": "HPI - Saison 2",
+      "programSlug": "hpi-saison-2",
+      "programUrl": "/programme/tv-breizh/hpi-saison-2",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 10:55:00+00",
+      "endTime": "2026-04-25 12:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "bf62a3f2-7675-4854-a220-ce24707e3a52",
+      "title": "HPI - Saison 3",
+      "programSlug": "hpi-saison-3",
+      "programUrl": "/programme/tv-breizh/hpi-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 12:05:00+00",
+      "endTime": "2026-04-25 13:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "a14e91d3-5ccb-4b63-b006-c0e35bac9740",
+      "title": "HPI - Saison 3",
+      "programSlug": "hpi-saison-3",
+      "programUrl": "/programme/tv-breizh/hpi-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 13:05:00+00",
+      "endTime": "2026-04-25 14:10:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "0383fab5-ab3d-4a71-9e33-d7d5cbda4205",
+      "title": "HPI - Saison 3",
+      "programSlug": "hpi-saison-3",
+      "programUrl": "/programme/tv-breizh/hpi-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 14:10:00+00",
+      "endTime": "2026-04-25 15:25:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "5c735ca5-7c93-4969-b1b2-ec5e71d5ba64",
+      "title": "HPI - Saison 3",
+      "programSlug": "hpi-saison-3",
+      "programUrl": "/programme/tv-breizh/hpi-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 15:25:00+00",
+      "endTime": "2026-04-25 16:30:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "5d1d23b2-6428-4891-8848-0f3f3c386522",
+      "title": "HPI - Saison 4",
+      "programSlug": "hpi-saison-4",
+      "programUrl": "/programme/tv-breizh/hpi-saison-4",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-25 16:30:00+00",
+      "endTime": "2026-04-25 17:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 11:22:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

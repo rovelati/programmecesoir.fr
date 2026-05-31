@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "forces-speciales",
+  "title": "Forces spéciales",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Forces spéciales"
+  ],
+  "genres": [
+    "film et téléfilm de guerre",
+    "drame"
+  ],
+  "description": "Elsa Casanova, une journaliste opposée à la présence des troupes françaises en Afghanistan, et son interprète, Amin, parcourent le pays à leurs risques et périls. Les dangers se concrétisent lorsqu'ils sont retenus prisonniers par un groupe de talibans. L'affaire étant sensible, le gouvernement dépêche un commando des forces spéciales dont la première partie de la mission est un succès. Au coeur d'un paysage aussi aride que splendide, les six baroudeurs parviennent à libérer la journaliste et son interprète. Il leur faut désormais parvenir à rentrer vivants chez eux. Or, ce volet de la mission ne va pas s'avérer des plus faciles, les talibans se jetant à la poursuite du petit groupe...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2011,
+  "durationMinutes": 109,
+  "cast": [
+    {
+      "qid": "Q57118",
+      "slug": "diane-kruger",
+      "name": "Diane Kruger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298682",
+      "slug": "djimon-hounsou",
+      "name": "Djimon Hounsou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q539703",
+      "slug": "benoit-magimel",
+      "name": "Benoît Magimel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q562852",
+      "slug": "raphael-personnaz",
+      "name": "Raphaël Personnaz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1367863",
+      "slug": "raz-degan",
+      "name": "Raz Degan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317704",
+      "slug": "tcheky-karyo",
+      "name": "Tchéky Karyo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q304707",
+      "slug": "mehdi-nebbou",
+      "name": "Mehdi Nebbou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q967764",
+      "slug": "denis-menochet",
+      "name": "Denis Ménochet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2396606",
+      "slug": "alain-figlarz",
+      "name": "Alain Figlarz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q519672",
+      "slug": "anne-caillon",
+      "name": "Anne Caillon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q444193",
+      "slug": "morjana-alaoui",
+      "name": "Morjana Alaoui",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17176312",
+      "slug": "laurent-claret",
+      "name": "Laurent Claret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3175995",
+      "slug": "jeanne-bournaud",
+      "name": "Jeanne Bournaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3591361",
+      "slug": "eric-soubelet",
+      "name": "Éric Soubelet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16910969",
+      "slug": "denis-braccini",
+      "name": "Denis Braccini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3155054",
+      "slug": "isabelle-vitari",
+      "name": "Isabelle Vitari",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3502069",
+    "slug": "stephane-rybojad",
+    "name": "Stéphane Rybojad",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

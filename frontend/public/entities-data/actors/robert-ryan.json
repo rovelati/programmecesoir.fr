@@ -1,0 +1,82 @@
+{
+  "type": "actor",
+  "slug": "robert-ryan",
+  "name": "Robert Ryan",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Ryan%20in%20Naked%20Spur.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1909-11-11",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q350680",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Robert_Ryan_(acteur)",
+    "imdb": "nm0752813",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-diables-de-guadalcanal",
+      "title": "Les diables de Guadalcanal"
+    },
+    {
+      "type": "film",
+      "slug": "nous-avons-gagne-ce-soir",
+      "title": "Nous avons gagné ce soir"
+    },
+    {
+      "type": "series",
+      "slug": "professionals",
+      "title": "Professionals"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6ed400d0-7a70-4a71-86cf-7148fb2b82ce",
+      "title": "Les diables de Guadalcanal",
+      "programSlug": "les-diables-de-guadalcanal",
+      "programUrl": "/programme/tcm-cinema/les-diables-de-guadalcanal",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-20 21:10:00+00",
+      "endTime": "2026-04-20 22:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f9155799-2432-4eb5-a1bb-225147cd5c02",
+      "title": "Nous avons gagné ce soir",
+      "programSlug": "nous-avons-gagne-ce-soir",
+      "programUrl": "/programme/tcm-cinema/nous-avons-gagne-ce-soir",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 02:55:00+00",
+      "endTime": "2026-04-23 04:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "7c44d2d3-1948-40d6-af30-920af14904a1",
+      "title": "Les diables de Guadalcanal",
+      "programSlug": "les-diables-de-guadalcanal",
+      "programUrl": "/programme/tcm-cinema/les-diables-de-guadalcanal",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-24 07:25:00+00",
+      "endTime": "2026-04-24 09:05:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 21:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

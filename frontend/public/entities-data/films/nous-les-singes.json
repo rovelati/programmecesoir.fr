@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "nous-les-singes",
+  "title": "Nous les singes",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Nous les singes"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Dimitri et Pierrot partent faire de l'accrobranche. Ils aimeraient devenir de véritables aventuriers pour gagner le coeur des femmes. Mais leur baudrier trop serré à l'entrejambe leur impose un inconfort qui va les conduire à remettre tout leur mode de vie en question...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nouvelle-aquitaine.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "621044d1-d029-4dae-a962-8385cadfd7f1",
+      "title": "Nous les singes",
+      "programSlug": "nous-les-singes",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/nous-les-singes",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-23 15:11:00+00",
+      "endTime": "2026-04-23 15:30:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-23 15:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

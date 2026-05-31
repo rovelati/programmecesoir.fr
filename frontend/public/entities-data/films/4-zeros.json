@@ -1,0 +1,156 @@
+{
+  "type": "film",
+  "slug": "4-zeros",
+  "title": "4 zéros",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "4 zéros"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm de sport"
+  ],
+  "description": "Sylvie Colonna, présidente du club de football des Haricots d'Arpajon, a refait sa vie avec José Pinto. Ensemble, ils tiennent un restaurant portugais en Seine-et-Marne, mais leur affaire peine à se maintenir. Leur fils Manu, trentenaire un peu perdu, rêve de devenir agent de joueur. Un jour, il tombe sur une pépite : Kidane, un jeune prodige impressionnant sur les terrains. Mais d'autres agents rôdent déjà autour du joueur. Les Pinto, qui voient en Kidane l'espoir de sortir de la galère, décident d'appeler à la rescousse Alain, le frère de Sylvie, ancien agent qui vit une retraite tranquille à Tahiti. Tous ensemble, ils vont devoir affronter DZ, un concurrent très influent…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "72082a29-a9f5-448a-8813-4250cb04ef42",
+      "title": "4 zéros",
+      "programSlug": "4-zeros",
+      "programUrl": "/programme/ocs/4-zeros",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 08:01:00+00",
+      "endTime": "2026-04-22 09:41:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 102,
+  "cast": [
+    {
+      "qid": "Q1558999",
+      "slug": "gerard-lanvin",
+      "name": "Gérard Lanvin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3141565",
+      "slug": "isabelle-nanty",
+      "name": "Isabelle Nanty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1210511",
+      "slug": "didier-bourdon",
+      "name": "Didier Bourdon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15635447",
+      "slug": "kaaris",
+      "name": "Kaaris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242432",
+      "slug": "shy-m",
+      "name": "Shy'm",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3499698",
+      "slug": "stomy-bugsy",
+      "name": "Stomy Bugsy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105873049",
+      "slug": "mohamed-henni",
+      "name": "Mohamed Henni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q130122616",
+      "slug": "arriles-amrani",
+      "name": "Arriles Amrani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2604465",
+      "slug": "rolland-courbis",
+      "name": "Rolland Courbis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q48892",
+      "slug": "didier-drogba",
+      "name": "Didier Drogba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42601",
+      "slug": "david-ginola",
+      "name": "David Ginola",
+      "role": "actor"
+    },
+    {
+      "qid": "Q435771",
+      "slug": "guy-roux",
+      "name": "Guy Roux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18325379",
+      "slug": "presnel-kimpembe",
+      "name": "Presnel Kimpembe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q588155",
+      "slug": "fabrice-abriel",
+      "name": "Fabrice Abriel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q97273363",
+      "slug": "djimo",
+      "name": "Djimo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3063643",
+    "slug": "fabien-onteniente",
+    "name": "Fabien Onteniente",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 08:01:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

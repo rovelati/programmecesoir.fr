@@ -1,0 +1,172 @@
+{
+  "type": "series",
+  "slug": "bunnicula",
+  "title": "Bunnicula",
+  "airingsCount": 52,
+  "sourceTitles": [
+    "Bunnicula"
+  ],
+  "genres": [
+    "Série",
+    "Série d'animation"
+  ],
+  "description": "Le papa de Mina prend l'avion, il est terrorisé. Heureusement, il a emmené Bunnicula, qui fait office de chien thérapeutique et le rassure tellement qu'il dort pendant tout le trajet. Mais il se passe des choses étranges dans cet avion, dont le commandant de bord et l'hôtesse de l'air qui ne sont pas tout à fait ce qu'ils semblent être. Heureusement, Bunnicula est là pour neutraliser ces deux vauriens...",
+  "descriptionAi": "Cette série d'animation, mêlant aventure et humour, plonge le téléspectateur dans une ambiance à la fois tendre et mystérieuse. Le charme de \"Bunnicula\" réside dans le décalage entre un lapin apparemment ordinaire, servant d'animal de soutien émotionnel, et sa mission secrète pour contrer des menaces surnaturelles. Le mélange de situations familiales, comme la peur de l'avion, avec des éléments fantastiques et des méchants déguisés, crée un récit unique et captivant. C'est un savant dosage de complicité et d'action qui séduira un public familial. Ne manquez pas cette aventure insolite à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang-1.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cartoon-network.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "efea810f-2983-47f7-9c90-a4a2ef3a8508",
+      "title": "Bunnicula",
+      "programSlug": "bunnicula",
+      "programUrl": "/programme/cartoon-network/bunnicula",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 07:25:00+00",
+      "endTime": "2026-04-19 07:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "421e88d3-1b0c-49bd-811c-f2aa03550735",
+      "title": "Bunnicula",
+      "programSlug": "bunnicula",
+      "programUrl": "/programme/cartoon-network/bunnicula",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 07:35:00+00",
+      "endTime": "2026-04-19 07:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "008b2bd4-9a68-4d2a-a568-f2b919ca85a3",
+      "title": "Bunnicula - S01E16",
+      "programSlug": "bunnicula-s01e16",
+      "programUrl": "/programme/boomerang-1/bunnicula-s01e16",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-20 03:40:00+00",
+      "endTime": "2026-04-20 03:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "beba2fb4-c512-46ce-b205-1f117ff95159",
+      "title": "Bunnicula - S01E17",
+      "programSlug": "bunnicula-s01e17",
+      "programUrl": "/programme/boomerang-1/bunnicula-s01e17",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-21 03:40:00+00",
+      "endTime": "2026-04-21 03:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2c765d53-0059-4075-a6fc-d64ff5962bfd",
+      "title": "Bunnicula - S01E18",
+      "programSlug": "bunnicula-s01e18",
+      "programUrl": "/programme/boomerang-1/bunnicula-s01e18",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-22 03:40:00+00",
+      "endTime": "2026-04-22 03:50:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9c1d16fa-8390-4dfd-afdf-96be61d702bd",
+      "title": "Bunnicula - S01E19",
+      "programSlug": "bunnicula-s01e19",
+      "programUrl": "/programme/boomerang-1/bunnicula-s01e19",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-23 03:40:00+00",
+      "endTime": "2026-04-23 03:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "e40e5899-3efe-48e0-b7f6-8313b7d59b70",
+      "title": "Bunnicula - S01E20",
+      "programSlug": "bunnicula-s01e20",
+      "programUrl": "/programme/boomerang-1/bunnicula-s01e20",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-24 03:40:00+00",
+      "endTime": "2026-04-24 03:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "ed4a860a-75e6-4788-a8f9-944e34c821ab",
+      "title": "Bunnicula - S01E21",
+      "programSlug": "bunnicula-s01e21",
+      "programUrl": "/programme/boomerang-1/bunnicula-s01e21",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-25 03:40:00+00",
+      "endTime": "2026-04-25 03:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f5166ae4-4f04-4dbe-b2e7-a90bed321ab7",
+      "title": "Bunnicula - S01E22",
+      "programSlug": "bunnicula-s01e22",
+      "programUrl": "/programme/boomerang-1/bunnicula-s01e22",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-26 03:40:00+00",
+      "endTime": "2026-04-26 03:50:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:41:55.092Z",
+  "startYear": 2016,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 07:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

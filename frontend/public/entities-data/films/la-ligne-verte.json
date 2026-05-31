@@ -1,0 +1,177 @@
+{
+  "type": "film",
+  "slug": "la-ligne-verte",
+  "title": "La ligne verte",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La ligne verte"
+  ],
+  "genres": [
+    "drame",
+    "film à flash-back",
+    "film et téléfilm de fantasy",
+    "prison au cinéma",
+    "magic realist film"
+  ],
+  "description": "En Louisiane en 1935, Paul Edgecomb est le surveillant-chef du quartier des condamnés à mort du pénitencier de Cold Mountain. Un jour, on lui confie John Coffey, un géant noir, condamné pour le viol et le meurtre de deux fillettes. Sous sa stature impressionnante, Coffey cache un coeur d'enfant...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3093fae7-fdfe-4845-a4e5-87b43dfb8279",
+      "title": "La ligne verte",
+      "programSlug": "la-ligne-verte",
+      "programUrl": "/programme/cine-emotion/la-ligne-verte",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-21 06:27:00+00",
+      "endTime": "2026-04-21 09:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "69c21ffa-16ec-4137-9d31-20fcdd73f795",
+      "title": "La ligne verte",
+      "programSlug": "la-ligne-verte",
+      "programUrl": "/programme/cine-emotion/la-ligne-verte",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-24 22:44:00+00",
+      "endTime": "2026-04-25 01:46:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1999,
+  "durationMinutes": 189,
+  "cast": [
+    {
+      "qid": "Q2263",
+      "slug": "tom-hanks",
+      "name": "Tom Hanks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296370",
+      "slug": "david-morse",
+      "name": "David Morse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272952",
+      "slug": "bonnie-hunt",
+      "name": "Bonnie Hunt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q483148",
+      "slug": "michael-clarke-duncan",
+      "name": "Michael Clarke Duncan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q299483",
+      "slug": "james-cromwell",
+      "name": "James Cromwell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q329716",
+      "slug": "michael-jeter",
+      "name": "Michael Jeter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q506778",
+      "slug": "doug-hutchison",
+      "name": "Doug Hutchison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316446",
+      "slug": "sam-rockwell",
+      "name": "Sam Rockwell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311169",
+      "slug": "graham-greene",
+      "name": "Graham Greene",
+      "role": "actor"
+    },
+    {
+      "qid": "Q443343",
+      "slug": "jeffrey-demunn",
+      "name": "Jeffrey DeMunn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229268",
+      "slug": "patricia-clarkson",
+      "name": "Patricia Clarkson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314290",
+      "slug": "harry-dean-stanton",
+      "name": "Harry Dean Stanton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q180272",
+      "slug": "gary-sinise",
+      "name": "Gary Sinise",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315604",
+      "slug": "barry-pepper",
+      "name": "Barry Pepper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q589849",
+      "slug": "scotty-leavenworth",
+      "name": "Scotty Leavenworth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q640001",
+      "slug": "dabbs-greer",
+      "name": "Dabbs Greer",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q295445",
+    "slug": "frank-darabont",
+    "name": "Frank Darabont",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 06:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

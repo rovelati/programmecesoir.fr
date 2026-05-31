@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "barbora-bobulova",
+  "name": "Barbora Bobulova",
+  "worksCount": 1,
+  "description": "actrice",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbora%20Bobulova%202011-02%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1974-04-29",
+  "nationality": "Slovaquie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q435132",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Barbora_Bobulova",
+    "imdb": "nm0090469",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "lettres-siciliennes",
+      "title": "Lettres siciliennes"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "169fe4fa-6590-453e-ad58-8644888166fc",
+      "title": "Lettres siciliennes",
+      "programSlug": "lettres-siciliennes",
+      "programUrl": "/programme/paramount-channel/lettres-siciliennes",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-21 09:05:00+00",
+      "endTime": "2026-04-21 11:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "eab5202c-20c9-42e7-ae3e-5dca4ad9ffac",
+      "title": "Lettres siciliennes",
+      "programSlug": "lettres-siciliennes",
+      "programUrl": "/programme/canal-cinema/lettres-siciliennes",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-21 09:05:00+00",
+      "endTime": "2026-04-21 11:17:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 09:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

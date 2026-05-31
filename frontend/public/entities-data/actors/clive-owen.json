@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "clive-owen",
+  "name": "Clive Owen",
+  "worksCount": 3,
+  "description": "acteur anglais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clive%20Owen%20(Children%20of%20men)%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-10-03",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q183178",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Clive_Owen",
+    "imdb": "nm0654110",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "inside-man-l-homme-de-l-interieur",
+      "title": "Inside Man, l'homme de l'intérieur"
+    },
+    {
+      "type": "film",
+      "slug": "l-enquete",
+      "title": "L'enquête"
+    },
+    {
+      "type": "film",
+      "slug": "la-memoire-dans-la-peau",
+      "title": "La mémoire dans la peau"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

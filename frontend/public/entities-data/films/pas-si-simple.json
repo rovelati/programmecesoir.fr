@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "pas-si-simple",
+  "title": "Pas si simple",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Pas si simple"
+  ],
+  "genres": [
+    "comédie romantique",
+    "comédie de remariage",
+    "comédie dramatique"
+  ],
+  "description": "Cela fait dix ans que Jane Adler a divorcé de Jake. Installée dans une belle maison de Santa Barbara, cette quinquagénaire a fondé une chaîne de salons de thé et voit ses grands enfants prendre leur envol : sa fille aînée, Lauren, est fiancée, Gabby, la cadette, part s'installer à Los Angeles, et son petit dernier, Luke, va être bientôt diplômé à New York. A cette occasion, elle retrouve Jake, venu sans sa nouvelle épouse, la jeune Agness, et finit par passer la nuit avec lui. Jane est prise de remords alors que Jake semble ravi. Rentrée chez elle, Jane entreprend de rénover sa maison et, pour cela, fait appel à Adam, un architecte tout à fait charmant...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alec%20Baldwin%2C%20Meryl%20Streep%2C%20Josh%20Wood%2015th%20Annual%20Screen%20Actors%20Guild%20Awards%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2010,
+  "durationMinutes": 118,
+  "cast": [
+    {
+      "qid": "Q873",
+      "slug": "meryl-streep",
+      "name": "Meryl Streep",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170572",
+      "slug": "alec-baldwin",
+      "name": "Alec Baldwin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16473",
+      "slug": "steve-martin",
+      "name": "Steve Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313039",
+      "slug": "john-krasinski",
+      "name": "John Krasinski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241686",
+      "slug": "lake-bell",
+      "name": "Lake Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238924",
+      "slug": "mary-kay-place",
+      "name": "Mary Kay Place",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234144",
+      "slug": "rita-wilson",
+      "name": "Rita Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1764061",
+      "slug": "alexandra-wentworth",
+      "name": "Alexandra Wentworth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q355059",
+      "slug": "hunter-parrish",
+      "name": "Hunter Parrish",
+      "role": "actor"
+    },
+    {
+      "qid": "Q218210",
+      "slug": "zoe-kazan",
+      "name": "Zoe Kazan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3649957",
+      "slug": "caitlin-fitzgerald",
+      "name": "Caitlin Fitzgerald",
+      "role": "actor"
+    },
+    {
+      "qid": "Q331717",
+      "slug": "james-patrick-stuart",
+      "name": "James Patrick Stuart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1749182",
+      "slug": "robert-curtis-brown",
+      "name": "Robert Curtis Brown",
+      "role": "actor"
+    },
+    {
+      "qid": "Q256607",
+      "slug": "blanchard-ryan",
+      "name": "Blanchard Ryan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q508428",
+      "slug": "nora-dunn",
+      "name": "Nora Dunn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2259590",
+      "slug": "bruce-altman",
+      "name": "Bruce Altman",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q235555",
+    "slug": "nancy-meyers",
+    "name": "Nancy Meyers",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

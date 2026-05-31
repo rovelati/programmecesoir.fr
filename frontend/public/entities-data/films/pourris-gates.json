@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "pourris-gates",
+  "title": "Pourris gâtés",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Pourris gâtés"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "On peut être brillant en affaires, mais échouer en matière d'éducation. Francis Bartek, homme d'affaires fortuné, a gâté à outrance ses trois enfants. Devenus grands, Stella, Philippe et Alexandre ne font rien de leurs journées à part dépenser l'argent de leur père. Self made man, le chef d'entreprise ne supporte plus le comportement de sa progéniture et trouve un stratagème pour les pousser à devenir enfin adultes. Il annonce à ses trois enfants que les caisses sont vides et qu'il va leur falloir, non seulement quitter leur luxueuse villa pour une masure dans l'arrière pays, mais aussi travailler pour assurer leur subsistance à tous...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 95,
+  "cast": [],
+  "director": {
+    "qid": "Q3340224",
+    "slug": "nicolas-cuche",
+    "name": "Nicolas Cuche",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

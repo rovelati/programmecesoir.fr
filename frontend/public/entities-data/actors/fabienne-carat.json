@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "fabienne-carat",
+  "name": "Fabienne Carat",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fabienne%20Carat%202018.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-08-24",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3063683",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fabienne_Carat",
+    "imdb": "nm1783021",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-verite-si-je-mens-2",
+      "title": "La vérité si je mens ! 2"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

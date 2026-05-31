@@ -1,0 +1,171 @@
+{
+  "type": "film",
+  "slug": "la-cache",
+  "title": "La cache",
+  "airingsCount": 9,
+  "sourceTitles": [
+    "La cache",
+    "La Cache"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "comédie"
+  ],
+  "description": "En mai 1968, des manifestations étudiantes et une grève générale secouent la France, mettant en lumière des tensions sociales et politiques profondes. Dans ce contexte tumultueux, Christophe, un garçon de 9 ans, vit replié dans l'appartement familial à Paris, en compagnie de ses oncles, de ses grands-parents et de son arrière-grand-mère. Tous campent autour d'une énigmatique cache dont les mystères se lèvent progressivement, en même temps que se révèlent les secrets familiaux qui sont liés à cette étrange planque...",
+  "descriptionAi": "Cette comédie dramatique de 2025 plonge dans le Paris de mai 1968, vue à hauteur d’enfant. À travers les yeux de Christophe, 9 ans, confiné dans son appartement familial, le film tisse une ambiance à la fois intime et tendue, où l’agitation sociale fait écho aux mystères du foyer. L’intrigue repose sur une énigmatique cache, dont la révélation progressive dévoile les secrets et les failles de chacun. Le récit offre un regard poignant et parfois drôle sur la façon dont les grands bouleversements historiques résonnent dans la micro-société d’une famille. Une histoire sensible sur l’innocence confrontée aux tourments des adultes, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ec52c060-71e8-438c-87a2-9a67970ad047",
+      "title": "La Cache",
+      "programSlug": "la-cache",
+      "programUrl": "/programme/canal-cinema/la-cache",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-19 06:27:00+00",
+      "endTime": "2026-04-19 07:57:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5679c827-1181-4b30-8089-32301fcf109c",
+      "title": "La cache",
+      "programSlug": "la-cache",
+      "programUrl": "/programme/paramount-channel/la-cache",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-19 06:30:00+00",
+      "endTime": "2026-04-19 08:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7a594b90-fc1b-446f-843b-ae1e9c9b75f5",
+      "title": "La cache",
+      "programSlug": "la-cache",
+      "programUrl": "/programme/paramount-channel/la-cache",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-22 11:45:00+00",
+      "endTime": "2026-04-22 13:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "005440dc-c27b-48dd-b351-553006e420b9",
+      "title": "La Cache",
+      "programSlug": "la-cache",
+      "programUrl": "/programme/canal-cinema/la-cache",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 11:46:00+00",
+      "endTime": "2026-04-22 13:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f79c803b-240d-477f-939f-515db74e8a8e",
+      "title": "La Cache",
+      "programSlug": "la-cache",
+      "programUrl": "/programme/canal-box-office/la-cache",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 23:23:00+00",
+      "endTime": "2026-04-25 00:53:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q130417367",
+    "wikipedia": "https://fr.wikipedia.org/wiki/La_Cache_(film)",
+    "imdb": "tt31566788",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:00.273Z",
+  "year": 2025,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q1238309",
+      "slug": "dominique-reymond",
+      "name": "Dominique Reymond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1398256",
+      "slug": "michel-blanc",
+      "name": "Michel Blanc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3568783",
+      "slug": "william-lebghil",
+      "name": "William Lebghil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105712295",
+      "slug": "aurelien-gabrielli",
+      "name": "Aurélien Gabrielli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3240843",
+      "slug": "liliane-rovere",
+      "name": "Liliane Rovère",
+      "role": "actor"
+    },
+    {
+      "qid": "Q61715465",
+      "slug": "larisa-faber",
+      "name": "Larisa Faber",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3106456",
+      "slug": "gilles-privat",
+      "name": "Gilles Privat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q39072982",
+      "slug": "louise-chevillotte",
+      "name": "Louise Chevillotte",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3241813",
+    "slug": "lionel-baier",
+    "name": "Lionel Baier",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 06:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

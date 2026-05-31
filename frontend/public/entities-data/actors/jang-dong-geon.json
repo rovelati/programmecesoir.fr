@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "jang-dong-geon",
+  "name": "Jang Dong-geon",
+  "worksCount": 1,
+  "description": "acteur sud-coréen",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%98%81%ED%99%94%20'7%EB%85%84%EC%9D%98%20%EB%B0%A4'%20%EC%A0%9C%EC%9E%91%EB%B3%B4%EA%B3%A0%ED%9A%8C%20%EC%9E%A5%EB%8F%99%EA%B1%B4.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-03-07",
+  "nationality": "Corée du Sud",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q468490",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jang_Dong-gun",
+    "imdb": "nm0417520",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "a-normal-family",
+      "title": "A Normal Family"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2f842ab6-bbb7-4883-9c4f-bf66f88351d3",
+      "title": "A Normal Family",
+      "programSlug": "a-normal-family",
+      "programUrl": "/programme/canal-box-office/a-normal-family",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 06:50:00+00",
+      "endTime": "2026-04-22 08:36:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 06:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

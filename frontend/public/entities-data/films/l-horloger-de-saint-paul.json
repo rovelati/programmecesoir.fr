@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "l-horloger-de-saint-paul",
+  "title": "L'horloger de Saint-Paul",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "L'horloger de Saint-Paul"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm criminel",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "Michel Descombes est horloger à Lyon, dans le quartier de Saint-Paul. Depuis que sa femme l'a quitté, il élève seul son fils, Bernard. Un jour, Michel, convoqué par le commissaire Guilboud, découvre que son fils est recherché pour meurtre. La veille, Bernard aurait tué l'un des gardiens de l'usine où travaillait Liliane, sa petite amie. Depuis, les deux jeunes gens ont disparu. Au fur et à mesure que l'enquête avance, Michel, qui se lie d'amitié avec Guilboud, se rend compte qu'il ignorait tout de son fils. Une fois Bernard sous les verrous, Michel entreprend de le comprendre et finit par prendre fait et cause en sa faveur...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1974,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q106482",
+      "slug": "philippe-noiret",
+      "name": "Philippe Noiret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106555",
+      "slug": "jean-rochefort",
+      "name": "Jean Rochefort",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3158699",
+      "slug": "jacques-denis",
+      "name": "Jacques Denis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1122249",
+      "slug": "julien-bertheau",
+      "name": "Julien Bertheau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q451637",
+      "slug": "christine-pascal",
+      "name": "Christine Pascal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2831251",
+      "slug": "albert-husson",
+      "name": "Albert Husson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848982",
+      "slug": "andree-tainsy",
+      "name": "Andrée Tainsy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q534537",
+      "slug": "cecile-vassort",
+      "name": "Cécile Vassort",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2979692",
+      "slug": "clotilde-joano",
+      "name": "Clotilde Joano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q370457",
+      "slug": "jacques-hilling",
+      "name": "Jacques Hilling",
+      "role": "actor"
+    },
+    {
+      "qid": "Q274043",
+      "slug": "monique-chaumette",
+      "name": "Monique Chaumette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3371829",
+      "slug": "paul-mercey",
+      "name": "Paul Mercey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3528268",
+      "slug": "tiffany-tavernier",
+      "name": "Tiffany Tavernier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3568923",
+      "slug": "william-sabatier",
+      "name": "William Sabatier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3573442",
+      "slug": "yves-afonso",
+      "name": "Yves Afonso",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21483251",
+      "slug": "sylvain-rougerie",
+      "name": "Sylvain Rougerie",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q337226",
+    "slug": "bertrand-tavernier",
+    "name": "Bertrand Tavernier",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "auguste-le-breton",
+  "name": "Auguste Le Breton",
+  "worksCount": 1,
+  "description": "écrivain français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1913-02-18",
+  "nationality": "France",
+  "jobTitle": "écrivain ou écrivaine",
+  "externalIds": {
+    "wikidata": "Q766709",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Auguste_Le_Breton",
+    "imdb": "nm0494138",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "razzia-sur-la-chnouf",
+      "title": "Razzia sur la chnouf"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

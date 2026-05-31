@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "suzy-prim",
+  "name": "Suzy Prim",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prim%20Harcourt%201943.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1896-10-11",
+  "nationality": "France",
+  "jobTitle": "scénariste",
+  "externalIds": {
+    "wikidata": "Q459535",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Suzy_Prim",
+    "imdb": "nm0697512",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "apres-l-orage",
+      "title": "Après l'orage"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

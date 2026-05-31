@@ -1,0 +1,82 @@
+{
+  "type": "actor",
+  "slug": "kevin-costner",
+  "name": "Kevin Costner",
+  "worksCount": 3,
+  "description": "acteur, chanteur, producteur et réalisateur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Costner%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1955-01-18",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q11930",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kevin_Costner",
+    "imdb": "nm0000126",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bodyguard",
+      "title": "Bodyguard"
+    },
+    {
+      "type": "film",
+      "slug": "man-of-steel",
+      "title": "Man of Steel"
+    },
+    {
+      "type": "film",
+      "slug": "3-days-to-kill",
+      "title": "3 Days to Kill"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c6640e-5371-434d-a569-01e9fd4211a2",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/canal-grand-ecran/man-of-steel",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 12:51:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "58ff2527-6de2-41e5-933b-9240d15074a4",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 14:59:00+00",
+      "endTime": "2026-04-20 17:18:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "24919d3f-8d16-45dd-b094-513b5060d653",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 11:30:00+00",
+      "endTime": "2026-04-23 13:48:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 12:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

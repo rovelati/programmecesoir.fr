@@ -1,0 +1,95 @@
+{
+  "type": "film",
+  "slug": "les-tuche-2-le-reve-americain",
+  "title": "Les Tuche 2 : le rêve américain",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Les Tuche 2 : le rêve américain"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Pour la première fois de sa vie, Donald ne fête pas son anniversaire avec ses parents, les Tuche, une famille française modeste, qui a gagné 100 millions d'euros à la loterie. Il est parti pour un mois à Los Angeles afin de perfectionner son anglais. La famille décide de lui faire une surprise...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c05693cb-297f-4dc4-8b03-288b73e47b28",
+      "title": "Les Tuche 2 : le rêve américain",
+      "programSlug": "les-tuche-2-le-reve-americain",
+      "programUrl": "/programme/ocs/les-tuche-2-le-reve-americain",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 04:56:00+00",
+      "endTime": "2026-04-22 06:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "b5214fe6-8fed-4d7c-a572-d1f528f74b3f",
+      "title": "Les Tuche 2 : le rêve américain",
+      "programSlug": "les-tuche-2-le-reve-americain",
+      "programUrl": "/programme/ocs/les-tuche-2-le-reve-americain",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-23 13:54:00+00",
+      "endTime": "2026-04-23 15:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "7b5814f9-5d46-4bee-8a92-e1ae4e92f675",
+      "title": "Les Tuche 2 : le rêve américain",
+      "programSlug": "les-tuche-2-le-reve-americain",
+      "programUrl": "/programme/ocs/les-tuche-2-le-reve-americain",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 06:15:00+00",
+      "endTime": "2026-04-25 07:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 99,
+  "cast": [
+    {
+      "qid": "Q949391",
+      "slug": "jean-paul-rouve",
+      "name": "Jean-Paul Rouve",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3350789",
+    "slug": "olivier-baroux",
+    "name": "Olivier Baroux",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 04:56:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "type": "film",
+  "slug": "le-parfum-histoire-d-un-meurtrier",
+  "title": "Le parfum, histoire d'un meurtrier",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Le parfum, histoire d'un meurtrier"
+  ],
+  "genres": [
+    "roman de développement",
+    "Künstlerroman",
+    "fiction historique"
+  ],
+  "description": "A Paris, au XVIIIe siècle, le peuple en furie demande la tête de Jean-Baptiste Grenouille, convaincu des meurtres atroces de douze femmes. Des années auparavant, un nouveau-né était abandonné sur l'étal d'un marchand de poisson. Envoyé à l'orphelinat, le jeune Jean-Baptiste est adopté par un marchand tellement odieux qu'il décide de s'enfuir à Paris. Arrivé dans la capitale, le jeune homme est saisi par les odeurs nouvelles pour lui. Il s'aperçoit alors qu'il possède un odorat exceptionnel. Fasciné par le parfum d'une jolie rousse, il la tue accidentellement. Il entre alors au service de Baldini, le plus grand \"nez\" de la place de Paris...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/El-perfume.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3ec96e1f-20b8-4062-bfff-fc75f75f21cc",
+      "title": "Le parfum, histoire d'un meurtrier",
+      "programSlug": "le-parfum-histoire-d-un-meurtrier",
+      "programUrl": "/programme/canal-grand-ecran/le-parfum-histoire-d-un-meurtrier",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 19:04:00+00",
+      "endTime": "2026-04-24 21:27:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1985,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-24 19:04:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

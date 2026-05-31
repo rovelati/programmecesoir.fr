@@ -1,0 +1,149 @@
+{
+  "type": "actor",
+  "slug": "jeff-goldblum",
+  "name": "Jeff Goldblum",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Goldblum%20by%20Gage%20Skidmore.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1952-10-22",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q106706",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jeff_Goldblum",
+    "imdb": "nm0000156",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-justicier-dans-la-ville",
+      "title": "Un justicier dans la ville"
+    },
+    {
+      "type": "series",
+      "slug": "new-york-section-criminelle",
+      "title": "New York, section criminelle"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cdbd2eda-1ccd-4ef7-ad79-881602a374b1",
+      "title": "New York, section criminelle",
+      "programSlug": "new-york-section-criminelle",
+      "programUrl": "/programme/tf1-series-films/new-york-section-criminelle",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 12:00:00+00",
+      "endTime": "2026-04-19 12:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "103098e5-f9dc-4351-9eb2-c891738831d6",
+      "title": "New York, section criminelle",
+      "programSlug": "new-york-section-criminelle",
+      "programUrl": "/programme/tf1-series-films/new-york-section-criminelle",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 12:50:00+00",
+      "endTime": "2026-04-19 13:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8539a0bc-7c65-40af-8e0d-edd830d67818",
+      "title": "New York, section criminelle",
+      "programSlug": "new-york-section-criminelle",
+      "programUrl": "/programme/tf1-series-films/new-york-section-criminelle",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 13:45:00+00",
+      "endTime": "2026-04-19 14:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c09faca1-82b3-4801-a96b-fae6f3c9f71f",
+      "title": "New York, section criminelle",
+      "programSlug": "new-york-section-criminelle",
+      "programUrl": "/programme/tf1-series-films/new-york-section-criminelle",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-19 14:35:00+00",
+      "endTime": "2026-04-19 15:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b38a6330-ea1c-4f73-bbf8-2a20ef657bdc",
+      "title": "Un justicier dans la ville",
+      "programSlug": "un-justicier-dans-la-ville",
+      "programUrl": "/programme/tcm-cinema/un-justicier-dans-la-ville",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 20:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9e3369ee-96a9-44ae-a3e9-6dad2c118a7a",
+      "title": "New York, section criminelle - Saison 3",
+      "programSlug": "new-york-section-criminelle-saison-3",
+      "programUrl": "/programme/tf1-series-films/new-york-section-criminelle-saison-3",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-23 19:10:00+00",
+      "endTime": "2026-04-23 19:55:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "bba56662-2c5f-41c4-b84f-7cc0a8ad4219",
+      "title": "New York, section criminelle - Saison 3",
+      "programSlug": "new-york-section-criminelle-saison-3",
+      "programUrl": "/programme/tf1-series-films/new-york-section-criminelle-saison-3",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-23 19:55:00+00",
+      "endTime": "2026-04-23 20:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "a23b9dee-ccab-4d31-9435-9ddd70c822e3",
+      "title": "New York, section criminelle - Saison 2",
+      "programSlug": "new-york-section-criminelle-saison-2",
+      "programUrl": "/programme/tf1-series-films/new-york-section-criminelle-saison-2",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-23 20:50:00+00",
+      "endTime": "2026-04-23 21:40:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "5bf725d8-7a4a-4975-88fd-99e6bf0f897e",
+      "title": "New York, section criminelle - Saison 2",
+      "programSlug": "new-york-section-criminelle-saison-2",
+      "programUrl": "/programme/tf1-series-films/new-york-section-criminelle-saison-2",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-23 21:40:00+00",
+      "endTime": "2026-04-23 22:35:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 12:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

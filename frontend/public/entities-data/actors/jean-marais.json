@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jean-marais",
+  "name": "Jean Marais",
+  "worksCount": 1,
+  "description": "acteur français de théâtre et cinéma, metteur en scène",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20%E2%80%A6trialsanderrors%20-%20Jean%20Marais%20by%20Carl%20Van%20Vechten%2C%201949.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1913-12-11",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q168359",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Marais",
+    "imdb": "nm0544786",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-tour-prends-garde",
+      "title": "La Tour, prends garde !"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

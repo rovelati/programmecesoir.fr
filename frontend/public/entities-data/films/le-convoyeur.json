@@ -1,0 +1,182 @@
+{
+  "type": "film",
+  "slug": "le-convoyeur",
+  "title": "Le convoyeur",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Le convoyeur"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "drame",
+    "film et téléfilm d'action",
+    "thriller"
+  ],
+  "description": "Alexandre Demarre, homme mystérieux et solitaire, se fait embaucher par une société de transport de fonds qui a subi plusieurs attaques violentes. Le nouveau venu s'attire la méfiance de ses collègues, qui peinent à cerner ses véritables motivations. Est-il un policier, un truand ou autre chose ?...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "24a386a3-01b7-4b25-a613-b36e21b41bec",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 17:18:00+00",
+      "endTime": "2026-04-20 18:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5f1c105c-017d-4e1b-b777-31d9913cfea8",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 05:00:00+00",
+      "endTime": "2026-04-22 06:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e6d27148-d68b-44e5-90ee-210931ba37fc",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/canal-grand-ecran/le-convoyeur",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 17:35:00+00",
+      "endTime": "2026-04-23 19:04:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "05467371-759f-46eb-b8c7-ec2ba690dee5",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 23:28:00+00",
+      "endTime": "2026-04-24 00:54:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": 88,
+  "cast": [
+    {
+      "qid": "Q124389",
+      "slug": "albert-dupontel",
+      "name": "Albert Dupontel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q189422",
+      "slug": "jean-dujardin",
+      "name": "Jean Dujardin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q291521",
+      "slug": "aure-atika",
+      "name": "Aure Atika",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460423",
+      "slug": "claude-perron",
+      "name": "Claude Perron",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3079848",
+      "slug": "foued-nassah",
+      "name": "Foued Nassah",
+      "role": "actor"
+    },
+    {
+      "qid": "Q576085",
+      "slug": "francois-berleand",
+      "name": "François Berléand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3106251",
+      "slug": "gilles-gaston-dreyfus",
+      "name": "Gilles Gaston-Dreyfus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1400753",
+      "slug": "jean-paul-zehnacker",
+      "name": "Jean-Paul Zehnacker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q976460",
+      "slug": "julien-boisselier",
+      "name": "Julien Boisselier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3351171",
+      "slug": "olivier-loustau",
+      "name": "Olivier Loustau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2087638",
+      "slug": "philippe-laudenbach",
+      "name": "Philippe Laudenbach",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3502159",
+      "slug": "stephanie-braunschweig",
+      "name": "Stéphanie Braunschweig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3340568",
+      "slug": "nicolas-marie",
+      "name": "Nicolas Marié",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3340135",
+    "slug": "nicolas-boukhrief",
+    "name": "Nicolas Boukhrief",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 17:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "type": "film",
+  "slug": "strip-tease-integral",
+  "title": "Strip-tease intégral",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Strip-tease intégral"
+  ],
+  "genres": [
+    "Cinema",
+    "Film documentaire"
+  ],
+  "description": "Plus que jamais fidèle à l'esprit de la série culte qui a marqué les esprits et déclenché des vocations de cinéastes depuis près de quatre décennies, ce film offre, cette fois sur grand écran, cinq peintures qui représentent les vanités de la société humaine dans leur plus merveilleuse banalité.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "48c875cd-dfac-4abb-b78a-1195bb992679",
+      "title": "Strip-tease intégral",
+      "programSlug": "strip-tease-integral",
+      "programUrl": "/programme/canal-box-office/strip-tease-integral",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 00:31:00+00",
+      "endTime": "2026-04-24 01:51:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-24 00:31:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

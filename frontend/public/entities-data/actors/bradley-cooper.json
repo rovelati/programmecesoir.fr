@@ -1,0 +1,75 @@
+{
+  "type": "actor",
+  "slug": "bradley-cooper",
+  "name": "Bradley Cooper",
+  "worksCount": 4,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bradley%20Cooper.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-01-05",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q205707",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bradley_Cooper",
+    "imdb": "nm0177896",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sans-limite",
+      "title": "Sans limite"
+    },
+    {
+      "type": "film",
+      "slug": "american-sniper",
+      "title": "American Sniper"
+    },
+    {
+      "type": "film",
+      "slug": "playboy-a-saisir",
+      "title": "Playboy à saisir"
+    },
+    {
+      "type": "film",
+      "slug": "war-dogs",
+      "title": "War Dogs"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bbc5860c-c08f-4226-9760-9f6b92c55163",
+      "title": "Sans limite",
+      "programSlug": "sans-limite",
+      "programUrl": "/programme/eurochannel/sans-limite",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 15:20:00+00",
+      "endTime": "2026-04-20 17:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7e80775a-9aa1-4760-9e75-a3b0e5a11fa0",
+      "title": "Sans limite",
+      "programSlug": "sans-limite",
+      "programUrl": "/programme/eurochannel/sans-limite",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 05:25:00+00",
+      "endTime": "2026-04-26 07:10:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 15:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

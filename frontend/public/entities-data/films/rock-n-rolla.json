@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "rock-n-rolla",
+  "title": "Rock'n'Rolla",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Rock'n'Rolla"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film et téléfilm d'action",
+    "comédie"
+  ],
+  "description": "Lenny, un caïd londonien de la vieille école, sait à qui verser des pots-de-vin et est en mesure de faire pression sur n'importe quel ministre, promoteur immobilier ou malfrat en vue. Mais Archy, son fidèle lieutenant, le met en garde : Londres est en train de changer, sous l'influence des mafieux des pays de l'Est et des petits voyous, qui tentent tous de bouleverser les règles du jeu. Désormais, c'est toute la pègre londonienne, des gros bonnets jusqu'aux petits poissons, qui essaye de tirer son épingle du jeu en se disputant le coup du siècle. Et Johnny Quid, rock star toxico qu'on croyait mort, semble le favori...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/RockNRolla08TIFF.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 114,
+  "cast": [
+    {
+      "qid": "Q169982",
+      "slug": "gerard-butler",
+      "name": "Gerard Butler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q211322",
+      "slug": "tom-wilkinson",
+      "name": "Tom Wilkinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312712",
+      "slug": "mark-strong",
+      "name": "Mark Strong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q719359",
+      "slug": "toby-kebbell",
+      "name": "Toby Kebbell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208026",
+      "slug": "tom-hardy",
+      "name": "Tom Hardy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q342604",
+      "slug": "idris-elba",
+      "name": "Idris Elba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q463683",
+      "slug": "karel-roden",
+      "name": "Karel Roden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229029",
+      "slug": "thandiwe-newton",
+      "name": "Thandiwe Newton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193676",
+      "slug": "ludacris",
+      "name": "Ludacris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315083",
+      "slug": "jeremy-piven",
+      "name": "Jeremy Piven",
+      "role": "actor"
+    },
+    {
+      "qid": "Q724227",
+      "slug": "jimi-mistry",
+      "name": "Jimi Mistry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q255323",
+      "slug": "gemma-arterton",
+      "name": "Gemma Arterton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313283",
+      "slug": "jamie-campbell-bower",
+      "name": "Jamie Campbell Bower",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1909222",
+      "slug": "matt-king",
+      "name": "Matt King",
+      "role": "actor"
+    },
+    {
+      "qid": "Q264751",
+      "slug": "nonso-anozie",
+      "name": "Nonso Anozie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5534044",
+      "slug": "geoff-bell",
+      "name": "Geoff Bell",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q192990",
+    "slug": "guy-ritchie",
+    "name": "Guy Ritchie",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "christophe-lambert",
+  "name": "Christophe Lambert",
+  "worksCount": 1,
+  "description": "acteur, producteur et homme d'affaires franco-américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christophe%20Lambert%20C%C3%A9sar%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1957-03-29",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q105158",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Christophe_Lambert",
+    "imdb": "nm0000483",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "legitime-violence",
+      "title": "Légitime violence"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "446bead3-c7c9-4330-a059-47db43c2c967",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-19 23:50:00+00",
+      "endTime": "2026-04-20 01:24:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b41982db-b0e7-4ba1-a15f-c77d25a6a119",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 22:17:00+00",
+      "endTime": "2026-04-21 23:51:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "50268974-b6ba-4329-931b-197093e3efd7",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 00:06:00+00",
+      "endTime": "2026-04-24 01:40:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 23:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

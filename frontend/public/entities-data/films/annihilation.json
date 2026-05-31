@@ -1,0 +1,137 @@
+{
+  "type": "film",
+  "slug": "annihilation",
+  "title": "Annihilation",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Annihilation"
+  ],
+  "genres": [
+    "thriller",
+    "film ou téléfilm de science-fiction",
+    "drame",
+    "film et téléfilm d'horreur",
+    "film et téléfilm d'action",
+    "adaptation d'un roman au cinéma",
+    "film d'horreur de science-fiction"
+  ],
+  "description": "Une pluie de météorites s'abat sur les Etats-Unis, libérant un gaz toxique pour l'homme lors de l'impact. A la tête de l'armée américaine, le général Skuller est persuadé qu'il ne s'agit pas d'une catastrophe naturelle, mais d'une attaque extraterrestre. Pendant ce temps, Ashlaya Wellish, une spécialiste militaire des opérations cybernétiques, quitte son poste pour aller secourir son fils Lucas, piégé dans son école. Dans un premier temps, Ashlaya est persuadée que Skuller se trompe mais, lorsque son mari, également engagé dans l'armée, est tué en patrouille, elle réalise que la Terre est bien victime d'une invasion et que la survie de l'humanité est en jeu...",
+  "descriptionAi": "Ce thriller de science-fiction mêle habilement drame et horreur dans une atmosphère de fin du monde oppressante. L’histoire, adaptée d’un roman, suit Ashlaya, une spécialiste militaire confrontée à une invasion extraterrestre déguisée en catastrophe naturelle. L’intrigue se distingue par son récit haletant, qui entremêle une quête personnelle désespérée et une lutte pour la survie de l’humanité, le tout servi par des séquences d’action et un suspense psychologique maîtrisés. Pour un visionnage captivant, ce film est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mcm.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fbdd2453-9889-4244-9544-75392e7ee385",
+      "title": "Annihilation",
+      "programSlug": "annihilation",
+      "programUrl": "/programme/mcm/annihilation",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-19 12:40:00+00",
+      "endTime": "2026-04-19 14:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "72b1f79c-2597-49e5-a891-821518b5b6d4",
+      "title": "Annihilation",
+      "programSlug": "annihilation",
+      "programUrl": "/programme/mcm/annihilation",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-25 17:20:00+00",
+      "endTime": "2026-04-25 19:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q25136228",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Annihilation_(film)",
+    "imdb": "tt2798920",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:28.992Z",
+  "year": 2018,
+  "durationMinutes": 115,
+  "cast": [
+    {
+      "qid": "Q37876",
+      "slug": "natalie-portman",
+      "name": "Natalie Portman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232902",
+      "slug": "jennifer-jason-leigh",
+      "name": "Jennifer Jason Leigh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q336788",
+      "slug": "oscar-isaac",
+      "name": "Oscar Isaac",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16729296",
+      "slug": "gina-rodriguez",
+      "name": "Gina Rodriguez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271500",
+      "slug": "tessa-thompson",
+      "name": "Tessa Thompson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q468499",
+      "slug": "tuva-novotny",
+      "name": "Tuva Novotny",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3329808",
+      "slug": "benedict-wong",
+      "name": "Benedict Wong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6257003",
+      "slug": "john-schwab",
+      "name": "John Schwab",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1174630",
+      "slug": "david-gyasi",
+      "name": "David Gyasi",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q542634",
+    "slug": "alex-garland",
+    "name": "Alex Garland",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 12:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

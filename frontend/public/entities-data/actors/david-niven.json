@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "david-niven",
+  "name": "David Niven",
+  "worksCount": 2,
+  "description": "acteur et écrivain britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Niven%20Allan%20Warren.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1910-03-01",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q181917",
+    "wikipedia": "https://fr.wikipedia.org/wiki/David_Niven",
+    "imdb": "nm0000057",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-tour-du-monde-en-80-jours",
+      "title": "Le tour du monde en 80 jours"
+    },
+    {
+      "type": "film",
+      "slug": "jeunesse-perdue",
+      "title": "Jeunesse perdue"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8eb960ec-1ede-44aa-a099-c6b5fb22b565",
+      "title": "Le tour du monde en 80 jours",
+      "programSlug": "le-tour-du-monde-en-80-jours",
+      "programUrl": "/programme/cine-family/le-tour-du-monde-en-80-jours",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 09:59:00+00",
+      "endTime": "2026-04-21 11:19:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "64bb9bd0-fa6e-4fa7-8891-4ac9c9fc88ec",
+      "title": "Le tour du monde en 80 jours",
+      "programSlug": "le-tour-du-monde-en-80-jours",
+      "programUrl": "/programme/rtl9/le-tour-du-monde-en-80-jours",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-25 18:55:00+00",
+      "endTime": "2026-04-25 21:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 09:59:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "princesse-millenium",
+  "title": "Princesse Millenium",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Princesse Millenium"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "Le professeur Amamori découvre une dixième planète, à l'orbite étrange. Selon ses calculs, le 9 septembre 1999 à 9 heures, 9 minutes et 9 secondes, la Terre sera anéantie par cette planète géante mystérieuse, de neuf fois sa taille.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mangas",
+      "channelName": "Mangas",
+      "channelSlug": "mangas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mangas.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1982,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q6963367",
+    "slug": "masayuki-akehi",
+    "name": "Masayuki Akehi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "brad-pitt",
+  "name": "Brad Pitt",
+  "worksCount": 3,
+  "description": "acteur et producteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brad%20Pitt%202019%20by%20Glenn%20Francis.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-12-18",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q35332",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Brad_Pitt",
+    "imdb": "nm0000093",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "thelma-et-louise",
+      "title": "Thelma et Louise"
+    },
+    {
+      "type": "film",
+      "slug": "fury",
+      "title": "Fury"
+    },
+    {
+      "type": "film",
+      "slug": "seven",
+      "title": "Seven"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ab1d9aeb-8d42-4706-a32c-0ad6ff04a0da",
+      "title": "Seven",
+      "programSlug": "seven",
+      "programUrl": "/programme/cine-frisson/seven",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 21:04:00+00",
+      "endTime": "2026-04-20 23:08:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c2c24c59-8415-40a2-b866-57012fc6b083",
+      "title": "Thelma et Louise",
+      "programSlug": "thelma-et-louise",
+      "programUrl": "/programme/canal-grand-ecran/thelma-et-louise",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 05:33:00+00",
+      "endTime": "2026-04-23 07:38:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 21:04:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

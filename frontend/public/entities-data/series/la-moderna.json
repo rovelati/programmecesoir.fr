@@ -1,0 +1,139 @@
+{
+  "type": "series",
+  "slug": "la-moderna",
+  "title": "La Moderna",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "La Moderna - Saison 2"
+  ],
+  "genres": [
+    "fiction historique",
+    "mélodrame",
+    "telenovela",
+    "drama romantique"
+  ],
+  "description": "Retrouvez la nouvelle saison 2 de \"La Moderna\" sur Antenne Réunion.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q121768149",
+    "wikipedia": null,
+    "imdb": "tt28507389",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2023,
+  "numberOfSeasons": 1,
+  "cast": [
+    {
+      "qid": "Q121493652",
+      "slug": "almagro-san-miguel",
+      "name": "Almagro San Miguel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9033606",
+      "slug": "miryam-gallego",
+      "name": "Miryam Gallego",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3186366",
+      "slug": "jose-luis-garcia-perez",
+      "name": "José Luis García Pérez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6142575",
+      "slug": "teresa-hurtado-de-ory",
+      "name": "Teresa Hurtado de Ory",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6121766",
+      "slug": "sara-rivero",
+      "name": "Sara Rivero",
+      "role": "actor"
+    },
+    {
+      "qid": "Q121744943",
+      "slug": "berta-galo",
+      "name": "Berta Galo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28920804",
+      "slug": "carlos-librado",
+      "name": "Carlos Librado",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19289954",
+      "slug": "barbara-mestanza",
+      "name": "Bàrbara Mestanza",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5977856",
+      "slug": "llorenc-gonzalez",
+      "name": "Llorenç González",
+      "role": "actor"
+    },
+    {
+      "qid": "Q80446850",
+      "slug": "berta-castane",
+      "name": "Berta Castañé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q80672133",
+      "slug": "carles-sanjaime",
+      "name": "Carles Sanjaime",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18644087",
+      "slug": "jacobo-dicenta",
+      "name": "Jacobo Dicenta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q85915146",
+      "slug": "german-alcarazu",
+      "name": "Germán Alcarazu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q122926521",
+      "slug": "helena-ezquerro",
+      "name": "Helena Ezquerro",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q115143337",
+    "slug": "humberto-miro-garrido",
+    "name": "Humberto Miró Garrido",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

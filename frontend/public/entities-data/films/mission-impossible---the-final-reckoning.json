@@ -1,0 +1,68 @@
+{
+  "type": "film",
+  "slug": "mission-impossible---the-final-reckoning",
+  "title": "Mission : Impossible - The Final Reckoning",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Mission : Impossible - The Final Reckoning"
+  ],
+  "genres": [
+    "Film d'aventures",
+    "Cinema"
+  ],
+  "description": "Ethan Hunt et l'équipe de l'IMF sont chargés d'une mission délicate par la présidente des Etats-Unis. Ils doivent retrouver l'Entité, une redoutable intelligence artificielle qui menace de lancer une attaque nucléaire après avoir pris le contrôle des systèmes informatiques des plus puissantes armées du monde...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ecdd76d5-caa7-4211-9e1b-598aabc2914d",
+      "title": "Mission : Impossible - The Final Reckoning",
+      "programSlug": "mission-impossible-the-final-reckoning",
+      "programUrl": "/programme/canal-box-office/mission-impossible-the-final-reckoning",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 19:00:00+00",
+      "endTime": "2026-04-21 21:44:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

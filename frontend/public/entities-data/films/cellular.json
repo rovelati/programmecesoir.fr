@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "cellular",
+  "title": "Cellular",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Cellular"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film et téléfilm d'action"
+  ],
+  "description": "Ryan reçoit, sur son téléphone portable, l'appel d'une femme qu'il ne connaît pas. Elle lui annonce qu'elle a été kidnappée et va être assassinée. Ryan est prêt à lui venir en aide, mais la jeune femme ne sait pas où se trouve son lieu de captivité. De plus, la batterie de son téléphone est presque vide...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cellular.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": 94,
+  "cast": [
+    {
+      "qid": "Q131380",
+      "slug": "kim-basinger",
+      "name": "Kim Basinger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q178348",
+      "slug": "chris-evans",
+      "name": "Chris Evans",
+      "role": "actor"
+    },
+    {
+      "qid": "Q169963",
+      "slug": "jason-statham",
+      "name": "Jason Statham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q224159",
+      "slug": "william-h-macy",
+      "name": "William H. Macy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q720530",
+      "slug": "noah-emmerich",
+      "name": "Noah Emmerich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q442274",
+      "slug": "richard-burgi",
+      "name": "Richard Burgi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q163249",
+      "slug": "jessica-biel",
+      "name": "Jessica Biel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q962221",
+      "slug": "eric-christian-olsen",
+      "name": "Eric Christian Olsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2824014",
+      "slug": "adam-taylor-gordon",
+      "name": "Adam Taylor Gordon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q508404",
+      "slug": "caroline-aaron",
+      "name": "Caroline Aaron",
+      "role": "actor"
+    },
+    {
+      "qid": "Q469579",
+      "slug": "mircea-monroe",
+      "name": "Mircea Monroe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3431553",
+      "slug": "rick-hoffman",
+      "name": "Rick Hoffman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1314250",
+      "slug": "robert-shaye",
+      "name": "Robert Shaye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q780898",
+      "slug": "valerie-cruz",
+      "name": "Valerie Cruz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2260784",
+      "slug": "matt-mccolm",
+      "name": "Matt McColm",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1351239",
+      "slug": "eric-etebari",
+      "name": "Eric Etebari",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q529803",
+    "slug": "david-richard-ellis",
+    "name": "David Richard Ellis",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

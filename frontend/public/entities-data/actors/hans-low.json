@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "hans-low",
+  "name": "Hans Löw",
+  "worksCount": 1,
+  "description": "acteur allemand",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-01-01",
+  "nationality": "Allemagne",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q1581159",
+    "wikipedia": null,
+    "imdb": "nm0530561",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "comme-si-de-rien-n-etait",
+      "title": "Comme si de rien n'était"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

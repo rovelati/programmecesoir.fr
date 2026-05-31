@@ -1,0 +1,78 @@
+{
+  "type": "actor",
+  "slug": "sophie-okonedo",
+  "name": "Sophie Okonedo",
+  "worksCount": 2,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Okonedo%20-%20IFFR%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-08-11",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q238864",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sophie_Okonedo",
+    "imdb": "nm0645683",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "ace-ventura-en-afrique",
+      "title": "Ace Ventura en Afrique"
+    },
+    {
+      "type": "film",
+      "slug": "wild-rose",
+      "title": "Wild Rose"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "26a98908-1abc-4d69-a66b-2d8659b291e8",
+      "title": "Wild Rose",
+      "programSlug": "wild-rose",
+      "programUrl": "/programme/cine-emotion/wild-rose",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-21 13:21:00+00",
+      "endTime": "2026-04-21 14:58:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7bb4aa3b-4b08-40d8-8b6b-5894943fc53b",
+      "title": "Wild Rose",
+      "programSlug": "wild-rose",
+      "programUrl": "/programme/cine-emotion/wild-rose",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-24 04:51:00+00",
+      "endTime": "2026-04-24 06:31:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "612495e8-9d36-460c-a3ef-7f3f65e6d239",
+      "title": "Ace Ventura en Afrique",
+      "programSlug": "ace-ventura-en-afrique",
+      "programUrl": "/programme/cine-family/ace-ventura-en-afrique",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:01:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 13:21:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

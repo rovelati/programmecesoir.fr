@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "claudette-mink",
+  "name": "Claudette Mink",
+  "worksCount": 1,
+  "description": "actrice canadienne",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-04-04",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q292709",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Claudette_Mink",
+    "imdb": "nm0006419",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "paycheck",
+      "title": "Paycheck"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

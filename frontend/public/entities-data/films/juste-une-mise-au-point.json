@@ -1,0 +1,99 @@
+{
+  "type": "film",
+  "slug": "juste-une-mise-au-point",
+  "title": "Juste une mise au point",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Juste une mise au point"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "La réalisatrice et scénariste Baya Kasmi est connue pour ses comédies qui abordent les thèmes de l'identité et de l'altérité. Elle revient sur son parcours et ses inspirations.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "988bcf8b-6a86-45fb-b64f-12de48693bd0",
+      "title": "Juste une mise au point",
+      "programSlug": "juste-une-mise-au-point",
+      "programUrl": "/programme/ocs/juste-une-mise-au-point",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 10:48:00+00",
+      "endTime": "2026-04-21 11:29:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "adae3960-8eef-40a7-8d6e-78350315eeb2",
+      "title": "Juste une mise au point",
+      "programSlug": "juste-une-mise-au-point",
+      "programUrl": "/programme/cine-emotion/juste-une-mise-au-point",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 03:50:00+00",
+      "endTime": "2026-04-23 04:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "b13ccd6d-77d0-4d24-8201-1175f76f3972",
+      "title": "Juste une mise au point",
+      "programSlug": "juste-une-mise-au-point",
+      "programUrl": "/programme/cine-emotion/juste-une-mise-au-point",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 10:46:00+00",
+      "endTime": "2026-04-23 11:30:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 10:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

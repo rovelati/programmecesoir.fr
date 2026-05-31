@@ -1,0 +1,116 @@
+{
+  "type": "series",
+  "slug": "astrid-et-raphaelle",
+  "title": "Astrid et Raphaëlle",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Astrid et Raphaëlle"
+  ],
+  "genres": [
+    "thriller policier"
+  ],
+  "description": "Astrid et Raphaëlle enquêtent de conserve sur un crime commis en pleine gare du Nord, à Paris, dont le seul témoin est le fils de la victime, un jeune garçon autiste. Cet élément pourrait-il aider Astrid à communiquer de façon privilégiée avec l'enfant ou au contraire condamnera t-il définitivement les investigations des deux femmes ?...\n\nRéalisateur(s) : Julien Séri\nActeurs : Meledeen Yacoubi (Arthur Enguien), Lola Dewaere (Raphaëlle Coste), Benoît Michel (Nicolas Perran), Sara Mortensen (Astrid Nielsen), Husky Kihal (Henry Fournier), Jean-Louis Garçon (le commissaire Carl Bachert), Jean-Benoît Souilh (William Thomas), Kengo Saito (Tetsuo), Lilou Fogli (Camille Boyer), Aksel Rivière (Jules Boyer), Valérie Kaprisky (Anne Langlais), Sylvie Filloux (Astrid Nielsen adolescente), Elisabeth Mortensen (Mathilde Nielsen), Laurent Lévy (Gilles), Paul Beaurepaire (Gabriel Boyer), Olivier Bouana (Fabien Boyer), Franck Beckmann (Le démineur), Franck Muon (Chef de consignes), Justine Lautrette (Médecin), Olivia Bonamy (Isabelle)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tvsudmarseillefr.svg",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv7-bordeaux.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguadeloupefr.svg",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvmartiniquefr.svg",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguyanefr.svg",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2019,
+  "numberOfSeasons": 6,
+  "cast": [
+    {
+      "qid": "Q88009745",
+      "slug": "sara-mortensen",
+      "name": "Sara Mortensen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3258760",
+      "slug": "lola-dewaere",
+      "name": "Lola Dewaere",
+      "role": "actor"
+    },
+    {
+      "qid": "Q100998866",
+      "slug": "sylvie-filloux",
+      "name": "Sylvie Filloux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19629636",
+      "slug": "benoit-michel",
+      "name": "Benoît Michel",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q108770408",
+    "slug": "alexandre-de-seguins",
+    "name": "Alexandre De Seguins",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

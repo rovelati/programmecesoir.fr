@@ -1,0 +1,313 @@
+{
+  "type": "series",
+  "slug": "plus-belle-la-vie-encore-plus-belle",
+  "title": "Plus belle la vie, encore plus belle",
+  "airingsCount": 80,
+  "sourceTitles": [
+    "Plus belle la vie, encore plus belle",
+    "Plus belle la vie, encore plus belle - Saison 2",
+    "Plus belle la vie, encore plus belle - Saison 3"
+  ],
+  "genres": [
+    "soap opera"
+  ],
+  "description": "Le quartier du Mistral n'est plus et ses habitants qui ont tout perdu dans l'effondrement des bâtiments ont du se résoudre à quitter les lieux. Pourtant, Thomas Marci a su rebondir en imaginant un nouveau \"Le Mistral\". Il travaille main dans la main avec son demi-frère Killian pour créer un lieu de convivialité. Malheureusement, la reprise d'une vie normale va s'avérer plus difficile que prévue lorsqu'un événement dramatique vient chambouler l'ouverture de leur restaurant. Mais une nouvelle commissaire est prête à mener l'enquête. Ce spin-off de la série originale a réuni 2 990 000 téléspectateurs lors de la diffusion du premier épisode.",
+  "descriptionAi": "Cette série, un savoureux soap opera, nous plonge dans la vie des anciens habitants du Mistial, reconstruisant leur existence après une tragédie. L'ambiance mêle intimement le drame social et les tensions policières à la chaleur des relations humaines, créant un mélange captivant. L'intérêt réside dans ce renouveau : des personnages aimés affrontant un départ brutal, des secrets et un drame qui perturbe leur fragile renaissance, le tout sous l'œil d'une nouvelle commissaire. Une suite pleine de rebondissements et d'émotions, portée par une audience immédiate, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "channelNumber": 1,
+      "logoUrl": "/loghi/tf1.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-series.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-1.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-series-films.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 12
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6f76de2f-f1ea-4db6-bb12-e9fba1489e41",
+      "title": "Plus belle la vie, encore plus belle - Saison 3",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-3",
+      "programUrl": "/programme/rts-un/plus-belle-la-vie-encore-plus-belle-saison-3",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-20 09:45:00+00",
+      "endTime": "2026-04-20 10:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b4d7628f-67d5-4a38-9ad3-df58fe944e29",
+      "title": "Plus belle la vie, encore plus belle - Saison 2",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-2",
+      "programUrl": "/programme/antenne-reunion/plus-belle-la-vie-encore-plus-belle-saison-2",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 10:45:00+00",
+      "endTime": "2026-04-20 11:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "28a777e0-c522-4c16-8935-6adace3d08fd",
+      "title": "Plus belle la vie, encore plus belle - Saison 3",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-3",
+      "programUrl": "/programme/tf1/plus-belle-la-vie-encore-plus-belle-saison-3",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-20 12:00:00+00",
+      "endTime": "2026-04-20 12:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8c08ab29-b224-4013-bca0-bdb7d4855609",
+      "title": "Plus belle la vie, encore plus belle",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle",
+      "programUrl": "/programme/canal-series/plus-belle-la-vie-encore-plus-belle",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-20 12:00:00+00",
+      "endTime": "2026-04-20 12:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "116b6a0d-c3e7-4548-8bfb-8a83a8cae19d",
+      "title": "Plus belle la vie, encore plus belle",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle",
+      "programUrl": "/programme/tf1-1/plus-belle-la-vie-encore-plus-belle",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-20 13:00:00+00",
+      "endTime": "2026-04-20 13:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "cad89137-70eb-47d2-a634-facbae483ed4",
+      "title": "Plus belle la vie, encore plus belle - Saison 3",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-3",
+      "programUrl": "/programme/tf1-series-films/plus-belle-la-vie-encore-plus-belle-saison-3",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-20 18:05:00+00",
+      "endTime": "2026-04-20 18:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4ff55088-8759-4e1e-9885-6f6745a272cb",
+      "title": "Plus belle la vie, encore plus belle - Saison 3",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-3",
+      "programUrl": "/programme/tf1-series-films/plus-belle-la-vie-encore-plus-belle-saison-3",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-20 18:35:00+00",
+      "endTime": "2026-04-20 19:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c0b75eca-78e4-4c6f-94f1-3ac85012499c",
+      "title": "Plus belle la vie, encore plus belle - Saison 3",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-3",
+      "programUrl": "/programme/rts-un/plus-belle-la-vie-encore-plus-belle-saison-3",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-21 09:45:00+00",
+      "endTime": "2026-04-21 10:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "44f2bfc3-ccb0-49fe-a2b9-b43f4f61a63e",
+      "title": "Plus belle la vie, encore plus belle - Saison 3",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-3",
+      "programUrl": "/programme/tf1/plus-belle-la-vie-encore-plus-belle-saison-3",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-21 12:00:00+00",
+      "endTime": "2026-04-21 12:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "71150bdb-ea51-4c91-965a-7045502ddb11",
+      "title": "Plus belle la vie, encore plus belle",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle",
+      "programUrl": "/programme/canal-series/plus-belle-la-vie-encore-plus-belle",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-21 12:00:00+00",
+      "endTime": "2026-04-21 12:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d868b861-c2bb-4bff-a786-287df0a41c46",
+      "title": "Plus belle la vie, encore plus belle",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle",
+      "programUrl": "/programme/tf1-1/plus-belle-la-vie-encore-plus-belle",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-21 13:00:00+00",
+      "endTime": "2026-04-21 13:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "78516257-1f59-4c49-ae30-ecdc591a53d9",
+      "title": "Plus belle la vie, encore plus belle - Saison 3",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-3",
+      "programUrl": "/programme/tf1-series-films/plus-belle-la-vie-encore-plus-belle-saison-3",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-21 18:05:00+00",
+      "endTime": "2026-04-21 18:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "24b556b2-a34f-4acc-a2a2-8a0e9373d104",
+      "title": "Plus belle la vie, encore plus belle - Saison 3",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-3",
+      "programUrl": "/programme/tf1-series-films/plus-belle-la-vie-encore-plus-belle-saison-3",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-21 18:35:00+00",
+      "endTime": "2026-04-21 19:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b8e74003-24d7-4e1e-9b73-50616b6d376e",
+      "title": "Plus belle la vie, encore plus belle - Saison 3",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-3",
+      "programUrl": "/programme/rts-un/plus-belle-la-vie-encore-plus-belle-saison-3",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-22 09:45:00+00",
+      "endTime": "2026-04-22 10:10:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "43630a7f-1bac-4ccc-a032-850623e7d69d",
+      "title": "Plus belle la vie, encore plus belle - Saison 3",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-3",
+      "programUrl": "/programme/tf1/plus-belle-la-vie-encore-plus-belle-saison-3",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 12:00:00+00",
+      "endTime": "2026-04-22 12:25:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "3a631b68-4bf2-4507-a8ce-9cc0cbf23564",
+      "title": "Plus belle la vie, encore plus belle",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle",
+      "programUrl": "/programme/canal-series/plus-belle-la-vie-encore-plus-belle",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 12:00:00+00",
+      "endTime": "2026-04-22 12:25:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f455a1cb-1da1-4537-8b1b-e76fec370143",
+      "title": "Plus belle la vie, encore plus belle",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle",
+      "programUrl": "/programme/tf1-1/plus-belle-la-vie-encore-plus-belle",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-22 13:00:00+00",
+      "endTime": "2026-04-22 13:25:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f3d9c572-f986-4023-b3dd-e70cc1735ed7",
+      "title": "Plus belle la vie, encore plus belle - Saison 3",
+      "programSlug": "plus-belle-la-vie-encore-plus-belle-saison-3",
+      "programUrl": "/programme/tf1-series-films/plus-belle-la-vie-encore-plus-belle-saison-3",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-22 18:05:00+00",
+      "endTime": "2026-04-22 18:35:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:08:24.345Z",
+  "startYear": 2024,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 09:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

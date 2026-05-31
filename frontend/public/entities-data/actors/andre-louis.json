@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "andre-louis",
+  "name": "André Louis",
+  "worksCount": 1,
+  "description": "écrivain français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1922-02-06",
+  "nationality": "France",
+  "jobTitle": "écrivain ou écrivaine",
+  "externalIds": {
+    "wikidata": "Q2848186",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Andr%C3%A9_Louis",
+    "imdb": null,
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-corniaud",
+      "title": "Le corniaud"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2a0af9de-410d-4954-8056-47c42d1bee64",
+      "title": "Le corniaud",
+      "programSlug": "le-corniaud",
+      "programUrl": "/programme/cine-family/le-corniaud",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-19 15:42:00+00",
+      "endTime": "2026-04-19 17:30:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 15:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

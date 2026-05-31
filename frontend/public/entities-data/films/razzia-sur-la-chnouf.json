@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "razzia-sur-la-chnouf",
+  "title": "Razzia sur la chnouf",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Razzia sur la chnouf"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film noir"
+  ],
+  "description": "Henri Ferré, dit Le Nantais, est envoyé à Paris par un chef de la pègre américaine, pour aider Paul Liski, un truand français, à reprendre le contrôle d'un important trafic de drogue. En réalité, sous l'imperméable du Nantais se dissimule une taupe de la police dont la mission est d'infiltrer le milieu...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "arte",
+      "channelName": "Arte",
+      "channelSlug": "arte",
+      "channelNumber": 7,
+      "logoUrl": "/loghi/arte.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1955,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q23842",
+      "slug": "jean-gabin",
+      "name": "Jean Gabin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1893008",
+      "slug": "marcel-dalio",
+      "name": "Marcel Dalio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q337260",
+      "slug": "lino-ventura",
+      "name": "Lino Ventura",
+      "role": "actor"
+    },
+    {
+      "qid": "Q266190",
+      "slug": "magali-noel",
+      "name": "Magali Noël",
+      "role": "actor"
+    },
+    {
+      "qid": "Q277980",
+      "slug": "paul-frankeur",
+      "name": "Paul Frankeur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232879",
+      "slug": "lila-kedrova",
+      "name": "Lila Kedrova",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2831527",
+      "slug": "albert-remy",
+      "name": "Albert Rémy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848802",
+      "slug": "andre-weber",
+      "name": "André Weber",
+      "role": "actor"
+    },
+    {
+      "qid": "Q766709",
+      "slug": "auguste-le-breton",
+      "name": "Auguste Le Breton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3579848",
+      "slug": "edouard-francomme",
+      "name": "Édouard Francomme",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3085009",
+      "slug": "francois-joux",
+      "name": "François Joux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3085517",
+      "slug": "francois-patrice",
+      "name": "François Patrice",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1451292",
+      "slug": "francoise-spira",
+      "name": "Françoise Spira",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3093765",
+      "slug": "gabriel-gobin",
+      "name": "Gabriel Gobin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3102585",
+      "slug": "georges-demas",
+      "name": "Georges Demas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3107815",
+      "slug": "gisele-grandpre",
+      "name": "Gisèle Grandpré",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q679016",
+    "slug": "henri-decoin",
+    "name": "Henri Decoin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

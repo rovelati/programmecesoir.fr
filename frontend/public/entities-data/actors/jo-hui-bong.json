@@ -1,0 +1,185 @@
+{
+  "type": "actor",
+  "slug": "jo-hui-bong",
+  "name": "Jo Hui-bong",
+  "worksCount": 2,
+  "description": "acteur sud-coréen",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-08-23",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q12617187",
+    "wikipedia": null,
+    "imdb": "nm1559465",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "good-doctor",
+      "title": "Good Doctor"
+    },
+    {
+      "type": "series",
+      "slug": "tunnel",
+      "title": "Tunnel"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8af0ac54-01ae-4d2f-a385-cea8d9543d5e",
+      "title": "Tunnel",
+      "programSlug": "tunnel",
+      "programUrl": "/programme/gongmax/tunnel",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-20 00:50:00+00",
+      "endTime": "2026-04-20 02:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fbbf694e-1727-44de-a1ba-8fdbfa98ce2e",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-20 07:02:00+00",
+      "endTime": "2026-04-20 07:49:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bd4e44d9-4022-4225-bcec-c5af68fc1c27",
+      "title": "Tunnel",
+      "programSlug": "tunnel",
+      "programUrl": "/programme/gongmax/tunnel",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-20 15:45:00+00",
+      "endTime": "2026-04-20 16:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "cd681e75-c7ea-4fe5-97fc-d6a4aa7f3d38",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-20 16:38:00+00",
+      "endTime": "2026-04-20 17:26:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f54d0de5-e683-48cc-b04d-01992590c765",
+      "title": "Tunnel",
+      "programSlug": "tunnel",
+      "programUrl": "/programme/gongmax/tunnel",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-21 00:55:00+00",
+      "endTime": "2026-04-21 02:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "067ad2ef-75dd-4877-a44d-c9b683e1dc15",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 07:00:00+00",
+      "endTime": "2026-04-21 07:46:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "66a59df4-2495-4145-a225-f6737f10f374",
+      "title": "Tunnel",
+      "programSlug": "tunnel",
+      "programUrl": "/programme/gongmax/tunnel",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-21 16:00:00+00",
+      "endTime": "2026-04-21 17:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d7d4972b-108b-4e46-9925-7a05cc4b4e80",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 16:28:00+00",
+      "endTime": "2026-04-21 17:14:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6e4c3852-ebfe-4244-9869-be040ce14964",
+      "title": "Tunnel",
+      "programSlug": "tunnel",
+      "programUrl": "/programme/gongmax/tunnel",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-22 00:55:00+00",
+      "endTime": "2026-04-22 02:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7aad87bd-803e-4aa5-a827-5c669c96d680",
+      "title": "Good Doctor",
+      "programSlug": "good-doctor",
+      "programUrl": "/programme/tipik/good-doctor",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-22 07:02:00+00",
+      "endTime": "2026-04-22 07:51:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "3e295d68-0896-4501-9552-bc599905295b",
+      "title": "Tunnel",
+      "programSlug": "tunnel",
+      "programUrl": "/programme/gongmax/tunnel",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-22 15:55:00+00",
+      "endTime": "2026-04-22 17:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e2587ade-de17-4fb9-af34-30832c88c1fa",
+      "title": "Tunnel",
+      "programSlug": "tunnel",
+      "programUrl": "/programme/gongmax/tunnel",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-23 00:55:00+00",
+      "endTime": "2026-04-23 02:10:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 00:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,130 @@
+{
+  "type": "film",
+  "slug": "30-jours-max",
+  "title": "30 jours max",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "30 jours max"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Rayane, jeune flic gaffeur et peureux, est la risée de son commissariat. Lors d'un rendez-vous médical, on lui affirme, à tort, qu'il ne lui reste plus que 30 jours à vivre. Il réalise que c'est le moment ou jamais de faire ses preuves auprès de ses collègues et surtout de multiplier les exploits afin de séduire Stéphanie qui travaille avec lui. Il en a l'occasion quand il se met sur la piste d'un gros caïd de la drogue. Même si Rayane est de bonne volonté et prend des risques, il reste toujours aussi maladroit. D'autant que le criminel s'avère redoutable...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tipik.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q17175096",
+      "slug": "tarek-boudali",
+      "name": "Tarek Boudali",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380121",
+      "slug": "philippe-lacheau",
+      "name": "Philippe Lacheau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28105126",
+      "slug": "julien-arruti",
+      "name": "Julien Arruti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3554532",
+      "slug": "vanessa-guide",
+      "name": "Vanessa Guide",
+      "role": "actor"
+    },
+    {
+      "qid": "Q778451",
+      "slug": "jose-garcia",
+      "name": "José Garcia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459676",
+      "slug": "marie-anne-chazel",
+      "name": "Marie-Anne Chazel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3340568",
+      "slug": "nicolas-marie",
+      "name": "Nicolas Marié",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3379789",
+      "slug": "philippe-duquesne",
+      "name": "Philippe Duquesne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2956296",
+      "slug": "chantal-ladesou",
+      "name": "Chantal Ladesou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q96181193",
+      "slug": "just-riadh",
+      "name": "Just Riadh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55129708",
+      "slug": "mcfly-et-carlito",
+      "name": "Mcfly et Carlito",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2061856",
+      "slug": "rim-k",
+      "name": "Rim'K",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1907",
+      "slug": "hugo-lloris",
+      "name": "Hugo Lloris",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q17175096",
+    "slug": "tarek-boudali",
+    "name": "Tarek Boudali",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

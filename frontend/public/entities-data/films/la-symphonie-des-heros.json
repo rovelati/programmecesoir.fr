@@ -1,0 +1,113 @@
+{
+  "type": "film",
+  "slug": "la-symphonie-des-heros",
+  "title": "La symphonie des héros",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La symphonie des héros"
+  ],
+  "genres": [
+    "drame",
+    "film et téléfilm de guerre"
+  ],
+  "description": "En Belgique, en 1944. Lionel Evans, célèbre chef d'orchestre américain, sillonne les routes avec ses 70 musiciens, donnant une série de concerts dans le cadre du Théâtre aux armées des Forces alliées. La musique est censée adoucir les moeurs, mais il ne faut pas trop compter sur ses vertus apaisantes en temps de guerre, dans une région encore secouée du spasme des combats. En évacuant une scène menacée par les bombardements, ils tombent dans une embuscade et sont faits prisonniers. Evans refuse de jouer pour le général allemand, un mélomane averti. Furieux, le nazi décide l'exécution sommaire de tous les musiciens...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1968,
+  "durationMinutes": 107,
+  "cast": [
+    {
+      "qid": "Q80739",
+      "slug": "charlton-heston",
+      "name": "Charlton Heston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q153018",
+      "slug": "maximilian-schell",
+      "name": "Maximilian Schell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q82786",
+      "slug": "leslie-nielsen",
+      "name": "Leslie Nielsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6377050",
+      "slug": "kathryn-hays",
+      "name": "Kathryn Hays",
+      "role": "actor"
+    },
+    {
+      "qid": "Q68057",
+      "slug": "anton-diffring",
+      "name": "Anton Diffring",
+      "role": "actor"
+    },
+    {
+      "qid": "Q75760",
+      "slug": "curt-lowens",
+      "name": "Curt Lowens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5158665",
+      "slug": "cyril-delevanti",
+      "name": "Cyril Delevanti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2656125",
+      "slug": "linden-chiles",
+      "name": "Linden Chiles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q439216",
+      "slug": "neva-patterson",
+      "name": "Neva Patterson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q369485",
+      "slug": "peter-masterson",
+      "name": "Peter Masterson",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1559143",
+    "slug": "ralph-nelson",
+    "name": "Ralph Nelson",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

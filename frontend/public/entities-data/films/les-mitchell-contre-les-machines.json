@@ -1,0 +1,53 @@
+{
+  "type": "film",
+  "slug": "les-mitchell-contre-les-machines",
+  "title": "Les Mitchell contre les machines",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les Mitchell contre les machines"
+  ],
+  "genres": [
+    "film apocalyptique",
+    "road movie",
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "Katie Mitchell est un brin accro à son téléphone portable. Son père, Rick, voit sa petite fille devenue grande s'éloigner de plus en plus. Pour renouer le lien, il décide d'emmener toute la famille vers l'université dans laquelle Katie va étudier. Linda, la maman, Aaron, le petit frère fantasque, Monchi le chien, Katie et Rick embarquent tous dans la voiture chargée à ras bord. Pendant ce temps, des robots ont décidé de prendre les contrôle des machines et ainsi des humains. La famille Mitchell compte bien les mettre hors d'état de nuire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "channelNumber": 18,
+      "logoUrl": "/loghi/gulli.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 113,
+  "cast": [],
+  "director": {
+    "qid": "Q104835180",
+    "slug": "michael-rianda",
+    "name": "Michael Rianda",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

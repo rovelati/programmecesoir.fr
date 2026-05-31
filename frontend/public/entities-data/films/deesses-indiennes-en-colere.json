@@ -1,0 +1,96 @@
+{
+  "type": "film",
+  "slug": "deesses-indiennes-en-colere",
+  "title": "Déesses indiennes en colère",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Déesses indiennes en colère"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "film LGBT",
+    "drame"
+  ],
+  "description": "En Inde, sept femmes de leur époque, actives, indépendantes et luttant pour leur liberté se réunissent à Goa durant huit jours dans la maison de l'une d'elle, Frieda. Ensemble, elles se racontent leur vie, leurs envies, leurs doutes et leurs relations amoureuses. Mais une nuit, après quelques jours d'amusement et de confessions, Frieda fait une déclaration importante à ses amies : elle a décidé de se marier. Une nouvelle qui alimente rapidement les réflexions et bouleverse les opinions...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 115,
+  "cast": [
+    {
+      "qid": "Q1396281",
+      "slug": "sandhya-mridul",
+      "name": "Sandhya Mridul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q863846",
+      "slug": "sarah-jane-dias",
+      "name": "Sarah-Jane Dias",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2861476",
+      "slug": "arjun-mathur",
+      "name": "Arjun Mathur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4682801",
+      "slug": "adil-hussain",
+      "name": "Adil Hussain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7683695",
+      "slug": "tannishtha-chatterjee",
+      "name": "Tannishtha Chatterjee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20744514",
+      "slug": "amrit-maghera",
+      "name": "Amrit Maghera",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21066998",
+      "slug": "rajshri-deshpande",
+      "name": "Rajshri Deshpande",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2030506",
+    "slug": "pan-nalin",
+    "name": "Pan Nalin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

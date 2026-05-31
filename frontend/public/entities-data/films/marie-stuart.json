@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "marie-stuart",
+  "title": "Marie Stuart",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Marie Stuart"
+  ],
+  "genres": [
+    "film muet",
+    "drame"
+  ],
+  "description": "A la mort de son premier mari, François II, roi de France, Marie Stuart regagne l'Ecosse pour monter sur le trône. Son indépendance d'esprit, sa religion et son refus de se marier provoquent la fureur de son frère James et de la Chambre des lords. Entourée d'ennemis, elle s'éprend de Bothwell, qui lui témoigne une amitié exigeante mais solide. Elle se résout néanmoins à épouser Darnley, le prétendant imposé par les lords. Celui-ci, cependant, est le jouet de conspirateurs. Contrainte à l'abdication, Marie s'enfuit avec son bébé et Bothwell. Bien mal lui en prend...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1908,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q2037315",
+    "slug": "albert-capellani",
+    "name": "Albert Capellani",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

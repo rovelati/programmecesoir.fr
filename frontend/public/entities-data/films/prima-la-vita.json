@@ -1,0 +1,134 @@
+{
+  "type": "film",
+  "slug": "prima-la-vita",
+  "title": "Prima la vita",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Prima la vita"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Un père et sa fille habitent le monde de l'enfance. Il lui parle avec respect et sérieux, comme à une grande personne, tout en l'entraînant dans des univers magiques débordants de vie et d'humanité. Il est le grand cinéaste de l'enfance et travaille sur Pinocchio. Un jour, la petite fille devient une jeune femme et l'enchantement disparaît. Elle comprend que la rupture avec l'enfance est inéluctable et a le sentiment qu'elle ne sera plus jamais à la hauteur de son père. Alors elle commence à lui mentir et se laisse aller, jusqu'au bord du gouffre. Le père ne fera pas semblant de ne pas voir. Il sera là pour elle, le temps qu'il faut...",
+  "descriptionAi": "Ce film dramatique dépeint avec tendresse la relation unique entre un père et sa fille, bercée par l’imaginaire de l’enfance. L’ambiance, à la fois poétique et mélancolique, explore la magie fragile des mondes inventés et la douloureuse transition vers l’âge adulte. L’intérêt réside dans ce portrait sensible d’un amour parental qui doit se réinventer face aux désillusions et aux mensonges, offrant une réflexion profonde sur les liens familiaux et la perte de l’innocence. Une histoire touchante sur la présence et le pardon, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67ea4023-944e-4375-bc3b-8c3de50b783e",
+      "title": "Prima la vita",
+      "programSlug": "prima-la-vita",
+      "programUrl": "/programme/canal-box-office/prima-la-vita",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 23:49:00+00",
+      "endTime": "2026-04-20 02:03:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5c8162ee-276c-4fa4-b839-13dc9acb693d",
+      "title": "Prima la vita",
+      "programSlug": "prima-la-vita",
+      "programUrl": "/programme/paramount-channel/prima-la-vita",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-21 07:15:00+00",
+      "endTime": "2026-04-21 09:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b653aad3-17dd-49a2-85df-7bd49a189b1a",
+      "title": "Prima la vita",
+      "programSlug": "prima-la-vita",
+      "programUrl": "/programme/canal-cinema/prima-la-vita",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-21 07:16:00+00",
+      "endTime": "2026-04-21 09:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8359f239-19d7-4f33-9df4-13c7845b95cd",
+      "title": "Prima la vita",
+      "programSlug": "prima-la-vita",
+      "programUrl": "/programme/paramount-channel/prima-la-vita",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 05:10:00+00",
+      "endTime": "2026-04-24 07:00:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "cbd4b245-88af-4751-9801-d03a1f06fa44",
+      "title": "Prima la vita",
+      "programSlug": "prima-la-vita",
+      "programUrl": "/programme/canal-cinema/prima-la-vita",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 05:11:00+00",
+      "endTime": "2026-04-24 07:01:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q129175092",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Prima_la_vita",
+    "imdb": "tt27952254",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:27:23.086Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q123267387",
+      "slug": "romana-maggiora-vergano",
+      "name": "Romana Maggiora Vergano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3738047",
+      "slug": "fabrizio-gifuni",
+      "name": "Fabrizio Gifuni",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q457170",
+    "slug": "francesca-comencini",
+    "name": "Francesca Comencini",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 23:49:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

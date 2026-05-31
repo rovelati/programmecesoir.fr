@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "john-bluthal",
+  "name": "John Bluthal",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Bluthal%2C%201993.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1929-08-12",
+  "nationality": "Deuxième République de Pologne",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1699357",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Bluthal",
+    "imdb": "nm0089944",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dark-city",
+      "title": "Dark City"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,80 @@
+{
+  "type": "series",
+  "slug": "the-responder",
+  "title": "The responder",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "The responder",
+    "The Responder - Saison 2"
+  ],
+  "genres": [
+    "enquête policière"
+  ],
+  "description": "Jodie demande à Chris de lui récupérer une caisse contenant de la drogue à la douane du port. Kate a réussi à avoir un travail à Londres mais elle choisit d'y renoncer pour que Tilly reste proche de son père. Mais Rachel et Chris se retrouvent menacés par un tueur qui les a filmés en train de fouiller illégalement un garage contenant de la drogue et une arme suspecte. Pendant ce temps, Marco reçoit un appel de Moira qui est condamnée à huit mois de prison. Il va devoir s'occuper de leur bébé.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canvas.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2022,
+  "numberOfSeasons": 2,
+  "cast": [
+    {
+      "qid": "Q309486",
+      "slug": "martin-freeman",
+      "name": "Martin Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4681846",
+      "slug": "adelayo-adedayo",
+      "name": "Adelayo Adedayo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1705156",
+      "slug": "warren-brown",
+      "name": "Warren Brown",
+      "role": "actor"
+    },
+    {
+      "qid": "Q73864",
+      "slug": "myanna-buring",
+      "name": "MyAnna Buring",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

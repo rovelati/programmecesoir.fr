@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "alan-rickman",
+  "name": "Alan Rickman",
+  "worksCount": 1,
+  "description": "acteur, réalisateur et metteur en scène britannique (1946-2016)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Rickman%20at%20BAM%20-17.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1946-02-21",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q106481",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alan_Rickman",
+    "imdb": "nm0000614",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-jardins-du-roi",
+      "title": "Les jardins du roi"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

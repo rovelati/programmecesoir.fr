@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "radha-ravi",
+  "name": "Radha Ravi",
+  "worksCount": 1,
+  "description": "acteur indien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Radha%20Ravi%20at%20Jil%20Jung%20Juk%20Press%20Meet.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1952-07-29",
+  "nationality": "Inde",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q7280194",
+    "wikipedia": "https://en.wikipedia.org/wiki/Radha_Ravi",
+    "imdb": "nm1099597",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dernier-round",
+      "title": "Dernier round"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "83948c6a-3992-4634-b40a-6ccf4bf95ac2",
+      "title": "Dernier round",
+      "programSlug": "dernier-round",
+      "programUrl": "/programme/eurochannel/dernier-round",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-24 05:40:00+00",
+      "endTime": "2026-04-24 07:20:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 05:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "la-mort-est-dans-le-pre",
+  "title": "La mort est dans le pré",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La mort est dans le pré"
+  ],
+  "genres": [
+    "Téléfilm",
+    "Telefilms"
+  ],
+  "description": "Dans une entreprise spécialisée dans l'abattage et le conditionnement de viande de la région de Manosque, le corps d'un homme est découvert, une étiquette au cou posant la question \"Peuvent-ils souffrir\" ? Les premiers soupçons se portent sur une association de défense de la condition animale, qui menait des actions contre cette entreprise. Samira Masson, chargée de l'enquête, apprend que la victime est un policier appartenant à un service de surveillance vétérinaire, qui était infiltré dans l'établissement. Un commandant de l'IGPN, Etienne Barjac, vient alors assister Samira dans son enquête.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teva.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

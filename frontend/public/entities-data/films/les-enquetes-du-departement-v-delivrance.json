@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "les-enquetes-du-departement-v-delivrance",
+  "title": "Les enquêtes du département V : délivrance",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les enquêtes du département V : délivrance",
+    "Les enquêtes du département V : Délivrance"
+  ],
+  "genres": [
+    "thriller",
+    "adaptation d'un roman au cinéma",
+    "film ou téléfilm criminel",
+    "drame"
+  ],
+  "description": "Un message est retrouvé dans une bouteille échouée sur les côtes du Jutland. La bouteille, manifestement très ancienne, a dû traverser les océans pour arriver jusque-là. Mais le message semble, lui, indéchiffrable. C'est alors que le département V, spécialisé dans les affaires non résolues, se voit soumettre le problème. Grâce à leur mode de pensée tout à fait particulier, Morck et Assad trouvent une nouvelle approche et mettent ainsi le doigt sur une affaire absolument terrifiante...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 112,
+  "cast": [
+    {
+      "qid": "Q383754",
+      "slug": "nikolaj-lie-kaas",
+      "name": "Nikolaj Lie Kaas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q706673",
+      "slug": "fares-fares",
+      "name": "Fares Fares",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18145315",
+      "slug": "johanne-louise-schmidt",
+      "name": "Johanne Louise Schmidt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11977902",
+      "slug": "jakob-oftebro",
+      "name": "Jakob Oftebro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12303109",
+      "slug": "benjamin-kitter",
+      "name": "Benjamin Kitter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12308752",
+      "slug": "divya-das",
+      "name": "Divya Das",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12320092",
+      "slug": "johannes-lassen",
+      "name": "Johannes Lassen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12324918",
+      "slug": "lotte-andersen",
+      "name": "Lotte Andersen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12326003",
+      "slug": "maria-rossing",
+      "name": "Maria Rossing",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12326893",
+      "slug": "michael-brostrup",
+      "name": "Michael Brostrup",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12327695",
+      "slug": "morten-kirkskov",
+      "name": "Morten Kirkskov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12328938",
+      "slug": "niels-weyde",
+      "name": "Niels Weyde",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12331152",
+      "slug": "peder-holm-johansen",
+      "name": "Peder Holm Johansen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12335232",
+      "slug": "signe-a-mannov",
+      "name": "Signe A. Mannov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2013068",
+      "slug": "pal-sverre-valheim-hagen",
+      "name": "Pål Sverre Valheim Hagen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2033737",
+      "slug": "s-ren-pilmark",
+      "name": "Søren Pilmark",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1581762",
+    "slug": "hans-petter-moland",
+    "name": "Hans Petter Moland",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

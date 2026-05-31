@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "edith-scob",
+  "name": "Édith Scob",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edith%20Scob%20Cannes%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1937-10-21",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q273803",
+    "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89dith_Scob",
+    "imdb": "nm0778568",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "une-famille-a-louer",
+      "title": "Une famille à louer"
+    },
+    {
+      "type": "film",
+      "slug": "bon-voyage",
+      "title": "Bon voyage"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3e3fc914-b24c-448e-b448-5eb0fec8a2cd",
+      "title": "Bon voyage",
+      "programSlug": "bon-voyage",
+      "programUrl": "/programme/eurochannel/bon-voyage",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 00:00:00+00",
+      "endTime": "2026-04-21 02:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "be216e82-4107-484f-beac-3a9347f288d6",
+      "title": "Une famille à louer",
+      "programSlug": "une-famille-a-louer",
+      "programUrl": "/programme/cine-emotion/une-famille-a-louer",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 20:27:00+00",
+      "endTime": "2026-04-25 22:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 00:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "marc-blucas",
+  "name": "Marc Blucas",
+  "worksCount": 1,
+  "description": "acteur et producteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Blucas%20jane%20austen%20book%20club.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-01-11",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q382295",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marc_Blucas",
+    "imdb": "nm0089456",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "buffy-contre-les-vampires",
+      "title": "Buffy contre les vampires"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "df2b4a23-2285-4c22-860f-10927857d017",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 06:30:00+00",
+      "endTime": "2026-04-20 07:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "18fff80d-3d38-4566-ae97-5ec5763550ee",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 07:20:00+00",
+      "endTime": "2026-04-20 08:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2f1cc687-ace8-405b-a498-0986cb4423ca",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 08:10:00+00",
+      "endTime": "2026-04-20 08:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a5176528-2c51-4c0b-bf3a-3ee82e434818",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 08:55:00+00",
+      "endTime": "2026-04-20 09:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0897d78f-a75b-44ef-80a4-b4eefaf4aa50",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 09:45:00+00",
+      "endTime": "2026-04-20 10:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "33ce2e1e-232a-4dee-97d8-107ccced5603",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 06:30:00+00",
+      "endTime": "2026-04-21 07:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "56597795-33c6-4210-9c1a-0af9b1bd185a",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 07:20:00+00",
+      "endTime": "2026-04-21 08:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b81177f0-a668-407e-a321-4c9ee58b1107",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 08:10:00+00",
+      "endTime": "2026-04-21 08:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "690357e7-a854-42d8-a0c6-56af790c91d7",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 08:55:00+00",
+      "endTime": "2026-04-21 09:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "766b0c64-1c8c-4656-8f5f-fc13d023c7e9",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-21 09:45:00+00",
+      "endTime": "2026-04-21 10:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "50534c97-1c84-4224-be5b-589a25a2ef94",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 07:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "81d3649d-77d3-4c43-8b66-6e3d432f5c8d",
+      "title": "Buffy contre les vampires - Saison 3",
+      "programSlug": "buffy-contre-les-vampires-saison-3",
+      "programUrl": "/programme/teva/buffy-contre-les-vampires-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-22 07:20:00+00",
+      "endTime": "2026-04-22 08:10:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 06:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "marcus-chong",
+  "name": "Marcus Chong",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-07-08",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q1236595",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marcus_Chong",
+    "imdb": "nm0159059",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "matrix",
+      "title": "Matrix"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e63f4115-4e5f-409b-8635-860651827547",
+      "title": "Matrix",
+      "programSlug": "matrix",
+      "programUrl": "/programme/canal-grand-ecran/matrix",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 07:19:00+00",
+      "endTime": "2026-04-20 09:30:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 07:19:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

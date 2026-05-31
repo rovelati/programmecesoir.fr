@@ -1,0 +1,155 @@
+{
+  "type": "film",
+  "slug": "tendresse",
+  "title": "Tendresse",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Tendresse"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "En 1910, aux Etats-Unis. Un couple d'émigrants d'origine norvégienne a fait souche sur la côte Ouest. Trois filles et un garçon sont nés. Tous habitent une vieille maison à San Francisco et joignent péniblement les deux bouts. Malgré tout, la vie sous le ciel californien reste supportable, pour ne pas dire relativement agréable. L'oncle Chris prodigue ses conseils à la famille, tandis que le propriétaire, un vieux gentleman très \"britannique\", lit des histoires, le soir, à la veillée...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Naples%20Players%201st%20Cast%20Photo%20I%20Remember%20Mama%20March%2020%2C%201953.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b8ea79a-899e-40bc-80c7-029d2b75ede3",
+      "title": "Tendresse",
+      "programSlug": "tendresse",
+      "programUrl": "/programme/tcm-cinema/tendresse",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-21 00:15:00+00",
+      "endTime": "2026-04-21 02:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2c43dcca-7a98-40e2-8792-88283258bd79",
+      "title": "Tendresse",
+      "programSlug": "tendresse",
+      "programUrl": "/programme/tcm-cinema/tendresse",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-26 02:15:00+00",
+      "endTime": "2026-04-26 04:25:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1948,
+  "durationMinutes": 135,
+  "cast": [
+    {
+      "qid": "Q230099",
+      "slug": "irene-dunne",
+      "name": "Irene Dunne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232421",
+      "slug": "barbara-bel-geddes",
+      "name": "Barbara Bel Geddes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q79044",
+      "slug": "oskar-homolka",
+      "name": "Oskar Homolka",
+      "role": "actor"
+    },
+    {
+      "qid": "Q527735",
+      "slug": "cedric-hardwicke",
+      "name": "Cedric Hardwicke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q113566",
+      "slug": "barbara-o-neil",
+      "name": "Barbara O'Neil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q973228",
+      "slug": "rudy-vallee",
+      "name": "Rudy Vallée",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457861",
+      "slug": "florence-bates",
+      "name": "Florence Bates",
+      "role": "actor"
+    },
+    {
+      "qid": "Q354038",
+      "slug": "philip-dorn",
+      "name": "Philip Dorn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q721957",
+      "slug": "edgar-bergen",
+      "name": "Edgar Bergen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q368794",
+      "slug": "ellen-corby",
+      "name": "Ellen Corby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3047626",
+      "slug": "edith-evanson",
+      "name": "Edith Evanson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3496795",
+      "slug": "stanley-andrews",
+      "name": "Stanley Andrews",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1273140",
+      "slug": "franklyn-farnum",
+      "name": "Franklyn Farnum",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51490",
+    "slug": "george-stevens",
+    "name": "George Stevens",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 00:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

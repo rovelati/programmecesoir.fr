@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "jacques-becker",
+  "name": "Jacques Becker",
+  "worksCount": 3,
+  "description": "réalisateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JacquesBecker-StudioHarcourt-1955.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1906-09-15",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q55381",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jacques_Becker",
+    "imdb": "nm0065442",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-aventures-d-arsene-lupin",
+      "title": "Les aventures d'Arsène Lupin"
+    },
+    {
+      "type": "film",
+      "slug": "dernier-atout",
+      "title": "Dernier atout"
+    },
+    {
+      "type": "series",
+      "slug": "partie-de-campagne",
+      "title": "Partie de campagne"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cee3b06d-399a-4c31-aa05-1ac72c9c78be",
+      "title": "Partie de campagne",
+      "programSlug": "partie-de-campagne",
+      "programUrl": "/programme/france-3-corse/partie-de-campagne",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 06:44:00+00",
+      "endTime": "2026-04-19 06:56:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "52430700-b42d-4bb3-8d16-c878be001c93",
+      "title": "Les aventures d'Arsène Lupin",
+      "programSlug": "les-aventures-d-arsene-lupin",
+      "programUrl": "/programme/tcm-cinema/les-aventures-d-arsene-lupin",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 05:20:00+00",
+      "endTime": "2026-04-23 07:00:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 06:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

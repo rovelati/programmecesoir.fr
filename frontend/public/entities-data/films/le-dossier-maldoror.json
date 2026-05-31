@@ -1,0 +1,65 @@
+{
+  "type": "film",
+  "slug": "le-dossier-maldoror",
+  "title": "Le dossier Maldoror",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Le dossier Maldoror",
+    "Le Dossier Maldoror"
+  ],
+  "genres": [
+    "Film",
+    "Cinema",
+    "Film policier"
+  ],
+  "description": "La Belgique, en 1995. La disparition inquiétante de deux petites filles bouleverse la population et déclenche une frénésie médiatique sans précédent. Jeune gendarme idéaliste, Paul Chartier participe à une opération secrète baptisée \"Maldoror\", mise en place pour organiser la surveillance d'un suspect récidiviste. Confronté à l'indifférence de sa hiérarchie et aux dysfonctionnements du système policier et judiciaire, il se lance seul dans une chasse à l'homme qui devient obsessionnelle. Pendants des années, Paul va traquer inlassablement le pédocriminel...",
+  "descriptionAi": "Ce film policier plonge dans l’atmosphère sombre et oppressante de la Belgique des années 1990, marquée par la disparition de deux enfants. Il suit le parcours obstiné d’un jeune gendarme, Paul Chartier, dont l’idéalisme se heurte aux lourdeurs d’un système défaillant. L’intérêt réside dans cette plongée glaçante au cœur d’une enquête qui devient une quête personnelle et obsessionnelle, explorant les limites de la justice et de l’engagement. Une immersion troublante dans une affaire criminelle réelle, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:49:14.743Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,104 @@
+{
+  "type": "film",
+  "slug": "de-mauvaise-foi",
+  "title": "De mauvaise foi",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "De mauvaise foi"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Réginald, un notaire vieille France, est dos au mur. En effet, l'homme doit impérativement sauver son château délabré, et en parallèle, il souhaite également à tout prix empêcher le mariage d'Athénaïs, sa fille, avec Eliott, un golden boy prétentieux. La fortune promise par une comtesse mourante à Arthur Chambourcy, un jeune artiste bohème, pourrait régler tous ses problèmes. A condition que ce potentiel futur héritier devienne un bon catholique, mais aussi et surtout qu'il tombe amoureux de la jolie fiancée...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e251df79-c6fe-414b-8224-e53abdc4b5a0",
+      "title": "De mauvaise foi",
+      "programSlug": "de-mauvaise-foi",
+      "programUrl": "/programme/canal-box-office/de-mauvaise-foi",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 12:46:00+00",
+      "endTime": "2026-04-23 14:18:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "e551c76d-cb81-42e4-ac89-07f72b521d28",
+      "title": "De mauvaise foi",
+      "programSlug": "de-mauvaise-foi",
+      "programUrl": "/programme/canal/de-mauvaise-foi",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-24 06:10:00+00",
+      "endTime": "2026-04-24 07:43:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "e0875754-0e49-479b-a9b9-70c6c3b9d8fe",
+      "title": "De mauvaise foi",
+      "programSlug": "de-mauvaise-foi",
+      "programUrl": "/programme/canal-cinema/de-mauvaise-foi",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-26 04:40:00+00",
+      "endTime": "2026-04-26 06:12:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "92af31c9-e414-4de1-91f7-5e58d3ca95cb",
+      "title": "De mauvaise foi",
+      "programSlug": "de-mauvaise-foi",
+      "programUrl": "/programme/paramount-channel/de-mauvaise-foi",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-26 04:40:00+00",
+      "endTime": "2026-04-26 06:15:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-23 12:46:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

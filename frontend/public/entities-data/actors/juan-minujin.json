@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "juan-minujin",
+  "name": "Juan Minujín",
+  "worksCount": 1,
+  "description": "acteur argentin",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Minuj%C3%ADn%20en%20la%20presentaci%C3%B3n%20de%20Eva%20y%20Lola%20en%202010.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-05-20",
+  "nationality": "Argentine",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q6300538",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Juan_Minuj%C3%ADn",
+    "imdb": "nm1375877",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "diversion",
+      "title": "Diversion"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b2f75e9-9ef5-4493-8888-98692afcdd02",
+      "title": "Diversion",
+      "programSlug": "diversion",
+      "programUrl": "/programme/warnertv/diversion",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-23 07:30:00+00",
+      "endTime": "2026-04-23 09:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 07:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

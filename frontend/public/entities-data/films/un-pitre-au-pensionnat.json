@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "un-pitre-au-pensionnat",
+  "title": "Un pitre au pensionnat",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Un pitre au pensionnat"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Wilbur Hoolick rêve de devenir un grand coiffeur et de voyager. Pour l'heure, il travaille comme assistant dans le salon d'un hôtel et ne gagne pas très bien sa vie. Il lui faut donc recourir à un subterfuge pour s'offrir un billet de train : il décide de se faire passer pour un garçon de 12 ans afin de bénéficier du demi-tarif. Son subterfuge fonctionne et le voilà lancé dans une longue aventure. Seule ombre au tableau : un truand est à sa poursuite car il est détenteur à son insu d'un bijou volé. Pour échapper au malfrat, Wilbur décide de se cacher dans un pensionnat de jeunes filles où travaille son ami Bob. Très vite, les pensionnaires s'attachent à lui...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1955,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q215359",
+      "slug": "dean-martin",
+      "name": "Dean Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294927",
+      "slug": "jerry-lewis",
+      "name": "Jerry Lewis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1383560",
+      "slug": "diana-lynn",
+      "name": "Diana Lynn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235632",
+      "slug": "nina-foch",
+      "name": "Nina Foch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q336877",
+      "slug": "raymond-burr",
+      "name": "Raymond Burr",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3083008",
+      "slug": "veda-ann-borg",
+      "name": "Veda Ann Borg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3317234",
+      "slug": "mitzi-mccall",
+      "name": "Mitzi McCall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1351410",
+      "slug": "tor-johnson",
+      "name": "Tor Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2552902",
+      "slug": "hans-conried",
+      "name": "Hans Conried",
+      "role": "actor"
+    },
+    {
+      "qid": "Q513849",
+      "slug": "bess-flowers",
+      "name": "Bess Flowers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3053163",
+      "slug": "emory-parnell",
+      "name": "Emory Parnell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1273140",
+      "slug": "franklyn-farnum",
+      "name": "Franklyn Farnum",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q95111",
+    "slug": "norman-taurog",
+    "name": "Norman Taurog",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

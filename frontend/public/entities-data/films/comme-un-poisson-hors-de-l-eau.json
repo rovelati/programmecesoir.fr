@@ -1,0 +1,112 @@
+{
+  "type": "film",
+  "slug": "comme-un-poisson-hors-de-l-eau",
+  "title": "Comme un poisson hors de l'eau",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Comme un poisson hors de l'eau"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Pour finir sa carrière sur un coup d'éclat, un malfrat du nom de BB pense avoir monté une arnaque en tous points parfaite. Melvin, un fanatique à la gâchette facile, est dans le coup, au même titre que la sulfureuse Myrtille, qui tient un hôtel à Cabourg. BB compte subtiliser le poisson exotique d'un caïd turc richissime pour le lui revendre sans vergogne par la suite. Il espère gagner ainsi un million de dollars. Comptant avec la méfiance légendaire du caïd, le trio charge Myrtille de l'amadouer et a recours aux services de Désiré, un vieux garçon naïf qui semble très anodin. Il devra tenir le rôle d'un éminent possesseur de poissons rarissimes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/gongfr.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1998,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q323686",
+      "slug": "andre-pousse",
+      "name": "André Pousse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q38554",
+      "slug": "dominique-pinon",
+      "name": "Dominique Pinon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q778451",
+      "slug": "jose-garcia",
+      "name": "José Garcia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q79152",
+      "slug": "michel-muller",
+      "name": "Michel Muller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q81819",
+      "slug": "monica-bellucci",
+      "name": "Monica Bellucci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2115400",
+      "slug": "philippe-haim",
+      "name": "Philippe Haïm",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317704",
+      "slug": "tcheky-karyo",
+      "name": "Tchéky Karyo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3164855",
+      "slug": "jean-claude-bouillon",
+      "name": "Jean-Claude Bouillon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082910",
+      "slug": "frankie-pain",
+      "name": "Frankie Pain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3229373",
+      "slug": "lemmy-constantine",
+      "name": "Lemmy Constantine",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3134514",
+    "slug": "herve-hadmar",
+    "name": "Hervé Hadmar",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

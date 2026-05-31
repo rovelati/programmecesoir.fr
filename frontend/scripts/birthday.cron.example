@@ -1,0 +1,4 @@
+# Every day at 06:00 Europe/Paris.
+# Replace /path/to/programmecesoir.fr/frontend with the real checkout path on the server.
+CRON_TZ=Europe/Paris
+0 6 * * * BASE_DIR=/path/to/programmecesoir.fr/frontend /path/to/programmecesoir.fr/frontend/scripts/run_birthday_generation.sh >> /path/to/programmecesoir.fr/frontend/logs/birthday_articles.log 2>&1

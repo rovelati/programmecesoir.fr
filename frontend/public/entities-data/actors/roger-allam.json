@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "roger-allam",
+  "name": "Roger Allam",
+  "worksCount": 2,
+  "description": "acteur anglais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Allam%20La%20Cage%20120909%20DSCF1622.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-10-26",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q2424994",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Roger_Allam",
+    "imdb": "nm0019885",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "tamara-drewe",
+      "title": "Tamara Drewe"
+    },
+    {
+      "type": "series",
+      "slug": "les-enquetes-de-morse",
+      "title": "Les enquêtes de Morse"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

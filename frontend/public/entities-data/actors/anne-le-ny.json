@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "anne-le-ny",
+  "name": "Anne Le Ny",
+  "worksCount": 2,
+  "description": "actrice, réalisatrice et scénariste française",
+  "descriptionAi": "Anne Le Ny est une actrice, réalisatrice et scénariste française, reconnue pour ses rôles dans des comédies dramatiques et des films intimistes. Son jeu naturel et sa présence discrète apportent une profondeur authentique à ses personnages, souvent ancrés dans le quotidien. L’ambiance de ses œuvres oscille entre tendresse, humour subtil et mélancolie, capturant avec justesse les nuances des relations humaines. Pour le téléspectateur, son talent polyvalent, à la fois devant et derrière la caméra, offre un regard sensible et fin sur des histoires touchantes et universelles. Une filmographie riche et attachante à découvrir à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Le%20Ny%20f%C3%AAte%20du%20cin%C3%A9ma%202019.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1969-12-31",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2851174",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anne_Le_Ny",
+    "imdb": "nm0494504",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "intouchables",
+      "title": "Intouchables"
+    },
+    {
+      "type": "film",
+      "slug": "mon-meilleur-ami",
+      "title": "Mon meilleur ami"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "09e748f9-347d-43a5-8185-6ad0da211e4a",
+      "title": "Intouchables",
+      "programSlug": "intouchables",
+      "programUrl": "/programme/rts-un/intouchables",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 19:05:00+00",
+      "endTime": "2026-04-19 21:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:39.384Z",
+  "nextAiringAt": "2026-04-19 19:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

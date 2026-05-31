@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "peter-sellers",
+  "name": "Peter Sellers",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Sellers%20Allan%20Warren.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1925-09-08",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q177984",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Peter_Sellers",
+    "imdb": "nm0000634",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "apres-moi-le-deluge",
+      "title": "Après moi le déluge"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

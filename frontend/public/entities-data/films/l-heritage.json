@@ -1,0 +1,76 @@
+{
+  "type": "film",
+  "slug": "l-heritage",
+  "title": "L'héritage",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'héritage"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Un ostréiculteur réputé du bassin d'Arcachon est victime d'une tentative d'assassinat. Ses trois filles se réunissent à son chevet. Handicapé par sa blessure, l'homme est à présent incapable de gérer l'exploitation familiale. Alors que l'aînée et la cadette souhaitent vendre, la benjamine Tessa s'y oppose et décide de reprendre l'affaire malgré son inexpérience. Déterminée à prouver sa valeur à ses soeurs, elle se lance dans son projet. Parallèlement, face à l'enquête qui piétine, les trois soeurs décident de mener leurs propres investigations. Elles ignorent que leurs découvertes pourraient mettre en péril l'unité familiale...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teva.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 75,
+  "cast": [
+    {
+      "qid": "Q129451",
+      "slug": "augustin-legrand",
+      "name": "Augustin Legrand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3367299",
+      "slug": "pascal-bongard",
+      "name": "Pascal Bongard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1394368",
+      "slug": "stanislas-merhar",
+      "name": "Stanislas Merhar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242526",
+      "slug": "sylvie-testud",
+      "name": "Sylvie Testud",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2369062",
+    "slug": "temur-babluani",
+    "name": "Temur Babluani",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "dangerous",
+  "title": "Dangerous",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Dangerous"
+  ],
+  "genres": [
+    "pop",
+    "rhythm and blues",
+    "new jack swing",
+    "hip-hop",
+    "gospel",
+    "rock",
+    "musique de danse"
+  ],
+  "description": "Dylan Forrester est un ancien détenu aux antécédents violents, actuellement en liberté conditionnelle. Il suit un traitement médicamenteux et consulte un psychiatre un peu excentrique. Un jour, Dylan apprend la mort de son frère, survenue dans des circonstances suspectes. Il décide d'enfreindre les conditions de sa libération conditionnelle, ce qui provoque la mobilisation du FBI, pour se rendre sur l'île où son parent était installé. Là, Dylan retrouve une partie de sa famille et comprend que son frère était à la recherche de quelque chose se trouvant sur l'île. Bientôt, une équipe de mercenaires débarque, venue elle aussi découvrir le secret de l'île...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "channelNumber": 17,
+      "logoUrl": "/loghi/cstar.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1991,
+  "durationMinutes": 4618,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

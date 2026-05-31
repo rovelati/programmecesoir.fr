@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "ann-dowd",
+  "name": "Ann Dowd",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ann%20Dowd%202016%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1956-01-30",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q2558129",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ann_Dowd",
+    "imdb": "nm0235652",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "the-handmaid-s-tale",
+      "title": "The handmaid's tale"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "77c112d9-ec35-4a35-a558-de93c6272bab",
+      "title": "The Handmaid's Tale - Saison 5",
+      "programSlug": "the-handmaid-s-tale-saison-5",
+      "programUrl": "/programme/rts-un/the-handmaid-s-tale-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 20:50:00+00",
+      "endTime": "2026-04-24 21:35:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "6e2446c3-4f9e-4ffa-97c9-eac523aecfc6",
+      "title": "The Handmaid's Tale - Saison 5",
+      "programSlug": "the-handmaid-s-tale-saison-5",
+      "programUrl": "/programme/rts-un/the-handmaid-s-tale-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 21:35:00+00",
+      "endTime": "2026-04-24 22:30:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 20:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

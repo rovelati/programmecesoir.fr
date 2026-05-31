@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "du-rififi-a-paname",
+  "title": "Du rififi à Paname",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Du rififi à Paname"
+  ],
+  "genres": [
+    "film ou téléfilm criminel"
+  ],
+  "description": "Paulo les Diams et son ami Walter ont mis au point un fructueux trafic d'or, organisé autour de Paris, Munich et Tokyo. Avec l'aide d'Irène, une de ses maîtresses, Paulo utilise des passeurs sans casier judiciaire, limitant les risques. C'est ainsi qu'il recrute Jim Thompson, un journaliste américain désargenté. En réalité, Thompson s'appelle Mike Coppolano, et il est un agent de la CIA chargé de surveiller discrètement les agissements de Walter, également responsable d'un trafic d'armes en direction de Cuba. Une vague d'assassinats visant les associés de Paulo, disséminés dans le monde, se déclenche peu de temps après. Paulo lui-même manque d'y laisser la vie. Thompson le sauve in extremis...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paris-premiere.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1966,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q23842",
+      "slug": "jean-gabin",
+      "name": "Jean Gabin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q76943",
+      "slug": "gert-frobe",
+      "name": "Gert Fröbe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q288970",
+      "slug": "nadja-tiller",
+      "name": "Nadja Tiller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q268569",
+      "slug": "mireille-darc",
+      "name": "Mireille Darc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106544",
+      "slug": "claude-brasseur",
+      "name": "Claude Brasseur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1389313",
+      "slug": "marcel-bozzuffi",
+      "name": "Marcel Bozzuffi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436187",
+      "slug": "george-raft",
+      "name": "George Raft",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2829616",
+      "slug": "alain-bouvette",
+      "name": "Alain Bouvette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2641711",
+      "slug": "alexander-allerson",
+      "name": "Alexander Allerson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2850827",
+      "slug": "anne-marie-blot",
+      "name": "Anne-Marie Blot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q817356",
+      "slug": "benito-stefanelli",
+      "name": "Benito Stefanelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2939224",
+      "slug": "carlo-nell",
+      "name": "Carlo Nell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3010504",
+      "slug": "cesar-torres",
+      "name": "César Torrès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2419802",
+      "slug": "claude-cerval",
+      "name": "Claude Cerval",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1097999",
+      "slug": "claudio-brook",
+      "name": "Claudio Brook",
+      "role": "actor"
+    },
+    {
+      "qid": "Q663802",
+      "slug": "daniel-ceccaldi",
+      "name": "Daniel Ceccaldi",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1190057",
+    "slug": "denys-de-la-patelliere",
+    "name": "Denys de La Patellière",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

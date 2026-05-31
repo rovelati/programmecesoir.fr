@@ -1,0 +1,457 @@
+{
+  "type": "series",
+  "slug": "les-croods-pre-histoires-de-famille",
+  "title": "Les Croods (Pré)histoires de famille",
+  "airingsCount": 99,
+  "sourceTitles": [
+    "Les Croods (Pré)histoires de famille"
+  ],
+  "genres": [
+    "Série",
+    "Séries d'animation",
+    "Série TV"
+  ],
+  "description": "Deux familles très différentes unissent leurs forces pour créer une nouvelle communauté, une coopérative d'hommes des cavernes dans la ferme la plus étonnante de la préhistoire.",
+  "descriptionAi": "Cette série d'animation familiale nous plonge dans la préhistoire avec humour et cœur. Elle suit les Croods et les Bettermans, deux familles aux modes de vie radicalement opposés, qui doivent apprendre à cohabiter. L'ambiance est à la fois décalée, pleine d'aventures rocambolesques et touchante, explorant les thèmes de la différence et de l'entraide. Ce qui la rend captivante, c'est son mélange d'énergie farfelue et de messages chaleureux sur la construction d'une communauté, le tout servi par un animation dynamique et des personnages hauts en couleur. Une aventure préhistorique résolument moderne et fédératrice, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7cb700f9-221a-424e-ae22-eaccb443ec66",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-rhone-alpes/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fa0a2d28-748e-44d8-95da-64073064db6d",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "901d60ae-10f8-47ae-bd8c-cb51af6302a2",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-alpes/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "11847a3d-54c0-4c53-af82-de6f0f652495",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-alsace/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a8462fdd-d2ea-4fdf-bbb7-8e9458cc34d1",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-aquitaine/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cd6008aa-a114-42a5-871f-0f71d9de8144",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-auvergne/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e8754c02-bd21-4965-ad61-6f33062dc313",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-basse-normandie/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "70aa4d51-3765-4d83-a897-53c166989e43",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-bourgogne/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "97175971-e1ca-44e8-ac00-9f2277be3975",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-bretagne/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "605c130d-5369-4453-8150-3b1f167f19de",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-centre/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "800a2be3-9ba9-4618-9350-5741887ef95e",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-champagne-ardenne/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "74596281-f615-4a24-a79b-0aeeabac5981",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-cote-dazur/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1e0ca59a-303b-4453-a74f-44e66aacb0c8",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-franche-comte/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fd19a89f-c614-4d86-b4fd-b22f48d93b56",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-haute-normandie/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "074c0d78-8429-4c09-a3b3-1d30f8b7204e",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-languedoc/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "517456a9-d62c-4d75-958c-aa4f1a01b7b5",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-limousin/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "edf65ce0-ced0-40b8-aef3-39d2076d8cc8",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-lorraine/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "27b7d4c5-b5be-48d4-a0a7-39bd6a238e25",
+      "title": "Les Croods (Pré)histoires de famille",
+      "programSlug": "les-croods-pre-histoires-de-famille",
+      "programUrl": "/programme/france-3-midi-pyrenees/les-croods-pre-histoires-de-famille",
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T22:07:30.494Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 05:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

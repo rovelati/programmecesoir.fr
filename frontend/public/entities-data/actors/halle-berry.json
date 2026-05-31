@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "halle-berry",
+  "name": "Halle Berry",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Halle%20Berry%20by%20Gage%20Skidmore%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-08-14",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q1033016",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Halle_Berry",
+    "imdb": "nm0000932",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-famille-pierrafeu",
+      "title": "La famille Pierrafeu"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

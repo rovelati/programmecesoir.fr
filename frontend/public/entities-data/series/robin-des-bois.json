@@ -1,0 +1,326 @@
+{
+  "type": "series",
+  "slug": "robin-des-bois",
+  "title": "Robin des Bois",
+  "airingsCount": 28,
+  "sourceTitles": [
+    "Robin des Bois"
+  ],
+  "genres": [
+    "série télévisée dramatique",
+    "série télévisée d'aventures"
+  ],
+  "description": "Trévor, un vieil ami excentrique de Tuck rêve de voler comme les oiseaux, alors qu'il teste une énième fois sa machine volante, miracle ! celle-ci vole un instant, à la stupéfaction de Robin et sa bande mais mis au courant par le shérif, le prince Jean fait arrêter Trévor et tente de mettre la main sur la machine volante, mise en lieu sûr par Robin.\n\nRéalisateur(s) : Sandra Derval",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-j.png",
+      "airingsCount": 14
+    },
+    {
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "channelNumber": null,
+      "logoUrl": "/loghi/game-one.png",
+      "airingsCount": 14
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0fefd245-4de3-4642-bb21-7938b45ba09b",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:05:00+00",
+      "endTime": "2026-04-25 04:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f2d733cd-4e88-4e57-bb65-733405d812e3",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 04:05:00+00",
+      "endTime": "2026-04-25 04:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "b11f0455-a1c3-4734-a476-fe786ff73f4b",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:15:00+00",
+      "endTime": "2026-04-25 04:25:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "300d7d5e-421c-41a1-aa04-3791b926994b",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 04:15:00+00",
+      "endTime": "2026-04-25 04:25:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "cb1f9083-2663-40a0-aca8-7cbac30e1b3d",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:25:00+00",
+      "endTime": "2026-04-25 04:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "10d0a414-82ec-4de6-91e2-d151fc9300c6",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 04:25:00+00",
+      "endTime": "2026-04-25 04:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "fcc14b67-8925-4dcf-b7ac-dbe9ae06850d",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:40:00+00",
+      "endTime": "2026-04-25 04:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "5893b92b-fda9-4d1f-9b2f-d23d48d6b533",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 04:40:00+00",
+      "endTime": "2026-04-25 04:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "56631ad3-4c6c-489f-ae9b-903fc236eb5f",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:50:00+00",
+      "endTime": "2026-04-25 05:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "a872b275-e79e-47bf-bf1a-8619ffeadbc8",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 04:50:00+00",
+      "endTime": "2026-04-25 05:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "a8566b44-2114-4dd7-a21e-b67ae6bbb51b",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-26 04:05:00+00",
+      "endTime": "2026-04-26 04:15:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "f579253f-f16b-4830-8608-bc495d318a9d",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-26 04:05:00+00",
+      "endTime": "2026-04-26 04:15:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "3cc4b51c-82f2-4c5d-b81f-d9f1cd341561",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-26 04:15:00+00",
+      "endTime": "2026-04-26 04:25:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "76464bf6-07ec-409f-89ec-021ccae5ad48",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-26 04:15:00+00",
+      "endTime": "2026-04-26 04:25:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2006,
+  "numberOfSeasons": 3,
+  "cast": [
+    {
+      "qid": "Q40132",
+      "slug": "jonas-armstrong",
+      "name": "Jonas Armstrong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40002",
+      "slug": "lucy-griffiths",
+      "name": "Lucy Griffiths",
+      "role": "actor"
+    },
+    {
+      "qid": "Q181806",
+      "slug": "richard-armitage",
+      "name": "Richard Armitage",
+      "role": "actor"
+    },
+    {
+      "qid": "Q725519",
+      "slug": "keith-allen",
+      "name": "Keith Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q465849",
+      "slug": "gordon-kennedy",
+      "name": "Gordon Kennedy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3041680",
+      "slug": "sam-troughton",
+      "name": "Sam Troughton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2878916",
+      "slug": "joe-armstrong",
+      "name": "Joe Armstrong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q380178",
+      "slug": "harry-lloyd",
+      "name": "Harry Lloyd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3018042",
+      "slug": "david-harewood",
+      "name": "David Harewood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8005289",
+      "slug": "william-beck",
+      "name": "William Beck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2850229",
+      "slug": "anjali-jay",
+      "name": "Anjali Jay",
+      "role": "actor"
+    },
+    {
+      "qid": "Q263691",
+      "slug": "lara-pulver",
+      "name": "Lara Pulver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1567773",
+      "slug": "clive-standen",
+      "name": "Clive Standen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q143223",
+      "slug": "joanne-froggatt",
+      "name": "Joanne Froggatt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40103",
+      "slug": "toby-stephens",
+      "name": "Toby Stephens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6830117",
+      "slug": "michael-elwyn",
+      "name": "Michael Elwyn",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q3034863",
+    "slug": "dominic-minghella",
+    "name": "Dominic Minghella",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-25 04:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

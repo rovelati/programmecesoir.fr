@@ -1,0 +1,118 @@
+{
+  "type": "film",
+  "slug": "ballerino",
+  "title": "Ballerino",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Ballerino"
+  ],
+  "genres": [
+    "film muet"
+  ],
+  "description": "Plongée dans les cours de danse, avec une belle bande de jeunes danseurs, bien excités, qui vont essayer de réaliser le meilleur spectacle de leur vie.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "manx",
+      "channelName": "ManX",
+      "channelSlug": "manx",
+      "channelNumber": null,
+      "logoUrl": "/loghi/manx.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1928,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q95962",
+      "slug": "fritz-alberti",
+      "name": "Fritz Alberti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q530747",
+      "slug": "suzy-vernon",
+      "name": "Suzy Vernon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q99344",
+      "slug": "valerie-boothby",
+      "name": "Valerie Boothby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q64240",
+      "slug": "willy-fritsch",
+      "name": "Willy Fritsch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95984",
+      "slug": "carl-auen",
+      "name": "Carl Auen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4965472",
+      "slug": "margit-manstad",
+      "name": "Margit Manstad",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106127",
+      "slug": "albert-paulig",
+      "name": "Albert Paulig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q709168",
+      "slug": "arthur-duarte",
+      "name": "Arthur Duarte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1512349",
+      "slug": "gerhard-ritterband",
+      "name": "Gerhard Ritterband",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1333704",
+      "slug": "else-reval",
+      "name": "Else Reval",
+      "role": "actor"
+    },
+    {
+      "qid": "Q451945",
+      "slug": "ita-rina",
+      "name": "Ita Rina",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q99558",
+    "slug": "johannes-guter",
+    "name": "Johannes Guter",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

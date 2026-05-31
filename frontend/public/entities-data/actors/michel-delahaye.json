@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "michel-delahaye",
+  "name": "Michel Delahaye",
+  "worksCount": 1,
+  "description": "comédien, réalisateur, critique cinématographique",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1929-09-21",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3309416",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michel_Delahaye",
+    "imdb": "nm0216155",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "alphaville-une-etrange-aventure-de-lemmy-caution",
+      "title": "Alphaville, une étrange aventure de Lemmy Caution"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ed1aa73f-86ac-4c9a-8db4-d2bb879db9dc",
+      "title": "Alphaville, une étrange aventure de Lemmy Caution",
+      "programSlug": "alphaville-une-etrange-aventure-de-lemmy-caution",
+      "programUrl": "/programme/cine-classic/alphaville-une-etrange-aventure-de-lemmy-caution",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 00:52:00+00",
+      "endTime": "2026-04-24 02:28:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 00:52:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

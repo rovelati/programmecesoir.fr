@@ -1,0 +1,224 @@
+{
+  "type": "series",
+  "slug": "trotro",
+  "title": "Trotro",
+  "airingsCount": 20,
+  "sourceTitles": [
+    "Trotro"
+  ],
+  "genres": [
+    "série télévisée comique",
+    "film ou téléfilm pour enfants"
+  ],
+  "description": "Trotro est un petit âne gris au caractère espiègle et à l'enthousiasme débordant. Toujours prêt à voir le bon côté des choses, Trotro explore le monde qui l'entoure avec curiosité et joie. Dans ses aventures quotidiennes, il est souvent accompagné de son amie Lili, une petite fille pleine de vie avec qui il partage de nombreux jeux et rires. Ensemble, ils s'impliquent dans des activités ludiques et apprennent des leçons précieuses sur l'amitié, la créativité et la découverte de soi. Trotro, bien qu'il soit plein de bonnes intentions, aspire également à attirer l'attention de Nana, une petite éléphante, ce qui le pousse à vivre des situations cocasses et émouvantes. À travers ses petites mésaventures, Trotro démontre que chaque jour est une nouvelle occasion d'apprendre et de grandir, tout en mettant en avant les valeurs de la camaraderie et de l'imagination, essentielles dans l'enfance.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trotro%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/piwi.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-corse.png",
+      "airingsCount": 9
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "101deb44-4d04-4a7f-b07f-209d2c2fa9eb",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/france-3-corse/trotro",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 07:30:00+00",
+      "endTime": "2026-04-19 07:34:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5acf5613-9c28-4f93-a456-6c5ffb1bdd9c",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/france-3-corse/trotro",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 07:34:00+00",
+      "endTime": "2026-04-19 07:37:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b81e3ac7-7e05-4f10-94a2-5f305a7d9614",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/france-3-corse/trotro",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 07:37:00+00",
+      "endTime": "2026-04-19 07:48:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6cac269a-5b97-49a8-ba86-3bbf475d8d25",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/piwi/trotro",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-21 04:30:00+00",
+      "endTime": "2026-04-21 04:33:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "bf783199-4014-4cf1-9739-5c5c7ef4339f",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/piwi/trotro",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-21 04:33:00+00",
+      "endTime": "2026-04-21 04:37:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e5ca8a68-097a-4285-9435-a6cea2e883df",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/piwi/trotro",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-22 04:37:00+00",
+      "endTime": "2026-04-22 04:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ffdfce5d-a164-4867-a7c9-baf1acda32c0",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/piwi/trotro",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-23 04:30:00+00",
+      "endTime": "2026-04-23 04:33:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "682456c6-77a3-4d55-a78f-51bf0ced2590",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/piwi/trotro",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-23 04:37:00+00",
+      "endTime": "2026-04-23 04:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "43ba27fb-b4f5-4b7b-a078-471a3f144d99",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/piwi/trotro",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-24 04:30:00+00",
+      "endTime": "2026-04-24 04:33:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "9e5dfbbb-f320-44bf-bc90-2b31d011cae2",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/piwi/trotro",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-24 04:37:00+00",
+      "endTime": "2026-04-24 04:45:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "040fbec7-e003-4889-84ce-e102314ec909",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/piwi/trotro",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-25 04:30:00+00",
+      "endTime": "2026-04-25 04:33:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "61426591-afcf-4cb1-aaa0-f22c2c156cc3",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/piwi/trotro",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-25 04:37:00+00",
+      "endTime": "2026-04-25 04:45:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "33e3f805-3252-4dbb-88ec-e53b74993027",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/piwi/trotro",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-26 04:30:00+00",
+      "endTime": "2026-04-26 04:33:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "355b008d-1fbe-442b-afdd-b4f9d725b0c0",
+      "title": "Trotro",
+      "programSlug": "trotro",
+      "programUrl": "/programme/piwi/trotro",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-26 04:33:00+00",
+      "endTime": "2026-04-26 04:37:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2004,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 07:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

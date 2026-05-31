@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "nanami-sakuraba",
+  "name": "Nanami Sakuraba",
+  "worksCount": 1,
+  "description": "actrice japonaise",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1992-10-17",
+  "nationality": "Japon",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1051891",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Nanami_Sakuraba",
+    "imdb": "nm3142576",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "attack-on-titan",
+      "title": "Attack on Titan"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42b52b7f-506d-45b7-acaf-0dfd022798c9",
+      "title": "Attack on Titan",
+      "programSlug": "attack-on-titan",
+      "programUrl": "/programme/mcm/attack-on-titan",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-22 20:35:00+00",
+      "endTime": "2026-04-22 22:10:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 20:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

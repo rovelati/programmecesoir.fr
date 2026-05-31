@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "elijah-wood",
+  "name": "Elijah Wood",
+  "worksCount": 3,
+  "description": "acteur et producteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elijah%20Wood%20(47955397556)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1981-01-28",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q483771",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Elijah_Wood",
+    "imdb": "nm0000704",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-seigneur-des-anneaux-le-retour-du-roi",
+      "title": "Le seigneur des anneaux : le retour du roi"
+    },
+    {
+      "type": "film",
+      "slug": "le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+      "title": "Le seigneur des anneaux : la communauté de l'anneau"
+    },
+    {
+      "type": "film",
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "title": "Eternal Sunshine of the Spotless Mind"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "be0a223e-e722-4842-b584-d36925a2beaa",
+      "title": "Le seigneur des anneaux : la communauté de l'anneau",
+      "programSlug": "le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+      "programUrl": "/programme/ocs/le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 08:38:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f0cdbad4-3041-4bec-b28c-8f9aac1db096",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "programSlug": "eternal-sunshine-of-the-spotless-mind",
+      "programUrl": "/programme/cine-emotion/eternal-sunshine-of-the-spotless-mind",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 13:29:00+00",
+      "endTime": "2026-04-20 15:16:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 08:38:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

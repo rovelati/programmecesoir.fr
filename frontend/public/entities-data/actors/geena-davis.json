@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "geena-davis",
+  "name": "Geena Davis",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Geena%20Davis%20at%2053rd%20Saturn%20Awards%202026-01.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1956-01-21",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q280098",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Geena_Davis",
+    "imdb": "nm0000133",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "thelma-et-louise",
+      "title": "Thelma et Louise"
+    },
+    {
+      "type": "film",
+      "slug": "l-ile-aux-pirates",
+      "title": "L'île aux pirates"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c2c24c59-8415-40a2-b866-57012fc6b083",
+      "title": "Thelma et Louise",
+      "programSlug": "thelma-et-louise",
+      "programUrl": "/programme/canal-grand-ecran/thelma-et-louise",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 05:33:00+00",
+      "endTime": "2026-04-23 07:38:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 05:33:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

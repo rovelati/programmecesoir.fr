@@ -1,0 +1,134 @@
+{
+  "type": "film",
+  "slug": "13-jours-13-nuits",
+  "title": "13 jours, 13 nuits",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "13 jours, 13 nuits"
+  ],
+  "genres": [
+    "film et téléfilm de guerre",
+    "film et téléfilm d'action",
+    "film ou téléfilm biographique",
+    "drame"
+  ],
+  "description": "Août 2021, à Kaboul. Pris au piège dans l'ambassade de France, un commandant afghan tente de négocier avec les talibans l'évacuation de milliers de réfugiés.",
+  "descriptionAi": "Ce film de guerre et d'action, également biographique, plonge le spectateur dans le drame intense de la chute de Kaboul en août 2021. L'ambiance est étouffante, marquée par l'urgence et le chaos, alors qu'un commandant afghan, piégé dans l'ambassade de France, négocie avec les talibans pour sauver des milliers de vies. L'intérêt réside dans ce portrait haletant d'un héros ordinaire confronté à une course contre la montre désespérée, un récit humain poignant au cœur d'un événement géopolitique majeur. Une tension palpable à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fd3c1ebe-4947-4462-ae45-e18203e85dab",
+      "title": "13 jours, 13 nuits",
+      "programSlug": "13-jours-13-nuits",
+      "programUrl": "/programme/canal-box-office/13-jours-13-nuits",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 09:11:00+00",
+      "endTime": "2026-04-25 11:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:23:00.653Z",
+  "year": 2025,
+  "durationMinutes": 112,
+  "cast": [
+    {
+      "qid": "Q391974",
+      "slug": "roschdy-zem",
+      "name": "Roschdy Zem",
+      "role": "actor"
+    },
+    {
+      "qid": "Q46801691",
+      "slug": "lyna-khoudri",
+      "name": "Lyna Khoudri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438580",
+      "slug": "sidse-babett-knudsen",
+      "name": "Sidse Babett Knudsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26036599",
+      "slug": "christophe-montenez",
+      "name": "Christophe Montenez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105542062",
+      "slug": "yan-tual",
+      "name": "Yan Tual",
+      "role": "actor"
+    },
+    {
+      "qid": "Q85708800",
+      "slug": "jean-claude-muaka",
+      "name": "Jean-Claude Muaka",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15973995",
+      "slug": "nicolas-bridet",
+      "name": "Nicolas Bridet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q48074677",
+      "slug": "athena-strates",
+      "name": "Athena Strates",
+      "role": "actor"
+    },
+    {
+      "qid": "Q968479",
+      "slug": "fatima-adoum",
+      "name": "Fatima Adoum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q78332804",
+      "slug": "avant-strangel",
+      "name": "Avant Strangel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131562202",
+      "slug": "benjamin-hicquel",
+      "name": "Benjamin Hicquel",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q22928337",
+    "slug": "martin-bourboulon",
+    "name": "Martin Bourboulon",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 09:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "presnel-kimpembe",
+  "name": "Presnel Kimpembe",
+  "worksCount": 1,
+  "description": "footballeur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Presnel%20Kimpembe%202022.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1995-08-13",
+  "nationality": "France",
+  "jobTitle": "footballeur ou footballeuse",
+  "externalIds": {
+    "wikidata": "Q18325379",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Presnel_Kimpembe",
+    "imdb": "nm9917098",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "4-zeros",
+      "title": "4 zéros"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "72082a29-a9f5-448a-8813-4250cb04ef42",
+      "title": "4 zéros",
+      "programSlug": "4-zeros",
+      "programUrl": "/programme/ocs/4-zeros",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 08:01:00+00",
+      "endTime": "2026-04-22 09:41:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 08:01:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

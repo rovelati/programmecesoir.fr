@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "walter-ladengast",
+  "name": "Walter Ladengast",
+  "worksCount": 1,
+  "description": "acteur autrichien",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1899-07-04",
+  "nationality": "Autriche",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q85718",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Walter_Ladengast",
+    "imdb": "nm0480512",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "nosferatu",
+      "title": "Nosferatu"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

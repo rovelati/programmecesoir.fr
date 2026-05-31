@@ -1,0 +1,348 @@
+{
+  "type": "series",
+  "slug": "victorious",
+  "title": "Victorious",
+  "airingsCount": 48,
+  "sourceTitles": [
+    "Victorious",
+    "Victorious - Saison 1",
+    "Victorious - Saison 2"
+  ],
+  "genres": [
+    "teen sitcom",
+    "télévision musicale"
+  ],
+  "description": "A l'âge de 16 ans, Tori Vega va peut-être pouvoir accomplir son rêve : devenir une artiste. Tout commence alors que sa soeur Trina est confrontée à des soucis de santé. Elle a très sérieusement préparé un concert, avec André qui joue du synthé. Mais le jour du spectacle, la langue de Trina gonfle de manière anormale. Allergie ? Blessure ? Pas le temps d'émettre un diagnostic alors que le public attend. Sur le fil, c'est Tori qui la remplace. Sans qu'elle réalise vraiment ce qui se passe, elle subjugue l'audience. S'ouvre alors pour elle l'opportunité unique d'intégrer une prestigieuse école de spectacle de Hollywood, la Arts High School...",
+  "descriptionAi": "Cette teen sitcom musicale, diffusée à partir de 2010, suit les aventures de Tori Vega, une adolescente dont la vie bascule lorsqu'elle intègre la prestigieuse Hollywood Arts High School. L'ambiance est dynamique, colorée et rythmée par des numéros musicaux entraînants. La série captive par son mélange d'humour absurde, de défis artistiques et de relations amicales complexes au sein d'un groupe d'élèves tous plus talentueux et excentriques les uns que les autres. Elle explore avec légèreté les rêves, les rivalités et les tracas du quotidien dans une école pas tout à fait comme les autres. Une comédie positive et énergique, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon.png",
+      "airingsCount": 16
+    },
+    {
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeonplus1fr.svg",
+      "airingsCount": 16
+    },
+    {
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon1.svg",
+      "airingsCount": 16
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ac700466-4733-425d-82bf-2e2896bcfd10",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeon/victorious",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 19:50:00+00",
+      "endTime": "2026-04-19 20:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "76a27579-cfab-4993-bb60-b7d3fc8a4d98",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeonplus1fr/victorious",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 20:50:00+00",
+      "endTime": "2026-04-19 21:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cdfb6538-7996-4d86-a728-cc1bb5890532",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeon1/victorious",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 20:50:00+00",
+      "endTime": "2026-04-19 21:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1901500c-5f71-43c4-ab00-42412971538e",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeon/victorious",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 19:49:00+00",
+      "endTime": "2026-04-20 20:14:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "1e79ce38-4fe3-43e4-b942-50478a9f9646",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeonplus1fr/victorious",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 20:49:00+00",
+      "endTime": "2026-04-20 21:14:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "42dd5698-df55-4cc6-96c0-46f3643a94ec",
+      "title": "Victorious - Saison 1",
+      "programSlug": "victorious-saison-1",
+      "programUrl": "/programme/nickelodeon/victorious-saison-1",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-21 19:49:00+00",
+      "endTime": "2026-04-21 20:14:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6fb81dab-67e7-4066-b2bf-238b02d9d61c",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeonplus1fr/victorious",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-21 20:49:00+00",
+      "endTime": "2026-04-21 21:14:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4ce5da02-bf1b-4bec-b64f-184af434a7fa",
+      "title": "Victorious - Saison 1",
+      "programSlug": "victorious-saison-1",
+      "programUrl": "/programme/nickelodeon1/victorious-saison-1",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-21 20:49:00+00",
+      "endTime": "2026-04-21 21:14:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "622be100-6183-4926-95d5-23270af9f0dc",
+      "title": "Victorious - Saison 1",
+      "programSlug": "victorious-saison-1",
+      "programUrl": "/programme/nickelodeon/victorious-saison-1",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-22 19:49:00+00",
+      "endTime": "2026-04-22 20:14:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "4cf8bf80-a971-46bd-af25-e56fbafd079d",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeonplus1fr/victorious",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-22 20:49:00+00",
+      "endTime": "2026-04-22 21:14:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f8872b5f-d6bd-418c-a612-a3e30f3183c2",
+      "title": "Victorious - Saison 1",
+      "programSlug": "victorious-saison-1",
+      "programUrl": "/programme/nickelodeon/victorious-saison-1",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-23 19:49:00+00",
+      "endTime": "2026-04-23 20:14:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "91a27b4f-e407-4169-a61c-99c1a1ab3338",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeonplus1fr/victorious",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-23 20:49:00+00",
+      "endTime": "2026-04-23 21:14:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "ad05fbaa-f9b8-4527-acbe-9ac93c5afe6c",
+      "title": "Victorious - Saison 1",
+      "programSlug": "victorious-saison-1",
+      "programUrl": "/programme/nickelodeon1/victorious-saison-1",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-23 20:49:00+00",
+      "endTime": "2026-04-23 21:14:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "fb336fe7-bb14-45a0-b148-5a67bdf1d8de",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeonplus1fr/victorious",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-24 20:49:00+00",
+      "endTime": "2026-04-24 21:14:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "0ac691bf-e9a2-4ff4-bd69-d9cd123f678d",
+      "title": "Victorious - Saison 1",
+      "programSlug": "victorious-saison-1",
+      "programUrl": "/programme/nickelodeon1/victorious-saison-1",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-24 20:49:00+00",
+      "endTime": "2026-04-24 21:14:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f14a2ed2-a9c3-4c92-a50d-0e8229b8cf6f",
+      "title": "Victorious - Saison 1",
+      "programSlug": "victorious-saison-1",
+      "programUrl": "/programme/nickelodeon/victorious-saison-1",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-25 19:49:00+00",
+      "endTime": "2026-04-25 20:14:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f1aa96fb-e4e9-4335-bd31-0f5a5908ef3f",
+      "title": "Victorious",
+      "programSlug": "victorious",
+      "programUrl": "/programme/nickelodeonplus1fr/victorious",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-25 20:49:00+00",
+      "endTime": "2026-04-25 21:14:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "1f0846bc-a9aa-433d-a8cd-b637063d160e",
+      "title": "Victorious - Saison 1",
+      "programSlug": "victorious-saison-1",
+      "programUrl": "/programme/nickelodeon1/victorious-saison-1",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-25 20:49:00+00",
+      "endTime": "2026-04-25 21:14:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T22:42:22.777Z",
+  "startYear": 2010,
+  "numberOfSeasons": 4,
+  "cast": [
+    {
+      "qid": "Q200194",
+      "slug": "victoria-justice",
+      "name": "Victoria Justice",
+      "role": "actor"
+    },
+    {
+      "qid": "Q714375",
+      "slug": "leon-thomas-iii",
+      "name": "Leon Thomas III",
+      "role": "actor"
+    },
+    {
+      "qid": "Q926989",
+      "slug": "matt-bennett",
+      "name": "Matt Bennett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230209",
+      "slug": "elizabeth-gillies",
+      "name": "Elizabeth Gillies",
+      "role": "actor"
+    },
+    {
+      "qid": "Q151892",
+      "slug": "ariana-grande",
+      "name": "Ariana Grande",
+      "role": "actor"
+    },
+    {
+      "qid": "Q368424",
+      "slug": "avan-jogia",
+      "name": "Avan Jogia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q464131",
+      "slug": "daniella-monet",
+      "name": "Daniella Monet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15838768",
+      "slug": "michael-eric-reid",
+      "name": "Michael Eric Reid",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1351441",
+      "slug": "eric-lange",
+      "name": "Eric Lange",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1804820",
+      "slug": "lane-napper",
+      "name": "Lane Napper",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q444366",
+    "slug": "dan-schneider",
+    "name": "Dan Schneider",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 19:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

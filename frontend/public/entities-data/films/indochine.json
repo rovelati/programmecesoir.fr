@@ -1,0 +1,139 @@
+{
+  "type": "film",
+  "slug": "indochine",
+  "title": "Indochine",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Indochine"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm d'amour",
+    "film et téléfilm de guerre"
+  ],
+  "description": "En Indochine, en 1930, Eliane Devries dirige l'une des plus importantes plantations d'hévéas du pays. Malgré l'empressement attentionné de Guy Asselin, le directeur de la sûreté, elle ne s'est jamais mariée. Camille, sa fille adoptive, est promise à Tanh, un cousin. Alors que les révolutionnaires communistes multiplient les attentats, Eliane succombe au charme de Jean-Baptiste Le Guen, un officier de marine arrivé depuis peu à Saigon. Elle, d'ordinaire si froide, devient la maîtresse passionnée de ce jeune homme sûr de lui, prêt à conquérir le monde. Mais il lui échappe. Bientôt, c'est au tour de Camille de se laisser prendre dans les filets de Jean-Baptiste...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c79031-b25c-49b8-8ad2-27e626a56e4d",
+      "title": "Indochine",
+      "programSlug": "indochine",
+      "programUrl": "/programme/cine-classic/indochine",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 18:50:00+00",
+      "endTime": "2026-04-24 21:22:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1992,
+  "durationMinutes": 154,
+  "cast": [
+    {
+      "qid": "Q106418",
+      "slug": "catherine-deneuve",
+      "name": "Catherine Deneuve",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123476",
+      "slug": "vincent-perez",
+      "name": "Vincent Perez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q292756",
+      "slug": "linh-dan-pham",
+      "name": "Linh-Dan Pham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106225",
+      "slug": "jean-yanne",
+      "name": "Jean Yanne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271481",
+      "slug": "dominique-blanc",
+      "name": "Dominique Blanc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2636417",
+      "slug": "alain-fromager",
+      "name": "Alain Fromager",
+      "role": "actor"
+    },
+    {
+      "qid": "Q515592",
+      "slug": "andrzej-seweryn",
+      "name": "Andrzej Seweryn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2939159",
+      "slug": "carlo-brandt",
+      "name": "Carlo Brandt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3124083",
+      "slug": "gerard-lartigau",
+      "name": "Gérard Lartigau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3131586",
+      "slug": "henri-marteau",
+      "name": "Henri Marteau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3142106",
+      "slug": "hubert-saint-macary",
+      "name": "Hubert Saint-Macary",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3524049",
+      "slug": "thibault-de-montalembert",
+      "name": "Thibault de Montalembert",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q951570",
+    "slug": "regis-wargnier",
+    "name": "Régis Wargnier",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,168 @@
+{
+  "type": "series",
+  "slug": "the-handmaid-s-tale",
+  "title": "The handmaid's tale",
+  "airingsCount": 16,
+  "sourceTitles": [
+    "The handmaid's tale",
+    "The Handmaid's Tale",
+    "The Handmaid's Tale - Saison 6"
+  ],
+  "genres": [
+    "série télévisée dramatique",
+    "fiction dystopique",
+    "séries télévisées sur le thème des LGBTI+",
+    "post-apocalyptic television program"
+  ],
+  "description": "A la fin de la saison 5, June Osborne, toujours impeccablement interprétée par Elisabeth Moss, fuyait avec son enfant, Nichole, mais sans son mari Luke (O. T. Fagbenle), qui s'est volontairement laissé arrêter par la police pour leur laisser une chance de s'échapper. À bord du train mandaté par les États-Unis pour quitter le Canada au plus vite, mère et fille croisaient Serena Joy Waterford (Yvonne Strahovski), son ancienne tortionnaire, et son fils Noah. Le final s'achevait d'ailleurs sur un échange intense de regards entre les meilleures ennemies.&nbsp;L'heure de la vengeance a donc sonné en cette sixième saison, où les deux femmes vont se livrer à un affrontement sans précédent au sein de cet État conservateur et intrinsèquement misogyne. Alors que June tente de faire tomber la République, Serena tente de la réformer dans un nouvel état en devenir.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canvas.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 10
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "77c112d9-ec35-4a35-a558-de93c6272bab",
+      "title": "The Handmaid's Tale - Saison 5",
+      "programSlug": "the-handmaid-s-tale-saison-5",
+      "programUrl": "/programme/rts-un/the-handmaid-s-tale-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 20:50:00+00",
+      "endTime": "2026-04-24 21:35:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "6e2446c3-4f9e-4ffa-97c9-eac523aecfc6",
+      "title": "The Handmaid's Tale - Saison 5",
+      "programSlug": "the-handmaid-s-tale-saison-5",
+      "programUrl": "/programme/rts-un/the-handmaid-s-tale-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 21:35:00+00",
+      "endTime": "2026-04-24 22:30:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2017,
+  "numberOfSeasons": 6,
+  "cast": [
+    {
+      "qid": "Q233466",
+      "slug": "elisabeth-moss",
+      "name": "Elisabeth Moss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223790",
+      "slug": "joseph-fiennes",
+      "name": "Joseph Fiennes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231891",
+      "slug": "yvonne-strahovski",
+      "name": "Yvonne Strahovski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192887",
+      "slug": "alexis-bledel",
+      "name": "Alexis Bledel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17385680",
+      "slug": "madeline-brewer",
+      "name": "Madeline Brewer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2558129",
+      "slug": "ann-dowd",
+      "name": "Ann Dowd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7072174",
+      "slug": "o-t-fagbenle",
+      "name": "O. T. Fagbenle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q360426",
+      "slug": "max-minghella",
+      "name": "Max Minghella",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16832285",
+      "slug": "samira-wiley",
+      "name": "Samira Wiley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q352180",
+      "slug": "bradley-whitford",
+      "name": "Bradley Whitford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4739577",
+      "slug": "amanda-brugel",
+      "name": "Amanda Brugel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q382094",
+      "slug": "sam-jaeger",
+      "name": "Sam Jaeger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8067447",
+      "slug": "zawe-ashton",
+      "name": "Zawe Ashton",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q30609671",
+    "slug": "bruce-miller",
+    "name": "Bruce Miller",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-24 20:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

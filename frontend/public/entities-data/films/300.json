@@ -1,0 +1,153 @@
+{
+  "type": "film",
+  "slug": "300",
+  "title": "300",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "300"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film et téléfilm de guerre",
+    "péplum",
+    "drame",
+    "film ou téléfilm épique",
+    "film sur l'antiquité classique"
+  ],
+  "description": "En 485 avant notre ère, Xerxès succède à Darius Ier sur le trône de l'empire perse. Rapidement, les grandes cités grecques comprennent qu'une nouvelle guerre s'annonce. Athènes, Thèbes, Corinthe et Délos se rallient à Sparte, qui dispose de la meilleure armée. En 480, le roi spartiate Léonidas est nommé commandant en chef de cette union militaire de la dernière chance. Lorsque la flotte perse rallie les fantassins de Xerxès, les troupes grecques prennent peur. Léonidas ne dispose plus d'aucun soutien maritime. Seul à la tête de sa garde personnelle, composée de 300 soldats d'élite, il décide de résister à l'avancée des Perses. En effet, un oracle lui a prédit qu'un roi devait se sacrifier pour sauver le monde grec...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q169982",
+      "slug": "gerard-butler",
+      "name": "Gerard Butler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313020",
+      "slug": "dominic-west",
+      "name": "Dominic West",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294819",
+      "slug": "rodrigo-santoro",
+      "name": "Rodrigo Santoro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2846707",
+      "slug": "andrew-pleavin",
+      "name": "Andrew Pleavin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2846752",
+      "slug": "andrew-tiernan",
+      "name": "Andrew Tiernan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3017909",
+      "slug": "david-francis",
+      "name": "David Francis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296328",
+      "slug": "david-wenham",
+      "name": "David Wenham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5252786",
+      "slug": "deke-richards",
+      "name": "Deke Richards",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3023197",
+      "slug": "dennis-st-john",
+      "name": "Dennis St John",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3177264",
+      "slug": "jere-gillis",
+      "name": "Jere Gillis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228789",
+      "slug": "lena-headey",
+      "name": "Lena Headey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q57147",
+      "slug": "michael-fassbender",
+      "name": "Michael Fassbender",
+      "role": "actor"
+    },
+    {
+      "qid": "Q469145",
+      "slug": "peter-mensah",
+      "name": "Peter Mensah",
+      "role": "actor"
+    },
+    {
+      "qid": "Q589775",
+      "slug": "robert-maillet",
+      "name": "Robert Maillet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1321265",
+      "slug": "stephen-mchattie",
+      "name": "Stephen McHattie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1366634",
+      "slug": "tim-connolly",
+      "name": "Tim Connolly",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q139890",
+    "slug": "zack-snyder",
+    "name": "Zack Snyder",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

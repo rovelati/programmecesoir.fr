@@ -1,0 +1,54 @@
+{
+  "type": "film",
+  "slug": "ainbo-princesse-d-amazonie",
+  "title": "Ainbo, princesse d'Amazonie",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Ainbo, princesse d'Amazonie"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure",
+    "comédie",
+    "film ou téléfilm familial",
+    "film et téléfilm de fantasy"
+  ],
+  "description": "Ainbo, 13 ans, est une jeune fille d'une tribu d'Amazonie vivant à Candamo. Elle est amie avec la fille du chef du village, Zumi. A cause de quelques péripéties dans la forêt, elle a failli manquer la passation de pouvoir entre le chef du village et la jeune fille. Heureusement deux animaux lui sont venus en aide, ses guides spirituels magiques : Vaca, un tapir aussi costaud que maladroit et Dillo, un tatou espiègle. Elle aura à nouveau besoin d'eux quand il faudra mettre hors d'état de nuire des étrangers qui veulent raser la forêt amazonienne pour y faire du profit. Ensemble, ils vont vivre de folles aventures...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "channelNumber": 18,
+      "logoUrl": "/loghi/gulli.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 84,
+  "cast": [],
+  "director": {
+    "qid": "Q2149228",
+    "slug": "richard-claus",
+    "name": "Richard Claus",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

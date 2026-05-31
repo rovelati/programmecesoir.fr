@@ -1,0 +1,91 @@
+{
+  "type": "film",
+  "slug": "forever-cinema",
+  "title": "Forever Cinéma",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Forever Cinéma"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Guidés par le seul plaisir de la découverte et de la transmission, des journalistes font revivre les petites et les grandes histoires du cinématographe, sans hiérarchie de genre ou de forme.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "031f31df-db5a-4473-9c4b-207487189ed7",
+      "title": "Forever Cinéma",
+      "programSlug": "forever-cinema",
+      "programUrl": "/programme/cine-classic/forever-cinema",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-20 09:20:00+00",
+      "endTime": "2026-04-20 09:51:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8d6f587a-fda1-439b-9647-d049db240fa1",
+      "title": "Forever Cinéma",
+      "programSlug": "forever-cinema",
+      "programUrl": "/programme/cine-classic/forever-cinema",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-21 18:23:00+00",
+      "endTime": "2026-04-21 18:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ce15c2f1-eaba-4d44-bccd-7adaa451e40d",
+      "title": "Forever Cinéma",
+      "programSlug": "forever-cinema",
+      "programUrl": "/programme/cine-festival/forever-cinema",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 18:22:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 09:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

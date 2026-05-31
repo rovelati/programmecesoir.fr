@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "alf-kjellin",
+  "name": "Alf Kjellin",
+  "worksCount": 1,
+  "description": "homme de cinéma suédois (1920–1988)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Bain%20Mission%20Impossible%201969.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1920-02-28",
+  "nationality": "Suède",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q518995",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alf_Kjellin",
+    "imdb": "nm0458033",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "madame-bovary",
+      "title": "Madame Bovary"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

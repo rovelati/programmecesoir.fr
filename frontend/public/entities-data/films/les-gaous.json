@@ -1,0 +1,161 @@
+{
+  "type": "film",
+  "slug": "les-gaous",
+  "title": "Les Gaous",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les Gaous"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Maurice, un jeune paysan, et son ami Benoît, coiffeur, végètent dans leur petit village de Dordogne. Maurice s'éprend de Julie, une Parisienne surmenée qui espère trouver un peu de calme à la campagne, où elle est venue passer un week-end avec son petit ami Guillaume. Le soir même, alors qu'il anime un bal des environs avec Benoît, Maurice retrouve le couple de la capitale. Dans la bagarre qui s'ensuit, Guillaume est rossé. Sur le chemin du retour, Maurice endommage gravement la voiture de son patron, François Bricard, qu'il conduit sans autorisation. Les deux amis ne voient qu'une issue à leur problème : aller chercher à Paris l'argent nécessaire à la réparation. Maurice en profitera pour tenter de retrouver Julie et Benoît pour lancer sa carrière...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/gongfr.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e7f40870-2d6a-40b4-9a60-73f060e83d4c",
+      "title": "Les Gaous",
+      "programSlug": "les-gaous",
+      "programUrl": "/programme/gongfr/les-gaous",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-19 23:10:00+00",
+      "endTime": "2026-04-20 01:15:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q722733",
+      "slug": "richard-bohringer",
+      "name": "Richard Bohringer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2387180",
+      "slug": "charlotte-julian",
+      "name": "Charlotte Julian",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2975095",
+      "slug": "claire-nader",
+      "name": "Claire Nader",
+      "role": "actor"
+    },
+    {
+      "qid": "Q441334",
+      "slug": "cyrielle-clair",
+      "name": "Cyrielle Clair",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3167575",
+      "slug": "jean-marie-bigard",
+      "name": "Jean-Marie Bigard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3290437",
+      "slug": "mareva-galanter",
+      "name": "Mareva Galanter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3299848",
+      "slug": "matthias-van-khache",
+      "name": "Matthias Van Khache",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3292070",
+      "slug": "philippe-chevallier",
+      "name": "Philippe Chevallier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3455752",
+      "slug": "regis-laspales",
+      "name": "Régis Laspalès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3431404",
+      "slug": "richaud-valls",
+      "name": "Richaud Valls",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3496665",
+      "slug": "stanislas-forlani",
+      "name": "Stanislas Forlani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3502082",
+      "slug": "stephane-soo-mongo",
+      "name": "Stéphane Soo Mongo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3499706",
+      "slug": "stone",
+      "name": "Stone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2121322",
+      "slug": "ticky-holgado",
+      "name": "Ticky Holgado",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3559759",
+      "slug": "vincent-moscato",
+      "name": "Vincent Moscato",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3219319",
+      "slug": "laurent-lafitte",
+      "name": "Laurent Lafitte",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q377933",
+    "slug": "igor-sekulic",
+    "name": "Igor Sékulic",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 23:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "leon-zitrone",
+  "name": "Léon Zitrone",
+  "worksCount": 1,
+  "description": "journaliste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LeonZitrone-StudioHarcourt-1960.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1914-11-25",
+  "nationality": "France",
+  "jobTitle": "journaliste",
+  "externalIds": {
+    "wikidata": "Q1344622",
+    "wikipedia": "https://fr.wikipedia.org/wiki/L%C3%A9on_Zitrone",
+    "imdb": "nm0957284",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-coup-du-parapluie",
+      "title": "Le coup du parapluie"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,281 @@
+{
+  "type": "series",
+  "slug": "superchatons",
+  "title": "SuperChatons",
+  "airingsCount": 209,
+  "sourceTitles": [
+    "SuperChatons"
+  ],
+  "genres": [
+    "Série TV",
+    "Séries d'animation",
+    "Serie"
+  ],
+  "description": "Aux yeux du monde, Bitsy, Ginny, Sparks et Buddy sont juste d'adorables chatons qui partagent leur temps entre batifoler et ronronner dans l'espace Purr 'N' Play. Mais, quand les ennuis arrivent, ils se transforment en... SuperChatons! Redressant les torts où qu'ils se trouvent, ce quatuor félin a pour mission de protéger les animaux et les habitants de Kittydale des méchants comme M. Puppypaws, Lab Rat, Cat Burglar et Zsa-Zsa. Grâce à leurs superpouvoirs, leurs gadgets chat-marrés et, surtout, à leur gentillesse et leur empathie, les SuperChatons font du monde un endroit meilleur et plus chat-leureux.",
+  "descriptionAi": "Cette série d'animation, débutée en 2023, suit les aventures de quatre chatons au double quotidien. Entre les siestes et les jeux, Bitsy, Ginny, Sparks et Buddy se transforment en super-héros pour protéger Kittydale. L'ambiance est joyeuse et colorée, mêlant humour et action. Ce qui captive, c'est le mélange de mignonnerie féline, de missions palpitantes contre des vilains originaux, et les valeurs d'entraide et d'empathie portées par l'équipe. Une aventure familiale, rythmée et positive, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-junior.png",
+      "airingsCount": 107
+    },
+    {
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-channel.png",
+      "airingsCount": 51
+    },
+    {
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disneychannelplus1.png",
+      "airingsCount": 51
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bd06eb1d-8894-4483-9a87-61f2520196ab",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-channel/superchatons",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 09:48:00+00",
+      "endTime": "2026-04-19 10:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "24e60f44-2730-42d3-87e7-668ab933be18",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-junior/superchatons",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 09:48:00+00",
+      "endTime": "2026-04-19 10:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e44aad96-6e6c-44a0-b946-85bf64bd47c4",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disneychannelplus1/superchatons",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 10:50:00+00",
+      "endTime": "2026-04-19 11:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9ba53bf9-d227-4cac-9d22-4bf2c16f14a2",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-channel/superchatons",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 16:04:00+00",
+      "endTime": "2026-04-19 16:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7fa89877-8c66-49fe-9bec-2d6848e11d57",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-junior/superchatons",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 16:04:00+00",
+      "endTime": "2026-04-19 16:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cc4c561c-0817-4226-ab09-7034f618856c",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disneychannelplus1/superchatons",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 17:05:00+00",
+      "endTime": "2026-04-19 17:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2fb063c7-c411-41f8-ab3b-df74ba27fa22",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-junior/superchatons",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 22:15:00+00",
+      "endTime": "2026-04-19 22:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "69ef1e0e-e2d1-4767-8c55-b5538b7dd958",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-junior/superchatons",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 22:40:00+00",
+      "endTime": "2026-04-19 23:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "99a7db13-0b86-47c6-aa10-6bd489d8dd3b",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-junior/superchatons",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 23:05:00+00",
+      "endTime": "2026-04-19 23:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a7671224-a37c-4383-8328-026dc4a69b30",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-junior/superchatons",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 23:15:00+00",
+      "endTime": "2026-04-19 23:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "521f282b-06b6-44fc-9c35-21e8204537bb",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-channel/superchatons",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 04:25:00+00",
+      "endTime": "2026-04-20 04:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8919a786-47a6-4468-b9a4-c1a722dbad1c",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-junior/superchatons",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-20 04:50:00+00",
+      "endTime": "2026-04-20 05:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "893618a4-cb40-47d7-b301-bc1600ec16ea",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disneychannelplus1/superchatons",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 05:25:00+00",
+      "endTime": "2026-04-20 05:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "57d7865a-8ed0-4b56-96e2-611aa3d80f7f",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-junior/superchatons",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-20 08:45:00+00",
+      "endTime": "2026-04-20 09:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "282d4a5b-6b64-4b18-aa8b-a8ff7b85ccf4",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-junior/superchatons",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-20 09:10:00+00",
+      "endTime": "2026-04-20 09:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d0421bf6-c01b-42ae-9773-833d3ae46be4",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-channel/superchatons",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 09:50:00+00",
+      "endTime": "2026-04-20 10:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "73f644da-337b-421a-b16c-6b7cf66357a5",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disneychannelplus1/superchatons",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 10:50:00+00",
+      "endTime": "2026-04-20 11:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2bb64ce4-a773-4559-a249-3c267b8e25c0",
+      "title": "SuperChatons",
+      "programSlug": "superchatons",
+      "programUrl": "/programme/disney-junior/superchatons",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-20 11:50:00+00",
+      "endTime": "2026-04-20 12:15:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:31.104Z",
+  "startYear": 2023,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 09:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

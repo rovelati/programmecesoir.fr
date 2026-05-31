@@ -1,0 +1,139 @@
+{
+  "type": "film",
+  "slug": "l-accident-de-piano",
+  "title": "L'Accident de piano",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "L'accident de piano",
+    "L'Accident de piano"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Magalie est une star du web sans morale, devenue riche et célèbre en postant des contenus choc sur les réseaux sociaux. Après un accident grave survenu sur le tournage de l'une de ses vidéos, elle décide de s'isoler dans un chalet à la montagne avec son assistant personnel pour faire un break. Mais cette retraite est perturbée par un fan obsessionnel et par Simone Herzog, une journaliste qui détient une information compromettante et exige un entretien exclusif en échange de son silence. Magalie bascule alors dans une spirale de violence...",
+  "descriptionAi": "Ce thriller psychologique captivant plonge dans les ténèbres de la célébrité à l'ère numérique. L'ambiance, d'abord feutrée dans l'isolement montagnard, se charge progressivement d'une tension palpable et malsaine. Le film devient fascinant par son exploration glaçante de la paranoïa et des conséquences d'une vie entièrement mise en scène, alors que les frontières entre la réalité et la performance s'effondrent. La descente aux enfers de l'héroïne, prise au piège de ses propres démons et de menaces extérieures, offre un suspense implacable. Une plongée angoissante et moderne dans la folie, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "57e91742-2867-49ba-aa36-d4096f288a1f",
+      "title": "L'Accident de piano",
+      "programSlug": "l-accident-de-piano",
+      "programUrl": "/programme/canal-cinema/l-accident-de-piano",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-19 20:34:00+00",
+      "endTime": "2026-04-19 22:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "53b2e1df-6552-4488-950d-8818da6953ca",
+      "title": "L'accident de piano",
+      "programSlug": "l-accident-de-piano",
+      "programUrl": "/programme/paramount-channel/l-accident-de-piano",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-19 20:35:00+00",
+      "endTime": "2026-04-19 22:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c3588aeb-09b5-4266-a382-b2a3b1e89889",
+      "title": "L'Accident de piano",
+      "programSlug": "l-accident-de-piano",
+      "programUrl": "/programme/canal-box-office/l-accident-de-piano",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 08:36:00+00",
+      "endTime": "2026-04-22 10:01:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q134609549",
+    "wikipedia": "https://fr.wikipedia.org/wiki/L'Accident_de_piano",
+    "imdb": "tt35431236",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:14.733Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q2825427",
+      "slug": "q2825427",
+      "name": "Q2825427",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3190858",
+      "slug": "jerome-commandeur",
+      "name": "Jérôme Commandeur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262822",
+      "slug": "sandrine-kiberlain",
+      "name": "Sandrine Kiberlain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3193200",
+      "slug": "karim-leklou",
+      "name": "Karim Leklou",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q453691",
+    "slug": "quentin-dupieux",
+    "name": "Quentin Dupieux",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 20:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

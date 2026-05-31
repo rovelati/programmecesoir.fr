@@ -1,0 +1,118 @@
+{
+  "type": "film",
+  "slug": "maman",
+  "title": "Maman",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Maman"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Alice et Sandrine sont deux soeurs trentenaires qui se sentent mal dans leur peau. Elles souffrent des mêmes difficultés dans la vie et sont persuadées que leur mère ne leur a pas prodigué assez d'affection. De manière inattendue, elles décident de rattraper le temps perdu en la kidnappant...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1990,
+  "durationMinutes": 85,
+  "cast": [
+    {
+      "qid": "Q1569147",
+      "slug": "albert-delpy",
+      "name": "Albert Delpy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272113",
+      "slug": "amina-annabi",
+      "name": "Amina Annabi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449240",
+      "slug": "anemone",
+      "name": "Anémone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q891522",
+      "slug": "arthur-h",
+      "name": "Arthur H",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3186652",
+      "slug": "josephine-fresson",
+      "name": "Joséphine Fresson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3256523",
+      "slug": "lita-recio",
+      "name": "Lita Recio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3291081",
+      "slug": "maria-verdi",
+      "name": "Maria Verdi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3403448",
+      "slug": "princess-erika",
+      "name": "Princess Erika",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3439112",
+      "slug": "roger-jendly",
+      "name": "Roger Jendly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3014425",
+      "slug": "daniel-martin",
+      "name": "Daniel Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3166017",
+      "slug": "jean-gabriel-nordmann",
+      "name": "Jean-Gabriel Nordmann",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q653724",
+    "slug": "romain-goupil",
+    "name": "Romain Goupil",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

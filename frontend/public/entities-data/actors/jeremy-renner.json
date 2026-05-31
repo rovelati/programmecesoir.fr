@@ -1,0 +1,75 @@
+{
+  "type": "actor",
+  "slug": "jeremy-renner",
+  "name": "Jeremy Renner",
+  "worksCount": 4,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jeremy%20Renner%20at%20TIFF%202025%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-01-07",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q23365",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jeremy_Renner",
+    "imdb": "nm0719637",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jason-bourne-l-heritage",
+      "title": "Jason Bourne : l'héritage"
+    },
+    {
+      "type": "film",
+      "slug": "demineurs",
+      "title": "Démineurs"
+    },
+    {
+      "type": "film",
+      "slug": "the-town",
+      "title": "The Town"
+    },
+    {
+      "type": "film",
+      "slug": "premier-contact",
+      "title": "Premier contact"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4c3335d6-9cfe-4bd4-b927-32953d1a59ac",
+      "title": "Premier contact",
+      "programSlug": "premier-contact",
+      "programUrl": "/programme/cine-frisson/premier-contact",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 11:28:00+00",
+      "endTime": "2026-04-20 13:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "926ff80c-13f7-4e5f-8f5b-fa5305d4e8e8",
+      "title": "Jason Bourne : L'héritage",
+      "programSlug": "jason-bourne-l-heritage",
+      "programUrl": "/programme/ab3/jason-bourne-l-heritage",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-22 19:55:00+00",
+      "endTime": "2026-04-22 22:00:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 11:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

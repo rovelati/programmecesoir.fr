@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "robert-maillet",
+  "name": "Robert Maillet",
+  "worksCount": 2,
+  "description": "catcheur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Maillet.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1969-10-26",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q589775",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Robert_Maillet",
+    "imdb": "nm0537631",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "300",
+      "title": "300"
+    },
+    {
+      "type": "film",
+      "slug": "brick-mansions",
+      "title": "Brick Mansions"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "series",
+  "slug": "domino-day",
+  "title": "Domino Day",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Domino Day"
+  ],
+  "genres": [
+    "Série dramatique"
+  ],
+  "description": "Domino retrouve enfin ses pouvoirs. Silas attire la jeune sorcière dans un guet-apens. Pour redonner vie à Leon et sauver ses amis, Domino affronte Esme dans un ultime combat.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1998,
+  "numberOfSeasons": 11,
+  "cast": [],
+  "creator": {
+    "qid": "Q596845",
+    "slug": "robin-paul-weijers",
+    "name": "Robin Paul Weijers",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

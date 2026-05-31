@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "frank-langella",
+  "name": "Frank Langella",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Langella%20Deauville%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1938-01-01",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q310944",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Frank_Langella",
+    "imdb": "nm0001449",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-ile-aux-pirates",
+      "title": "L'île aux pirates"
+    },
+    {
+      "type": "film",
+      "slug": "magnitude-10-5-l-apocalypse",
+      "title": "Magnitude 10,5 : l'apocalypse"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "89c6e163-8ff4-4073-9c15-31a752e5bf64",
+      "title": "Magnitude 10,5 : l'apocalypse",
+      "programSlug": "magnitude-10-5-l-apocalypse",
+      "programUrl": "/programme/6ter/magnitude-10-5-l-apocalypse",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 21:20:00+00",
+      "endTime": "2026-04-19 22:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4c03cc5c-7645-434f-9aa4-bfae922cd05b",
+      "title": "Magnitude 10,5 : l'apocalypse",
+      "programSlug": "magnitude-10-5-l-apocalypse",
+      "programUrl": "/programme/6ter/magnitude-10-5-l-apocalypse",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-19 22:50:00+00",
+      "endTime": "2026-04-20 00:30:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 21:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

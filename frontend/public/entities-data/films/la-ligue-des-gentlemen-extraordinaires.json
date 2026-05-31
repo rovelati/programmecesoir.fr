@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "la-ligue-des-gentlemen-extraordinaires",
+  "title": "La ligue des gentlemen extraordinaires",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La ligue des gentlemen extraordinaires"
+  ],
+  "genres": [
+    "film de super-héros",
+    "cross-over",
+    "film de vampires",
+    "film d'action de science-fiction",
+    "film uchronique",
+    "film steampunk",
+    "film et téléfilm d'action",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm de science-fiction",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Londres, 1899. À l'aube d'un nouveau siècle, une ombre menaçante plane sur l'Europe. Le Fantôme (Richard Roxburgh), un génie criminel aussi rusé que mégalomane, a conçu une arme capable de déclencher une guerre mondiale, avec pour seul but d'en tirer profit en inondant le marché de son arsenal mortel. Face à cette menace sans précédent, le gouvernement britannique n'a d'autre choix que de faire appel à une équipe d'exception : la Ligue des Gentlemen Extraordinaires, une société secrète réunissant les esprits les plus brillants et les personnalités les plus énigmatiques de leur époque.Sous la direction du légendaire Allan Quatermain (Sean Connery), aventurier aguerri et fin stratège, la Ligue se compose de membres aussi fascinants que dangereux. Le capitaine Nemo (Naseeruddin Shah), maître du Nautilus, navigue avec une détermination implacable, tandis que Mina Harker (Peta Wilson), mystérieuse et séduisante, cache des secrets liés à son passé vampirique. Dorian Gray (Stuart Townsend), dont la beauté éternelle dissimule une âme corrompue, côtoie Tom Sawyer (Shane West), espion charismatique et audacieux, ainsi que Rodney Skinner (Tony Curran), alias l'Homme Invisible, dont les talents pour l'espionnage sont inégalés. Enfin, le Dr Henry Jekyll (Jason Flemyng) apporte son génie scientifique, bien que son alter ego, Mr. Hyde, menace à tout moment de prendre le contrôle.Leur mission : traverser l'Europe en quête d'indices pour déjouer les plans du Fantôme, tout en affrontant leurs propres démons. Entre courses-poursuites effrénées à travers Venise, infiltrations périlleuses dans des repaire ennemis, et révélations troublantes sur leurs passés respectifs, chaque membre de la Ligue devra faire preuve de courage et de ruse. Mais alors que les pièces du puzzle se mettent en place, une question persiste : parviendront-ils à surmonter leurs différences et leurs faiblesses pour sauver le monde d'une catastrophe imminente ?",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Motorshow%20Essen%202004%2026%20-%20Flickr%20-%20Axel%20Schwenke.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/club-rtl.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2003,
+  "durationMinutes": 106,
+  "cast": [
+    {
+      "qid": "Q4573",
+      "slug": "sean-connery",
+      "name": "Sean Connery",
+      "role": "actor"
+    },
+    {
+      "qid": "Q469945",
+      "slug": "naseeruddin-shah",
+      "name": "Naseeruddin Shah",
+      "role": "actor"
+    },
+    {
+      "qid": "Q745086",
+      "slug": "peta-wilson",
+      "name": "Peta Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q711054",
+      "slug": "tony-curran",
+      "name": "Tony Curran",
+      "role": "actor"
+    },
+    {
+      "qid": "Q363525",
+      "slug": "stuart-townsend",
+      "name": "Stuart Townsend",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239415",
+      "slug": "shane-west",
+      "name": "Shane West",
+      "role": "actor"
+    },
+    {
+      "qid": "Q472504",
+      "slug": "jason-flemyng",
+      "name": "Jason Flemyng",
+      "role": "actor"
+    },
+    {
+      "qid": "Q361630",
+      "slug": "richard-roxburgh",
+      "name": "Richard Roxburgh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310217",
+      "slug": "david-hemmings",
+      "name": "David Hemmings",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1913331",
+      "slug": "max-ryan",
+      "name": "Max Ryan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3518917",
+      "slug": "terry-o-neill",
+      "name": "Terry O'Neill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7815969",
+      "slug": "tom-goodman-hill",
+      "name": "Tom Goodman-Hill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12050232",
+      "slug": "rudolf-pellar",
+      "name": "Rudolf Pellar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q324068",
+      "slug": "marek-vasut",
+      "name": "Marek Vašut",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7155574",
+      "slug": "pavel-bezdek",
+      "name": "Pavel Bezdek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3569399",
+      "slug": "winter-ave-zoli",
+      "name": "Winter Ave Zoli",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1346611",
+    "slug": "stephen-norrington",
+    "name": "Stephen Norrington",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

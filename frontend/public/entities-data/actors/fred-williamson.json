@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "fred-williamson",
+  "name": "Fred Williamson",
+  "worksCount": 1,
+  "description": "cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/FredWilliamsonJun10.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1938-03-05",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1452569",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fred_Williamson",
+    "imdb": "nm0004365",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "starsky-et-hutch",
+      "title": "Starsky et Hutch"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

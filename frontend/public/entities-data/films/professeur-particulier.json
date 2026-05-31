@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "professeur-particulier",
+  "title": "Professeur particulier",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Professeur particulier"
+  ],
+  "genres": [
+    "Téléfilm",
+    "Telefilms"
+  ],
+  "description": "Une jeune femme désespérée usurpe l'identité d'une autre pour obtenir un emploi de domestique et de préceptrice auprès d'un veuf en deuil et de sa fille, mais elle se retrouve alors empêtrée dans leur processus de guérison et dans ses propre mensonges.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

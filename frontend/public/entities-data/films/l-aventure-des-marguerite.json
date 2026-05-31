@@ -1,0 +1,65 @@
+{
+  "type": "film",
+  "slug": "l-aventure-des-marguerite",
+  "title": "L'aventure des Marguerite",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'aventure des Marguerite"
+  ],
+  "genres": [
+    "comédie",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Marguerite et Margot ont le même âge, 12 ans, mais ne vivent pas dans la même époque. La première est en train de subir l'Occupation allemande en 1942, tandis que l'autre vit de nos jours. Toutes les deux ont un père absent, l'un à cause de la guerre, l'autre car il a quitté le foyer familial. Elles découvrent une mystérieuse malle qui leur permet de voyager d'une époque à une autre. Un bond spatio-temporel qui ne sera pas sans conséquences sur l'histoire de leurs familles...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0fbdc0ea-93ec-45dc-bd53-b44434fab231",
+      "title": "L'aventure des Marguerite",
+      "programSlug": "l-aventure-des-marguerite",
+      "programUrl": "/programme/canal-grand-ecran/l-aventure-des-marguerite",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-21 22:02:00+00",
+      "endTime": "2026-04-21 23:29:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q44483597",
+    "slug": "pierre-core",
+    "name": "Pierre Coré",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 22:02:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

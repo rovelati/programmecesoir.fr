@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "a-la-recherche-du-jardin-des-finzi-contini",
+  "title": "A la recherche du jardin des Finzi Contini",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "A la recherche du jardin des Finzi Contini"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "C'est un jardin extraordinaire qui n'a jamais exist', un lieu fictif qui habite les m'moires. Quand, en 1962, Giorgio Bassani publie Le jardin des Finzi-Contini, l'Italie s'est encore peu plong'e dans les t'n'bres de sa p'riode fasciste et les lois raciales qu'elle a engendr'es. Infus'e de la jeunesse du romancier et po'te, cette oeuvre pionni're, inattendu best-seller, met en sc'ne une histoire d'amour, en 1938, au sein de la bourgeoisie juive de Ferrare ' la veille de son an'antissement. Au fil des pages du roman Le jardin des Finzi-Contini, que Vittorio De Sica a adapt' au cin'ma, un voyage empreint de nostalgie ' Ferrare, entre r'alit' et fiction, sur les traces de son auteur, l''crivain italien Giorgio Bassani.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-corse.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d5b36ae1-fad2-4cfc-bdf1-60eed8db6882",
+      "title": "A la recherche du jardin des Finzi Contini",
+      "programSlug": "a-la-recherche-du-jardin-des-finzi-contini",
+      "programUrl": "/programme/france-3-corse/a-la-recherche-du-jardin-des-finzi-contini",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-25 19:47:00+00",
+      "endTime": "2026-04-25 20:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-25 19:47:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "daniel-gelin",
+  "name": "Daniel Gélin",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DanielGelin-StudioHarcourt-1963.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1921-05-19",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q663553",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Daniel_G%C3%A9lin",
+    "imdb": "nm0004625",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "trop-c-est-trop",
+      "title": "Trop c'est trop"
+    },
+    {
+      "type": "film",
+      "slug": "la-cite-de-la-peur",
+      "title": "La cité de la peur"
+    },
+    {
+      "type": "film",
+      "slug": "la-ronde",
+      "title": "La ronde"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42611a44-ab50-4e94-98a2-182319fa2b6a",
+      "title": "La cité de la peur",
+      "programSlug": "la-cite-de-la-peur",
+      "programUrl": "/programme/canal-grand-ecran/la-cite-de-la-peur",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 07:57:00+00",
+      "endTime": "2026-04-22 09:35:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-22 07:57:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

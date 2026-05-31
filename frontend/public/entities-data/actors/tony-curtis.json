@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "tony-curtis",
+  "name": "Tony Curtis",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Curtis%201958.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1925-06-03",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q162389",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tony_Curtis",
+    "imdb": "nm0000348",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "boeing-boeing",
+      "title": "Boeing Boeing"
+    },
+    {
+      "type": "film",
+      "slug": "deux-tetes-folles",
+      "title": "Deux têtes folles"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

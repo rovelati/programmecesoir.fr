@@ -1,0 +1,108 @@
+{
+  "type": "series",
+  "slug": "rizzoli-isles",
+  "title": "Rizzoli & Isles",
+  "airingsCount": 13,
+  "sourceTitles": [
+    "Rizzoli & Isles",
+    "Rizzoli & Isles - Saison 5"
+  ],
+  "genres": [
+    "littérature policière"
+  ],
+  "description": "David Sutton, professeur de sciences adulé, est retrouvé mort après avoir été percuté par un chauffard. Jane et Maura, chargées de l'enquête, se rendent à l'évidence : il s'agit d'un meurtre. La réputation de Sutton est bientôt ternie par des témoignages qui l'accusent de monnayer les bonnes notes contre des ébats avec ses étudiantes. Celles qui ont tenté de le dénoncer ont subi des menaces de chantage. De son côté, Jane poursuit sa relation longue distance avec Casey. Ses convictions sont ébranlées lorsque Martinez lui propose un rendez-vous galant. Persuadée qu'une belle histoire d'amour est en train de se jouer, Maura l'incite à accepter...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "channelNumber": 10,
+      "logoUrl": "/loghi/tmc.png",
+      "airingsCount": 13
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3716f9b3-4638-4b2c-970e-58023831b54a",
+      "title": "Rizzoli & Isles - Saison 5",
+      "programSlug": "rizzoli-isles-saison-5",
+      "programUrl": "/programme/tmc/rizzoli-isles-saison-5",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-25 11:15:00+00",
+      "endTime": "2026-04-25 12:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "50ad7a85-5e48-4796-83db-8957689785e0",
+      "title": "Rizzoli & Isles - Saison 6",
+      "programSlug": "rizzoli-isles-saison-6",
+      "programUrl": "/programme/tmc/rizzoli-isles-saison-6",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-25 12:05:00+00",
+      "endTime": "2026-04-25 12:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "36156700-2055-48e6-96d2-a23f973ae045",
+      "title": "Rizzoli & Isles - Saison 6",
+      "programSlug": "rizzoli-isles-saison-6",
+      "programUrl": "/programme/tmc/rizzoli-isles-saison-6",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-25 12:55:00+00",
+      "endTime": "2026-04-25 13:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "1a925c20-b3c6-4e5e-ab3c-5fb7d2fcb719",
+      "title": "Rizzoli & Isles - Saison 6",
+      "programSlug": "rizzoli-isles-saison-6",
+      "programUrl": "/programme/tmc/rizzoli-isles-saison-6",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-25 13:50:00+00",
+      "endTime": "2026-04-25 14:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c24721b4-79a8-4dcb-9717-4cc89f1bf34f",
+      "title": "Rizzoli & Isles - Saison 6",
+      "programSlug": "rizzoli-isles-saison-6",
+      "programUrl": "/programme/tmc/rizzoli-isles-saison-6",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-25 14:40:00+00",
+      "endTime": "2026-04-25 15:30:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-25 11:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

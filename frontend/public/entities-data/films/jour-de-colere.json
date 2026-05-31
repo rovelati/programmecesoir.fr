@@ -1,0 +1,137 @@
+{
+  "type": "film",
+  "slug": "jour-de-colere",
+  "title": "Jour de colère",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Jour de colère"
+  ],
+  "genres": [
+    "drame",
+    "film d'art"
+  ],
+  "description": "Après une longue carrière de tueur à gages au service d'une famille mafieuse, Frank décide de changer de vie avec la femme qu'il aime. Alors qu'il s'apprête à quitter le pays, il rencontre un homme étrange dans un bar. Celui-ci lui avoue être à l'origine de la disparition d'une étudiante quelques jours plus tôt...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1943,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q460606",
+      "slug": "lisbeth-movin",
+      "name": "Lisbeth Movin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6085788",
+      "slug": "preben-lerdorff-rye",
+      "name": "Preben Lerdorff Rye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q555098",
+      "slug": "olaf-ussing",
+      "name": "Olaf Ussing",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12315277",
+      "slug": "hans-christian-s-rensen",
+      "name": "Hans Christian Sørensen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6004376",
+      "slug": "preben-neergaard",
+      "name": "Preben Neergaard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q93846",
+      "slug": "sigrid-neiiendam",
+      "name": "Sigrid Neiiendam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q35984108",
+      "slug": "harald-holst",
+      "name": "Harald Holst",
+      "role": "actor"
+    },
+    {
+      "qid": "Q35984177",
+      "slug": "emilie-nielsen",
+      "name": "Emilie Nielsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q35985548",
+      "slug": "kirsten-andreasen",
+      "name": "Kirsten Andreasen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6078449",
+      "slug": "thorkild-roose",
+      "name": "Thorkild Roose",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4502901",
+      "slug": "albert-h-eberg",
+      "name": "Albert Høeberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41730296",
+      "slug": "dagmar-wildenbruck",
+      "name": "Dagmar Wildenbrück",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42302653",
+      "slug": "anna-svierkier",
+      "name": "Anna Svierkier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4959247",
+      "slug": "johanne-sophie-knudsen",
+      "name": "Johanne Sophie Knudsen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51127",
+    "slug": "carl-theodor-dreyer",
+    "name": "Carl Theodor Dreyer",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

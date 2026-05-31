@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jean-martin",
+  "name": "Jean Martin",
+  "worksCount": 1,
+  "description": "acteur français du XXe siècle (1922-2009)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JeanMartin-Italie-1973.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1922-03-06",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q936758",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Martin_(acteur)",
+    "imdb": "nm0552483",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mon-nom-est-personne",
+      "title": "Mon nom est Personne"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

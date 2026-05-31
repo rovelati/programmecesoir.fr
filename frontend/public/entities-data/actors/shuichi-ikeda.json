@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "shuichi-ikeda",
+  "name": "Shūichi Ikeda",
+  "worksCount": 1,
+  "description": "comédien de doublage japonais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ikeda%20Shuichi%20%22The%20World%20of%20Gundam%22%20at%20Opening%20Ceremony%20of%20the%2028th%20Tokyo%20International%20Film%20Festival%20(22405153956)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1949-12-02",
+  "nationality": "Japon",
+  "jobTitle": "seiyū",
+  "externalIds": {
+    "wikidata": "Q922430",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sh%C5%ABichi_Ikeda",
+    "imdb": "nm0407454",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "albator-84-l-atlantis-de-ma-jeunesse",
+      "title": "Albator 84 : L'Atlantis de ma jeunesse"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b12b8823-e503-4271-8a99-2caa64eaafbc",
+      "title": "Albator 84 : L'Atlantis de ma jeunesse",
+      "programSlug": "albator-84-l-atlantis-de-ma-jeunesse",
+      "programUrl": "/programme/mangas/albator-84-l-atlantis-de-ma-jeunesse",
+      "channelId": "mangas",
+      "channelName": "Mangas",
+      "channelSlug": "mangas",
+      "startTime": "2026-04-19 11:16:00+00",
+      "endTime": "2026-04-19 13:35:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 11:16:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,185 @@
+{
+  "type": "film",
+  "slug": "the-dark-knight-rises",
+  "title": "The Dark Knight Rises",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "The Dark Knight Rises"
+  ],
+  "genres": [
+    "film de super-héros",
+    "film et téléfilm d'action",
+    "thriller policier",
+    "thriller",
+    "drame"
+  ],
+  "description": "Cela fait huit ans maintenant que Batman a tourné le dos à ses activités de justicier pour endosser le rôle du fugitif. Il a choisi d'assumer l'entière responsabilité de la mort du procureur Harvey Dent, sacrifiant tout ce qu'il avait de plus cher afin de préserver l'idéal qu'il partage avec le commissaire Gordon. Pendant un temps, grâce au Dent Act, une série de lois anti-crime, le nombre de délits a baissé sensiblement à Gotham. Mais l'arrivée d'une cambrioleuse agile au masque de chat pourrait bien inverser la tendance. Plus dangereux encore, Bane, un terroriste, oblige Batman a sortir de sa réserve. L'issue du duel se révèle incertaine...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Batman%203.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67c1ebbf-a111-4083-a014-1cb877a116d5",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-rises",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 10:12:00+00",
+      "endTime": "2026-04-19 12:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3d1f0ee5-ff66-44e8-8bb5-fbf2e07d1fac",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-rises",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 21:16:00+00",
+      "endTime": "2026-04-21 23:57:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 164,
+  "cast": [
+    {
+      "qid": "Q45772",
+      "slug": "christian-bale",
+      "name": "Christian Bale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123351",
+      "slug": "michael-caine",
+      "name": "Michael Caine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83492",
+      "slug": "gary-oldman",
+      "name": "Gary Oldman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q36301",
+      "slug": "anne-hathaway",
+      "name": "Anne Hathaway",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208026",
+      "slug": "tom-hardy",
+      "name": "Tom Hardy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8927",
+      "slug": "marion-cotillard",
+      "name": "Marion Cotillard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q177311",
+      "slug": "joseph-gordon-levitt",
+      "name": "Joseph Gordon-Levitt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q48337",
+      "slug": "morgan-freeman",
+      "name": "Morgan Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q225933",
+      "slug": "nestor-carbonell",
+      "name": "Nestor Carbonell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q58444",
+      "slug": "liam-neeson",
+      "name": "Liam Neeson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202589",
+      "slug": "cillian-murphy",
+      "name": "Cillian Murphy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318249",
+      "slug": "matthew-modine",
+      "name": "Matthew Modine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2438420",
+      "slug": "alon-abutbul",
+      "name": "Alon Abutbul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q967833",
+      "slug": "josh-pence",
+      "name": "Josh Pence",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234434",
+      "slug": "juno-temple",
+      "name": "Juno Temple",
+      "role": "actor"
+    },
+    {
+      "qid": "Q816565",
+      "slug": "ben-mendelsohn",
+      "name": "Ben Mendelsohn",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q25191",
+    "slug": "christopher-nolan",
+    "name": "Christopher Nolan",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 10:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

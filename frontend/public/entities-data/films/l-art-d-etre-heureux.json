@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "l-art-d-etre-heureux",
+  "title": "L'art d'être heureux",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'art d'être heureux"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Jean-Yves Machond, un peintre mondialement méconnu et globalement malheureux, décide un jour de totalement changer de vie. Déterminé à enfin réussir, il part alors chercher l'inspiration dans une petite ville normande, avec l'idée de concevoir un chef-d'oeuvre qui lui vaudra enfin gloire et reconnaissance éternelle. Mais une fois sur place, il saisit que ses plans ne vont pas être aussi simples à exécuter. En effet, sa rencontre avec les artistes locaux, du chaleureux Bagnoule à l'habile Cécile, le fait quelque peu dévier de son chemin, et lui rappelle son rêve le plus profond : celui d'être un homme heureux, tout simplement...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q3497879",
+    "slug": "stefan-liberski",
+    "name": "Stefan Liberski",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

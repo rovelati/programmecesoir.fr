@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "l-entreprenant-monsieur-petrov",
+  "title": "L'Entreprenant Monsieur Petrov",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'Entreprenant Monsieur Petrov"
+  ],
+  "genres": [
+    "comédie romantique",
+    "film ou téléfilm musical"
+  ],
+  "description": "Paris, 1937. Danseur étoile dans les ballets russes, Petrov envisage d'introduire des numéros de claquettes dans les chorégraphies classiques. Il rêve par ailleurs d'épouser la belle Linda Keene, vedette du music-hall américain, dont il s'est follement épris. Lorsque celle-ci embarque pour son pays natal, il n'hésite pas une seconde. S'il lui faut traverser l'Atlantique pour conquérir l'objet de son affection, alors il traversera l'Atlantique. D'ailleurs, ne s'appelle-t-il pas de son vrai nom Pete P Peters, natif lui aussi du pays de Washington et Roosevelt ? La manoeuvre aura également l'avantage de lui permettre de fuir les avances d'une admiratrice énamourée, lady Tarrington...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flying%20Down%20to%20Rio%20Astaire%20and%20Rogers.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1937,
+  "durationMinutes": 109,
+  "cast": [
+    {
+      "qid": "Q100937",
+      "slug": "fred-astaire",
+      "name": "Fred Astaire",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95089",
+      "slug": "ginger-rogers",
+      "name": "Ginger Rogers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q959404",
+      "slug": "eric-blore",
+      "name": "Eric Blore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1292160",
+      "slug": "edward-everett-horton",
+      "name": "Edward Everett Horton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2244233",
+      "slug": "harriet-hoctor",
+      "name": "Harriet Hoctor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1378858",
+      "slug": "ben-alexander",
+      "name": "Ben Alexander",
+      "role": "actor"
+    },
+    {
+      "qid": "Q636496",
+      "slug": "charlie-hall",
+      "name": "Charlie Hall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125210493",
+      "slug": "sam-harris",
+      "name": "Sam Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3830310",
+      "slug": "leonard-mudie",
+      "name": "Leonard Mudie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271111",
+      "slug": "mary-stewart",
+      "name": "Mary Stewart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q943463",
+      "slug": "richard-tucker",
+      "name": "Richard Tucker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q511043",
+      "slug": "ketti-gallian",
+      "name": "Ketti Gallian",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7360827",
+      "slug": "rolfe-sedan",
+      "name": "Rolfe Sedan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440054",
+      "slug": "ann-shoemaker",
+      "name": "Ann Shoemaker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17736942",
+      "slug": "charles-coleman",
+      "name": "Charles Coleman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6170516",
+      "slug": "jean-de-briac",
+      "name": "Jean De Briac",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q382529",
+    "slug": "mark-sandrich",
+    "name": "Mark Sandrich",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

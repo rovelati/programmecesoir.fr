@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "lola-photographe-de-charme",
+  "title": "Lola photographe de charme",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Lola photographe de charme"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "A l'approche de la cinquantaine, une femme, photographe de charme à la libido exacerbée, est titillée par la nudité de ses modèles, hommes ou femmes.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

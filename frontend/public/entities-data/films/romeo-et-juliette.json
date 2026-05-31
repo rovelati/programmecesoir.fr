@@ -1,0 +1,70 @@
+{
+  "type": "film",
+  "slug": "romeo-et-juliette",
+  "title": "Roméo et Juliette",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Roméo et Juliette"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "A Vérone, au Moyen Age. Une haine ancestrale oppose la famille des Montaigu à celle des Capulet. Toutes les occasions sont bonnes pour s'affronter et les attaques se multiplient. Les Capulet organisent un bal somptueux en l'honneur de leur fille Juliette, qui doit rencontrer son fiancé, le comte de Paris. Par bravade, Roméo, l'héritier des Montaigu, s'y invite avec ses cousins. Entre deux danses, il tombe en arrêt devant Juliette, dont la beauté adolescente l'éblouit. La révélation de son identité et de l'impossibilité de leur amour ne fera pas reculer le jeune homme, pas plus qu'elle ne dissuadera la jeune femme de donner son coeur au seul homme qu'elle n'ait pas le droit d'aimer...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q42814770",
+      "slug": "charlotte-aubin",
+      "name": "Charlotte Aubin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3525301",
+      "slug": "thomas-lalonde",
+      "name": "Thomas Lalonde",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106099",
+      "slug": "jeanne-moreau",
+      "name": "Jeanne Moreau",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3573611",
+    "slug": "yves-desgagnes",
+    "name": "Yves Desgagnés",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

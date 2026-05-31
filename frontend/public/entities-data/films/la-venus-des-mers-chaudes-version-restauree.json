@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "la-venus-des-mers-chaudes-version-restauree",
+  "title": "La Vénus des mers chaudes (Version restaurée)",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La Vénus des mers chaudes (Version restaurée)"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Dominic Quesada, Johnny Gray et son épouse Theresa recherchent activement l'épave d'un navire qui transportait autrefois une énorme cargaison de lingots d'or. Après de nombreuses plongées, ils parviennent enfin à localiser le navire tant convoité. Quelques expéditions sous-marines de plus et le fabuleux trésor est enfin entre leurs mains. Mais le pirate Rico Herrera et ses hommes de main veulent également avoir une part du butin. Les deux groupes s'affrontent alors autour du trésor...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ed9a6d4a-4cf5-4995-8c26-a2a2ca893e72",
+      "title": "La Vénus des mers chaudes (Version restaurée)",
+      "programSlug": "la-venus-des-mers-chaudes-version-restauree",
+      "programUrl": "/programme/tcm-cinema/la-venus-des-mers-chaudes-version-restauree",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-25 11:55:00+00",
+      "endTime": "2026-04-25 13:30:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-25 11:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

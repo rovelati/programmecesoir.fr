@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "les-infiltres",
+  "title": "Les infiltrés",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les infiltrés"
+  ],
+  "genres": [
+    "drame",
+    "thriller policier",
+    "film ou téléfilm criminel",
+    "thriller",
+    "film de gangsters",
+    "film policier dramatique",
+    "film ou téléfilm à énigme",
+    "film à suspense",
+    "néo-noir",
+    "film ou téléfilm épique"
+  ],
+  "description": "Deux recrues intègrent la police de Boston : Colin Sullivan, protégé depuis sa jeunesse par Frank Costello, le caïd des quartiers Sud, entre à l'unité des enquêtes spéciales. Il y sert d'informateur à Costello. Billy Costigan, repéré par le capitaine Queenan, est chargé d'infiltrer la bande de Costello...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Departed%20logo.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 151,
+  "cast": [
+    {
+      "qid": "Q38111",
+      "slug": "leonardo-dicaprio",
+      "name": "Leonardo DiCaprio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q175535",
+      "slug": "matt-damon",
+      "name": "Matt Damon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q39792",
+      "slug": "jack-nicholson",
+      "name": "Jack Nicholson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q164119",
+      "slug": "mark-wahlberg",
+      "name": "Mark Wahlberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q184572",
+      "slug": "martin-sheen",
+      "name": "Martin Sheen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310932",
+      "slug": "ray-winstone",
+      "name": "Ray Winstone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q264840",
+      "slug": "vera-farmiga",
+      "name": "Vera Farmiga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313918",
+      "slug": "anthony-anderson",
+      "name": "Anthony Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170572",
+      "slug": "alec-baldwin",
+      "name": "Alec Baldwin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1334725",
+      "slug": "kevin-corrigan",
+      "name": "Kevin Corrigan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q451974",
+      "slug": "james-badge-dale",
+      "name": "James Badge Dale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q708801",
+      "slug": "david-o-hara",
+      "name": "David O'Hara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q693301",
+      "slug": "mark-rolston",
+      "name": "Mark Rolston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2276547",
+      "slug": "robert-wahlberg",
+      "name": "Robert Wahlberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q863224",
+      "slug": "billy-smith",
+      "name": "Billy Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275817",
+      "slug": "kristen-dalton",
+      "name": "Kristen Dalton",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q41148",
+    "slug": "martin-scorsese",
+    "name": "Martin Scorsese",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

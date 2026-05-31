@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "en-eaux-troubles",
+  "title": "En eaux troubles",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "En eaux troubles"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film et téléfilm d'horreur",
+    "film ou téléfilm de science-fiction",
+    "thriller",
+    "film ou téléfilm d'aventure",
+    "kaijū",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Dans les profondeurs mystérieuses de l'océan, une équipe de scientifiques expérimentés opère depuis une plateforme de recherche sous-marine dédiée à l'exploration des fonds marins inexplorés. Lors d'une mission audacieuse à bord de leur submersible, ils traversent une couche de gaz singulière, révélant un paysage océanique encore jamais observé par l'homme. Cependant, cette découverte inattendue a des conséquences désastreuses : ils libèrent un mégalodon colossal, un requin préhistorique qui atteint plus de vingt mètres de long, doté d'un appétit insatiable. Face à cette menace inconcevable, Mac, le responsable de la plateforme, décide de faire appel à son ami Jonas Taylor, un sauveteur-plongeur aguerri. Jonas, traumatisé par une tragédie passée qui a coûté la vie à son équipage lors d'une opération précédente, doit surmonter ses démons intérieurs pour faire face à ce prédateur redoutable. Dans une course contre la montre, Jonas et l'équipe se battent pour leur survie tout en tentant de comprendre les mystères et les dangers des profondeurs marines.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Meg%20-%202018%20film.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab3.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": 113,
+  "cast": [
+    {
+      "qid": "Q169963",
+      "slug": "jason-statham",
+      "name": "Jason Statham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254166",
+      "slug": "li-bingbing",
+      "name": "Li Bingbing",
+      "role": "actor"
+    },
+    {
+      "qid": "Q710548",
+      "slug": "winston-chao",
+      "name": "Winston Chao",
+      "role": "actor"
+    },
+    {
+      "qid": "Q359325",
+      "slug": "cliff-curtis",
+      "name": "Cliff Curtis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349548",
+      "slug": "rainn-wilson",
+      "name": "Rainn Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3942185",
+      "slug": "ruby-rose",
+      "name": "Ruby Rose",
+      "role": "actor"
+    },
+    {
+      "qid": "Q960554",
+      "slug": "page-kennedy",
+      "name": "Page Kennedy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4275861",
+      "slug": "jessica-mcnamee",
+      "name": "Jessica McNamee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16420426",
+      "slug": "olafur-darri-olafsson",
+      "name": "Ólafur Darri Ólafsson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q944529",
+      "slug": "robert-taylor",
+      "name": "Robert Taylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309503",
+      "slug": "masi-oka",
+      "name": "Masi Oka",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q470251",
+    "slug": "jon-turteltaub",
+    "name": "Jon Turteltaub",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

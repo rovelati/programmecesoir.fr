@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "shane-west",
+  "name": "Shane West",
+  "worksCount": 2,
+  "description": "acteur, musicien et compositeur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shane%20West%20April%202015%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-06-10",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q239415",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Shane_West",
+    "imdb": "nm0922342",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-ligue-des-gentlemen-extraordinaires",
+      "title": "La ligue des gentlemen extraordinaires"
+    },
+    {
+      "type": "series",
+      "slug": "urgences",
+      "title": "Urgences"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

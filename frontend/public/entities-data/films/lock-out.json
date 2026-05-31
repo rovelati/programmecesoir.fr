@@ -1,0 +1,116 @@
+{
+  "type": "film",
+  "slug": "lock-out",
+  "title": "Lock Out",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Lock Out"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "prison au cinéma"
+  ],
+  "description": "Emilie Warnock, la fille du président des Etats-Unis, arrive à bord d'une prison spatiale expérimentale. Dans cet endroit, 500 criminels dangereux sont maintenus dans un sommeil artificiel. Mais une mutinerie très violente éclate au coeur du vaisseau. Alors que la jeune femme est seulement présente pour une mission humanitaire, elle se retrouve finalement prise en otage par les détenus. Le président des Etats-Unis décide de faire appel à l'agent Snow. L'homme est incarcéré après sa condamnation à tort pour espionnage contre le pays. Il négocie sa libération contre le sauvetage d'Emily Warnock...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q223745",
+      "slug": "guy-pearce",
+      "name": "Guy Pearce",
+      "role": "actor"
+    },
+    {
+      "qid": "Q218542",
+      "slug": "maggie-grace",
+      "name": "Maggie Grace",
+      "role": "actor"
+    },
+    {
+      "qid": "Q636682",
+      "slug": "leni-james",
+      "name": "Leni James",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295148",
+      "slug": "peter-stormare",
+      "name": "Peter Stormare",
+      "role": "actor"
+    },
+    {
+      "qid": "Q381664",
+      "slug": "vincent-regan",
+      "name": "Vincent Regan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q960391",
+      "slug": "joseph-gilgun",
+      "name": "Joseph Gilgun",
+      "role": "actor"
+    },
+    {
+      "qid": "Q731602",
+      "slug": "jacky-ido",
+      "name": "Jacky Ido",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2850926",
+      "slug": "anne-solenne-hatte",
+      "name": "Anne-Solenne Hatte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5815706",
+      "slug": "peter-hudson",
+      "name": "Peter Hudson",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q22692663",
+    "slug": "james-mather",
+    "name": "James Mather",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,77 @@
+{
+  "type": "film",
+  "slug": "jurassic-commando",
+  "title": "Jurassic Commando",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Jurassic Commando"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film de voyage dans le temps"
+  ],
+  "description": "Le docteur Frank Reno, un scientifique de Philadelphie, recrute un commando de mercenaires pour secourir des soldats bloqués à la préhistoire. Ensemble, ils effectuent un voyage dans le temps, dans une époque hostile, peuplée d'une faune et d'une flore dangereuses. Une fois leur mission accomplie, ils reviennent dans le présent, amenant avec eux un terrible danger pour la ville de Los Angeles. Un dinosaure géant et carnivore s'est, en effet, accidentellement invité au voyage de retour...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mcm.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 85,
+  "cast": [
+    {
+      "qid": "Q782662",
+      "slug": "michael-gross",
+      "name": "Michael Gross",
+      "role": "actor"
+    },
+    {
+      "qid": "Q532098",
+      "slug": "christopher-atkins",
+      "name": "Christopher Atkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1320797",
+      "slug": "greg-evigan",
+      "name": "Greg Evigan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7608723",
+      "slug": "stephen-blackehart",
+      "name": "Stephen Blackehart",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1546566",
+    "slug": "griff-furst",
+    "name": "Griff Furst",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

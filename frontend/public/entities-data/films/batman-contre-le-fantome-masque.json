@@ -1,0 +1,111 @@
+{
+  "type": "film",
+  "slug": "batman-contre-le-fantome-masque",
+  "title": "Batman contre le fantôme masqué",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Batman contre le fantôme masqué"
+  ],
+  "genres": [
+    "néo-noir",
+    "film ou téléfilm à énigme",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action"
+  ],
+  "description": "Les pontes de la mafia de Gotham City ne savent plus où se cacher. Un mystérieux vengeur masqué, aussi terrifiant qu'insaisissable, a en effet entrepris de les éliminer un à un, à grands coups de crochet d'acier. A peine Batman a-t-il commencé à enquêter sur cette hécatombe qu'il apprend que la police le soupçonne. Son trouble s'accroît lorsqu'il retrouve Andrea, son ex-fiancée, dont il est toujours amoureux. Tandis qu'ils s'abandonnent à la douceur des souvenirs, Valestra, l'un des derniers parrains survivants, demande aide et assistance au Joker, l'éternel ennemi de Batman. Pour toute réponse, le sinistre personnage l'abat froidement et s'arrange pour mettre ce crime sur le dos de Batman. Celui-ci, traqué par la police, est sauvé de justesse par la belle Andrea...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1993,
+  "durationMinutes": 77,
+  "cast": [
+    {
+      "qid": "Q461264",
+      "slug": "kevin-conroy",
+      "name": "Kevin Conroy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228925",
+      "slug": "dana-delany",
+      "name": "Dana Delany",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315090",
+      "slug": "stacy-keach",
+      "name": "Stacy Keach",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318220",
+      "slug": "abe-vigoda",
+      "name": "Abe Vigoda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210447",
+      "slug": "mark-hamill",
+      "name": "Mark Hamill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q531718",
+      "slug": "efrem-zimbalist-jr",
+      "name": "Efrem Zimbalist Jr.",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1889355",
+      "slug": "robert-costanzo",
+      "name": "Robert Costanzo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1209753",
+      "slug": "dick-miller",
+      "name": "Dick Miller",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3657027",
+    "slug": "eric-radomski",
+    "name": "Eric Radomski",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "bernie",
+  "title": "Bernie",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Bernie"
+  ],
+  "genres": [
+    "comédie",
+    "drame"
+  ],
+  "description": "A 30 ans, Bernie décide que le temps est venu pour lui de quitter l'orphelinat où il a grandi et d'affronter le monde qui l'entoure. Il commence par rechercher la trace de ses parents et découvre qu'à l'âge de deux semaines, ils l'ont jeté dans le vide-ordures. Bernie se refuse à admettre cette vérité...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1996,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q124389",
+      "slug": "albert-dupontel",
+      "name": "Albert Dupontel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3439965",
+      "slug": "roland-blanche",
+      "name": "Roland Blanche",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460423",
+      "slug": "claude-perron",
+      "name": "Claude Perron",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3144876",
+      "slug": "helene-vincent",
+      "name": "Hélène Vincent",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3371652",
+      "slug": "paul-le-person",
+      "name": "Paul Le Person",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3439960",
+      "slug": "roland-bertin",
+      "name": "Roland Bertin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380809",
+      "slug": "philippe-uchan",
+      "name": "Philippe Uchan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q288180",
+      "slug": "eric-elmosnino",
+      "name": "Éric Elmosnino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2856967",
+      "slug": "antoinette-moya",
+      "name": "Antoinette Moya",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830037",
+      "slug": "alain-libolt",
+      "name": "Alain Libolt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3052937",
+      "slug": "emmanuelle-bougerol",
+      "name": "Emmanuelle Bougerol",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2942064",
+      "slug": "catherine-samie",
+      "name": "Catherine Samie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q675471",
+      "slug": "lucia-sanchez",
+      "name": "Lucia Sanchez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1930952",
+      "slug": "michel-vuillermoz",
+      "name": "Michel Vuillermoz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3292200",
+      "slug": "marie-philomene-nga",
+      "name": "Marie-Philomène Nga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3264512",
+      "slug": "loic-houdre",
+      "name": "Loïc Houdré",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q124389",
+    "slug": "albert-dupontel",
+    "name": "Albert Dupontel",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

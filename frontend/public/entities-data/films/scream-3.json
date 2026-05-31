@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "scream-3",
+  "title": "Scream 3",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Scream 3"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "slasher",
+    "film ou téléfilm à énigme"
+  ],
+  "description": "Accusé à tort des horribles meurtres perpétrés jadis sur le campus de Woodsboro, Cotton Weary a rapidement tourné la page et a même, paradoxalement, profité de cette embarrassante situation pour créer une émission radio à succès. Mais ce soir, en rentrant chez lui, le jeune producteur ne sait pas encore que la mort lui a donné rendez-vous. Le tueur masqué vient en effet de refaire surface. Il veut également mettre la main sur Sidney, qui vit désormais recluse à la campagne. Seul Dewey, devenu conseiller technique sur le tournage de \"Stab 3\" - une fiction largement inspirée des meurtres commis à Woodsboro -, sait où la jeune femme s'est retirée...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2000,
+  "durationMinutes": 117,
+  "cast": [
+    {
+      "qid": "Q193482",
+      "slug": "neve-campbell",
+      "name": "Neve Campbell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294185",
+      "slug": "david-arquette",
+      "name": "David Arquette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q58912",
+      "slug": "courteney-cox",
+      "name": "Courteney Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q204586",
+      "slug": "parker-posey",
+      "name": "Parker Posey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q364822",
+      "slug": "scott-foley",
+      "name": "Scott Foley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212518",
+      "slug": "patrick-dempsey",
+      "name": "Patrick Dempsey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2669794",
+      "slug": "deon-richmond",
+      "name": "Deon Richmond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230308",
+      "slug": "emily-mortimer",
+      "name": "Emily Mortimer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312077",
+      "slug": "lance-henriksen",
+      "name": "Lance Henriksen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1319532",
+      "slug": "matt-keeslar",
+      "name": "Matt Keeslar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230993",
+      "slug": "jenny-mccarthy",
+      "name": "Jenny McCarthy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298368",
+      "slug": "liev-schreiber",
+      "name": "Liev Schreiber",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230615",
+      "slug": "kelly-rutherford",
+      "name": "Kelly Rutherford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q343564",
+      "slug": "patrick-warburton",
+      "name": "Patrick Warburton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q355133",
+      "slug": "jamie-kennedy",
+      "name": "Jamie Kennedy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2050378",
+      "slug": "josh-pais",
+      "name": "Josh Pais",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q223992",
+    "slug": "wes-craven",
+    "name": "Wes Craven",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

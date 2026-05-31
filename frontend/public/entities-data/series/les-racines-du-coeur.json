@@ -1,0 +1,303 @@
+{
+  "type": "series",
+  "slug": "les-racines-du-coeur",
+  "title": "Les racines du coeur",
+  "airingsCount": 60,
+  "sourceTitles": [
+    "Les racines du coeur"
+  ],
+  "genres": [
+    "Série sentimentale"
+  ],
+  "description": "Parmi les légendes et les mystères, un homme seul au monde et sans aucun bien fixe son destin au pied d'un arbre jequitibá. Avec la nature pour témoin, il renaît et établit un pacte qui l'accompagnera tout au long de sa carrière.\n\nRéalisateur(s) : Gustavo Fernández, Pedro Peregrino\nActeurs : Giulia Buscacio (Sandra de Brito da Costa Coutinho Inocêncio), Gabriela Medeiros (Isabela Carvalho), Adanilo Reis (jeune Deocleciano), Antonio Calloni (Colonel Belarmino Ferreira), Maria Fernanda Cândido (Cândida), Humberto Carrão (jeune José Inocêncio), Edvana Carvalho (Inácia de Jesus Galvão), Chico Díaz (Priest Santo), Enrique Diaz (Colonel Firmino Gouveia), Thereza Fonseca (Mariana), Fábio Lago (Venâncio), Evaldo Macarrão (Jupará), Marcello Melo Junior, Matheus Nachtergaele (Norberto dos Reis), Juliana Paes (Jacutinga de Arrabal), Belize Pombal (Quitéria), Duda Santos (Maria Santa Inocêncio), Gabriel Sater (Young Rachid)",
+  "descriptionAi": "Cette série sentimentale plonge le téléspectateur dans une atmosphère envoûtante, mêlant légendes brésiliennes et destinées humaines. Elle suit le parcours initiatique d'un homme qui, au pied d'un arbre sacré, fait un pacte qui scellera son avenir. L'ambiance est poétique et mystique, portée par la nature omniprésente. L'intérêt réside dans cette quête de renaissance et les liens profonds qui unissent les personnages à leurs racines et à leurs passions. Une fresque émouvante sur la résilience et les promesses qui façonnent une vie, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguadeloupefr.svg",
+      "airingsCount": 10
+    },
+    {
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvmartiniquefr.svg",
+      "airingsCount": 10
+    },
+    {
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguyanefr.svg",
+      "airingsCount": 10
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 10
+    },
+    {
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tvsudmarseillefr.svg",
+      "airingsCount": 10
+    },
+    {
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv7-bordeaux.png",
+      "airingsCount": 10
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0215c345-4cf0-4bfc-b319-9c48461e7501",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvguadeloupefr/les-racines-du-coeur",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 01:25:00+00",
+      "endTime": "2026-04-20 02:11:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c4407386-7a6f-43c8-a211-130e9d553899",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvguyanefr/les-racines-du-coeur",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 01:25:00+00",
+      "endTime": "2026-04-20 02:11:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "dee0b7b4-7855-4a1f-96b9-f58730481524",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvmartiniquefr/les-racines-du-coeur",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 01:25:00+00",
+      "endTime": "2026-04-20 02:11:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b88ed895-317e-4821-8cf2-87b2fc513577",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/tv7-bordeaux/les-racines-du-coeur",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 01:25:00+00",
+      "endTime": "2026-04-20 02:11:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "6d331b3c-438c-402b-98b3-2df921cfc3ac",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/tvsudmarseillefr/les-racines-du-coeur",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 01:25:00+00",
+      "endTime": "2026-04-20 02:11:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ac0c2a11-f79b-4943-9f64-95f625c55208",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvguadeloupefr/les-racines-du-coeur",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 02:11:00+00",
+      "endTime": "2026-04-20 03:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ae0fcc62-c774-4af6-9901-d359083b4936",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvguyanefr/les-racines-du-coeur",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 02:11:00+00",
+      "endTime": "2026-04-20 03:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "76cf0736-faeb-456c-844e-5816bdcab69d",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvmartiniquefr/les-racines-du-coeur",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 02:11:00+00",
+      "endTime": "2026-04-20 03:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2cc90ca3-de1a-474f-b0f4-321bceb41ecf",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/tv7-bordeaux/les-racines-du-coeur",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 02:11:00+00",
+      "endTime": "2026-04-20 03:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f92baecb-61a1-4a04-9592-f2a0e7fb2f2c",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/tvsudmarseillefr/les-racines-du-coeur",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 02:11:00+00",
+      "endTime": "2026-04-20 03:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ba7967bb-eac0-451d-b292-452d6ba76274",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvguadeloupefr/les-racines-du-coeur",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 11:55:00+00",
+      "endTime": "2026-04-20 12:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "00862967-e357-4c51-b8de-11255a24f858",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvguyanefr/les-racines-du-coeur",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 11:55:00+00",
+      "endTime": "2026-04-20 12:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "94a8f230-154f-442a-98ed-6b44ab703974",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvmartiniquefr/les-racines-du-coeur",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 11:55:00+00",
+      "endTime": "2026-04-20 12:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "46934116-00ed-4898-8430-beabbf30396d",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/tv7-bordeaux/les-racines-du-coeur",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 11:55:00+00",
+      "endTime": "2026-04-20 12:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "39d769dd-ef63-47ce-bdd1-6bc48d445bff",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/tvsudmarseillefr/les-racines-du-coeur",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 11:55:00+00",
+      "endTime": "2026-04-20 12:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "6b7deb92-5d68-4c63-ae07-b0adf1e5405a",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvguadeloupefr/les-racines-du-coeur",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 12:45:00+00",
+      "endTime": "2026-04-20 13:34:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "dc2a005e-1438-4f22-86fa-84bcea784b3a",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvguyanefr/les-racines-du-coeur",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 12:45:00+00",
+      "endTime": "2026-04-20 13:34:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "868c9cd0-a124-4844-a8d9-a74c6ceb865d",
+      "title": "Les racines du coeur",
+      "programSlug": "les-racines-du-coeur",
+      "programUrl": "/programme/atvmartiniquefr/les-racines-du-coeur",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 12:45:00+00",
+      "endTime": "2026-04-20 13:34:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T22:41:31.230Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 01:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "dick-miller",
+  "name": "Dick Miller",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dick%20Miller%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1928-12-25",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1209753",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dick_Miller",
+    "imdb": "nm0588241",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "batman-contre-le-fantome-masque",
+      "title": "Batman contre le fantôme masqué"
+    },
+    {
+      "type": "film",
+      "slug": "dresse-pour-tuer",
+      "title": "Dressé pour tuer"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

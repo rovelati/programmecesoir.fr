@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "delphine-baril",
+  "name": "Delphine Baril",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Delphine%20Baril.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-01-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q16161373",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Delphine_Baril",
+    "imdb": "nm2120445",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-pistolets-en-plastique",
+      "title": "Les pistolets en plastique"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fe87a507-19f0-4f95-a887-45371d772aa4",
+      "title": "Les pistolets en plastique",
+      "programSlug": "les-pistolets-en-plastique",
+      "programUrl": "/programme/cine-festival/les-pistolets-en-plastique",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-25 18:50:00+00",
+      "endTime": "2026-04-25 20:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

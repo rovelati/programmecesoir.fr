@@ -1,0 +1,86 @@
+{
+  "type": "film",
+  "slug": "maximum-ride",
+  "title": "Maximum Ride",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Maximum Ride"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm d'aventure",
+    "comédie",
+    "film ou téléfilm de science-fiction",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Six enfants ont été génétiquement modifiés. Ils sont à 98% humains et 2% oiseaux. Grâce à leurs capacités, ils parviennent à échapper à leurs créateurs apprentis-sorciers. Des hommes-loups sont alors lancés sur leurs traces pour les éliminer.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 88,
+  "cast": [
+    {
+      "qid": "Q2057710",
+      "slug": "patrick-johnson",
+      "name": "Patrick Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q522724",
+      "slug": "peter-o-brien",
+      "name": "Peter O'Brien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14613914",
+      "slug": "zayne-emory",
+      "name": "Zayne Emory",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20090949",
+      "slug": "tina-huang",
+      "name": "Tina Huang",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109358882",
+      "slug": "q109358882",
+      "name": "Q109358882",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q131340797",
+    "slug": "jay-martin",
+    "name": "Jay Martin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

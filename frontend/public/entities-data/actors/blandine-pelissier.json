@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "blandine-pelissier",
+  "name": "Blandine Pélissier",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blandine%20P%C3%A9lissier.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-03-04",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2906106",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Blandine_P%C3%A9lissier",
+    "imdb": "nm0670875",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "hors-de-prix",
+      "title": "Hors de prix"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

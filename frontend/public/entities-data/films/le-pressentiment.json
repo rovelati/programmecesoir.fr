@@ -1,0 +1,71 @@
+{
+  "type": "film",
+  "slug": "le-pressentiment",
+  "title": "Le pressentiment",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le pressentiment"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Charles Benesteau est avocat. Du jour au lendemain, il décide de quitter sa vie bourgeoise, ses amis, sa famille et sa situation. Il loue un petit appartement dans un quartier populaire de Paris et tente de retrouver, dans l'écriture et la solitude, une sérénité intérieure. Mais son nouvel environnement n'est pas aussi calme qu'il se l'imaginait. Un de ses voisins, en instance de divorce, vient lui demander conseil. Quelques jours plus tard, il est emmené par la police pour avoir blessé son épouse. La mère étant à l'hôpital et le père en prison, leur fille Sabrina se retrouve seule. A la demande de voisins, Charles accepte de l'héberger...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7d078269-80ac-4271-a986-a75080eab346",
+      "title": "Le pressentiment",
+      "programSlug": "le-pressentiment",
+      "programUrl": "/programme/canal-grand-ecran/le-pressentiment",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 23:54:00+00",
+      "endTime": "2026-04-21 01:35:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q615469",
+      "slug": "jean-pierre-darroussin",
+      "name": "Jean-Pierre Darroussin",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q615469",
+    "slug": "jean-pierre-darroussin",
+    "name": "Jean-Pierre Darroussin",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 23:54:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "dans-l-ombre-des-dunes",
+  "title": "Dans l'ombre des dunes",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Dans l'ombre des dunes"
+  ],
+  "genres": [
+    "Telefilms",
+    "Téléfilm",
+    "Téléfilms"
+  ],
+  "description": "Becker, un cador de la criminelle de Paris, débarque chez Julie, sa femme qui, lasse de le voir faire passer ses enquêtes avant tout le reste, est partie se réfugier avec les enfants dans le village de son enfance, entre forêt de pins et océan. Hélas, la région, d'habitude si tranquille, est sous le choc, après un horrible meurtre. Une affaire qui inquiète Evelyne, la belle-mère de Becker, en charge de la mairie du village. Evelyne demande à son gendre d'épauler la gendarmerie locale. Mais comment espérer reconquérir sa femme en reprenant son rôle de flic à peine arrivé ? Becker doit démasquer le meurtrier tout en espérant sauver son couple...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tipik.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-une.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

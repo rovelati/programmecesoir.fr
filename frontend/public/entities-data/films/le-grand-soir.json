@@ -1,0 +1,89 @@
+{
+  "type": "film",
+  "slug": "le-grand-soir",
+  "title": "Le grand soir",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Le grand soir"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Une famille tient un restaurant, \"La Pataterie\", implanté dans une zone commerciale. Les parents, Marie-Annick et René, s'en occupent au quotidien. Le fils aîné, Not, vit en marge de la société. Il est considéré comme le plus vieux punk à chien d'Europe. De son côté, Jean-Pierre, l'autre frère, est vendeur dans un magasin de grande distribution de literie. Mais celui-ci, qui vient d'être licencié, vit très mal la situation. Après avoir tenté de s'immoler avec de l'essence dans un supermarché, il retrouve Not, qui lui coupe les cheveux et bouscule ses habitudes. Les deux frères commencent une révolution avec leurs parents, mais à leur manière...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6f5a90ad-aefe-4891-9810-8bf82378decb",
+      "title": "Le grand soir",
+      "programSlug": "le-grand-soir",
+      "programUrl": "/programme/cine-festival/le-grand-soir",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-19 06:13:00+00",
+      "endTime": "2026-04-19 07:46:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "84895390-a222-4300-abca-1df5a63d7024",
+      "title": "Le grand soir",
+      "programSlug": "le-grand-soir",
+      "programUrl": "/programme/cine-festival/le-grand-soir",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 01:06:00+00",
+      "endTime": "2026-04-23 03:24:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1976,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q1974920",
+      "slug": "niels-arestrup",
+      "name": "Niels Arestrup",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3159905",
+      "slug": "jacques-roman",
+      "name": "Jacques Roman",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q116204",
+    "slug": "francis-reusser",
+    "name": "Francis Reusser",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 06:13:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

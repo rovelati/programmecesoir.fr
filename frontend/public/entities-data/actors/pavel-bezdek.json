@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "pavel-bezdek",
+  "name": "Pavel Bezdek",
+  "worksCount": 1,
+  "description": "acteur tchèque",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-07-03",
+  "nationality": "Tchéquie",
+  "jobTitle": "coordinateur des cascades",
+  "externalIds": {
+    "wikidata": "Q7155574",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pavel_Bezdek",
+    "imdb": "nm0974339",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-ligue-des-gentlemen-extraordinaires",
+      "title": "La ligue des gentlemen extraordinaires"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,120 @@
+{
+  "type": "film",
+  "slug": "le-veteran",
+  "title": "Le Vétéran",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le Vétéran"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller"
+  ],
+  "description": "Eleveur de bétail en Arizona, Jim Hanson, ancien militaire, assiste un jour à la traversée de la frontière avec le Mexique par une mère et son enfant, poursuivis par des tueurs. Avant de mourir, la mère demande à Jim de prendre soin de son fils, Miguel. Pour cela, il va devoir affronter les criminels.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5c106664-ac23-4a0f-9920-35a94b315ac3",
+      "title": "Le Vétéran",
+      "programSlug": "le-veteran",
+      "programUrl": "/programme/cine-frisson/le-veteran",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 18:50:00+00",
+      "endTime": "2026-04-22 20:34:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "acc65da5-d0c5-4763-9d59-c67b14c1b258",
+      "title": "Le Vétéran",
+      "programSlug": "le-veteran",
+      "programUrl": "/programme/cine-frisson/le-veteran",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 13:48:00+00",
+      "endTime": "2026-04-23 15:34:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "36bc28e5-68a3-49d0-a86a-96ea93299f89",
+      "title": "Le Vétéran",
+      "programSlug": "le-veteran",
+      "programUrl": "/programme/cine-frisson/le-veteran",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 15:35:00+00",
+      "endTime": "2026-04-25 17:19:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q58444",
+      "slug": "liam-neeson",
+      "name": "Liam Neeson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q268298",
+      "slug": "katheryn-winnick",
+      "name": "Katheryn Winnick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1269056",
+      "slug": "juan-pablo-raba",
+      "name": "Juan Pablo Raba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1191146",
+      "slug": "teresa-ruiz",
+      "name": "Teresa Ruiz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q119996163",
+      "slug": "jacob-perez",
+      "name": "Jacob Perez",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q324177",
+    "slug": "robert-lorenz",
+    "name": "Robert Lorenz",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

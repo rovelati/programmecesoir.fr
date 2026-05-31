@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "david-belle",
+  "name": "David Belle",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Belle%20NewYorker.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-04-29",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q333814",
+    "wikipedia": "https://fr.wikipedia.org/wiki/David_Belle",
+    "imdb": "nm1042642",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "brick-mansions",
+      "title": "Brick Mansions"
+    },
+    {
+      "type": "film",
+      "slug": "femme-fatale",
+      "title": "Femme fatale"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

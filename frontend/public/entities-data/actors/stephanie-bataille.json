@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "stephanie-bataille",
+  "name": "Stéphanie Bataille",
+  "worksCount": 1,
+  "description": "comédienne et humoriste française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-06-07",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3502153",
+    "wikipedia": "https://fr.wikipedia.org/wiki/St%C3%A9phanie_Bataille",
+    "imdb": "nm1589768",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "une-famille-a-louer",
+      "title": "Une famille à louer"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "be216e82-4107-484f-beac-3a9347f288d6",
+      "title": "Une famille à louer",
+      "programSlug": "une-famille-a-louer",
+      "programUrl": "/programme/cine-emotion/une-famille-a-louer",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 20:27:00+00",
+      "endTime": "2026-04-25 22:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 20:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

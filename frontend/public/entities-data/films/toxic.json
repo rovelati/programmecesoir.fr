@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "toxic",
+  "title": "Toxic",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Toxic"
+  ],
+  "genres": [
+    "dance-pop",
+    "techno-pop"
+  ],
+  "description": "Dans une ville industrielle de Lituanie. Rêvant d'échapper à la morosité de leur quartier, Marija et Kristina, toutes deux âgées de 13 ans, se rencontrent dans une école de mannequinat locale. Les promesses d'une vie meilleure, malgré la concurrence ardue, les poussent à brutaliser leur corps pour atteindre la perfection. Gênée par un léger handicap, Marija se démène pour le rendre invisible, tandis que Kristina emploie les grands moyens pour contrôler son poids. Cette soif de réussite les conduit à grandir bien trop vite...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2004,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

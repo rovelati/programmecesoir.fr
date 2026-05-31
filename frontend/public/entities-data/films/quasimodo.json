@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "quasimodo",
+  "title": "Quasimodo",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Quasimodo"
+  ],
+  "genres": [
+    "drame",
+    "film et téléfilm d'horreur",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "Comme chaque jour de l'an sous le règne de Louis XI, une foire populaire a lieu sur le parvis de Notre-Dame, à Paris. C'est là que l'alchimiste Frollo remarque Esmeralda, une ravissante danseuse dont la grâce captive la foule et le séduit lui-même aussitôt. A peine a-t-il le temps de préparer son enlèvement que la belle, poursuivie par des gardes, se réfugie dans la cathédrale. Frollo ne s'avoue par vaincu pour autant : il charge Quasimodo, le bossu de Notre-Dame, d'enlever la jeune femme. L'homme au physique contrefait, qui se souvient qu'Esmeralda lui avait donné de l'eau lorsqu'il était au pilori, est heureux de voir sa mission compromise par l'intervention de Phoebus, le beau capitaine des archers, dont la bohémienne s'éprend sans tarder...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maureen%20O'Hara%20as%20Esmerelda%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1939,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q55264",
+      "slug": "charles-laughton",
+      "name": "Charles Laughton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229276",
+      "slug": "maureen-o-hara",
+      "name": "Maureen O'Hara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q527735",
+      "slug": "cedric-hardwicke",
+      "name": "Cedric Hardwicke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317026",
+      "slug": "thomas-mitchell",
+      "name": "Thomas Mitchell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q119935",
+      "slug": "edmond-o-brien",
+      "name": "Edmond O'Brien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q744955",
+      "slug": "harry-davenport",
+      "name": "Harry Davenport",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830551",
+      "slug": "alan-marshal",
+      "name": "Alan Marshal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3565777",
+      "slug": "walter-hampden",
+      "name": "Walter Hampden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q962037",
+      "slug": "fritz-leiber",
+      "name": "Fritz Leiber",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43883",
+      "slug": "george-tobias",
+      "name": "George Tobias",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2696164",
+      "slug": "rod-la-rocque",
+      "name": "Rod La Rocque",
+      "role": "actor"
+    },
+    {
+      "qid": "Q391601",
+      "slug": "kathryn-adams",
+      "name": "Kathryn Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q434901",
+      "slug": "lionel-belmore",
+      "name": "Lionel Belmore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q469123",
+      "slug": "laura-hope-crews",
+      "name": "Laura Hope Crews",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1333056",
+      "slug": "elmo-lincoln",
+      "name": "Elmo Lincoln",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289991",
+      "slug": "gail-patrick",
+      "name": "Gail Patrick",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55413",
+    "slug": "william-dieterle",
+    "name": "William Dieterle",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "terence-hill",
+  "name": "Terence Hill",
+  "worksCount": 2,
+  "description": "acteur italien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Terence%20Hill%20in%20Dresden%20(20.08.2018).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1939-03-29",
+  "nationality": "Italie",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q243430",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Terence_Hill",
+    "imdb": "nm0001352",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "deux-super-flics",
+      "title": "Deux super-flics"
+    },
+    {
+      "type": "film",
+      "slug": "mon-nom-est-personne",
+      "title": "Mon nom est Personne"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

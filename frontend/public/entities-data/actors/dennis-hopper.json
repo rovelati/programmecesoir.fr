@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "dennis-hopper",
+  "name": "Dennis Hopper",
+  "worksCount": 2,
+  "description": "acteur, réalisateur, poète, peintre et photographe américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dennis%20Hopper%20Cannes%202008%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1936-05-17",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q102711",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dennis_Hopper",
+    "imdb": "nm0000454",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "apocalypse-now-final-cut",
+      "title": "Apocalypse Now Final Cut"
+    },
+    {
+      "type": "film",
+      "slug": "la-fureur-de-vivre",
+      "title": "La fureur de vivre"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

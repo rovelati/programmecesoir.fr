@@ -1,0 +1,76 @@
+{
+  "type": "series",
+  "slug": "harry-bosch",
+  "title": "Harry Bosch",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Harry Bosch - Saison 1"
+  ],
+  "genres": [
+    "littérature policière"
+  ],
+  "description": "Bosch interroge le docteur Guyot au sujet des enfants qui jouaient dans les collines. Puis il reçoit un appel de Waits l'informant de la mort de sa mère. Pounds incite Julia à porter plainte contre Bosch pour harcèlement, en échange de quoi le dernier rapport établi contre elle pourrait être reconsidéré...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "26cb2050-39ac-4ffd-a1d8-47d90ac6de6f",
+      "title": "Harry Bosch - Saison 2",
+      "programSlug": "harry-bosch-saison-2",
+      "programUrl": "/programme/polar/harry-bosch-saison-2",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 20:30:00+00",
+      "endTime": "2026-04-22 21:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "cf7e8401-2e04-4c31-8668-b141ded12fe2",
+      "title": "Harry Bosch - Saison 2",
+      "programSlug": "harry-bosch-saison-2",
+      "programUrl": "/programme/polar/harry-bosch-saison-2",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 21:20:00+00",
+      "endTime": "2026-04-22 22:05:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": {
+    "qid": "Q313193",
+    "slug": "michael-connelly",
+    "name": "Michael Connelly",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-22 20:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

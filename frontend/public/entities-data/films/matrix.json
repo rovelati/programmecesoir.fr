@@ -1,0 +1,169 @@
+{
+  "type": "film",
+  "slug": "matrix",
+  "title": "Matrix",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Matrix"
+  ],
+  "genres": [
+    "thriller",
+    "film dystopique",
+    "cyberpunk",
+    "thriller d'action",
+    "film ou téléfilm post-apocalyptique",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "film noir",
+    "film de super-héros"
+  ],
+  "description": "Dans un futur proche, un jeune programmeur, Thomas Anderson, mène une vie routinière entre son travail \"officiel\", plutôt assommant, et ses activités nocturnes de pirate informatique, qu'il mène sous le pseudonyme de Neo. Un jour, un certain Morpheus le contacte, l'invitant à aller au-delà des apparences pour lutter contre \"la Matrice\". Très intrigué, Neo finit par rencontrer son énigmatique interlocuteur. Ce qu'il apprend alors le stupéfie : d'après Morpheus, le monde dans lequel il vit n'est qu'une immense illusion, générée par un ordinateur ultra-perfectionné et contrôlée par un mystérieux organisme : la Matrice. Neo serait le seul homme capable de vaincre la Matrice et de mettre fin à l'esclavage de ses congénères...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The.Matrix.glmatrix.1.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e63f4115-4e5f-409b-8635-860651827547",
+      "title": "Matrix",
+      "programSlug": "matrix",
+      "programUrl": "/programme/canal-grand-ecran/matrix",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 07:19:00+00",
+      "endTime": "2026-04-20 09:30:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1999,
+  "durationMinutes": 136,
+  "cast": [
+    {
+      "qid": "Q193048",
+      "slug": "laurence-fishburne",
+      "name": "Laurence Fishburne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q206890",
+      "slug": "carrie-anne-moss",
+      "name": "Carrie-Anne Moss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296883",
+      "slug": "joe-pantoliano",
+      "name": "Joe Pantoliano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42204",
+      "slug": "hugo-weaving",
+      "name": "Hugo Weaving",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43416",
+      "slug": "keanu-reeves",
+      "name": "Keanu Reeves",
+      "role": "actor"
+    },
+    {
+      "qid": "Q455234",
+      "slug": "gloria-foster",
+      "name": "Gloria Foster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6306950",
+      "slug": "julian-arahanga",
+      "name": "Julian Arahanga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3324448",
+      "slug": "anthony-ray-parker",
+      "name": "Anthony Ray Parker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1236595",
+      "slug": "marcus-chong",
+      "name": "Marcus Chong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2424724",
+      "slug": "matt-doran",
+      "name": "Matt Doran",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4882899",
+      "slug": "belinda-mcclory",
+      "name": "Belinda McClory",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3391203",
+      "slug": "paul-goddard",
+      "name": "Paul Goddard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q944529",
+      "slug": "robert-taylor",
+      "name": "Robert Taylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2616690",
+      "slug": "ada-nicodemou",
+      "name": "Ada Nicodemou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2985403",
+      "slug": "steve-dodd",
+      "name": "Steve Dodd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21870719",
+      "slug": "rowan-witt",
+      "name": "Rowan Witt",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q9545711",
+    "slug": "lana-wachowski",
+    "name": "Lana Wachowski",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 07:19:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "bruce-malmuth",
+  "name": "Bruce Malmuth",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1934-02-04",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q991733",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bruce_Malmuth",
+    "imdb": "nm0540330",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "karate-kid-ii",
+      "title": "Karaté Kid II"
+    },
+    {
+      "type": "film",
+      "slug": "echec-et-mort",
+      "title": "Echec et mort"
+    },
+    {
+      "type": "film",
+      "slug": "karate-kid-le-moment-de-verite",
+      "title": "Karaté Kid, le moment de vérité"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

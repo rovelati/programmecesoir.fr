@@ -1,0 +1,89 @@
+{
+  "type": "actor",
+  "slug": "christian-bouillette",
+  "name": "Christian Bouillette",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Bouillette%20Cabourg%202019.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1937-01-30",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2965070",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Christian_Bouillette",
+    "imdb": "nm0099346",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "legitime-violence",
+      "title": "Légitime violence"
+    },
+    {
+      "type": "film",
+      "slug": "passe-ton-bac-d-abord",
+      "title": "Passe ton bac d'abord"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "446bead3-c7c9-4330-a059-47db43c2c967",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-19 23:50:00+00",
+      "endTime": "2026-04-20 01:24:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b41982db-b0e7-4ba1-a15f-c77d25a6a119",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 22:17:00+00",
+      "endTime": "2026-04-21 23:51:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "81de72af-0ee0-4730-9aff-48b3c79afa2f",
+      "title": "Passe ton bac d'abord",
+      "programSlug": "passe-ton-bac-d-abord",
+      "programUrl": "/programme/cine-festival/passe-ton-bac-d-abord",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-22 09:51:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "50268974-b6ba-4329-931b-197093e3efd7",
+      "title": "Légitime violence",
+      "programSlug": "legitime-violence",
+      "programUrl": "/programme/action/legitime-violence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 00:06:00+00",
+      "endTime": "2026-04-24 01:40:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 23:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

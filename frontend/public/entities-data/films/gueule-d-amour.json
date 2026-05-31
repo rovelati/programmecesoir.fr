@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "gueule-d-amour",
+  "title": "Gueule d'amour",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Gueule d'amour"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Le sous-officier Lucien Bourrache est en garnison à Orange. On le surnomme \"Gueule d'amour\" parce qu'il plaît beaucoup aux femmes. Mais il n'aime pas trop s'attacher et préfère cultiver l'amitié de René Dauphin, le médecin-major. Un jour, lors d'un voyage à Cannes, il rencontre Madeleine Courtois, une belle jeune femme habituée au luxe. Celle-ci perd au jeu l'argent que Lucien venait d'hériter d'une tante, avant de quitter la ville sans laisser d'adresse. Très amoureux de Madeleine, il ne se résigne pas à la perdre si vite. Quelque temps plus tard, Lucien, démobilisé, rejoint Paris, où il cherche du travail. Il y retrouve Madeleine par hasard...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1937,
+  "durationMinutes": 94,
+  "cast": [
+    {
+      "qid": "Q23842",
+      "slug": "jean-gabin",
+      "name": "Jean Gabin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2847441",
+      "slug": "andre-carnege",
+      "name": "André Carnège",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848642",
+      "slug": "andre-simeon",
+      "name": "André Siméon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2903090",
+      "slug": "francois-bontemps",
+      "name": "François Bontemps",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3090010",
+      "slug": "frederic-mariotti",
+      "name": "Frédéric Mariotti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3099077",
+      "slug": "gaston-mauger",
+      "name": "Gaston Mauger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3131835",
+      "slug": "henri-poupon",
+      "name": "Henri Poupon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26854",
+      "slug": "jane-marken",
+      "name": "Jane Marken",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3170476",
+      "slug": "jean-ayme",
+      "name": "Jean Ayme",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165763",
+      "slug": "jean-francois-martial",
+      "name": "Jean-François Martial",
+      "role": "actor"
+    },
+    {
+      "qid": "Q200525",
+      "slug": "louis-daquin",
+      "name": "Louis Daquin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3261897",
+      "slug": "louis-florencie",
+      "name": "Louis Florencie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3265454",
+      "slug": "lucien-dayle",
+      "name": "Lucien Dayle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3290696",
+      "slug": "marguerite-deval",
+      "name": "Marguerite Deval",
+      "role": "actor"
+    },
+    {
+      "qid": "Q323175",
+      "slug": "maurice-baquet",
+      "name": "Maurice Baquet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q301484",
+      "slug": "mireille-balin",
+      "name": "Mireille Balin",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1685560",
+    "slug": "jean-gremillon",
+    "name": "Jean Grémillon",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

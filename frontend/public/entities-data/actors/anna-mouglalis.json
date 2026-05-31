@@ -1,0 +1,106 @@
+{
+  "type": "actor",
+  "slug": "anna-mouglalis",
+  "name": "Anna Mouglalis",
+  "worksCount": 3,
+  "description": "actrice française",
+  "descriptionAi": "Anna Mouglalis incarne une actrice française au charisme envoûtant, souvent associée à des rôles dramatiques et des atmosphères intenses et sensuelles. Sa présence à l'écran, marquée par une élégance naturelle et une profondeur mystérieuse, captive immédiatement le regard. Ce qui la rend fascinante pour le téléspectateur, c'est sa capacité à habiter des personnages complexes avec une retenue puissante, suggérant bien plus qu'elle ne montre. Chaque apparition devient une étude de la psyché humaine, servie par une voix grave et un regard pénétrant. Pour découvrir ses performances les plus marquantes, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Mouglalis%20(8121879264).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-04-26",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q270146",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anna_Mouglalis",
+    "imdb": "nm0609662",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-mer-au-loin",
+      "title": "La mer au loin"
+    },
+    {
+      "type": "film",
+      "slug": "mickey-17",
+      "title": "Mickey 17"
+    },
+    {
+      "type": "film",
+      "slug": "le-tigre-et-le-president",
+      "title": "Le Tigre et le Président"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "859fca5e-3e91-4cc0-8855-a64a252c808c",
+      "title": "Le Tigre et le Président",
+      "programSlug": "le-tigre-et-le-president",
+      "programUrl": "/programme/cine-frisson/le-tigre-et-le-president",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 23:18:00+00",
+      "endTime": "2026-04-20 00:53:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d93d53fb-5542-4b79-bf30-76e63423ed2c",
+      "title": "Mickey 17",
+      "programSlug": "mickey-17",
+      "programUrl": "/programme/canal-box-office/mickey-17",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 14:01:00+00",
+      "endTime": "2026-04-22 16:13:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "67b2a73d-1e1a-45f0-890c-3250bf95bf35",
+      "title": "La mer au loin",
+      "programSlug": "la-mer-au-loin",
+      "programUrl": "/programme/paramount-channel/la-mer-au-loin",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 08:05:00+00",
+      "endTime": "2026-04-23 09:55:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "3eafc283-6420-4f65-ba4b-8e881a179525",
+      "title": "La Mer au loin",
+      "programSlug": "la-mer-au-loin",
+      "programUrl": "/programme/canal-cinema/la-mer-au-loin",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 08:05:00+00",
+      "endTime": "2026-04-23 09:58:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "aea55a03-500b-4275-bc0f-1b6c8596cb22",
+      "title": "La Mer au loin",
+      "programSlug": "la-mer-au-loin",
+      "programUrl": "/programme/canal/la-mer-au-loin",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 01:34:00+00",
+      "endTime": "2026-04-25 03:28:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:33.492Z",
+  "nextAiringAt": "2026-04-19 23:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

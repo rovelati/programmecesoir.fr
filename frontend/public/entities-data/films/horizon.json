@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "horizon",
+  "title": "Horizon",
+  "airingsCount": 15,
+  "sourceTitles": [
+    "Horizon"
+  ],
+  "genres": [
+    "Film",
+    "Cinéma"
+  ],
+  "description": "Une famille décide de changer totalement de vie et ouvre une auberge isolée en montagne. Rapidement, ses membres tombent aux mains de la mafia locale.",
+  "descriptionAi": "Dans le genre du thriller dramatique, \"Horizon\" plonge le spectateur dans une atmosphère à la fois majestueuse et oppressante, au cœur de paysages montagneux sauvages. L’intrigue saisissante suit une famille en quête de renouveau, dont le rêve de tranquillité se transforme en cauchemar lorsqu’elle affronte l’emprise brutale de la mafia locale. Le film captive par son exploration des limites de la résistance humaine et des liens familiaux poussés à l’extrême, offrant une tension narrative constante. Pour découvrir comment cette lutte pour la survie et la liberté atteint son paroxysme, ce thriller poignant est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sureal%20Horizon.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 15
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7d9bbe1e-051f-42e1-b6b6-89fd2c26262b",
+      "title": "Horizon",
+      "programSlug": "horizon",
+      "programUrl": "/programme/eurochannel/horizon",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 18:50:00+00",
+      "endTime": "2026-04-19 20:20:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q43261",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Horizon_(physique)",
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:26:48.077Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

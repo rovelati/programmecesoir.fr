@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "alfred-adam",
+  "name": "Alfred Adam",
+  "worksCount": 1,
+  "description": "acteur dramaturge et scénariste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AlfredAdam-1940-Harcourt.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1908-04-04",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2834938",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alfred_Adam",
+    "imdb": "nm0010514",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "que-la-fete-commence",
+      "title": "Que la fête commence"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

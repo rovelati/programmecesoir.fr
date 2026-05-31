@@ -1,0 +1,82 @@
+{
+  "type": "actor",
+  "slug": "lorraine-toussaint",
+  "name": "Lorraine Toussaint",
+  "worksCount": 3,
+  "description": "actrice trinidadienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorraine%20Toussaint%20at%20Paley%20Fest%20Orange%20Is%20The%20New%20Black.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-04-04",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q460786",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lorraine_Toussaint",
+    "imdb": "nm0005501",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "black-dog",
+      "title": "Black Dog"
+    },
+    {
+      "type": "series",
+      "slug": "forever",
+      "title": "Forever"
+    },
+    {
+      "type": "series",
+      "slug": "the-equalizer",
+      "title": "The Equalizer"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ea354af-4791-4d1b-a3ef-169406106784",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/paramount-channel/black-dog",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 06:15:00+00",
+      "endTime": "2026-04-23 08:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "60883db3-f1de-40b2-8b55-5895b2b42e5f",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/canal-cinema/black-dog",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 06:18:00+00",
+      "endTime": "2026-04-23 08:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "a6588f05-4159-4a24-bd71-e123ae94efac",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/canal-box-office/black-dog",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 15:02:00+00",
+      "endTime": "2026-04-24 16:49:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 06:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

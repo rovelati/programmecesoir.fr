@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "tomas-henriquez",
+  "name": "Tomás Henríquez",
+  "worksCount": 1,
+  "description": "acteur vénézuélien",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1921-00-00",
+  "nationality": "Venezuela",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q24176248",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Henr%C3%ADquez",
+    "imdb": "nm0378053",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "the-yacht",
+      "title": "The Yacht"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

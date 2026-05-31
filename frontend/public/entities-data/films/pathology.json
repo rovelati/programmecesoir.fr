@@ -1,0 +1,139 @@
+{
+  "type": "film",
+  "slug": "pathology",
+  "title": "Pathology",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Pathology"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "thriller",
+    "film et téléfilm d'horreur"
+  ],
+  "description": "Ted Grey, brillant interne en médecine légale, rejoint le cours du fameux docteur Morris. Il y rencontre d'autres médecins légistes arrogants et provocateurs qui, après l'avoir rejeté, lui proposent de jouer avec eux. Il s'agit pour ce groupe d'étudiants de parvenir à assassiner quelqu'un sans que les causes du décès puissent être découvertes lors d'une autopsie. D'abord choqué, Ted Grey se laisse prendre au jeu.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/gongfr.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b3f267e-df53-49d5-a5f8-73f58865d771",
+      "title": "Pathology",
+      "programSlug": "pathology",
+      "programUrl": "/programme/gongfr/pathology",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-21 23:10:00+00",
+      "endTime": "2026-04-22 01:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f3226ed2-fd89-4cc7-a29d-83fa72668ffc",
+      "title": "Pathology",
+      "programSlug": "pathology",
+      "programUrl": "/programme/gongfr/pathology",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-24 23:10:00+00",
+      "endTime": "2026-04-25 01:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q83733",
+      "slug": "milo-ventimiglia",
+      "name": "Milo Ventimiglia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q189067",
+      "slug": "alyssa-milano",
+      "name": "Alyssa Milano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262182",
+      "slug": "lauren-lee-smith",
+      "name": "Lauren Lee Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83677",
+      "slug": "michael-weston",
+      "name": "Michael Weston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2062198",
+      "slug": "johnny-whitworth",
+      "name": "Johnny Whitworth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1738023",
+      "slug": "keir-o-donnell",
+      "name": "Keir O'Donnell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q458974",
+      "slug": "larry-drake",
+      "name": "Larry Drake",
+      "role": "actor"
+    },
+    {
+      "qid": "Q550778",
+      "slug": "john-de-lancie",
+      "name": "John de Lancie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1629331",
+      "slug": "mei-melancon",
+      "name": "Mei Melançon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18918",
+      "slug": "sam-witwer",
+      "name": "Sam Witwer",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q103446",
+    "slug": "marc-scholermann",
+    "name": "Marc Schölermann",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 23:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

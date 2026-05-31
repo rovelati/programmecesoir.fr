@@ -1,0 +1,116 @@
+{
+  "type": "actor",
+  "slug": "gerard-depardieu",
+  "name": "Gérard Depardieu",
+  "worksCount": 5,
+  "description": "acteur, chanteur, réalisateur et producteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9rard%20Depardieu%20(Berlin%20Film%20Festival%202010).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1948-12-27",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q106508",
+    "wikipedia": "https://fr.wikipedia.org/wiki/G%C3%A9rard_Depardieu",
+    "imdb": "nm0000367",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "potiche",
+      "title": "Potiche"
+    },
+    {
+      "type": "film",
+      "slug": "bon-voyage",
+      "title": "Bon voyage"
+    },
+    {
+      "type": "film",
+      "slug": "loulou",
+      "title": "Loulou"
+    },
+    {
+      "type": "film",
+      "slug": "maison-de-retraite",
+      "title": "Maison de retraite"
+    },
+    {
+      "type": "film",
+      "slug": "asterix-et-obelix-contre-cesar",
+      "title": "Astérix et Obélix contre César"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d398772e-2789-44c1-a7e4-bdaeb0b55895",
+      "title": "Potiche",
+      "programSlug": "potiche",
+      "programUrl": "/programme/cine-emotion/potiche",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-19 22:11:00+00",
+      "endTime": "2026-04-19 23:51:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3e3fc914-b24c-448e-b448-5eb0fec8a2cd",
+      "title": "Bon voyage",
+      "programSlug": "bon-voyage",
+      "programUrl": "/programme/eurochannel/bon-voyage",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 00:00:00+00",
+      "endTime": "2026-04-21 02:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "3a0402ea-1ec6-4046-9b83-c8c5c51056f5",
+      "title": "Loulou",
+      "programSlug": "loulou",
+      "programUrl": "/programme/cine-festival/loulou",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-21 09:41:00+00",
+      "endTime": "2026-04-21 11:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7df4cb44-9414-472c-a71a-d8807655c3d5",
+      "title": "Loulou",
+      "programSlug": "loulou",
+      "programUrl": "/programme/cine-festival/loulou",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-24 03:26:00+00",
+      "endTime": "2026-04-24 05:07:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "4e7b44d0-6148-43c6-9df7-0545019e8d12",
+      "title": "Potiche",
+      "programSlug": "potiche",
+      "programUrl": "/programme/cine-emotion/potiche",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-24 08:19:00+00",
+      "endTime": "2026-04-24 09:59:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 22:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

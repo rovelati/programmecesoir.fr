@@ -1,0 +1,163 @@
+{
+  "type": "film",
+  "slug": "la-griffe-du-passe",
+  "title": "La griffe du passé",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La griffe du passé"
+  ],
+  "genres": [
+    "film noir",
+    "film ou téléfilm criminel",
+    "drame"
+  ],
+  "description": "Jeff Bailey est gérant de station-service à Bridgeport. Il mène une existence paisible auprès d'Ann, sa compagne, qu'il doit bientôt épouser. Mais son passé ressurgit à l'annonce de l'arrivée d'un certain Whit Sterling dans la région, un joueur professionnel qui avait jadis engagé Jeff, alors détective privé, pour retrouver une certaine Kathie Moffat, disparue après avoir empoché 40 000 dollars. Jeff avait retrouvé Kathie au Mexique et s'était épris d'elle. Tous deux avaient pris la fuite, mais l'associé de Bailey les avait retrouvés, et Kathie avait dû l'abattre...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Out%20of%20the%20Past%20(1947%20poster%20-%20retouched).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "985356ca-2f1e-4e40-958a-32f99089e836",
+      "title": "La griffe du passé",
+      "programSlug": "la-griffe-du-passe",
+      "programUrl": "/programme/tcm-cinema/la-griffe-du-passe",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-24 04:05:00+00",
+      "endTime": "2026-04-24 05:40:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1947,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q16472",
+      "slug": "robert-mitchum",
+      "name": "Robert Mitchum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242373",
+      "slug": "jane-greer",
+      "name": "Jane Greer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104027",
+      "slug": "kirk-douglas",
+      "name": "Kirk Douglas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q658554",
+      "slug": "richard-webb",
+      "name": "Richard Webb",
+      "role": "actor"
+    },
+    {
+      "qid": "Q283335",
+      "slug": "rhonda-fleming",
+      "name": "Rhonda Fleming",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1292944",
+      "slug": "paul-valentine",
+      "name": "Paul Valentine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1210022",
+      "slug": "dickie-moore",
+      "name": "Dickie Moore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3498868",
+      "slug": "steve-brodie",
+      "name": "Steve Brodie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3818856",
+      "slug": "virginia-huston",
+      "name": "Virginia Huston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20972698",
+      "slug": "oliver-blake",
+      "name": "Oliver Blake",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3523796",
+      "slug": "theresa-harris",
+      "name": "Theresa Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14802704",
+      "slug": "john-kellogg",
+      "name": "John Kellogg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1528106",
+      "slug": "frank-wilcox",
+      "name": "Frank Wilcox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3127832",
+      "slug": "harry-hayden",
+      "name": "Harry Hayden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19866655",
+      "slug": "brooks-benedict",
+      "name": "Brooks Benedict",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3296176",
+      "slug": "mary-field",
+      "name": "Mary Field",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55393",
+    "slug": "jacques-tourneur",
+    "name": "Jacques Tourneur",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 04:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

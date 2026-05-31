@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "silvana-gallardo",
+  "name": "Silvana Gallardo",
+  "worksCount": 1,
+  "description": "actrice américaine (1953-2012)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Silvana%20Gallardo%201977%20PBS%20publicity.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-01-13",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q45796",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Silvana_Gallardo",
+    "imdb": "nm0302637",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-justicier-dans-la-ville-2",
+      "title": "Un justicier dans la ville 2"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "142592ba-131b-4c97-b5f6-9de02d9fee28",
+      "title": "Un justicier dans la ville 2",
+      "programSlug": "un-justicier-dans-la-ville-2",
+      "programUrl": "/programme/tcm-cinema/un-justicier-dans-la-ville-2",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-21 20:20:00+00",
+      "endTime": "2026-04-21 21:45:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 20:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

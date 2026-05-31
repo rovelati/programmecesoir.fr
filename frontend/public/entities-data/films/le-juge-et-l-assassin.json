@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "le-juge-et-l-assassin",
+  "title": "Le juge et l'assassin",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le juge et l'assassin",
+    "Le Juge et l'Assassin"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm criminel",
+    "comédie dramatique"
+  ],
+  "description": "A la fin du XIXe siècle, près de Dole. Le sergent Joseph Bouvier est réformé pour ses accès de violence répétés. Après avoir tenté d'assassiner Louise Lesueur, qui refusait de l'épouser, il retourne l'arme contre lui. Mais tous deux survivent. Bouvier, qui a gardé deux balles dans la tête, est interné à l'hospice de Dole. Reconnu sain d'esprit par les médecins, il recouvre sa liberté un an plus tard. C'est alors qu'une série de crimes est perpétrée contre des bergers et des bergères isolés, causant l'émoi dans toute la région. A Privas, Rousseau, un juge aux ambitions politiques, se passionne pour l'affaire et cherche à en démasquer le meurtrier...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1976,
+  "durationMinutes": 128,
+  "cast": [
+    {
+      "qid": "Q106482",
+      "slug": "philippe-noiret",
+      "name": "Philippe Noiret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q347635",
+      "slug": "michel-galabru",
+      "name": "Michel Galabru",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106365",
+      "slug": "isabelle-huppert",
+      "name": "Isabelle Huppert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106326",
+      "slug": "jean-claude-brialy",
+      "name": "Jean-Claude Brialy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2853654",
+      "slug": "antoine-baud",
+      "name": "Antoine Baud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2861621",
+      "slug": "arlette-bonnard",
+      "name": "Arlette Bonnard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q758695",
+      "slug": "aude-landry",
+      "name": "Aude Landry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q534537",
+      "slug": "cecile-vassort",
+      "name": "Cécile Vassort",
+      "role": "actor"
+    },
+    {
+      "qid": "Q451637",
+      "slug": "christine-pascal",
+      "name": "Christine Pascal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2391128",
+      "slug": "daniel-russo",
+      "name": "Daniel Russo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3027048",
+      "slug": "didier-haudepin",
+      "name": "Didier Haudepin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1433258",
+      "slug": "francois-dyrek",
+      "name": "François Dyrek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q728158",
+      "slug": "gerard-jugnot",
+      "name": "Gérard Jugnot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3106216",
+      "slug": "gilles-dyrek",
+      "name": "Gilles Dyrek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1704106",
+      "slug": "jean-bretonniere",
+      "name": "Jean Bretonnière",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165273",
+      "slug": "jean-claude-de-goros",
+      "name": "Jean-Claude de Goros",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q337226",
+    "slug": "bertrand-tavernier",
+    "name": "Bertrand Tavernier",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

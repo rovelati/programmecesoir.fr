@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jet-li",
+  "name": "Jet Li",
+  "worksCount": 1,
+  "description": "acteur de films d'arts martiaux et réalisateur",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jet%20Li%20cropped.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-04-26",
+  "nationality": "Singapour",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q159577",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jet_Li",
+    "imdb": "nm0001472",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-arme-fatale-4",
+      "title": "L'arme fatale 4"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

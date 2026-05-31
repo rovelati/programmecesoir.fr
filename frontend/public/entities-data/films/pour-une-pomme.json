@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "pour-une-pomme",
+  "title": "Pour une pomme",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Pour une pomme"
+  ],
+  "genres": [
+    "Téléfilm",
+    "Telefilms"
+  ],
+  "description": "Sarah, une adolescente, a la chance de passer quelques heures en compagnie de son idole : Gilbert Montagné. Cette rencontre se déroule dans différents lieux.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "melody-tv",
+      "channelName": "MELODY TV",
+      "channelSlug": "melody-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/melody-tv.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1972,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q3167790",
+    "slug": "jean-marie-perier",
+    "name": "Jean-Marie Périer",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

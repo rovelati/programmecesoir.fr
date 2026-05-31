@@ -1,0 +1,114 @@
+{
+  "type": "film",
+  "slug": "jeunesse-perdue",
+  "title": "Jeunesse perdue",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Jeunesse perdue"
+  ],
+  "genres": [
+    "drame",
+    "adaptation d'une œuvre littéraire au cinéma",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Marcello Mariani, jeune inspecteur de police, se fait passer pour un étudiant dans une université afin d'enquêter sur un meurtre. L'investigation se complique dès lors que le policier se rapproche de la soeur du principal suspect...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dodson%20promotional%20photo%20-%20Walter%20Huston%20and%20Ruth%20Chatterton.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1936,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q162621",
+      "slug": "walter-huston",
+      "name": "Walter Huston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q287713",
+      "slug": "ruth-chatterton",
+      "name": "Ruth Chatterton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q182057",
+      "slug": "paul-lukas",
+      "name": "Paul Lukas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232109",
+      "slug": "mary-astor",
+      "name": "Mary Astor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q181917",
+      "slug": "david-niven",
+      "name": "David Niven",
+      "role": "actor"
+    },
+    {
+      "qid": "Q255808",
+      "slug": "maria-ouspenskaia",
+      "name": "Maria Ouspenskaïa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3116367",
+      "slug": "gregory-gaye",
+      "name": "Gregory Gaye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q723415",
+      "slug": "john-payne",
+      "name": "John Payne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7077756",
+      "slug": "odette-myrtil",
+      "name": "Odette Myrtil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q267803",
+      "slug": "spring-byington",
+      "name": "Spring Byington",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51495",
+    "slug": "william-wyler",
+    "name": "William Wyler",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

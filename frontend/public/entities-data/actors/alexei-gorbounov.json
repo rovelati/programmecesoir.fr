@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "alexei-gorbounov",
+  "name": "Alexeï Gorbounov",
+  "worksCount": 1,
+  "description": "acteur ukrainien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexei%20Gorbunov%20Odessa.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1961-10-29",
+  "nationality": "Union soviétique",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2834347",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Aleksey_Gorbounov",
+    "imdb": "nm0329812",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mobius",
+      "title": "Möbius"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ab78a00-24ee-4eea-bc97-466f9b71f774",
+      "title": "Möbius",
+      "programSlug": "mobius",
+      "programUrl": "/programme/canal-grand-ecran/mobius",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 17:19:00+00",
+      "endTime": "2026-04-22 19:04:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 17:19:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

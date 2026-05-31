@@ -1,0 +1,161 @@
+{
+  "type": "film",
+  "slug": "minecraft-le-film",
+  "title": "Minecraft, le film",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Minecraft, le film"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm familial",
+    "comédie",
+    "film et téléfilm d'action",
+    "film et téléfilm de fantasy"
+  ],
+  "description": "Garrett, Henry, Natalie et Dawn se retrouvent inexplicablement projetés à travers un mystérieux portail menant à un incroyable monde cubique appelé la \"Surface\", et qui prospère grâce à l'imagination. Pour rentrer chez eux, il leur faut apprendre à maîtriser les codes de cet étrange univers, puis le protéger de créatures maléfiques comme les \"Piglins\" et les \"Zombies\", qui veulent sa perte. Cette aventure les pousse à être audacieux et à développer leur créativité. Autant de facultés dont ils auront besoin pour pouvoir s'épanouir dans le monde réel...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8204e0ae-3829-4b0a-93e6-49009eae0876",
+      "title": "Minecraft, le film",
+      "programSlug": "minecraft-le-film",
+      "programUrl": "/programme/canal/minecraft-le-film",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 13:37:00+00",
+      "endTime": "2026-04-22 15:15:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q483907",
+      "slug": "jack-black",
+      "name": "Jack Black",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315271",
+      "slug": "jason-momoa",
+      "name": "Jason Momoa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q115411254",
+      "slug": "emma-myers",
+      "name": "Emma Myers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16727679",
+      "slug": "danielle-brooks",
+      "name": "Danielle Brooks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q124771350",
+      "slug": "sebastian-eugene-hansen",
+      "name": "Sebastian Eugene Hansen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230278",
+      "slug": "jennifer-coolidge",
+      "name": "Jennifer Coolidge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q723057",
+      "slug": "kate-mckinnon",
+      "name": "Kate McKinnon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q439315",
+      "slug": "jemaine-clement",
+      "name": "Jemaine Clement",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20707531",
+      "slug": "dantdm",
+      "name": "DanTDM",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111515798",
+      "slug": "jessica-bravura",
+      "name": "Jessica Bravura",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104628414",
+      "slug": "mumbo-jumbo",
+      "name": "Mumbo Jumbo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q122956032",
+      "slug": "ldshadowlady",
+      "name": "LDShadowLady",
+      "role": "actor"
+    },
+    {
+      "qid": "Q167056",
+      "slug": "jens-bergensten",
+      "name": "Jens Bergensten",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16213557",
+      "slug": "rachel-house",
+      "name": "Rachel House",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3376892",
+    "slug": "peter-sollett",
+    "name": "Peter Sollett",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 13:37:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

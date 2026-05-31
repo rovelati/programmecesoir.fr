@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "karel-roden",
+  "name": "Karel Roden",
+  "worksCount": 3,
+  "description": "acteur tchèque",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karel%20Roden%20Photo%20Call%20A%20Prominent%20Patient%20Berlinale%202017%2002.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-05-18",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q463683",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Karel_Roden",
+    "imdb": "nm0734558",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-mort-dans-la-peau",
+      "title": "La mort dans la peau"
+    },
+    {
+      "type": "film",
+      "slug": "rock-n-rolla",
+      "title": "Rock'n'Rolla"
+    },
+    {
+      "type": "series",
+      "slug": "crossing-lines",
+      "title": "Crossing Lines"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

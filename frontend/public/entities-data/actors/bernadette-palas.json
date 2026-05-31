@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "bernadette-palas",
+  "name": "Bernadette Palas",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-01-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2897370",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bernadette_Palas",
+    "imdb": "nm0657381",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "37-2-le-matin",
+      "title": "37°2 le matin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ff31e0ed-dd74-4d0a-b230-1f276cc231cc",
+      "title": "37°2 le matin",
+      "programSlug": "37-2-le-matin",
+      "programUrl": "/programme/cine-festival/37-2-le-matin",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 09:04:00+00",
+      "endTime": "2026-04-23 11:03:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 09:04:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

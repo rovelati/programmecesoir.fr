@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "dirk-bogarde",
+  "name": "Dirk Bogarde",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dirk%20Bogarde%20Hallmark%20Hall%20of%20Fame.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1921-03-28",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q299190",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dirk_Bogarde",
+    "imdb": "nm0001958",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-pont-trop-loin",
+      "title": "Un pont trop loin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "58a2888e-4f9d-4d4f-ae16-b609caf29b50",
+      "title": "Un pont trop loin",
+      "programSlug": "un-pont-trop-loin",
+      "programUrl": "/programme/cine-classic/un-pont-trop-loin",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-20 15:04:00+00",
+      "endTime": "2026-04-20 17:54:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 15:04:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

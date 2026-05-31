@@ -1,0 +1,71 @@
+{
+  "type": "film",
+  "slug": "azzawaj-attani",
+  "title": "Azzawaj attani",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Azzawaj attani"
+  ],
+  "genres": [
+    "Telefilms"
+  ],
+  "description": null,
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "71f461c3-ec84-4848-8a7e-3b374adbce41",
+      "title": "Azzawaj attani",
+      "programSlug": "azzawaj-attani",
+      "programUrl": "/programme/2m-maroc/azzawaj-attani",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-22 09:30:00+00",
+      "endTime": "2026-04-22 11:05:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "44fbe991-e016-4278-8b3f-1221e0da36bc",
+      "title": "Azzawaj attani",
+      "programSlug": "azzawaj-attani",
+      "programUrl": "/programme/2m-maroc/azzawaj-attani",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-23 00:40:00+00",
+      "endTime": "2026-04-23 02:10:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-22 09:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

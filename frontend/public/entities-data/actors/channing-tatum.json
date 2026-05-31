@@ -1,0 +1,55 @@
+{
+  "type": "actor",
+  "slug": "channing-tatum",
+  "name": "Channing Tatum",
+  "worksCount": 5,
+  "description": "acteur, danseur et mannequin américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Channing%20Tatum%20(35732523270)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1980-04-26",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q212064",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Channing_Tatum",
+    "imdb": "nm1475594",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "logan-lucky",
+      "title": "Logan Lucky"
+    },
+    {
+      "type": "film",
+      "slug": "magic-mike",
+      "title": "Magic Mike"
+    },
+    {
+      "type": "film",
+      "slug": "magic-mike-xxl",
+      "title": "Magic Mike XXL"
+    },
+    {
+      "type": "film",
+      "slug": "jupiter-le-destin-de-l-univers",
+      "title": "Jupiter : le destin de l'univers"
+    },
+    {
+      "type": "film",
+      "slug": "les-huit-salopards",
+      "title": "Les huit salopards"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

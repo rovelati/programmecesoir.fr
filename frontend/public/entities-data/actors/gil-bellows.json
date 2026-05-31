@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "gil-bellows",
+  "name": "Gil Bellows",
+  "worksCount": 2,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gil%20Bellows%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-06-28",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q360313",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Gil_Bellows",
+    "imdb": "nm0004743",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-amour-de-sorciere",
+      "title": "Un amour de sorcière"
+    },
+    {
+      "type": "film",
+      "slug": "awake",
+      "title": "Awake"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

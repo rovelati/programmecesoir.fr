@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "michel-serrault",
+  "name": "Michel Serrault",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel-Serrault-Studio-Harcourt-1955.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1928-01-24",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q318088",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michel_Serrault",
+    "imdb": "nm0785664",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-repos-du-guerrier",
+      "title": "Le repos du guerrier"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

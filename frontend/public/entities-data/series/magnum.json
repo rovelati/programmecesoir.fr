@@ -1,0 +1,306 @@
+{
+  "type": "series",
+  "slug": "magnum",
+  "title": "Magnum",
+  "airingsCount": 34,
+  "sourceTitles": [
+    "Magnum",
+    "Magnum - Saison 1",
+    "Magnum - Saison 4",
+    "Magnum - Saison 5"
+  ],
+  "genres": [
+    "fiction de détective",
+    "série d'action",
+    "série télévisée dramatique"
+  ],
+  "description": "Magnum est chargé d'effectuer un audit sur la sécurité de la collection d'art de Jack Candler, un collectionneur de renommée internationale, ami de Juliet Higgins. Afin de démontrer les failles du dispositif de sécurité de Jack Candler, Magnum s'introduit à sa soirée de bienfaisance en déjouant tous les pièges de son système de protection. Magnum n'a pas le temps de lui communiquer son rapport que Candler est assassiné dans son appartement. Les soupçons ne tardent pas à se porter sur Magnum. Le lieutenant Katsumoto ordonner une fouille de son domicile. Aidé par Higgins, TC, Rick, Allie et Kumu, Magnum devra prouver son innocence en retrouvant la personne qui a eu accès à son audit...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magnum%20scene.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 30
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b39d931b-0fb1-40bd-b07e-55488e8996ee",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 10:00:00+00",
+      "endTime": "2026-04-19 10:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2b13313e-d28e-41ff-ade7-4161f71058a1",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 10:40:00+00",
+      "endTime": "2026-04-19 11:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e46f53a3-1e77-419a-b810-000d44db6b52",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 11:20:00+00",
+      "endTime": "2026-04-19 12:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bc7f6735-723a-4465-ad9b-151693b2f356",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 12:05:00+00",
+      "endTime": "2026-04-19 12:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d13a4a7f-39e8-433b-a5df-aa9f9a945150",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 12:45:00+00",
+      "endTime": "2026-04-19 13:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "042053ef-3aa9-43a7-9117-f7f6a01bbdc7",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 13:30:00+00",
+      "endTime": "2026-04-19 14:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8d2cf0c3-4ac6-4530-9ea4-9a1039f8092f",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/rtl9/magnum",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-19 14:20:00+00",
+      "endTime": "2026-04-19 15:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b7a88957-83ed-4bcd-96b6-d2be8c44e903",
+      "title": "Magnum",
+      "programSlug": "magnum",
+      "programUrl": "/programme/club-rtl/magnum",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 20:45:00+00",
+      "endTime": "2026-04-19 21:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "353bbee7-9ef8-4563-951b-75e6b5432b10",
+      "title": "Magnum - Saison 2",
+      "programSlug": "magnum-saison-2",
+      "programUrl": "/programme/rtl9/magnum-saison-2",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 16:30:00+00",
+      "endTime": "2026-04-20 17:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3da3a6e5-3334-4a6f-b903-d47d70daa4fe",
+      "title": "Magnum - Saison 2",
+      "programSlug": "magnum-saison-2",
+      "programUrl": "/programme/rtl9/magnum-saison-2",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 17:15:00+00",
+      "endTime": "2026-04-20 18:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "98b250a3-b55c-4406-89e6-074d58d7ddc2",
+      "title": "Magnum - Saison 2",
+      "programSlug": "magnum-saison-2",
+      "programUrl": "/programme/rtl9/magnum-saison-2",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-20 18:00:00+00",
+      "endTime": "2026-04-20 18:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f14f48db-1838-4934-8c49-ba708343658b",
+      "title": "Magnum - Saison 5",
+      "programSlug": "magnum-saison-5",
+      "programUrl": "/programme/rts-un/magnum-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-21 07:40:00+00",
+      "endTime": "2026-04-21 08:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "0cdc9c03-65f2-4e63-a195-634b97e0501d",
+      "title": "Magnum - Saison 5",
+      "programSlug": "magnum-saison-5",
+      "programUrl": "/programme/rts-un/magnum-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-21 08:30:00+00",
+      "endTime": "2026-04-21 09:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ac92ea90-f09b-40eb-99c5-a7b461084ac4",
+      "title": "Magnum - Saison 2",
+      "programSlug": "magnum-saison-2",
+      "programUrl": "/programme/rtl9/magnum-saison-2",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-21 16:30:00+00",
+      "endTime": "2026-04-21 17:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e5ff51e6-35e9-4643-a578-3b1e6cf8609a",
+      "title": "Magnum - Saison 2",
+      "programSlug": "magnum-saison-2",
+      "programUrl": "/programme/rtl9/magnum-saison-2",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-21 17:15:00+00",
+      "endTime": "2026-04-21 18:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "013099e7-373b-4246-a98a-1511cdefcb31",
+      "title": "Magnum - Saison 2",
+      "programSlug": "magnum-saison-2",
+      "programUrl": "/programme/rtl9/magnum-saison-2",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-21 18:00:00+00",
+      "endTime": "2026-04-21 18:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d1248076-3c6d-4e9e-96b5-23ce8035db34",
+      "title": "Magnum - Saison 2",
+      "programSlug": "magnum-saison-2",
+      "programUrl": "/programme/rtl9/magnum-saison-2",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-22 16:30:00+00",
+      "endTime": "2026-04-22 17:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "afbf543b-0ad2-4cd3-9a99-1fbf0fc6b8d5",
+      "title": "Magnum - Saison 2",
+      "programSlug": "magnum-saison-2",
+      "programUrl": "/programme/rtl9/magnum-saison-2",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-22 17:15:00+00",
+      "endTime": "2026-04-22 18:00:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1980,
+  "numberOfSeasons": 8,
+  "cast": [
+    {
+      "qid": "Q213706",
+      "slug": "tom-selleck",
+      "name": "Tom Selleck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q726283",
+      "slug": "john-hillerman",
+      "name": "John Hillerman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1346591",
+      "slug": "roger-e-mosley",
+      "name": "Roger E. Mosley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132359",
+      "slug": "larry-manetti",
+      "name": "Larry Manetti",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q710739",
+    "slug": "donald-bellisario",
+    "name": "Donald Bellisario",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 10:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

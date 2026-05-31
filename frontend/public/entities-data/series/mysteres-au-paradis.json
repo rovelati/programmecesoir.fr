@@ -1,0 +1,499 @@
+{
+  "type": "series",
+  "slug": "mysteres-au-paradis",
+  "title": "Mystères au paradis",
+  "airingsCount": 72,
+  "sourceTitles": [
+    "Mystères au paradis",
+    "Mystères au paradis - Saison 1",
+    "Mystères au paradis - Saison 2"
+  ],
+  "genres": [
+    "fiction de détective",
+    "genre policier"
+  ],
+  "description": "Une maison est cambriolée, mais la suspecte que tous les indices désignent était sous les verrous au moment des faits. L'équipe doit résoudre cette équation impossible. Cependant, Humphrey a la tête ailleurs depuis que Martha lui a fait part d'une nouvelle tout à fait déconcertante...",
+  "descriptionAi": "Cette fiction de détective, au cœur d'un genre policier classique, nous plonge dans une ambiance ensoleillée mais trompeuse. Dès 2023, la série entrelace énigmes intellectuelles et tensions personnelles. L'intrigue principale, un cambriolage aux apparences impossibles, captive par ses paradoxes, tandis que les dilemmes privés des personnages, comme la distraction soudaine d'Humphrey, ajoutent une profondeur humaine attachante. Ce mélange de casse-tête élégant et d'émotions vraies rend chaque enquête aussi palpitante que relatable. Une série parfaite pour qui aime résoudre des mystères tout en s'attachant à une équipe de détectives aux vies bien réelles. Ne manquez pas les nouveaux épisodes à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7a5ba0fa-34cf-4566-b7e6-615b1ac57739",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-rhone-alpes/mysteres-au-paradis",
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3f918cc8-07ef-4879-9c60-7cd9c11dbeff",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3/mysteres-au-paradis",
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "05a32427-f181-4feb-9105-7715d9c8c720",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-alpes/mysteres-au-paradis",
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a10aa14f-d4a6-467d-ac43-4d274b46947b",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-alsace/mysteres-au-paradis",
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "98068a47-ff7a-404b-ad45-ef5e08fc7865",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-aquitaine/mysteres-au-paradis",
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4e101e26-da8c-4e7f-8657-362508ed635e",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-auvergne/mysteres-au-paradis",
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "65a7a62f-8149-4479-b806-55b5ae35c35f",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-basse-normandie/mysteres-au-paradis",
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8e6815d3-5416-40d3-98ee-8b72ef680b56",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-bourgogne/mysteres-au-paradis",
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fca387ce-60d7-4367-b7f3-79495ed9cc99",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-bretagne/mysteres-au-paradis",
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7b296f14-d685-49d3-868e-7dd79b69c1a2",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-centre/mysteres-au-paradis",
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "feb52b22-649a-4893-89a9-7fb9286809b8",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-champagne-ardenne/mysteres-au-paradis",
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "357f162b-21df-4815-a202-f7cb8c7777aa",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-cote-dazur/mysteres-au-paradis",
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b0a06799-2295-4510-a3b5-f79fd0890f36",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-franche-comte/mysteres-au-paradis",
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7e9a753b-5357-46c9-a8d7-11522e92f414",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-haute-normandie/mysteres-au-paradis",
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1caa0783-3c72-4776-a638-6b7ffe50707b",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-languedoc/mysteres-au-paradis",
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6cbd55a3-51db-4276-b558-815a8c6364f4",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-limousin/mysteres-au-paradis",
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "09c96444-0a93-4858-a18a-7cf914ad2e4c",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-lorraine/mysteres-au-paradis",
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b880b37a-50ad-4ef4-ae45-9015bafe5731",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-midi-pyrenees/mysteres-au-paradis",
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:41:11.586Z",
+  "startYear": 2023,
+  "numberOfSeasons": 3,
+  "cast": [
+    {
+      "qid": "Q706843",
+      "slug": "kris-marshall",
+      "name": "Kris Marshall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7405088",
+      "slug": "sally-bretton",
+      "name": "Sally Bretton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8064731",
+      "slug": "zahra-ahmadi",
+      "name": "Zahra Ahmadi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5674434",
+      "slug": "dylan-llewellyn",
+      "name": "Dylan Llewellyn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5441797",
+      "slug": "felicity-montagu",
+      "name": "Felicity Montagu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4858886",
+      "slug": "barbara-flynn",
+      "name": "Barbara Flynn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q358427",
+      "slug": "peter-davison",
+      "name": "Peter Davison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111362301",
+      "slug": "chris-jenks",
+      "name": "Chris Jenks",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 19:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

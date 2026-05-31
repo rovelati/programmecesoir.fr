@@ -1,0 +1,279 @@
+{
+  "type": "series",
+  "slug": "vampirina-l-ado-vampire",
+  "title": "Vampirina : L'ado vampire",
+  "airingsCount": 88,
+  "sourceTitles": [
+    "Vampirina : L'ado vampire"
+  ],
+  "genres": [
+    "série télévisée comique"
+  ],
+  "description": "Une adolescente vampire quitte la sécurité de la Transylvanie pour fréquenter un pensionnat d'arts du spectacle. En immersion parmi les humains pour la première fois, elle poursuit sa passion pour la musique, tout en gardant son secret de vampire. Un secret plus difficile lorsque son père surprotecteur charge un fantôme trop zélé de la suivre à l'école.",
+  "descriptionAi": "Cette série télévisée comique suit Vampirina, une adolescente vampire qui quitte sa Transylvanie natale pour intégrer un pensionnat d'arts du spectacle. L'ambiance est à la fois fantastique et pleine d'humour, alors qu'elle découvre la vie parmi les humains et cultive sa passion pour la musique. L'intérêt réside dans son combat pour préserver son secret tout en s'épanouissant, un défi rendu plus complexe par l'intervention maladroite d'un fantôme surprotecteur envoyé par son père. Une aventure drôle et touchante sur l'acceptation de soi, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-channel.png",
+      "airingsCount": 34
+    },
+    {
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disneychannelplus1.png",
+      "airingsCount": 34
+    },
+    {
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-junior.png",
+      "airingsCount": 20
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e00e3cdd-82c6-419e-b4b8-b3d7aee4b0c8",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disney-channel/vampirina-l-ado-vampire",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 13:10:00+00",
+      "endTime": "2026-04-19 13:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "81573ee7-a0d5-42ef-8062-b3a3a65b0754",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disney-junior/vampirina-l-ado-vampire",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 13:10:00+00",
+      "endTime": "2026-04-19 13:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a1d2c0e1-052d-4114-9e59-ef88b148abe7",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disneychannelplus1/vampirina-l-ado-vampire",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 14:10:00+00",
+      "endTime": "2026-04-19 14:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "867ea39b-3586-4b11-9ae7-16ec937da255",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disney-channel/vampirina-l-ado-vampire",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 19:54:00+00",
+      "endTime": "2026-04-19 20:19:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2c8e7024-ac18-4134-94db-480c1a474066",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disney-junior/vampirina-l-ado-vampire",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 19:54:00+00",
+      "endTime": "2026-04-19 20:19:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3f71ddb3-ce9b-4e30-bb3b-c16bc69bb8d0",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disneychannelplus1/vampirina-l-ado-vampire",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 20:55:00+00",
+      "endTime": "2026-04-19 21:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "77cddfe3-cb41-4ed8-af6e-19d16be54401",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disney-channel/vampirina-l-ado-vampire",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 13:10:00+00",
+      "endTime": "2026-04-20 13:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e95facc0-7215-4dc1-9656-d33c809d8fca",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disneychannelplus1/vampirina-l-ado-vampire",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 14:10:00+00",
+      "endTime": "2026-04-20 14:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "668bdfbe-7821-43aa-9631-b7d10c326e72",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disney-channel/vampirina-l-ado-vampire",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 19:55:00+00",
+      "endTime": "2026-04-20 20:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d45ce427-a933-4383-8670-cee5b667757e",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disneychannelplus1/vampirina-l-ado-vampire",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 20:55:00+00",
+      "endTime": "2026-04-20 21:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "731faf57-1b56-41e3-973c-2c45085ab730",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disney-channel/vampirina-l-ado-vampire",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-21 13:10:00+00",
+      "endTime": "2026-04-21 13:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "46b575e5-e58f-471e-b6f4-0414550cf402",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disneychannelplus1/vampirina-l-ado-vampire",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-21 14:10:00+00",
+      "endTime": "2026-04-21 14:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "dfbf41c0-cb1b-41ed-a4d2-b6517f1a2d2c",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disney-channel/vampirina-l-ado-vampire",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-21 19:55:00+00",
+      "endTime": "2026-04-21 20:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1078f039-13de-4023-8f89-d17ca19633d2",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disneychannelplus1/vampirina-l-ado-vampire",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "eca6eb0e-7bba-472e-9613-29d0aff85b40",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disney-channel/vampirina-l-ado-vampire",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-22 13:10:00+00",
+      "endTime": "2026-04-22 13:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "1f41e762-e5ff-4ba6-ae4b-59e68c02fab7",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disneychannelplus1/vampirina-l-ado-vampire",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-22 14:10:00+00",
+      "endTime": "2026-04-22 14:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "31cad1e8-bb7c-4474-8a00-3d14841a7870",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disney-channel/vampirina-l-ado-vampire",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-22 19:55:00+00",
+      "endTime": "2026-04-22 20:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "8208e7e5-76f9-4ed5-a627-d0bdb5d999b3",
+      "title": "Vampirina : L'ado vampire",
+      "programSlug": "vampirina-l-ado-vampire",
+      "programUrl": "/programme/disneychannelplus1/vampirina-l-ado-vampire",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-22 20:55:00+00",
+      "endTime": "2026-04-22 21:20:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:07:51.039Z",
+  "startYear": 2025,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 13:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

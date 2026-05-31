@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jean-tarride",
+  "name": "Jean Tarride",
+  "worksCount": 1,
+  "description": "French actor and film director (1901–1980)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1901-03-15",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2256714",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Tarride",
+    "imdb": "nm0850668",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "apres-l-orage",
+      "title": "Après l'orage"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

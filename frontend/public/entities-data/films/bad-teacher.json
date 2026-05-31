@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "bad-teacher",
+  "title": "Bad Teacher",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Bad Teacher"
+  ],
+  "genres": [
+    "comédie romantique",
+    "comédie",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Elizabeth Halsey n'est vraiment pas faite pour enseigner. Elle jure comme un charretier, boit, fume, prend toutes les drogues possibles et imaginables, et n'a qu'une ambition dans la vie : épouser un homme fortuné et quitter son travail. Alors, lorsque son riche petit ami la plaque, la jeune femme jette son dévolu sur un professeur remplaçant dont le portefeuille est bien fourni. Mais Elizabeth n'est pas la seule à avoir repéré ce séduisant collègue. Amy, une excellente enseignante, est également intéressée. Elizabeth va devoir jouer des coudes si elle veut arriver à ses fins, d'autant plus que le prof de gym qui s'est entiché d'elle ne lui facilite pas la tâche...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2011,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q44380",
+      "slug": "cameron-diaz",
+      "name": "Cameron Diaz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43432",
+      "slug": "justin-timberlake",
+      "name": "Justin Timberlake",
+      "role": "actor"
+    },
+    {
+      "qid": "Q261579",
+      "slug": "lucy-punch",
+      "name": "Lucy Punch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202304",
+      "slug": "jason-segel",
+      "name": "Jason Segel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q967130",
+      "slug": "john-michael-higgins",
+      "name": "John Michael Higgins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239145",
+      "slug": "molly-shannon",
+      "name": "Molly Shannon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q519784",
+      "slug": "kaitlyn-dever",
+      "name": "Kaitlyn Dever",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1319539",
+      "slug": "thomas-lennon",
+      "name": "Thomas Lennon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q508043",
+      "slug": "eric-stonestreet",
+      "name": "Eric Stonestreet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6037385",
+      "slug": "nadie",
+      "name": "Nadie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q508280",
+      "slug": "phyllis-smith",
+      "name": "Phyllis Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3017116",
+      "slug": "dave-allen",
+      "name": "Dave Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q165625",
+      "slug": "kathryn-newton",
+      "name": "Kathryn Newton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q536653",
+      "slug": "jillian-armenante",
+      "name": "Jillian Armenante",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2514422",
+      "slug": "nat-faxon",
+      "name": "Nat Faxon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q373989",
+      "slug": "david-paymer",
+      "name": "David Paymer",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1678831",
+    "slug": "jake-kasdan",
+    "name": "Jake Kasdan",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

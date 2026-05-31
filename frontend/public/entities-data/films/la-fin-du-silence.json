@@ -1,0 +1,101 @@
+{
+  "type": "film",
+  "slug": "la-fin-du-silence",
+  "title": "La fin du silence",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La fin du silence"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Jean vit avec sa famille dans une maison isolée des Vosges. Un jour, une violente dispute l'oppose à ses parents qui lui font comprendre qu'il n'a plus rien à faire chez eux. Se retrouvant à la rue, il trouve refuge auprès de chasseurs qui lui apprennent tous des rudiments de la mise à mort. Quelque temps après, la famille de Jean doit faire face à des représailles. Ainsi, la voiture de la mère est retrouvée incendiée. Lorsqu'on pointe Jean du doigt, il disparaît au plus profond de la forêt...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "115d81d6-4fab-4265-8718-7989181a47e6",
+      "title": "La fin du silence",
+      "programSlug": "la-fin-du-silence",
+      "programUrl": "/programme/action/la-fin-du-silence",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 22:54:00+00",
+      "endTime": "2026-04-26 00:13:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2011,
+  "durationMinutes": 80,
+  "cast": [
+    {
+      "qid": "Q2834586",
+      "slug": "alexis-michalik",
+      "name": "Alexis Michalik",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2850571",
+      "slug": "anna-mihalcea",
+      "name": "Anna Mihalcea",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2939159",
+      "slug": "carlo-brandt",
+      "name": "Carlo Brandt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q178077",
+      "slug": "maia-morgenstern",
+      "name": "Maia Morgenstern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q543898",
+      "slug": "marianne-basler",
+      "name": "Marianne Basler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3524261",
+      "slug": "thierry-fremont",
+      "name": "Thierry Frémont",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3440049",
+    "slug": "roland-edzard",
+    "name": "Roland Edzard",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 22:54:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,159 @@
+{
+  "type": "film",
+  "slug": "anges-et-demons",
+  "title": "Anges et démons",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Anges et démons"
+  ],
+  "genres": [
+    "film ou téléfilm à énigme",
+    "film ou téléfilm criminel",
+    "drame",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Spécialiste en religions, le professeur Robert Langdon quitte Harvard afin de répondre à une demande pressante du Vatican. Quatre cardinaux ont disparu et la police ne parvient pas à faire aboutir l'enquête. Langdon comprend qu'une confrérie oubliée prépare un terrible complot contre l'Eglise...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Angels%26DemonsPantheon.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 146,
+  "cast": [
+    {
+      "qid": "Q2263",
+      "slug": "tom-hanks",
+      "name": "Tom Hanks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q165518",
+      "slug": "ewan-mcgregor",
+      "name": "Ewan McGregor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275967",
+      "slug": "ayelet-zurer",
+      "name": "Ayelet Zurer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208667",
+      "slug": "stellan-skarsgard",
+      "name": "Stellan Skarsgård",
+      "role": "actor"
+    },
+    {
+      "qid": "Q555241",
+      "slug": "pierfrancesco-favino",
+      "name": "Pierfrancesco Favino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q383754",
+      "slug": "nikolaj-lie-kaas",
+      "name": "Nikolaj Lie Kaas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q164117",
+      "slug": "armin-mueller-stahl",
+      "name": "Armin Mueller-Stahl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4011245",
+      "slug": "victor-alfieri",
+      "name": "Victor Alfieri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q508739",
+      "slug": "thure-lindhardt",
+      "name": "Thure Lindhardt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83694",
+      "slug": "carmen-argenziano",
+      "name": "Carmen Argenziano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1334420",
+      "slug": "elya-baskin",
+      "name": "Elya Baskin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q75760",
+      "slug": "curt-lowens",
+      "name": "Curt Lowens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q301739",
+      "slug": "cosimo-fusco",
+      "name": "Cosimo Fusco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3724000",
+      "slug": "emanuele-secci",
+      "name": "Emanuele Secci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296028",
+      "slug": "alfred-molina",
+      "name": "Alfred Molina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3106805",
+      "slug": "gino-conforti",
+      "name": "Gino Conforti",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q103646",
+    "slug": "ron-howard",
+    "name": "Ron Howard",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

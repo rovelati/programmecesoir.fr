@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "le-bahut-des-tordus",
+  "title": "Le bahut des tordus",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le bahut des tordus"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Régulièrement détruite, la Cromartie High School est un repaire de cancres qui recueille les rebuts de tous les autres établissements. Alors, forcément, quand Takashi, élève studieux, débarque avec son cartable tout neuf et sa trousse bien rangée, il fait un peu tache. Qu'à cela ne tienne, il s'est fixé comme objectif de transformer l'école en un établissement modèle...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/gongfr.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2005,
+  "durationMinutes": 85,
+  "cast": [
+    {
+      "qid": "Q3275802",
+      "slug": "takamasa-suga",
+      "name": "Takamasa Suga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3545128",
+      "slug": "kai-ato",
+      "name": "Kai Atō",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1067530",
+      "slug": "ken-ichi-endo",
+      "name": "Ken'ichi Endō",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3155993",
+      "slug": "itsuji-itao",
+      "name": "Itsuji Itao",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3549518",
+      "slug": "mitsuki-koga",
+      "name": "Mitsuki Koga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1645932",
+      "slug": "tak-sakaguchi",
+      "name": "Tak Sakaguchi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q561449",
+      "slug": "shinji-takeda",
+      "name": "Shinji Takeda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3543561",
+      "slug": "kanji-tsuda",
+      "name": "Kanji Tsuda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3547262",
+      "slug": "hiroyuki-watanabe",
+      "name": "Hiroyuki Watanabe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q579804",
+      "slug": "yuri-lowenthal",
+      "name": "Yuri Lowenthal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3097943",
+      "slug": "michael-mcconnohie",
+      "name": "Michael McConnohie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6437800",
+      "slug": "kristen-rutherford",
+      "name": "Kristen Rutherford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2490599",
+      "slug": "patrick-seitz",
+      "name": "Patrick Seitz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q901546",
+      "slug": "dan-woren",
+      "name": "Dan Woren",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1193042",
+      "slug": "mika-kanai",
+      "name": "Mika Kanai",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2534772",
+      "slug": "doug-stone",
+      "name": "Doug Stone",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q4023328",
+    "slug": "yudai-yamaguchi",
+    "name": "Yūdai Yamaguchi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "antoine-baud",
+  "name": "Antoine Baud",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": "Antoine Baud incarne une présence singulière au cinéma français, naviguant avec aisance entre le drame intimiste et la comédie acérée. Son jeu, d'une sobriété intense, capte les nuances de l'âme humaine, créant une atmosphère souvent tendue et profondément authentique. Ce qui fascine, c'est sa capacité à se fondre dans des personnages complexes, révélant leurs vulnérabilités sans jamais tomber dans le pathos. Il offre une réflexion subtile sur les relations et les silences qui les habitent. Pour découvrir ses rôles les plus marquants et suivre son parcours, une sélection de ses films est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1925-11-06",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2853654",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Antoine_Baud",
+    "imdb": "nm0061655",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-juge-et-l-assassin",
+      "title": "Le juge et l'assassin"
+    },
+    {
+      "type": "film",
+      "slug": "les-aventures-d-arsene-lupin",
+      "title": "Les aventures d'Arsène Lupin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "52430700-b42d-4bb3-8d16-c878be001c93",
+      "title": "Les aventures d'Arsène Lupin",
+      "programSlug": "les-aventures-d-arsene-lupin",
+      "programUrl": "/programme/tcm-cinema/les-aventures-d-arsene-lupin",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 05:20:00+00",
+      "endTime": "2026-04-23 07:00:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:53.735Z",
+  "nextAiringAt": "2026-04-23 05:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,143 @@
+{
+  "type": "film",
+  "slug": "petites-coupures",
+  "title": "Petites coupures",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Petites coupures"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Nathalie a le malheur de donner par erreur à Gaëlle tous les renseignements dont elle a besoin pour se convaincre de l'infidélité de Bruno, son mari, journaliste communiste. Averti par l'écervelée, Bruno rattrape Gaëlle dans l'agence de voyage où elle réserve un aller pour Turin. Il s'entaille un doigt de désespoir. Appelé d'urgence dans les Alpes auprès de son oncle, Gérard, maire communiste menacé de perdre son fauteuil, il apprend que Mathilde, l'épouse de Gérard, le trompe et qu'il doit remettre au suborneur, Verekher, une lettre de menace. Au terme de son odyssée, il rencontre tout à la fois la belle-fille et la femme de Verekher, l'instable Béatrice...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9b44ab34-937b-4589-935c-ad4d47dce606",
+      "title": "Petites coupures",
+      "programSlug": "petites-coupures",
+      "programUrl": "/programme/canal-grand-ecran/petites-coupures",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 04:00:00+00",
+      "endTime": "2026-04-23 05:33:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2003,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q106303",
+      "slug": "daniel-auteuil",
+      "name": "Daniel Auteuil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208590",
+      "slug": "kristin-scott-thomas",
+      "name": "Kristin Scott Thomas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q443835",
+      "slug": "pascale-bussieres",
+      "name": "Pascale Bussières",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233742",
+      "slug": "ludivine-sagnier",
+      "name": "Ludivine Sagnier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106225",
+      "slug": "jean-yanne",
+      "name": "Jean Yanne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241043",
+      "slug": "emmanuelle-devos",
+      "name": "Emmanuelle Devos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2829468",
+      "slug": "aladin-reibel",
+      "name": "Aladin Reibel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830037",
+      "slug": "alain-libolt",
+      "name": "Alain Libolt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q441684",
+      "slug": "catherine-mouchet",
+      "name": "Catherine Mouchet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3028270",
+      "slug": "dinara-droukarova",
+      "name": "Dinara Droukarova",
+      "role": "actor"
+    },
+    {
+      "qid": "Q67881",
+      "slug": "hanns-zischler",
+      "name": "Hanns Zischler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3190717",
+      "slug": "jeremie-lippmann",
+      "name": "Jérémie Lippmann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1871396",
+      "slug": "louis-do-de-lencquesaing",
+      "name": "Louis-Do de Lencquesaing",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q289645",
+    "slug": "pascal-bonitzer",
+    "name": "Pascal Bonitzer",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 04:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

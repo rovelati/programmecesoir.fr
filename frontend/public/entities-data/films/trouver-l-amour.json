@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "trouver-l-amour",
+  "title": "Trouver l'amour",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Trouver l'amour"
+  ],
+  "genres": [
+    "Telefilms",
+    "Téléfilm"
+  ],
+  "description": "Kennedy, un jeune homme peu enclin à l''introspection doit se remettre en question face à ses échecs sentimentaux.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q153262",
+      "slug": "michaela-mcmanus",
+      "name": "Michaela McManus",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q18534063",
+    "slug": "terry-cunningham",
+    "name": "Terry Cunningham",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

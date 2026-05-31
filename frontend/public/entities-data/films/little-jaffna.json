@@ -1,0 +1,94 @@
+{
+  "type": "film",
+  "slug": "little-jaffna",
+  "title": "Little Jaffna",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Little Jaffna"
+  ],
+  "genres": [
+    "Cinema",
+    "Film",
+    "Film policier"
+  ],
+  "description": "Le quartier de \"Little Jaffna\" à Paris est le coeur d'une communauté tamoule vibrante, où Michael, un jeune policier arrivé en France à l'âge de 4 ans, est chargé d'infiltrer les \"Killi'z\", un groupe criminel connu pour extorsion et blanchiment d'argent au profit des rebelles séparatistes au Sri Lanka. Il y fait la connaissance de leur chef Aya, un argentier craint de tous qui a fait fortune dans le trafic de clandestins. Mais à mesure qu'il s'enfonce au coeur de l'organisation, sa loyauté sera mise à l'épreuve, dans une poursuite implacable contre l'un des gangs les plus discrets et puissants de la capitale...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "db34cb46-a283-4b7c-bba1-887ebd50fbe5",
+      "title": "Little Jaffna",
+      "programSlug": "little-jaffna",
+      "programUrl": "/programme/canal-box-office/little-jaffna",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 22:12:00+00",
+      "endTime": "2026-04-19 23:49:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bd866b5c-f866-4c8b-ae62-c8989b1bfa4e",
+      "title": "Little Jaffna",
+      "programSlug": "little-jaffna",
+      "programUrl": "/programme/canal/little-jaffna",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-24 00:29:00+00",
+      "endTime": "2026-04-24 02:06:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q115287198",
+    "slug": "lawrence-valin",
+    "name": "Lawrence Valin",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 22:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

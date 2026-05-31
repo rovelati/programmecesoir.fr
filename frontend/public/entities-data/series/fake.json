@@ -1,0 +1,97 @@
+{
+  "type": "series",
+  "slug": "fake",
+  "title": "Fake",
+  "airingsCount": 9,
+  "sourceTitles": [
+    "Fake"
+  ],
+  "genres": [
+    "yaoi",
+    "anime et manga à mystère",
+    "animé et manga comédie-romantique"
+  ],
+  "description": "Né avec la capacité de se glisser dans la peau des personnes qu'il souhaite, un jeune homme décide d'utiliser son talent pour usurper l'identité de son frère, mort assassiné, afin de tenter de mettre la main sur le coupable et éclaircir les zones d'ombre qui entourent toute l'affaire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/gongfr.svg",
+      "airingsCount": 9
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7171dffe-6c28-48a8-8f1b-e9a2a9412f63",
+      "title": "Fake",
+      "programSlug": "fake",
+      "programUrl": "/programme/gongfr/fake",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-21 16:30:00+00",
+      "endTime": "2026-04-21 16:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "28ba24e4-26c2-4584-a397-0279535a59f5",
+      "title": "Fake",
+      "programSlug": "fake",
+      "programUrl": "/programme/gongfr/fake",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-22 16:30:00+00",
+      "endTime": "2026-04-22 16:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "97608e94-fa95-49e8-9a12-3252b09c57c4",
+      "title": "Fake",
+      "programSlug": "fake",
+      "programUrl": "/programme/gongfr/fake",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-23 16:30:00+00",
+      "endTime": "2026-04-23 16:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "9da443d8-49a4-4dd2-8cb1-edf37ec09a54",
+      "title": "Fake",
+      "programSlug": "fake",
+      "programUrl": "/programme/gongfr/fake",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-24 16:30:00+00",
+      "endTime": "2026-04-24 16:45:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-21 16:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

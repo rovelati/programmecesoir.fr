@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "48-heures",
+  "title": "48 heures",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "48 heures"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "buddy movie",
+    "thriller",
+    "comédie",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Ce devait être une perquisition de routine dans un hôtel, mais l'expédition tourne à la fusillade. Deux policiers y laissent la vie et une femme est prise en otage par deux dangereux gangsters. Témoin impuissant du carnage, l'inspecteur Jack Cates se sent responsable de la mort de ses collègues et en fait une affaire personnelle. Il découvre que l'un des meurtriers, Ganz, tueur en cavale et psychopathe avéré, attend la réouverture d'un garage, 48 heures plus tard, pour y récupérer un magot. Le piéger ne sera pas chose aisée : s'il est à demi-fou, Ganz est également d'une prudence maladive. Cates demande alors à travailler en tandem avec un ancien complice du truand, Reggie Hammond, pour l'heure en prison. Hammond, qui a un compte personnel à régler avec Ganz, obtient une mise en liberté provisoire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1982,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q188018",
+      "slug": "nick-nolte",
+      "name": "Nick Nolte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43874",
+      "slug": "eddie-murphy",
+      "name": "Eddie Murphy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231135",
+      "slug": "annette-o-toole",
+      "name": "Annette O'Toole",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461691",
+      "slug": "frank-mcrae",
+      "name": "Frank McRae",
+      "role": "actor"
+    },
+    {
+      "qid": "Q441913",
+      "slug": "james-remar",
+      "name": "James Remar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210076",
+      "slug": "david-patrick-kelly",
+      "name": "David Patrick Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q776722",
+      "slug": "sonny-landham",
+      "name": "Sonny Landham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q723780",
+      "slug": "brion-james",
+      "name": "Brion James",
+      "role": "actor"
+    },
+    {
+      "qid": "Q198638",
+      "slug": "jonathan-banks",
+      "name": "Jonathan Banks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234474",
+      "slug": "denise-crosby",
+      "name": "Denise Crosby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189389",
+      "slug": "chris-mulkey",
+      "name": "Chris Mulkey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15665070",
+      "slug": "jim-haynie",
+      "name": "Jim Haynie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16144824",
+      "slug": "r-d-call",
+      "name": "R. D. Call",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23072512",
+      "slug": "james-keane",
+      "name": "James Keane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16106999",
+      "slug": "john-dennis-johnston",
+      "name": "John Dennis Johnston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3805666",
+      "slug": "jack-thibeau",
+      "name": "Jack Thibeau",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q350422",
+    "slug": "walter-hill",
+    "name": "Walter Hill",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

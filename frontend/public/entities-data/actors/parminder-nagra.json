@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "parminder-nagra",
+  "name": "Parminder Nagra",
+  "worksCount": 2,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Parminder%20Nagra%20by%20Gage%20Skidmore%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-10-05",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q236374",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Parminder_Nagra",
+    "imdb": "nm0619406",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "blacklist",
+      "title": "Blacklist"
+    },
+    {
+      "type": "series",
+      "slug": "urgences",
+      "title": "Urgences"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "507f3ee3-8b87-438a-8e11-29fc7f98b316",
+      "title": "Blacklist",
+      "programSlug": "blacklist",
+      "programUrl": "/programme/club-rtl/blacklist",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-23 21:50:00+00",
+      "endTime": "2026-04-23 22:40:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 21:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

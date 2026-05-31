@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "lily-tomlin",
+  "name": "Lily Tomlin",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lily%20Tomlin%20in%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1939-09-01",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q229271",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lily_Tomlin",
+    "imdb": "nm0005499",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "portee-disparue",
+      "title": "Portée disparue"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5ca80fa1-ac95-4ac0-abb0-5c32ce93dc7d",
+      "title": "Portée disparue",
+      "programSlug": "portee-disparue",
+      "programUrl": "/programme/novelas/portee-disparue",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e7c010c2-bb48-4d34-8fef-569fdd613d70",
+      "title": "Portée disparue",
+      "programSlug": "portee-disparue",
+      "programUrl": "/programme/novelas/portee-disparue",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-19 06:45:00+00",
+      "endTime": "2026-04-19 07:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "04fd1e11-f6b9-4e23-b033-6ff722f61839",
+      "title": "Portée disparue",
+      "programSlug": "portee-disparue",
+      "programUrl": "/programme/novelas/portee-disparue",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-19 07:40:00+00",
+      "endTime": "2026-04-19 08:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f7e2fc55-f97d-470a-ac08-d07e75bc1915",
+      "title": "Portée disparue",
+      "programSlug": "portee-disparue",
+      "programUrl": "/programme/novelas/portee-disparue",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-19 08:30:00+00",
+      "endTime": "2026-04-19 09:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "38389343-c367-4419-9d53-d2b4d6abb4ed",
+      "title": "Portée disparue",
+      "programSlug": "portee-disparue",
+      "programUrl": "/programme/novelas/portee-disparue",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-19 09:20:00+00",
+      "endTime": "2026-04-19 10:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3010a66f-bdc3-4144-abaf-776bf3fbaa31",
+      "title": "Portée disparue - Saison 1",
+      "programSlug": "portee-disparue-saison-1",
+      "programUrl": "/programme/novelas/portee-disparue-saison-1",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-20 06:30:00+00",
+      "endTime": "2026-04-20 07:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "897f7661-8e1c-4434-bb3d-0350e83ec307",
+      "title": "Portée disparue - Saison 1",
+      "programSlug": "portee-disparue-saison-1",
+      "programUrl": "/programme/novelas/portee-disparue-saison-1",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-20 09:50:00+00",
+      "endTime": "2026-04-20 10:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "734d647b-ebc9-4a88-a08c-1982ca1e7a62",
+      "title": "Portée disparue - Saison 1",
+      "programSlug": "portee-disparue-saison-1",
+      "programUrl": "/programme/novelas/portee-disparue-saison-1",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-20 13:10:00+00",
+      "endTime": "2026-04-20 14:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "9b38483e-9e0d-4dbd-b519-c7a85af1d09f",
+      "title": "Portée disparue - Saison 1",
+      "programSlug": "portee-disparue-saison-1",
+      "programUrl": "/programme/novelas/portee-disparue-saison-1",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-20 14:00:00+00",
+      "endTime": "2026-04-20 14:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3476e0c9-fe99-4370-b106-565632ffbf9c",
+      "title": "Portée disparue - Saison 1",
+      "programSlug": "portee-disparue-saison-1",
+      "programUrl": "/programme/novelas/portee-disparue-saison-1",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-20 17:20:00+00",
+      "endTime": "2026-04-20 18:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a4f2016c-ec82-4c10-a538-e8324a75d0b7",
+      "title": "Portée disparue - Saison 1",
+      "programSlug": "portee-disparue-saison-1",
+      "programUrl": "/programme/novelas/portee-disparue-saison-1",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-20 20:40:00+00",
+      "endTime": "2026-04-20 21:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d9757686-84d2-45c3-90f1-b926d18c2344",
+      "title": "Portée disparue - Saison 1",
+      "programSlug": "portee-disparue-saison-1",
+      "programUrl": "/programme/novelas/portee-disparue-saison-1",
+      "channelId": "novelas",
+      "channelName": "NOVELAS",
+      "channelSlug": "novelas",
+      "startTime": "2026-04-21 00:00:00+00",
+      "endTime": "2026-04-21 00:50:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 05:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

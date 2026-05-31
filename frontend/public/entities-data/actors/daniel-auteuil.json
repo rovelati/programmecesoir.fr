@@ -1,0 +1,68 @@
+{
+  "type": "actor",
+  "slug": "daniel-auteuil",
+  "name": "Daniel Auteuil",
+  "worksCount": 5,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Auteuil%20C%C3%A9sar%202018.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1950-01-24",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q106303",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Daniel_Auteuil",
+    "imdb": "nm0000809",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "petites-coupures",
+      "title": "Petites coupures"
+    },
+    {
+      "type": "film",
+      "slug": "je-l-aimais",
+      "title": "Je l'aimais"
+    },
+    {
+      "type": "film",
+      "slug": "mon-meilleur-ami",
+      "title": "Mon meilleur ami"
+    },
+    {
+      "type": "film",
+      "slug": "la-petite-vadrouille",
+      "title": "La Petite Vadrouille"
+    },
+    {
+      "type": "film",
+      "slug": "adieu-monsieur-haffmann",
+      "title": "Adieu Monsieur Haffmann"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9b44ab34-937b-4589-935c-ad4d47dce606",
+      "title": "Petites coupures",
+      "programSlug": "petites-coupures",
+      "programUrl": "/programme/canal-grand-ecran/petites-coupures",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 04:00:00+00",
+      "endTime": "2026-04-23 05:33:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 04:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

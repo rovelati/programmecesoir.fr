@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "fragile",
+  "title": "Fragile",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Fragile"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur"
+  ],
+  "description": "Az, 25 ans, pense filer le parfait amour avec Jess, actrice principale dans une série télévisée, un rôle qui lui octroie une certaine notoriété parmi les habitants de leur ville de Sète. Employé dans l'ostréiculture, ce dernier met en place un scénario original pour demander sa copine en mariage, convaincu que le moment est venu de franchir ce cap. Surprise et quelque peu effrayée, Jess refuse poliment mais fermement son cadeau, une bague qu'il a caché dans une huître, une idée qu'il pensait brillante mais qui se révèle désastreuse. Le fiasco passé, Az décide de surmonter sa peine et de tout faire pour reconquérir sa belle...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2005,
+  "durationMinutes": 93,
+  "cast": [
+    {
+      "qid": "Q26424",
+      "slug": "calista-flockhart",
+      "name": "Calista Flockhart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240949",
+      "slug": "elena-anaya",
+      "name": "Elena Anaya",
+      "role": "actor"
+    },
+    {
+      "qid": "Q361630",
+      "slug": "richard-roxburgh",
+      "name": "Richard Roxburgh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1108562",
+      "slug": "colin-mcfarlane",
+      "name": "Colin McFarlane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234142",
+      "slug": "gemma-jones",
+      "name": "Gemma Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1176702",
+      "slug": "michael-pennington",
+      "name": "Michael Pennington",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236089",
+      "slug": "ivana-baquero",
+      "name": "Ivana Baquero",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4401055",
+      "slug": "fergus-riordan",
+      "name": "Fergus Riordan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5496648",
+      "slug": "freda-dowie",
+      "name": "Freda Dowie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21175978",
+      "slug": "matyelok-gibbs",
+      "name": "Matyelok Gibbs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5534446",
+      "slug": "geoffrey-beevers",
+      "name": "Geoffrey Beevers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q97473",
+      "slug": "patrick-molleken",
+      "name": "Patrick Mölleken",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q471000",
+    "slug": "jaume-balaguero",
+    "name": "Jaume Balagueró",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

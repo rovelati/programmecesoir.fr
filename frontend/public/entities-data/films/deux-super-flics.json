@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "deux-super-flics",
+  "title": "Deux super-flics",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Deux super-flics"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm criminel",
+    "buddy movie",
+    "drame"
+  ],
+  "description": "Deux petits escrocs sans envergure, Wilbur Walsh et Matt Kirby, hantent le port de Miami. Ils cherchent à se faire embaucher par un redoutable chef de gang, le Balafré. A défaut, ils se lient d'amitié. Ensemble, ils envisagent de commettre un hold-up qui tourne à la méprise et leur vaut de signer, éberlués, leur fiche d'engagement dans les locaux de la police. Les voici revêtus de l'uniforme réglementaire et prêts à affronter les criminels de tout poil. Quelques bagarres et un bon nombre de voitures cabossées plus loin, ils ont solidement établi leur réputation d'enquêteurs musclés. Un sombre trafic de drogue les lance sur la piste du Balafré...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "channelNumber": 18,
+      "logoUrl": "/loghi/gulli.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1977,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q221074",
+      "slug": "bud-spencer",
+      "name": "Bud Spencer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q243430",
+      "slug": "terence-hill",
+      "name": "Terence Hill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q659962",
+      "slug": "david-huddleston",
+      "name": "David Huddleston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q354664",
+      "slug": "luciano-catenacci",
+      "name": "Luciano Catenacci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q343534",
+      "slug": "riccardo-pizzuti",
+      "name": "Riccardo Pizzuti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3621004",
+      "slug": "april-clough",
+      "name": "April Clough",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3724388",
+      "slug": "emilio-delle-piane",
+      "name": "Emilio Delle Piane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240527",
+      "slug": "laura-gemser",
+      "name": "Laura Gemser",
+      "role": "actor"
+    },
+    {
+      "qid": "Q867883",
+      "slug": "claudio-ruffini",
+      "name": "Claudio Ruffini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q450852",
+      "slug": "luciano-rossi",
+      "name": "Luciano Rossi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4013361",
+      "slug": "vincenzo-maggio",
+      "name": "Vincenzo Maggio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2037335",
+      "slug": "ottaviano-dell-acqua",
+      "name": "Ottaviano Dell’Acqua",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1386044",
+      "slug": "ezio-marano",
+      "name": "Ezio Marano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15080244",
+      "slug": "edy-biagetti",
+      "name": "Edy Biagetti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16574173",
+      "slug": "luigi-casellato",
+      "name": "Luigi Casellato",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3938757",
+      "slug": "roberto-dell-acqua",
+      "name": "Roberto Dell'Acqua",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q938708",
+    "slug": "enzo-barboni",
+    "name": "Enzo Barboni",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

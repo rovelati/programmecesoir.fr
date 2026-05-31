@@ -1,0 +1,85 @@
+{
+  "type": "actor",
+  "slug": "jensen-ackles",
+  "name": "Jensen Ackles",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Misha%20Collins%20%26%20Jensen%20Ackles%20(48478258422)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-03-01",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q193513",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jensen_Ackles",
+    "imdb": "nm0010075",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "supernatural",
+      "title": "Supernatural"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "82f711f2-6a1d-4485-a89c-aa86c4607733",
+      "title": "Supernatural - Saison 2",
+      "programSlug": "supernatural-saison-2",
+      "programUrl": "/programme/ab1/supernatural-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 20:35:00+00",
+      "endTime": "2026-04-25 21:25:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "cdc81683-fce2-4929-be87-2e224f6b36e1",
+      "title": "Supernatural - Saison 2",
+      "programSlug": "supernatural-saison-2",
+      "programUrl": "/programme/ab1/supernatural-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 21:25:00+00",
+      "endTime": "2026-04-25 22:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "25d52e52-fcd6-4b75-ab60-0107967b22db",
+      "title": "Supernatural - Saison 2",
+      "programSlug": "supernatural-saison-2",
+      "programUrl": "/programme/ab1/supernatural-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 22:15:00+00",
+      "endTime": "2026-04-25 23:00:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "f6b23f4d-4f1c-48f5-a500-3057c883d9ef",
+      "title": "Supernatural - Saison 2",
+      "programSlug": "supernatural-saison-2",
+      "programUrl": "/programme/ab1/supernatural-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-25 23:00:00+00",
+      "endTime": "2026-04-25 23:45:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 20:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

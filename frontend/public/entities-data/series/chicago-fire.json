@@ -1,0 +1,373 @@
+{
+  "type": "series",
+  "slug": "chicago-fire",
+  "title": "Chicago Fire",
+  "airingsCount": 78,
+  "sourceTitles": [
+    "Chicago Fire"
+  ],
+  "genres": [
+    "série télévisée dramatique"
+  ],
+  "description": "Après un tragique incendie ayant coûté la vie à l'un des membres de l'équipe, Leslie, le chef Boden (Eamonn Walker) se retrouve confronté à la tâche difficile de remonter le moral de la caserne 51. Severide (Taylor Kinney), profondément affecté par cette perte, revient après plusieurs jours d'absence sans explication, ce qui pousse Casey (Jesse Spencer) à le surveiller de près pour s'assurer de son bien-être. Lors d'une intervention, un accident survient lorsque le camion de la caserne heurte celui dirigé par Welch, ajoutant une nouvelle couche de tension au quotidien déjà chaotique des pompiers. Pendant ce temps, Dawson (Monica Raymund) s'efforce de s'adapter à son nouveau poste, naviguant à travers les défis qui l'attendent. Les interventions s'enchaînent, mettant en lumière le courage et la camaraderie de l'équipe face à l'adversité, tout en révélant les luttes personnelles de chacun dans un environnement où le danger est omniprésent.",
+  "descriptionAi": "Cette série dramatique plonge au cœur de la caserne 51 de Chicago, mêlant interventions haletantes et intrigues personnelles poignantes. L'ambiance, à la fois intense et authentique, repose sur un puissant esprit de corps qui unit ces pompiers et secouristes. Ce qui captive, c'est l'équilibre parfait entre le péril des missions, la complexité des relations et la résilience des personnages, rendus profondément humains par leurs drames et leurs loyautés. Un portrait captivant du quotidien héroïque et vulnérable de ceux qui risquent leur vie pour les autres, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "channelNumber": null,
+      "logoUrl": "/loghi/13eme-rue.png",
+      "airingsCount": 74
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "feca0dff-5d6a-4276-9cf3-0ee40e67c923",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 09:55:00+00",
+      "endTime": "2026-04-20 10:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bc0798c7-0ee9-40e1-865e-bd51130d7765",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 10:40:00+00",
+      "endTime": "2026-04-20 11:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "017d3e81-5a2d-4d3c-81b9-9345dcec948f",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 16:30:00+00",
+      "endTime": "2026-04-20 17:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b2151cfc-8b29-4761-9e7a-47fc6e5bbadf",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-20 17:15:00+00",
+      "endTime": "2026-04-20 18:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "500da709-ef18-40d0-b53f-073a03d1353d",
+      "title": "Chicago Fire - Saison 13",
+      "programSlug": "chicago-fire-saison-13",
+      "programUrl": "/programme/cstar/chicago-fire-saison-13",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-20 19:10:00+00",
+      "endTime": "2026-04-20 20:22:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4c2ca9f0-1bd0-45ba-bbe1-a5d878efdaef",
+      "title": "Chicago Fire - Saison 13",
+      "programSlug": "chicago-fire-saison-13",
+      "programUrl": "/programme/cstar/chicago-fire-saison-13",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-20 20:22:00+00",
+      "endTime": "2026-04-20 22:04:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "83d610d0-f028-4571-8585-2f40de34fbbd",
+      "title": "Chicago Fire - Saison 13",
+      "programSlug": "chicago-fire-saison-13",
+      "programUrl": "/programme/cstar/chicago-fire-saison-13",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-20 22:04:00+00",
+      "endTime": "2026-04-20 23:17:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2c1a40e1-ca83-42a8-9ead-1d73cfb59e1e",
+      "title": "Chicago Fire - Saison 13",
+      "programSlug": "chicago-fire-saison-13",
+      "programUrl": "/programme/cstar/chicago-fire-saison-13",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-20 23:17:00+00",
+      "endTime": "2026-04-21 00:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "32db32aa-cb75-4711-8798-289884611490",
+      "title": "Chicago Fire - Saison 13",
+      "programSlug": "chicago-fire-saison-13",
+      "programUrl": "/programme/cstar/chicago-fire-saison-13",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-21 00:30:00+00",
+      "endTime": "2026-04-21 01:52:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4fa8ac2a-643e-4cf6-a90f-6e0bcfd2146a",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-21 09:55:00+00",
+      "endTime": "2026-04-21 10:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "fd512d88-5bc2-4659-819f-b8ec2b3f79a9",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-21 10:40:00+00",
+      "endTime": "2026-04-21 11:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a9957dac-4c00-47d0-b950-78eed920c3e9",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-21 16:30:00+00",
+      "endTime": "2026-04-21 17:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7e59e049-dd8e-4559-ac28-b5f1fcf46b9b",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-21 17:15:00+00",
+      "endTime": "2026-04-21 18:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "df4f3c10-9d4a-4b06-bc79-36dd4423ae6b",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-22 09:50:00+00",
+      "endTime": "2026-04-22 10:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e9ab695d-c079-40f5-a0b7-ed31d4092359",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-22 10:35:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "6a3ebc4d-5820-43d3-8763-6845e90a1413",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-22 16:30:00+00",
+      "endTime": "2026-04-22 17:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "58a83ca5-17d3-4757-a3e5-c0b429983a09",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-22 17:15:00+00",
+      "endTime": "2026-04-22 18:05:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a9269bee-65d6-4dfd-a838-f0a684ca04ed",
+      "title": "Chicago Fire",
+      "programSlug": "chicago-fire",
+      "programUrl": "/programme/13eme-rue/chicago-fire",
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "startTime": "2026-04-23 10:00:00+00",
+      "endTime": "2026-04-23 10:45:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:08:25.806Z",
+  "startYear": 2012,
+  "numberOfSeasons": 14,
+  "cast": [
+    {
+      "qid": "Q270153",
+      "slug": "jesse-spencer",
+      "name": "Jesse Spencer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16745467",
+      "slug": "teri-reeves",
+      "name": "Teri Reeves",
+      "role": "actor"
+    },
+    {
+      "qid": "Q261583",
+      "slug": "lauren-german",
+      "name": "Lauren German",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271772",
+      "slug": "monica-raymund",
+      "name": "Monica Raymund",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965651",
+      "slug": "christian-stolte",
+      "name": "Christian Stolte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3306524",
+      "slug": "merle-dandridge",
+      "name": "Merle Dandridge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461742",
+      "slug": "anne-lockhart",
+      "name": "Anne Lockhart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q554315",
+      "slug": "taylor-kinney",
+      "name": "Taylor Kinney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16232400",
+      "slug": "yuri-sardarov",
+      "name": "Yuri Sardarov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16201004",
+      "slug": "charlie-barnett",
+      "name": "Charlie Barnett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1276942",
+      "slug": "eamonn-walker",
+      "name": "Eamonn Walker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1174314",
+      "slug": "david-eigenberg",
+      "name": "David Eigenberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18386990",
+      "slug": "kara-killmer",
+      "name": "Kara Killmer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11832580",
+      "slug": "madison-burge",
+      "name": "Madison Burge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313463",
+      "slug": "steven-r-mcqueen",
+      "name": "Steven R. McQueen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20758156",
+      "slug": "miranda-rae-mayo",
+      "name": "Miranda Rae Mayo",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q3856120",
+    "slug": "michael-brandt",
+    "name": "Michael Brandt",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 09:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

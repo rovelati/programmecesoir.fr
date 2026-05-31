@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "lucien-nat",
+  "name": "Lucien Nat",
+  "worksCount": 1,
+  "description": "acteur de théâtre et de cinéma",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1943-05%20Cristobal%20-%20Th%C3%A9%C3%A2tre%20Montparnasse.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1895-01-11",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3265652",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lucien_Nat",
+    "imdb": "nm0622069",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "rocambole",
+      "title": "Rocambole"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

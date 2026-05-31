@@ -1,0 +1,64 @@
+{
+  "type": "actor",
+  "slug": "roschdy-zem",
+  "name": "Roschdy Zem",
+  "worksCount": 4,
+  "description": "acteur, réalisateur et scénariste franco-marocain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roschdy%20Zem%202017%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-09-27",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q391974",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Roschdy_Zem",
+    "imdb": "nm0954704",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "hiver-a-sokcho",
+      "title": "Hiver à Sokcho"
+    },
+    {
+      "type": "film",
+      "slug": "13-jours-13-nuits",
+      "title": "13 jours, 13 nuits"
+    },
+    {
+      "type": "film",
+      "slug": "l-origine-du-monde",
+      "title": "L'origine du monde"
+    },
+    {
+      "type": "film",
+      "slug": "les-hommes-du-feu",
+      "title": "Les hommes du feu"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fd3c1ebe-4947-4462-ae45-e18203e85dab",
+      "title": "13 jours, 13 nuits",
+      "programSlug": "13-jours-13-nuits",
+      "programUrl": "/programme/canal-box-office/13-jours-13-nuits",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 09:11:00+00",
+      "endTime": "2026-04-25 11:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-25 09:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,67 @@
+{
+  "type": "film",
+  "slug": "looney-tunes-daffy-et-porky-sauvent-le-monde",
+  "title": "Looney Tunes : Daffy et Porky sauvent le monde",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Looney Tunes : Daffy et Porky sauvent le monde"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm familial",
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "Employés dans une usine de chewing-gums, Daffy Duck et Porky Pig font une découverte effrayante. Un alien qui veut prendre le contrôle de la Terre a empoisonné des gommes à mâcher produites dans leur entreprise. Tous ceux qui mâchouillent ces friandises se transforment aussitôt en zombies. Avec l'aide de la scientifique Petunia Pig, les deux compères se lancent aussitôt dans l'élaboration d'un plan qui pourrait leur permettre de contrer cette menace extraterrestre. Pour parvenir à leurs fins, ils doivent se montrer solidaires, une prouesse que Daffy Duck et Porky Pig semblent incapables d'accomplir...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f61417f0-71f4-4619-8594-482bfb6ffd05",
+      "title": "Looney Tunes : Daffy et Porky sauvent le monde",
+      "programSlug": "looney-tunes-daffy-et-porky-sauvent-le-monde",
+      "programUrl": "/programme/cine-family/looney-tunes-daffy-et-porky-sauvent-le-monde",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 05:01:00+00",
+      "endTime": "2026-04-23 06:30:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 91,
+  "cast": [],
+  "director": {
+    "qid": "Q16727704",
+    "slug": "peter-browngardt",
+    "name": "Peter Browngardt",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 05:01:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

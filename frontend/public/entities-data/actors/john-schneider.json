@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "john-schneider",
+  "name": "John Schneider",
+  "worksCount": 1,
+  "description": "acteur et chanteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JohnSchneiderB%20yPhilKOnstantinPublicDomainCropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-04-08",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q286642",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Schneider",
+    "imdb": "nm0773884",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "docteur-quinn-femme-medecin",
+      "title": "Docteur Quinn, femme médecin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7be000c0-9fd3-42de-a4eb-4cbacba2c7d9",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-20 10:30:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2a72b679-2867-495b-8bb2-9ba91b836937",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-20 11:30:00+00",
+      "endTime": "2026-04-20 12:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "afb7d4a4-b6cc-4342-8dfe-3cd43219c332",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-20 12:20:00+00",
+      "endTime": "2026-04-20 13:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "689ae642-68d8-4a48-8bc0-9564777af975",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-20 13:20:00+00",
+      "endTime": "2026-04-20 14:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bdbc8e7b-0cfd-49bd-973c-c73432e78423",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-21 10:30:00+00",
+      "endTime": "2026-04-21 11:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1a1554db-40a1-4b46-9fc3-f43c8da2318a",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-21 11:30:00+00",
+      "endTime": "2026-04-21 12:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8611ac8b-0832-45c2-b8f4-a9d434a3d00a",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-21 12:20:00+00",
+      "endTime": "2026-04-21 13:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e37b8297-8b7d-4390-8106-bfe013771dd9",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-21 13:20:00+00",
+      "endTime": "2026-04-21 14:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "65fc993b-7b6b-4fc0-baa3-ccf27d89a56d",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-22 10:30:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "5949cc3e-a325-4de6-9348-15c68a890515",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-22 11:30:00+00",
+      "endTime": "2026-04-22 12:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7fd94e4d-c8a0-41a0-b6e9-8783b8c51f90",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-22 12:20:00+00",
+      "endTime": "2026-04-22 13:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c2d54c23-16fc-4ace-909c-0e143ce9fb54",
+      "title": "Docteur Quinn, femme médecin - Saison 2",
+      "programSlug": "docteur-quinn-femme-medecin-saison-2",
+      "programUrl": "/programme/6ter/docteur-quinn-femme-medecin-saison-2",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-22 13:20:00+00",
+      "endTime": "2026-04-22 14:20:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 10:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

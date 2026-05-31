@@ -1,0 +1,55 @@
+{
+  "type": "film",
+  "slug": "shirley-maclaine-comme-un-torrent",
+  "title": "Shirley MacLaine, comme un torrent",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Shirley MacLaine, comme un torrent"
+  ],
+  "genres": [
+    "Cinema",
+    "Doc Cinéma"
+  ],
+  "description": "Née en 1934, Shirley MacLaine s'impose à 20 ans dans les musicals de Broadway et, plus tard, dans des films à grand spectacle. Sinatra l'impose sur le tournage de Comme un torrent, où elle crève l'écran en fille perdue. La Garçonnière et Irma la douce, de Billy Wilder, l'aident à mettre au point sa marque de fabrique : un cocktail de pathos, d'énergie, d'aplomb et d'espièglerie.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "arte",
+      "channelName": "Arte",
+      "channelSlug": "arte",
+      "channelNumber": 7,
+      "logoUrl": "/loghi/arte.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "arte-belgique",
+      "channelName": "Arte Belgique",
+      "channelSlug": "arte-belgique",
+      "channelNumber": null,
+      "logoUrl": "/loghi/arte-belgique.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

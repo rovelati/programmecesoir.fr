@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "john-glover",
+  "name": "John Glover",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Glover%20Photo%20Op%20GalaxyCon%20Richmond%202020.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1944-08-07",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q281621",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Glover_(acteur)",
+    "imdb": "nm0001278",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "soleil-de-nuit",
+      "title": "Soleil de nuit"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

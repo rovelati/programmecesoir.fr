@@ -1,0 +1,119 @@
+{
+  "type": "film",
+  "slug": "le-bel-antonio",
+  "title": "Le bel Antonio",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le bel Antonio"
+  ],
+  "genres": [
+    "drame",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "Après avoir longtemps vécu à Rome, le séduisant Antonio Magnano revient dans sa ville natale de Catane, en Sicile. Son charme et sa réputation de séducteur invétéré, complaisamment entretenue par son père, lui valent un grand succès auprès des femmes. De petite fortune, Antonio Magnano épouse finalement Barbara, la ravissante fille du notaire. Cette union a été soigneusement préparée par le père du jeune marié. Mais il s'avère bientôt que le mariage n'a pas été consommé, par la faute d'Antonio, que l'amour rend impuissant. Le scandale est terrible. On ne plaisante pas avec la virilité en Sicile. La honte s'abat sur la famille Magnano et le divorce ne tarde pas à être prononcé...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bellantonio-1960-Cardinale.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1960,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q55469",
+      "slug": "marcello-mastroianni",
+      "name": "Marcello Mastroianni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107006",
+      "slug": "claudia-cardinale",
+      "name": "Claudia Cardinale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q945890",
+      "slug": "pierre-brasseur",
+      "name": "Pierre Brasseur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1082982",
+      "slug": "rina-morelli",
+      "name": "Rina Morelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q432638",
+      "slug": "tomas-milian",
+      "name": "Tomás Milián",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3754277",
+      "slug": "fulvia-mammi",
+      "name": "Fulvia Mammi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3665582",
+      "slug": "cesarina-gheraldi",
+      "name": "Cesarina Gheraldi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3809796",
+      "slug": "jole-fierro",
+      "name": "Jole Fierro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460063",
+      "slug": "guido-celano",
+      "name": "Guido Celano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3764466",
+      "slug": "gina-mattarolo",
+      "name": "Gina Mattarolo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2653114",
+      "slug": "anna-arena",
+      "name": "Anna Arena",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q53008",
+    "slug": "mauro-bolognini",
+    "name": "Mauro Bolognini",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,193 @@
+{
+  "type": "series",
+  "slug": "the-office-us",
+  "title": "The Office US",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "The Office US"
+  ],
+  "genres": [
+    "sitcom",
+    "documentaire parodique"
+  ],
+  "description": "Michael komt in aanmerking voor een functie bij Corporate en hij moet een opvolger voorstellen. De groep hoopt op een leuk uitje bij het Scrantonmeer, maar Michael heeft een dag survival-achtige activiteiten gepland om zijn geschikte opvolger te vinden. Pam wordt niet gevraagd om deel te nemen en moet toekijken hoe Jim en Karen plezier maken.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canvas.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ca65a651-bbc9-4ef9-b975-83a14ed106c7",
+      "title": "The Office US",
+      "programSlug": "the-office-us",
+      "programUrl": "/programme/canvas/the-office-us",
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "startTime": "2026-04-20 14:55:00+00",
+      "endTime": "2026-04-20 15:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5e73e892-ff5a-4c7a-bd4e-dfd013963d30",
+      "title": "The Office US",
+      "programSlug": "the-office-us",
+      "programUrl": "/programme/canvas/the-office-us",
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "startTime": "2026-04-20 15:15:00+00",
+      "endTime": "2026-04-20 15:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c5d62f9b-a6ac-43ed-871b-221d712c2a72",
+      "title": "The Office US",
+      "programSlug": "the-office-us",
+      "programUrl": "/programme/canvas/the-office-us",
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "startTime": "2026-04-24 15:34:00+00",
+      "endTime": "2026-04-24 15:54:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "576670ba-a144-4762-95bb-5c1c0d9e2a51",
+      "title": "The Office US",
+      "programSlug": "the-office-us",
+      "programUrl": "/programme/canvas/the-office-us",
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "startTime": "2026-04-24 15:54:00+00",
+      "endTime": "2026-04-24 16:20:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2005,
+  "numberOfSeasons": 9,
+  "cast": [
+    {
+      "qid": "Q216221",
+      "slug": "steve-carell",
+      "name": "Steve Carell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349548",
+      "slug": "rainn-wilson",
+      "name": "Rainn Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313039",
+      "slug": "john-krasinski",
+      "name": "John Krasinski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q328790",
+      "slug": "ed-helms",
+      "name": "Ed Helms",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238877",
+      "slug": "jenna-fischer",
+      "name": "Jenna Fischer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459925",
+      "slug": "b-j-novak",
+      "name": "B.J. Novak",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296928",
+      "slug": "james-spader",
+      "name": "James Spader",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269901",
+      "slug": "melora-hardin",
+      "name": "Melora Hardin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q64560",
+      "slug": "david-denman",
+      "name": "David Denman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1050211",
+      "slug": "leslie-david-baker",
+      "name": "Leslie David Baker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2924850",
+      "slug": "brian-baumgartner",
+      "name": "Brian Baumgartner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3028200",
+      "slug": "kate-flannery",
+      "name": "Kate Flannery",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2669971",
+      "slug": "angela-kinsey",
+      "name": "Angela Kinsey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1139248",
+      "slug": "oscar-nunez",
+      "name": "Oscar Nuñez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q508280",
+      "slug": "phyllis-smith",
+      "name": "Phyllis Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q539917",
+      "slug": "mindy-kaling",
+      "name": "Mindy Kaling",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 14:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

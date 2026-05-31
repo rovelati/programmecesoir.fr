@@ -1,0 +1,96 @@
+{
+  "type": "film",
+  "slug": "man-of-tai-chi",
+  "title": "Man of Tai Chi",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Man of Tai Chi"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film d'arts martiaux"
+  ],
+  "description": "Tiger est convié à passer un test de combat qu'il réussit brillamment. Il est alors recruté par Donaka Mark, un homme mystérieux et aux desseins obscurs, pour devenir son champion. Les rencontres sont complètement illégales mais Tiger ferme les yeux car il veut aider à la mission de son maître de taï chi...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bc6ffbc8-b3bd-4edb-9765-8dd983551db2",
+      "title": "Man of Tai Chi",
+      "programSlug": "man-of-tai-chi",
+      "programUrl": "/programme/canal-grand-ecran/man-of-tai-chi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-26 05:50:00+00",
+      "endTime": "2026-04-26 07:32:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q43416",
+      "slug": "keanu-reeves",
+      "name": "Keanu Reeves",
+      "role": "actor"
+    },
+    {
+      "qid": "Q716027",
+      "slug": "karen-mok",
+      "name": "Karen Mok",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2350460",
+      "slug": "iko-uwais",
+      "name": "Iko Uwais",
+      "role": "actor"
+    },
+    {
+      "qid": "Q667260",
+      "slug": "simon-yam",
+      "name": "Simon Yam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15911124",
+      "slug": "tiger-chen",
+      "name": "Tiger Chen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q43416",
+    "slug": "keanu-reeves",
+    "name": "Keanu Reeves",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-26 05:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

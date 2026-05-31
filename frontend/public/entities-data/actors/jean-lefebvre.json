@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jean-lefebvre",
+  "name": "Jean Lefebvre",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JeanLefebvre-1963-Harcourt.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1919-10-03",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1351000",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Lefebvre",
+    "imdb": "nm0498876",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-magnifique",
+      "title": "Le magnifique"
+    },
+    {
+      "type": "film",
+      "slug": "le-repos-du-guerrier",
+      "title": "Le repos du guerrier"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

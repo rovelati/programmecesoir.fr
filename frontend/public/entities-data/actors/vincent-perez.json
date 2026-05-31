@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "vincent-perez",
+  "name": "Vincent Perez",
+  "worksCount": 2,
+  "description": "acteur franco-suisse",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20P%C3%A9rez%20Cannes.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-06-10",
+  "nationality": "Suisse",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q123476",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Vincent_Perez",
+    "imdb": "nm0001641",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "d-apres-une-histoire-vraie",
+      "title": "D'après une histoire vraie"
+    },
+    {
+      "type": "film",
+      "slug": "indochine",
+      "title": "Indochine"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c79031-b25c-49b8-8ad2-27e626a56e4d",
+      "title": "Indochine",
+      "programSlug": "indochine",
+      "programUrl": "/programme/cine-classic/indochine",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 18:50:00+00",
+      "endTime": "2026-04-24 21:22:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

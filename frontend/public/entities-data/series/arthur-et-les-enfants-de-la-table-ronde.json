@@ -1,0 +1,110 @@
+{
+  "type": "series",
+  "slug": "arthur-et-les-enfants-de-la-table-ronde",
+  "title": "Arthur et les enfants de la Table ronde",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Arthur et les enfants de la Table ronde"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série télévisée d'aventures",
+    "série d'action",
+    "comédie"
+  ],
+  "description": "Les écuyers surprennent le garde Roscelin en train de divulguer des informations militaires à Odonette, la reine des Saxons. Aussitôt, ils dénoncent le traître auprès du roi Uther.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teletoon-1",
+      "channelName": "Télétoon +1",
+      "channelSlug": "teletoon-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teletoon-1.svg",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1024a59-445b-481b-a587-0719ec355276",
+      "title": "Arthur et les enfants de la Table ronde",
+      "programSlug": "arthur-et-les-enfants-de-la-table-ronde",
+      "programUrl": "/programme/teletoon/arthur-et-les-enfants-de-la-table-ronde",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 10:24:00+00",
+      "endTime": "2026-04-23 10:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "337a7e51-3ec3-45d2-af30-c9a5f3f5dd41",
+      "title": "Arthur et les enfants de la Table ronde",
+      "programSlug": "arthur-et-les-enfants-de-la-table-ronde",
+      "programUrl": "/programme/teletoon/arthur-et-les-enfants-de-la-table-ronde",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 10:35:00+00",
+      "endTime": "2026-04-23 10:46:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "46da64ff-f78c-4657-b059-bfaf42db68b6",
+      "title": "Arthur et les enfants de la Table ronde",
+      "programSlug": "arthur-et-les-enfants-de-la-table-ronde",
+      "programUrl": "/programme/teletoon/arthur-et-les-enfants-de-la-table-ronde",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 10:46:00+00",
+      "endTime": "2026-04-23 11:00:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "1718d3f3-aaf0-4e85-a07e-aa10379d46b9",
+      "title": "Arthur et les enfants de la Table ronde",
+      "programSlug": "arthur-et-les-enfants-de-la-table-ronde",
+      "programUrl": "/programme/teletoon/arthur-et-les-enfants-de-la-table-ronde",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 17:30:00+00",
+      "endTime": "2026-04-23 17:41:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "2aa3dc59-10f3-46de-9ebd-cd40b990ba1e",
+      "title": "Arthur et les enfants de la Table ronde",
+      "programSlug": "arthur-et-les-enfants-de-la-table-ronde",
+      "programUrl": "/programme/teletoon/arthur-et-les-enfants-de-la-table-ronde",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 17:41:00+00",
+      "endTime": "2026-04-23 18:00:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2018,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-23 10:24:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

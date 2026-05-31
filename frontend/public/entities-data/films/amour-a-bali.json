@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "amour-a-bali",
+  "title": "Amour à Bali",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Amour à Bali"
+  ],
+  "genres": [
+    "Cinéma",
+    "Film"
+  ],
+  "description": "Après le décès de sa grand-mère, une influenceuse entraîne sa mère et sa soeur dans un voyage à Bali afin d'y découvrir leurs racines indonésiennes.",
+  "descriptionAi": "Ce film dramatique et familial nous transporte à Bali sur les traces d’une quête identitaire touchante. L’ambiance oscille entre la beauté envoûtante des paysages balinais et les tensions intimes qui émergent lors de ce voyage inattendu. L’intérêt réside dans la confrontation entre une influenceuse moderne et les traditions ancestrales, un choc générationnel qui pousse chaque personnage à se redécouvrir. C’est une histoire universelle sur les liens du sang, le deuil et la recherche de ses racines, portée par des émotions justes et des décors somptueux. Une belle invitation au dépaysement et à l’introspection, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:48:48.457Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

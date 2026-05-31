@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "tobrouk-commando-pour-l-enfer",
+  "title": "Tobrouk, commando pour l'enfer",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Tobrouk, commando pour l'enfer"
+  ],
+  "genres": [
+    "film et téléfilm de guerre"
+  ],
+  "description": "Pendant la Seconde Guerre mondiale, en septembre 1942. Le major Donald Craig, prisonnier de guerre des Allemands, a la surprise de voir débarquer un commando venu le libérer. Sa stupéfaction est d'autant plus grande que les hommes du groupe sont des Allemands. Conduit auprès du colonel Harker, Craig demande des explications. Harker l'informe que ses libérateurs sont en fait des juifs, recrutés par une unité d'élite, et qui ont choisi de lutter aux côtés des Anglais. Ce n'est pas tout. Craig a été libéré pour effectuer une mission de première importance : il doit se rendre, avec le même commando, dans le désert de Libye, où il devra détruire les réserves d'essence constituées par les nazis et entreposées à Tobrouk...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1967,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q184378",
+      "slug": "rock-hudson",
+      "name": "Rock Hudson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q36980",
+      "slug": "george-peppard",
+      "name": "George Peppard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q721256",
+      "slug": "nigel-green",
+      "name": "Nigel Green",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436069",
+      "slug": "guy-stockwell",
+      "name": "Guy Stockwell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q519904",
+      "slug": "jack-watson",
+      "name": "Jack Watson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1344534",
+      "slug": "robert-wolders",
+      "name": "Robert Wolders",
+      "role": "actor"
+    },
+    {
+      "qid": "Q75760",
+      "slug": "curt-lowens",
+      "name": "Curt Lowens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1707954",
+      "slug": "joseph-sargent",
+      "name": "Joseph Sargent",
+      "role": "actor"
+    },
+    {
+      "qid": "Q552670",
+      "slug": "norman-rossington",
+      "name": "Norman Rossington",
+      "role": "actor"
+    },
+    {
+      "qid": "Q336689",
+      "slug": "leo-gordon",
+      "name": "Leo Gordon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6539778",
+      "slug": "liam-redmond",
+      "name": "Liam Redmond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q370026",
+      "slug": "percy-herbert",
+      "name": "Percy Herbert",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q455043",
+    "slug": "arthur-hiller",
+    "name": "Arthur Hiller",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

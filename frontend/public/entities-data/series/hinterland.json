@@ -1,0 +1,94 @@
+{
+  "type": "series",
+  "slug": "hinterland",
+  "title": "Hinterland",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Hinterland - Saison 1",
+    "Hinterland - Saison 2",
+    "Hinterland - Saison 3"
+  ],
+  "genres": [
+    "detective television series",
+    "série télévisée policière",
+    "série télévisée dramatique"
+  ],
+  "description": "Le commandant Tom Mathias, encore choqué par son agression, est dépêché pour enquêter sur le meurtre du pasteur d'Aberystwyth, assassiné dans sa chapelle. Au fil de leurs investigations, Mathias et Mared Rhys découvrent la face cachée du défunt. De son côté, le lieutenant Owens enquête sur l'incendie de la caravane et l'agression de Mathias...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7e252443-6905-41af-b91c-50532eea2b70",
+      "title": "Hinterland - Saison 2",
+      "programSlug": "hinterland-saison-2",
+      "programUrl": "/programme/polar/hinterland-saison-2",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-25 22:17:00+00",
+      "endTime": "2026-04-25 23:53:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2013,
+  "numberOfSeasons": 3,
+  "cast": [
+    {
+      "qid": "Q7326280",
+      "slug": "richard-harrington",
+      "name": "Richard Harrington",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6743287",
+      "slug": "mali-harries",
+      "name": "Mali Harries",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21642411",
+      "slug": "hannah-daniel",
+      "name": "Hannah Daniel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4761604",
+      "slug": "aneirin-hughes",
+      "name": "Aneirin Hughes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q25558134",
+      "slug": "alex-harries",
+      "name": "Alex Harries",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-25 22:17:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

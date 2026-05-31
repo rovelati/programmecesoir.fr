@@ -1,0 +1,150 @@
+{
+  "type": "series",
+  "slug": "d-artagnan-et-les-trois-mousquetaires",
+  "title": "D'Artagnan et les trois mousquetaires",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "D'Artagnan et les trois mousquetaires"
+  ],
+  "genres": [
+    "film ou téléfilm musical",
+    "film de cape et d'épée",
+    "série télévisée d'aventures"
+  ],
+  "description": "Dans son village natal près de Tarbes, le jeune D'Artagnan rêve de devenir un épéiste émérite et de faire partie des célèbres Mousquetaires. D'Artagnan est envoyé à Paris avec seulement une épée, un vieux cheval et une lettre de présentation au capitaine des Mousquetaires, M. De Treville.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mangas",
+      "channelName": "Mangas",
+      "channelSlug": "mangas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mangas.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1979,
+  "numberOfSeasons": null,
+  "cast": [
+    {
+      "qid": "Q544641",
+      "slug": "mikhail-boyarski",
+      "name": "Mikhaïl Boyarski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q183535",
+      "slug": "veniamine-smekhov",
+      "name": "Veniamine Smekhov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3553607",
+      "slug": "valentin-smirnitski",
+      "name": "Valentin Smirnitski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2119044",
+      "slug": "igor-staryguine",
+      "name": "Igor Staryguine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271485",
+      "slug": "margarita-terekhova",
+      "name": "Margarita Terekhova",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4463906",
+      "slug": "alexander-alexejewitsch-trofimow",
+      "name": "Alexander Alexejewitsch Trofimow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466139",
+      "slug": "oleg-tabakov",
+      "name": "Oleg Tabakov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271630",
+      "slug": "alisa-freindlich",
+      "name": "Alisa Freindlich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2632355",
+      "slug": "lev-durov",
+      "name": "Lev Durov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4244914",
+      "slug": "alexei-glebowitsch-kusnezow",
+      "name": "Alexei Glebowitsch Kusnezow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4154905",
+      "slug": "yevgeny-danchevsky",
+      "name": "Yevgeny Danchevsky",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4506415",
+      "slug": "yelena-tsyplakova",
+      "name": "Yelena Tsyplakova",
+      "role": "actor"
+    },
+    {
+      "qid": "Q282818",
+      "slug": "irina-alfiorova",
+      "name": "Irina Alfiorova",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4224302",
+      "slug": "boris-klyuyev",
+      "name": "Boris Klyuyev",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1987569",
+      "slug": "leonid-kanevski",
+      "name": "Leonid Kanevski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4076851",
+      "slug": "vladimir-balon",
+      "name": "Vladimir Balon",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q4534523",
+    "slug": "gueorgui-jungwald-khilkevitch",
+    "name": "Gueorgui Jungwald-Khilkevitch",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

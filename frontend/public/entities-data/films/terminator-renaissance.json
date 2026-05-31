@@ -1,0 +1,159 @@
+{
+  "type": "film",
+  "slug": "terminator-renaissance",
+  "title": "Terminator Renaissance",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Terminator Renaissance"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm de science-fiction",
+    "film ou téléfilm post-apocalyptique",
+    "film dystopique",
+    "cyberpunk",
+    "Chase Films",
+    "drame",
+    "techno-thriller",
+    "film ou téléfilm d'aventure",
+    "thriller",
+    "film d'action de science-fiction",
+    "film et téléfilm de guerre"
+  ],
+  "description": "En 2003, le docteur Serena Kogan parvient à convaincre Marcus Wright, un condamné à mort, de léguer son corps à l'entreprise Cyberdine. Quelque temps après son exécution, la guerre entre les humains et les machines éclate. En 2018, John Connor dirige la résistance humaine. Il mène un commando dans un complexe secret dont il est le seul à réchapper. Des ruines sort Marcus Wright, désorienté. Il se met en route pour Los Angeles. En chemin, il fait la connaissance d'un adolescent, Kyle Reese. Quand Kyle est capturé par les machines, John et Marcus s'allient pour le retrouver. Mais John a des doutes sur la véritable identité de Marcus...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 115,
+  "cast": [
+    {
+      "qid": "Q45772",
+      "slug": "christian-bale",
+      "name": "Christian Bale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q82085",
+      "slug": "sam-worthington",
+      "name": "Sam Worthington",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314133",
+      "slug": "anton-yelchin",
+      "name": "Anton Yelchin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229775",
+      "slug": "bryce-dallas-howard",
+      "name": "Bryce Dallas Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239112",
+      "slug": "moon-bloodgood",
+      "name": "Moon Bloodgood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q286022",
+      "slug": "common",
+      "name": "Common",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170428",
+      "slug": "helena-bonham-carter",
+      "name": "Helena Bonham Carter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242717",
+      "slug": "jane-alexander",
+      "name": "Jane Alexander",
+      "role": "actor"
+    },
+    {
+      "qid": "Q89536",
+      "slug": "roland-kickinger",
+      "name": "Roland Kickinger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3644509",
+      "slug": "brian-steele",
+      "name": "Brian Steele",
+      "role": "actor"
+    },
+    {
+      "qid": "Q344973",
+      "slug": "michael-ironside",
+      "name": "Michael Ironside",
+      "role": "actor"
+    },
+    {
+      "qid": "Q360671",
+      "slug": "greg-serano",
+      "name": "Greg Serano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208214",
+      "slug": "linda-hamilton",
+      "name": "Linda Hamilton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271464",
+      "slug": "terry-crews",
+      "name": "Terry Crews",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16730130",
+      "slug": "jadagrace",
+      "name": "Jadagrace",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6096261",
+      "slug": "ivan-g-vera",
+      "name": "Ivan G'Vera",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q385058",
+    "slug": "mcg",
+    "name": "McG",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

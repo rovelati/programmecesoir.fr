@@ -1,0 +1,68 @@
+{
+  "type": "film",
+  "slug": "shrek-le-troisieme",
+  "title": "Shrek le Troisième",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Shrek le Troisième"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'aventure",
+    "fantasy humoristique",
+    "cinéma de conte de fées"
+  ],
+  "description": "Depuis qu'il a épousé la princesse Fiona, Shrek coule des jours heureux. Mais le roi meurt subitement, et sans avoir désigné de successeur. Le royaume de Fort Fort Lointain pourrait susciter la convoitise de ses puissants voisins, et donc connaître de sérieuses difficultés. Refusant catégoriquement de devenir monarque, Shrek se voit confier la délicate mission de trouver celui qui sera en mesure de monter sur le trône. Car un certain Arthur pourrait bien faire l'affaire. Parcourant les mers et de lointaines contrées, Shrek va devoir affronter de nombreux périls. Mais il lui faut faire vite car une terrible menace plane sur le royaume, où Fiona attend le retour de son ogre préféré...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Odeon%20Cinema%2C%20Leicester%20Square%20-%20geograph.org.uk%20-%20480464.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab3.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "57ed1eb0-ac38-4552-8919-09a4175261bc",
+      "title": "Shrek le troisième",
+      "programSlug": "shrek-le-troisieme",
+      "programUrl": "/programme/tf1-series-films/shrek-le-troisieme",
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "startTime": "2026-04-20 19:10:00+00",
+      "endTime": "2026-04-20 20:55:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2007,
+  "durationMinutes": 89,
+  "cast": [],
+  "director": {
+    "qid": "Q283700",
+    "slug": "chris-miller",
+    "name": "Chris Miller",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 19:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

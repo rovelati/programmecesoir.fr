@@ -1,0 +1,168 @@
+{
+  "type": "film",
+  "slug": "boulevard-de-la-mort",
+  "title": "Boulevard de la mort",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Boulevard de la mort"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "film et téléfilm d'action",
+    "slasher",
+    "drame",
+    "thriller",
+    "Chase Films",
+    "film d'exploitation",
+    "comédie d'horreur",
+    "comédie",
+    "film à suspense",
+    "comédie d'action",
+    "thriller d'action",
+    "cinéma indépendant",
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm gore",
+    "film ou téléfilm à énigme",
+    "comédie noire",
+    "film de vigilante",
+    "film ou téléfilm criminel",
+    "film policier dramatique",
+    "thriller policier"
+  ],
+  "description": "Jungle Julia est l'une des animatrices radio les plus populaires de Californie. Alors que le week-end approche, elle décide de partir en virée avec ses amies Arlene et Shanna. Les trois filles se retrouvent dans un bar. C'est là qu'elles font la connaissance de Mike La Cascade, un inquiétant personnage...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chevrolet%20Nova%20Deathproof.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2007,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q103157",
+      "slug": "kurt-russell",
+      "name": "Kurt Russell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q261244",
+      "slug": "sydney-tamiia-poitier",
+      "name": "Sydney Tamiia Poitier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233724",
+      "slug": "vanessa-ferlito",
+      "name": "Vanessa Ferlito",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241841",
+      "slug": "jordan-ladd",
+      "name": "Jordan Ladd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q211040",
+      "slug": "rose-mcgowan",
+      "name": "Rose McGowan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228692",
+      "slug": "rosario-dawson",
+      "name": "Rosario Dawson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241160",
+      "slug": "tracie-thoms",
+      "name": "Tracie Thoms",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207873",
+      "slug": "mary-elizabeth-winstead",
+      "name": "Mary Elizabeth Winstead",
+      "role": "actor"
+    },
+    {
+      "qid": "Q227123",
+      "slug": "zoe-bell",
+      "name": "Zoë Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3772",
+      "slug": "quentin-tarantino",
+      "name": "Quentin Tarantino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q525318",
+      "slug": "michael-parks",
+      "name": "Michael Parks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235072",
+      "slug": "marley-shelton",
+      "name": "Marley Shelton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q358714",
+      "slug": "eli-roth",
+      "name": "Eli Roth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2262850",
+      "slug": "michael-bacall",
+      "name": "Michael Bacall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q967797",
+      "slug": "james-parks",
+      "name": "James Parks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2075598",
+      "slug": "jonathan-loughran",
+      "name": "Jonathan Loughran",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3772",
+    "slug": "quentin-tarantino",
+    "name": "Quentin Tarantino",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

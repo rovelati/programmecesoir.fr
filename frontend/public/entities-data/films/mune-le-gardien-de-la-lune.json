@@ -1,0 +1,90 @@
+{
+  "type": "film",
+  "slug": "mune-le-gardien-de-la-lune",
+  "title": "Mune, le gardien de la Lune",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Mune, le gardien de la Lune"
+  ],
+  "genres": [
+    "film ou téléfilm d'aventure",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm familial"
+  ],
+  "description": "Mune, faune turbulent et épris de liberté, profite de la moindre occasion pour sortir de chez lui. La jolie Cire, qui fond au soleil, n'a pas cette chance car son père veille. Contre toute attente, Mune est nommé gardien de la Lune. Inexpérimenté, il commet une grave erreur et le gardien des Ténèbres parvient à voler le Soleil. Le grand et charismatique Sohone, qui était en chargé de sa protection, enrage contre Mune. Il fait néanmoins équipe avec Cire et le jeune faune pour mettre le gardien des Ténèbres hors d'état de nuire. Ils croisent sur leur route des créatures féeriques et vivent de folles aventures...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1d58a516-276e-4d38-94eb-d1ef8163b816",
+      "title": "Mune, le gardien de la Lune",
+      "programSlug": "mune-le-gardien-de-la-lune",
+      "programUrl": "/programme/cine-family/mune-le-gardien-de-la-lune",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-19 09:48:00+00",
+      "endTime": "2026-04-19 11:12:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "13208f1d-cb1d-42fa-b170-3086c0b99bcb",
+      "title": "Mune, le gardien de la Lune",
+      "programSlug": "mune-le-gardien-de-la-lune",
+      "programUrl": "/programme/cine-family/mune-le-gardien-de-la-lune",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 05:06:00+00",
+      "endTime": "2026-04-20 06:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "175a99a8-475c-4c52-8639-faec877e1da1",
+      "title": "Mune, le gardien de la Lune",
+      "programSlug": "mune-le-gardien-de-la-lune",
+      "programUrl": "/programme/cine-family/mune-le-gardien-de-la-lune",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 08:01:00+00",
+      "endTime": "2026-04-25 09:25:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 86,
+  "cast": [],
+  "director": {
+    "qid": "Q27535467",
+    "slug": "benoit-philippon",
+    "name": "Benoît Philippon",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 09:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

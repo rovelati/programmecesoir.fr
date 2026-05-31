@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "tuva-novotny",
+  "name": "Tuva Novotny",
+  "worksCount": 1,
+  "description": "actrice suédoise",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tuva%20Novotny%20at%20a%20press%20conference%20at%20Black%20Box.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-12-21",
+  "nationality": "Suède",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q468499",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tuva_Novotny",
+    "imdb": "nm0637259",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "annihilation",
+      "title": "Annihilation"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fbdd2453-9889-4244-9544-75392e7ee385",
+      "title": "Annihilation",
+      "programSlug": "annihilation",
+      "programUrl": "/programme/mcm/annihilation",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-19 12:40:00+00",
+      "endTime": "2026-04-19 14:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "72b1f79c-2597-49e5-a891-821518b5b6d4",
+      "title": "Annihilation",
+      "programSlug": "annihilation",
+      "programUrl": "/programme/mcm/annihilation",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-25 17:20:00+00",
+      "endTime": "2026-04-25 19:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 12:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

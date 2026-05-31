@@ -1,0 +1,62 @@
+{
+  "type": "film",
+  "slug": "batman-la-malediction-qui-s-abattit-sur-gotham",
+  "title": "Batman : La malédiction qui s'abattit sur Gotham",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Batman : La malédiction qui s'abattit sur Gotham"
+  ],
+  "genres": [
+    "film d'animation",
+    "film ou téléfilm d'aventure",
+    "film et téléfilm de fantasy",
+    "film et téléfilm d'horreur"
+  ],
+  "description": "Dans les années 1920, Bruce Wayne retourne à Gotham City et apprend qu'une sinistre secte apocalyptique planifie la destruction de la ville. Seul Batman est en mesure d'empêcher la catastrophe. Bruce se résout à revêtir la cape de son alter ego pour sauver Gotham et mettre la secte hors d'état de nuire. Dans sa quête, il va croiser d'anciens ennemis tout en affrontant ses propres démons intérieurs.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2023,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q65555086",
+    "slug": "christopher-berkeley",
+    "name": "Christopher Berkeley",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,118 @@
+{
+  "type": "film",
+  "slug": "l-ordre-et-la-morale",
+  "title": "L'ordre et la morale",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'ordre et la morale"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "En 1988, en Nouvelle-Calédonie, trente gendarmes sont retenus en otages par un groupe d'indépendantistes kanaks. Pour rétablir l'ordre, 300 militaires et un véritable arsenal de guerre sont envoyés depuis de la France. Dans cette crise, deux hommes s'affrontent : Philippe Legorjus, capitaine du GIGN, et Alphonse Dianou, chef des preneurs d'otages. Les deux hommes essaient de nouer le dialogue, et Philippe Legorjus passe dix jours à tenter de négocier avec les indépendantistes. Mais les enjeux politiques liés à la campagne présidentielle, qui oppose François Mitterrand et son Premier ministre Jacques Chirac, l'emportent sur la morale...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2011,
+  "durationMinutes": 136,
+  "cast": [
+    {
+      "qid": "Q491766",
+      "slug": "mathieu-kassovitz",
+      "name": "Mathieu Kassovitz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2185587",
+      "slug": "malik-zidi",
+      "name": "Malik Zidi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3014425",
+      "slug": "daniel-martin",
+      "name": "Daniel Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242526",
+      "slug": "sylvie-testud",
+      "name": "Sylvie Testud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2829468",
+      "slug": "aladin-reibel",
+      "name": "Aladin Reibel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2834044",
+      "slug": "alexandre-steiger",
+      "name": "Alexandre Steiger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q129451",
+      "slug": "augustin-legrand",
+      "name": "Augustin Legrand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3168853",
+      "slug": "jean-philippe-puymartin",
+      "name": "Jean-Philippe Puymartin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3369439",
+      "slug": "patrick-fierry",
+      "name": "Patrick Fierry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1389781",
+      "slug": "philippe-torreton",
+      "name": "Philippe Torreton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3501471",
+      "slug": "stefan-godin",
+      "name": "Stéfan Godin",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q491766",
+    "slug": "mathieu-kassovitz",
+    "name": "Mathieu Kassovitz",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

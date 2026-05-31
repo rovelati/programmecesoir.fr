@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "stan-lee",
+  "name": "Stan Lee",
+  "worksCount": 1,
+  "description": "scénariste et éditeur américain de comics",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stan%20Lee%20December%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1922-12-28",
+  "nationality": "États-Unis",
+  "jobTitle": "éditeur ou éditrice",
+  "externalIds": {
+    "wikidata": "Q181900",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Stan_Lee",
+    "imdb": "nm0498278",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "hulk",
+      "title": "Hulk"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

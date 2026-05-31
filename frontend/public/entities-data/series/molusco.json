@@ -1,0 +1,108 @@
+{
+  "type": "series",
+  "slug": "molusco",
+  "title": "Molusco",
+  "airingsCount": 27,
+  "sourceTitles": [
+    "Molusco"
+  ],
+  "genres": [
+    "série télévisée comique",
+    "série télévisée d'aventures"
+  ],
+  "description": "\"Dans ta farce !\". Ozzy fait une mauvaise blague à Rafik, qui pense que Molusco est le responsable. Les 2 amis enchaînent les mauvaise blagues, jusqu'à se fâcher vraiment. Heureusement, Coco a l'idée du siècle pour arrêter cette course aux blagues. - \"Moluscatch\". Molusco et Coco ont besoin d'argent pour offrir un beau cadeau de fête des mères à Lola. C'est comme ça que Molusco se retrouve dans un tournoi de catch mexicain, confronté à des adversaires féroces…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 27
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c22c6074-29a2-4aa0-a9a2-183491f05e8e",
+      "title": "Molusco",
+      "programSlug": "molusco",
+      "programUrl": "/programme/france-4/molusco",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 14:03:00+00",
+      "endTime": "2026-04-24 14:14:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "c2cd2609-043d-4e59-b289-233ac46e03b0",
+      "title": "Molusco",
+      "programSlug": "molusco",
+      "programUrl": "/programme/france-4/molusco",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 14:14:00+00",
+      "endTime": "2026-04-24 14:15:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "b0882dc1-e5c1-45dc-8906-02dcba000182",
+      "title": "Molusco",
+      "programSlug": "molusco",
+      "programUrl": "/programme/france-4/molusco",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 14:15:00+00",
+      "endTime": "2026-04-24 14:35:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "847d8d15-1c5f-4027-b3de-a07410302414",
+      "title": "Molusco",
+      "programSlug": "molusco",
+      "programUrl": "/programme/france-4/molusco",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 14:35:00+00",
+      "endTime": "2026-04-24 14:36:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "064c06d9-a916-4f87-981b-37571cf02494",
+      "title": "Molusco",
+      "programSlug": "molusco",
+      "programUrl": "/programme/france-4/molusco",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 14:36:00+00",
+      "endTime": "2026-04-24 14:56:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2014,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-24 14:03:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

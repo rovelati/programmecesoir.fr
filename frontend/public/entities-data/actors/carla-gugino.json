@@ -1,0 +1,190 @@
+{
+  "type": "actor",
+  "slug": "carla-gugino",
+  "name": "Carla Gugino",
+  "worksCount": 3,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carla%20Gugino%20(54515825760).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-08-29",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q228871",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Carla_Gugino",
+    "imdb": "nm0001303",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "man-of-steel",
+      "title": "Man of Steel"
+    },
+    {
+      "type": "film",
+      "slug": "la-nuit-au-musee",
+      "title": "La nuit au musée"
+    },
+    {
+      "type": "series",
+      "slug": "la-vie-a-tout-prix",
+      "title": "La vie à tout prix"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c6640e-5371-434d-a569-01e9fd4211a2",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/canal-grand-ecran/man-of-steel",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 12:51:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e2dbe419-6b1a-48d9-b819-0b40e53c98d9",
+      "title": "La vie à tout prix",
+      "programSlug": "la-vie-a-tout-prix",
+      "programUrl": "/programme/ninanovelasfr/la-vie-a-tout-prix",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 13:00:00+00",
+      "endTime": "2026-04-19 13:46:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "060cda41-a5e8-47be-a946-1a45dd5e2f63",
+      "title": "La vie à tout prix",
+      "programSlug": "la-vie-a-tout-prix",
+      "programUrl": "/programme/ninanovelasfr/la-vie-a-tout-prix",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 13:46:00+00",
+      "endTime": "2026-04-19 14:33:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d23f9740-6ed0-49f1-94fa-77cc4cca3491",
+      "title": "La vie à tout prix",
+      "programSlug": "la-vie-a-tout-prix",
+      "programUrl": "/programme/ninanovelasfr/la-vie-a-tout-prix",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 14:33:00+00",
+      "endTime": "2026-04-19 15:19:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "db4e6d0e-5799-4349-be48-2dfe0567e78d",
+      "title": "La vie à tout prix",
+      "programSlug": "la-vie-a-tout-prix",
+      "programUrl": "/programme/ninanovelasfr/la-vie-a-tout-prix",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 15:19:00+00",
+      "endTime": "2026-04-19 16:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4463ef04-0a68-4713-964d-10774909db6f",
+      "title": "La vie à tout prix",
+      "programSlug": "la-vie-a-tout-prix",
+      "programUrl": "/programme/ninanovelasfr/la-vie-a-tout-prix",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 16:10:00+00",
+      "endTime": "2026-04-19 17:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4c85df2d-33b9-455b-a534-f6d6c8e59025",
+      "title": "La vie à tout prix - S01E67",
+      "programSlug": "la-vie-a-tout-prix-s01e67",
+      "programUrl": "/programme/ninanovelasfr/la-vie-a-tout-prix-s01e67",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-20 05:51:00+00",
+      "endTime": "2026-04-20 06:41:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c6c0cdd6-4a97-40f2-8ac5-b2f0aefba97b",
+      "title": "La vie à tout prix - S01E67",
+      "programSlug": "la-vie-a-tout-prix-s01e67",
+      "programUrl": "/programme/ninanovelasfr/la-vie-a-tout-prix-s01e67",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-20 09:11:00+00",
+      "endTime": "2026-04-20 10:01:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7f89882f-b407-4c5e-ad5e-b66e599533c6",
+      "title": "La vie à tout prix - S01E67",
+      "programSlug": "la-vie-a-tout-prix-s01e67",
+      "programUrl": "/programme/ninanovelasfr/la-vie-a-tout-prix-s01e67",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-20 12:31:00+00",
+      "endTime": "2026-04-20 13:21:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "58ff2527-6de2-41e5-933b-9240d15074a4",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 14:59:00+00",
+      "endTime": "2026-04-20 17:18:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "31a9188f-89ac-4de1-82a2-1914e72527ec",
+      "title": "La vie à tout prix - S01E68",
+      "programSlug": "la-vie-a-tout-prix-s01e68",
+      "programUrl": "/programme/ninanovelasfr/la-vie-a-tout-prix-s01e68",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-20 15:50:00+00",
+      "endTime": "2026-04-20 16:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "01194c04-7389-49b2-8b59-f21a9407a07c",
+      "title": "La vie à tout prix - S01E68",
+      "programSlug": "la-vie-a-tout-prix-s01e68",
+      "programUrl": "/programme/ninanovelasfr/la-vie-a-tout-prix-s01e68",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-20 19:12:00+00",
+      "endTime": "2026-04-20 20:03:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 12:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

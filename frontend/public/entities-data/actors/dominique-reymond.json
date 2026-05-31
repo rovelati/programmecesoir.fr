@@ -1,0 +1,138 @@
+{
+  "type": "actor",
+  "slug": "dominique-reymond",
+  "name": "Dominique Reymond",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominique-Reymond-Protocole-crroped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1957-02-12",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1238309",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dominique_Reymond",
+    "imdb": "nm0721469",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-cache",
+      "title": "La cache"
+    },
+    {
+      "type": "film",
+      "slug": "populaire",
+      "title": "Populaire"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ec52c060-71e8-438c-87a2-9a67970ad047",
+      "title": "La Cache",
+      "programSlug": "la-cache",
+      "programUrl": "/programme/canal-cinema/la-cache",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-19 06:27:00+00",
+      "endTime": "2026-04-19 07:57:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5679c827-1181-4b30-8089-32301fcf109c",
+      "title": "La cache",
+      "programSlug": "la-cache",
+      "programUrl": "/programme/paramount-channel/la-cache",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-19 06:30:00+00",
+      "endTime": "2026-04-19 08:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3570ad96-9287-4bf4-b060-793278b1860d",
+      "title": "Populaire",
+      "programSlug": "populaire",
+      "programUrl": "/programme/cine-emotion/populaire",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-19 23:51:00+00",
+      "endTime": "2026-04-20 01:39:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7a594b90-fc1b-446f-843b-ae1e9c9b75f5",
+      "title": "La cache",
+      "programSlug": "la-cache",
+      "programUrl": "/programme/paramount-channel/la-cache",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-22 11:45:00+00",
+      "endTime": "2026-04-22 13:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "005440dc-c27b-48dd-b351-553006e420b9",
+      "title": "La Cache",
+      "programSlug": "la-cache",
+      "programUrl": "/programme/canal-cinema/la-cache",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 11:46:00+00",
+      "endTime": "2026-04-22 13:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "46ca13d0-b830-4c12-97c6-e83de13a0fec",
+      "title": "Populaire",
+      "programSlug": "populaire",
+      "programUrl": "/programme/cine-emotion/populaire",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-24 06:31:00+00",
+      "endTime": "2026-04-24 08:19:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f79c803b-240d-477f-939f-515db74e8a8e",
+      "title": "La Cache",
+      "programSlug": "la-cache",
+      "programUrl": "/programme/canal-box-office/la-cache",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 23:23:00+00",
+      "endTime": "2026-04-25 00:53:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "0bb50723-101d-4422-8cab-5648b19adba1",
+      "title": "Populaire",
+      "programSlug": "populaire",
+      "programUrl": "/programme/cine-emotion/populaire",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 03:59:00+00",
+      "endTime": "2026-04-25 05:48:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 06:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

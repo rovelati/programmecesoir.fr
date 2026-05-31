@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "angus-imrie",
+  "name": "Angus Imrie",
+  "worksCount": 1,
+  "description": "acteur anglaise",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/WhiteWhaleDay18%20032%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1994-08-02",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q28784485",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Angus_Imrie",
+    "imdb": "nm2653929",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mickey-17",
+      "title": "Mickey 17"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d93d53fb-5542-4b79-bf30-76e63423ed2c",
+      "title": "Mickey 17",
+      "programSlug": "mickey-17",
+      "programUrl": "/programme/canal-box-office/mickey-17",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 14:01:00+00",
+      "endTime": "2026-04-22 16:13:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 14:01:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

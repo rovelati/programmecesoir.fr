@@ -1,0 +1,77 @@
+{
+  "type": "film",
+  "slug": "eastern-boys",
+  "title": "Eastern Boys",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Eastern Boys"
+  ],
+  "genres": [
+    "drame",
+    "film LGBT"
+  ],
+  "description": "A la Gare du Nord de Paris, Daniel, un quinquagénaire discret, repère Marek, un jeune homme venu de l'Est qui traîne avec sa bande et semble se prostituer. Un jour, Daniel décide d'approcher le garçon. Tous deux conviennent de se retrouver le jour suivant au domicile de Daniel. Mais lorsque celui-ci ouvre la porte de son appartement le lendemain, il ne peut imaginer dans quel piège il est tombé. Sans pouvoir se défendre, Daniel se fait en effet dévaliser par toute la bande de jeunes qui n'hésite pas à le malmener. Pourtant, quelques jours plus tard, Marek revient chez Daniel. Entamant une relation rémunérée, ils se rapprochent bientôt pour tenter une nouvelle vie...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 128,
+  "cast": [
+    {
+      "qid": "Q3351313",
+      "slug": "olivier-rabourdin",
+      "name": "Olivier Rabourdin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3048843",
+      "slug": "edea-darcque",
+      "name": "Edéa Darcque",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4175404",
+      "slug": "kirill-emelianov",
+      "name": "Kirill Emelianov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23655485",
+      "slug": "daniil-vladimirovitch-vorobiov",
+      "name": "Daniil Vladimirovitch Vorobiov",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3437047",
+    "slug": "robin-campillo",
+    "name": "Robin Campillo",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

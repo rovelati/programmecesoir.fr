@@ -1,0 +1,49 @@
+{
+  "type": "series",
+  "slug": "soul-eater",
+  "title": "Soul Eater",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Soul Eater"
+  ],
+  "genres": [
+    "dark fantasy",
+    "manga et animé de fantasy",
+    "manga et anime d'action",
+    "supernatural anime and manga"
+  ],
+  "description": "Black Star est de corvée de rangement de la bibliothèque de Shibusen. Il y croise de nouveau Death the Kid et tous deux apprennent l'existence de l'arme ultime Excalibur. Ils partent à sa recherche, mais lorsqu'ils font la connaissance d'Excalibur, ils découvrent un personnage si pédant et imbu de lui-même qu'ils renoncent à l'utiliser...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mangas",
+      "channelName": "Mangas",
+      "channelSlug": "mangas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mangas.png",
+      "airingsCount": 10
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2004,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "l-heureuse-elue",
+  "title": "L'Heureuse élue",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "L'Heureuse élue"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Pour soutirer de l'argent à ses riches parents, Benoît demande à une amie de se faire passer pour sa future épouse lors d'un séjour en famille au Maroc. Le jeune homme a l'intention de demander à sa mère la somme nécessaire au financement de ce mariage qui n'aura jamais lieu. Malheureusement, son amie se désiste en dernière minute. Benoît doit trouver une autre \"fiancée\" au pied levé. En route pour l'aéroport, il parvient à convaincre Fiona, une conductrice de VTC, de l'aider. La jeune femme, au tempérament impulsif et sans filtre, détonne dans la famille bourgeoise de Benoît. Entre le franc-parler et les multiples gaffes de Fiona, Benoît a bien du mal à convaincre ses parents qu'il a trouvé l'heureuse élue…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q51456715",
+    "slug": "frank-bellocq",
+    "name": "Frank Bellocq",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

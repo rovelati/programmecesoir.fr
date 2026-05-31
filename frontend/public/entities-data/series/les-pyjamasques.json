@@ -1,0 +1,387 @@
+{
+  "type": "series",
+  "slug": "les-pyjamasques",
+  "title": "Les Pyjamasques",
+  "airingsCount": 606,
+  "sourceTitles": [
+    "Les Pyjamasques"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série d'action",
+    "série télévisée d'aventures",
+    "série télévisée comique",
+    "superhero television program"
+  ],
+  "description": "Dans une ville paisible, trois jeunes amis, Catboy (Addison Holley), Owlette (Brianna Daguanno) et Gekko (Kyle Breitkopf), se transforment en super-héros la nuit tombée grâce à leurs pyjamas magiques. Chaque nuit, ils s'attaquent à des vilains qui menacent leur quartier, apprenant à surmonter leurs peurs et à travailler ensemble pour triompher des obstacles. Leur principal adversaire, le redoutable Roméo (Ron Pardo), utilise des gadgets ingénieux pour semer le chaos, tandis que le mystérieux Ninja (Rob Tinkler) s'infiltre dans leurs plans. Les Pyjamasques doivent non seulement déjouer les plans de ces méchants, mais aussi faire face aux défis de l'amitié et de la loyauté. Chaque aventure leur enseigne des leçons précieuses sur le courage, la solidarité et la responsabilité. Avec des séquences dynamiques et des moments touchants, les Pyjamasques montrent que, même dans l'obscurité, il y a toujours une lumière qui brille grâce à l'esprit d'équipe et à la bravoure des jeunes héros.",
+  "descriptionAi": "Cette série télévisée d'aventures et d'action pour la jeunesse, mêlée de comédie et de super-héros, plonge le téléspectateur dans un univers coloré et dynamique. L'ambiance est à la fois palpitante et bienveillante, où chaque mission nocturne des trois jeunes héros rime avec leçons de vie sur l'amitié et le courage. Ce qui la rend captivante, c'est ce parfait équilibre entre des séquences trépidantes pour défendre la ville et des moments touchants sur l'entraide et la croissance personnelle. Une aventure familiale qui prouve que les plus grands pouvoirs sont ceux du cœur et de l'esprit d'équipe, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 20
+    },
+    {
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-junior.png",
+      "airingsCount": 31
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 20
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 20
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 20
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 20
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9204076e-73d3-47ef-b2e7-fc2be2242e7a",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-20 21:25:00+00",
+      "endTime": "2026-04-20 21:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "50a4b8ad-c7c7-40f0-a071-f1ad09f37fb1",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-20 21:50:00+00",
+      "endTime": "2026-04-20 22:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fd0f4c67-22e8-461a-88ca-c0a1c1d203e4",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-21 21:25:00+00",
+      "endTime": "2026-04-21 21:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6454d929-b21e-4c7e-a165-0d7d3127a74b",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-21 21:50:00+00",
+      "endTime": "2026-04-21 22:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b37ace20-0d3a-4720-b21b-06740ac12e09",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-22 21:25:00+00",
+      "endTime": "2026-04-22 21:50:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "2f2cd450-cb88-4f8c-9216-762d9b734684",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-22 21:50:00+00",
+      "endTime": "2026-04-22 22:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "4dbf32bb-d785-49ed-9ade-39745a6bd63d",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-23 21:25:00+00",
+      "endTime": "2026-04-23 21:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "1ad8df52-7777-4729-aa7c-b8f5d2bfe0a6",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-23 21:50:00+00",
+      "endTime": "2026-04-23 22:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "d93d6c0e-46dc-4b89-aa99-7289e9ffa4b5",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-24 21:25:00+00",
+      "endTime": "2026-04-24 21:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f87e7ef0-874e-41ab-900c-d30cf91179ec",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-24 21:50:00+00",
+      "endTime": "2026-04-24 22:15:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "e2f0bf54-dd10-45b3-8b50-e3b85d463f5d",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-25 21:25:00+00",
+      "endTime": "2026-04-25 21:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "9338c68c-4f10-48d5-8780-8c1587182153",
+      "title": "Les Pyjamasques",
+      "programSlug": "les-pyjamasques",
+      "programUrl": "/programme/disney-junior/les-pyjamasques",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-25 21:50:00+00",
+      "endTime": "2026-04-25 22:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q21539942",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Pyjamasques",
+    "imdb": "tt4148744",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:07.640Z",
+  "startYear": 2015,
+  "numberOfSeasons": 6,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 21:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

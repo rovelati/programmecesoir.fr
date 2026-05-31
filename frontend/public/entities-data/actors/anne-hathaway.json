@@ -1,0 +1,82 @@
+{
+  "type": "actor",
+  "slug": "anne-hathaway",
+  "name": "Anne Hathaway",
+  "worksCount": 3,
+  "description": "actrice américaine",
+  "descriptionAi": "Anne Hathaway incarne avec grâce une actrice américaine polyvalente, aussi à l'aise dans des comédies romantiques légères que dans des drames intenses. Ses rôles, souvent empreints d'une sensibilité lumineuse et d'une force discrète, offrent des portraits de femmes complexes et attachantes. Le spectateur est captivé par son authenticité et sa capacité à faire vivre des émotions justes, qu'elle traverse l'écran avec élégance ou une vulnérabilité touchante. Sa filmographie variée promet des moments de divertissement et d'émotion pure. Pour découvrir ou redécouvrir ses performances les plus marquantes, une sélection est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Hathaway%20at%20The%20Apprentice%20in%20NYC%2003%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1982-11-12",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q36301",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Anne_Hathaway",
+    "imdb": "nm0004266",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "max-la-menace",
+      "title": "Max la menace"
+    },
+    {
+      "type": "film",
+      "slug": "the-dark-knight-rises",
+      "title": "The Dark Knight Rises"
+    },
+    {
+      "type": "film",
+      "slug": "les-miserables",
+      "title": "Les misérables"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67c1ebbf-a111-4083-a014-1cb877a116d5",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-rises",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 10:12:00+00",
+      "endTime": "2026-04-19 12:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3d1f0ee5-ff66-44e8-8bb5-fbf2e07d1fac",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-rises",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 21:16:00+00",
+      "endTime": "2026-04-21 23:57:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9643570a-a31b-4a0a-96dc-9b247dbe9e8a",
+      "title": "Max la menace",
+      "programSlug": "max-la-menace",
+      "programUrl": "/programme/cine-family/max-la-menace",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 15:43:00+00",
+      "endTime": "2026-04-25 17:30:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:38.463Z",
+  "nextAiringAt": "2026-04-19 10:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

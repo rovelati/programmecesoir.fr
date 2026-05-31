@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "l-ombre-d-un-tueur",
+  "title": "L'ombre d'un tueur",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "L'ombre d'un tueur"
+  ],
+  "genres": [
+    "film ou téléfilm criminel"
+  ],
+  "description": "La mafia new-yorkaise vient de perdre l'un de ses chefs à Naples, assassiné par un tueur à gages. L'organisation fait appel aux services d'un ancien, Peter Marciani, dont le frère a été abattu par le même homme. Marciani accepte d'aller en Italie traquer le tueur, qui le prend bientôt pour cible...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1976,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q102813",
+      "slug": "yul-brynner",
+      "name": "Yul Brynner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q467069",
+      "slug": "massimo-ranieri",
+      "name": "Massimo Ranieri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q455280",
+      "slug": "barbara-bouchet",
+      "name": "Barbara Bouchet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312107",
+      "slug": "martin-balsam",
+      "name": "Martin Balsam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q121456",
+      "slug": "giacomo-furia",
+      "name": "Giacomo Furia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3933034",
+      "slug": "renzo-marignano",
+      "name": "Renzo Marignano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3762966",
+      "slug": "giancarlo-sbragia",
+      "name": "Giancarlo Sbragia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q178307",
+      "slug": "salvatore-borgese",
+      "name": "Salvatore Borgese",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3839372",
+      "slug": "luigi-bonos",
+      "name": "Luigi Bonos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16616209",
+      "slug": "tommaso-palladino",
+      "name": "Tommaso Palladino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16559325",
+      "slug": "gilberto-galimberti",
+      "name": "Gilberto Galimberti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15459469",
+      "slug": "rosario-borelli",
+      "name": "Rosario Borelli",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q603216",
+    "slug": "antonio-margheriti",
+    "name": "Antonio Margheriti",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

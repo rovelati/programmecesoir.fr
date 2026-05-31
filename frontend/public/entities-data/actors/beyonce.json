@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "beyonce",
+  "name": "Beyoncé",
+  "worksCount": 1,
+  "description": "chanteuse et rappeuse américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beyonc%C3%A9%20-%20Tottenham%20Hotspur%20Stadium%20-%201st%20June%202023%20(10%20of%20118)%20(52946364598)%20(best%20crop).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1981-09-04",
+  "nationality": "États-Unis",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q36153",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Beyonc%C3%A9",
+    "imdb": "nm0461498",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "austin-powers-dans-goldmember",
+      "title": "Austin Powers dans Goldmember"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "true-grit",
+  "title": "True Grit",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "True Grit"
+  ],
+  "genres": [
+    "western",
+    "drame",
+    "film ou téléfilm d'aventure",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "La jeune Mattie Ross est prête à tout pour venger la mort de son père, assassiné par un truand, Tom Chaney. Après avoir mis de l'ordre dans les affaires paternelles, elle se lance à la poursuite du tueur. Pour mener à bien ses recherches, elle engage Rooster Cogburn, un vieux shérif borgne...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/True-grit.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2010,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q174843",
+      "slug": "jeff-bridges",
+      "name": "Jeff Bridges",
+      "role": "actor"
+    },
+    {
+      "qid": "Q175535",
+      "slug": "matt-damon",
+      "name": "Matt Damon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41396",
+      "slug": "josh-brolin",
+      "name": "Josh Brolin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231726",
+      "slug": "hailee-steinfeld",
+      "name": "Hailee Steinfeld",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315604",
+      "slug": "barry-pepper",
+      "name": "Barry Pepper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q456047",
+      "slug": "domhnall-gleeson",
+      "name": "Domhnall Gleeson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q599274",
+      "slug": "leon-russom",
+      "name": "Leon Russom",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3898137",
+      "slug": "paul-rae",
+      "name": "Paul Rae",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2981717",
+      "slug": "cody-jones",
+      "name": "Cody Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1157743",
+      "slug": "dakin-matthews",
+      "name": "Dakin Matthews",
+      "role": "actor"
+    },
+    {
+      "qid": "Q76877",
+      "slug": "elizabeth-marvel",
+      "name": "Elizabeth Marvel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6160311",
+      "slug": "jarlath-conroy",
+      "name": "Jarlath Conroy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5334691",
+      "slug": "ed-corbin",
+      "name": "Ed Corbin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2083361",
+      "slug": "david-lipman",
+      "name": "David Lipman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7026155",
+      "slug": "nicholas-sadler",
+      "name": "Nicholas Sadler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3476313",
+      "slug": "scott-sowers",
+      "name": "Scott Sowers",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q13595531",
+    "slug": "ethan-coen",
+    "name": "Ethan Coen",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

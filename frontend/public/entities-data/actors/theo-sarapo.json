@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "theo-sarapo",
+  "name": "Théo Sarapo",
+  "worksCount": 1,
+  "description": "chanteur et acteur français d'origine grecque",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89dith%20Piaf%20%26%20Theo%20Sarapo%20914-6437.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1936-01-26",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1393800",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Th%C3%A9o_Sarapo",
+    "imdb": "nm0764857",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-conde",
+      "title": "Un condé"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e7577f15-187d-442a-9fe6-3e4557da66c0",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 01:20:00+00",
+      "endTime": "2026-04-21 02:56:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b18e748c-8759-4810-9790-ad4a85548430",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 02:18:00+00",
+      "endTime": "2026-04-23 03:54:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "da185f85-581d-4027-a52f-6e4ce26093eb",
+      "title": "Un condé",
+      "programSlug": "un-conde",
+      "programUrl": "/programme/action/un-conde",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 02:21:00+00",
+      "endTime": "2026-04-25 03:57:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 01:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "andre-dubois",
+  "name": "André Dubois",
+  "worksCount": 1,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20Dubois%202014-04-12.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1942-01-01",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2847670",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Andr%C3%A9_Dubois",
+    "imdb": "nm0239379",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-vacances-de-monsieur-hulot",
+      "title": "Les vacances de monsieur Hulot"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

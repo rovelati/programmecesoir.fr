@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "un-medecin-pour-la-paix",
+  "title": "Un médecin pour la paix",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Un médecin pour la paix"
+  ],
+  "genres": [
+    "film documentaire",
+    "film de non-fiction"
+  ],
+  "description": "Izzeldin Abuelaish, premier médecin palestinien à travailler dans un hôpital israélien, voit sa maison bombardée en 2009, tuant trois de ses filles et une nièce. Malgré cette tragédie, il trouve la force de parler de réconciliation et milite sans relâche pour la paix entre Israël et la Palestine.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

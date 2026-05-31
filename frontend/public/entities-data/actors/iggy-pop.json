@@ -1,0 +1,157 @@
+{
+  "type": "actor",
+  "slug": "iggy-pop",
+  "name": "Iggy Pop",
+  "worksCount": 1,
+  "description": "musicien américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Iggy%20%26%20the%20Stooges%20(2005).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1947-04-21",
+  "nationality": "États-Unis",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q182665",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Iggy_Pop",
+    "imdb": "nm0006563",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "l-etoile-du-jour",
+      "title": "L'étoile du jour"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b5420b58-80c6-4303-b7bf-317dbfda5fb2",
+      "title": "L'étoile du jour",
+      "programSlug": "l-etoile-du-jour",
+      "programUrl": "/programme/atvguadeloupefr/l-etoile-du-jour",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-19 06:20:00+00",
+      "endTime": "2026-04-19 07:49:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fcb837a2-6c7b-41b0-b1f2-58c622e63ca2",
+      "title": "L'étoile du jour",
+      "programSlug": "l-etoile-du-jour",
+      "programUrl": "/programme/atvguyanefr/l-etoile-du-jour",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-19 06:20:00+00",
+      "endTime": "2026-04-19 07:49:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "95f11d01-2052-4c99-ad19-17a9eb206b1f",
+      "title": "L'étoile du jour",
+      "programSlug": "l-etoile-du-jour",
+      "programUrl": "/programme/atvmartiniquefr/l-etoile-du-jour",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-19 06:20:00+00",
+      "endTime": "2026-04-19 07:49:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7f977dbf-00f9-4bd0-9f34-8195d4ac47ff",
+      "title": "L'étoile du jour",
+      "programSlug": "l-etoile-du-jour",
+      "programUrl": "/programme/tvsudmarseillefr/l-etoile-du-jour",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-19 06:20:00+00",
+      "endTime": "2026-04-19 07:49:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d6162397-a223-44ef-ad49-444c461e114d",
+      "title": "L'étoile du jour",
+      "programSlug": "l-etoile-du-jour",
+      "programUrl": "/programme/atvguadeloupefr/l-etoile-du-jour",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-25 18:00:00+00",
+      "endTime": "2026-04-25 19:30:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c506a2a0-1fd1-4d9a-a207-18da60a8e16f",
+      "title": "L'étoile du jour",
+      "programSlug": "l-etoile-du-jour",
+      "programUrl": "/programme/atvguyanefr/l-etoile-du-jour",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-25 18:00:00+00",
+      "endTime": "2026-04-25 19:30:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "992adf9d-a451-4212-a24e-301f6ba24075",
+      "title": "L'étoile du jour",
+      "programSlug": "l-etoile-du-jour",
+      "programUrl": "/programme/atvmartiniquefr/l-etoile-du-jour",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-25 18:00:00+00",
+      "endTime": "2026-04-25 19:30:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "e510f1f4-661f-4b16-9f82-bd1f4fbade22",
+      "title": "L'étoile du jour",
+      "programSlug": "l-etoile-du-jour",
+      "programUrl": "/programme/antenne-reunion/l-etoile-du-jour",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-25 18:00:00+00",
+      "endTime": "2026-04-25 19:30:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "1bbaa16e-0baa-4c32-a200-4ec98a7059ce",
+      "title": "L'étoile du jour",
+      "programSlug": "l-etoile-du-jour",
+      "programUrl": "/programme/tv7-bordeaux/l-etoile-du-jour",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-25 18:00:00+00",
+      "endTime": "2026-04-25 19:30:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "41757e9f-7e1a-4db3-b3dd-7d324876a989",
+      "title": "L'étoile du jour",
+      "programSlug": "l-etoile-du-jour",
+      "programUrl": "/programme/tvsudmarseillefr/l-etoile-du-jour",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-25 18:00:00+00",
+      "endTime": "2026-04-25 19:30:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 06:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

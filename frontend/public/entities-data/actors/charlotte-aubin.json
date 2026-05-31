@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "charlotte-aubin",
+  "name": "Charlotte Aubin",
+  "worksCount": 1,
+  "description": "actrice québécoise",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte%20Aubin%20au%20Quat'Sous.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1991-09-04",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q42814770",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Charlotte_Aubin",
+    "imdb": "nm2295109",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "romeo-et-juliette",
+      "title": "Roméo et Juliette"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

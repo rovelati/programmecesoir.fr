@@ -1,0 +1,186 @@
+{
+  "type": "actor",
+  "slug": "suzanne-whang",
+  "name": "Suzanne Whang",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-09-28",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q3506064",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Suzanne_Whang",
+    "imdb": "nm0923560",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "cold-case",
+      "title": "Cold Case"
+    },
+    {
+      "type": "series",
+      "slug": "esprits-criminels",
+      "title": "Esprits criminels"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "841f166f-3d10-4d62-9719-94bc8de5a579",
+      "title": "Cold Case",
+      "programSlug": "cold-case",
+      "programUrl": "/programme/rmc-life/cold-case",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-19 12:15:00+00",
+      "endTime": "2026-04-19 13:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dbae8f12-7e29-4aaa-b29f-0ede94bed4d6",
+      "title": "Cold Case",
+      "programSlug": "cold-case",
+      "programUrl": "/programme/rmc-life/cold-case",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-19 13:10:00+00",
+      "endTime": "2026-04-19 14:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "73baabe4-ca5d-4f88-97a1-8af16c62d52c",
+      "title": "Cold Case",
+      "programSlug": "cold-case",
+      "programUrl": "/programme/rmc-life/cold-case",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-19 14:05:00+00",
+      "endTime": "2026-04-19 15:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6ee46dec-47b6-4bde-a6ee-ee04606eb12c",
+      "title": "Cold Case",
+      "programSlug": "cold-case",
+      "programUrl": "/programme/rmc-life/cold-case",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-19 15:00:00+00",
+      "endTime": "2026-04-19 16:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "605a7f56-cd0c-47da-b203-87c351f6602b",
+      "title": "Esprits criminels",
+      "programSlug": "esprits-criminels",
+      "programUrl": "/programme/tmc/esprits-criminels",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-19 19:15:00+00",
+      "endTime": "2026-04-19 20:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2bf98d6d-5fa9-4bff-97ec-3c10bb230856",
+      "title": "Esprits criminels",
+      "programSlug": "esprits-criminels",
+      "programUrl": "/programme/tmc/esprits-criminels",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-19 20:00:00+00",
+      "endTime": "2026-04-19 20:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0b509afb-1f25-4087-9094-b4e76c469d21",
+      "title": "Esprits criminels",
+      "programSlug": "esprits-criminels",
+      "programUrl": "/programme/tmc/esprits-criminels",
+      "channelId": "tmc",
+      "channelName": "TMC",
+      "channelSlug": "tmc",
+      "startTime": "2026-04-19 20:55:00+00",
+      "endTime": "2026-04-19 21:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4dc6e40f-f941-405c-b97c-02749c763caf",
+      "title": "Esprits criminels",
+      "programSlug": "esprits-criminels",
+      "programUrl": "/programme/tf1/esprits-criminels",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-19 21:25:00+00",
+      "endTime": "2026-04-19 22:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "544f8316-32c1-4781-8a8f-ee49a53c6e4b",
+      "title": "Esprits criminels",
+      "programSlug": "esprits-criminels",
+      "programUrl": "/programme/canal-series/esprits-criminels",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-19 21:25:00+00",
+      "endTime": "2026-04-19 22:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9a6e40f4-6cdd-4f61-9479-24e974173ab7",
+      "title": "Esprits criminels - Saison 7",
+      "programSlug": "esprits-criminels-saison-7",
+      "programUrl": "/programme/tf1/esprits-criminels-saison-7",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-19 22:10:00+00",
+      "endTime": "2026-04-19 23:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8cb6bb05-f1e1-4853-924f-71852c96c3ca",
+      "title": "Esprits criminels",
+      "programSlug": "esprits-criminels",
+      "programUrl": "/programme/canal-series/esprits-criminels",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-19 22:10:00+00",
+      "endTime": "2026-04-19 23:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d0e08c1a-61a4-45bb-98e0-0801e3df9286",
+      "title": "Esprits criminels",
+      "programSlug": "esprits-criminels",
+      "programUrl": "/programme/tf1-1/esprits-criminels",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-19 22:25:00+00",
+      "endTime": "2026-04-19 23:10:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 12:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

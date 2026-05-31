@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "donald-houston",
+  "name": "Donald Houston",
+  "worksCount": 1,
+  "description": "acteur gallois de cinéma et scénariste",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1923-11-06",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q839022",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Donald_Houston",
+    "imdb": "nm0396819",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-berets-rouges",
+      "title": "Les bérets rouges"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

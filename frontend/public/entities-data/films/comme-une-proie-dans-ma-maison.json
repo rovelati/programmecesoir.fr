@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "comme-une-proie-dans-ma-maison",
+  "title": "Comme une proie dans ma maison",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Comme une proie dans ma maison"
+  ],
+  "genres": [
+    "Telefilms",
+    "Téléfilm dramatique",
+    "Téléfilm"
+  ],
+  "description": "Amanda Reynolds, une jeune photographe est agressée par un intrus cagoulé à son domicile de Los Feliz, un quartier de Los Angeles. Le lieutenant James Dawson se propose d'assurer sa protection, ce qui ne manque pas d'attiser la jalousie de Liam, son associé au studio photo et ex-petit ami...\n\nRéalisateur(s) : Michael Feifer\nActeurs : Chelsea Ricketts (Amanda), Brandon Jarrett, Michael Welch (le lieutenant James Dawson), Bryan Lillis (Liam), Cara Santana (Jeannie), Shari Belafonte (le capitaine Marcus), Nicole Ochoa (Valencia), Brock Burnett (Reese), Caia Coley (Carlson), Anthony Turk (Scotty), Kimberly Arland (le docteur Stringer), Harvey B. Jackson (Gillespie), Joy A. Kennelly (la femme d'affaires), Veronika Mindal (une agente de police), Anthony Richard Pagliaro (un agent de police), Ardeshir Radpour (Gun Tech)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "channelNumber": 1,
+      "logoUrl": "/loghi/tf1.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-series.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-1.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

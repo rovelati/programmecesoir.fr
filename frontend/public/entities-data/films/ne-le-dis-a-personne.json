@@ -1,0 +1,179 @@
+{
+  "type": "film",
+  "slug": "ne-le-dis-a-personne",
+  "title": "Ne le dis à personne",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Ne le dis à personne"
+  ],
+  "genres": [
+    "film à flash-back",
+    "film LGBT",
+    "adaptation d'un roman au cinéma",
+    "drame",
+    "film ou téléfilm criminel",
+    "thriller",
+    "film ou téléfilm à énigme"
+  ],
+  "description": "Depuis la mort de sa femme, Margot, assassinée par un tueur en série, Alexandre Beck se consacre exclusivement à son travail de pédiatre. Son existence bascule lorsque, huit ans après la tragédie, il reçoit par mail une vidéo sur laquelle il reconnaît Margot. Par ailleurs, la police relance l'enquête...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "eb2c22a7-1329-4ada-813e-3b0fb032b7e4",
+      "title": "Ne le dis à personne",
+      "programSlug": "ne-le-dis-a-personne",
+      "programUrl": "/programme/ocs/ne-le-dis-a-personne",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-24 16:41:00+00",
+      "endTime": "2026-04-24 18:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f584d2b5-fdf2-4137-a111-543e238f4162",
+      "title": "Ne le dis à personne",
+      "programSlug": "ne-le-dis-a-personne",
+      "programUrl": "/programme/ocs/ne-le-dis-a-personne",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 10:20:00+00",
+      "endTime": "2026-04-25 12:29:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 131,
+  "cast": [
+    {
+      "qid": "Q600051",
+      "slug": "francois-cluzet",
+      "name": "François Cluzet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239341",
+      "slug": "marie-josee-croze",
+      "name": "Marie-Josée Croze",
+      "role": "actor"
+    },
+    {
+      "qid": "Q518457",
+      "slug": "andre-dussollier",
+      "name": "André Dussollier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208590",
+      "slug": "kristin-scott-thomas",
+      "name": "Kristin Scott Thomas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q576085",
+      "slug": "francois-berleand",
+      "name": "François Berléand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106573",
+      "slug": "nathalie-baye",
+      "name": "Nathalie Baye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106555",
+      "slug": "jean-rochefort",
+      "name": "Jean Rochefort",
+      "role": "actor"
+    },
+    {
+      "qid": "Q292760",
+      "slug": "marina-hands",
+      "name": "Marina Hands",
+      "role": "actor"
+    },
+    {
+      "qid": "Q552639",
+      "slug": "gilles-lellouche",
+      "name": "Gilles Lellouche",
+      "role": "actor"
+    },
+    {
+      "qid": "Q694259",
+      "slug": "olivier-marchal",
+      "name": "Olivier Marchal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314403",
+      "slug": "guillaume-canet",
+      "name": "Guillaume Canet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3470839",
+      "slug": "samir-guesmi",
+      "name": "Samir Guesmi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2829519",
+      "slug": "alain-attal",
+      "name": "Alain Attal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466991",
+      "slug": "anne-marivin",
+      "name": "Anne Marivin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2925417",
+      "slug": "brigitte-catillon",
+      "name": "Brigitte Catillon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3014839",
+      "slug": "daniel-znyk",
+      "name": "Daniel Znyk",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q314403",
+    "slug": "guillaume-canet",
+    "name": "Guillaume Canet",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 16:41:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

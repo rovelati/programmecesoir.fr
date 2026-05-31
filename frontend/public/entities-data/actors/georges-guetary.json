@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "georges-guetary",
+  "name": "Georges Guétary",
+  "worksCount": 1,
+  "description": "chanteur et comédien français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Gu%C3%A9tary.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1915-02-08",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1508954",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Georges_Gu%C3%A9tary",
+    "imdb": "nm0350250",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-americain-a-paris",
+      "title": "Un Américain à Paris"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0afcc99a-5a64-49cd-9907-094e01097ba3",
+      "title": "Un Américain à Paris",
+      "programSlug": "un-americain-a-paris",
+      "programUrl": "/programme/cine-classic/un-americain-a-paris",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-19 13:48:00+00",
+      "endTime": "2026-04-19 15:38:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 13:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

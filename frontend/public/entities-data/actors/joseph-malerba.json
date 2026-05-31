@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "joseph-malerba",
+  "name": "Joseph Malerba",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-10-05",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3185296",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Joseph_Malerba",
+    "imdb": "nm0539376",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "en-equilibre",
+      "title": "En équilibre"
+    },
+    {
+      "type": "series",
+      "slug": "from-behind",
+      "title": "From Behind"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

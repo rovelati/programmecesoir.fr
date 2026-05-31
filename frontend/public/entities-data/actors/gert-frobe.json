@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "gert-frobe",
+  "name": "Gert Fröbe",
+  "worksCount": 2,
+  "description": "acteur allemand, XXe siècle",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gert%20Fr%C3%B6be%20(1965).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1913-02-25",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q76943",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Gert_Fr%C3%B6be",
+    "imdb": "nm0002085",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "du-rififi-a-paname",
+      "title": "Du rififi à Paname"
+    },
+    {
+      "type": "film",
+      "slug": "le-coup-du-parapluie",
+      "title": "Le coup du parapluie"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

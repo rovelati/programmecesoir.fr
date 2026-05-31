@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "emma-thompson",
+  "name": "Emma Thompson",
+  "worksCount": 2,
+  "description": "actrice, scénariste et productrice de cinéma britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Thompson%202022.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1959-04-15",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q168724",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Emma_Thompson",
+    "imdb": "nm0000668",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "late-night",
+      "title": "Late Night"
+    },
+    {
+      "type": "film",
+      "slug": "randonneurs-amateurs",
+      "title": "Randonneurs amateurs"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

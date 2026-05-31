@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "david-jensen",
+  "name": "David Jensen",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1952-09-23",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q19405928",
+    "wikipedia": null,
+    "imdb": "nm0003861",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "seconde-chance",
+      "title": "Seconde chance"
+    },
+    {
+      "type": "film",
+      "slug": "a-fleur-de-peau",
+      "title": "A fleur de peau"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

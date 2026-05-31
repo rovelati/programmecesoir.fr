@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "jean-rochefort",
+  "name": "Jean Rochefort",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Rochefort%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1930-04-29",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q106555",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Rochefort",
+    "imdb": "nm0734000",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-horloger-de-saint-paul",
+      "title": "L'horloger de Saint-Paul"
+    },
+    {
+      "type": "film",
+      "slug": "ne-le-dis-a-personne",
+      "title": "Ne le dis à personne"
+    },
+    {
+      "type": "film",
+      "slug": "que-la-fete-commence",
+      "title": "Que la fête commence"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "eb2c22a7-1329-4ada-813e-3b0fb032b7e4",
+      "title": "Ne le dis à personne",
+      "programSlug": "ne-le-dis-a-personne",
+      "programUrl": "/programme/ocs/ne-le-dis-a-personne",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-24 16:41:00+00",
+      "endTime": "2026-04-24 18:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f584d2b5-fdf2-4137-a111-543e238f4162",
+      "title": "Ne le dis à personne",
+      "programSlug": "ne-le-dis-a-personne",
+      "programUrl": "/programme/ocs/ne-le-dis-a-personne",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 10:20:00+00",
+      "endTime": "2026-04-25 12:29:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-24 16:41:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

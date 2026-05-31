@@ -1,0 +1,101 @@
+{
+  "type": "actor",
+  "slug": "eric-roberts",
+  "name": "Eric Roberts",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Roberts%202025.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1956-04-18",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q207969",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Eric_Roberts",
+    "imdb": "nm0000616",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jurassic-domination",
+      "title": "Jurassic Domination"
+    },
+    {
+      "type": "film",
+      "slug": "the-dark-knight-le-chevalier-noir",
+      "title": "The Dark Knight, le chevalier noir"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c2e552e5-5034-45b9-a0c8-4a53b1bae6b6",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-le-chevalier-noir",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 07:44:00+00",
+      "endTime": "2026-04-19 10:12:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4b36ab65-c9cb-49be-8109-1ee818e780fa",
+      "title": "Jurassic Domination",
+      "programSlug": "jurassic-domination",
+      "programUrl": "/programme/mcm/jurassic-domination",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-20 19:00:00+00",
+      "endTime": "2026-04-20 20:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b544160d-b826-4661-803a-b06f2fd0584b",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-le-chevalier-noir",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 21:16:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "22b05300-eddd-4187-a307-0f99ef85a0d7",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-le-chevalier-noir",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:56:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e4ce4ab8-002d-44c6-b878-2423ab1f67ac",
+      "title": "Jurassic Domination",
+      "programSlug": "jurassic-domination",
+      "programUrl": "/programme/mcm/jurassic-domination",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-25 20:35:00+00",
+      "endTime": "2026-04-25 22:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 07:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

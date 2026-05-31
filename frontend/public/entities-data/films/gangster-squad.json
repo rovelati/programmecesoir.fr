@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "gangster-squad",
+  "title": "Gangster Squad",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Gangster Squad"
+  ],
+  "genres": [
+    "thriller",
+    "film ou téléfilm criminel",
+    "drame",
+    "film et téléfilm d'action",
+    "film basé sur des livres"
+  ],
+  "description": "Mickey Cohen, parrain de la mafia originaire de Brooklyn, a la mainmise sur le crime à Los Angeles. Il obtient tout ce qu'il veut grâce à la protection de ses hommes de main, mais aussi de la police, de la justice et des hommes politiques sous sa coupe. Il multiplie les trafics de drogue et gère les réseaux de prostitution. Face à cette situation, le chef du LAPD décide de passer à l'action. Il charge deux sergents réputés de son unité, John O'Mara et Jerry Wooters, de créer une unité spéciale pour faire tomber Mickey Cohen. Les deux policiers et leurs cinq recrues ne sont pas au bout de leurs surprises...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 113,
+  "cast": [
+    {
+      "qid": "Q193815",
+      "slug": "ryan-gosling",
+      "name": "Ryan Gosling",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41396",
+      "slug": "josh-brolin",
+      "name": "Josh Brolin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44221",
+      "slug": "sean-penn",
+      "name": "Sean Penn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188018",
+      "slug": "nick-nolte",
+      "name": "Nick Nolte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q147077",
+      "slug": "emma-stone",
+      "name": "Emma Stone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272977",
+      "slug": "robert-patrick",
+      "name": "Robert Patrick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q359488",
+      "slug": "michael-pena",
+      "name": "Michael Peña",
+      "role": "actor"
+    },
+    {
+      "qid": "Q224081",
+      "slug": "giovanni-ribisi",
+      "name": "Giovanni Ribisi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q511554",
+      "slug": "anthony-mackie",
+      "name": "Anthony Mackie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28211",
+      "slug": "mireille-enos",
+      "name": "Mireille Enos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q967833",
+      "slug": "josh-pence",
+      "name": "Josh Pence",
+      "role": "actor"
+    },
+    {
+      "qid": "Q918616",
+      "slug": "frank-grillo",
+      "name": "Frank Grillo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3643715",
+      "slug": "brandon-molale",
+      "name": "Brandon Molale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q203205",
+      "slug": "jon-polito",
+      "name": "Jon Polito",
+      "role": "actor"
+    },
+    {
+      "qid": "Q918866",
+      "slug": "troy-garity",
+      "name": "Troy Garity",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1368141",
+      "slug": "holt-mccallany",
+      "name": "Holt McCallany",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q521691",
+    "slug": "ruben-fleischer",
+    "name": "Ruben Fleischer",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

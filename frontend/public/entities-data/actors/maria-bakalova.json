@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "maria-bakalova",
+  "name": "Maria Bakalova",
+  "worksCount": 1,
+  "description": "actrice bulgare",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Bakalova%20by%20Gage%20Skidmore.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1996-06-04",
+  "nationality": "Bulgarie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q100740782",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Maria_Bakalova",
+    "imdb": "nm7210025",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "the-apprentice",
+      "title": "The Apprentice"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

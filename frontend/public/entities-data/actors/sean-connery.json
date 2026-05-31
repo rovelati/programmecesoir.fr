@@ -1,0 +1,68 @@
+{
+  "type": "actor",
+  "slug": "sean-connery",
+  "name": "Sean Connery",
+  "worksCount": 5,
+  "description": "acteur et producteur écossais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Connery%20(1983).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1930-08-25",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q4573",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sean_Connery",
+    "imdb": "nm0000125",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-pont-trop-loin",
+      "title": "Un pont trop loin"
+    },
+    {
+      "type": "film",
+      "slug": "diamants",
+      "title": "Diamants"
+    },
+    {
+      "type": "film",
+      "slug": "juste-cause",
+      "title": "Juste cause"
+    },
+    {
+      "type": "film",
+      "slug": "la-ligue-des-gentlemen-extraordinaires",
+      "title": "La ligue des gentlemen extraordinaires"
+    },
+    {
+      "type": "film",
+      "slug": "a-la-poursuite-d-octobre-rouge",
+      "title": "A la poursuite d'Octobre rouge"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "58a2888e-4f9d-4d4f-ae16-b609caf29b50",
+      "title": "Un pont trop loin",
+      "programSlug": "un-pont-trop-loin",
+      "programUrl": "/programme/cine-classic/un-pont-trop-loin",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-20 15:04:00+00",
+      "endTime": "2026-04-20 17:54:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 15:04:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

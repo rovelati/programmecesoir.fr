@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "les-mains-du-destin",
+  "title": "Les mains du destin",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Les mains du destin"
+  ],
+  "genres": [
+    "Telefilms",
+    "Téléfilm"
+  ],
+  "description": "Destiny, la fidèle servante du père de Joshua qu'il méprise, se voit attribuer de manière inattendue une participation dans la société de son riche père, assortie d'une clause qui pourrait soit faire perdre tout à Joshua, soit lui faire tout gagner.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "85e1b269-9105-44e8-b5c7-f7c1e57ac375",
+      "title": "Les mains du destin",
+      "programSlug": "les-mains-du-destin",
+      "programUrl": "/programme/nollywood-tv/les-mains-du-destin",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-21 04:00:00+00",
+      "endTime": "2026-04-21 06:19:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 04:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

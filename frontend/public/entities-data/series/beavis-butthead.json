@@ -1,0 +1,98 @@
+{
+  "type": "series",
+  "slug": "beavis-butthead",
+  "title": "Beavis & Butthead",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Beavis & Butthead"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm d'aventure",
+    "film d'animation",
+    "film ou téléfilm criminel",
+    "music-themed film"
+  ],
+  "description": "Beavis et Butt-Head restent éveillés plusieurs jours de suite pour éviter de se piéger l'un l'autre. / Beavis et Butt-Head fabriquent un squelette de dinosaure avec les restes d'un barbecue.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "channelNumber": null,
+      "logoUrl": "/loghi/comedy-central.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 0.85,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1996,
+  "numberOfSeasons": null,
+  "cast": [
+    {
+      "qid": "Q43044",
+      "slug": "demi-moore",
+      "name": "Demi Moore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2680",
+      "slug": "bruce-willis",
+      "name": "Bruce Willis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q355153",
+      "slug": "robert-stack",
+      "name": "Robert Stack",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230131",
+      "slug": "cloris-leachman",
+      "name": "Cloris Leachman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269869",
+      "slug": "greg-kinnear",
+      "name": "Greg Kinnear",
+      "role": "actor"
+    },
+    {
+      "qid": "Q434585",
+      "slug": "mike-judge",
+      "name": "Mike Judge",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40035",
+      "slug": "richard-linklater",
+      "name": "Richard Linklater",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q434585",
+    "slug": "mike-judge",
+    "name": "Mike Judge",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

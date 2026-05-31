@@ -1,0 +1,58 @@
+{
+  "type": "film",
+  "slug": "le-prix-de-la-verite",
+  "title": "Le prix de la vérité",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le prix de la vérité"
+  ],
+  "genres": [
+    "fiction"
+  ],
+  "description": "A Saint-Paul-de-Vence, on retrouve le cadavre d'une jeune femme dans la piscine d'un hôtel de luxe. Chargée de l'affaire, la gendarmerie locale se voit adjoindre les services du capitaine Marie Jourdan, de la Police judiciaire de Lyon. La collaboration entre cette femme flic de choc et ses confrères de Saint-Paul-de-Vence s'annonce pour le moins délicate, d'autant que Marie Jourdan n'est pas du genre à ménager les puissantes figures locales. Mais bientôt, ses agissements étranges interrogent les gendarmes sur les véritables raisons de sa présence sur cette affaire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teva.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q3314618",
+      "slug": "mimie-mathy",
+      "name": "Mimie Mathy",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q72092718",
+    "slug": "emmanuel-rigaut",
+    "name": "Emmanuel Rigaut",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

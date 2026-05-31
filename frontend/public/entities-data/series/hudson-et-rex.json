@@ -1,0 +1,93 @@
+{
+  "type": "series",
+  "slug": "hudson-et-rex",
+  "title": "Hudson et Rex",
+  "airingsCount": 42,
+  "sourceTitles": [
+    "Hudson et Rex",
+    "Hudson et Rex - Saison 5"
+  ],
+  "genres": [
+    "detective television series"
+  ],
+  "description": "Donovan se porte volontaire pour transférer dans une nouvelle prison un de ses anciens partenaires qui purge une peine derrière les barreaux. Des criminels qui veulent se venger de ce dernier passent à l'attaque. Jesse, de son côté, enquête sur un cambriolage et attrape un coupable des plus improbables....",
+  "descriptionAi": "Cette série policière canadienne allie enquêtes captivantes et complicité unique entre l’inspecteur Charlie Hudson et son partenaire canin, Rex, un berger allemand hors du commun. L’ambiance, à la fois moderne et chaleureuse, se déroule dans les paysages urbains et naturels de Saint-Jean. Ce qui séduit le téléspectateur, c’est l’équilibre parfait entre la résolution intelligente des crimes et la relation touchante et souvent drôle du duo, renforcée par le charisme des personnages récurrents. Une formule efficace qui mêle suspense et cœur. Ne manquez pas les nouveaux épisodes à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "channelNumber": null,
+      "logoUrl": "/loghi/13eme-rue.png",
+      "airingsCount": 37
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bb16950c-074d-4415-a9b6-4eee9c1eb356",
+      "title": "Hudson et Rex - Saison 5",
+      "programSlug": "hudson-et-rex-saison-5",
+      "programUrl": "/programme/rts-un/hudson-et-rex-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 14:05:00+00",
+      "endTime": "2026-04-19 14:50:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:42:46.174Z",
+  "startYear": 2019,
+  "numberOfSeasons": 8,
+  "cast": [
+    {
+      "qid": "Q939205",
+      "slug": "john-reardon",
+      "name": "John Reardon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6797314",
+      "slug": "mayko-nguyen",
+      "name": "Mayko Nguyen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16209291",
+      "slug": "kevin-hanchard",
+      "name": "Kevin Hanchard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1235342",
+      "slug": "justin-kelly",
+      "name": "Justin Kelly",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 14:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

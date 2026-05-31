@@ -1,0 +1,121 @@
+{
+  "type": "actor",
+  "slug": "alex-russell",
+  "name": "Alex Russell",
+  "worksCount": 1,
+  "description": "Australian actor and director",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Russell%20(19355023879).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1987-12-11",
+  "nationality": "Australie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2833025",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alex_Russell",
+    "imdb": "nm3887625",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "s-w-a-t",
+      "title": "S.W.A.T."
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bdab2599-4985-48a4-9d25-1714190f3d83",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/club-rtl/s-w-a-t",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 18:05:00+00",
+      "endTime": "2026-04-19 18:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e05d1a15-210c-48dd-86a6-f1201911cb84",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/club-rtl/s-w-a-t",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 18:55:00+00",
+      "endTime": "2026-04-19 19:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "db4402dc-c338-4bb6-8f15-d609bdab86ff",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/cstar/s-w-a-t",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 19:56:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "73194785-1d32-436c-91c7-f177c5606e99",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/club-rtl/s-w-a-t",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 19:45:00+00",
+      "endTime": "2026-04-19 20:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3fb5ccca-06ea-4e61-9ebb-5ce75f69cc6d",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/cstar/s-w-a-t",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-19 19:56:00+00",
+      "endTime": "2026-04-19 20:48:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5be8e085-711e-4382-83e2-612dfe71a9b7",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/cstar/s-w-a-t",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-19 20:48:00+00",
+      "endTime": "2026-04-19 21:33:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dfb2e009-b197-494a-9a9a-c71b62381a1c",
+      "title": "S.W.A.T.",
+      "programSlug": "s-w-a-t",
+      "programUrl": "/programme/cstar/s-w-a-t",
+      "channelId": "cstar",
+      "channelName": "CStar",
+      "channelSlug": "cstar",
+      "startTime": "2026-04-19 21:33:00+00",
+      "endTime": "2026-04-19 22:25:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 18:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

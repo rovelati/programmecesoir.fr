@@ -1,0 +1,121 @@
+{
+  "type": "series",
+  "slug": "homme-au-foyer",
+  "title": "Homme au foyer",
+  "airingsCount": 18,
+  "sourceTitles": [
+    "Homme au foyer",
+    "Homme au foyer - Saison 3"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Ken, un jeune homme au chômage, épouse Rita, une femme riche. Tous deux acceptent ce qui semble être un inversement des rôles. Cette situation ne plaira pas à leur entourage et plus particulièrement à la mère de Ken, Mama, qui va envahir peu à peu le quotidien du jeune couple.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 18
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "33f71ee5-c617-48fc-b3be-6db96222441f",
+      "title": "Homme au foyer - Saison 5",
+      "programSlug": "homme-au-foyer-saison-5",
+      "programUrl": "/programme/nollywood-tv/homme-au-foyer-saison-5",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-25 19:00:00+00",
+      "endTime": "2026-04-25 19:30:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "bc5a84f0-02dc-4ae3-828d-f755ff2e2311",
+      "title": "Homme au foyer - Saison 5",
+      "programSlug": "homme-au-foyer-saison-5",
+      "programUrl": "/programme/nollywood-tv/homme-au-foyer-saison-5",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-25 19:30:00+00",
+      "endTime": "2026-04-25 20:01:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "7868593a-7253-4c91-b9ce-0bc172e16f12",
+      "title": "Homme au foyer - Saison 5",
+      "programSlug": "homme-au-foyer-saison-5",
+      "programUrl": "/programme/nollywood-tv/homme-au-foyer-saison-5",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-25 20:01:00+00",
+      "endTime": "2026-04-25 20:31:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "960d47c0-1c3e-4642-b218-3b5418cbdd00",
+      "title": "Homme au foyer - Saison 5",
+      "programSlug": "homme-au-foyer-saison-5",
+      "programUrl": "/programme/nollywood-tv/homme-au-foyer-saison-5",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-25 20:31:00+00",
+      "endTime": "2026-04-25 21:02:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "3afe84d0-af51-4356-a46e-1a1f8e971779",
+      "title": "Homme au foyer - Saison 5",
+      "programSlug": "homme-au-foyer-saison-5",
+      "programUrl": "/programme/nollywood-tv/homme-au-foyer-saison-5",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-25 21:02:00+00",
+      "endTime": "2026-04-25 21:33:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "e9e2f140-37e2-4588-af39-c3b7052180c9",
+      "title": "Homme au foyer - Saison 5",
+      "programSlug": "homme-au-foyer-saison-5",
+      "programUrl": "/programme/nollywood-tv/homme-au-foyer-saison-5",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-25 21:33:00+00",
+      "endTime": "2026-04-25 22:02:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-25 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "daniel-bernhardt",
+  "name": "Daniel Bernhardt",
+  "worksCount": 2,
+  "description": "acteur suisse",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Bernhardt%20at%20the%2078th%20Locarno%20Film%20Festival%20in%202025%2003.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-08-31",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q115932",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Daniel_Bernhardt",
+    "imdb": "nm0076780",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "matrix-reloaded",
+      "title": "Matrix Reloaded"
+    },
+    {
+      "type": "film",
+      "slug": "john-wick",
+      "title": "John Wick"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "17fe7c6b-e9f9-4106-97c1-5fa4634053c7",
+      "title": "Matrix Reloaded",
+      "programSlug": "matrix-reloaded",
+      "programUrl": "/programme/canal-grand-ecran/matrix-reloaded",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 14:02:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 14:02:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "jay-o-sanders",
+  "name": "Jay O. Sanders",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jay%20O.%20Sanders.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-04-16",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1319653",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jay_O._Sanders",
+    "imdb": "nm0761587",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "daylight",
+      "title": "Daylight"
+    },
+    {
+      "type": "film",
+      "slug": "le-collectionneur",
+      "title": "Le collectionneur"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4019fc0c-7454-48c5-aed3-e32397b04254",
+      "title": "Daylight",
+      "programSlug": "daylight",
+      "programUrl": "/programme/rtl9/daylight",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-25 21:10:00+00",
+      "endTime": "2026-04-25 23:05:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-25 21:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

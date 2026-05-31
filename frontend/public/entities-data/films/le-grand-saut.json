@@ -1,0 +1,163 @@
+{
+  "type": "film",
+  "slug": "le-grand-saut",
+  "title": "Le grand saut",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Le grand saut"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "À 22 ans, Alain Demaria est déjà une légende marseillaise. Parmi tous les minots qui sautent de la Corniche Kennedy en pleine ville à plus de treize mètres, il est le seul à plonger la tête la première, le poing en avant pour casser l'eau. Depuis toujours, le saut lui permet de canaliser ses pulsions en s'offrant des sensations extrêmes. Mais Alain sait qu'il ne pourra pas éternellement braver le vertige.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nouvelle-aquitaine.svg",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "336ec877-8b68-41d9-9cea-d826bb846024",
+      "title": "Le grand saut",
+      "programSlug": "le-grand-saut",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/le-grand-saut",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-23 15:30:00+00",
+      "endTime": "2026-04-23 15:37:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": 115,
+  "cast": [
+    {
+      "qid": "Q981203",
+      "slug": "jean-pierre-bacri",
+      "name": "Jean-Pierre Bacri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q552639",
+      "slug": "gilles-lellouche",
+      "name": "Gilles Lellouche",
+      "role": "actor"
+    },
+    {
+      "qid": "Q949391",
+      "slug": "jean-paul-rouve",
+      "name": "Jean-Paul Rouve",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3144876",
+      "slug": "helene-vincent",
+      "name": "Hélène Vincent",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3505931",
+      "slug": "suzanne-clement",
+      "name": "Suzanne Clément",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22248002",
+      "slug": "benjamin-lavernhe",
+      "name": "Benjamin Lavernhe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3187987",
+      "slug": "judith-chemla",
+      "name": "Judith Chemla",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3568783",
+      "slug": "william-lebghil",
+      "name": "William Lebghil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11282528",
+      "slug": "eye-haidara",
+      "name": "Eye Haïdara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18179055",
+      "slug": "kevin-azais",
+      "name": "Kévin Azaïs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3559719",
+      "slug": "vincent-macaigne",
+      "name": "Vincent Macaigne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1758568",
+      "slug": "antoine-chappey",
+      "name": "Antoine Chappey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20723802",
+      "slug": "nicky-marbot",
+      "name": "Nicky Marbot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3118434",
+      "slug": "gregoire-bonnet",
+      "name": "Grégoire Bonnet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3470502",
+      "slug": "sam-karmann",
+      "name": "Sam Karmann",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2778106",
+    "slug": "eric-toledano",
+    "name": "Éric Toledano",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 15:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

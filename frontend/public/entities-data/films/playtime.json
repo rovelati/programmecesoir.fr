@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "playtime",
+  "title": "Playtime",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Playtime"
+  ],
+  "genres": [
+    "comédie",
+    "drame"
+  ],
+  "description": "Aéroport d'Orly. Un groupe d'étrangers vient de débarquer pour visiter Paris. Les touristes, parmi lesquels une jeune Américaine très enthousiaste, montent dans un autocar qui les emmène dans un hôtel parfaitement fonctionnel au milieu d'un vaste ensemble de buildings ultramodernes. Les voilà loin du Paris folklorique dont ils rêvaient. Dans l'un de ces gratte-ciel, monsieur Hulot recherche son chef de service, Giffard, qui disparaît continuellement dans les couloirs et les ascenseurs. Constatant qu'il est passé à côté de son rendez-vous, Hulot s'en va à Montmartre, où se déroule l'inauguration d'un restaurant, le \"Royal Garden\". La soirée vire à la catastrophe, car les travaux viennent à peine d'être achevés. Mais, dans le chaos de la situation, monsieur Hulot a l'occasion de faire la connaissance de la jeune Américaine...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1967,
+  "durationMinutes": 126,
+  "cast": [
+    {
+      "qid": "Q51549",
+      "slug": "jacques-tati",
+      "name": "Jacques Tati",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438984",
+      "slug": "france-rumilly",
+      "name": "France Rumilly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q72500",
+      "slug": "reinhardt-kolldehoff",
+      "name": "Reinhardt Kolldehoff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2836573",
+      "slug": "alice-field",
+      "name": "Alice Field",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2847185",
+      "slug": "andre-badin",
+      "name": "André Badin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2847767",
+      "slug": "andre-fouche",
+      "name": "André Fouché",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2903658",
+      "slug": "billy-kearns",
+      "name": "Billy Kearns",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3086001",
+      "slug": "francois-viaur",
+      "name": "François Viaur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3103218",
+      "slug": "georges-montant",
+      "name": "Georges Montant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6218025",
+      "slug": "john-abbey",
+      "name": "John Abbey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3218782",
+      "slug": "laure-paillette",
+      "name": "Laure Paillette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3275597",
+      "slug": "madeleine-bouchez",
+      "name": "Madeleine Bouchez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3292212",
+      "slug": "marie-pierre-casey",
+      "name": "Marie-Pierre Casey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3309662",
+      "slug": "michel-francini",
+      "name": "Michel Francini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15070017",
+      "slug": "rita-maiden",
+      "name": "Rita Maiden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3573474",
+      "slug": "yves-barsacq",
+      "name": "Yves Barsacq",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51549",
+    "slug": "jacques-tati",
+    "name": "Jacques Tati",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

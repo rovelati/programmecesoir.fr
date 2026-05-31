@@ -1,0 +1,84 @@
+{
+  "type": "series",
+  "slug": "la-famille-weasy",
+  "title": "La famille Weasy",
+  "airingsCount": 9,
+  "sourceTitles": [
+    "La famille Weasy"
+  ],
+  "genres": [
+    "Série d'animation",
+    "Série TV"
+  ],
+  "description": "Le jour du bain, les filles découvrent que derrière son paravent, Weasy fait semblant de se laver. Les filles sont bien décidées : qu'il aime ça ou non, leur père sera propre !",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 9
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ebae0909-d48b-4d63-ad14-fd1197927ea8",
+      "title": "La famille Weasy",
+      "programSlug": "la-famille-weasy",
+      "programUrl": "/programme/france-4/la-famille-weasy",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-19 13:21:00+00",
+      "endTime": "2026-04-19 13:38:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b99a0d6a-c261-4b31-b7b2-656c0ee05d9e",
+      "title": "La famille Weasy",
+      "programSlug": "la-famille-weasy",
+      "programUrl": "/programme/france-4/la-famille-weasy",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-19 13:38:00+00",
+      "endTime": "2026-04-19 13:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "af2e0caa-74a2-4953-8ef6-4a2096b33222",
+      "title": "La famille Weasy",
+      "programSlug": "la-famille-weasy",
+      "programUrl": "/programme/france-4/la-famille-weasy",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-19 13:45:00+00",
+      "endTime": "2026-04-19 14:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 13:21:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

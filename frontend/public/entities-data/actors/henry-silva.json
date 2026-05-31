@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "henry-silva",
+  "name": "Henry Silva",
+  "worksCount": 1,
+  "description": "acteur américain (1926–2022)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20mala%20ordina%20(Henry%20Silva).png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1926-09-23",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q1384373",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Henry_Silva",
+    "imdb": "nm0798328",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-marginal",
+      "title": "Le marginal"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b88a8cf2-b41a-4118-8c92-460d607bec41",
+      "title": "Le marginal",
+      "programSlug": "le-marginal",
+      "programUrl": "/programme/cine-classic/le-marginal",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 17:11:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 17:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

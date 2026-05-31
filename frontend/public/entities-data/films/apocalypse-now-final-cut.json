@@ -1,0 +1,160 @@
+{
+  "type": "film",
+  "slug": "apocalypse-now-final-cut",
+  "title": "Apocalypse Now Final Cut",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Apocalypse Now Final Cut"
+  ],
+  "genres": [
+    "film et téléfilm de guerre",
+    "film et téléfilm d'action",
+    "drame",
+    "film basé sur des livres",
+    "thriller",
+    "film ou téléfilm épique",
+    "war drama",
+    "film et téléfilm d'horreur",
+    "film d'horreur psychologique",
+    "thriller psychologique",
+    "film ou téléfilm d'aventure",
+    "drame psychologique",
+    "satirical film"
+  ],
+  "description": "Le capitaine Willard, qui se morfond depuis une semaine, se voit confier une nouvelle mission. Au coeur de la jungle, un certain colonel Kurz, échappant à tout contrôle, règne en despote sur un petit village soumis. Willard est chargé d'abattre cet homme, jadis très brillant mais apparemment devenu fou...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20law%20keven%20-%20Apocalypse%20Now%5E.......minus%20the%20Helicopters...jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1979,
+  "durationMinutes": 153,
+  "cast": [
+    {
+      "qid": "Q34012",
+      "slug": "marlon-brando",
+      "name": "Marlon Brando",
+      "role": "actor"
+    },
+    {
+      "qid": "Q171736",
+      "slug": "robert-duvall",
+      "name": "Robert Duvall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q719266",
+      "slug": "frederic-forrest",
+      "name": "Frederic Forrest",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1387383",
+      "slug": "albert-hall",
+      "name": "Albert Hall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q102711",
+      "slug": "dennis-hopper",
+      "name": "Dennis Hopper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q56094",
+      "slug": "francis-ford-coppola",
+      "name": "Francis Ford Coppola",
+      "role": "actor"
+    },
+    {
+      "qid": "Q363413",
+      "slug": "vittorio-storaro",
+      "name": "Vittorio Storaro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1374559",
+      "slug": "sam-bottoms",
+      "name": "Sam Bottoms",
+      "role": "actor"
+    },
+    {
+      "qid": "Q195871",
+      "slug": "g-d-spradlin",
+      "name": "G. D. Spradlin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q176945",
+      "slug": "colleen-camp",
+      "name": "Colleen Camp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193048",
+      "slug": "laurence-fishburne",
+      "name": "Laurence Fishburne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q114179",
+      "slug": "scott-glenn",
+      "name": "Scott Glenn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q81328",
+      "slug": "harrison-ford",
+      "name": "Harrison Ford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1081030",
+      "slug": "christian-marquand",
+      "name": "Christian Marquand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q353978",
+      "slug": "r-lee-ermey",
+      "name": "R. Lee Ermey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q136221",
+      "slug": "aurore-clement",
+      "name": "Aurore Clément",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q56094",
+    "slug": "francis-ford-coppola",
+    "name": "Francis Ford Coppola",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

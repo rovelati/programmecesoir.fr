@@ -1,0 +1,138 @@
+{
+  "type": "series",
+  "slug": "plus-belle-la-vie",
+  "title": "Plus belle la vie",
+  "airingsCount": 14,
+  "sourceTitles": [
+    "Plus belle la vie"
+  ],
+  "genres": [
+    "soap opera"
+  ],
+  "description": "A Marseille, dans le quartier du Mistral, tout le monde se connaît. Derrière son comptoir, Roland Marci, tenancier du bar du Mistral, voit vivre ce petit monde, dans un heureux métissage des cultures et des milieux. Les grands comme les petits mouvements qui affectent la société française y trouvent leur écho. Des passions se nouent et se dénouent. Des crimes sont commis. Le feuilleton qui fait les beaux soirs de France 3 depuis 2004, avec sa galerie de personnages et ses thèmes de société systématiquement abordés, dans un souci de proximité qui a conquis le public.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tipik.png",
+      "airingsCount": 14
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2a47009e-8da9-48a1-ac1a-96425e3c681d",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 12:20:00+00",
+      "endTime": "2026-04-21 12:47:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9f6d922b-d67a-40dd-a65f-fea812a05f0a",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 12:47:00+00",
+      "endTime": "2026-04-21 13:14:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "fa6085ea-d47d-4912-8013-f85147c825a3",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 13:14:00+00",
+      "endTime": "2026-04-21 13:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "55708db2-6da8-4f8e-9beb-eebced06f448",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-23 12:05:00+00",
+      "endTime": "2026-04-23 12:34:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "4d576642-cf05-484f-9929-2c8e455d9947",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-23 12:34:00+00",
+      "endTime": "2026-04-23 13:03:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "5484d43a-07b3-4f2c-b132-1e39714187d9",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-23 13:03:00+00",
+      "endTime": "2026-04-23 13:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "4a8f4c81-a12c-464a-a1f2-9e2d8bae6974",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-23 13:30:00+00",
+      "endTime": "2026-04-23 14:03:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2004,
+  "numberOfSeasons": 18,
+  "cast": [
+    {
+      "qid": "Q107974086",
+      "slug": "grant-lawrens",
+      "name": "Grant Lawrens",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-21 12:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

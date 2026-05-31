@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "hank-worden",
+  "name": "Hank Worden",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hank%20Worden%20in%20McLintock!%20(1963).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1901-07-23",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1376991",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Hank_Worden",
+    "imdb": "nm0941401",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-massacre-de-fort-apache",
+      "title": "Le massacre de Fort Apache"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

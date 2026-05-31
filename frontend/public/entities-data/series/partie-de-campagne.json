@@ -1,0 +1,150 @@
+{
+  "type": "series",
+  "slug": "partie-de-campagne",
+  "title": "Partie de campagne",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Partie de campagne"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Au beau milieu des champs, une bande d'enfant vit au petit village de Bellefontaine. Raphaël, Lina, P'tit Pied et Grande Perche remplissent leur quotidien d'aventures trépidantes grâce à une imagination sans limites.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-corse.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cee3b06d-399a-4c31-aa05-1ac72c9c78be",
+      "title": "Partie de campagne",
+      "programSlug": "partie-de-campagne",
+      "programUrl": "/programme/france-3-corse/partie-de-campagne",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 06:44:00+00",
+      "endTime": "2026-04-19 06:56:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1946,
+  "numberOfSeasons": null,
+  "cast": [
+    {
+      "qid": "Q2636468",
+      "slug": "sylvia-bataille",
+      "name": "Sylvia Bataille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q50713",
+      "slug": "jean-renoir",
+      "name": "Jean Renoir",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26854",
+      "slug": "jane-marken",
+      "name": "Jane Marken",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3158422",
+      "slug": "jacques-brunius",
+      "name": "Jacques Brunius",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830219",
+      "slug": "alain-renoir",
+      "name": "Alain Renoir",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2847794",
+      "slug": "andre-gabriello",
+      "name": "André Gabriello",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3094129",
+      "slug": "gabrielle-fontan",
+      "name": "Gabrielle Fontan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207359",
+      "slug": "georges-bataille",
+      "name": "Georges Bataille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3102556",
+      "slug": "georges-darnoux",
+      "name": "Georges Darnoux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55381",
+      "slug": "jacques-becker",
+      "name": "Jacques Becker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3290731",
+      "slug": "marguerite-renoir",
+      "name": "Marguerite Renoir",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3372260",
+      "slug": "paul-temps",
+      "name": "Paul Temps",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3385952",
+      "slug": "pierre-lestringuez",
+      "name": "Pierre Lestringuez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q156567",
+      "slug": "henri-cartier-bresson",
+      "name": "Henri Cartier-Bresson",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q50713",
+    "slug": "jean-renoir",
+    "name": "Jean Renoir",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 06:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

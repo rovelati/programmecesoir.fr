@@ -1,0 +1,95 @@
+{
+  "type": "film",
+  "slug": "tunnel",
+  "title": "Tunnel",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Tunnel"
+  ],
+  "genres": [
+    "film ou téléfilm catastrophe",
+    "drame"
+  ],
+  "description": "Au volant de sa voiture, Lee Jung-soo est pressé de rentrer chez lui pour fêter l'anniversaire de sa fille. Alors qu'il passe sous un tunnel, celui-ci s'effrondre. Il s'en sort mais se retrouve coincé sous les gravats. Il arrive à appeler les autorités. Les secouristes font se qu'ils peuvent, en vain...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 127,
+  "cast": [
+    {
+      "qid": "Q490410",
+      "slug": "ha-jung-woo",
+      "name": "Ha Jung-woo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269742",
+      "slug": "bae-doona",
+      "name": "Bae Doona",
+      "role": "actor"
+    },
+    {
+      "qid": "Q483575",
+      "slug": "oh-dal-su",
+      "name": "Oh Dal-su",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12604561",
+      "slug": "shin-jung-geun",
+      "name": "Shin Jung-geun",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13471194",
+      "slug": "jeong-seok-yong",
+      "name": "Jeong Seok-yong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16090195",
+      "slug": "park-hyuk-kwon",
+      "name": "Park Hyuk-kwon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q490984",
+      "slug": "nam-ji-hyun",
+      "name": "Nam Ji-hyun",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q18815379",
+    "slug": "kim-seong-hun",
+    "name": "Kim Seong-hun",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

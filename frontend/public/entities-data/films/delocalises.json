@@ -1,0 +1,97 @@
+{
+  "type": "film",
+  "slug": "delocalises",
+  "title": "Délocalisés",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Délocalisés"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Alors qu'il vient d'être promu et de passer contremaître, Redouane apprend que l'usine de matelas où il travaille est délocalisée en Inde. Déterminé à conserver son emploi, il accepte de partir en ayant la garantie d'être payé double et emmène avec lui Marguerite, sa compagne. Sur place, il découvre que son patron l'a dupé : il sera bien payé double, mais en roupies. Furieux, il décide de se venger et, dans ce but, fait découvrir aux ouvriers indiens les avantages du droit social français : grèves, manifestations et RTT. Entre choc des cultures et lutte sociale, Redouane mène une révolution inattendue qui pourrait bien changer le destin de l'usine et le sien...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a0b954b5-088d-4c45-ad68-f599cc323ef0",
+      "title": "Délocalisés",
+      "programSlug": "delocalises",
+      "programUrl": "/programme/canal/delocalises",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 08:34:00+00",
+      "endTime": "2026-04-21 09:58:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c3d0ed0e-04a6-44f8-8ad9-d35798ba1f67",
+      "title": "Délocalisés",
+      "programSlug": "delocalises",
+      "programUrl": "/programme/canal-box-office/delocalises",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 09:53:00+00",
+      "endTime": "2026-04-23 11:17:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "1b1751a5-7e77-41ca-8686-dbdbcfbc8002",
+      "title": "Délocalisés",
+      "programSlug": "delocalises",
+      "programUrl": "/programme/canal-box-office/delocalises",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 22:03:00+00",
+      "endTime": "2026-04-25 23:27:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q17173487",
+    "slug": "ali-bougheraba",
+    "name": "Ali Bougheraba",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 08:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

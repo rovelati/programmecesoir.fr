@@ -1,0 +1,173 @@
+{
+  "type": "actor",
+  "slug": "grant-lawrens",
+  "name": "Grant Lawrens",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1996-03-16",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q107974086",
+    "wikipedia": null,
+    "imdb": "nm7148966",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "plus-belle-la-vie",
+      "title": "Plus belle la vie"
+    },
+    {
+      "type": "series",
+      "slug": "la-petite-histoire-de-france",
+      "title": "La petite histoire de France"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6d6bede7-8bab-4ed4-8650-d99239270d71",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-19 14:30:00+00",
+      "endTime": "2026-04-19 19:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2a47009e-8da9-48a1-ac1a-96425e3c681d",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 12:20:00+00",
+      "endTime": "2026-04-21 12:47:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9f6d922b-d67a-40dd-a65f-fea812a05f0a",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 12:47:00+00",
+      "endTime": "2026-04-21 13:14:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "fa6085ea-d47d-4912-8013-f85147c825a3",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-21 13:14:00+00",
+      "endTime": "2026-04-21 13:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "55708db2-6da8-4f8e-9beb-eebced06f448",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-23 12:05:00+00",
+      "endTime": "2026-04-23 12:34:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "4d576642-cf05-484f-9929-2c8e455d9947",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-23 12:34:00+00",
+      "endTime": "2026-04-23 13:03:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "5484d43a-07b3-4f2c-b132-1e39714187d9",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-23 13:03:00+00",
+      "endTime": "2026-04-23 13:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "4a8f4c81-a12c-464a-a1f2-9e2d8bae6974",
+      "title": "Plus belle la vie",
+      "programSlug": "plus-belle-la-vie",
+      "programUrl": "/programme/tipik/plus-belle-la-vie",
+      "channelId": "tipik",
+      "channelName": "Tipik",
+      "channelSlug": "tipik",
+      "startTime": "2026-04-23 13:30:00+00",
+      "endTime": "2026-04-23 14:03:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "39caf4e1-2a54-4cd5-8585-1dc1a219c7e5",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 15:30:00+00",
+      "endTime": "2026-04-25 19:10:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c3b376a3-01cb-477b-9fe3-201dfb622f95",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 19:10:00+00",
+      "endTime": "2026-04-25 21:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f2b90d4b-4f33-4e05-9ae2-a68593db72df",
+      "title": "La petite histoire de France",
+      "programSlug": "la-petite-histoire-de-france",
+      "programUrl": "/programme/w9/la-petite-histoire-de-france",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 21:00:00+00",
+      "endTime": "2026-04-25 22:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 14:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

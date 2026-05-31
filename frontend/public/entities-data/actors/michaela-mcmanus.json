@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "michaela-mcmanus",
+  "name": "Michaela McManus",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michaela%20Mcmanus-1657190815.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1983-05-20",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q153262",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michaela_McManus",
+    "imdb": "nm2288842",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "trouver-l-amour",
+      "title": "Trouver l'amour"
+    },
+    {
+      "type": "series",
+      "slug": "trouver-l-amour",
+      "title": "Trouver l'amour"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b47fab65-a6a7-4ec7-8a30-f2d9e51c4b4a",
+      "title": "Trouver l'amour - Saison 1",
+      "programSlug": "trouver-l-amour-saison-1",
+      "programUrl": "/programme/antenne-reunion/trouver-l-amour-saison-1",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 07:20:00+00",
+      "endTime": "2026-04-20 08:15:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 07:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

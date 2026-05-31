@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "john-russell",
+  "name": "John Russell",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Russell%20Dan%20Troop%20Lawman%201959.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1921-01-03",
+  "nationality": "États-Unis",
+  "jobTitle": "officier",
+  "externalIds": {
+    "wikidata": "Q1030465",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Russell_(acteur)",
+    "imdb": "nm0751245",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "rio-bravo",
+      "title": "Rio Bravo"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

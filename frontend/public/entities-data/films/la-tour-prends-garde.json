@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "la-tour-prends-garde",
+  "title": "La Tour, prends garde !",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La Tour, prends garde !"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Français et Bavarois mènent la guerre contre Marie-Thérèse d'Autriche, alliée des Anglais et des Turcs. La Tour et sa troupe de comédiens itinérants ont rejoint, en Bavière, les armées du roi Louis XV pour y donner des représentations. Au camp, durant un spectacle, La Tour nargue la cour...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1958,
+  "durationMinutes": 82,
+  "cast": [
+    {
+      "qid": "Q168359",
+      "slug": "jean-marais",
+      "name": "Jean Marais",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438926",
+      "slug": "eleonora-rossi-drago",
+      "name": "Eleonora Rossi Drago",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2831397",
+      "slug": "albert-michel",
+      "name": "Albert Michel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289068",
+      "slug": "bernadette-lafont",
+      "name": "Bernadette Lafont",
+      "role": "actor"
+    },
+    {
+      "qid": "Q528075",
+      "slug": "cathia-caro",
+      "name": "Cathia Caro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965232",
+      "slug": "christian-duvaleix",
+      "name": "Christian Duvaleix",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2373976",
+      "slug": "dominique-davray",
+      "name": "Dominique Davray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1663127",
+      "slug": "jacques-marin",
+      "name": "Jacques Marin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1685631",
+      "slug": "jean-lara",
+      "name": "Jean Lara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3173851",
+      "slug": "jean-paredes",
+      "name": "Jean Parédès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295834",
+      "slug": "jean-pierre-leaud",
+      "name": "Jean-Pierre Léaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3240822",
+      "slug": "liliane-bert",
+      "name": "Liliane Bert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1448424",
+      "slug": "marcel-peres",
+      "name": "Marcel Pérès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3320606",
+      "slug": "monette-dinay",
+      "name": "Monette Dinay",
+      "role": "actor"
+    },
+    {
+      "qid": "Q288970",
+      "slug": "nadja-tiller",
+      "name": "Nadja Tiller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3370389",
+      "slug": "paul-emile-deiber",
+      "name": "Paul-Émile Deiber",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3103031",
+    "slug": "georges-lampin",
+    "name": "Georges Lampin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

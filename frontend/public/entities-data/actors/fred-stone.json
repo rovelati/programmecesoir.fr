@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "fred-stone",
+  "name": "Fred Stone",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nvayearbook192610nati%200018%20Fred%20Stone.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1873-08-19",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q373738",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fred_Stone",
+    "imdb": "nm0831872",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "desirs-secrets",
+      "title": "Désirs secrets"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

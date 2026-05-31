@@ -1,0 +1,90 @@
+{
+  "type": "film",
+  "slug": "t-i-m",
+  "title": "T.I.M.",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "T.I.M."
+  ],
+  "genres": [
+    "film et téléfilm fantastique",
+    "film ou téléfilm de science-fiction",
+    "thriller"
+  ],
+  "description": "Une jeune ingénieure travaille sur une intelligence artificielle humanoïde. L'attachement programmé de celle-ci pour sa propriétaire tourne à l'obsession.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2023,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q19956730",
+      "slug": "georgina-campbell",
+      "name": "Georgina Campbell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21870250",
+      "slug": "eamon-farren",
+      "name": "Eamon Farren",
+      "role": "actor"
+    },
+    {
+      "qid": "Q93208662",
+      "slug": "mark-rowley",
+      "name": "Mark Rowley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q454790",
+      "slug": "amara-karan",
+      "name": "Amara Karan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208746",
+      "slug": "nathaniel-parker",
+      "name": "Nathaniel Parker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q113395502",
+      "slug": "tom-bell",
+      "name": "Tom Bell",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q7576001",
+    "slug": "spencer-brown",
+    "name": "Spencer Brown",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,85 @@
+{
+  "type": "actor",
+  "slug": "hugh-dillon",
+  "name": "Hugh Dillon",
+  "worksCount": 1,
+  "description": "Canadian musician and actor",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hugh.Dillon2015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-05-31",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q377620",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Hugh_Dillon",
+    "imdb": "nm0227003",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "the-killing",
+      "title": "The Killing"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "82c6d32e-e639-4042-ad48-986f5e9d7997",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 18:55:00+00",
+      "endTime": "2026-04-19 19:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5249034e-3a79-4f5c-abaa-57d7d7fda36f",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 19:54:00+00",
+      "endTime": "2026-04-19 20:58:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "76d25a74-c6fe-46f8-84bd-e9323e7ce6e6",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-24 22:07:00+00",
+      "endTime": "2026-04-24 23:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f3f6b132-b864-4320-b80d-03ff870bf553",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-24 23:05:00+00",
+      "endTime": "2026-04-25 00:02:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 18:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

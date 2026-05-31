@@ -1,0 +1,328 @@
+{
+  "type": "series",
+  "slug": "les-enquetes-de-vera",
+  "title": "Les enquêtes de Vera",
+  "airingsCount": 20,
+  "sourceTitles": [
+    "Les enquêtes de Vera - Saison 1",
+    "Les enquêtes de Vera - Saison 2",
+    "Les enquêtes de Vera - Saison 3"
+  ],
+  "genres": [
+    "fiction de détective",
+    "série télévisée dramatique",
+    "adaptation d'un roman à la télévision"
+  ],
+  "description": "La famille Mardsen vit un véritable drame. Alors que la mère se trouvait dans le jardin, Daniel, le père, a été abattu de deux balles dans la tête. Quant aux deux filles, Mira et Karen, elles ont été enlevées. Mira, de son vrai nom Amira Saleh, avait été adoptée par le couple quelques années plus tôt en Irak...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 20
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9d89de40-134e-4904-8c16-c34e2dcad09b",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-rhone-alpes/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "88bce7f0-aa1b-4f52-9036-7cab0de93c7b",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4c149f7c-c3ff-4d29-b6b2-e18bf8faacf1",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-alpes/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0a97edda-b0e5-4ab6-8c28-599e2c9104f4",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-alsace/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ed3e1315-5dac-432a-9742-3e883bb1de60",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-aquitaine/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7a744b87-0b91-461a-a51c-468c0befb52a",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-basse-normandie/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ca8b0dd7-dafe-4d13-b62d-dfddf6502ac3",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-bourgogne/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a834f069-32f1-4876-ab81-f8826aa78c87",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-bretagne/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "824bb029-b265-442b-b6a4-6b1cc1028615",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-centre/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a7b2f314-63c3-4d18-a120-734bda801eb6",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-champagne-ardenne/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "23266883-e73b-444f-9f6f-ff6cb8b88c91",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-franche-comte/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "1fc08646-3f12-4298-9220-e00f2c5e06dd",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-haute-normandie/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4daea3fb-0f40-4cc5-ba6e-99f72b20a9d1",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-languedoc/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "696c5d57-c609-4be0-a2e7-9705f21e9a47",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-limousin/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "09e4afec-52b5-42b1-b34e-0fdeaf10474b",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-lorraine/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "82ef71c0-3202-4cbc-a6c6-c3909e7b3d58",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-nord-pas-de-calais/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e7a608b5-e8ab-48a6-b0c7-04926dd7d945",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-paris-ile-de-france/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "efca6b89-d8f8-4a2b-beb8-1db3a6ffe078",
+      "title": "Les enquêtes de Vera - Saison 7",
+      "programSlug": "les-enquetes-de-vera-saison-7",
+      "programUrl": "/programme/france-3-pays-de-loire/les-enquetes-de-vera-saison-7",
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "startTime": "2026-04-20 12:05:00+00",
+      "endTime": "2026-04-20 13:45:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2011,
+  "numberOfSeasons": 14,
+  "cast": [
+    {
+      "qid": "Q229952",
+      "slug": "brenda-blethyn",
+      "name": "Brenda Blethyn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5236494",
+      "slug": "david-leon",
+      "name": "David Leon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6391033",
+      "slug": "kenny-doughty",
+      "name": "Kenny Doughty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6271266",
+      "slug": "jon-morrison",
+      "name": "Jon Morrison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q517935",
+      "slug": "cush-jumbo",
+      "name": "Cush Jumbo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24572132",
+      "slug": "kingsley-ben-adir",
+      "name": "Kingsley Ben-Adir",
+      "role": "actor"
+    },
+    {
+      "qid": "Q541803",
+      "slug": "wunmi-mosaku",
+      "name": "Wunmi Mosaku",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7153247",
+      "slug": "paul-ritter",
+      "name": "Paul Ritter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5126137",
+      "slug": "clare-calbraith",
+      "name": "Clare Calbraith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16745386",
+      "slug": "lisa-hammond",
+      "name": "Lisa Hammond",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 12:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

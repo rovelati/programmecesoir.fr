@@ -1,0 +1,113 @@
+{
+  "type": "actor",
+  "slug": "billy-campbell",
+  "name": "Billy Campbell",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Billy%20Campbell%202013%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1959-07-07",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q553813",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Billy_Campbell",
+    "imdb": "nm0001004",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dracula",
+      "title": "Dracula"
+    },
+    {
+      "type": "series",
+      "slug": "the-killing",
+      "title": "The Killing"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b7403449-ac98-42e0-9bbe-2be9439c396b",
+      "title": "Dracula",
+      "programSlug": "dracula",
+      "programUrl": "/programme/canal-box-office/dracula",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 16:43:00+00",
+      "endTime": "2026-04-19 18:48:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "82c6d32e-e639-4042-ad48-986f5e9d7997",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 18:55:00+00",
+      "endTime": "2026-04-19 19:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5249034e-3a79-4f5c-abaa-57d7d7fda36f",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 19:54:00+00",
+      "endTime": "2026-04-19 20:58:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "59f89142-9667-40a6-adf8-b098eac3855c",
+      "title": "Dracula",
+      "programSlug": "dracula",
+      "programUrl": "/programme/canal-box-office/dracula",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 21:44:00+00",
+      "endTime": "2026-04-21 23:48:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "76d25a74-c6fe-46f8-84bd-e9323e7ce6e6",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-24 22:07:00+00",
+      "endTime": "2026-04-24 23:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f3f6b132-b864-4320-b80d-03ff870bf553",
+      "title": "The Killing - Saison 1",
+      "programSlug": "the-killing-saison-1",
+      "programUrl": "/programme/polar/the-killing-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-24 23:05:00+00",
+      "endTime": "2026-04-25 00:02:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 16:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

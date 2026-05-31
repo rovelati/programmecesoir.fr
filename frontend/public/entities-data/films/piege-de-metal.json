@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "piege-de-metal",
+  "title": "Piège de métal",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Piège de métal"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "L'hôpital de Castle Heights, à l'intérieur duquel sont cachés des millions de dollars, doit être démoli dans moins de huit heures. Trois personnes sont prêtes à tout afin de récupérer l'argent. Un gardien de prison qui doit payer le traitement contre le cancer de sa fille, un ex-soldat qui travaille sur le chantier et un impitoyable chef de gang qui prétend que le détenu qui a caché le butin l'a choisi comme destinataire légitime. Qui va réussir à retrouver et à s'emparer du magot ?...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

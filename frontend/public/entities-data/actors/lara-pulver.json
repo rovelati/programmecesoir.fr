@@ -1,0 +1,186 @@
+{
+  "type": "actor",
+  "slug": "lara-pulver",
+  "name": "Lara Pulver",
+  "worksCount": 2,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lara%20Pulver%20in%20Fleming%20in%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1980-09-01",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q263691",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lara_Pulver",
+    "imdb": "nm3091498",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "robin-des-bois",
+      "title": "Robin des Bois"
+    },
+    {
+      "type": "series",
+      "slug": "sherlock",
+      "title": "Sherlock"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ee34634-b005-49d6-ba40-ad3bfac87f7c",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvguadeloupefr/sherlock",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-19 11:27:00+00",
+      "endTime": "2026-04-19 12:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bb02b7b6-8d42-49a5-b352-2a2ff9b076e1",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvguyanefr/sherlock",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-19 11:27:00+00",
+      "endTime": "2026-04-19 12:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9aa4d62a-ebec-4014-9d6f-52c16c897776",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvmartiniquefr/sherlock",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-19 11:27:00+00",
+      "endTime": "2026-04-19 12:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4f3fecc5-076a-4463-8a80-1cf0e6064c47",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/tvsudmarseillefr/sherlock",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-19 11:27:00+00",
+      "endTime": "2026-04-19 12:54:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dd4c696f-d4e7-4849-809a-b310ee4c9052",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvguadeloupefr/sherlock",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 19:40:00+00",
+      "endTime": "2026-04-20 21:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e7c65394-6bd1-4946-a1d6-5e23021b5c4f",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvguyanefr/sherlock",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 19:40:00+00",
+      "endTime": "2026-04-20 21:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "af8c64dd-19f2-4ab0-a71a-4552cafd602a",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/atvmartiniquefr/sherlock",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 19:40:00+00",
+      "endTime": "2026-04-20 21:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "9d0333fa-1242-44ac-b230-65bc4d9c955c",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/tv7-bordeaux/sherlock",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 19:40:00+00",
+      "endTime": "2026-04-20 21:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e6073e2d-2012-4840-8357-d6a878887735",
+      "title": "Sherlock",
+      "programSlug": "sherlock",
+      "programUrl": "/programme/tvsudmarseillefr/sherlock",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 19:40:00+00",
+      "endTime": "2026-04-20 21:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0fefd245-4de3-4642-bb21-7938b45ba09b",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:05:00+00",
+      "endTime": "2026-04-25 04:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f2d733cd-4e88-4e57-bb65-733405d812e3",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/game-one/robin-des-bois",
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "startTime": "2026-04-25 04:05:00+00",
+      "endTime": "2026-04-25 04:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "b11f0455-a1c3-4734-a476-fe786ff73f4b",
+      "title": "Robin des Bois",
+      "programSlug": "robin-des-bois",
+      "programUrl": "/programme/canal-j/robin-des-bois",
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "startTime": "2026-04-25 04:15:00+00",
+      "endTime": "2026-04-25 04:25:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 11:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

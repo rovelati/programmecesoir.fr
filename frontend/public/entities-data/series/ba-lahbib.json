@@ -1,0 +1,60 @@
+{
+  "type": "series",
+  "slug": "ba-lahbib",
+  "title": "Ba Lahbib",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Ba Lahbib"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Un veuf s'installe tour à tour chez ses enfants pour combler la solitude. Son ingérence provoque des tensions, mais derrière le chaos se cache son désir de réunir sa famille.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3599b8e5-f826-4506-a5ca-544214abdf9d",
+      "title": "Ba Lahbib",
+      "programSlug": "ba-lahbib",
+      "programUrl": "/programme/2m-maroc/ba-lahbib",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-23 02:10:00+00",
+      "endTime": "2026-04-23 03:05:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-23 02:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

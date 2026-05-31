@@ -1,0 +1,71 @@
+{
+  "type": "film",
+  "slug": "jungle-run",
+  "title": "Jungle Run",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Jungle Run"
+  ],
+  "genres": [
+    "Telefilms"
+  ],
+  "description": "Sans nouvelles de leur père disparu en Amazonie, trois frères et soeurs partent à sa recherche. Menés par un guide local, ils se retrouvent aussitôt confrontés à la jungle : ses boas constrictor, ses alligators, ses araignées et autres joyeusetés. Ils ignorent qu'une menace plus terrible encore les attend...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mcm.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5c1a7cdf-eceb-4f4d-82b7-c7dfccb514c9",
+      "title": "Jungle Run",
+      "programSlug": "jungle-run",
+      "programUrl": "/programme/mcm/jungle-run",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-19 17:30:00+00",
+      "endTime": "2026-04-19 19:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0bf95014-5a3a-48e1-a918-86ec3d66fbd6",
+      "title": "Jungle Run",
+      "programSlug": "jungle-run",
+      "programUrl": "/programme/mcm/jungle-run",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-23 20:35:00+00",
+      "endTime": "2026-04-23 22:10:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 17:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

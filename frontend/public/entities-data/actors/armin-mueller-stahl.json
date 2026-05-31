@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "armin-mueller-stahl",
+  "name": "Armin Mueller-Stahl",
+  "worksCount": 2,
+  "description": "acteur allemand",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Armin%20Mueller-Stahl%20(wiki).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1930-12-17",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q164117",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Armin_Mueller-Stahl",
+    "imdb": "nm0000090",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "anges-et-demons",
+      "title": "Anges et démons"
+    },
+    {
+      "type": "film",
+      "slug": "l-enquete",
+      "title": "L'enquête"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

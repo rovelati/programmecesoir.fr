@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "james-nolan",
+  "name": "James Nolan",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Nolan%20in%20Dick%20Tracy%20Meets%20Gruesome.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1915-11-29",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q19400085",
+    "wikipedia": "https://fr.wikipedia.org/wiki/James_Nolan_(acteur)",
+    "imdb": "nm0634278",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-amants-de-la-nuit",
+      "title": "Les amants de la nuit"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "lucienne-dans-un-monde-sans-solitude",
+  "title": "Lucienne dans un monde sans solitude",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Lucienne dans un monde sans solitude"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Deux jumelles vivent dans un monde où chacun possède son double et où la solitude n'existe pas. Un soir, l'une d'elles rejoint une silhouette qui semble être seule.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

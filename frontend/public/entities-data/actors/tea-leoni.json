@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "tea-leoni",
+  "name": "Téa Leoni",
+  "worksCount": 1,
+  "description": "actrice et cinéaste américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/T%C3%A9aLeoniJun07.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-02-25",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q202475",
+    "wikipedia": "https://fr.wikipedia.org/wiki/T%C3%A9a_Leoni",
+    "imdb": "nm0000495",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "braqueurs-amateurs",
+      "title": "Braqueurs amateurs"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

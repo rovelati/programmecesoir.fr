@@ -1,0 +1,71 @@
+{
+  "type": "film",
+  "slug": "tbib-al-village",
+  "title": "Tbib al village",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Tbib al village"
+  ],
+  "genres": [
+    "Telefilms"
+  ],
+  "description": null,
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fcf2971e-dea6-429d-a672-ef72a0be4842",
+      "title": "Tbib al village",
+      "programSlug": "tbib-al-village",
+      "programUrl": "/programme/2m-maroc/tbib-al-village",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-21 09:35:00+00",
+      "endTime": "2026-04-21 11:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "59517d5c-acfd-4d4a-a296-e3da0f6f7757",
+      "title": "Tbib al village",
+      "programSlug": "tbib-al-village",
+      "programUrl": "/programme/2m-maroc/tbib-al-village",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-22 00:35:00+00",
+      "endTime": "2026-04-22 01:55:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 09:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

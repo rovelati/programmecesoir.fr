@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "steve-coogan",
+  "name": "Steve Coogan",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Coogan%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-10-14",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q316709",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Steve_Coogan",
+    "imdb": "nm0176869",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-nuit-au-musee-2",
+      "title": "La nuit au musée 2"
+    },
+    {
+      "type": "film",
+      "slug": "la-nuit-au-musee",
+      "title": "La nuit au musée"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

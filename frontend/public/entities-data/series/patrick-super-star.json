@@ -1,0 +1,288 @@
+{
+  "type": "series",
+  "slug": "patrick-super-star",
+  "title": "Patrick Super Star",
+  "airingsCount": 378,
+  "sourceTitles": [
+    "Patrick Super Star"
+  ],
+  "genres": [
+    "série télévisée comique",
+    "série télévisée pour la jeunesse"
+  ],
+  "description": "Patrick, l'étoile de mer, poursuit son show. Au fil des émissions, il s'intéresse à l'ambiance nocturne de Bikini Bottom, apprend à faire de l'exercice physique et à piloter un bateau ou encore enquête dans une usine aux activités louches. Sa famille farfelue s'implique dans la réussite de sa carrière, parfois même un peu trop.",
+  "descriptionAi": "Cette série télévisée comique pour la jeunesse suit Patrick, l'étoile de mer, dans son ascension télévisuelle. Depuis 2021, l'ambiance est décalée et pleine de bonne humeur, mêlant aventures loufoques et leçons de vie humoristiques. Ce qui captive, c'est son parcours improbable : qu'il explore la nuit de Bikini Bottom, s'essaie au sport ou mène une enquête, ses initiatives sont toujours source de gags. L'implication de sa famille excentrique dans sa carrière ajoute une touche de chaos familial très drôle. Une comédie légère et inventive, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeonplus1fr.svg",
+      "airingsCount": 132
+    },
+    {
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon.png",
+      "airingsCount": 89
+    },
+    {
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon1.svg",
+      "airingsCount": 89
+    },
+    {
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon-teen.png",
+      "airingsCount": 68
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "94ac2b23-bea4-4ffa-b6f0-526e0cee5660",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon/patrick-super-star",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 07:55:00+00",
+      "endTime": "2026-04-19 08:17:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b62f444a-cbc3-4ba3-828b-c5116735adbe",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon/patrick-super-star",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 08:17:00+00",
+      "endTime": "2026-04-19 08:39:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "291f3367-9d4e-416c-bafc-cce19721d29d",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeonplus1fr/patrick-super-star",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 08:55:00+00",
+      "endTime": "2026-04-19 09:17:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0ecbc90e-4657-423c-8fe4-1df2ac9eb827",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon1/patrick-super-star",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 08:55:00+00",
+      "endTime": "2026-04-19 09:17:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b4032ecf-9499-4885-a356-9c5a96511d83",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeonplus1fr/patrick-super-star",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 09:17:00+00",
+      "endTime": "2026-04-19 09:39:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6cb21b2b-491c-480d-acb0-ed727bbc2155",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon1/patrick-super-star",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 09:17:00+00",
+      "endTime": "2026-04-19 09:39:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9383eb19-e382-4ff4-8fc1-ffa851ed6d50",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon-teen/patrick-super-star",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 14:41:00+00",
+      "endTime": "2026-04-19 15:03:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5e43d788-49c3-442b-af02-73bf01cdfeaf",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon-teen/patrick-super-star",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 18:05:00+00",
+      "endTime": "2026-04-19 18:27:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7715fbb4-8e1b-46f2-b778-467e30f9f081",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon-teen/patrick-super-star",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 18:27:00+00",
+      "endTime": "2026-04-19 18:49:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6cca47d2-163d-4f7b-a745-3f7f16a2a248",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon-teen/patrick-super-star",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 19:55:00+00",
+      "endTime": "2026-04-19 20:17:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "64eaebfa-2441-4a09-971a-8659ac21bb72",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon-teen/patrick-super-star",
+      "channelId": "nickelodeon-teen",
+      "channelName": "Nickelodeon Teen",
+      "channelSlug": "nickelodeon-teen",
+      "startTime": "2026-04-19 20:17:00+00",
+      "endTime": "2026-04-19 20:38:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "55edbd98-cea8-4045-9cb7-c06099969a84",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon/patrick-super-star",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 23:20:00+00",
+      "endTime": "2026-04-19 23:43:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b72c6867-7c00-49e4-b93b-93b20689d490",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon/patrick-super-star",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 23:43:00+00",
+      "endTime": "2026-04-20 00:07:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b14a1e2a-12ac-4883-a748-11ff9c1965f3",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeonplus1fr/patrick-super-star",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 00:20:00+00",
+      "endTime": "2026-04-20 00:43:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "55431b07-09bc-49c0-a53e-dd86fde14bc8",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeonplus1fr/patrick-super-star",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 00:43:00+00",
+      "endTime": "2026-04-20 01:07:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e9fd41c0-ca8f-44a6-9467-0849a3cbd5ac",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon/patrick-super-star",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 04:00:00+00",
+      "endTime": "2026-04-20 04:23:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c258dbea-ee82-4a44-83ab-f3c1d434ce5f",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon/patrick-super-star",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 04:23:00+00",
+      "endTime": "2026-04-20 04:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7e729db0-e2d5-466f-89a8-0b974135e7a8",
+      "title": "Patrick Super Star",
+      "programSlug": "patrick-super-star",
+      "programUrl": "/programme/nickelodeon/patrick-super-star",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 04:45:00+00",
+      "endTime": "2026-04-20 04:59:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q103821269",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Patrick_Super_Star",
+    "imdb": "tt12915960",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:12.477Z",
+  "startYear": 2021,
+  "numberOfSeasons": 4,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 07:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

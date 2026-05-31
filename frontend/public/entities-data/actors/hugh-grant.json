@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "hugh-grant",
+  "name": "Hugh Grant",
+  "worksCount": 2,
+  "description": "acteur et producteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hugh%20Grant%20in%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-09-09",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q163286",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Hugh_Grant",
+    "imdb": "nm0000424",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "heretic",
+      "title": "Heretic"
+    },
+    {
+      "type": "film",
+      "slug": "le-come-back",
+      "title": "Le come-back"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jacques-marin",
+  "name": "Jacques Marin",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Marin%20in%20Charade%2005%20(2).png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1919-09-09",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1663127",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jacques_Marin_(acteur)",
+    "imdb": "nm0547462",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "comment-voler-un-million-de-dollars",
+      "title": "Comment voler un million de dollars"
+    },
+    {
+      "type": "film",
+      "slug": "la-tour-prends-garde",
+      "title": "La Tour, prends garde !"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

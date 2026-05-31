@@ -1,0 +1,50 @@
+{
+  "type": "actor",
+  "slug": "dean-martin",
+  "name": "Dean Martin",
+  "worksCount": 4,
+  "description": "chanteur et acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dean%20Martin%20-%20publicity.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1917-06-07",
+  "nationality": "États-Unis",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q215359",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dean_Martin",
+    "imdb": "nm0001509",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-pitre-au-pensionnat",
+      "title": "Un pitre au pensionnat"
+    },
+    {
+      "type": "film",
+      "slug": "amour-delices-et-golf",
+      "title": "Amour, délices et golf"
+    },
+    {
+      "type": "film",
+      "slug": "artistes-et-modeles",
+      "title": "Artistes et modèles"
+    },
+    {
+      "type": "film",
+      "slug": "rio-bravo",
+      "title": "Rio Bravo"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

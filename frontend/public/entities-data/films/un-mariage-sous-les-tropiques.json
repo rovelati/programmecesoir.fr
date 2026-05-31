@@ -1,0 +1,55 @@
+{
+  "type": "film",
+  "slug": "un-mariage-sous-les-tropiques",
+  "title": "Un mariage sous les tropiques",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Un mariage sous les tropiques"
+  ],
+  "genres": [
+    "Téléfilm",
+    "Téléfilms"
+  ],
+  "description": "Sarah est passionnée par son travail et l'écologie. Elle y consacre tout son temps et a un mal fou à s'arrêter pour aller célébrer le mariage de sa meilleure amie à Hawaï, dont elle est le témoin. Sur place, elle rencontre Manu, un des gérants de l'hôtel, lui aussi passionné par son travail et soucieux de préserver sa terre natale. Il se heurte au conservatisme de ses parents. Sarah l'aide à leur proposer des idées convaincantes. Lui, lui ouvre les yeux sur une autre façon de vivre.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

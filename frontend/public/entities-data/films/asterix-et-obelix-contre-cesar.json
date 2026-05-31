@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "asterix-et-obelix-contre-cesar",
+  "title": "Astérix et Obélix contre César",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Astérix et Obélix contre César"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Dans une Gaule occupée par les Romains, vers 50 avant Jésus-Christ, un village d'irréductibles résiste à l'envahisseur grâce à une potion magique préparée par le druide Panoramix. Mais celui-ci est enlevé par le gouverneur romain Détritus, qui veut le forcer à lui donner la formule de son breuvage. Même sous la torture, Panoramix ne révèle rien de ses secrets. Astérix et Obélix se portent à son secours.Découvrez nos cinq anecdotes sur le film.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Asterix.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1999,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q310692",
+      "slug": "christian-clavier",
+      "name": "Christian Clavier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106508",
+      "slug": "gerard-depardieu",
+      "name": "Gérard Depardieu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23301",
+      "slug": "roberto-benigni",
+      "name": "Roberto Benigni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q347635",
+      "slug": "michel-galabru",
+      "name": "Michel Galabru",
+      "role": "actor"
+    },
+    {
+      "qid": "Q722333",
+      "slug": "claude-pieplu",
+      "name": "Claude Piéplu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q965873",
+      "slug": "daniel-prevost",
+      "name": "Daniel Prévost",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1509297",
+      "slug": "pierre-palmade",
+      "name": "Pierre Palmade",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207578",
+      "slug": "laetitia-casta",
+      "name": "Laetitia Casta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q284731",
+      "slug": "arielle-dombasle",
+      "name": "Arielle Dombasle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q576577",
+      "slug": "sim",
+      "name": "Sim",
+      "role": "actor"
+    },
+    {
+      "qid": "Q76450",
+      "slug": "marianne-sagebrecht",
+      "name": "Marianne Sägebrecht",
+      "role": "actor"
+    },
+    {
+      "qid": "Q61510",
+      "slug": "gottfried-john",
+      "name": "Gottfried John",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1685186",
+      "slug": "jean-pierre-castaldi",
+      "name": "Jean-Pierre Castaldi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3169986",
+      "slug": "jean-roger-milo",
+      "name": "Jean-Roger Milo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3166232",
+      "slug": "jean-jacques-devaux",
+      "name": "Jean-Jacques Devaux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q101397",
+      "slug": "hardy-kruger-junior",
+      "name": "Hardy Krüger junior",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q471010",
+    "slug": "claude-zidi",
+    "name": "Claude Zidi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

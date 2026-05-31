@@ -1,0 +1,131 @@
+{
+  "type": "film",
+  "slug": "american-outlaws",
+  "title": "American Outlaws",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "American Outlaws"
+  ],
+  "genres": [
+    "western",
+    "film et téléfilm d'action"
+  ],
+  "description": "Au Texas, durant la Guerre de Sécession. Jesse James est surpris par une troupe de la garde nationale alors qu'il est occupé à labourer les terres de la ferme familiale. Frappé par l'un des intrus, Jesse est gravement blessé. Enfin rétabli, il décide de participer aux activités de son frère Frank...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2000,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q172035",
+      "slug": "colin-farrell",
+      "name": "Colin Farrell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314673",
+      "slug": "scott-caan",
+      "name": "Scott Caan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q201994",
+      "slug": "ali-larter",
+      "name": "Ali Larter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269212",
+      "slug": "nathaniel-arcand",
+      "name": "Nathaniel Arcand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q320651",
+      "slug": "gabriel-macht",
+      "name": "Gabriel Macht",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18916",
+      "slug": "gregory-smith",
+      "name": "Gregory Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1346123",
+      "slug": "harris-yulin",
+      "name": "Harris Yulin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2546373",
+      "slug": "will-mccormack",
+      "name": "Will McCormack",
+      "role": "actor"
+    },
+    {
+      "qid": "Q39989",
+      "slug": "ronny-cox",
+      "name": "Ronny Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271637",
+      "slug": "terry-o-quinn",
+      "name": "Terry O'Quinn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q544465",
+      "slug": "kathy-bates",
+      "name": "Kathy Bates",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41233",
+      "slug": "timothy-dalton",
+      "name": "Timothy Dalton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q261926",
+      "slug": "muse-watson",
+      "name": "Muse Watson",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q518696",
+    "slug": "les-mayfield",
+    "name": "Les Mayfield",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

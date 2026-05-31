@@ -1,0 +1,118 @@
+{
+  "type": "film",
+  "slug": "apres-moi-le-deluge",
+  "title": "Après moi le déluge",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Après moi le déluge"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Fraîchement émoulu d'Oxford, un étudiant issu d'une puissante famille industrielle tente d'appliquer ses connaissances très livresques au monde du travail. Plein d'ardeur et d'illusion, il est embauché dans l'usine de son oncle où il devra gravir les divers échelons en commençant comme simple ouvrier...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1959,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q1655483",
+      "slug": "ian-carmichael",
+      "name": "Ian Carmichael",
+      "role": "actor"
+    },
+    {
+      "qid": "Q177984",
+      "slug": "peter-sellers",
+      "name": "Peter Sellers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q51506",
+      "slug": "richard-attenborough",
+      "name": "Richard Attenborough",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230143",
+      "slug": "margaret-rutherford",
+      "name": "Margaret Rutherford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q711129",
+      "slug": "terry-thomas",
+      "name": "Terry-Thomas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q934270",
+      "slug": "dennis-price",
+      "name": "Dennis Price",
+      "role": "actor"
+    },
+    {
+      "qid": "Q139712",
+      "slug": "john-le-mesurier",
+      "name": "John Le Mesurier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3294532",
+      "slug": "marne-maitland",
+      "name": "Marne Maitland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440360",
+      "slug": "miles-malleson",
+      "name": "Miles Malleson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7926118",
+      "slug": "victor-maddern",
+      "name": "Victor Maddern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6660141",
+      "slug": "liz-fraser",
+      "name": "Liz Fraser",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1699374",
+    "slug": "john-boulting",
+    "name": "John Boulting",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "claire-nadeau",
+  "name": "Claire Nadeau",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Claire%20Nadeau%2C%202011%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1945-06-01",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2975094",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Claire_Nadeau",
+    "imdb": "nm0618795",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "god-save-the-tuche",
+      "title": "God Save the Tuche"
+    },
+    {
+      "type": "film",
+      "slug": "les-tuche-3",
+      "title": "Les Tuche 3"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7d97f242-41da-4815-9b49-2edcf1ac5c70",
+      "title": "Les Tuche 3",
+      "programSlug": "les-tuche-3",
+      "programUrl": "/programme/ocs/les-tuche-3",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 11:30:00+00",
+      "endTime": "2026-04-20 13:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "303d5de5-cafd-45cd-8704-842fc64feaa9",
+      "title": "Les Tuche 3",
+      "programSlug": "les-tuche-3",
+      "programUrl": "/programme/ocs/les-tuche-3",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:01:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 11:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

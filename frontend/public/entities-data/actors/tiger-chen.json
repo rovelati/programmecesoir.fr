@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "tiger-chen",
+  "name": "Tiger Chen",
+  "worksCount": 2,
+  "description": "acteur et artiste martial chinois",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Man%20of%20Tai%20Chi%2003%20(9780252222).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-03-03",
+  "nationality": "République populaire de Chine",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q15911124",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tiger_Chen",
+    "imdb": "nm0155392",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-homme-du-tai-chi",
+      "title": "L'homme du Tai Chi"
+    },
+    {
+      "type": "film",
+      "slug": "man-of-tai-chi",
+      "title": "Man of Tai Chi"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bc6ffbc8-b3bd-4edb-9765-8dd983551db2",
+      "title": "Man of Tai Chi",
+      "programSlug": "man-of-tai-chi",
+      "programUrl": "/programme/canal-grand-ecran/man-of-tai-chi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-26 05:50:00+00",
+      "endTime": "2026-04-26 07:32:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-26 05:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

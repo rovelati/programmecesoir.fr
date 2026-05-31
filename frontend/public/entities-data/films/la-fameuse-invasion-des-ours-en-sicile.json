@@ -1,0 +1,74 @@
+{
+  "type": "film",
+  "slug": "la-fameuse-invasion-des-ours-en-sicile",
+  "title": "La fameuse invasion des ours en Sicile",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "La fameuse invasion des ours en Sicile"
+  ],
+  "genres": [
+    "Film",
+    "Cinema",
+    "Film d'animation"
+  ],
+  "description": "Alors que la neige envahit les vallées, Gédéone, un ménestrel, et sa fille se réfugient dans une caverne. Ils réveillent par accident un ours et, pour l'amadouer, lui content l'histoire de Léonce, le roi des ours. Un jour, alors qu'il joue avec son fils Tonio dans une rivière, celui-ci disparaît. Léonce, désespéré, ne gouverne plus. L'hiver vient et il n'y a rien à manger pendant l'hibernation. Léonce décide de demander des vivres aux hommes et compte bien retrouver Tonio. Avec l'aide de son armée et d'un magicien, Léonce finit par retrouver son fils Tonio dans la plaine qu'il convoitait et prend la tête du pays. Mais sa conquête aura des conséquences auxquelles il ne s'attendait pas...",
+  "descriptionAi": "Ce film d'animation poétique mêle aventure et conte philosophique dans un univers visuellement somptueux. L'ambiance oscille entre merveilleux et mélancolie, portée par une esthétique inspirée de la peinture classique. L'histoire, bien plus qu'une simple épopée, interroge avec finesse la nature du pouvoir, le choc des cultures et le prix de la civilisation. Sa profondeur narrative, servie par une animation artisanale d'une grande beauté, captive autant les enfants que les adultes. Une fable intemporelle et magnifique qui invite à la réflexion. Ne manquez pas cette pépite du cinéma d'animation à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "via-matele",
+      "channelName": "Vià MATÉLÉ",
+      "channelSlug": "via-matele",
+      "channelNumber": null,
+      "logoUrl": "/loghi/via-matele.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "15236e7a-4b1d-451d-ae73-3005d0ba3397",
+      "title": "La fameuse invasion des ours en Sicile",
+      "programSlug": "la-fameuse-invasion-des-ours-en-sicile",
+      "programUrl": "/programme/cine-family/la-fameuse-invasion-des-ours-en-sicile",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-19 17:30:00+00",
+      "endTime": "2026-04-19 18:50:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q28214950",
+    "wikipedia": "https://fr.wikipedia.org/wiki/La_Fameuse_Invasion_des_ours_en_Sicile",
+    "imdb": "tt6284064",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:18.327Z",
+  "year": 2019,
+  "durationMinutes": 85,
+  "cast": [],
+  "director": {
+    "qid": "Q971886",
+    "slug": "lorenzo-mattotti",
+    "name": "Lorenzo Mattotti",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 17:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

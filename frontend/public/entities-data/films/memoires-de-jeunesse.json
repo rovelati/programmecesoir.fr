@@ -1,0 +1,164 @@
+{
+  "type": "film",
+  "slug": "memoires-de-jeunesse",
+  "title": "Mémoires de jeunesse",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Mémoires de jeunesse"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm biographique",
+    "adaptation cinématographique",
+    "film ou téléfilm historique"
+  ],
+  "description": "Dans les années 1910, Vera Brittain se rêve écrivain, au grand dam de sa famille fortunée. Elle est très proche de son jeune frère Edward et de son ami Roland Leighton. Celui-ci décèle le talent de la jeune femme et l'encourage à poursuivre sa voie. Les deux jeunes gens tombent amoureux et se fiancent. Mais la Grande Guerre les séparent, Roland et Edward se sont tous les deux engagés. Pour suivre l'homme qu'elle aime et servir son pays, Vera interrompt ses études à Oxford et devient infirmière sur le front en France. Elle tente par tous les moyens d'avoir des nouvelles des deux hommes et nourrit des idées pacifistes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fdee0173-5282-453c-be35-6032c76f026c",
+      "title": "Mémoires de jeunesse",
+      "programSlug": "memoires-de-jeunesse",
+      "programUrl": "/programme/canal-grand-ecran/memoires-de-jeunesse",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 21:27:00+00",
+      "endTime": "2026-04-24 23:32:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 129,
+  "cast": [
+    {
+      "qid": "Q313657",
+      "slug": "colin-morgan",
+      "name": "Colin Morgan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q439314",
+      "slug": "alicia-vikander",
+      "name": "Alicia Vikander",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16239385",
+      "slug": "taron-egerton",
+      "name": "Taron Egerton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313020",
+      "slug": "dominic-west",
+      "name": "Dominic West",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229535",
+      "slug": "emily-watson",
+      "name": "Emily Watson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q357607",
+      "slug": "kit-harington",
+      "name": "Kit Harington",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3179659",
+      "slug": "joanna-scanlan",
+      "name": "Joanna Scanlan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229241",
+      "slug": "miranda-richardson",
+      "name": "Miranda Richardson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2133840",
+      "slug": "nicholas-farrell",
+      "name": "Nicholas Farrell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15485372",
+      "slug": "nicholas-le-prevost",
+      "name": "Nicholas Le Prevost",
+      "role": "actor"
+    },
+    {
+      "qid": "Q433089",
+      "slug": "anna-chancellor",
+      "name": "Anna Chancellor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7702118",
+      "slug": "teresa-churcher",
+      "name": "Teresa Churcher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18589587",
+      "slug": "xavier-atkins",
+      "name": "Xavier Atkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4411986",
+      "slug": "niamh-cusack",
+      "name": "Niamh Cusack",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6272488",
+      "slug": "jonathan-bailey",
+      "name": "Jonathan Bailey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18588195",
+      "slug": "emily-bevan",
+      "name": "Emily Bevan",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q21809719",
+    "slug": "james-kent",
+    "name": "James Kent",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 21:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

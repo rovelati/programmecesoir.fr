@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "caroline-tillette",
+  "name": "Caroline Tillette",
+  "worksCount": 1,
+  "description": "French-Swiss actress",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caroline%20Tillette%20in%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1988-07-16",
+  "nationality": "Suisse",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2940071",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Caroline_Tillette",
+    "imdb": "nm3202512",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "populaire",
+      "title": "Populaire"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3570ad96-9287-4bf4-b060-793278b1860d",
+      "title": "Populaire",
+      "programSlug": "populaire",
+      "programUrl": "/programme/cine-emotion/populaire",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-19 23:51:00+00",
+      "endTime": "2026-04-20 01:39:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "46ca13d0-b830-4c12-97c6-e83de13a0fec",
+      "title": "Populaire",
+      "programSlug": "populaire",
+      "programUrl": "/programme/cine-emotion/populaire",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-24 06:31:00+00",
+      "endTime": "2026-04-24 08:19:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "0bb50723-101d-4422-8cab-5648b19adba1",
+      "title": "Populaire",
+      "programSlug": "populaire",
+      "programUrl": "/programme/cine-emotion/populaire",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 03:59:00+00",
+      "endTime": "2026-04-25 05:48:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 23:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

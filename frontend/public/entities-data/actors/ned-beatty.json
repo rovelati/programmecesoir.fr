@@ -1,0 +1,118 @@
+{
+  "type": "actor",
+  "slug": "ned-beatty",
+  "name": "Ned Beatty",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ned%20Beatty%20at%20the%201990%20Annual%20Emmy%20Awards%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1937-07-06",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q4212",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ned_Beatty",
+    "imdb": "nm0000885",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "superman",
+      "title": "Superman"
+    },
+    {
+      "type": "film",
+      "slug": "juste-cause",
+      "title": "Juste cause"
+    },
+    {
+      "type": "series",
+      "slug": "homicide",
+      "title": "Homicide"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dd661284-851d-410d-a76b-dec244acfeba",
+      "title": "Superman",
+      "programSlug": "superman",
+      "programUrl": "/programme/canal-box-office/superman",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 19:00:00+00",
+      "endTime": "2026-04-20 21:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fc673a01-b065-46ff-8229-30080a241bde",
+      "title": "Superman",
+      "programSlug": "superman",
+      "programUrl": "/programme/canal-box-office/superman",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 16:13:00+00",
+      "endTime": "2026-04-22 18:18:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "02249f5f-e034-4a4d-b00f-a8268336a047",
+      "title": "Homicide - Saison 5",
+      "programSlug": "homicide-saison-5",
+      "programUrl": "/programme/polar/homicide-saison-5",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 18:55:00+00",
+      "endTime": "2026-04-22 19:41:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e8797e93-d932-4bba-9833-293b7abfb9b2",
+      "title": "Homicide - Saison 5",
+      "programSlug": "homicide-saison-5",
+      "programUrl": "/programme/polar/homicide-saison-5",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 19:41:00+00",
+      "endTime": "2026-04-22 20:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "237c80c7-48f2-4133-9ed7-46779ce8b39b",
+      "title": "Homicide - Saison 4",
+      "programSlug": "homicide-saison-4",
+      "programUrl": "/programme/polar/homicide-saison-4",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 22:05:00+00",
+      "endTime": "2026-04-22 22:52:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "054431cb-5a74-420a-a49a-746ca5a54e59",
+      "title": "Homicide - Saison 4",
+      "programSlug": "homicide-saison-4",
+      "programUrl": "/programme/polar/homicide-saison-4",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 22:52:00+00",
+      "endTime": "2026-04-22 23:39:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

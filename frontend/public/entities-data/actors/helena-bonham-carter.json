@@ -1,0 +1,87 @@
+{
+  "type": "actor",
+  "slug": "helena-bonham-carter",
+  "name": "Helena Bonham Carter",
+  "worksCount": 4,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MerchantIvoryCurzMayfair201124%20(9%20of%2028)%20(54154554480)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-05-26",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q170428",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Helena_Bonham_Carter",
+    "imdb": "nm0000307",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-suffragettes",
+      "title": "Les suffragettes"
+    },
+    {
+      "type": "film",
+      "slug": "terminator-renaissance",
+      "title": "Terminator Renaissance"
+    },
+    {
+      "type": "film",
+      "slug": "les-miserables",
+      "title": "Les misérables"
+    },
+    {
+      "type": "film",
+      "slug": "novocaine",
+      "title": "Novocaïne"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7a414086-749b-44a1-af6c-af0a38d32953",
+      "title": "Novocaïne",
+      "programSlug": "novocaine",
+      "programUrl": "/programme/canal-box-office/novocaine",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 23:48:00+00",
+      "endTime": "2026-04-22 01:38:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "2ab3a59d-d90d-49ea-abe8-b51f78b5829f",
+      "title": "Les suffragettes",
+      "programSlug": "les-suffragettes",
+      "programUrl": "/programme/canal-grand-ecran/les-suffragettes",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 23:32:00+00",
+      "endTime": "2026-04-25 01:14:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "80e966ce-93b1-4bea-8594-8f2f73a020c8",
+      "title": "Novocaïne",
+      "programSlug": "novocaine",
+      "programUrl": "/programme/canal/novocaine",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 23:06:00+00",
+      "endTime": "2026-04-26 00:53:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 23:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

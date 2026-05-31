@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "manu-payet",
+  "name": "Manu Payet",
+  "worksCount": 3,
+  "description": "acteur, humoriste, animateur de radio et de télévision français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Manu%20Payet%20Fete%20Musique%202008%20n1.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-12-22",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3286702",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Manu_Payet",
+    "imdb": "nm2176554",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "boule-bill",
+      "title": "Boule & Bill"
+    },
+    {
+      "type": "film",
+      "slug": "radiostars",
+      "title": "Radiostars"
+    },
+    {
+      "type": "film",
+      "slug": "rtt",
+      "title": "RTT"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "85ddd2a1-29db-44a1-8e2f-d9b15dfe66fc",
+      "title": "Boule & Bill",
+      "programSlug": "boule-bill",
+      "programUrl": "/programme/canal-grand-ecran/boule-bill",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 16:15:00+00",
+      "endTime": "2026-04-20 17:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f7cee21b-9787-4fb4-9cf0-ee09695438ea",
+      "title": "Radiostars",
+      "programSlug": "radiostars",
+      "programUrl": "/programme/cine-family/radiostars",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 13:09:00+00",
+      "endTime": "2026-04-21 14:48:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 16:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

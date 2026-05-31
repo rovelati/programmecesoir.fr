@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "le-doulos",
+  "title": "Le doulos",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le doulos"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "néo-noir",
+    "film de détective",
+    "thriller"
+  ],
+  "description": "Maurice Faugel sort de prison. Il n'a qu'une idée en tête : venger la mort de son épouse, Arlette. Il se rend chez son meurtrier, Gilbert Varnove, un receleur, l'abat et s'empare d'un lot de précieux bijoux. Dans le même temps, préparant un casse, il sollicite l'aide de son ami Silien, sans savoir qu'il s'agit d'un \"doulos\", un indicateur de la police dans le jargon du métier. Silien se montre fort accommodant et fournit le matériel nécessaire. Mais au moment du cambriolage, il se présente chez Thérèse, la petite amie de Faugel, et la brutalise pour savoir où celui-ci s'apprête à opérer. Maurice est arrêté. Silien en profite pour déterrer son butin...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1962,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q106255",
+      "slug": "jean-paul-belmondo",
+      "name": "Jean-Paul Belmondo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461111",
+      "slug": "serge-reggiani",
+      "name": "Serge Reggiani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q667488",
+      "slug": "jean-desailly",
+      "name": "Jean Desailly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295257",
+      "slug": "michel-piccoli",
+      "name": "Michel Piccoli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2958498",
+      "slug": "charles-bayard",
+      "name": "Charles Bayard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2958599",
+      "slug": "charles-bouillaud",
+      "name": "Charles Bouillaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965432",
+      "slug": "christian-lude",
+      "name": "Christian Lude",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3013892",
+      "slug": "daniel-crohem",
+      "name": "Daniel Crohem",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1867601",
+      "slug": "dominique-zardi",
+      "name": "Dominique Zardi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3103481",
+      "slug": "georges-sellier",
+      "name": "Georges Sellier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3288835",
+      "slug": "marcel-cuvelier",
+      "name": "Marcel Cuvelier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380306",
+      "slug": "philippe-march",
+      "name": "Philippe March",
+      "role": "actor"
+    },
+    {
+      "qid": "Q964474",
+      "slug": "philippe-nahon",
+      "name": "Philippe Nahon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3426517",
+      "slug": "rene-lefevre",
+      "name": "René Lefèvre",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3434592",
+      "slug": "robert-blome",
+      "name": "Robert Blomé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21634464",
+      "slug": "fabienne-dali",
+      "name": "Fabienne Dali",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q168693",
+    "slug": "jean-pierre-melville",
+    "name": "Jean-Pierre Melville",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

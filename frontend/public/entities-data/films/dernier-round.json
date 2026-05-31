@@ -1,0 +1,89 @@
+{
+  "type": "film",
+  "slug": "dernier-round",
+  "title": "Dernier round",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Dernier round"
+  ],
+  "genres": [
+    "film ou téléfilm de boxe"
+  ],
+  "description": "Aaron, un ancien combattant souffrant d'un handicap mental, trouve du réconfort dans la musique et tombe amoureux de Jana, une immigrante bulgare excentrique. Son frère Bobby, un combattant en pleine ascension, la manipule pour qu'elle défie Aaron...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "83948c6a-3992-4634-b40a-6ccf4bf95ac2",
+      "title": "Dernier round",
+      "programSlug": "dernier-round",
+      "programUrl": "/programme/eurochannel/dernier-round",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-24 05:40:00+00",
+      "endTime": "2026-04-24 07:20:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 150,
+  "cast": [
+    {
+      "qid": "Q729982",
+      "slug": "madhavan",
+      "name": "Madhavan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3521977",
+      "slug": "nassar",
+      "name": "Nassar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7280194",
+      "slug": "radha-ravi",
+      "name": "Radha Ravi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17061056",
+      "slug": "kaali-venkat",
+      "name": "Kaali Venkat",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q22007737",
+    "slug": "sudha-kongara",
+    "name": "Sudha Kongara",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 05:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

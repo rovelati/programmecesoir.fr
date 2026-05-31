@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "une-nuit-au-cinema",
+  "title": "Une nuit au cinéma",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Une nuit au cinéma"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Les origines de l'industrie hollywoodienne coïncident à l'époque avec le lancement d'un nouveau genre, le thriller. A travers des interviews et des extraits de films, retour sur le développement de ses conventions stylistiques. Deux éléments se distinguent dans les thrillers : la récurrence du personnage innocent accusé à tort et l'importance des rôles féminins, de la femme fatale à la fille en détresse.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a4d9a244-4134-4d33-8233-2fc186ba5cd7",
+      "title": "Une nuit au cinéma",
+      "programSlug": "une-nuit-au-cinema",
+      "programUrl": "/programme/tcm-cinema/une-nuit-au-cinema",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-21 04:10:00+00",
+      "endTime": "2026-04-21 05:10:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 04:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

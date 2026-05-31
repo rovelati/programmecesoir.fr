@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "logan-lerman",
+  "name": "Logan Lerman",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Logan%20Lerman.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1992-01-19",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q221068",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Logan_Lerman",
+    "imdb": "nm0503567",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "3h10-pour-yuma",
+      "title": "3h10 pour Yuma"
+    },
+    {
+      "type": "film",
+      "slug": "fury",
+      "title": "Fury"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "chantons-sous-la-pluie",
+  "title": "Chantons sous la pluie",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Chantons sous la pluie"
+  ],
+  "genres": [
+    "comédie romantique",
+    "film ou téléfilm musical",
+    "comédie",
+    "mélodrame"
+  ],
+  "description": "En 1927, Don Lockwood et Lina Lamont, deux stars du cinéma muet, volent de succès en succès et feignent de s'adorer autant à la ville qu'à l'écran. La réalité est plus sombre. Bête et méchante, Lina empoisonne la vie de son partenaire. Un saut dans un taxi peut néanmoins changer bien des choses. Don rencontre ainsi une charmante ingénue, Kathy Selden, tout occupée à courir les cachets dans les music-halls. Entre les deux jeunes gens, le coup de foudre est immédiat et réciproque. Bientôt, la vie de Don et Kathy est transformée par l'amour en une suite ininterrompue de danses, de jeux et de rires, et très vite un nouveau projet...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Singin'%20In%20The%20Rain%20Lobby%20Card%201%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1952,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q73089",
+      "slug": "gene-kelly",
+      "name": "Gene Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q348345",
+      "slug": "donald-o-connor",
+      "name": "Donald O'Connor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q263696",
+      "slug": "debbie-reynolds",
+      "name": "Debbie Reynolds",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235744",
+      "slug": "jean-hagen",
+      "name": "Jean Hagen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1376744",
+      "slug": "millard-mitchell",
+      "name": "Millard Mitchell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q62558",
+      "slug": "cyd-charisse",
+      "name": "Cyd Charisse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230151",
+      "slug": "rita-moreno",
+      "name": "Rita Moreno",
+      "role": "actor"
+    },
+    {
+      "qid": "Q435532",
+      "slug": "mae-clarke",
+      "name": "Mae Clarke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1252302",
+      "slug": "douglas-fowley",
+      "name": "Douglas Fowley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272505",
+      "slug": "kathleen-freeman",
+      "name": "Kathleen Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q442791",
+      "slug": "elaine-stewart",
+      "name": "Elaine Stewart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q469086",
+      "slug": "dawn-addams",
+      "name": "Dawn Addams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2886350",
+      "slug": "pat-conway",
+      "name": "Pat Conway",
+      "role": "actor"
+    },
+    {
+      "qid": "Q519604",
+      "slug": "joi-lansing",
+      "name": "Joi Lansing",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1332676",
+      "slug": "william-schallert",
+      "name": "William Schallert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q513849",
+      "slug": "bess-flowers",
+      "name": "Bess Flowers",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q73089",
+    "slug": "gene-kelly",
+    "name": "Gene Kelly",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

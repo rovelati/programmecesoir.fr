@@ -1,0 +1,125 @@
+{
+  "type": "film",
+  "slug": "loulou",
+  "title": "Loulou",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Loulou"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Nelly a épousé André, un publicitaire auprès de qui elle mène une vie aisée mais sans aucun relief. A l'occasion d'un bal populaire, elle rencontre Loulou, un grand gaillard désinvolte et aux cheveux longs. Fascinée par cet inconnu qui paraît libre, elle ne tarde pas à piquer la jalousie d'André. Nelly revoit Loulou et devient sa maîtresse. Fou de rage, André l'expulse sans ménagement du domicile conjugal. Mais Nelly s'en moque : elle est prête à vivre avec Loulou, à partager sa vie, et même ses petites combines. Elle aime ses coups de gueule au bistrot et ses repas dominicaux chez sa mère. Enceinte de son amant, elle hésite toutefois à garder l'enfant...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3a0402ea-1ec6-4046-9b83-c8c5c51056f5",
+      "title": "Loulou",
+      "programSlug": "loulou",
+      "programUrl": "/programme/cine-festival/loulou",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-21 09:41:00+00",
+      "endTime": "2026-04-21 11:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7df4cb44-9414-472c-a71a-d8807655c3d5",
+      "title": "Loulou",
+      "programSlug": "loulou",
+      "programUrl": "/programme/cine-festival/loulou",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-24 03:26:00+00",
+      "endTime": "2026-04-24 05:07:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1980,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q106365",
+      "slug": "isabelle-huppert",
+      "name": "Isabelle Huppert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106508",
+      "slug": "gerard-depardieu",
+      "name": "Gérard Depardieu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q321395",
+      "slug": "humbert-balsan",
+      "name": "Humbert Balsan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1270509",
+      "slug": "guy-marchand",
+      "name": "Guy Marchand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965067",
+      "slug": "christian-boucher",
+      "name": "Christian Boucher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3157712",
+      "slug": "jacqueline-dufranne",
+      "name": "Jacqueline Dufranne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3369780",
+      "slug": "patrick-poivey",
+      "name": "Patrick Poivey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3570793",
+      "slug": "xavier-saint-macary",
+      "name": "Xavier Saint-Macary",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q503898",
+    "slug": "maurice-pialat",
+    "name": "Maurice Pialat",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 09:41:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

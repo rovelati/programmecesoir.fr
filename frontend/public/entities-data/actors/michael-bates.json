@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "michael-bates",
+  "name": "Michael Bates",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MichaelBatesAClockworkOrange.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1920-12-04",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1369342",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michael_Bates_(acteur)",
+    "imdb": "nm0060988",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "te-casse-pas-la-tete-jerry",
+      "title": "Te casse pas la tête Jerry"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

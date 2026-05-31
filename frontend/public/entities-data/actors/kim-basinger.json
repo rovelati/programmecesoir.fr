@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "kim-basinger",
+  "name": "Kim Basinger",
+  "worksCount": 3,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Basinger%20-%20The%20Natural.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-12-08",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q131380",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kim_Basinger",
+    "imdb": "nm0000107",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-a-confidential",
+      "title": "L.A. Confidential"
+    },
+    {
+      "type": "film",
+      "slug": "the-nice-guys",
+      "title": "The Nice Guys"
+    },
+    {
+      "type": "film",
+      "slug": "cellular",
+      "title": "Cellular"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

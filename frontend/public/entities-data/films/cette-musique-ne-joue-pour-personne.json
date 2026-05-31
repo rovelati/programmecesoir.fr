@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "cette-musique-ne-joue-pour-personne",
+  "title": "Cette musique ne joue pour personne",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Cette musique ne joue pour personne"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Si Jeff réussit si bien dans les affaires, ce n'est certainement pas grâce à ses hommes de main peu efficaces et étourdis. Patron aux méthodes douteuses, respecté et craint parmi ses collègues dockers du Nord, il affecte sa petite équipe de bras cassés à diverses missions dont les issues s'avèrent incertaines, ces derniers étant pour le moins facilement influençables. Sa fille adolescente donne d'ailleurs du fil à retordre à Jésus et Poussin, chargés de la surveiller mais incapables de suivre son rythme, alors que deux autres membres de l'équipe, en plein repérages, cèdent doucement mais sûrement aux charmes de leurs cibles...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 107,
+  "cast": [],
+  "director": {
+    "qid": "Q970408",
+    "slug": "samuel-benchetrit",
+    "name": "Samuel Benchetrit",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

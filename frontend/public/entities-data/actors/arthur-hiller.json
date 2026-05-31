@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "arthur-hiller",
+  "name": "Arthur Hiller",
+  "worksCount": 2,
+  "description": "réalisateur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Hiller-1970.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1923-11-22",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q455043",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Arthur_Hiller",
+    "imdb": "nm0002137",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "tobrouk-commando-pour-l-enfer",
+      "title": "Tobrouk, commando pour l'enfer"
+    },
+    {
+      "type": "film",
+      "slug": "love-story",
+      "title": "Love Story"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "alain-libolt",
+  "name": "Alain Libolt",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": "Alain Libolt incarne un second rôle à la présence singulière, souvent dans des drames ou des comédies dramatiques à l'ambiance subtile et mélancolique. Sa carrière, discrète mais riche, est marquée par des collaborations prestigieuses, notamment avec Éric Rohmer. Ce qui le rend captivant, c'est son jeu d'une retenue et d'une intensité remarquables, où chaque regard et chaque silence en disent long. Il apporte une profondeur humaine et une authenticité touchante à ses personnages, souvent des hommes ordinaires traversés par des doutes ou des émotions complexes. Pour découvrir les films et téléfilms mettant en scène cet acteur fascinant, c'est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1943-08-20",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2830037",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alain_Libolt",
+    "imdb": "nm0508888",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "petites-coupures",
+      "title": "Petites coupures"
+    },
+    {
+      "type": "film",
+      "slug": "pauline-detective",
+      "title": "Pauline détective"
+    },
+    {
+      "type": "film",
+      "slug": "bernie",
+      "title": "Bernie"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9b44ab34-937b-4589-935c-ad4d47dce606",
+      "title": "Petites coupures",
+      "programSlug": "petites-coupures",
+      "programUrl": "/programme/canal-grand-ecran/petites-coupures",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 04:00:00+00",
+      "endTime": "2026-04-23 05:33:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:30.559Z",
+  "nextAiringAt": "2026-04-23 04:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

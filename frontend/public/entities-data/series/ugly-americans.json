@@ -1,0 +1,54 @@
+{
+  "type": "series",
+  "slug": "ugly-americans",
+  "title": "Ugly Americans",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Ugly Americans"
+  ],
+  "genres": [
+    "humour noir",
+    "comédie",
+    "sitcom",
+    "série télévisée comique"
+  ],
+  "description": "Callie crée un clone de Mark pour gagner un tournoi de bowling. Lorsqu'il découvre le journal intime de sa créatrice, il décide de se venger en l'accusant de meurtre...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "channelNumber": null,
+      "logoUrl": "/loghi/comedy-central.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2010,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": {
+    "qid": "Q2325344",
+    "slug": "david-m-stern",
+    "name": "David M. Stern",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

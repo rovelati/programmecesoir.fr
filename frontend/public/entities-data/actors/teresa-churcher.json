@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "teresa-churcher",
+  "name": "Teresa Churcher",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q7702118",
+    "wikipedia": "https://en.wikipedia.org/wiki/Teresa_Churcher",
+    "imdb": "nm0161409",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "memoires-de-jeunesse",
+      "title": "Mémoires de jeunesse"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fdee0173-5282-453c-be35-6032c76f026c",
+      "title": "Mémoires de jeunesse",
+      "programSlug": "memoires-de-jeunesse",
+      "programUrl": "/programme/canal-grand-ecran/memoires-de-jeunesse",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 21:27:00+00",
+      "endTime": "2026-04-24 23:32:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 21:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

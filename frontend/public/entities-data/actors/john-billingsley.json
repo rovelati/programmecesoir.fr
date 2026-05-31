@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "john-billingsley",
+  "name": "John Billingsley",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/10.17.09JohnBillingsleyByLuigiNovi.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-05-20",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q453724",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Billingsley",
+    "imdb": "nm0082517",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "2012",
+      "title": "2012"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1cb23026-2c11-4b24-8f46-77cd5e041250",
+      "title": "2012",
+      "programSlug": "2012",
+      "programUrl": "/programme/cine-frisson/2012",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 12:35:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "93015ca0-767e-4247-b731-87a5635aa6fe",
+      "title": "2012",
+      "programSlug": "2012",
+      "programUrl": "/programme/ocs/2012",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 16:17:00+00",
+      "endTime": "2026-04-22 18:50:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 12:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

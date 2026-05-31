@@ -1,0 +1,60 @@
+{
+  "type": "series",
+  "slug": "unicorn-warriors-eternal",
+  "title": "Unicorn: Warriors Eternal",
+  "airingsCount": 15,
+  "sourceTitles": [
+    "Unicorn: Warriors Eternal"
+  ],
+  "genres": [
+    "fantasy humoristique",
+    "steampunk"
+  ],
+  "description": "L'esprit de Mélinda se retrouve confronter aux sentiments d'Emma et à son ancienne vie. Pendant ce temps, les Guerriers Éternels tentent à tout prix de la retrouver dans un Londres soudain animé par une chasse aux sorcières.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 10
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2023,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": {
+    "qid": "Q347111",
+    "slug": "genndy-tartakovsky",
+    "name": "Genndy Tartakovsky",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

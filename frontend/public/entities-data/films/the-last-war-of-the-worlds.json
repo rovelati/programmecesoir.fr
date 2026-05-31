@@ -1,0 +1,72 @@
+{
+  "type": "film",
+  "slug": "the-last-war-of-the-worlds",
+  "title": "The Last War of the Worlds",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "The Last War of the Worlds"
+  ],
+  "genres": [
+    "Telefilms",
+    "Téléfilm"
+  ],
+  "description": "Allison Fisher et son frère Henry, tous deux astronomes, tentent d'alerter les autorités d'une menace d'invasion extraterrestre, mais personne ne les croit, jusqu'au jour où des aliens atterrissent et détruisent New York. Alors qu'ils tentent de fuir la ville avec leurs familles, les deux scientifiques découvrent la faille de ces guerriers extraterrestres : ils ne sont pas immunisés contre les maladies humaines. Pour éradiquer leur armée, il faut trouver un moyen de tous les infecter...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mcm.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9553d265-0b67-4e28-9fef-73d5f3dc2a15",
+      "title": "The Last War of the Worlds",
+      "programSlug": "the-last-war-of-the-worlds",
+      "programUrl": "/programme/mcm/the-last-war-of-the-worlds",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-21 19:00:00+00",
+      "endTime": "2026-04-21 20:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2b4f0cef-d86d-484d-bd6f-eb4ea750dcbe",
+      "title": "The Last War of the Worlds",
+      "programSlug": "the-last-war-of-the-worlds",
+      "programUrl": "/programme/mcm/the-last-war-of-the-worlds",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-25 14:10:00+00",
+      "endTime": "2026-04-25 15:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

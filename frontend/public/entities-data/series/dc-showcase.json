@@ -1,0 +1,54 @@
+{
+  "type": "series",
+  "slug": "dc-showcase",
+  "title": "Dc Showcase",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Dc Showcase"
+  ],
+  "genres": [
+    "fiction de superhéros"
+  ],
+  "description": "Madame Lorraine, la tenancière d'un saloon, possède une affaire florissante : elle attire les clients argentés dans ses filets puis se débarrasse d'eux avec l'aide de ses complices. Malheureusement, Red Doc, sa dernière victime, est recherché et Jonah Hex compte bien encaisser la prime de 5000 dollars promise pour sa capture...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2007,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

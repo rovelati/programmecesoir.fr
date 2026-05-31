@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "chantal-goya",
+  "name": "Chantal Goya",
+  "worksCount": 1,
+  "description": "actrice et chanteuse française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chantal%20Goya%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1942-06-10",
+  "nationality": "France",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q448508",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Chantal_Goya",
+    "imdb": "nm0333014",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "trop-c-est-trop",
+      "title": "Trop c'est trop"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

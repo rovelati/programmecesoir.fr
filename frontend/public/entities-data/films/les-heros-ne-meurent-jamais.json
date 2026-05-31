@@ -1,0 +1,58 @@
+{
+  "type": "film",
+  "slug": "les-heros-ne-meurent-jamais",
+  "title": "Les héros ne meurent jamais",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les héros ne meurent jamais"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "En pleine Seconde Guerre mondiale, l'américain Duke est envoyé en Norvège pour une mission. Il doit récupérer un radar américain détenu par les Allemands avant que celui-ci ne se retrouve protégé dans un bunker. Il échoue dans sa mission mais, ne se laissant pas abattre, élabore un plan pour le retrouver malgré les mises en garde de ses supérieurs...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": 85,
+  "cast": [
+    {
+      "qid": "Q31353",
+      "slug": "adele-haenel",
+      "name": "Adèle Haenel",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q63378729",
+    "slug": "aude-lea-rapin",
+    "name": "Aude Léa Rapin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

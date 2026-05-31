@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "chau-belle-dinh",
+  "name": "Châu Belle Dinh",
+  "worksCount": 2,
+  "description": "acteur et cascadeur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-09-08",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2971988",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ch%C3%A2u_Belle_Dinh",
+    "imdb": "nm0068788",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dans-la-cuisine-des-nguyen",
+      "title": "Dans la cuisine des Nguyen"
+    },
+    {
+      "type": "film",
+      "slug": "fils-du-vent",
+      "title": "Fils du vent"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "41630b15-9e4c-45bd-9612-3276249cd83a",
+      "title": "Dans la cuisine des Nguyen",
+      "programSlug": "dans-la-cuisine-des-nguyen",
+      "programUrl": "/programme/canal-box-office/dans-la-cuisine-des-nguyen",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 07:53:00+00",
+      "endTime": "2026-04-20 09:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3b69d0c4-f44b-4007-ae5b-9c4ea20661b4",
+      "title": "Fils du vent",
+      "programSlug": "fils-du-vent",
+      "programUrl": "/programme/tele-grenoble/fils-du-vent",
+      "channelId": "tele-grenoble",
+      "channelName": "Télé Grenoble",
+      "channelSlug": "tele-grenoble",
+      "startTime": "2026-04-25 00:50:00+00",
+      "endTime": "2026-04-25 01:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 07:53:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

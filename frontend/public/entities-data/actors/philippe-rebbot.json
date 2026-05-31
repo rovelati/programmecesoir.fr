@@ -1,0 +1,80 @@
+{
+  "type": "actor",
+  "slug": "philippe-rebbot",
+  "name": "Philippe Rebbot",
+  "worksCount": 5,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Rebbot%20Cabourg%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-11-30",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3380605",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Philippe_Rebbot",
+    "imdb": "nm0714235",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "une-famille-a-louer",
+      "title": "Une famille à louer"
+    },
+    {
+      "type": "film",
+      "slug": "sur-un-fil",
+      "title": "Sur un fil"
+    },
+    {
+      "type": "film",
+      "slug": "a-bicyclette",
+      "title": "A bicyclette !"
+    },
+    {
+      "type": "film",
+      "slug": "les-pistolets-en-plastique",
+      "title": "Les pistolets en plastique"
+    },
+    {
+      "type": "film",
+      "slug": "mine-de-rien",
+      "title": "Mine de rien"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fe87a507-19f0-4f95-a887-45371d772aa4",
+      "title": "Les pistolets en plastique",
+      "programSlug": "les-pistolets-en-plastique",
+      "programUrl": "/programme/cine-festival/les-pistolets-en-plastique",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-25 18:50:00+00",
+      "endTime": "2026-04-25 20:24:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "be216e82-4107-484f-beac-3a9347f288d6",
+      "title": "Une famille à louer",
+      "programSlug": "une-famille-a-louer",
+      "programUrl": "/programme/cine-emotion/une-famille-a-louer",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 20:27:00+00",
+      "endTime": "2026-04-25 22:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-25 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,133 @@
+{
+  "type": "film",
+  "slug": "there-will-be-blood",
+  "title": "There Will Be Blood",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "There Will Be Blood"
+  ],
+  "genres": [
+    "drame",
+    "adaptation d'un roman au cinéma",
+    "film ou téléfilm épique",
+    "drame d'époque",
+    "western",
+    "thriller",
+    "historical drama film",
+    "Anti-western",
+    "film ou téléfilm historique",
+    "cinéma indépendant"
+  ],
+  "description": "Alors que la voiture commence à peine à se développer en Amérique, Daniel Plainview tente de faire fortune en installant des puits de pétrole à travers le pays. Toujours à l'affût de la moindre occasion de s'enrichir, il apprend que le sous-sol de Little Boston, petite commune de Californie, regorge d'or noir. Plainview s'y rend avec son fils. Se faisant passer pour un chasseur pour éviter toute spéculation, il parvient à convaincre le vieil Abel Sunday de lui vendre une importante parcelle de terrain, présentée comme giboyeuse. Dès lors, Plainview prospecte sur sa nouvelle propriété, acquise à moindre coût. Mais la population locale s'offusque de voir ainsi les richesses de Little Boston exploitées par un étranger. Eli Sunday, le pasteur, prend la tête de la contestation...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2007,
+  "durationMinutes": 158,
+  "cast": [
+    {
+      "qid": "Q166389",
+      "slug": "daniel-day-lewis",
+      "name": "Daniel Day-Lewis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q343616",
+      "slug": "paul-dano",
+      "name": "Paul Dano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q721195",
+      "slug": "kevin-j-o-connor",
+      "name": "Kevin J. O'Connor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314892",
+      "slug": "ciaran-hinds",
+      "name": "Ciarán Hinds",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3178896",
+      "slug": "jim-meskimen",
+      "name": "Jim Meskimen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3453466",
+      "slug": "russell-harvard",
+      "name": "Russell Harvard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2156496",
+      "slug": "david-warshofsky",
+      "name": "David Warshofsky",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16657861",
+      "slug": "kevin-breznahan",
+      "name": "Kevin Breznahan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2059493",
+      "slug": "paul-f-tompkins",
+      "name": "Paul F. Tompkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5276933",
+      "slug": "dillon-freasier",
+      "name": "Dillon Freasier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15500658",
+      "slug": "jim-downey",
+      "name": "Jim Downey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21266620",
+      "slug": "barry-del-sherman",
+      "name": "Barry Del Sherman",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q25132",
+    "slug": "paul-thomas-anderson",
+    "name": "Paul Thomas Anderson",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

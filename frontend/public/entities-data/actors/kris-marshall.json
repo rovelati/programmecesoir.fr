@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "kris-marshall",
+  "name": "Kris Marshall",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kris%20Marshall%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1973-04-01",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q706843",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kris_Marshall",
+    "imdb": "nm0550994",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "mysteres-au-paradis",
+      "title": "Mystères au paradis"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7a5ba0fa-34cf-4566-b7e6-615b1ac57739",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-rhone-alpes/mysteres-au-paradis",
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3f918cc8-07ef-4879-9c60-7cd9c11dbeff",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3/mysteres-au-paradis",
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "05a32427-f181-4feb-9105-7715d9c8c720",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-alpes/mysteres-au-paradis",
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a10aa14f-d4a6-467d-ac43-4d274b46947b",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-alsace/mysteres-au-paradis",
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "98068a47-ff7a-404b-ad45-ef5e08fc7865",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-aquitaine/mysteres-au-paradis",
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4e101e26-da8c-4e7f-8657-362508ed635e",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-auvergne/mysteres-au-paradis",
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "65a7a62f-8149-4479-b806-55b5ae35c35f",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-basse-normandie/mysteres-au-paradis",
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8e6815d3-5416-40d3-98ee-8b72ef680b56",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-bourgogne/mysteres-au-paradis",
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fca387ce-60d7-4367-b7f3-79495ed9cc99",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-bretagne/mysteres-au-paradis",
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7b296f14-d685-49d3-868e-7dd79b69c1a2",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-centre/mysteres-au-paradis",
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "feb52b22-649a-4893-89a9-7fb9286809b8",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-champagne-ardenne/mysteres-au-paradis",
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "357f162b-21df-4815-a202-f7cb8c7777aa",
+      "title": "Mystères au paradis",
+      "programSlug": "mysteres-au-paradis",
+      "programUrl": "/programme/france-3-cote-dazur/mysteres-au-paradis",
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "startTime": "2026-04-19 19:10:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 19:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

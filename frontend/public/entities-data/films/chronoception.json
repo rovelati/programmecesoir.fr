@@ -1,0 +1,56 @@
+{
+  "type": "film",
+  "slug": "chronoception",
+  "title": "Chronoception",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Chronoception"
+  ],
+  "genres": [
+    "Film",
+    "Cinéma",
+    "Cinema"
+  ],
+  "description": "C'est sur les traces des peuples Nomades et des anciennes \"Routes de la Soie\" que Thomas Delfino, Léa Klaue et Aurélien Lardy, partent pour atteindre l'un des endroits les plus reculés et encore inexplorés du continent asiatique : le massif du Kokshaal-Too. La fine équipe, accompagnée des célèbres guides Hélias Millerioux et Jean-Yves Fredriksen, se retrouve alors propulsée dans un espace où le temps semble s'être soudainement arrêté. Retour sur cette formidable aventure.",
+  "descriptionAi": "Ce film d'aventure vous transporte au cœur du massif isolé du Kokshaal-Too, sur les anciennes Routes de la Soie. Il mêle exploration géographique et quête humaine dans une ambiance à la fois épique et contemplative. L'intérêt réside dans cette immersion totale au sein de paysages grandioses et préservés, où l'équipe, menée par des guides expérimentés, vit l'étrange sensation d'un temps suspendu. C'est un voyage sensoriel et introspectif, une formidable échappée vers l'inconnu, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "trek",
+      "channelName": "TREK",
+      "channelSlug": "trek",
+      "channelNumber": null,
+      "logoUrl": "/loghi/trek.png",
+      "airingsCount": 9
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q185961",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Perception_du_temps",
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:27:10.332Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "richard-crenna",
+  "name": "Richard Crenna",
+  "worksCount": 3,
+  "description": "acteur américain (1926-2003)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Crenna%20Luke%20McCoy%201961.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1926-11-30",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q318607",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Richard_Crenna",
+    "imdb": "nm0001077",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "rambo-ii-la-mission",
+      "title": "Rambo II : la mission"
+    },
+    {
+      "type": "film",
+      "slug": "rambo",
+      "title": "Rambo"
+    },
+    {
+      "type": "film",
+      "slug": "rambo-iii",
+      "title": "Rambo III"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "mindy-sterling",
+  "name": "Mindy Sterling",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mindy%20Sterling%20(red%20carpet).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-07-11",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q271627",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mindy_Sterling",
+    "imdb": "nm0827565",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-grinch",
+      "title": "Le Grinch"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "944f5cb4-68ec-4619-8641-a81bb4a7bbc7",
+      "title": "Le Grinch",
+      "programSlug": "le-grinch",
+      "programUrl": "/programme/cine-family/le-grinch",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 14:48:00+00",
+      "endTime": "2026-04-21 16:30:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 14:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

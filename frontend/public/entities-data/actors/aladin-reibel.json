@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "aladin-reibel",
+  "name": "Aladin Reibel",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": "Aladin Reibel incarne un genre hybride entre le drame intimiste et la comédie sociale, où l’ambiance oscille entre douceur mélancolique et éclats de légèreté. Ce qui le rend captivant, c’est sa capacité à habiter des personnages ordinaires avec une authenticité troublante, révélant la complexité des émotions sous les apparences. Son jeu naturel et précis invite à une immersion immédiate dans des récits humains et universels. Pour découvrir ses performances subtiles qui marquent durablement, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1951-10-07",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2829468",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Aladin_Reibel",
+    "imdb": "nm0716901",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "petites-coupures",
+      "title": "Petites coupures"
+    },
+    {
+      "type": "film",
+      "slug": "l-ordre-et-la-morale",
+      "title": "L'ordre et la morale"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9b44ab34-937b-4589-935c-ad4d47dce606",
+      "title": "Petites coupures",
+      "programSlug": "petites-coupures",
+      "programUrl": "/programme/canal-grand-ecran/petites-coupures",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 04:00:00+00",
+      "endTime": "2026-04-23 05:33:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:25.540Z",
+  "nextAiringAt": "2026-04-23 04:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "type": "film",
+  "slug": "l-amour-c-est-surcote",
+  "title": "L'amour, c'est surcoté",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "L'amour c'est surcoté",
+    "L'amour, c'est surcoté"
+  ],
+  "genres": [
+    "comédie romantique"
+  ],
+  "description": "Diagnostiqué \"nul avec les meufs\" depuis son plus jeune âge, Anis, 30 ans, mène une existence charnelle placée sous le signe du calme plat. Trois ans jour pour jour après la perte d'Isma, son meilleur ami et mentor, il prend son courage à deux mains et se décide enfin à sortir faire de nouvelles rencontres. Sauf qu'en abordant maladroitement Madeleine, une jeune femme exubérante, Anis ignore qu'il va vivre une grande aventure. Avec l'aide de sa psy, il va faire le deuil d'Isma et accepter de vivre une véritable histoire d'amour...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 98,
+  "cast": [],
+  "director": {
+    "qid": "Q111835945",
+    "slug": "mourad-winter",
+    "name": "Mourad Winter",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

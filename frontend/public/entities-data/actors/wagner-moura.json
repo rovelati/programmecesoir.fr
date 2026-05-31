@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "wagner-moura",
+  "name": "Wagner Moura",
+  "worksCount": 1,
+  "description": "acteur brésilien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wagner%20Moura-6546.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-06-27",
+  "nationality": "Brésil",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q922503",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Wagner_Moura",
+    "imdb": "nm0609944",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "elysium",
+      "title": "Elysium"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0337b7ef-f2de-454a-a9b3-91061f89114c",
+      "title": "Elysium",
+      "programSlug": "elysium",
+      "programUrl": "/programme/canal-grand-ecran/elysium",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 21:05:00+00",
+      "endTime": "2026-04-19 22:52:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 21:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

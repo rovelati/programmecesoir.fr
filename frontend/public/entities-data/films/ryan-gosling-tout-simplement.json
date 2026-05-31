@@ -1,0 +1,63 @@
+{
+  "type": "film",
+  "slug": "ryan-gosling-tout-simplement",
+  "title": "Ryan Gosling, tout simplement",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Ryan Gosling, tout simplement"
+  ],
+  "genres": [
+    "Cinema",
+    "Doc Cinéma"
+  ],
+  "description": "Tombeur né jouissant de l'image du parfait gentleman, acteur au parcours sans tache, Ryan Gosling est devenu en une dizaine d'années l'un des noms les plus demandés d'Hollywood. Mais à l'heure des réseaux sociaux, il se paie un luxe rare : celui de préserver sa vie privée. Rares sont ceux qui savent qu'il a fait une partie de sa scolarité à domicile pour cause de harcèlement à l'école.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "rts-deux",
+      "channelName": "RTS Deux",
+      "channelSlug": "rts-deux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-deux.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "arte-belgique",
+      "channelName": "Arte Belgique",
+      "channelSlug": "arte-belgique",
+      "channelNumber": null,
+      "logoUrl": "/loghi/arte-belgique.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

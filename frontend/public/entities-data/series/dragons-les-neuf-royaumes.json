@@ -1,0 +1,77 @@
+{
+  "type": "series",
+  "slug": "dragons-les-neuf-royaumes",
+  "title": "Dragons : les neuf royaumes",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Dragons : les neuf royaumes"
+  ],
+  "genres": [
+    "Série TV",
+    "Séries d'animation"
+  ],
+  "description": "Une anomalie géologique ouvre une immense fissure à la surface de la Terre. Sur le site, un groupe d'enfants découvre la vérité sur les dragons et l'endroit où ils se cachent — un secret qu'ils doivent garder pour protéger ce qu'ils ont découvert.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cc5cae51-4f59-4961-8dd3-42a04905c859",
+      "title": "Dragons : les neuf royaumes",
+      "programSlug": "dragons-les-neuf-royaumes",
+      "programUrl": "/programme/la-trois/dragons-les-neuf-royaumes",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-25 13:27:00+00",
+      "endTime": "2026-04-25 13:49:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "4dec07f6-94db-4ae7-b53c-b779cd9bdac0",
+      "title": "Dragons : les neuf royaumes",
+      "programSlug": "dragons-les-neuf-royaumes",
+      "programUrl": "/programme/la-trois/dragons-les-neuf-royaumes",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-25 13:49:00+00",
+      "endTime": "2026-04-25 14:12:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2021,
+  "numberOfSeasons": 5,
+  "cast": [],
+  "creator": {
+    "qid": "Q1436820",
+    "slug": "henry-gilroy",
+    "name": "Henry Gilroy",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-25 13:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

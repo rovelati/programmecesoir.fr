@@ -1,0 +1,136 @@
+{
+  "type": "film",
+  "slug": "peur-bleue",
+  "title": "Peur bleue",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Peur bleue"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "thriller",
+    "drame",
+    "film d'horreur de science-fiction",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Une bande d'amis célèbre un anniversaire sur un yacht. Alors que la fête bat son plein, ils piquent une tête pour se rafraîchir. Mais l'échelle n'est pas dépliée et ils ne peuvent plus remonter à bord du bateau qui s'éloigne. Ils sont livrés à eux-mêmes au milieu de l'océan...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1999,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q232419",
+      "slug": "saffron-burrows",
+      "name": "Saffron Burrows",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18938",
+      "slug": "thomas-jane",
+      "name": "Thomas Jane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q52440",
+      "slug": "ll-cool-j",
+      "name": "LL Cool J",
+      "role": "actor"
+    },
+    {
+      "qid": "Q342252",
+      "slug": "michael-rapaport",
+      "name": "Michael Rapaport",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208667",
+      "slug": "stellan-skarsgard",
+      "name": "Stellan Skarsgård",
+      "role": "actor"
+    },
+    {
+      "qid": "Q172678",
+      "slug": "samuel-l-jackson",
+      "name": "Samuel L. Jackson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q253358",
+      "slug": "jacqueline-mckenzie",
+      "name": "Jacqueline McKenzie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q115134",
+      "slug": "aida-turturro",
+      "name": "Aida Turturro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q525572",
+      "slug": "erinn-bartlett",
+      "name": "Erinn Bartlett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q39989",
+      "slug": "ronny-cox",
+      "name": "Ronny Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318712",
+      "slug": "renny-harlin",
+      "name": "Renny Harlin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q781381",
+      "slug": "eyal-podell",
+      "name": "Eyal Podell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242945",
+      "slug": "mary-kay-bergman",
+      "name": "Mary Kay Bergman",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q318712",
+    "slug": "renny-harlin",
+    "name": "Renny Harlin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

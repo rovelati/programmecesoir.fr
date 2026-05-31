@@ -1,0 +1,195 @@
+{
+  "type": "actor",
+  "slug": "rocky-carroll",
+  "name": "Rocky Carroll",
+  "worksCount": 4,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/RockyCarrollHWOFOct2012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-07-08",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q636324",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rocky_Carroll",
+    "imdb": "nm0140969",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "a-toute-allure",
+      "title": "A toute allure"
+    },
+    {
+      "type": "series",
+      "slug": "ncis",
+      "title": "NCIS"
+    },
+    {
+      "type": "series",
+      "slug": "ncis-los-angeles",
+      "title": "NCIS : Los Angeles"
+    },
+    {
+      "type": "series",
+      "slug": "ncis-enquetes-speciales",
+      "title": "NCIS : enquêtes spéciales"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "21771f2b-c816-4fb0-a6eb-408dc98029c8",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 09:20:00+00",
+      "endTime": "2026-04-20 10:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4f69ab17-04cc-47cb-b1e7-eadac5d0c68c",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 10:20:00+00",
+      "endTime": "2026-04-20 11:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "27d88762-d70f-4e6d-896c-047d7fd0ec16",
+      "title": "NCIS : Los Angeles - Saison 9",
+      "programSlug": "ncis-los-angeles-saison-9",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-9",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 10:40:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4abc56c6-6331-4bc7-ba3b-7c29b51061a5",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 11:20:00+00",
+      "endTime": "2026-04-20 12:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d8fe36c7-87b3-4fa3-8bcf-35cf1189f158",
+      "title": "NCIS : Los Angeles - Saison 9",
+      "programSlug": "ncis-los-angeles-saison-9",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-9",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 11:30:00+00",
+      "endTime": "2026-04-20 12:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ccb83db8-8d8e-4182-8b50-522a220f6945",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 12:10:00+00",
+      "endTime": "2026-04-20 13:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "92a62c90-0f48-4a17-9192-a36a479fa85a",
+      "title": "NCIS : Los Angeles - Saison 9",
+      "programSlug": "ncis-los-angeles-saison-9",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-9",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 12:15:00+00",
+      "endTime": "2026-04-20 13:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "38c015bc-5daf-4aec-868d-b0e693e65183",
+      "title": "NCIS : Los Angeles - Saison 10",
+      "programSlug": "ncis-los-angeles-saison-10",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-10",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 13:05:00+00",
+      "endTime": "2026-04-20 13:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "17617072-bbab-4f47-a45e-9aa823d8fbc0",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 13:10:00+00",
+      "endTime": "2026-04-20 14:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "34957dbc-cb9b-419c-bb07-cab94b54b032",
+      "title": "NCIS : Los Angeles - Saison 10",
+      "programSlug": "ncis-los-angeles-saison-10",
+      "programUrl": "/programme/paris-premiere/ncis-los-angeles-saison-10",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 13:50:00+00",
+      "endTime": "2026-04-20 14:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4fa925a1-8837-48b9-8801-63ab9bb1cf67",
+      "title": "NCIS - Saison 5",
+      "programSlug": "ncis-saison-5",
+      "programUrl": "/programme/w9/ncis-saison-5",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 14:00:00+00",
+      "endTime": "2026-04-20 14:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "14f5dc79-4890-4c37-92c4-be9f45e6533c",
+      "title": "NCIS - Saison 6",
+      "programSlug": "ncis-saison-6",
+      "programUrl": "/programme/w9/ncis-saison-6",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 14:50:00+00",
+      "endTime": "2026-04-20 15:50:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 09:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

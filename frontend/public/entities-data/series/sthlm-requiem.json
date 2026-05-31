@@ -1,0 +1,72 @@
+{
+  "type": "series",
+  "slug": "sthlm-requiem",
+  "title": "Sthlm requiem",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Sthlm requiem",
+    "Sthlm Requiem"
+  ],
+  "genres": [
+    "Série TV",
+    "Serie"
+  ],
+  "description": "Erik werkt samen met passagier Osman om in het vrachtruim van het vliegtuig een mogelijke bom te onderzoeken, die ongevaarlijk blijkt. Fredrika twijfelt steeds meer aan Said Khelifi's schuld, terwijl een flashback onthult dat Eden in 2014 een deal sloot met de CIA. Het gevaar is echter niet voorbij, want piloot Karim blijft de cockpitdeur gesloten houden.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canvas.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2018,
+  "numberOfSeasons": 1,
+  "cast": [
+    {
+      "qid": "Q3652125",
+      "slug": "liv-mjones",
+      "name": "Liv Mjönes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1339383",
+      "slug": "jonas-karlsson",
+      "name": "Jonas Karlsson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q29028279",
+      "slug": "alexej-manvelov",
+      "name": "Alexej Manvelov",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q18238773",
+    "slug": "karin-fahlen",
+    "name": "Karin Fahlén",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

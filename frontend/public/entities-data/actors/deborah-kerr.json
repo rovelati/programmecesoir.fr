@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "deborah-kerr",
+  "name": "Deborah Kerr",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deborah%20Kerr%20in%20colour%20Allan%20Warren%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1921-09-30",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q104146",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Deborah_Kerr",
+    "imdb": "nm0000039",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "elle-et-lui",
+      "title": "Elle et lui"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b5a393c-cb73-4b59-8c85-4bc4be080ce6",
+      "title": "Elle et lui",
+      "programSlug": "elle-et-lui",
+      "programUrl": "/programme/cine-classic/elle-et-lui",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-21 04:12:00+00",
+      "endTime": "2026-04-21 05:37:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 04:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

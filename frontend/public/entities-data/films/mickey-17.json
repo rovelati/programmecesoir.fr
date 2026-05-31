@@ -1,0 +1,173 @@
+{
+  "type": "film",
+  "slug": "mickey-17",
+  "title": "Mickey 17",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Mickey 17"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film ou téléfilm d'aventure",
+    "drame",
+    "comédie",
+    "film et téléfilm d'action"
+  ],
+  "description": "Pour Mickey Barnes, mourir est une habitude. Car le jeune homme est un consommable, un engagé volontaire pour tester les dangers auxquels est soumis l'humanité. En cas de décès, il se trouve régénéré avec la plupart de ses souvenirs. Mais que se passerait-il si Mickey 17 survivait à Mickey 18 ?...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d93d53fb-5542-4b79-bf30-76e63423ed2c",
+      "title": "Mickey 17",
+      "programSlug": "mickey-17",
+      "programUrl": "/programme/canal-box-office/mickey-17",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 14:01:00+00",
+      "endTime": "2026-04-22 16:13:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 137,
+  "cast": [
+    {
+      "qid": "Q36767",
+      "slug": "robert-pattinson",
+      "name": "Robert Pattinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q552176",
+      "slug": "steven-yeun",
+      "name": "Steven Yeun",
+      "role": "actor"
+    },
+    {
+      "qid": "Q47456743",
+      "slug": "naomi-ackie",
+      "name": "Naomi Ackie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229291",
+      "slug": "toni-collette",
+      "name": "Toni Collette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41422",
+      "slug": "mark-ruffalo",
+      "name": "Mark Ruffalo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q263743",
+      "slug": "holliday-grainger",
+      "name": "Holliday Grainger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q47166832",
+      "slug": "cameron-britton",
+      "name": "Cameron Britton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q485419",
+      "slug": "anamaria-vartolomei",
+      "name": "Anamaria Vartolomei",
+      "role": "actor"
+    },
+    {
+      "qid": "Q270146",
+      "slug": "anna-mouglalis",
+      "name": "Anna Mouglalis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5981734",
+      "slug": "ian-hanmore",
+      "name": "Ian Hanmore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q60218128",
+      "slug": "patsy-ferran",
+      "name": "Patsy Ferran",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5217472",
+      "slug": "daniel-henshall",
+      "name": "Daniel Henshall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7613550",
+      "slug": "steve-park",
+      "name": "Steve Park",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7803772",
+      "slug": "tim-key",
+      "name": "Tim Key",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1334874",
+      "slug": "thomas-turgoose",
+      "name": "Thomas Turgoose",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28784485",
+      "slug": "angus-imrie",
+      "name": "Angus Imrie",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q495980",
+    "slug": "bong-joon-ho",
+    "name": "Bong Joon-ho",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 14:01:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

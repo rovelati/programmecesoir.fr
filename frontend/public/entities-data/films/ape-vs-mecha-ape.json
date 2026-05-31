@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "ape-vs-mecha-ape",
+  "title": "Ape vs Mecha Ape",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Ape vs Mecha Ape"
+  ],
+  "genres": [
+    "Telefilms"
+  ],
+  "description": "Après avoir pris conscience du potentiel destructeur d'Abraham, un gorille géant qu'elle a capturé, l'armée américaine crée un robot doté d'une intelligence artificielle et prêt au combat, Mecha Ape. Malheureusement, l'expérience tourne mal, contraignant l'armée à libérer le gorille pour arrêter le robot...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mcm.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "373f6edc-db98-4799-afe5-1ef903ae5dcb",
+      "title": "Ape vs Mecha Ape",
+      "programSlug": "ape-vs-mecha-ape",
+      "programUrl": "/programme/mcm/ape-vs-mecha-ape",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-19 15:55:00+00",
+      "endTime": "2026-04-19 17:30:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 15:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

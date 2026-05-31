@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "isabelle-candelier",
+  "name": "Isabelle Candelier",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isabelle%20Candelier%202014%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-06-12",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q515930",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Isabelle_Candelier",
+    "imdb": "nm0133713",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-2-alfred",
+      "title": "Les 2 Alfred"
+    },
+    {
+      "type": "film",
+      "slug": "la-petite-vadrouille",
+      "title": "La Petite Vadrouille"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

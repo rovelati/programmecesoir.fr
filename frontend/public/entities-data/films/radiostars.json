@@ -1,0 +1,161 @@
+{
+  "type": "film",
+  "slug": "radiostars",
+  "title": "Radiostars",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Radiostars"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "A son retour des Etats-Unis, Ben propose ses textes à l'équipe du «Breakfast», qui fait la matinale d'une radio, Blast FM. A peine est-il embauché que le patron de Blast FM décide que la matinale se déplacera en province pendant l'été. Les débuts sont difficiles, les hôtels déprimants, le public maussade...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7cee21b-9787-4fb4-9cf0-ee09695438ea",
+      "title": "Radiostars",
+      "programSlug": "radiostars",
+      "programUrl": "/programme/cine-family/radiostars",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 13:09:00+00",
+      "endTime": "2026-04-21 14:48:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q32608",
+      "slug": "alice-belaidi",
+      "name": "Alice Belaïdi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2844973",
+      "slug": "ana-girardot",
+      "name": "Ana Girardot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2852965",
+      "slug": "anthony-sonigo",
+      "name": "Anthony Sonigo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q606555",
+      "slug": "clovis-cornillac",
+      "name": "Clovis Cornillac",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3010586",
+      "slug": "come-levin",
+      "name": "Côme Levin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1835077",
+      "slug": "daniel-cohen",
+      "name": "Daniel Cohen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16641720",
+      "slug": "herve-laudiere",
+      "name": "Hervé Laudière",
+      "role": "actor"
+    },
+    {
+      "qid": "Q731602",
+      "slug": "jacky-ido",
+      "name": "Jacky Ido",
+      "role": "actor"
+    },
+    {
+      "qid": "Q552876",
+      "slug": "jacques-frantz",
+      "name": "Jacques Frantz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3166616",
+      "slug": "jean-louis-barcelona",
+      "name": "Jean-Louis Barcelona",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3219022",
+      "slug": "laurent-bateau",
+      "name": "Laurent Bateau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3286702",
+      "slug": "manu-payet",
+      "name": "Manu Payet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3292649",
+      "slug": "marie-lenoir",
+      "name": "Marie Lenoir",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16665050",
+      "slug": "mona-walravens",
+      "name": "Mona Walravens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3367364",
+      "slug": "pascal-demolon",
+      "name": "Pascal Demolon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3395911",
+      "slug": "pom-klementieff",
+      "name": "Pom Klementieff",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3440698",
+    "slug": "romain-levy",
+    "name": "Romain Levy",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 13:09:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

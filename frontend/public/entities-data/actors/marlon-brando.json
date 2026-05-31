@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "marlon-brando",
+  "name": "Marlon Brando",
+  "worksCount": 3,
+  "description": "acteur et réalisateur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marlon%20Brando%20publicity%20for%20One-Eyed%20Jacks.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1924-04-03",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q34012",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marlon_Brando",
+    "imdb": "nm0000008",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "superman",
+      "title": "Superman"
+    },
+    {
+      "type": "film",
+      "slug": "l-equipee-sauvage",
+      "title": "L'équipée sauvage"
+    },
+    {
+      "type": "film",
+      "slug": "apocalypse-now-final-cut",
+      "title": "Apocalypse Now Final Cut"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dd661284-851d-410d-a76b-dec244acfeba",
+      "title": "Superman",
+      "programSlug": "superman",
+      "programUrl": "/programme/canal-box-office/superman",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 19:00:00+00",
+      "endTime": "2026-04-20 21:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fc673a01-b065-46ff-8229-30080a241bde",
+      "title": "Superman",
+      "programSlug": "superman",
+      "programUrl": "/programme/canal-box-office/superman",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 16:13:00+00",
+      "endTime": "2026-04-22 18:18:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

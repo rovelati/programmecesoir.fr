@@ -1,0 +1,106 @@
+{
+  "type": "actor",
+  "slug": "thandiwe-newton",
+  "name": "Thandiwe Newton",
+  "worksCount": 3,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thandiwe%20Newton%20Peabody%20Awards%2C%20June%202021.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-11-06",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q229029",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Thandiwe_Newton",
+    "imdb": "nm0628601",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "2012",
+      "title": "2012"
+    },
+    {
+      "type": "film",
+      "slug": "mission-impossible",
+      "title": "Mission : Impossible"
+    },
+    {
+      "type": "film",
+      "slug": "rock-n-rolla",
+      "title": "Rock'n'Rolla"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1cb23026-2c11-4b24-8f46-77cd5e041250",
+      "title": "2012",
+      "programSlug": "2012",
+      "programUrl": "/programme/cine-frisson/2012",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 12:35:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ad00c21f-597b-4cc1-bce2-4f86a09235de",
+      "title": "Mission : Impossible",
+      "programSlug": "mission-impossible",
+      "programUrl": "/programme/canal-grand-ecran/mission-impossible",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 13:55:00+00",
+      "endTime": "2026-04-22 15:42:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "93015ca0-767e-4247-b731-87a5635aa6fe",
+      "title": "2012",
+      "programSlug": "2012",
+      "programUrl": "/programme/ocs/2012",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 16:17:00+00",
+      "endTime": "2026-04-22 18:50:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a18a487f-ddbb-4f19-b170-3df7c06edc9c",
+      "title": "Mission : Impossible",
+      "programSlug": "mission-impossible",
+      "programUrl": "/programme/canal-grand-ecran/mission-impossible",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 21:04:00+00",
+      "endTime": "2026-04-23 22:51:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "817de838-d3a2-4d1b-bb7a-213f377c5817",
+      "title": "Mission : Impossible",
+      "programSlug": "mission-impossible",
+      "programUrl": "/programme/canal-grand-ecran/mission-impossible",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 14:40:00+00",
+      "endTime": "2026-04-25 16:26:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 12:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

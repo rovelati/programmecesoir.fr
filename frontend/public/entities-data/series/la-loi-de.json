@@ -1,0 +1,72 @@
+{
+  "type": "series",
+  "slug": "la-loi-de",
+  "title": "La loi de...",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "La loi de..."
+  ],
+  "genres": [
+    "Autres séries",
+    "Série TV"
+  ],
+  "description": "Julien Meunier (Jean-Pierre Darroussin), un avocat pénaliste de renom, voit sa vie basculer lorsqu'il est pris dans une spirale infernale de manipulation et de trahison. Après avoir été adopté par la riche et influente Irène Delamarche (Claudia Cardinale) suite à la mort de ses parents, Julien lui est profondément reconnaissant et se dévoue à protéger sa famille. Lorsque Cyril (Thomas Jouannet), le fils bien-aimé d'Irène, se retrouve accusé du meurtre de Sveta, une jeune femme dont il était le compagnon, Julien n'hésite pas à prendre sa défense. Cependant, la situation prend une tournure inattendue lorsque Cyril retourne la situation contre lui en l'accusant à son tour. Coincé dans le box des accusés lors d’un procès très médiatisé, Julien doit user de toutes ses compétences juridiques et de son charisme pour naviguer dans ce labyrinthe judiciaire complexe. La quête de vérité se transforme en une lutte désespérée pour sa propre survie, exposant les zones d'ombre du lien qui unit l'avocat à sa famille d'adoption.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-une.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6bbcc01f-f4c0-4689-906e-22d4a8740cf4",
+      "title": "La loi de...",
+      "programSlug": "la-loi-de",
+      "programUrl": "/programme/la-une/la-loi-de",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-19 15:28:00+00",
+      "endTime": "2026-04-19 17:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3e2fbfce-3fcf-49ce-8286-75a8239c6c5e",
+      "title": "La loi de...",
+      "programSlug": "la-loi-de",
+      "programUrl": "/programme/la-une/la-loi-de",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-25 20:44:00+00",
+      "endTime": "2026-04-25 22:31:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2014,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 15:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

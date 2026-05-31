@@ -1,0 +1,112 @@
+{
+  "type": "film",
+  "slug": "amour-sur-place-ou-a-emporter",
+  "title": "Amour sur place ou à emporter",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Amour sur place ou à emporter"
+  ],
+  "genres": [
+    "comédie romantique"
+  ],
+  "description": "Lorsque Noom croise pour la première fois la route d'Amelle, il lui renverse malencontreusement un café dessus. Plus tard, tous deux se retrouvent lorsque Noom postule dans le café que dirige Amelle. Ils se rapprochent, mais leur relation naissante se trouve compromise par leurs différences culturelles...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "channelNumber": null,
+      "logoUrl": "/loghi/carac-1-hd.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 85,
+  "cast": [
+    {
+      "qid": "Q2842675",
+      "slug": "amelle-chahbi",
+      "name": "Amelle Chahbi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3343393",
+      "slug": "noom-diawara",
+      "name": "Noom Diawara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3509994",
+      "slug": "sebastien-castro",
+      "name": "Sébastien Castro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3334837",
+      "slug": "nader-boussandel",
+      "name": "Nader Boussandel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3292012",
+      "slug": "marie-julie-baup",
+      "name": "Marie-Julie Baup",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2905002",
+      "slug": "biyouna",
+      "name": "Biyouna",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3063963",
+      "slug": "fabrice-eboue",
+      "name": "Fabrice Éboué",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3325022",
+      "slug": "mostefa-stiti",
+      "name": "Mostéfa Stiti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2978439",
+      "slug": "claudia-tagbo",
+      "name": "Claudia Tagbo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3292200",
+      "slug": "marie-philomene-nga",
+      "name": "Marie-Philomène Nga",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2842675",
+    "slug": "amelle-chahbi",
+    "name": "Amelle Chahbi",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

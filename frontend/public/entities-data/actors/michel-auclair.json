@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "michel-auclair",
+  "name": "Michel Auclair",
+  "worksCount": 1,
+  "description": "acteur français, XXe siècle",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20risaia%20(film%201956)%20Michel%20Auclair%20(cropped).png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1922-09-14",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q566803",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michel_Auclair",
+    "imdb": "nm0041509",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-maries-de-l-an-ii",
+      "title": "Les mariés de l'an II"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b7d284ca-d658-4945-a2cf-96952dc6aca3",
+      "title": "Les mariés de l'an II",
+      "programSlug": "les-maries-de-l-an-ii",
+      "programUrl": "/programme/cine-classic/les-maries-de-l-an-ii",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 15:35:00+00",
+      "endTime": "2026-04-23 17:11:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 15:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

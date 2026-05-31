@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "le-grand-silence",
+  "title": "Le grand silence",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le grand silence"
+  ],
+  "genres": [
+    "film documentaire"
+  ],
+  "description": "Pendant l'hiver 1898, l'Utah est paralysé par un froid extrême. Des paysans affamés s'ajoutent aux hors-la-loi pour piller les villages. Plus redoutables encore, les chasseurs de primes, attirés par les récompenses promises, se mettent en chasse. Sans un mot, un homme surnommé «Silence» s'oppose à ces abus...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2005,
+  "durationMinutes": 167,
+  "cast": [],
+  "director": {
+    "qid": "Q72014",
+    "slug": "philip-groning",
+    "name": "Philip Gröning",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

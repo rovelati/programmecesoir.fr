@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "macarena-garcia",
+  "name": "Macarena García",
+  "worksCount": 1,
+  "description": "actrice et chanteuse espagnole",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Goyas%202025%20-%20Macarena%20Garcia%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1988-04-26",
+  "nationality": "Espagne",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q5988676",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Macarena_Garc%C3%ADa",
+    "imdb": "nm3475396",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "el-ministerio-del-tiempo",
+      "title": "El Ministerio del Tiempo"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c7641bfc-90a3-49c0-9fd9-7664dee578f5",
+      "title": "El Ministerio del Tiempo",
+      "programSlug": "el-ministerio-del-tiempo",
+      "programUrl": "/programme/syfy/el-ministerio-del-tiempo",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 06:25:00+00",
+      "endTime": "2026-04-20 07:40:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 06:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "type": "film",
+  "slug": "madame-la-presidente",
+  "title": "Madame la Présidente",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Madame la Présidente"
+  ],
+  "genres": [
+    "film muet"
+  ],
+  "description": "Déguisée, la présidente tchèque veut échapper à ses responsabilités le temps d'une nuit. Lors de son échappée, elle tombe amoureuse d'un séduisant sculpteur.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Madame%20la%20Presidente%20-%201916%20-%20newspaperad.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1916,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q454030",
+      "slug": "anna-held",
+      "name": "Anna Held",
+      "role": "actor"
+    },
+    {
+      "qid": "Q375092",
+      "slug": "forrest-stanley",
+      "name": "Forrest Stanley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3133506",
+      "slug": "herbert-standing",
+      "name": "Herbert Standing",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3269223",
+      "slug": "lydia-yeamans-titus",
+      "name": "Lydia Yeamans Titus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q727052",
+      "slug": "helen-jerome-eddy",
+      "name": "Helen Jerome Eddy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3430940",
+      "slug": "richard-l-estrange",
+      "name": "Richard L'Estrange",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q28941",
+    "slug": "frank-lloyd",
+    "name": "Frank Lloyd",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

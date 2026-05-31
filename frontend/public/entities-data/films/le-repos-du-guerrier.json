@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "le-repos-du-guerrier",
+  "title": "Le repos du guerrier",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le repos du guerrier"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Geneviève Le Theil, une jeune bourgeoise, se rend à Dijon pour y régler une affaire d'héritage. A l'hôtel, elle se trompe de chambre et découvre un jeune homme mourant sur le lit. Ce dernier, Renaud Sarti, a tenté de se suicider. Quand elle lui rend visite à l'hôpital, il l'accueille fraîchement, lui reprochant de l'avoir sauvé. Ils vont dîner au restaurant et passent la nuit ensemble. A Paris, les amants s'installent dans l'appartement de Geneviève. Malgré les mises en garde de tout son entourage contre ce séduisant ivrogne, Geneviève s'obstine. Elle rompt avec son fiancé, se fâche avec sa mère et sombre dans la déchéance...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1962,
+  "durationMinutes": 102,
+  "cast": [
+    {
+      "qid": "Q36268",
+      "slug": "brigitte-bardot",
+      "name": "Brigitte Bardot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q375290",
+      "slug": "robert-hossein",
+      "name": "Robert Hossein",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318088",
+      "slug": "michel-serrault",
+      "name": "Michel Serrault",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275066",
+      "slug": "macha-meril",
+      "name": "Macha Méril",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254265",
+      "slug": "james-robertson-justice",
+      "name": "James Robertson Justice",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3144750",
+      "slug": "helene-dieudonne",
+      "name": "Hélène Dieudonné",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3157785",
+      "slug": "jacqueline-porel",
+      "name": "Jacqueline Porel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1351000",
+      "slug": "jean-lefebvre",
+      "name": "Jean Lefebvre",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3167336",
+      "slug": "jean-marc-bory",
+      "name": "Jean-Marc Bory",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3167495",
+      "slug": "jean-marc-tennberg",
+      "name": "Jean-Marc Tennberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3275739",
+      "slug": "madeleine-suffel",
+      "name": "Madeleine Suffel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3293801",
+      "slug": "marius-gaidon",
+      "name": "Marius Gaidon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3302244",
+      "slug": "max-montavon",
+      "name": "Max Montavon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3371829",
+      "slug": "paul-mercey",
+      "name": "Paul Mercey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q722412",
+      "slug": "robert-dalban",
+      "name": "Robert Dalban",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3436279",
+      "slug": "robert-seller",
+      "name": "Robert Seller",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q383420",
+    "slug": "roger-vadim",
+    "name": "Roger Vadim",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

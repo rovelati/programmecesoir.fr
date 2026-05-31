@@ -1,0 +1,140 @@
+{
+  "type": "series",
+  "slug": "rapa",
+  "title": "Rapa",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Rapa - Saison 1",
+    "Rapa - Saison 3"
+  ],
+  "genres": [
+    "thriller"
+  ],
+  "description": "Décidée à suivre ses intuitions, malgré les injonctions contraires de son supérieur, Maïté tente de reconstituer le déroulé des faits dramatiques survenus en 1997 et interroge la mère de la victime. De son côté, Tomàs suit la piste de Norma. Lorsqu'un cadavre est retrouvé près de la plage, l'enquête s'accélère...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8f8e0135-6229-48cd-b95b-c3f8c68238ed",
+      "title": "Rapa - Saison 1",
+      "programSlug": "rapa-saison-1",
+      "programUrl": "/programme/polar/rapa-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-20 22:12:00+00",
+      "endTime": "2026-04-20 23:08:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "28b24d72-706e-4658-81d7-403fbc5dd31e",
+      "title": "Rapa - Saison 1",
+      "programSlug": "rapa-saison-1",
+      "programUrl": "/programme/polar/rapa-saison-1",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-20 23:08:00+00",
+      "endTime": "2026-04-21 00:01:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2022,
+  "numberOfSeasons": 3,
+  "cast": [
+    {
+      "qid": "Q537931",
+      "slug": "javier-camara",
+      "name": "Javier Cámara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9048215",
+      "slug": "monica-lopez",
+      "name": "Mónica López",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106018204",
+      "slug": "lucia-veiga",
+      "name": "Lucía Veiga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12388186",
+      "slug": "eva-fernandez",
+      "name": "Eva Fernández",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6453490",
+      "slug": "jorge-bosch",
+      "name": "Jorge Bosch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8247024",
+      "slug": "berta-ojea",
+      "name": "Berta Ojea",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14629737",
+      "slug": "ricardo-de-barreiro",
+      "name": "Ricardo de Barreiro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20533720",
+      "slug": "toni-salgado",
+      "name": "Toni Salgado",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20535152",
+      "slug": "santi-prego",
+      "name": "Santi Prego",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q12390928",
+    "slug": "jorge-coira",
+    "name": "Jorge Coira",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 22:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

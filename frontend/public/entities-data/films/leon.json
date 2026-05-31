@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "leon",
+  "title": "Léon",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Léon"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Léon habite dans le quartier de Little Italy, à New York. Ce tueur \"consciencieux\" et analphabète vit non loin de la petite Mathilda. Le père de l'adolescente, un dealer, reçoit un jour la visite menaçante de Stansfield, un inspecteur psychopathe de la brigade des stupéfiants. Le lendemain, Stansfield revient et passe toute la famille par les armes, à l'exception de Mathilda, qui a trouvé refuge chez Léon. Contre toute attente, le tueur se laisse apprivoiser par l'oisillon. Ils concluent un pacte : chacun va enseigner à l'autre ce qu'il sait. Léon va ainsi apprendre à lire et à écrire et Mathilda à tuer son prochain...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tfx",
+      "channelName": "TFX",
+      "channelSlug": "tfx",
+      "channelNumber": 11,
+      "logoUrl": "/loghi/tfx.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

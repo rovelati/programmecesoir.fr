@@ -1,0 +1,59 @@
+{
+  "type": "series",
+  "slug": "coop-troop",
+  "title": "Coop Troop",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Coop Troop"
+  ],
+  "genres": [
+    "Série"
+  ],
+  "description": "La Coop Troop est une équipe de héros animaux de la ferme qui partent en mission pour aider les habitants d'Animauville en détresse. Ils sont toujours prêts pour l'aventure et utilisent leur poulailler mobile pour se déplacer. Lorsqu'ils reçoivent un appel à l'aide sur leur téléphone rouge, ils se lancent dans une série d'événements comiques pour résoudre le problème. Leur approche est souvent exagérée et détournée, mais ils parviennent toujours à satisfaire les besoins de ceux qui les sollicitent.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-corse.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "834128a5-4647-4cfd-8d04-d97e8c58fcaa",
+      "title": "Coop Troop",
+      "programSlug": "coop-troop",
+      "programUrl": "/programme/france-3-corse/coop-troop",
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "startTime": "2026-04-19 07:08:00+00",
+      "endTime": "2026-04-19 07:19:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2023,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 07:08:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

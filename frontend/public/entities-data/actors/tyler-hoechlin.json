@@ -1,0 +1,186 @@
+{
+  "type": "actor",
+  "slug": "tyler-hoechlin",
+  "name": "Tyler Hoechlin",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tyler%20Hoechlin%20SDCC%202014%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1987-09-11",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q432739",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tyler_Hoechlin",
+    "imdb": "nm0388382",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "7-a-la-maison",
+      "title": "7 à la maison"
+    },
+    {
+      "type": "series",
+      "slug": "superman-et-lois",
+      "title": "Superman et Loïs"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0f7e90e-236d-4feb-8a36-678dab4ba6dc",
+      "title": "7 à la maison - Saison 8",
+      "programSlug": "7-a-la-maison-saison-8",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-8",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 11:00:00+00",
+      "endTime": "2026-04-20 11:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7436a3f4-8d96-4c42-a9c2-086ce77cf3e0",
+      "title": "7 à la maison - Saison 8",
+      "programSlug": "7-a-la-maison-saison-8",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-8",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 11:50:00+00",
+      "endTime": "2026-04-20 12:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "02cea111-8b8e-44da-80a3-5705d4caabe4",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 12:40:00+00",
+      "endTime": "2026-04-20 13:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0c020a38-a99c-40d5-8068-0822bc0eb138",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 13:30:00+00",
+      "endTime": "2026-04-20 14:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c0b4e6a0-cdcc-4526-98b1-3aa5372a34ae",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-20 14:25:00+00",
+      "endTime": "2026-04-20 15:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "388ebb49-5243-46fa-9f81-82af81961bd1",
+      "title": "Superman et Loïs - Saison 2",
+      "programSlug": "superman-et-lois-saison-2",
+      "programUrl": "/programme/ab1/superman-et-lois-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 18:55:00+00",
+      "endTime": "2026-04-20 19:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fc5a4bc0-7bdd-48ca-a2d1-3ebcc4cb7be2",
+      "title": "Superman et Loïs - Saison 2",
+      "programSlug": "superman-et-lois-saison-2",
+      "programUrl": "/programme/ab1/superman-et-lois-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 19:45:00+00",
+      "endTime": "2026-04-20 20:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c6afc5a0-1a4e-451f-8c98-b92f53f3af42",
+      "title": "Superman et Loïs - Saison 2",
+      "programSlug": "superman-et-lois-saison-2",
+      "programUrl": "/programme/ab1/superman-et-lois-saison-2",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 20:35:00+00",
+      "endTime": "2026-04-20 21:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "6e411f70-7829-43e0-9f7b-4e005b741457",
+      "title": "Superman et Loïs - Saison 1",
+      "programSlug": "superman-et-lois-saison-1",
+      "programUrl": "/programme/ab1/superman-et-lois-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 21:25:00+00",
+      "endTime": "2026-04-20 22:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "12c4136d-6a65-4fc8-8ff3-7700eaf9eb66",
+      "title": "Superman et Loïs - Saison 1",
+      "programSlug": "superman-et-lois-saison-1",
+      "programUrl": "/programme/ab1/superman-et-lois-saison-1",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 22:10:00+00",
+      "endTime": "2026-04-20 23:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c7579418-803f-4718-9ea5-b67017809f0f",
+      "title": "7 à la maison - Saison 8",
+      "programSlug": "7-a-la-maison-saison-8",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-8",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-21 11:00:00+00",
+      "endTime": "2026-04-21 11:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "87e8f172-c365-4686-9d2c-440dc37161e4",
+      "title": "7 à la maison - Saison 9",
+      "programSlug": "7-a-la-maison-saison-9",
+      "programUrl": "/programme/rmc-life/7-a-la-maison-saison-9",
+      "channelId": "rmc-life",
+      "channelName": "RMC Life",
+      "channelSlug": "rmc-life",
+      "startTime": "2026-04-21 11:50:00+00",
+      "endTime": "2026-04-21 12:40:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 11:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

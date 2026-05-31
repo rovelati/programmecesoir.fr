@@ -1,0 +1,94 @@
+{
+  "type": "film",
+  "slug": "jamais-sans-mon-psy",
+  "title": "Jamais sans mon psy",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Jamais sans mon psy"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Le docteur Olivier Béranger est un célèbre psychanalyste à qui tout réussit. Sa vie serait parfaite s'il n'y avait pas ce patient très angoissé et extrêmement envahissant : Damien Leroy. Pour s'en débarrasser, il lui fait croire que l'amour est la solution à tous ses problèmes. Enthousiaste, Damien se met en quête de sa moitié. De son côté, ravi du succès de son plan, le thérapeute espère pouvoir souffler un peu. Mais le répit se révèle de courte durée. Alors qu'il s'apprête à célébrer en famille ses trente ans de mariage, sa fille lui présente l'homme de sa vie, qui n'est autre que Damien. La fête va virer au cauchemar...",
+  "descriptionAi": "Cette comédie française de 2024 dépeint avec humour les déboires d'un psychanalyste trop sûr de lui. L'ambiance oscille entre le rire et le malaise, lorsque sa manipulation envers un patient envahissant se retourne contre lui de la pire des façons. Le film explore avec légèreté les thèmes de la responsabilité, du hasard et des relations humaines, offrant un scénario ingénieux qui tient le spectateur en haleine jusqu'au dénouement. Une satire sociale piquante et divertissante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:49:05.102Z",
+  "year": 2024,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q310692",
+      "slug": "christian-clavier",
+      "name": "Christian Clavier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q56818988",
+      "slug": "claire-chust",
+      "name": "Claire Chust",
+      "role": "actor"
+    },
+    {
+      "qid": "Q462318",
+      "slug": "cristiana-reali",
+      "name": "Cristiana Reali",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2883665",
+      "slug": "baptiste-lecaplain",
+      "name": "Baptiste Lecaplain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16672260",
+      "slug": "rayane-bensetti",
+      "name": "Rayane Bensetti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165518",
+      "slug": "jean-francois-cayrey",
+      "name": "Jean-François Cayrey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3525620",
+      "slug": "thomas-vdb",
+      "name": "Thomas VDB",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2863158",
+    "slug": "arnaud-lemort",
+    "name": "Arnaud Lemort",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

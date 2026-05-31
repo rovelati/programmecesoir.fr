@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "gregory-hines",
+  "name": "Gregory Hines",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gregory%20Hines%201993.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1946-02-14",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q367653",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Gregory_Hines",
+    "imdb": "nm0002138",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "soleil-de-nuit",
+      "title": "Soleil de nuit"
+    },
+    {
+      "type": "film",
+      "slug": "tap-dance",
+      "title": "Tap Dance"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

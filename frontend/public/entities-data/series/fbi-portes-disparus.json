@@ -1,0 +1,99 @@
+{
+  "type": "series",
+  "slug": "fbi-portes-disparus",
+  "title": "FBI : portés disparus",
+  "airingsCount": 25,
+  "sourceTitles": [
+    "FBI : portés disparus",
+    "FBI : portés disparus - Saison 7",
+    "FBI: Portés disparus"
+  ],
+  "genres": [
+    "enquête policière",
+    "série télévisée dramatique"
+  ],
+  "description": "Chris Howe, un jeune homme de 26 ans, monte sur son vélo et roule en profitant d'une nuit très agréable. Il ne sait pas encore qu'il va être victime d'un accident. Il gît maintenant sur le sol, sa bicyclette endommagée est à ses côtés. Il se réveille soudain dans sa chambre : il s'agissait d'un rêve. Chris regarde le fauteuil roulant qui se trouve à côté de son lit : la réalité l'a rattrapé. Lorsqu'il se rend à un entretien d'embauche, il est plein d'espoir. La rencontre se déroule extrêmement bien, et Chris fait bonne impression. Son interlocuteur est la dernière personne à l'avoir vu. Chris a disparu juste après son rendez-vous. Les agents découvrent que Chris était toujours en procès pour son accident. Il pourrait s'agir d'un mobile suffisant pour celui ou celle qui l'a kidnappé...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 16
+    },
+    {
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/club-rtl.png",
+      "airingsCount": 9
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2002,
+  "numberOfSeasons": 7,
+  "cast": [
+    {
+      "qid": "Q308124",
+      "slug": "anthony-lapaglia",
+      "name": "Anthony LaPaglia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235075",
+      "slug": "poppy-montgomery",
+      "name": "Poppy Montgomery",
+      "role": "actor"
+    },
+    {
+      "qid": "Q430872",
+      "slug": "marianne-jean-baptiste",
+      "name": "Marianne Jean-Baptiste",
+      "role": "actor"
+    },
+    {
+      "qid": "Q551608",
+      "slug": "enrique-murciano",
+      "name": "Enrique Murciano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q503040",
+      "slug": "eric-close",
+      "name": "Eric Close",
+      "role": "actor"
+    },
+    {
+      "qid": "Q73352",
+      "slug": "roselyn-sanchez",
+      "name": "Roselyn Sánchez",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q3126805",
+    "slug": "hank-steinberg",
+    "name": "Hank Steinberg",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "estelle-lefebure",
+  "name": "Estelle Lefébure",
+  "worksCount": 1,
+  "description": "mannequin et actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Estelle%20Lef%C3%A9bure%20Cannes%202008%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-05-11",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3058909",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Estelle_Lef%C3%A9bure",
+    "imdb": "nm0356803",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "crossing-lines",
+      "title": "Crossing Lines"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

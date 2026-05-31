@@ -1,0 +1,101 @@
+{
+  "type": "film",
+  "slug": "les-vacances-de-monsieur-hulot",
+  "title": "Les vacances de monsieur Hulot",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les vacances de monsieur Hulot",
+    "Les Vacances de monsieur Hulot"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "L'été est arrivé. Au volant de sa vieille guimbarde pétaradante, monsieur Hulot, célibataire dégingandé et farfelu, gagne le littoral breton, où il a loué une chambre dans une paisible station. A peine a-t-il franchi la porte de l'Hôtel de la Plage qu'il provoque catastrophe sur catastrophe. Plein de gentillesse et de bonne volonté, mais maladroit comme il n'est pas permis, il sème la zizanie dans l'hôtel et le désordre dans le quotidien de ses pensionnaires, qui ne demandent, eux, qu'à goûter un peu de calme et de tranquillité. Seule une vieille dame anglaise - sans doute indigne - semble apprécier sa compagnie...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Les%20Vacances%20de%20Monsieur%20Hulot%20title.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1953,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q51549",
+      "slug": "jacques-tati",
+      "name": "Jacques Tati",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2847670",
+      "slug": "andre-dubois",
+      "name": "André Dubois",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3265504",
+      "slug": "lucien-fregis",
+      "name": "Lucien Frégis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15407016",
+      "slug": "michele-brabo",
+      "name": "Michèle Brabo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3420738",
+      "slug": "raymond-carl",
+      "name": "Raymond Carl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3426452",
+      "slug": "rene-lacourt",
+      "name": "René Lacourt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3506161",
+      "slug": "suzy-willy",
+      "name": "Suzy Willy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q113635452",
+      "slug": "marguerite-gerard",
+      "name": "Marguerite Gérard",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51549",
+    "slug": "jacques-tati",
+    "name": "Jacques Tati",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

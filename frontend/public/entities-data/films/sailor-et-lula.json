@@ -1,0 +1,166 @@
+{
+  "type": "film",
+  "slug": "sailor-et-lula",
+  "title": "Sailor et Lula",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Sailor et Lula"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "drame",
+    "adaptation d'un roman au cinéma",
+    "film ou téléfilm d'amour",
+    "néo-noir",
+    "comédie noire",
+    "film policier dramatique",
+    "comédie",
+    "comédie policière",
+    "thriller",
+    "thriller policier"
+  ],
+  "description": "Sailor Ripley fait un séjour dans un centre de correction pour avoir tué un homme de main de Marietta Pace Fortune, dont il a par ailleurs repoussé les avances. A sa sortie de prison, il retrouve Lula, sa dulcinée, qui n'est autre que la fille de Marietta. Ils mettent aussitôt le cap sur le Texas...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1990,
+  "durationMinutes": 120,
+  "cast": [
+    {
+      "qid": "Q42869",
+      "slug": "nicolas-cage",
+      "name": "Nicolas Cage",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220901",
+      "slug": "laura-dern",
+      "name": "Laura Dern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188772",
+      "slug": "willem-dafoe",
+      "name": "Willem Dafoe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310060",
+      "slug": "crispin-glover",
+      "name": "Crispin Glover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234080",
+      "slug": "diane-ladd",
+      "name": "Diane Ladd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q203840",
+      "slug": "isabella-rossellini",
+      "name": "Isabella Rossellini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314290",
+      "slug": "harry-dean-stanton",
+      "name": "Harry Dean Stanton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3156752",
+      "slug": "j-e-freeman",
+      "name": "J.E. Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1198697",
+      "slug": "pruitt-taylor-vince",
+      "name": "Pruitt Taylor Vince",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242552",
+      "slug": "grace-zabriskie",
+      "name": "Grace Zabriskie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233593",
+      "slug": "sheryl-lee",
+      "name": "Sheryl Lee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229993",
+      "slug": "sherilyn-fenn",
+      "name": "Sherilyn Fenn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q645626",
+      "slug": "frank-collison",
+      "name": "Frank Collison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5024455",
+      "slug": "calvin-lockhart",
+      "name": "Calvin Lockhart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210076",
+      "slug": "david-patrick-kelly",
+      "name": "David Patrick Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q195396",
+      "slug": "freddie-jones",
+      "name": "Freddie Jones",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2071",
+    "slug": "david-lynch",
+    "name": "David Lynch",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,80 @@
+{
+  "type": "actor",
+  "slug": "michael-parks",
+  "name": "Michael Parks",
+  "worksCount": 5,
+  "description": "acteur et chanteur américain (1940-2017)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Parks%20Then%20Came%20Bronson%201969.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1940-04-24",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q525318",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michael_Parks",
+    "imdb": "nm0662981",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-arme-secrete",
+      "title": "L'arme secrète"
+    },
+    {
+      "type": "film",
+      "slug": "boulevard-de-la-mort",
+      "title": "Boulevard de la mort"
+    },
+    {
+      "type": "film",
+      "slug": "kill-bill-volume-2",
+      "title": "Kill Bill Volume 2"
+    },
+    {
+      "type": "film",
+      "slug": "hostiles",
+      "title": "Hostiles"
+    },
+    {
+      "type": "film",
+      "slug": "kill-bill-volume-1",
+      "title": "Kill Bill Volume 1"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f16e334c-8387-422b-8b9f-2172bd621195",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/canal-grand-ecran/hostiles",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 09:30:00+00",
+      "endTime": "2026-04-20 11:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4dacd68f-e0db-4701-b856-27454c5900bc",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/cine-frisson/hostiles",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:39:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 09:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

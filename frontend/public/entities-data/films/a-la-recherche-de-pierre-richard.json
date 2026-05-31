@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "a-la-recherche-de-pierre-richard",
+  "title": "A la recherche de Pierre Richard",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "A la recherche de Pierre Richard"
+  ],
+  "genres": [
+    "Documentaires cinéma"
+  ],
+  "description": "Pierre Richard est souvent comparé à Buster Keaton et Groucho Marx pour son expression corporelle et son burlesque verbal. Ses films les plus marquants incluent \"Le Distrait\", \"Le Grand Blond à la chaussure noire\", \"La Chèvre\" et \"Les Compères\". Ce portrait met en lumière l'originalité et la spécificité de cet artiste exceptionnel dont la carrière a été très riche, spécifiquement dans les années 70 et 80.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

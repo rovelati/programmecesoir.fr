@@ -1,0 +1,2 @@
+ALTER TABLE programs_fr
+ADD COLUMN IF NOT EXISTS replay_url TEXT;

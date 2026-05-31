@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "le-seigneur-des-anneaux-le-retour-du-roi",
+  "title": "Le seigneur des anneaux : le retour du roi",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Le seigneur des anneaux : le retour du roi"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Gollum guide Frodon et Sam vers le Mordor, dans l'espoir de dérober l'Anneau à son porteur. Mais pour y parvenir, il doit tromper la vigilance de Sam. Tandis qu'Aragorn tente de persuader Theoden de se porter au secours du Gondor, Gandalf et Pippin se rendent dans ce royaume dans le but de sonner l'alarme...",
+  "descriptionAi": "Ce film de fantasy et d'aventure de 2003 clôt magistralement l'épopée de la Terre du Milieu. L'ambiance oscille entre l'ombre désespérée du Mordor et la lumière fragile des derniers bastions humains, portée par une tension dramatique intense. Ce qui le rend captivant, au-delà des batailles épiques, est la profondeur des dilemmes moraux et la résolution poignante des destins entrelacés des personnages. La quête de Frodon vers la Montagne du Destin et la mobilisation du Gondor pour un ultime combat offrent un final d'une puissance émotionnelle rare, couronné par une réalisation visuelle grandiose. Une conclusion épique et mémorable à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:49:20.242Z",
+  "year": 2003,
+  "durationMinutes": 200,
+  "cast": [
+    {
+      "qid": "Q483771",
+      "slug": "elijah-wood",
+      "name": "Elijah Wood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170510",
+      "slug": "ian-mckellen",
+      "name": "Ian McKellen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q206922",
+      "slug": "andy-serkis",
+      "name": "Andy Serkis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q171363",
+      "slug": "viggo-mortensen",
+      "name": "Viggo Mortensen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q168763",
+      "slug": "liv-tyler",
+      "name": "Liv Tyler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q189351",
+      "slug": "sean-astin",
+      "name": "Sean Astin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q80966",
+      "slug": "cate-blanchett",
+      "name": "Cate Blanchett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q180338",
+      "slug": "christopher-lee",
+      "name": "Christopher Lee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42204",
+      "slug": "hugo-weaving",
+      "name": "Hugo Weaving",
+      "role": "actor"
+    },
+    {
+      "qid": "Q152165",
+      "slug": "dominic-monaghan",
+      "name": "Dominic Monaghan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q276425",
+      "slug": "billy-boyd",
+      "name": "Billy Boyd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16455",
+      "slug": "john-rhys-davies",
+      "name": "John Rhys-Davies",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44467",
+      "slug": "orlando-bloom",
+      "name": "Orlando Bloom",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296328",
+      "slug": "david-wenham",
+      "name": "David Wenham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310515",
+      "slug": "bernard-hill",
+      "name": "Bernard Hill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294975",
+      "slug": "miranda-otto",
+      "name": "Miranda Otto",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q4465",
+    "slug": "peter-jackson",
+    "name": "Peter Jackson",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

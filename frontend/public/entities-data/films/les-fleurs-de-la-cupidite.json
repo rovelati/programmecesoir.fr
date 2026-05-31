@@ -1,0 +1,72 @@
+{
+  "type": "film",
+  "slug": "les-fleurs-de-la-cupidite",
+  "title": "Les fleurs de la cupidité",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Les fleurs de la cupidité"
+  ],
+  "genres": [
+    "Téléfilm",
+    "Telefilms"
+  ],
+  "description": "Hantée par le rejet et l'abandon, Eva s'accroche à l'amour qu'elle a trouvé auprès d'Abel, une relation fondée non pas sur une affection sincère, mais sur des intérêts financiers.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "354af5c7-71d5-4a7c-8347-8f59b6866c25",
+      "title": "Les fleurs de la cupidité",
+      "programSlug": "les-fleurs-de-la-cupidite",
+      "programUrl": "/programme/nollywood-tv/les-fleurs-de-la-cupidite",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-19 19:00:00+00",
+      "endTime": "2026-04-19 20:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "44a258f1-27d0-4820-9452-cf88249da644",
+      "title": "Les fleurs de la cupidité",
+      "programSlug": "les-fleurs-de-la-cupidite",
+      "programUrl": "/programme/nollywood-tv/les-fleurs-de-la-cupidite",
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "startTime": "2026-04-23 03:00:00+00",
+      "endTime": "2026-04-23 05:00:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

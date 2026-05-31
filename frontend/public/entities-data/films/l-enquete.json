@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "l-enquete",
+  "title": "L'enquête",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "L'enquête"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm à énigme",
+    "political thriller film"
+  ],
+  "description": "Février 2001. Le journaliste Denis Robert découvre une énorme affaire en examinant les comptes de la société bancaire luxembourgeoise Clearstream. Il est rejoint dans son combat par le juge Renaud Van Ruymbeke, qui comme lui se fait un devoir de dénoncer la corruption dans la classe politique...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 118,
+  "cast": [
+    {
+      "qid": "Q183178",
+      "slug": "clive-owen",
+      "name": "Clive Owen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132616",
+      "slug": "naomi-watts",
+      "name": "Naomi Watts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q382210",
+      "slug": "ulrich-thomsen",
+      "name": "Ulrich Thomsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q164117",
+      "slug": "armin-mueller-stahl",
+      "name": "Armin Mueller-Stahl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q918510",
+      "slug": "brian-f-o-byrne",
+      "name": "Brían F. O'Byrne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q659712",
+      "slug": "luca-barbareschi",
+      "name": "Luca Barbareschi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q552843",
+      "slug": "luca-calvani",
+      "name": "Luca Calvani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q470210",
+      "slug": "haluk-bilginer",
+      "name": "Haluk Bilginer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1677114",
+      "slug": "jack-mcgee",
+      "name": "Jack McGee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q726140",
+      "slug": "james-rebhorn",
+      "name": "James Rebhorn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8303469",
+      "slug": "laurent-spielvogel",
+      "name": "Laurent Spielvogel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q667712",
+      "slug": "patrick-baladi",
+      "name": "Patrick Baladi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26178",
+      "slug": "felix-solis",
+      "name": "Felix Solis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7800474",
+      "slug": "tibor-feldman",
+      "name": "Tibor Feldman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7312253",
+      "slug": "remy-auberjonois",
+      "name": "Remy Auberjonois",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5981062",
+      "slug": "ian-burfield",
+      "name": "Ian Burfield",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q57231",
+    "slug": "tom-tykwer",
+    "name": "Tom Tykwer",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,155 @@
+{
+  "type": "film",
+  "slug": "a-la-poursuite-d-octobre-rouge",
+  "title": "A la poursuite d'Octobre rouge",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "A la poursuite d'Octobre rouge"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "drame",
+    "film ou téléfilm d'espionnage",
+    "adaptation d'un roman au cinéma",
+    "film et téléfilm de guerre",
+    "film de sous-marin",
+    "thriller",
+    "political thriller film"
+  ],
+  "description": "Mis à l'eau par l'URSS, «Octobre rouge», un sous-marin expérimental, totalement indétectable, est confié au capitaine Marko Ramius, un officier au-dessus de tout soupçon. Mais à peine celui-ci a-t-il immergé son engin qu'il abat l'agent du KGB supposé le surveiller et met le cap sur l'Amérique...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1990,
+  "durationMinutes": 129,
+  "cast": [
+    {
+      "qid": "Q4573",
+      "slug": "sean-connery",
+      "name": "Sean Connery",
+      "role": "actor"
+    },
+    {
+      "qid": "Q114179",
+      "slug": "scott-glenn",
+      "name": "Scott Glenn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q203960",
+      "slug": "james-earl-jones",
+      "name": "James Earl Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q214309",
+      "slug": "sam-neill",
+      "name": "Sam Neill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q471879",
+      "slug": "joss-ackland",
+      "name": "Joss Ackland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q492169",
+      "slug": "richard-jordan",
+      "name": "Richard Jordan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q376981",
+      "slug": "peter-firth",
+      "name": "Peter Firth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q52392",
+      "slug": "tim-curry",
+      "name": "Tim Curry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q710169",
+      "slug": "courtney-b-vance",
+      "name": "Courtney B. Vance",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208667",
+      "slug": "stellan-skarsgard",
+      "name": "Stellan Skarsgård",
+      "role": "actor"
+    },
+    {
+      "qid": "Q377662",
+      "slug": "jeffrey-jones",
+      "name": "Jeffrey Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q737369",
+      "slug": "tomas-arana",
+      "name": "Tomas Arana",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298016",
+      "slug": "fred-thompson",
+      "name": "Fred Thompson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170572",
+      "slug": "alec-baldwin",
+      "name": "Alec Baldwin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q573755",
+      "slug": "anthony-peck",
+      "name": "Anthony Peck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q280198",
+      "slug": "daniel-davis",
+      "name": "Daniel Davis",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q270639",
+    "slug": "john-mctiernan",
+    "name": "John McTiernan",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

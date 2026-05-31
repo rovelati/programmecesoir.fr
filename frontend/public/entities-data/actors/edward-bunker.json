@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "edward-bunker",
+  "name": "Edward Bunker",
+  "worksCount": 1,
+  "description": "écrivain américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Bunker.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1933-12-31",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q250539",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Edward_Bunker",
+    "imdb": "nm0120483",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-recidiviste",
+      "title": "Le récidiviste"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

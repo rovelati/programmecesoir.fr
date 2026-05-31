@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "stargate-la-porte-des-etoiles",
+  "title": "Stargate, la Porte des étoiles",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Stargate, la Porte des étoiles"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action"
+  ],
+  "description": "En 1928, sur le site de la pyramide de Gizeh. Un groupe d'égyptologues découvre un gigantesque anneau de pierre et d'acier, orné de hiéroglyphes. En 1994, enfin, Daniel Jackson, un égyptologue, parvient à en décrypter le sens. Le jeune homme vient de découvrir la Porte des étoiles. Persuadé que les pyramides ont été construites par des êtres venus d'une autre galaxie, il réussit à convaincre l'équipe de franchir ce passage mystérieux. Le colonel O'Neil et ses hommes, accompagnés de Jackson, découvrent une étrange planète régie par Râ, un être hybride qui gouverne une population d'esclaves...",
+  "descriptionAi": "Ce film de science-fiction et d'action de 1994 mêle archéologie mystérieuse et aventure interstellaire. L'ambiance oscille entre la découverte fascinante d'une ancienne technologie et la tension d'une mission militaire en territoire inconnu. L'intrigue est captivante car elle entremêle mythologie égyptienne et hypothèse de visiteurs extraterrestres, offrant un récit d'exploration riche en mystères et en confrontations. Le duo formé par l'intellectuel Daniel Jackson et le soldat O'Neil ajoute une dynamique intéressante au cœur d'un monde étranger dominé par un puissant despote. Une escapade cinématographique qui marie énigme historique et spectacle spatial, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stargate%20-%20Japan%20Expo%202009.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl9.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:37.598Z",
+  "year": 1994,
+  "durationMinutes": 121,
+  "cast": [
+    {
+      "qid": "Q103157",
+      "slug": "kurt-russell",
+      "name": "Kurt Russell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235146",
+      "slug": "mili-avital",
+      "name": "Mili Avital",
+      "role": "actor"
+    },
+    {
+      "qid": "Q267217",
+      "slug": "viveca-lindfors",
+      "name": "Viveca Lindfors",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296928",
+      "slug": "james-spader",
+      "name": "James Spader",
+      "role": "actor"
+    },
+    {
+      "qid": "Q360550",
+      "slug": "jaye-davidson",
+      "name": "Jaye Davidson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q947748",
+      "slug": "john-diehl",
+      "name": "John Diehl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q711035",
+      "slug": "erick-avari",
+      "name": "Erick Avari",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1274818",
+      "slug": "alexis-cruz",
+      "name": "Alexis Cruz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298682",
+      "slug": "djimon-hounsou",
+      "name": "Djimon Hounsou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296577",
+      "slug": "frank-welker",
+      "name": "Frank Welker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q707410",
+      "slug": "french-stewart",
+      "name": "French Stewart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q453906",
+      "slug": "leon-rippy",
+      "name": "Leon Rippy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1255091",
+      "slug": "rae-allen",
+      "name": "Rae Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449959",
+      "slug": "richard-kind",
+      "name": "Richard Kind",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3498934",
+      "slug": "steve-giannelli",
+      "name": "Steve Giannelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19559065",
+      "slug": "derek-webster",
+      "name": "Derek Webster",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q60100",
+    "slug": "roland-emmerich",
+    "name": "Roland Emmerich",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

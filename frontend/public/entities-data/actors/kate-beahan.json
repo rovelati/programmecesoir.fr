@@ -1,0 +1,78 @@
+{
+  "type": "actor",
+  "slug": "kate-beahan",
+  "name": "Kate Beahan",
+  "worksCount": 2,
+  "description": "actrice australienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kate%20Beahan%20on%20RealTVfilms.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1974-10-12",
+  "nationality": "Australie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q447938",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kate_Beahan",
+    "imdb": "nm0063571",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-ames-perdues",
+      "title": "Les âmes perdues"
+    },
+    {
+      "type": "film",
+      "slug": "matrix-revolutions",
+      "title": "Matrix Revolutions"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3d5b2815-5bba-4d93-bf43-2611cc225832",
+      "title": "Les âmes perdues",
+      "programSlug": "les-ames-perdues",
+      "programUrl": "/programme/tv5-monde/les-ames-perdues",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-20 21:06:00+00",
+      "endTime": "2026-04-20 22:48:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "97362478-1d0e-4bb7-9ee9-c19e605c394f",
+      "title": "Matrix Revolutions",
+      "programSlug": "matrix-revolutions",
+      "programUrl": "/programme/canal-grand-ecran/matrix-revolutions",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 11:10:00+00",
+      "endTime": "2026-04-23 13:15:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "955b2c9a-fcb1-4fc5-91e8-ff9772fae3d7",
+      "title": "Matrix Revolutions",
+      "programSlug": "matrix-revolutions",
+      "programUrl": "/programme/canal-grand-ecran/matrix-revolutions",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 21:19:00+00",
+      "endTime": "2026-04-25 23:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 21:06:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

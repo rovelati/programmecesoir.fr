@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "amour-delices-et-golf",
+  "title": "Amour, délices et golf",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Amour, délices et golf"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Harvey est un joueur de golf imbattable, tant qu'il est seul sur le terrain. Sa timidité maladive lui fait perdre tous ses moyens dès qu'il est en public. Il fait équipe avec son ami Joe à qui il sert de caddy. Harvey demande cette fois-ci à Joe de lui faire confiance et le persuade de l'utiliser dans un grand tournoi. Mais le malheureux fait tant de pitreries involontaires que son équipe est disqualifiée et interdite de circuit professionnel. Les deux infortunés vont alors tenter leur chance dans le spectacle. Là, en revanche, un imprésario les remarque et décide de les engager pour un numéro de music-hall...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1953,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q215359",
+      "slug": "dean-martin",
+      "name": "Dean Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q294927",
+      "slug": "jerry-lewis",
+      "name": "Jerry Lewis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q224021",
+      "slug": "donna-reed",
+      "name": "Donna Reed",
+      "role": "actor"
+    },
+    {
+      "qid": "Q204750",
+      "slug": "barbara-bates",
+      "name": "Barbara Bates",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1604757",
+      "slug": "joseph-calleia",
+      "name": "Joseph Calleia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2484213",
+      "slug": "fred-clark",
+      "name": "Fred Clark",
+      "role": "actor"
+    },
+    {
+      "qid": "Q283123",
+      "slug": "frank-puglia",
+      "name": "Frank Puglia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q340039",
+      "slug": "argentina-brunetti",
+      "name": "Argentina Brunetti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q365626",
+      "slug": "ben-hogan",
+      "name": "Ben Hogan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2979356",
+      "slug": "clinton-sundberg",
+      "name": "Clinton Sundberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q510115",
+      "slug": "marjorie-gateson",
+      "name": "Marjorie Gateson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q560770",
+      "slug": "marshall-thompson",
+      "name": "Marshall Thompson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15469159",
+      "slug": "john-gallaudet",
+      "name": "John Gallaudet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16222684",
+      "slug": "charles-irwin",
+      "name": "Charles Irwin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1606541",
+      "slug": "henry-brandon",
+      "name": "Henry Brandon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q513849",
+      "slug": "bess-flowers",
+      "name": "Bess Flowers",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q95111",
+    "slug": "norman-taurog",
+    "name": "Norman Taurog",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "film",
+  "slug": "la-fille-a-la-valise",
+  "title": "La fille à la valise",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La fille à la valise"
+  ],
+  "genres": [
+    "film ou téléfilm d'amour",
+    "drame"
+  ],
+  "description": "Séduite par les promesses du beau et riche Marcello Fainardi, Aïda Zepponi, petite chanteuse de cabaret, rompt son contrat pour suivre son aimé à Parme. Hélas, une fois dans sa ville natale, Marcello ne songe plus qu'à se débarrasser d'elle. Lorsqu'Aïda lui demande des explications, Marcello charge son jeune frère, Lorenzo, de l'éconduire. Lorenzo n'accepte pas la légèreté de son aîné et décide de venir en aide à la belle abandonnée. L'adolescent ouvre la porte de la demeure familiale à Aïda. Ebloui par les charmes de la jeune femme, il tente de réparer les erreurs de Marcello. Peu à peu, la pitié que lui inspire Aïda se change en un sentiment plus fort et plus noble...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trans-Lux%20Plaza%20Ad%20-%2020%20October%201961%2C%20NW%2C%20Washington%2C%20D.C.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1961,
+  "durationMinutes": 113,
+  "cast": [
+    {
+      "qid": "Q107006",
+      "slug": "claudia-cardinale",
+      "name": "Claudia Cardinale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q561124",
+      "slug": "jacques-perrin",
+      "name": "Jacques Perrin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1679367",
+      "slug": "luciana-angiolillo",
+      "name": "Luciana Angiolillo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2143586",
+      "slug": "renato-baldini",
+      "name": "Renato Baldini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q973621",
+      "slug": "riccardo-garrone",
+      "name": "Riccardo Garrone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q143410",
+      "slug": "elsa-albani",
+      "name": "Elsa Albani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3694290",
+      "slug": "corrado-pani",
+      "name": "Corrado Pani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317110",
+      "slug": "gian-maria-volonte",
+      "name": "Gian Maria Volontè",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1849086",
+      "slug": "romolo-valli",
+      "name": "Romolo Valli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1091579",
+      "slug": "ciccio-barbi",
+      "name": "Ciccio Barbi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3726538",
+      "slug": "enzo-garinei",
+      "name": "Enzo Garinei",
+      "role": "actor"
+    },
+    {
+      "qid": "Q533184",
+      "slug": "angela-portaluri",
+      "name": "Angela Portaluri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3718910",
+      "slug": "edda-soligo",
+      "name": "Edda Soligo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q53041",
+    "slug": "valerio-zurlini",
+    "name": "Valerio Zurlini",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

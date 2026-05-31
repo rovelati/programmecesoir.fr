@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "beau-knapp",
+  "name": "Beau Knapp",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1989-04-17",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q20740615",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Beau_Knapp",
+    "imdb": "nm3354041",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "the-nice-guys",
+      "title": "The Nice Guys"
+    },
+    {
+      "type": "film",
+      "slug": "night-run",
+      "title": "Night Run"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a0c52da9-af7b-4ef3-b450-b74ee2ecf97c",
+      "title": "Night Run",
+      "programSlug": "night-run",
+      "programUrl": "/programme/cine-frisson/night-run",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 20:34:00+00",
+      "endTime": "2026-04-22 22:22:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e5ea0f2a-1c28-434c-9b94-c218155ad40d",
+      "title": "Night Run",
+      "programSlug": "night-run",
+      "programUrl": "/programme/cine-frisson/night-run",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 13:41:00+00",
+      "endTime": "2026-04-25 15:35:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-22 20:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,174 @@
+{
+  "type": "film",
+  "slug": "2012",
+  "title": "2012",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "2012"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film ou téléfilm catastrophe"
+  ],
+  "description": "En 2009, des modifications dans la structure terrestre suggèrent au géologue Adrian Helmsley que la fin du monde approche. Il fait part de ses craintes aux autorités. Trois ans plus tard, Jackson Curtis, chauffeur de limousine, campe avec ses deux enfants quand il rencontre Charlie, un illuminé qui lui annonce une catastrophe imminente. Effectivement, peu de temps après, des cataclysmes frappent la Terre, provoquant de terribles destructions. Jackson, convaincu de la véracité des prophéties de Charlie, réunit ses enfants, Noah et Lily, son ancienne épouse Kate et le compagnon de cette dernière, Gordon, pour les mener dans un endroit sûr, où ils seront à l'abri de ces catastrophes...",
+  "descriptionAi": "Ce film catastrophe de science-fiction plonge le spectateur dans une ambiance apocalyptique intense, où des cataclysmes planétaires menacent l'existence humaine. L'intérêt réside dans ses effets spéciaux spectaculaires et sa tension narrative incessante, suivant des personnages ordinaires luttant pour survivre à un scénario de fin du monde. Le mélange de désastre à grande échelle et d'histoires personnelles crée un divertissement haletant, captivant par son rythme effréné et ses images grandioses de destruction. Une épopée visuelle qui interroge notre résilience face à l'inexorable, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1cb23026-2c11-4b24-8f46-77cd5e041250",
+      "title": "2012",
+      "programSlug": "2012",
+      "programUrl": "/programme/cine-frisson/2012",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 12:35:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "93015ca0-767e-4247-b731-87a5635aa6fe",
+      "title": "2012",
+      "programSlug": "2012",
+      "programUrl": "/programme/ocs/2012",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 16:17:00+00",
+      "endTime": "2026-04-22 18:50:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:23:15.461Z",
+  "year": 2009,
+  "durationMinutes": 158,
+  "cast": [
+    {
+      "qid": "Q106175",
+      "slug": "john-cusack",
+      "name": "John Cusack",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317343",
+      "slug": "chiwetel-ejiofor",
+      "name": "Chiwetel Ejiofor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131332",
+      "slug": "amanda-peet",
+      "name": "Amanda Peet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q343510",
+      "slug": "oliver-platt",
+      "name": "Oliver Platt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229029",
+      "slug": "thandiwe-newton",
+      "name": "Thandiwe Newton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192165",
+      "slug": "danny-glover",
+      "name": "Danny Glover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q201279",
+      "slug": "woody-harrelson",
+      "name": "Woody Harrelson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q514527",
+      "slug": "tom-mccarthy",
+      "name": "Tom McCarthy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q554506",
+      "slug": "liam-james",
+      "name": "Liam James",
+      "role": "actor"
+    },
+    {
+      "qid": "Q268076",
+      "slug": "morgan-lily",
+      "name": "Morgan Lily",
+      "role": "actor"
+    },
+    {
+      "qid": "Q266881",
+      "slug": "beatrice-rosen",
+      "name": "Beatrice Rosen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q927102",
+      "slug": "johann-urb",
+      "name": "Johann Urb",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449900",
+      "slug": "george-segal",
+      "name": "George Segal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q453724",
+      "slug": "john-billingsley",
+      "name": "John Billingsley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q724227",
+      "slug": "jimi-mistry",
+      "name": "Jimi Mistry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q938855",
+      "slug": "chin-han",
+      "name": "Chin Han",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q60100",
+    "slug": "roland-emmerich",
+    "name": "Roland Emmerich",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 12:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

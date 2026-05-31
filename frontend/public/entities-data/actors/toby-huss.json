@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "toby-huss",
+  "name": "Toby Huss",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toby%20Huss%20%40%20Bowery%20Ballroom%20(February%2C%202012).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-12-09",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q946117",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Toby_Huss",
+    "imdb": "nm0403947",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "evanouis",
+      "title": "Evanouis"
+    },
+    {
+      "type": "film",
+      "slug": "rescue-dawn",
+      "title": "Rescue Dawn"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

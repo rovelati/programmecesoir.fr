@@ -1,0 +1,91 @@
+{
+  "type": "film",
+  "slug": "l-homme-du-tai-chi",
+  "title": "L'homme du Tai Chi",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "L'homme du Tai Chi"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film d'arts martiaux"
+  ],
+  "description": "Tiger est convié à passer un test de combat qu'il réussit brillamment. Il est alors recruté par Donaka Mark, un homme mystérieux et aux desseins obscurs, pour devenir son champion. Les rencontres sont complètement illégales mais Tiger ferme les yeux car il veut aider à la mission de son maître de taï chi...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q43416",
+      "slug": "keanu-reeves",
+      "name": "Keanu Reeves",
+      "role": "actor"
+    },
+    {
+      "qid": "Q716027",
+      "slug": "karen-mok",
+      "name": "Karen Mok",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2350460",
+      "slug": "iko-uwais",
+      "name": "Iko Uwais",
+      "role": "actor"
+    },
+    {
+      "qid": "Q667260",
+      "slug": "simon-yam",
+      "name": "Simon Yam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15911124",
+      "slug": "tiger-chen",
+      "name": "Tiger Chen",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q43416",
+    "slug": "keanu-reeves",
+    "name": "Keanu Reeves",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

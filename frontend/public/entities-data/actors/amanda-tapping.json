@@ -1,0 +1,185 @@
+{
+  "type": "actor",
+  "slug": "amanda-tapping",
+  "name": "Amanda Tapping",
+  "worksCount": 2,
+  "description": "actrice et réalisatrice canadienne",
+  "descriptionAi": "Amanda Tapping incarne la force tranquille et l'intelligence à l'écran, notamment dans des séries de science-fiction et de fantastique. Elle s'est imposée comme une figure marquante du genre grâce à des rôles emblématiques où son personnage allie compétence scientifique, courage moral et une profonde humanité. L'ambiance oscille souvent entre mystère, aventure et développement de relations humaines complexes. Ce qui captive, c'est sa capacité à donner vie à des héroïnes résolues et vulnérables, créant un attachement durable. Pour découvrir ou redécouvrir ses performances marquantes, une sélection de ses œuvres est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amanda%20Tapping%20OCC%20Adelaide%202014%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-08-28",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q229207",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Amanda_Tapping",
+    "imdb": "nm0850102",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "stargate-atlantis",
+      "title": "Stargate Atlantis"
+    },
+    {
+      "type": "series",
+      "slug": "stargate-sg-1",
+      "title": "Stargate SG-1"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bf8616c0-5fa7-4acb-bf35-d6114ad2d87b",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 14:45:00+00",
+      "endTime": "2026-04-20 15:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c67438b8-3c61-41bb-b28b-f299855d964f",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 15:35:00+00",
+      "endTime": "2026-04-20 16:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4151143e-6688-4480-9624-3cc099695ad4",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 16:20:00+00",
+      "endTime": "2026-04-20 17:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a0e3170a-28e0-4be7-9937-fab5244e5d33",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 17:10:00+00",
+      "endTime": "2026-04-20 18:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "758b77c1-c8fe-4671-a574-206a53928c39",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 18:00:00+00",
+      "endTime": "2026-04-20 18:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "594fce1b-9742-414a-8ec5-ea64cfd81b0f",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 14:45:00+00",
+      "endTime": "2026-04-21 15:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "5a4312b0-6004-45b6-816f-c0e230beb395",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 15:35:00+00",
+      "endTime": "2026-04-21 16:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1d701bf4-eb18-4574-a668-27a3a6f9d5bd",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 16:20:00+00",
+      "endTime": "2026-04-21 17:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b6ba6a2b-2ba4-4d99-bb46-69d8d7f1f11b",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 17:10:00+00",
+      "endTime": "2026-04-21 18:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8a46ac3c-71de-47de-a152-826d5901748b",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-21 18:00:00+00",
+      "endTime": "2026-04-21 18:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "41bfebc8-19ae-4312-b38b-a71e223c1e37",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 14:45:00+00",
+      "endTime": "2026-04-22 15:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "d222a703-3684-49d1-91ae-88f3df22df86",
+      "title": "Stargate SG-1 - Saison 3",
+      "programSlug": "stargate-sg-1-saison-3",
+      "programUrl": "/programme/ab1/stargate-sg-1-saison-3",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-22 15:35:00+00",
+      "endTime": "2026-04-22 16:20:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:02.151Z",
+  "nextAiringAt": "2026-04-20 14:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

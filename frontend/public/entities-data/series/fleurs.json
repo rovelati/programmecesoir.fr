@@ -1,0 +1,264 @@
+{
+  "type": "series",
+  "slug": "fleurs",
+  "title": "Fleurs",
+  "airingsCount": 60,
+  "sourceTitles": [
+    "Fleurs"
+  ],
+  "genres": [
+    "Série TV",
+    "Série"
+  ],
+  "description": "Dans une série de quatre épisodes enchanteurs, \"Fleurs\" invite les spectateurs à plonger dans un univers où la nature et l'imaginaire se rencontrent harmonieusement. Chaque épisode propose une promenade visuelle captivante, alternant entre des paysages sereins le long d'une rive paisible, des champs éclatants de couleurs et des récifs coralliens vibrants de vie marine. Le spectateur est transporté dans un monde où chaque image est soigneusement tissée avec une bande sonore riche et apaisante, créant une atmosphère de détente et de contemplation. \n\nDes personnages adorables, vêtus de dentelle délicate, ajoutent une touche de fantaisie et d'émerveillement à cette exploration sensorielle. À travers des scènes poétiques et évocatrices, \"Fleurs\" célèbre la beauté du monde naturel tout en éveillant l'imagination. Ce programme est une ode à la sérénité, offrant un refuge visuel et auditif pour tous ceux qui cherchent à échapper au tumulte du quotidien.",
+  "descriptionAi": "Cette série documentaire en quatre épisodes offre une immersion contemplative dans la beauté du monde végétal et aquatique. Entre paysages sereins, champs fleuris et récifs coralliens, l'ambiance est celle d'une promenade visuelle et sonore apaisante, une véritable parenthèse de sérénité. La rencontre entre des images soigneusement composées et une bande-son riche crée une expérience sensorielle unique, agrémentée d'une touche de poésie et de fantaisie. C'est une invitation à ralentir et à se reconnecter avec la nature, pour un moment d'évasion pure. Ne manquez pas cette ode à la tranquillité, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flores.gif",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/babytv.png",
+      "airingsCount": 60
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9ad23631-256b-4085-a0fb-756d2ee04dec",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 20:24:00+00",
+      "endTime": "2026-04-19 20:34:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6a7d78f6-39f2-435b-8200-c69007010a19",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 21:04:00+00",
+      "endTime": "2026-04-19 21:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "982e7cf1-4e4a-40c9-9760-502a66cae8bb",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 21:37:00+00",
+      "endTime": "2026-04-19 21:47:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f7f28122-66c3-4c52-90c2-dc9cfbc56b89",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 20:26:00+00",
+      "endTime": "2026-04-20 20:36:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "832de5af-0066-4791-b8af-f3357fee9ae0",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 21:04:00+00",
+      "endTime": "2026-04-20 21:14:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "00a3eb9a-2cbc-4859-b501-56f7c9d80c6f",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-20 21:38:00+00",
+      "endTime": "2026-04-20 21:48:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "dabace68-9e5e-4822-941a-e31f91fa67a5",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-21 20:24:00+00",
+      "endTime": "2026-04-21 20:34:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c5bc0490-8fe7-40e6-8d37-5a371f341f32",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-21 21:04:00+00",
+      "endTime": "2026-04-21 21:14:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2ee3c53b-c0c8-4c0c-8394-a0120022a406",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-21 21:38:00+00",
+      "endTime": "2026-04-21 21:48:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "59067512-ce50-4a04-85ca-6e07520a25ad",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-21 22:16:00+00",
+      "endTime": "2026-04-21 22:27:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7e365b10-3e85-4906-a8eb-a3d6d14559ec",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 20:23:00+00",
+      "endTime": "2026-04-22 20:33:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a8a4e41e-170c-4d05-a8e4-a58b7bdfbcf0",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 21:02:00+00",
+      "endTime": "2026-04-22 21:12:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "37131c41-bc4c-46df-8c11-4578369e35d0",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 21:33:00+00",
+      "endTime": "2026-04-22 21:43:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f227fa85-a154-48d8-93b4-79069ead3d87",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 22:12:00+00",
+      "endTime": "2026-04-22 22:22:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "3e1846fa-170a-4f1e-ad7a-f2c6b008330f",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-23 20:22:00+00",
+      "endTime": "2026-04-23 20:32:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "b7aedb64-5d15-4273-bafd-54c45bb12464",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-23 21:01:00+00",
+      "endTime": "2026-04-23 21:11:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "a5d49204-4e8f-4706-a398-9c5171ade652",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-23 21:33:00+00",
+      "endTime": "2026-04-23 21:43:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "83196454-c300-43a5-b17e-69e6a20c886e",
+      "title": "Fleurs",
+      "programSlug": "fleurs",
+      "programUrl": "/programme/babytv/fleurs",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-23 22:12:00+00",
+      "endTime": "2026-04-23 22:22:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T22:41:30.717Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 20:24:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,131 @@
+{
+  "type": "film",
+  "slug": "avant-toi",
+  "title": "Avant toi",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Avant toi"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "U.S. 2016. A girl in a small town forms an unlikely bond with a recently-paralyzed man she&#039;s taking care of.\n\nAnnée : 2016\n\nRéalisation :\nThea Sharrock\n\n\n\nAvec :\nEmilia Clarke\nSam Claflin\nMatthew Lewis",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "vision",
+      "channelName": "VISION",
+      "channelSlug": "vision",
+      "channelNumber": null,
+      "logoUrl": "/loghi/vision.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 123,
+  "cast": [
+    {
+      "qid": "Q235132",
+      "slug": "emilia-clarke",
+      "name": "Emilia Clarke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q366833",
+      "slug": "sam-claflin",
+      "name": "Sam Claflin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273403",
+      "slug": "jenna-louise-coleman",
+      "name": "Jenna-Louise Coleman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111230",
+      "slug": "matthew-lewis",
+      "name": "Matthew Lewis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7613572",
+      "slug": "steve-peacocke",
+      "name": "Steve Peacocke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309690",
+      "slug": "charles-dance",
+      "name": "Charles Dance",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232292",
+      "slug": "janet-mcteer",
+      "name": "Janet McTeer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7408738",
+      "slug": "samantha-spiro",
+      "name": "Samantha Spiro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15787617",
+      "slug": "ben-lloyd-hughes",
+      "name": "Ben Lloyd-Hughes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6159535",
+      "slug": "vanessa-kirby",
+      "name": "Vanessa Kirby",
+      "role": "actor"
+    },
+    {
+      "qid": "Q908668",
+      "slug": "brendan-coyle",
+      "name": "Brendan Coyle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q254886",
+      "slug": "joanna-lumley",
+      "name": "Joanna Lumley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q47012235",
+      "slug": "chuku-modu",
+      "name": "Chuku Modu",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q7777218",
+    "slug": "thea-sharrock",
+    "name": "Thea Sharrock",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

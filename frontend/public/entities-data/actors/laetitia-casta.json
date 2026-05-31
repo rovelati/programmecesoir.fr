@@ -1,0 +1,94 @@
+{
+  "type": "actor",
+  "slug": "laetitia-casta",
+  "name": "Laetitia Casta",
+  "worksCount": 3,
+  "description": "actrice, mannequin, scénariste et réalisatrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laetitia%20Casta%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-05-11",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q207578",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Laetitia_Casta",
+    "imdb": "nm0144377",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "una-donna-per-amica",
+      "title": "Una donna per amica"
+    },
+    {
+      "type": "film",
+      "slug": "sous-les-jupes-des-filles",
+      "title": "Sous les jupes des filles"
+    },
+    {
+      "type": "film",
+      "slug": "asterix-et-obelix-contre-cesar",
+      "title": "Astérix et Obélix contre César"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0cfb2382-e92c-4564-84cb-2e7caade4407",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 07:05:00+00",
+      "endTime": "2026-04-19 08:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5b573118-6df5-44c3-9f9e-00230b0f174c",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 14:15:00+00",
+      "endTime": "2026-04-19 15:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "19bcb3a6-cb28-4097-95ff-cefdd0cfc1f0",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-22 02:35:00+00",
+      "endTime": "2026-04-22 04:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "0f384023-b5c9-42ba-9261-328c7eec397b",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 04:00:00+00",
+      "endTime": "2026-04-26 05:25:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 07:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

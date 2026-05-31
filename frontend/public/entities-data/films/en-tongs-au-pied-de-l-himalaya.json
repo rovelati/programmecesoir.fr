@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "en-tongs-au-pied-de-l-himalaya",
+  "title": "En tongs au pied de l'Himalaya",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "En tongs au pied de l'Himalaya"
+  ],
+  "genres": [
+    "comédie dramatique"
+  ],
+  "description": "Pauline est la mère d'Andréa, un petit garçon de 6 ans qui a été diagnostiqué comme étant atteint d'un TSA : un trouble du spectre autistique. Toujours scolarisé, il s'apprête à faire sa rentrée en grande section de maternelle. Pour Pauline, sans revenus fixes et récemment séparée du père d'Andréa, tout semble concourir à faire de sa vie une succession d'échecs. Or pour Andréa, c'est une année cruciale qui va déterminer s'il peut ou non rester scolarisé et obtenir ainsi une meilleure chance de voir son état s'améliorer. Pour cela, il a besoin de stabilité. Pour Pauline, la lui apporter, c'est un peu gravir l'Himalaya en tongs…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q759001",
+      "slug": "audrey-lamy",
+      "name": "Audrey Lamy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q97577712",
+      "slug": "nicolas-chupin",
+      "name": "Nicolas Chupin",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q96373982",
+    "slug": "john-wax",
+    "name": "John Wax",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

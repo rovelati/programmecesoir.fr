@@ -1,0 +1,137 @@
+{
+  "type": "film",
+  "slug": "amour-turbulences",
+  "title": "Amour & Turbulences",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Amour & Turbulences"
+  ],
+  "genres": [
+    "comédie romantique"
+  ],
+  "description": "A bord d'un vol New York-Paris, la pétillante Julie découvre que le passager assis juste à côté d'elle n'est autre qu'un de ses ex, Antoine. Ce séduisant jeune homme lui a laissé de bons souvenirs bien que leur idylle ait tourné court. Antoine lui fait alors savoir qu'il va tout faire pour la reconquérir...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "channelNumber": null,
+      "logoUrl": "/loghi/carac-1-hd.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "77c52286-0702-4684-9920-123f5d7e7be8",
+      "title": "Amour & Turbulences",
+      "programSlug": "amour-turbulences",
+      "programUrl": "/programme/carac-1-hd/amour-turbulences",
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "startTime": "2026-04-20 21:15:00+00",
+      "endTime": "2026-04-20 22:55:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q233742",
+      "slug": "ludivine-sagnier",
+      "name": "Ludivine Sagnier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q741655",
+      "slug": "nicolas-bedos",
+      "name": "Nicolas Bedos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3183342",
+      "slug": "jonathan-cohen",
+      "name": "Jonathan Cohen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2863100",
+      "slug": "arnaud-ducret",
+      "name": "Arnaud Ducret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2925417",
+      "slug": "brigitte-catillon",
+      "name": "Brigitte Catillon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3157386",
+      "slug": "jackie-berroyer",
+      "name": "Jackie Berroyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q511848",
+      "slug": "clementine-celarie",
+      "name": "Clémentine Célarié",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1930952",
+      "slug": "michel-vuillermoz",
+      "name": "Michel Vuillermoz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3349268",
+      "slug": "odile-vuillemin",
+      "name": "Odile Vuillemin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3490824",
+      "slug": "sophie-charlotte-husson",
+      "name": "Sophie-Charlotte Husson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17989918",
+      "slug": "jerome-charvet",
+      "name": "Jérôme Charvet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16185718",
+      "slug": "lila-salet",
+      "name": "Lila Salet",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q15136777",
+    "slug": "alexandre-castagnetti",
+    "name": "Alexandre Castagnetti",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 21:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

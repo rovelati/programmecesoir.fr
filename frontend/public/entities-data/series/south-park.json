@@ -1,0 +1,145 @@
+{
+  "type": "series",
+  "slug": "south-park",
+  "title": "South Park",
+  "airingsCount": 97,
+  "sourceTitles": [
+    "South Park"
+  ],
+  "genres": [
+    "série télévisée comique",
+    "humour absurde",
+    "raunchy comedy television program"
+  ],
+  "description": "A l'école, chaque enfant présente son projet pédagogique devant ses camarades de classe. Lorsque Token expose son projet aux autres élèves, ces derniers se mettent à rire pour la seule et unique raison que le nouveau venu est riche ! En rentrant à la maison, Token se plaint à ses parents d'être une source d'hilarité sans fin pour ses camarades à cause de sa grande fortune. En dépit de tous les efforts consentis, il sait bien qu'il ne pourra jamais être un enfant comme les autres. Il lui vient alors une idée surprenante : inciter d'autres personnes fortunées à venir s'installer à South Park...",
+  "descriptionAi": "Cette série télévisée comique, débutée en 1997, cultive un humour absurde et volontiers provocateur. À travers les mésaventures de quatre enfants dans une petite ville du Colorado, elle offre une satire sociale et politique aussi cinglante qu’impertinente. Son ambiance unique, mêlant animation rudimentaire et propos décomplexés, déconstruit avec génie tous les sujets d’actualité. Ce qui la rend captivante, c’est son audace à traiter l’absurdité du monde moderne avec une franchise désarmante et un rythme effréné, forgeant ainsi un miroir déformant et hilarant de notre époque. Ne manquez pas les derniers rebondissements de cette série culte, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "channelNumber": null,
+      "logoUrl": "/loghi/comedy-central.png",
+      "airingsCount": 97
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "abb62c7b-59b3-405f-8c5a-6028fa4e1591",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 18:50:00+00",
+      "endTime": "2026-04-19 19:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9c0ce287-6bdb-4faf-b4cd-91ea1fc42239",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 19:15:00+00",
+      "endTime": "2026-04-19 19:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fbc85b55-a55a-40ce-a6f9-15231bfe7fad",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 19:40:00+00",
+      "endTime": "2026-04-19 20:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "44e9b44e-249c-4f62-b896-d6d3cb00af6d",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 21:05:00+00",
+      "endTime": "2026-04-19 21:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7a38f158-c239-47c3-b8d4-b1fe9077c975",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 21:25:00+00",
+      "endTime": "2026-04-19 21:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "72067633-da58-4be7-802f-95bb7fbed7cc",
+      "title": "South Park",
+      "programSlug": "south-park",
+      "programUrl": "/programme/comedy-central/south-park",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-19 21:50:00+00",
+      "endTime": "2026-04-19 22:15:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:07:40.179Z",
+  "startYear": 1997,
+  "numberOfSeasons": 27,
+  "cast": [
+    {
+      "qid": "Q242945",
+      "slug": "mary-kay-bergman",
+      "name": "Mary Kay Bergman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q261865",
+      "slug": "mona-marshall",
+      "name": "Mona Marshall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q206439",
+      "slug": "isaac-hayes",
+      "name": "Isaac Hayes",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q44414",
+    "slug": "trey-parker",
+    "name": "Trey Parker",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

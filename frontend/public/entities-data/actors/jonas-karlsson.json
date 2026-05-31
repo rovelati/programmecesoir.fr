@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jonas-karlsson",
+  "name": "Jonas Karlsson",
+  "worksCount": 1,
+  "description": "acteur et écrivain suédois",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Karlsson%20(Gothenburg%20Book%20Fair%202009).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-03-11",
+  "nationality": "Suède",
+  "jobTitle": "écrivain ou écrivaine",
+  "externalIds": {
+    "wikidata": "Q1339383",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jonas_Karlsson",
+    "imdb": "nm0439642",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "sthlm-requiem",
+      "title": "Sthlm requiem"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

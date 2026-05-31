@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jacques-perrin",
+  "name": "Jacques Perrin",
+  "worksCount": 1,
+  "description": "acteur, producteur, réalisateur et scénariste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Perrin%202009%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1941-07-13",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q561124",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jacques_Perrin",
+    "imdb": "nm0674742",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-fille-a-la-valise",
+      "title": "La fille à la valise"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

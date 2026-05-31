@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "catalina-denis",
+  "name": "Catalina Denis",
+  "worksCount": 2,
+  "description": "actrice colombienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Catalina%20Denis.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1995-08-07",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q461656",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Catalina_Denis",
+    "imdb": "nm2706850",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "go-fast",
+      "title": "Go Fast"
+    },
+    {
+      "type": "film",
+      "slug": "brick-mansions",
+      "title": "Brick Mansions"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

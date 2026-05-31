@@ -1,0 +1,83 @@
+{
+  "type": "film",
+  "slug": "ce-qui-nous-lie",
+  "title": "Ce qui nous lie",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Ce qui nous lie"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Fils de vigneron, Jean a eu envie de prendre le large. Il a pris son baluchon et a parcouru la planète, sans donner de nouvelles à sa soeur Juliette et son frère Jérémie pendant plus de quatre ans. Son père étant tombé gravement malade, le voilà de retour. Si Juliette est contente de le revoir et bien décidée à ne pas le laisser repartir, Jérémie a dû mal à accepter le retour du fils prodigue. Leur père meurt juste avant les vendanges. Pour Jean, c'est l'heure du choix : celui de s'investir ou non dans l'exploitation et surtout, renouer les liens entre lui, Juliette et Jérémie...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "08e5042d-e8cb-49f2-b726-94d6a1d9b78b",
+      "title": "Ce qui nous lie",
+      "programSlug": "ce-qui-nous-lie",
+      "programUrl": "/programme/cine-family/ce-qui-nous-lie",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-19 13:52:00+00",
+      "endTime": "2026-04-19 15:42:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5a04f894-4490-4f04-9d26-7c19d2854a93",
+      "title": "Ce qui nous lie",
+      "programSlug": "ce-qui-nous-lie",
+      "programUrl": "/programme/cine-festival/ce-qui-nous-lie",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-20 09:41:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 113,
+  "cast": [
+    {
+      "qid": "Q1139064",
+      "slug": "pio-marmai",
+      "name": "Pio Marmaï",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q513632",
+    "slug": "cedric-klapisch",
+    "name": "Cédric Klapisch",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 13:52:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

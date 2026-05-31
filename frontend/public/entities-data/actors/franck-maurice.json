@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "franck-maurice",
+  "name": "Franck Maurice",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-01-01",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3082209",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Franck_Maurice",
+    "imdb": "nm0561112",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dernier-atout",
+      "title": "Dernier atout"
+    },
+    {
+      "type": "film",
+      "slug": "madame-de",
+      "title": "Madame de..."
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

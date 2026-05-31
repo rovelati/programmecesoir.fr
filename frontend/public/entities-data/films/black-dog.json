@@ -1,0 +1,174 @@
+{
+  "type": "film",
+  "slug": "black-dog",
+  "title": "Black Dog",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Black Dog"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "drame",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Après avoir purgé sa peine de prison suite à un homicide involontaire commis une décennie plus tôt, Lang revient dans sa ville natale qui se trouve aux portes du désert de Gobi, dans le nord-ouest de la Chine. Sur place, cette ancienne célébrité locale, jadis cascadeur à moto et musicien, constate que l'endroit a énormément changé, et son père lui révèle immédiatement que de nombreux habitants ont quitté les lieux. Alors qu'il travaille pour la patrouille locale chargée de débarrasser la ville des chiens errants, il se lie d'amitié avec l'un d'entre eux. Cette rencontre marque un nouveau départ pour ces deux âmes solitaires...",
+  "descriptionAi": "Ce drame au cœur des paysages arides du désert de Gobi mêle subtilement action et réflexion. L'ambiance est empreinte de mélancolie et de solitude, portée par le retour de Lang dans une ville natale méconnaissable. L'intérêt réside dans ce portrait poignant d'une rédemption inattendue, où la quête d'un nouveau départ passe par une amitié silencieuse avec un chien errant. Un thriller social et humain sur les cicatrices du passé et les liens qui sauvent, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Traquer.PNG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ea354af-4791-4d1b-a3ef-169406106784",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/paramount-channel/black-dog",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 06:15:00+00",
+      "endTime": "2026-04-23 08:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "60883db3-f1de-40b2-8b55-5895b2b42e5f",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/canal-cinema/black-dog",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 06:18:00+00",
+      "endTime": "2026-04-23 08:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "a6588f05-4159-4a24-bd71-e123ae94efac",
+      "title": "Black Dog",
+      "programSlug": "black-dog",
+      "programUrl": "/programme/canal-box-office/black-dog",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 15:02:00+00",
+      "endTime": "2026-04-24 16:49:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:55.748Z",
+  "year": 1998,
+  "durationMinutes": 89,
+  "cast": [
+    {
+      "qid": "Q49004",
+      "slug": "patrick-swayze",
+      "name": "Patrick Swayze",
+      "role": "actor"
+    },
+    {
+      "qid": "Q467519",
+      "slug": "randy-travis",
+      "name": "Randy Travis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q152929",
+      "slug": "meat-loaf",
+      "name": "Meat Loaf",
+      "role": "actor"
+    },
+    {
+      "qid": "Q509026",
+      "slug": "graham-beckel",
+      "name": "Graham Beckel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q31970",
+      "slug": "brenda-strong",
+      "name": "Brenda Strong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q706513",
+      "slug": "charles-s-dutton",
+      "name": "Charles S. Dutton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460786",
+      "slug": "lorraine-toussaint",
+      "name": "Lorraine Toussaint",
+      "role": "actor"
+    },
+    {
+      "qid": "Q376131",
+      "slug": "stephen-tobolowsky",
+      "name": "Stephen Tobolowsky",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2283587",
+      "slug": "cyril-o-reilly",
+      "name": "Cyril O'Reilly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1489081",
+      "slug": "gabriel-casseus",
+      "name": "Gabriel Casseus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q743388",
+      "slug": "brian-bloom",
+      "name": "Brian Bloom",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2453153",
+    "slug": "kevin-hooks",
+    "name": "Kevin Hooks",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 06:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

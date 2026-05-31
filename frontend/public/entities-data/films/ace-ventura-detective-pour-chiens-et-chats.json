@@ -1,0 +1,164 @@
+{
+  "type": "film",
+  "slug": "ace-ventura-detective-pour-chiens-et-chats",
+  "title": "Ace Ventura, détective pour chiens et chats",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Ace Ventura, détective pour chiens et chats"
+  ],
+  "genres": [
+    "comédie",
+    "film et téléfilm d'action",
+    "film LGBT",
+    "film sur le football américain"
+  ],
+  "description": "Rien ne va plus dans l'équipe de football américain de Miami. «Flocon de neige», dauphin et mascotte, a été enlevé. Sans sa présence, les joueurs se sentent incapables de remporter la finale du championnat. Aussi font-ils appel à Ace Ventura, un détective privé spécialisé dans les recherches d'animaux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "512d685c-7b79-415e-96f8-aca9cd0c3631",
+      "title": "Ace Ventura, détective pour chiens et chats",
+      "programSlug": "ace-ventura-detective-pour-chiens-et-chats",
+      "programUrl": "/programme/cine-family/ace-ventura-detective-pour-chiens-et-chats",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 20:10:00+00",
+      "endTime": "2026-04-21 21:34:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1994,
+  "durationMinutes": 83,
+  "cast": [
+    {
+      "qid": "Q40504",
+      "slug": "jim-carrey",
+      "name": "Jim Carrey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q58912",
+      "slug": "courteney-cox",
+      "name": "Courteney Cox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230736",
+      "slug": "sean-young",
+      "name": "Sean Young",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1552233",
+      "slug": "tone-loc",
+      "name": "Tone Loc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q195367",
+      "slug": "dan-marino",
+      "name": "Dan Marino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q716424",
+      "slug": "noble-willingham",
+      "name": "Noble Willingham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q77035",
+      "slug": "udo-kier",
+      "name": "Udo Kier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1699539",
+      "slug": "john-capodice",
+      "name": "John Capodice",
+      "role": "actor"
+    },
+    {
+      "qid": "Q934506",
+      "slug": "mark-margolis",
+      "name": "Mark Margolis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q143369",
+      "slug": "alice-drummond",
+      "name": "Alice Drummond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3421296",
+      "slug": "raynor-scheine",
+      "name": "Raynor Scheine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q556064",
+      "slug": "troy-evans",
+      "name": "Troy Evans",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082480",
+      "slug": "frank-adonis",
+      "name": "Frank Adonis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2591180",
+      "slug": "rebecca-ferratti",
+      "name": "Rebecca Ferratti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q353155",
+      "slug": "david-margulies",
+      "name": "David Margulies",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3441563",
+      "slug": "ronald-taylor",
+      "name": "Ronald Taylor",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q722135",
+    "slug": "tom-shadyac",
+    "name": "Tom Shadyac",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 20:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

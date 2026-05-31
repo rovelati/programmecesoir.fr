@@ -1,0 +1,66 @@
+{
+  "type": "actor",
+  "slug": "arthur-penn",
+  "name": "Arthur Penn",
+  "worksCount": 2,
+  "description": "réalisateur et producteur de cinéma américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PBS%20photo%20of%20Arthur%20Penn%201972.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1922-09-27",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q41136",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Arthur_Penn",
+    "imdb": "nm0671957",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dead-of-winter",
+      "title": "Dead of Winter"
+    },
+    {
+      "type": "film",
+      "slug": "la-fugue",
+      "title": "La fugue"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "438f7a9a-bed1-48c7-b9d0-0f7cd164fc77",
+      "title": "Dead of Winter",
+      "programSlug": "dead-of-winter",
+      "programUrl": "/programme/canal-box-office/dead-of-winter",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 07:35:00+00",
+      "endTime": "2026-04-19 09:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "473852d1-30a6-4f0b-8bbb-437a76e98837",
+      "title": "Dead of Winter",
+      "programSlug": "dead-of-winter",
+      "programUrl": "/programme/canal-box-office/dead-of-winter",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 11:39:00+00",
+      "endTime": "2026-04-21 13:14:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 07:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,179 @@
+{
+  "type": "film",
+  "slug": "brule-le-sang",
+  "title": "Brûle le sang",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Brûle le sang"
+  ],
+  "genres": [
+    "thriller"
+  ],
+  "description": "Dans les quartiers populaires de Nice, un pilier de la communauté géorgienne locale est assassiné lors d'un guet-apens tendu par deux hommes à moto. Son fils aîné Gabriel, un homme au passé sulfureux, revient alors d'un long exil dans le but de se racheter en lavant l'honneur de sa famille...",
+  "descriptionAi": "Ce thriller urbain plonge dans les quartiers populaires de Nice, où l'assassinat d'un patriarche géorgien réveille les tensions. L'ambiance est électrique, mêlant codes de l'honneur familiaux et violence froide des règlements de comptes. L'intérêt réside dans le parcours de Gabriel, un fils au passé trouble qui revient d'exil, tiraillé entre sa quête de rédemption et la spirale infernale de la vengeance. Une plongée intense dans les conflits d'une communauté méconnue, portée par une tension narrative implacable. Ne manquez pas cette fresque haletante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c93b83dc-ad41-4cf5-8eee-02f1b13cf7c1",
+      "title": "Brûle le sang",
+      "programSlug": "brule-le-sang",
+      "programUrl": "/programme/canal/brule-le-sang",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-20 01:54:00+00",
+      "endTime": "2026-04-20 03:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d2cf4f72-6312-4dc8-aa06-8c64e197e332",
+      "title": "Brûle le sang",
+      "programSlug": "brule-le-sang",
+      "programUrl": "/programme/canal-cinema/brule-le-sang",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 11:34:00+00",
+      "endTime": "2026-04-20 13:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "1378ecde-6307-4a21-bbdd-8489337864fe",
+      "title": "Brûle le sang",
+      "programSlug": "brule-le-sang",
+      "programUrl": "/programme/paramount-channel/brule-le-sang",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-20 11:35:00+00",
+      "endTime": "2026-04-20 13:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "74f55126-2275-405e-8620-2acfe69c7f08",
+      "title": "Brûle le sang",
+      "programSlug": "brule-le-sang",
+      "programUrl": "/programme/cine-frisson/brule-le-sang",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 17:02:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q126033569",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Br%C3%BBle_le_sang",
+    "imdb": "tt14907564",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:31.449Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q966867",
+      "slug": "nicolas-duvauchelle",
+      "name": "Nicolas Duvauchelle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83257264",
+      "slug": "florent-hill",
+      "name": "Florent Hill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21995180",
+      "slug": "q21995180",
+      "name": "Q21995180",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1187498",
+      "slug": "denis-lavant",
+      "name": "Denis Lavant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q82054526",
+      "slug": "sandor-funtek",
+      "name": "Sandor Funtek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16859022",
+      "slug": "jean-philippe-ricci",
+      "name": "Jean-Philippe Ricci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107688067",
+      "slug": "ia-shugliashvili",
+      "name": "Ia Shugliashvili",
+      "role": "actor"
+    },
+    {
+      "qid": "Q61137090",
+      "slug": "temiko-chichinadze",
+      "name": "Temiko Chichinadze",
+      "role": "actor"
+    },
+    {
+      "qid": "Q274113",
+      "slug": "catherine-allegret",
+      "name": "Catherine Allégret",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q126049733",
+    "slug": "akaki-popkhadze",
+    "name": "Akaki Popkhadze",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 01:54:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

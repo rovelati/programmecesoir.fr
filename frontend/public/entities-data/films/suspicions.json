@@ -1,0 +1,58 @@
+{
+  "type": "film",
+  "slug": "suspicions",
+  "title": "Suspicions",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Suspicions"
+  ],
+  "genres": [
+    "thriller"
+  ],
+  "description": "Un efficace agent du FBI, par ailleurs homme marié, est impliqué dans un trafic de drogue. Bientôt, il entame une relation trouble avec son indic.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "channelNumber": null,
+      "logoUrl": "/loghi/13eme-rue.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1995,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q24641780",
+      "slug": "catherine-curtin",
+      "name": "Catherine Curtin",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q114833944",
+    "slug": "jo-throckmorton",
+    "name": "Jo Throckmorton",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

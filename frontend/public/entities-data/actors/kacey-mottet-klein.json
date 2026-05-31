@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "kacey-mottet-klein",
+  "name": "Kacey Mottet-Klein",
+  "worksCount": 2,
+  "description": "acteur suisse",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kacey%20Mottet%20Klein%202017.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1998-10-20",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3191724",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kacey_Mottet-Klein",
+    "imdb": "nm3197772",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "quand-on-a-17-ans",
+      "title": "Quand on a 17 ans"
+    },
+    {
+      "type": "film",
+      "slug": "toutes-pour-une",
+      "title": "Toutes pour une"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e042757e-a35d-4c03-a51d-38530d0c5c0b",
+      "title": "Toutes pour une",
+      "programSlug": "toutes-pour-une",
+      "programUrl": "/programme/canal-box-office/toutes-pour-une",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 23:01:00+00",
+      "endTime": "2026-04-21 00:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "58219161-5382-4093-847e-80c074bfcbe7",
+      "title": "Toutes pour une",
+      "programSlug": "toutes-pour-une",
+      "programUrl": "/programme/paramount-channel/toutes-pour-une",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-21 11:15:00+00",
+      "endTime": "2026-04-21 12:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e7d313bd-0b9c-4f62-ab40-a87493e10f8e",
+      "title": "Toutes pour une",
+      "programSlug": "toutes-pour-une",
+      "programUrl": "/programme/canal-cinema/toutes-pour-une",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-21 11:17:00+00",
+      "endTime": "2026-04-21 12:50:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 23:01:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

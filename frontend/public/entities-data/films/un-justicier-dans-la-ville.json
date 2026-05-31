@@ -1,0 +1,166 @@
+{
+  "type": "film",
+  "slug": "un-justicier-dans-la-ville",
+  "title": "Un justicier dans la ville",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Un justicier dans la ville"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "rape and revenge",
+    "film de vigilante",
+    "thriller policier",
+    "drame",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "De retour du supermarché, Joanna Kersey et sa fille Carol sont agressées par trois voyous. Joanna est tuée. Carol, violée par les trois hommes, reste profondément traumatisée et sombre dans une prostration dont plus personne ne peut la tirer. Paul Kersey, son père, décide de faire justice lui-même. Durant un voyage d'affaires à Tucson, il se procure une arme. Il entreprend de retrouver ceux qui ont détruit sa vie et de hâter le cours d'une justice humaine qu'il trouve trop lente et imparfaite. La police, confrontée à cet acte manifeste d'autodéfense, hésite à intervenir, mais engage toutefois des recherches pour arrêter Kersey...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b38a6330-ea1c-4f73-bbf8-2a20ef657bdc",
+      "title": "Un justicier dans la ville",
+      "programSlug": "un-justicier-dans-la-ville",
+      "programUrl": "/programme/tcm-cinema/un-justicier-dans-la-ville",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 20:20:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1974,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q36105",
+      "slug": "charles-bronson",
+      "name": "Charles Bronson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239301",
+      "slug": "hope-lange",
+      "name": "Hope Lange",
+      "role": "actor"
+    },
+    {
+      "qid": "Q555590",
+      "slug": "vincent-gardenia",
+      "name": "Vincent Gardenia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4353606",
+      "slug": "william-redfield",
+      "name": "William Redfield",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2568027",
+      "slug": "steven-keats",
+      "name": "Steven Keats",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106706",
+      "slug": "jeff-goldblum",
+      "name": "Jeff Goldblum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q328814",
+      "slug": "john-herzfeld",
+      "name": "John Herzfeld",
+      "role": "actor"
+    },
+    {
+      "qid": "Q539598",
+      "slug": "stuart-margolin",
+      "name": "Stuart Margolin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1292407",
+      "slug": "edward-grover",
+      "name": "Edward Grover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230188",
+      "slug": "olympia-dukakis",
+      "name": "Olympia Dukakis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q322509",
+      "slug": "stephen-elliott",
+      "name": "Stephen Elliott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q61742472",
+      "slug": "christopher-logan",
+      "name": "Christopher Logan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22662871",
+      "slug": "jack-wallace",
+      "name": "Jack Wallace",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21091523",
+      "slug": "gregory-rozakis",
+      "name": "Gregory Rozakis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4282539",
+      "slug": "helen-martin",
+      "name": "Helen Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3126793",
+      "slug": "hank-garrett",
+      "name": "Hank Garrett",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q722890",
+    "slug": "michael-winner",
+    "name": "Michael Winner",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,83 @@
+{
+  "type": "film",
+  "slug": "johnny-english-contre-attaque",
+  "title": "Johnny English contre-attaque",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Johnny English contre-attaque"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Les agents britanniques sous couverture sont en danger à cause d'une cyberattaque. Johnny English, qui enseigne le métier d'espion, est alors chargé de sauver ses confrères. Le génie du piratage est localisé sur la Côte d'Azur. Johnny English découvre, à ses risques et périls, la réalité virtuelle...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "219b5a35-9e45-4b57-9420-95d4ff1a4ff2",
+      "title": "Johnny English contre-attaque",
+      "programSlug": "johnny-english-contre-attaque",
+      "programUrl": "/programme/cine-family/johnny-english-contre-attaque",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 00:00:00+00",
+      "endTime": "2026-04-21 01:29:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "df83472d-856d-44ff-bf2a-02179ecff228",
+      "title": "Johnny English contre-attaque",
+      "programSlug": "johnny-english-contre-attaque",
+      "programUrl": "/programme/cine-family/johnny-english-contre-attaque",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 11:30:00+00",
+      "endTime": "2026-04-23 12:56:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "1b5b2547-a8e7-4d3e-87f7-9bd2dccadb70",
+      "title": "Johnny English contre-attaque",
+      "programSlug": "johnny-english-contre-attaque",
+      "programUrl": "/programme/cine-family/johnny-english-contre-attaque",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 14:17:00+00",
+      "endTime": "2026-04-25 15:43:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 00:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

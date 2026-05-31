@@ -1,0 +1,113 @@
+{
+  "type": "series",
+  "slug": "corporate",
+  "title": "Corporate",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Corporate",
+    "Corporate - Saison 1"
+  ],
+  "genres": [
+    "humour noir"
+  ],
+  "description": "Hampton DeVille collabore avec un artiste de rue qui avait vandalisé le siège de l'entreprise. Ils vendent des produits dérivés contre la société pour faire du profit sur le dos des manifestants...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "channelNumber": null,
+      "logoUrl": "/loghi/comedy-central.png",
+      "airingsCount": 10
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a98c1f6b-90be-4a70-9d4e-293f1ad42858",
+      "title": "Corporate - Saison 3",
+      "programSlug": "corporate-saison-3",
+      "programUrl": "/programme/comedy-central/corporate-saison-3",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-20 17:40:00+00",
+      "endTime": "2026-04-20 18:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4e75a9a8-7de1-4581-9d52-8a5577f2738c",
+      "title": "Corporate - Saison 1",
+      "programSlug": "corporate-saison-1",
+      "programUrl": "/programme/comedy-central/corporate-saison-1",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-21 17:40:00+00",
+      "endTime": "2026-04-21 18:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4135e270-61d8-4b78-a920-4ffb08d77f63",
+      "title": "Corporate - Saison 1",
+      "programSlug": "corporate-saison-1",
+      "programUrl": "/programme/comedy-central/corporate-saison-1",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-22 17:40:00+00",
+      "endTime": "2026-04-22 18:05:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "982715ed-03ab-41a2-a927-92a420a58e78",
+      "title": "Corporate - Saison 1",
+      "programSlug": "corporate-saison-1",
+      "programUrl": "/programme/comedy-central/corporate-saison-1",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-23 17:40:00+00",
+      "endTime": "2026-04-23 18:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "3e85d43f-474e-40b2-80ce-3664e5998af5",
+      "title": "Corporate - Saison 1",
+      "programSlug": "corporate-saison-1",
+      "programUrl": "/programme/comedy-central/corporate-saison-1",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-24 17:40:00+00",
+      "endTime": "2026-04-24 18:05:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2018,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": {
+    "qid": "Q123223562",
+    "slug": "matt-ingebretson",
+    "name": "Matt Ingebretson",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 17:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

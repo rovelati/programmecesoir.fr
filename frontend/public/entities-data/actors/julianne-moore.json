@@ -1,0 +1,75 @@
+{
+  "type": "actor",
+  "slug": "julianne-moore",
+  "name": "Julianne Moore",
+  "worksCount": 4,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Julianne%20Moore%2066%C3%A8me%20Festival%20de%20Venise%20(Mostra)%20color%20crop.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-12-03",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q80405",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Julianne_Moore",
+    "imdb": "nm0000194",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "boogie-nights",
+      "title": "Boogie Nights"
+    },
+    {
+      "type": "film",
+      "slug": "loin-du-paradis",
+      "title": "Loin du paradis"
+    },
+    {
+      "type": "film",
+      "slug": "crazy-stupid-love",
+      "title": "Crazy, Stupid, Love"
+    },
+    {
+      "type": "film",
+      "slug": "magnolia",
+      "title": "Magnolia"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "52cbf378-4db4-4f16-ba50-5653f3a1fc24",
+      "title": "Loin du paradis",
+      "programSlug": "loin-du-paradis",
+      "programUrl": "/programme/cine-festival/loin-du-paradis",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-19 14:13:00+00",
+      "endTime": "2026-04-19 16:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "36da493d-65ad-49c0-b7e7-0bc4d299e8f2",
+      "title": "Loin du paradis",
+      "programSlug": "loin-du-paradis",
+      "programUrl": "/programme/cine-festival/loin-du-paradis",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:13:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 14:13:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

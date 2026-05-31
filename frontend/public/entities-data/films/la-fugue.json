@@ -1,0 +1,132 @@
+{
+  "type": "film",
+  "slug": "la-fugue",
+  "title": "La fugue",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La fugue"
+  ],
+  "genres": [
+    "néo-noir",
+    "film ou téléfilm à énigme",
+    "thriller policier"
+  ],
+  "description": "Jeanne est confrontée à la fugue de sa fille, Chloé. Les policiers ne lui accordent que peu d'attention : la fugue d'adolescents ne fait pas partie des priorités absolues. C'est sur elle seule que Jeanne doit maintenant compter. Commence alors un voyage en enfer qui lui fera realiser que sa fille est devenue une étrangère. Jeanne n'a rien vu et rien compris...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1975,
+  "durationMinutes": 99,
+  "cast": [
+    {
+      "qid": "Q150943",
+      "slug": "gene-hackman",
+      "name": "Gene Hackman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1686989",
+      "slug": "jennifer-warren",
+      "name": "Jennifer Warren",
+      "role": "actor"
+    },
+    {
+      "qid": "Q291455",
+      "slug": "susan-clark",
+      "name": "Susan Clark",
+      "role": "actor"
+    },
+    {
+      "qid": "Q176455",
+      "slug": "melanie-griffith",
+      "name": "Melanie Griffith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q935717",
+      "slug": "john-crawford",
+      "name": "John Crawford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1346123",
+      "slug": "harris-yulin",
+      "name": "Harris Yulin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1356690",
+      "slug": "kenneth-mars",
+      "name": "Kenneth Mars",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193105",
+      "slug": "james-woods",
+      "name": "James Woods",
+      "role": "actor"
+    },
+    {
+      "qid": "Q518868",
+      "slug": "dennis-dugan",
+      "name": "Dennis Dugan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1291706",
+      "slug": "ed-binns",
+      "name": "Ed Binns",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1035938",
+      "slug": "carey-loftin",
+      "name": "Carey Loftin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1665344",
+      "slug": "max-gail",
+      "name": "Max Gail",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3426166",
+      "slug": "rene-enriquez",
+      "name": "René Enríquez",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q41136",
+    "slug": "arthur-penn",
+    "name": "Arthur Penn",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

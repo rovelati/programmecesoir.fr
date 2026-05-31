@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "michael-bowen",
+  "name": "Michael Bowen",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-06-21",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q604762",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michael_Bowen_(acteur)",
+    "imdb": "nm0100889",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "kill-bill-volume-1",
+      "title": "Kill Bill Volume 1"
+    },
+    {
+      "type": "film",
+      "slug": "magnolia",
+      "title": "Magnolia"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

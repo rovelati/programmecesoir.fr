@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "john-leguizamo",
+  "name": "John Leguizamo",
+  "worksCount": 3,
+  "description": "acteur américano-colombien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2024-03-08%20SXSW-2024%20Variety-comedy-awards%2005054%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-07-22",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q295233",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Leguizamo",
+    "imdb": "nm0000491",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "outrages",
+      "title": "Outrages"
+    },
+    {
+      "type": "film",
+      "slug": "john-wick-2",
+      "title": "John Wick 2"
+    },
+    {
+      "type": "film",
+      "slug": "john-wick",
+      "title": "John Wick"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

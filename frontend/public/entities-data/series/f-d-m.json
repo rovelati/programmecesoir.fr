@@ -1,0 +1,139 @@
+{
+  "type": "series",
+  "slug": "f-d-m",
+  "title": "F.D.M.",
+  "airingsCount": 17,
+  "sourceTitles": [
+    "F.D.M."
+  ],
+  "genres": [
+    "Série",
+    "Série TV",
+    "Serie",
+    "Séries humoristiques"
+  ],
+  "description": "Fred, Dan et Maryse forment la bande des F.D.M. Cancres invétérés, les trois adolescents ont pour ennemi juré Loïc Vernier, alias LV, premier de la classe. Ce dernier tente de se débarrasser du trio par tous les moyens.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "demaintv",
+      "channelName": "DemainTV",
+      "channelSlug": "demaintv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/demaintv.png",
+      "airingsCount": 17
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c3351085-02b3-4621-933e-5f7478b2a41c",
+      "title": "F.D.M.",
+      "programSlug": "f-d-m",
+      "programUrl": "/programme/demaintv/f-d-m",
+      "channelId": "demaintv",
+      "channelName": "DemainTV",
+      "channelSlug": "demaintv",
+      "startTime": "2026-04-19 19:00:00+00",
+      "endTime": "2026-04-19 20:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "96d109e0-af93-40bd-94b6-ddccb15de355",
+      "title": "F.D.M.",
+      "programSlug": "f-d-m",
+      "programUrl": "/programme/demaintv/f-d-m",
+      "channelId": "demaintv",
+      "channelName": "DemainTV",
+      "channelSlug": "demaintv",
+      "startTime": "2026-04-20 19:00:00+00",
+      "endTime": "2026-04-20 20:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ed4fd78c-f596-446b-9e4b-969488966348",
+      "title": "F.D.M.",
+      "programSlug": "f-d-m",
+      "programUrl": "/programme/demaintv/f-d-m",
+      "channelId": "demaintv",
+      "channelName": "DemainTV",
+      "channelSlug": "demaintv",
+      "startTime": "2026-04-21 19:00:00+00",
+      "endTime": "2026-04-21 20:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "eeb44474-b6c7-4296-83ea-c3934374f18e",
+      "title": "F.D.M.",
+      "programSlug": "f-d-m",
+      "programUrl": "/programme/demaintv/f-d-m",
+      "channelId": "demaintv",
+      "channelName": "DemainTV",
+      "channelSlug": "demaintv",
+      "startTime": "2026-04-22 19:00:00+00",
+      "endTime": "2026-04-22 20:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "21b806b7-ba79-48a4-8e8a-54fa6d3a2fe2",
+      "title": "F.D.M.",
+      "programSlug": "f-d-m",
+      "programUrl": "/programme/demaintv/f-d-m",
+      "channelId": "demaintv",
+      "channelName": "DemainTV",
+      "channelSlug": "demaintv",
+      "startTime": "2026-04-23 19:00:00+00",
+      "endTime": "2026-04-23 20:00:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "2ad23305-db6f-4a98-a707-cad1b8fedcaf",
+      "title": "F.D.M.",
+      "programSlug": "f-d-m",
+      "programUrl": "/programme/demaintv/f-d-m",
+      "channelId": "demaintv",
+      "channelName": "DemainTV",
+      "channelSlug": "demaintv",
+      "startTime": "2026-04-24 19:00:00+00",
+      "endTime": "2026-04-24 19:30:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "07dfad36-9aa7-4b65-a320-7c6137e1c8eb",
+      "title": "F.D.M.",
+      "programSlug": "f-d-m",
+      "programUrl": "/programme/demaintv/f-d-m",
+      "channelId": "demaintv",
+      "channelName": "DemainTV",
+      "channelSlug": "demaintv",
+      "startTime": "2026-04-25 19:00:00+00",
+      "endTime": "2026-04-25 20:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": {
+    "qid": "Q20035306",
+    "slug": "corinne-atlas",
+    "name": "Corinne Atlas",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

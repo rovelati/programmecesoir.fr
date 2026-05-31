@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "le-cauchemar-de-freddy",
+  "title": "Le cauchemar de Freddy",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le cauchemar de Freddy"
+  ],
+  "genres": [
+    "film et téléfilm d'horreur",
+    "film pour adolescents",
+    "slasher"
+  ],
+  "description": "Ressuscité miraculeusement après sa disparition par incinération que l'on croyait définitive, Freddy Krueger, avide de vengeance, revient pour exterminer la descendance de ses meurtriers. Fidèle à sa machiavélique méthode, il pénètre dans les rêves de ses victimes et les entraîne vers une mort cauchemardesque. Kincaid a le coeur arraché par des griffes. Joey est retrouvé noyé dans son matelas d'eau et Kristen ne résiste pas à un vol plané scabreux au-dessus du cimetière. D'autres amis présents dans les rêves des trois premières victimes vont subir un sort similaire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1988,
+  "durationMinutes": 89,
+  "cast": [
+    {
+      "qid": "Q310389",
+      "slug": "robert-englund",
+      "name": "Robert Englund",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436761",
+      "slug": "lisa-wilcox",
+      "name": "Lisa Wilcox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4754712",
+      "slug": "andras-jones",
+      "name": "Andras Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2469007",
+      "slug": "tuesday-knight",
+      "name": "Tuesday Knight",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11738702",
+      "slug": "ken-sagoes",
+      "name": "Ken Sagoes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2651823",
+      "slug": "rodney-eastman",
+      "name": "Rodney Eastman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2763982",
+      "slug": "brooke-theiss",
+      "name": "Brooke Theiss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7830518",
+      "slug": "toy-newkirk",
+      "name": "Toy Newkirk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q584668",
+      "slug": "danny-hassel",
+      "name": "Danny Hassel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7223267",
+      "slug": "hope-marie-carlton",
+      "name": "Hope Marie Carlton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q644618",
+      "slug": "john-beckman",
+      "name": "John Beckman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318712",
+      "slug": "renny-harlin",
+      "name": "Renny Harlin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1314250",
+      "slug": "robert-shaye",
+      "name": "Robert Shaye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q529961",
+      "slug": "brooke-bundy",
+      "name": "Brooke Bundy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2988170",
+      "slug": "linnea-quigley",
+      "name": "Linnea Quigley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5310319",
+      "slug": "duane-davis",
+      "name": "Duane Davis",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q318712",
+    "slug": "renny-harlin",
+    "name": "Renny Harlin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

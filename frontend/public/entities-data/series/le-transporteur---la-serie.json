@@ -1,0 +1,98 @@
+{
+  "type": "series",
+  "slug": "le-transporteur---la-serie",
+  "title": "Le transporteur - la série",
+  "airingsCount": 12,
+  "sourceTitles": [
+    "Le transporteur - la série",
+    "Le transporteur - la série - Saison 1",
+    "Le transporteur - la série - Saison 2"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Frank Martin est un \"transporteur\" : il transporte n'importe quoi, vers n'importe quelle destination, dès lors que son client est prêt à payer le prix fort. Ses règles sont simples : pas de noms, ne pas changer le contrat et ne pas ouvrir le colis. Sauf quand il décide lui-même de changer les règles ! Frank est chargé de mettre en lieu sûr une jeune femme du monde, Delia, riche et fille d'un général influent, Weigert. Mais les choses tournent mal lorsque le chef allemand d'une organisation criminelle tente de l'enlever. Alors que la situation devient incontrôlable, Frank décide de renvoyer Delia par avion en Amérique pour la protéger. Mais un événement imprévu la met plus que jamais en danger...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paris-premiere.png",
+      "airingsCount": 12
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ec0d9d83-486e-4769-8991-e4d2ec20094b",
+      "title": "Le transporteur - la série - Saison 2",
+      "programSlug": "le-transporteur-la-serie-saison-2",
+      "programUrl": "/programme/paris-premiere/le-transporteur-la-serie-saison-2",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-25 11:05:00+00",
+      "endTime": "2026-04-25 12:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "1f675fc4-bea4-458f-86fe-85abb320f460",
+      "title": "Le transporteur - la série - Saison 2",
+      "programSlug": "le-transporteur-la-serie-saison-2",
+      "programUrl": "/programme/paris-premiere/le-transporteur-la-serie-saison-2",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-25 12:00:00+00",
+      "endTime": "2026-04-25 12:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "599f09d8-9481-40fa-bfc6-74aaaf3ec7d3",
+      "title": "Le transporteur - la série - Saison 2",
+      "programSlug": "le-transporteur-la-serie-saison-2",
+      "programUrl": "/programme/paris-premiere/le-transporteur-la-serie-saison-2",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-25 12:55:00+00",
+      "endTime": "2026-04-25 13:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c03ba477-faa9-4ed6-8f47-3f48022a14f5",
+      "title": "Le transporteur - la série - Saison 2",
+      "programSlug": "le-transporteur-la-serie-saison-2",
+      "programUrl": "/programme/paris-premiere/le-transporteur-la-serie-saison-2",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-25 13:55:00+00",
+      "endTime": "2026-04-25 14:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-25 11:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

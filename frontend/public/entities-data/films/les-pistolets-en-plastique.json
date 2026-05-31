@@ -1,0 +1,97 @@
+{
+  "type": "film",
+  "slug": "les-pistolets-en-plastique",
+  "title": "Les pistolets en plastique",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les pistolets en plastique"
+  ],
+  "genres": [
+    "comédie noire"
+  ],
+  "description": "Totalement obsédées par l'affaire Paul Bernardin, un homme soupçonné d'avoir assassiné son épouse et ses trois enfants avant de se volatiliser mystérieusement, Christine et Léa mènent leur propre enquête. Convaincues de pouvoir dénicher quelques éléments qui pourraient faire avancer les recherches, elles décident de se rendre dans la maison où s'est déroulée l'effroyable tuerie. C'est à ce moment qu'elles apprennent avec stupéfaction que l'homme en fuite vient d'être arrêté à l'aéroport de Copenhague...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fe87a507-19f0-4f95-a887-45371d772aa4",
+      "title": "Les pistolets en plastique",
+      "programSlug": "les-pistolets-en-plastique",
+      "programUrl": "/programme/cine-festival/les-pistolets-en-plastique",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-25 18:50:00+00",
+      "endTime": "2026-04-25 20:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q3219528",
+      "slug": "laurent-stocker",
+      "name": "Laurent Stocker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16161373",
+      "slug": "delphine-baril",
+      "name": "Delphine Baril",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3195765",
+      "slug": "juana-acosta",
+      "name": "Juana Acosta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380605",
+      "slug": "philippe-rebbot",
+      "name": "Philippe Rebbot",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q95740939",
+    "slug": "jean-christophe-meurisse",
+    "name": "Jean-Christophe Meurisse",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

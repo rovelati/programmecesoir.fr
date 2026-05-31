@@ -1,0 +1,139 @@
+{
+  "type": "series",
+  "slug": "apparences",
+  "title": "Apparences",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Apparences - Saison 1"
+  ],
+  "genres": [
+    "série télévisée dramatique",
+    "série télévisée policière"
+  ],
+  "description": "Ambre est retrouvée morte, exactement dans la même mise en scène que le docteur Belmont ! Et à nouveau, c'est Stan qui découvre le corps. Et s'il ne disait pas tout ? C'est du moins la conviction de Gabrielle, qui décide d'enquêter sur les méthodes de travail douteuses du chirurgien des influenceuses, quitte à se mettre elle-même en danger…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "channelNumber": 2,
+      "logoUrl": "/loghi/france-2.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2012,
+  "numberOfSeasons": 1,
+  "cast": [
+    {
+      "qid": "Q3100612",
+      "slug": "genevieve-brouillette",
+      "name": "Geneviève Brouillette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107143162",
+      "slug": "myriam-leblanc",
+      "name": "Myriam LeBlanc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q52188136",
+      "slug": "daniel-parent",
+      "name": "Daniel Parent",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2834584",
+      "slug": "alexis-martin",
+      "name": "Alexis Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2896539",
+      "slug": "benoit-gouin",
+      "name": "Benoît Gouin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3341074",
+      "slug": "nicole-leblanc",
+      "name": "Nicole LeBlanc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3559431",
+      "slug": "vincent-guillaume-otis",
+      "name": "Vincent-Guillaume Otis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q101113969",
+      "slug": "louise-cardinal",
+      "name": "Louise Cardinal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2844746",
+      "slug": "amelie-bernard",
+      "name": "Amélie Bernard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2398695",
+      "slug": "jean-francois-beaupre",
+      "name": "Jean-François Beaupré",
+      "role": "actor"
+    },
+    {
+      "qid": "Q29474000",
+      "slug": "hugues-frenette",
+      "name": "Hugues Frenette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3320929",
+      "slug": "monique-spaziani",
+      "name": "Monique Spaziani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3291304",
+      "slug": "marianne-fortier",
+      "name": "Marianne Fortier",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q3479215",
+    "slug": "serge-boucher",
+    "name": "Serge Boucher",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

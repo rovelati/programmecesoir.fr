@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "braqueurs-amateurs",
+  "title": "Braqueurs amateurs",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Braqueurs amateurs"
+  ],
+  "genres": [
+    "film ou téléfilm de casse",
+    "comédie",
+    "film de détective"
+  ],
+  "description": "Mari comblé et père de famille heureux, Dick Harper est nommé vice-président de la Globodyne Corp, une impressionnante multinationale. Mais le lendemain de cette fabuleuse promotion, la société, liée à un scandale financier, fait faillite. Dick se retrouve au chômage et ruiné, surtout qu'entre-temps, sa femme Jane avait quitté son propre emploi. Le couple décide alors de s'improviser braqueurs.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab3.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2005,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q40504",
+      "slug": "jim-carrey",
+      "name": "Jim Carrey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202475",
+      "slug": "tea-leoni",
+      "name": "Téa Leoni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170572",
+      "slug": "alec-baldwin",
+      "name": "Alec Baldwin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313043",
+      "slug": "richard-jenkins",
+      "name": "Richard Jenkins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238305",
+      "slug": "angie-harmon",
+      "name": "Angie Harmon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q967130",
+      "slug": "john-michael-higgins",
+      "name": "John Michael Higgins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q442274",
+      "slug": "richard-burgi",
+      "name": "Richard Burgi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3109116",
+      "slug": "gloria-garayua",
+      "name": "Gloria Garayua",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15491087",
+      "slug": "carlos-jacott",
+      "name": "Carlos Jacott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193156",
+      "slug": "ralph-nader",
+      "name": "Ralph Nader",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2260913",
+      "slug": "scott-l-schwartz",
+      "name": "Scott L. Schwartz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1174721",
+      "slug": "david-herman",
+      "name": "David Herman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5528158",
+      "slug": "gavin-grazer",
+      "name": "Gavin Grazer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3157150",
+      "slug": "jack-conley",
+      "name": "Jack Conley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5371935",
+      "slug": "emilio-rivera",
+      "name": "Emilio Rivera",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23301771",
+      "slug": "rob-nagle",
+      "name": "Rob Nagle",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1181116",
+    "slug": "dean-parisot",
+    "name": "Dean Parisot",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

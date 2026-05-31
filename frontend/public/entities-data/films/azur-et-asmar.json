@@ -1,0 +1,53 @@
+{
+  "type": "film",
+  "slug": "azur-et-asmar",
+  "title": "Azur et Asmar",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Azur et Asmar"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm pour enfants"
+  ],
+  "description": "Il y a longtemps, alors qu'ils n'étaient que des bébés, Azur, le fils d'un châtelain, et Asmar, l'enfant de la nourrice, ont été élevés ensemble. Puis ils ont été séparés brutalement. Tous les deux ont cependant gardé en mémoire la merveilleuse légende de la fée des Djinns, une histoire que leur contait la nourrice. Devenu grand, Azur reste marqué par cette fée mystérieuse, qui hante ses souvenirs depuis sa tendre enfance. Il décide de partir à sa recherche et retrouve Asmar, qui se joint à lui pour traverser les terres magiques dans l'espoir de découvrir la créature fabuleuse des récits de leur jeunesse. Ils n'hésitent pas à braver les ennemis qui se dressent sur leur route...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2006,
+  "durationMinutes": 99,
+  "cast": [],
+  "director": {
+    "qid": "Q1364283",
+    "slug": "michel-ocelot",
+    "name": "Michel Ocelot",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

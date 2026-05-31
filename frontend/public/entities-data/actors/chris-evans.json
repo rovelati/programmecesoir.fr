@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "chris-evans",
+  "name": "Chris Evans",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chris%20Evans%20Red%202024.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1981-06-13",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q178348",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Chris_Evans_(acteur)",
+    "imdb": "nm0262635",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "a-couteaux-tires",
+      "title": "A couteaux tirés"
+    },
+    {
+      "type": "film",
+      "slug": "cellular",
+      "title": "Cellular"
+    },
+    {
+      "type": "film",
+      "slug": "push",
+      "title": "Push"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a5de045b-86a2-4a3e-a069-4578af9978b6",
+      "title": "A couteaux tirés",
+      "programSlug": "a-couteaux-tires",
+      "programUrl": "/programme/ocs/a-couteaux-tires",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-19 16:42:00+00",
+      "endTime": "2026-04-19 18:50:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 16:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,119 @@
+{
+  "type": "film",
+  "slug": "cocorico",
+  "title": "Cocorico",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Cocorico"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "François Martin est en couple depuis quelques mois avec Alice Bouvier Sauvage. Et c'est un peu tendu que François accompagne son père, Gérard, concessionnaire automobile, et sa mère, Nicole, femme au foyer, chez les parents de sa compagne, Frédéric et Catherine Bouvier Sauvage, qui vivent dans le château de Janzac, entouré de centaines d'hectares de vignes. Une fois les présentations faites, les deux jeunes gens constatent que les choses ne se passent pas à merveille entre leurs parents. Ils leur annoncent alors qu'ils vont se marier et proposent de fêter ça en découvrant les résultats de tests génétiques permettant d'éclaircir les généalogies de leurs parents.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "806ee63c-6367-40d8-94df-286a05d82842",
+      "title": "Cocorico",
+      "programSlug": "cocorico",
+      "programUrl": "/programme/m6/cocorico",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-23 21:00:00+00",
+      "endTime": "2026-04-23 22:45:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q310692",
+      "slug": "christian-clavier",
+      "name": "Christian Clavier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273342",
+      "slug": "marianne-denicourt",
+      "name": "Marianne Denicourt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2964183",
+      "slug": "chloe-coulloud",
+      "name": "Chloé Coulloud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1210511",
+      "slug": "didier-bourdon",
+      "name": "Didier Bourdon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242526",
+      "slug": "sylvie-testud",
+      "name": "Sylvie Testud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q99689497",
+      "slug": "julien-pestel",
+      "name": "Julien Pestel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3490934",
+      "slug": "sophie-froissard",
+      "name": "Sophie Froissard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20961803",
+      "slug": "johann-dionnet",
+      "name": "Johann Dionnet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q934371",
+      "slug": "patrick-prejean",
+      "name": "Patrick Préjean",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3189527",
+    "slug": "julien-herve",
+    "name": "Julien Hervé",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 21:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

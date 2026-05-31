@@ -1,0 +1,55 @@
+{
+  "type": "film",
+  "slug": "stephane-audran-la-complice-de-chabrol",
+  "title": "Stéphane Audran, la complice de Chabrol",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Stéphane Audran, la complice de Chabrol"
+  ],
+  "genres": [
+    "Doc Cinéma",
+    "Cinema"
+  ],
+  "description": "Le couple que Stéphane Audran, née Colette Dacheville, formait avec son mari Claude Chabrol a été l'un des plus prolifiques de l'histoire du cinéma français. Elle était l'incarnation parfaite de la bourgeoise, figure centrale de l'oeuvre de Chabrol. Complices et inséparables, se nourrissant l'un l'autre, ils ont tourné ensemble vingt-deux longs métrages, des Cousines en 1959 à Betty en 1992.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "arte",
+      "channelName": "Arte",
+      "channelSlug": "arte",
+      "channelNumber": 7,
+      "logoUrl": "/loghi/arte.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "arte-belgique",
+      "channelName": "Arte Belgique",
+      "channelSlug": "arte-belgique",
+      "channelNumber": null,
+      "logoUrl": "/loghi/arte-belgique.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

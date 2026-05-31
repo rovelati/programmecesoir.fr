@@ -1,0 +1,66 @@
+{
+  "type": "actor",
+  "slug": "mark-ivanir",
+  "name": "Mark Ivanir",
+  "worksCount": 2,
+  "description": "acteur israélien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Ivanir%201.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-09-06",
+  "nationality": "Israël",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1033909",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mark_Ivanir",
+    "imdb": "nm0411980",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "johnny-english-le-retour",
+      "title": "Johnny English, le retour"
+    },
+    {
+      "type": "film",
+      "slug": "rubikon",
+      "title": "Rubikon"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4bc79017-5001-4151-bd64-bc53e819e4f8",
+      "title": "Johnny English, le retour",
+      "programSlug": "johnny-english-le-retour",
+      "programUrl": "/programme/cine-family/johnny-english-le-retour",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 08:16:00+00",
+      "endTime": "2026-04-20 09:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bd82cf28-5189-48a7-b44a-67ed8e2d7fc2",
+      "title": "Johnny English, le retour",
+      "programSlug": "johnny-english-le-retour",
+      "programUrl": "/programme/cine-family/johnny-english-le-retour",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 12:39:00+00",
+      "endTime": "2026-04-25 14:17:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 08:16:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

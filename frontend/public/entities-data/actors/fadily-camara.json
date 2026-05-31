@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "fadily-camara",
+  "name": "Fadily Camara",
+  "worksCount": 1,
+  "description": "humoriste française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fadily%20Camara.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1992-09-17",
+  "nationality": "France",
+  "jobTitle": "humoriste de scène",
+  "externalIds": {
+    "wikidata": "Q96374286",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fadily_Camara",
+    "imdb": "nm8045516",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "coka-chicas",
+      "title": "Coka Chicas"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5cbe6e7f-d8f2-4b1e-a3de-c3e568bbafea",
+      "title": "Coka Chicas",
+      "programSlug": "coka-chicas",
+      "programUrl": "/programme/canal-cinema/coka-chicas",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 19:00:00+00",
+      "endTime": "2026-04-20 20:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "1ea07270-fab2-414a-b1f0-a8a8cf10db0b",
+      "title": "Coka Chicas",
+      "programSlug": "coka-chicas",
+      "programUrl": "/programme/paramount-channel/coka-chicas",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-20 19:00:00+00",
+      "endTime": "2026-04-20 20:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c1083352-962b-4baa-bbbc-31a5f4ba6cc1",
+      "title": "Coka Chicas",
+      "programSlug": "coka-chicas",
+      "programUrl": "/programme/canal/coka-chicas",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-26 00:53:00+00",
+      "endTime": "2026-04-26 02:33:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,86 @@
+{
+  "type": "film",
+  "slug": "scooby-doo-et-la-creature-des-tenebres",
+  "title": "Scooby-Doo et la créature des ténèbres",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Scooby-Doo et la créature des ténèbres"
+  ],
+  "genres": [
+    "comédie horrifique",
+    "comédie",
+    "film de détective"
+  ],
+  "description": "Krudsky le Magnifique, un magicien de carnaval humilié par Sammy et Scooby-Doo, dérobe la lumière magique à Willow, la princesse des fées. Scooby-Doo et ses amis embarquent alors sur le train de la mort en direction du monde fantastique d'Halloween, afin de récupérer le puissant sceptre gobelin avant que Krudsky, désormais doté de véritables pouvoirs magiques, ne transforme tout le monde en monstre...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang-1.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9cb3cbbd-b43f-40df-bddd-137ae0e2121a",
+      "title": "Scooby-Doo et la créature des ténèbres",
+      "programSlug": "scooby-doo-et-la-creature-des-tenebres",
+      "programUrl": "/programme/boomerang/scooby-doo-et-la-creature-des-tenebres",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 08:30:00+00",
+      "endTime": "2026-04-19 10:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "73d9c48f-75ae-4789-8a93-bd0cbe554a42",
+      "title": "Scooby-Doo et la créature des ténèbres",
+      "programSlug": "scooby-doo-et-la-creature-des-tenebres",
+      "programUrl": "/programme/boomerang-1/scooby-doo-et-la-creature-des-tenebres",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-19 09:30:00+00",
+      "endTime": "2026-04-19 11:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 75,
+  "cast": [],
+  "director": {
+    "qid": "Q111982948",
+    "slug": "joe-sichta",
+    "name": "Joe Sichta",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 08:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

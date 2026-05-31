@@ -1,0 +1,72 @@
+{
+  "type": "series",
+  "slug": "les-chapardeurs",
+  "title": "Les Chapardeurs",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Les Chapardeurs"
+  ],
+  "genres": [
+    "fiction pour enfants",
+    "fantasy"
+  ],
+  "description": "Les murs des maisons hébergent secrètement des Chapardeurs, de minuscules créatures qui empruntent les objets oubliés par les Zumains. Arrietty, 11 ans et 6 cm, est l'une d'eux. Elle vit dans la demeure de Marie et sympathise avec Tom, le petit-fils de la propriétaire. Ensemble, ils vivent des aventures extraordinaires et affrontent des défis quotidiens.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fb27bae3-c03f-4a90-a7f1-a2ff46ed1e96",
+      "title": "Les Chapardeurs",
+      "programSlug": "les-chapardeurs",
+      "programUrl": "/programme/la-trois/les-chapardeurs",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-19 06:36:00+00",
+      "endTime": "2026-04-19 06:48:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2c36f7da-1360-410b-80ca-e325ca361d12",
+      "title": "Les Chapardeurs",
+      "programSlug": "les-chapardeurs",
+      "programUrl": "/programme/la-trois/les-chapardeurs",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-19 06:48:00+00",
+      "endTime": "2026-04-19 07:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1952,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 06:36:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

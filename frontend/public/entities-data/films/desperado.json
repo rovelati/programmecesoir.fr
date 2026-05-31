@@ -1,0 +1,128 @@
+{
+  "type": "film",
+  "slug": "desperado",
+  "title": "Desperado",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Desperado"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "film ou téléfilm criminel",
+    "contemporary Western film",
+    "film de vigilante"
+  ],
+  "description": "Le Mariachi, musicien sans nom, est de retour dans l'obscur village où le Bucho, un gangster mexicain, a assassiné sa petite amie. Ses ennemis n'ont pas l'intention de le laisser accomplir sa vengeance. Le musicien échappe par miracle à plusieurs tentatives de meurtre, non sans paver son chemin de cadavres...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1995,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q41548",
+      "slug": "antonio-banderas",
+      "name": "Antonio Banderas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188432",
+      "slug": "joaquim-de-almeida",
+      "name": "Joaquim de Almeida",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125106",
+      "slug": "salma-hayek",
+      "name": "Salma Hayek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104061",
+      "slug": "steve-buscemi",
+      "name": "Steve Buscemi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q73007",
+      "slug": "cheech-marin",
+      "name": "Cheech Marin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3772",
+      "slug": "quentin-tarantino",
+      "name": "Quentin Tarantino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q949506",
+      "slug": "carlos-gomez",
+      "name": "Carlos Gómez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q331461",
+      "slug": "tito-larriva",
+      "name": "Tito Larriva",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223830",
+      "slug": "q223830",
+      "name": "Q223830",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1042923",
+      "slug": "carlos-gallardo",
+      "name": "Carlos Gallardo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q47122",
+      "slug": "enrique-iglesias",
+      "name": "Enrique Iglesias",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17434137",
+      "slug": "peter-marquardt",
+      "name": "Peter Marquardt",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q47284",
+    "slug": "robert-rodriguez",
+    "name": "Robert Rodriguez",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,150 @@
+{
+  "type": "series",
+  "slug": "bones",
+  "title": "Bones",
+  "airingsCount": 15,
+  "sourceTitles": [
+    "Bones",
+    "Bones - Saison 12"
+  ],
+  "genres": [
+    "enquête policière",
+    "série télévisée dramatique"
+  ],
+  "description": "Les restes d'une personnes âgée sont découverts dans une décharge sauvage, au milieu de barils d'acide. En dépit de l'état du corps, la victime est identifiée par l'équipe de Bones comme étant un pensionnaire d'une luxueuse maison de repos. Il en était l'un des résidents les plus populaires mais l'enquête, menée au sein de l'établissement, révèle rapidement qu'il était ausii impliqué dans des affaires illégales. Le charmeur se livrait à diverses escroqueries avec son partenaire Rufus Tucker, éveillant la jalousie et le mécontentement des autres locataires. Cette enquête amène également l'équipe du Jeffersonian à réfléchir à son avenir personnel...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bones%20cast.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teva.png",
+      "airingsCount": 15
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2005,
+  "numberOfSeasons": 12,
+  "cast": [
+    {
+      "qid": "Q206364",
+      "slug": "david-boreanaz",
+      "name": "David Boreanaz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q116735",
+      "slug": "michaela-conlin",
+      "name": "Michaela Conlin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q559984",
+      "slug": "eric-millegan",
+      "name": "Eric Millegan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q361158",
+      "slug": "thomas-joseph-thyne",
+      "name": "Thomas Joseph Thyne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q983873",
+      "slug": "jonathan-adams",
+      "name": "Jonathan Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236948",
+      "slug": "tamara-taylor",
+      "name": "Tamara Taylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q342636",
+      "slug": "john-francis-daley",
+      "name": "John Francis Daley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q204672",
+      "slug": "emily-deschanel",
+      "name": "Emily Deschanel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q433355",
+      "slug": "patricia-belcher",
+      "name": "Patricia Belcher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272923",
+      "slug": "ryan-o-neal",
+      "name": "Ryan O'Neal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q488723",
+      "slug": "loren-dean",
+      "name": "Loren Dean",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1319913",
+      "slug": "eugene-byrd",
+      "name": "Eugene Byrd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q707823",
+      "slug": "brendan-fehr",
+      "name": "Brendan Fehr",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3308554",
+      "slug": "michael-terry",
+      "name": "Michael Terry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q432281",
+      "slug": "carla-gallo",
+      "name": "Carla Gallo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q371786",
+      "slug": "joel-moore",
+      "name": "Joel Moore",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q570177",
+    "slug": "hart-hanson",
+    "name": "Hart Hanson",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

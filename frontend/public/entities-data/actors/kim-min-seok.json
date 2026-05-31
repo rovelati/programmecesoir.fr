@@ -1,0 +1,109 @@
+{
+  "type": "actor",
+  "slug": "kim-min-seok",
+  "name": "Kim Min-seok",
+  "worksCount": 1,
+  "description": "acteur sud-coréen",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kim%20MIn-Seok%20from%20acrofan.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-01-24",
+  "nationality": "Corée du Sud",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q20444952",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kim_Min-seok_(acteur)",
+    "imdb": "nm6008760",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "defendant",
+      "title": "Defendant"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "37ddea0c-ad5c-41cf-8e30-7de58ac54bc9",
+      "title": "Defendant",
+      "programSlug": "defendant",
+      "programUrl": "/programme/gongfr/defendant",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-20 12:40:00+00",
+      "endTime": "2026-04-20 13:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "311ea36f-5573-466f-86b9-64e9fe470b08",
+      "title": "Defendant",
+      "programSlug": "defendant",
+      "programUrl": "/programme/gongfr/defendant",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-21 12:40:00+00",
+      "endTime": "2026-04-21 13:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "67930812-f580-4e72-8fde-93765e0d01b7",
+      "title": "Defendant",
+      "programSlug": "defendant",
+      "programUrl": "/programme/gongfr/defendant",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-22 12:40:00+00",
+      "endTime": "2026-04-22 13:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "2e234d25-3aec-46ba-b7b3-edeb9ce026f9",
+      "title": "Defendant",
+      "programSlug": "defendant",
+      "programUrl": "/programme/gongfr/defendant",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-23 12:40:00+00",
+      "endTime": "2026-04-23 13:55:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "3fea1ecf-457b-49a8-b341-923e5abbb74a",
+      "title": "Defendant",
+      "programSlug": "defendant",
+      "programUrl": "/programme/gongfr/defendant",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-24 12:40:00+00",
+      "endTime": "2026-04-24 13:55:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "7dbd4e07-85b5-4c65-8ef9-453f5db7179b",
+      "title": "Defendant",
+      "programSlug": "defendant",
+      "programUrl": "/programme/gongfr/defendant",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-25 12:40:00+00",
+      "endTime": "2026-04-25 13:55:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 12:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

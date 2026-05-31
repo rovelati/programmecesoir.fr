@@ -1,0 +1,119 @@
+{
+  "type": "film",
+  "slug": "les-berets-rouges",
+  "title": "Les bérets rouges",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Les bérets rouges"
+  ],
+  "genres": [
+    "drame",
+    "film et téléfilm de guerre"
+  ],
+  "description": "En 1940, se faisant passer pour un Canadien, un Américain s'engage dans un régiment de parachutistes britanniques. Une difficile période d'instruction commence. Puis vient la réalité du combat. Le soldat, après avoir refusé un avancement, se montre héroïque et sauve ses compagnons en danger...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1954,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q346280",
+      "slug": "alan-ladd",
+      "name": "Alan Ladd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q946210",
+      "slug": "leo-genn",
+      "name": "Leo Genn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1340574",
+      "slug": "harry-andrews",
+      "name": "Harry Andrews",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1306352",
+      "slug": "stanley-baker",
+      "name": "Stanley Baker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2852823",
+      "slug": "anthony-bushell",
+      "name": "Anthony Bushell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q68057",
+      "slug": "anton-diffring",
+      "name": "Anton Diffring",
+      "role": "actor"
+    },
+    {
+      "qid": "Q839022",
+      "slug": "donald-houston",
+      "name": "Donald Houston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3216898",
+      "slug": "lana-morris",
+      "name": "Lana Morris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q61552",
+      "slug": "walter-gotell",
+      "name": "Walter Gotell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18161447",
+      "slug": "michael-balfour",
+      "name": "Michael Balfour",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6222731",
+      "slug": "john-boxer",
+      "name": "John Boxer",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q314882",
+    "slug": "terence-young",
+    "name": "Terence Young",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

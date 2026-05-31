@@ -1,0 +1,185 @@
+{
+  "type": "actor",
+  "slug": "annie-potts",
+  "name": "Annie Potts",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": "Annie Potts incarne avec charme et polyvalence des personnages inoubliables, naviguant entre comédies légères et drames intimistes. Son jeu naturel, teinté d’une ironie bienveillante et d’une authenticité touchante, crée une ambiance à la fois chaleureuse et piquante. Pour le téléspectateur, son talent réside dans sa capacité à rendre chaque rôle profondément humain et attachant, qu’il s’agisse de rôles cultes ou de compositions plus discrètes. Une filmographie riche qui révèle une actrice aussi talentueuse que sous-estimée, à découvrir ou redécouvrir sans tarder à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Annie%20Potts%2C%202019%20(T6I0YV6Az8c).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1952-10-28",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q253536",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Annie_Potts",
+    "imdb": "nm0001633",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "s-o-s-fantomes",
+      "title": "S.O.S. Fantômes"
+    },
+    {
+      "type": "series",
+      "slug": "young-sheldon",
+      "title": "Young Sheldon"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dbf4ed35-d07c-4444-9a9d-d5ebcbb82625",
+      "title": "Young Sheldon - Saison 7",
+      "programSlug": "young-sheldon-saison-7",
+      "programUrl": "/programme/rts-un/young-sheldon-saison-7",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 11:40:00+00",
+      "endTime": "2026-04-19 12:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "01a5294c-2889-4e97-84c6-7b0b58f41930",
+      "title": "Young Sheldon - Saison 7",
+      "programSlug": "young-sheldon-saison-7",
+      "programUrl": "/programme/rts-un/young-sheldon-saison-7",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 12:00:00+00",
+      "endTime": "2026-04-19 12:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "04c412a4-18af-4b55-8aff-4d05653dcb70",
+      "title": "Young Sheldon - Saison 1",
+      "programSlug": "young-sheldon-saison-1",
+      "programUrl": "/programme/warnertv/young-sheldon-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-20 09:15:00+00",
+      "endTime": "2026-04-20 09:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "96585611-6050-41e9-a225-ca8ef82c38e9",
+      "title": "Young Sheldon - Saison 1",
+      "programSlug": "young-sheldon-saison-1",
+      "programUrl": "/programme/warnertv/young-sheldon-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-20 09:35:00+00",
+      "endTime": "2026-04-20 10:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fe59414a-a516-416f-9e74-e51cbf446365",
+      "title": "Young Sheldon - Saison 1",
+      "programSlug": "young-sheldon-saison-1",
+      "programUrl": "/programme/warnertv/young-sheldon-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-20 15:40:00+00",
+      "endTime": "2026-04-20 16:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d2f8809b-8d90-4b4c-8943-cd22467fbadc",
+      "title": "Young Sheldon - Saison 1",
+      "programSlug": "young-sheldon-saison-1",
+      "programUrl": "/programme/warnertv/young-sheldon-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-20 16:05:00+00",
+      "endTime": "2026-04-20 16:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bd19016a-979b-47ba-8f50-df92eca8c1e9",
+      "title": "Young Sheldon - Saison 1",
+      "programSlug": "young-sheldon-saison-1",
+      "programUrl": "/programme/warnertv/young-sheldon-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-20 16:25:00+00",
+      "endTime": "2026-04-20 16:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8d5d4683-0a5d-4c92-ad4a-8addbad51d70",
+      "title": "Young Sheldon - Saison 1",
+      "programSlug": "young-sheldon-saison-1",
+      "programUrl": "/programme/warnertv/young-sheldon-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-20 16:50:00+00",
+      "endTime": "2026-04-20 17:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "43c6f537-aa36-4716-b29f-8124e0a2bdb5",
+      "title": "Young Sheldon - Saison 1",
+      "programSlug": "young-sheldon-saison-1",
+      "programUrl": "/programme/warnertv/young-sheldon-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-21 09:15:00+00",
+      "endTime": "2026-04-21 09:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "11ae88cd-e527-48d4-b8bb-5ae868d6f58d",
+      "title": "Young Sheldon - Saison 1",
+      "programSlug": "young-sheldon-saison-1",
+      "programUrl": "/programme/warnertv/young-sheldon-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-21 09:35:00+00",
+      "endTime": "2026-04-21 10:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b37b7b8a-ec71-4872-a707-b523731a0876",
+      "title": "Young Sheldon - Saison 1",
+      "programSlug": "young-sheldon-saison-1",
+      "programUrl": "/programme/warnertv/young-sheldon-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-21 15:35:00+00",
+      "endTime": "2026-04-21 16:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "206643a4-a7e4-474c-92a5-b019268ac9e1",
+      "title": "Young Sheldon - Saison 1",
+      "programSlug": "young-sheldon-saison-1",
+      "programUrl": "/programme/warnertv/young-sheldon-saison-1",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-21 16:00:00+00",
+      "endTime": "2026-04-21 16:20:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:44.541Z",
+  "nextAiringAt": "2026-04-19 11:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

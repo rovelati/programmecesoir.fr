@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "barbara-bel-geddes",
+  "name": "Barbara Bel Geddes",
+  "worksCount": 1,
+  "description": "actrice américaine (1922-2005)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BarbaraBelGeddes.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1922-10-31",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q232421",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Barbara_Bel_Geddes",
+    "imdb": "nm0000895",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "tendresse",
+      "title": "Tendresse"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b8ea79a-899e-40bc-80c7-029d2b75ede3",
+      "title": "Tendresse",
+      "programSlug": "tendresse",
+      "programUrl": "/programme/tcm-cinema/tendresse",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-21 00:15:00+00",
+      "endTime": "2026-04-21 02:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2c43dcca-7a98-40e2-8792-88283258bd79",
+      "title": "Tendresse",
+      "programSlug": "tendresse",
+      "programUrl": "/programme/tcm-cinema/tendresse",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-26 02:15:00+00",
+      "endTime": "2026-04-26 04:25:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 00:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

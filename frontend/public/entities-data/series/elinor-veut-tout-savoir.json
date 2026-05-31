@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "slug": "elinor-veut-tout-savoir",
+  "title": "Elinor veut tout savoir",
+  "airingsCount": 17,
+  "sourceTitles": [
+    "Elinor veut tout savoir"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série télévisée d'aventures",
+    "musical",
+    "educational television"
+  ],
+  "description": "série télévisée d'animation américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/piwi.png",
+      "airingsCount": 17
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fea812ce-6d95-49a9-9b2c-327ba893f5d9",
+      "title": "Elinor veut tout savoir",
+      "programSlug": "elinor-veut-tout-savoir",
+      "programUrl": "/programme/piwi/elinor-veut-tout-savoir",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-20 12:36:00+00",
+      "endTime": "2026-04-20 12:59:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "00509654-93e0-48ec-ab99-0f5343ff60a5",
+      "title": "Elinor veut tout savoir",
+      "programSlug": "elinor-veut-tout-savoir",
+      "programUrl": "/programme/piwi/elinor-veut-tout-savoir",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-21 12:36:00+00",
+      "endTime": "2026-04-21 12:59:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c3e53442-f8b2-4784-93af-9a790aca05df",
+      "title": "Elinor veut tout savoir",
+      "programSlug": "elinor-veut-tout-savoir",
+      "programUrl": "/programme/piwi/elinor-veut-tout-savoir",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-22 12:36:00+00",
+      "endTime": "2026-04-22 12:59:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c27d43f1-f9ff-4101-9be0-b2583148697a",
+      "title": "Elinor veut tout savoir",
+      "programSlug": "elinor-veut-tout-savoir",
+      "programUrl": "/programme/piwi/elinor-veut-tout-savoir",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-23 12:36:00+00",
+      "endTime": "2026-04-23 12:59:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "eeab2e1a-d75f-4acf-bbfe-9f2ba3059870",
+      "title": "Elinor veut tout savoir",
+      "programSlug": "elinor-veut-tout-savoir",
+      "programUrl": "/programme/piwi/elinor-veut-tout-savoir",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-24 12:36:00+00",
+      "endTime": "2026-04-24 12:59:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "d1c07dd3-7b93-428f-9023-ef8ac99dc1e8",
+      "title": "Elinor veut tout savoir",
+      "programSlug": "elinor-veut-tout-savoir",
+      "programUrl": "/programme/piwi/elinor-veut-tout-savoir",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-25 12:36:00+00",
+      "endTime": "2026-04-25 12:59:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2020,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": {
+    "qid": "Q386158",
+    "slug": "jorge-cham",
+    "name": "Jorge Cham",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 12:36:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

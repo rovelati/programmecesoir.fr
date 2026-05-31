@@ -1,0 +1,112 @@
+{
+  "type": "film",
+  "slug": "loving",
+  "title": "Loving",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Loving"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Virginie, en 1958. Richard Loving vient d'épouser Mildred et de lui montrer le terrain sur lequel il veut construire leur future maison. Une nuit, le couple est réveillé par la police. Son crime : s'être uni alors que le mariage mixte est interdit dans cet état ségrégationniste. Il évite les poursuites s'il accepte de quitter les lieux. Il s'exécute la mort dans l'âme. Bernie Cohen, un avocat engagé dans la lutte pour les droits civiques, contacte les Loving pour leur proposer ses services. Mildred, qui souffre d'être éloignée de sa famille, accepte de le rencontrer et l'idée de se battre. Richard est plutôt réticent...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1970,
+  "durationMinutes": 89,
+  "cast": [
+    {
+      "qid": "Q449900",
+      "slug": "george-segal",
+      "name": "George Segal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228928",
+      "slug": "eva-marie-saint",
+      "name": "Eva Marie Saint",
+      "role": "actor"
+    },
+    {
+      "qid": "Q323166",
+      "slug": "sterling-hayden",
+      "name": "Sterling Hayden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q946859",
+      "slug": "keenan-wynn",
+      "name": "Keenan Wynn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q436789",
+      "slug": "diana-douglas",
+      "name": "Diana Douglas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q216569",
+      "slug": "roy-scheider",
+      "name": "Roy Scheider",
+      "role": "actor"
+    },
+    {
+      "qid": "Q456329",
+      "slug": "sab-shimono",
+      "name": "Sab Shimono",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3047492",
+      "slug": "edgar-stehli",
+      "name": "Edgar Stehli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q119198",
+      "slug": "david-doyle",
+      "name": "David Doyle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7360500",
+      "slug": "roland-winters",
+      "name": "Roland Winters",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q119348",
+    "slug": "irvin-kershner",
+    "name": "Irvin Kershner",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,154 @@
+{
+  "type": "film",
+  "slug": "american-psycho",
+  "title": "American Psycho",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "American Psycho"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "comédie horrifique",
+    "thriller",
+    "drame",
+    "adaptation d'un roman au cinéma",
+    "slasher",
+    "comédie noire"
+  ],
+  "description": "L'Amérique des années Reagan. Patrick Bateman, parfait golden-boy, invite chez lui son ami Paul Allen et le découpe consciencieusement à la hache. Après quoi, usurpant l'identité de Paul, il s'installe dans son appartement et y reçoit des femmes qu'il se fait un devoir et un plaisir de trucider à petit feu...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2000,
+  "durationMinutes": 102,
+  "cast": [
+    {
+      "qid": "Q45772",
+      "slug": "christian-bale",
+      "name": "Christian Bale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316596",
+      "slug": "justin-theroux",
+      "name": "Justin Theroux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q484523",
+      "slug": "jared-leto",
+      "name": "Jared Leto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q862427",
+      "slug": "bill-sage",
+      "name": "Bill Sage",
+      "role": "actor"
+    },
+    {
+      "qid": "Q53651",
+      "slug": "josh-lucas",
+      "name": "Josh Lucas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235870",
+      "slug": "chloe-sevigny",
+      "name": "Chloë Sevigny",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44063",
+      "slug": "reese-witherspoon",
+      "name": "Reese Witherspoon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237190",
+      "slug": "samantha-mathis",
+      "name": "Samantha Mathis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188772",
+      "slug": "willem-dafoe",
+      "name": "Willem Dafoe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438908",
+      "slug": "cara-seymour",
+      "name": "Cara Seymour",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447584",
+      "slug": "guinevere-turner",
+      "name": "Guinevere Turner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q512440",
+      "slug": "krista-sutton",
+      "name": "Krista Sutton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1190406",
+      "slug": "matt-ross",
+      "name": "Matt Ross",
+      "role": "actor"
+    },
+    {
+      "qid": "Q973783",
+      "slug": "reg-e-cathey",
+      "name": "Reg E. Cathey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3369100",
+      "slug": "patricia-gage",
+      "name": "Patricia Gage",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2852892",
+      "slug": "anthony-lemke",
+      "name": "Anthony Lemke",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q348868",
+    "slug": "mary-harron",
+    "name": "Mary Harron",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

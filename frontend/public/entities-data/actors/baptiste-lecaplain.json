@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "baptiste-lecaplain",
+  "name": "Baptiste Lecaplain",
+  "worksCount": 2,
+  "description": "humoriste et acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baptiste%20Lecaplain%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1985-05-23",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2883665",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Baptiste_Lecaplain",
+    "imdb": "nm4684387",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jamais-sans-mon-psy",
+      "title": "Jamais sans mon psy"
+    },
+    {
+      "type": "film",
+      "slug": "nous-les-leroy",
+      "title": "Nous, les Leroy"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

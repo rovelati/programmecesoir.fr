@@ -1,0 +1,102 @@
+{
+  "type": "film",
+  "slug": "le-proces-du-chien",
+  "title": "Le procès du chien",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Le procès du chien"
+  ],
+  "genres": [
+    "comédie dramatique"
+  ],
+  "description": "Lasse de perdre quasiment tous ses procès, Avril Lucciani, une avocate quadragénaire abonnée aux causes perdues, s'est fait une promesse : sa prochaine affaire, elle la gagnera. Mais lorsque Dariuch, client original et désespéré, lui demande de défendre son fidèle compagnon Cosmos, les convictions humanistes d'Avril reprennent bien vite le dessus. Elle accepte de relever ce défi un peu fou. Commence alors un procès aussi inattendu que médiatisé, celui du premier chien appelé à comparaître devant un tribunal depuis plusieurs siècles. L'affaire est sérieuse : Cosmos a mordu trois personnes et encourt l'euthanasie...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 83,
+  "cast": [
+    {
+      "qid": "Q14605170",
+      "slug": "l-titia-dosch",
+      "name": "Lætitia Dosch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3168303",
+      "slug": "jean-pascal-zadi",
+      "name": "Jean-Pascal Zadi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851072",
+      "slug": "anne-dorval",
+      "name": "Anne Dorval",
+      "role": "actor"
+    },
+    {
+      "qid": "Q164976",
+      "slug": "francois-damiens",
+      "name": "François Damiens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q949017",
+      "slug": "mathieu-demy",
+      "name": "Mathieu Demy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106088296",
+      "slug": "anabela-moreira",
+      "name": "Anabela Moreira",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15904323",
+      "slug": "pierre-deladonchamps",
+      "name": "Pierre Deladonchamps",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q14605170",
+    "slug": "l-titia-dosch",
+    "name": "Lætitia Dosch",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "brooks-ashmanskas",
+  "name": "Brooks Ashmanskas",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1969-06-14",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q4974971",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brooks_Ashmanskas",
+    "imdb": "nm2643935",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "julie-julia",
+      "title": "Julie & Julia"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8feb3738-8b3a-465f-bb67-714353c2129d",
+      "title": "Julie & Julia",
+      "programSlug": "julie-julia",
+      "programUrl": "/programme/cine-emotion/julie-julia",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 04:30:00+00",
+      "endTime": "2026-04-23 06:30:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 04:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,79 @@
+{
+  "type": "film",
+  "slug": "mon-chat-et-moi-la-grande-aventure-de-rrou",
+  "title": "Mon chat et moi, la grande aventure de Rroû",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Mon chat et moi, la grande aventure de Rroû"
+  ],
+  "genres": [
+    "film ou téléfilm familial",
+    "film ou téléfilm d'aventure",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "C'est un véritable coup de foudre qui se produit lorsque la petite Clémence découvre Rroû, un chaton errant sur les toits parisiens. La fillette de 10 ans décide de l'adopter et de l'emmener dans sa maison de campagne, au coeur des montagnes vosgiennes. Alors que ses parents sont en plein divorce, Clémence a plus que jamais besoin de l'amour et de la tendresse de son chaton. Durant sa découverte de la campagne environnante, la fillette fait la connaissance de Madeleine, une voisine solitaire et un peu mystérieuse qui préfère les animaux aux humains. Malheureusement, Rroû prend la poudre d'escampette, provoquant le désespoir de Clémence...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "36dd1f32-6f2d-4cf5-97f8-d4075168273e",
+      "title": "Mon chat et moi, la grande aventure de Rroû",
+      "programSlug": "mon-chat-et-moi-la-grande-aventure-de-rrou",
+      "programUrl": "/programme/cine-family/mon-chat-et-moi-la-grande-aventure-de-rrou",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 02:42:00+00",
+      "endTime": "2026-04-24 04:02:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2023,
+  "durationMinutes": 83,
+  "cast": [
+    {
+      "qid": "Q124004065",
+      "slug": "capucine-sainson-fabresse",
+      "name": "Capucine Sainson-Fabresse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2997347",
+      "slug": "corinne-masiero",
+      "name": "Corinne Masiero",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q61466276",
+    "slug": "guillaume-maidatchevsky",
+    "name": "Guillaume Maidatchevsky",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 02:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

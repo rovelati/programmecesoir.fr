@@ -1,0 +1,58 @@
+{
+  "type": "film",
+  "slug": "animale",
+  "title": "Animale",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Animale"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Nejma s'entraîne dur afin de réaliser son rêve et remporter la prochaine course camarguaise, un concours où des taureaux sont défiés dans l'arène. Mais alors que la saison bat son plein, des disparitions suspectes inquiètent les habitants. Très vite, la rumeur se propage : une bête sauvage rôde…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 100,
+  "cast": [
+    {
+      "qid": "Q26761761",
+      "slug": "oulaya-amamra",
+      "name": "Oulaya Amamra",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q108546180",
+    "slug": "emma-benestan",
+    "name": "Emma Benestan",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

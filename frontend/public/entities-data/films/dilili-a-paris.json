@@ -1,0 +1,53 @@
+{
+  "type": "film",
+  "slug": "dilili-a-paris",
+  "title": "Dilili à Paris",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Dilili à Paris"
+  ],
+  "genres": [
+    "film ou téléfilm à énigme",
+    "film ou téléfilm familial",
+    "film d'animation"
+  ],
+  "description": "Dilili, jeune métisse de Nouvelle-Calédonie, découvre la ville, émerveillée. Elle se met à enquêter sur la disparition de fillettes. Aidée par Orel, un livreur en triporteur porté sur le chant, Dilili remonte la piste d'une secte souterraine, les Mâles-Maîtres, ravisseurs de femmes puis de jeunes filles. Ces derniers veulent empêcher l'émancipation féminine en marche qui menace l'ordre patriarcal. Au cours de leurs investigations, les deux amis croisent les plus grandes célébrités de ce début du XXe, de Toulouse-Lautrec à Marcel Proust en passant par Emma Calvé, Picasso, Pasteur, Satie, Rodin, Renoir, Degas, Marie Curie, Sarah Bernhardt, Louise Michel...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q1364283",
+    "slug": "michel-ocelot",
+    "name": "Michel Ocelot",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

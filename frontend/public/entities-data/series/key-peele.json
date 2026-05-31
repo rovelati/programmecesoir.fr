@@ -1,0 +1,187 @@
+{
+  "type": "series",
+  "slug": "key-peele",
+  "title": "Key & Peele",
+  "airingsCount": 22,
+  "sourceTitles": [
+    "Key & Peele",
+    "Key & Peele - Saison 1",
+    "Key & Peele - Saison 5"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Neil deGrasse Tyson se détend chez lui, Keegan ne doit pas craquer pendant un entretien d'embauche, un couturier gère un client ballonné, les valets discutent de Game of Thrones, et un démarcheur téléphonique tente une nouvelle stratégie.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "channelNumber": null,
+      "logoUrl": "/loghi/comedy-central.png",
+      "airingsCount": 22
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0929b3f2-e21e-4569-8632-78c0fe817af3",
+      "title": "Key & Peele - Saison 4",
+      "programSlug": "key-peele-saison-4",
+      "programUrl": "/programme/comedy-central/key-peele-saison-4",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-21 00:40:00+00",
+      "endTime": "2026-04-21 01:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "822487f1-77e0-4d29-bf52-3dfa6d7facc8",
+      "title": "Key & Peele - Saison 4",
+      "programSlug": "key-peele-saison-4",
+      "programUrl": "/programme/comedy-central/key-peele-saison-4",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-21 01:00:00+00",
+      "endTime": "2026-04-21 01:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e8677039-47f8-4152-a5e1-495cd2fe18b5",
+      "title": "Key & Peele - Saison 4",
+      "programSlug": "key-peele-saison-4",
+      "programUrl": "/programme/comedy-central/key-peele-saison-4",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-22 00:40:00+00",
+      "endTime": "2026-04-22 01:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "1ec9c461-a757-40aa-8a88-4a949517a137",
+      "title": "Key & Peele - Saison 4",
+      "programSlug": "key-peele-saison-4",
+      "programUrl": "/programme/comedy-central/key-peele-saison-4",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-22 01:00:00+00",
+      "endTime": "2026-04-22 01:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "26c140ef-1545-416b-abc6-ccb316a79d66",
+      "title": "Key & Peele - Saison 4",
+      "programSlug": "key-peele-saison-4",
+      "programUrl": "/programme/comedy-central/key-peele-saison-4",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-23 00:40:00+00",
+      "endTime": "2026-04-23 01:00:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6555f269-5f57-4c26-9d62-6b67ee274013",
+      "title": "Key & Peele - Saison 4",
+      "programSlug": "key-peele-saison-4",
+      "programUrl": "/programme/comedy-central/key-peele-saison-4",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-23 01:00:00+00",
+      "endTime": "2026-04-23 01:20:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "d3b08048-bfee-4a4f-a5b5-7df1f43d8a29",
+      "title": "Key & Peele (La réunion des terroristes) S4 (nï¿œ11)",
+      "programSlug": "key-peele-la-reunion-des-terroristes-s4-ni-11",
+      "programUrl": "/programme/disney-xd/key-peele-la-reunion-des-terroristes-s4-ni-11",
+      "channelId": "disney-xd",
+      "channelName": "Disney XD",
+      "channelSlug": "disney-xd",
+      "startTime": "2026-04-23 01:00:00+00",
+      "endTime": "2026-04-23 01:20:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "979e62f5-14c5-41d0-8040-830b5bc15c4f",
+      "title": "Key & Peele - Saison 5",
+      "programSlug": "key-peele-saison-5",
+      "programUrl": "/programme/comedy-central/key-peele-saison-5",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-24 00:40:00+00",
+      "endTime": "2026-04-24 01:00:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "1c68aadf-27c4-4686-8521-38484ec65de1",
+      "title": "Key & Peele - Saison 5",
+      "programSlug": "key-peele-saison-5",
+      "programUrl": "/programme/comedy-central/key-peele-saison-5",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-24 01:00:00+00",
+      "endTime": "2026-04-24 01:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "13b1c123-778e-4b46-8cf2-dd0686fff04b",
+      "title": "Key & Peele - Saison 5",
+      "programSlug": "key-peele-saison-5",
+      "programUrl": "/programme/comedy-central/key-peele-saison-5",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-25 00:40:00+00",
+      "endTime": "2026-04-25 01:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "407043e9-a5a4-4e38-8c44-5c246f2c9013",
+      "title": "Key & Peele - Saison 5",
+      "programSlug": "key-peele-saison-5",
+      "programUrl": "/programme/comedy-central/key-peele-saison-5",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-04-25 01:00:00+00",
+      "endTime": "2026-04-25 01:20:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2012,
+  "numberOfSeasons": 5,
+  "cast": [],
+  "creator": {
+    "qid": "Q6382703",
+    "slug": "keegan-michael-key",
+    "name": "Keegan-Michael Key",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-21 00:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

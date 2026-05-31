@@ -1,0 +1,169 @@
+{
+  "type": "film",
+  "slug": "zazie-dans-le-metro",
+  "title": "Zazie dans le métro",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Zazie dans le métro"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Gabriel vient chercher sa nièce Zazie à la gare. Pour cette petite provinciale, c'est la première sortie à Paris. Zazie rêve de prendre le métro, mais les agents de la RATP sont justement en grève. Son oncle se propose alors de lui faire visiter la capitale dans le taxi de son ami Charles. Les deux hommes se rendent vite compte que la gamine, loin d'avoir sa langue dans sa poche, est passablement infernale. Zazie multiplie les fugues, au cours desquelles elle rencontre quantité de personnages pittoresques, de Turandot, un limonadier accompagné d'un perroquet, à la veuve Mouaque, toute de mauve vêtue...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kinema-Junpo-1961-January-special-2.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "86b7d271-194c-4d7a-854b-9ed4945b3edd",
+      "title": "Zazie dans le métro",
+      "programSlug": "zazie-dans-le-metro",
+      "programUrl": "/programme/cine-classic/zazie-dans-le-metro",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-25 08:43:00+00",
+      "endTime": "2026-04-25 10:13:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1960,
+  "durationMinutes": 82,
+  "cast": [
+    {
+      "qid": "Q2941897",
+      "slug": "catherine-demongeot",
+      "name": "Catherine Demongeot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106482",
+      "slug": "philippe-noiret",
+      "name": "Philippe Noiret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2939031",
+      "slug": "carla-marlier",
+      "name": "Carla Marlier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3141992",
+      "slug": "hubert-deschamps",
+      "name": "Hubert Deschamps",
+      "role": "actor"
+    },
+    {
+      "qid": "Q615795",
+      "slug": "jacques-dufilho",
+      "name": "Jacques Dufilho",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851658",
+      "slug": "annie-fratellini",
+      "name": "Annie Fratellini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q691515",
+      "slug": "vittorio-caprioli",
+      "name": "Vittorio Caprioli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q513456",
+      "slug": "yvonne-clech",
+      "name": "Yvonne Clech",
+      "role": "actor"
+    },
+    {
+      "qid": "Q47018112",
+      "slug": "odette-piquet",
+      "name": "Odette Piquet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4382017",
+      "slug": "nicolas-bataille",
+      "name": "Nicolas Bataille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3287946",
+      "slug": "marc-dolnitz",
+      "name": "Marc Dolnitz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21714448",
+      "slug": "antoine-roblot",
+      "name": "Antoine Roblot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q130598692",
+      "slug": "q130598692",
+      "name": "Q130598692",
+      "role": "actor"
+    },
+    {
+      "qid": "Q130598694",
+      "slug": "q130598694",
+      "name": "Q130598694",
+      "role": "actor"
+    },
+    {
+      "qid": "Q130598697",
+      "slug": "q130598697",
+      "name": "Q130598697",
+      "role": "actor"
+    },
+    {
+      "qid": "Q130598698",
+      "slug": "q130598698",
+      "name": "Q130598698",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55392",
+    "slug": "louis-malle",
+    "name": "Louis Malle",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 08:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

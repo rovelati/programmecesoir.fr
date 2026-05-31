@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "henri-coutet",
+  "name": "Henri Coutet",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1909-06-28",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3130893",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Henri_Coutet",
+    "imdb": "nm0184186",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mata-hari-agent-h21",
+      "title": "Mata Hari, agent H21"
+    },
+    {
+      "type": "film",
+      "slug": "l-important-c-est-d-aimer",
+      "title": "L'important c'est d'aimer"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

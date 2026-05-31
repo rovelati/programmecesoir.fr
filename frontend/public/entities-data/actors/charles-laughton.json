@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "charles-laughton",
+  "name": "Charles Laughton",
+  "worksCount": 2,
+  "description": "acteur et réalisateur britannico-américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Laughton-publicity2.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1899-07-01",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q55264",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Charles_Laughton",
+    "imdb": "nm0001452",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "quasimodo",
+      "title": "Quasimodo"
+    },
+    {
+      "type": "film",
+      "slug": "arc-de-triomphe",
+      "title": "Arc de Triomphe"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

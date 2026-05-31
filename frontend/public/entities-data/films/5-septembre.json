@@ -1,0 +1,63 @@
+{
+  "type": "film",
+  "slug": "5-septembre",
+  "title": "5 septembre",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "5 septembre"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Lors des Jeux olympiques de Munich de 1972, l'équipe de la chaîne de télévision américaine ABC Sports se voit contrainte d'interrompre subitement la diffusion des compétitions, pour couvrir en direct la prise d'otage d'athlètes israéliens. L'événement est suivi par un milliard de personnes dans le monde. Geoffrey Mason, un jeune producteur ambitieux, veut profiter de cette occasion pour faire ses preuves auprès de Roone Arledge, son patron. Avec sa collègue et interprète allemande Marianne, son mentor Marvin Bader, Geoffrey se retrouve confronté aux dilemmes de l'information en continu et de la moralité...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

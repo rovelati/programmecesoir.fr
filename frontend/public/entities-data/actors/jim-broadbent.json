@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jim-broadbent",
+  "name": "Jim Broadbent",
+  "worksCount": 1,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jim%20Broadbent%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1949-05-24",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q185079",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jim_Broadbent",
+    "imdb": "nm0000980",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "paddington-au-perou",
+      "title": "Paddington au Pérou"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

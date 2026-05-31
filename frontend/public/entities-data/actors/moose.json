@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "moose",
+  "name": "Moose",
+  "worksCount": 1,
+  "description": "dog actor (1990-2006)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-12-24",
+  "nationality": null,
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q492396",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moose_(dog)",
+    "imdb": "nm1189150",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "frasier",
+      "title": "Frasier"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

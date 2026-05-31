@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "a-son-image",
+  "title": "A son image",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "A son image"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Au début des années 1980, sur une île de Beauté en pleine ébullition, Antonia travaille en tant que photographe pour Corse-Matin, un journal basé à Ajaccio. Durant plus de trois décennies, son engagement, ses amis, ses amours se mélangent aux grands événements de l'histoire politique de l'île...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q3524589",
+    "slug": "thierry-de-peretti",
+    "name": "Thierry de Peretti",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

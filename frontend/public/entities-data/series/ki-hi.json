@@ -1,0 +1,72 @@
+{
+  "type": "series",
+  "slug": "ki-hi",
+  "title": "Ki & Hi",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Ki & Hi"
+  ],
+  "genres": [
+    "Série TV",
+    "Séries d'animation"
+  ],
+  "description": "La bataille fait rage entre Ki et Hi, deux frères diamétralement opposés. L'aîné adore martyriser son cadet, qui ne s'en laisse pas compter. Ensemble, ils font les 400 coups, comme dévaliser un restaurant de sushis à volonté, mais peuvent aussi s'allier quand les circonstances l'exigent.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7b308489-f61c-4d1c-bcb7-bc3d069c47da",
+      "title": "Ki & Hi",
+      "programSlug": "ki-hi",
+      "programUrl": "/programme/la-trois/ki-hi",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-25 06:37:00+00",
+      "endTime": "2026-04-25 06:48:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "1621096d-0e9b-41e3-8e22-95462df4c4b0",
+      "title": "Ki & Hi",
+      "programSlug": "ki-hi",
+      "programUrl": "/programme/la-trois/ki-hi",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-25 06:48:00+00",
+      "endTime": "2026-04-25 07:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-25 06:37:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

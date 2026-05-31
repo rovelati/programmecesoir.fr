@@ -1,0 +1,83 @@
+{
+  "type": "series",
+  "slug": "barbie-dreamhouse-adventures",
+  "title": "Barbie Dreamhouse Adventures",
+  "airingsCount": 30,
+  "sourceTitles": [
+    "Barbie Dreamhouse Adventures"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Barbie se sent très mal quand des évènements successifs l'empêchent de tenir sa promesse auprès de Chelsea : de l'emmener voir le Grand Cirque Violet ; alors Barbie décide de monter son propre spectacle de cirque dans la Maison de Rêve !",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tiji.png",
+      "airingsCount": 30
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "86d61fa9-e4d7-4332-9d9f-31d945742254",
+      "title": "Barbie Dreamhouse Adventures",
+      "programSlug": "barbie-dreamhouse-adventures",
+      "programUrl": "/programme/tiji/barbie-dreamhouse-adventures",
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "startTime": "2026-04-19 11:30:00+00",
+      "endTime": "2026-04-19 11:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5c76f79f-3871-4271-b8d3-869618da5bf9",
+      "title": "Barbie Dreamhouse Adventures",
+      "programSlug": "barbie-dreamhouse-adventures",
+      "programUrl": "/programme/tiji/barbie-dreamhouse-adventures",
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "startTime": "2026-04-19 11:50:00+00",
+      "endTime": "2026-04-19 12:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9dfc0980-e3cd-41b3-b63e-b0ca190f95dc",
+      "title": "Barbie Dreamhouse Adventures",
+      "programSlug": "barbie-dreamhouse-adventures",
+      "programUrl": "/programme/tiji/barbie-dreamhouse-adventures",
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "startTime": "2026-04-19 12:15:00+00",
+      "endTime": "2026-04-19 12:40:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2018,
+  "numberOfSeasons": 5,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 11:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

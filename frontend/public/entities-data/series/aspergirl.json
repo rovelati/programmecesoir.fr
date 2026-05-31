@@ -1,0 +1,85 @@
+{
+  "type": "series",
+  "slug": "aspergirl",
+  "title": "Aspergirl",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Aspergirl",
+    "Aspergirl - Saison 2"
+  ],
+  "genres": [
+    "Series",
+    "Série TV"
+  ],
+  "description": "Guilhem est 11e sur liste d'attente pour le cursus Mars 2030. Si c'est un soulagement pour Louison, c'est un drame pour l'adolescent qui se rend à la faculté, persuadé qu'il y a erreur. Il tombe alors sur Clara, ex aequo avec lui sur la liste d'attente, qui lui propose un plan infaillible : pousser chacun des candidats mieux classés au désistement...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2023,
+  "numberOfSeasons": 2,
+  "cast": [
+    {
+      "qid": "Q3341044",
+      "slug": "nicole-ferroni",
+      "name": "Nicole Ferroni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3328896",
+      "slug": "mustapha-abourachid",
+      "name": "Mustapha Abourachid",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23774010",
+      "slug": "jean-henri-compere",
+      "name": "Jean-Henri Compère",
+      "role": "actor"
+    },
+    {
+      "qid": "Q120795052",
+      "slug": "suzanne-de-baecque",
+      "name": "Suzanne de Baecque",
+      "role": "actor"
+    },
+    {
+      "qid": "Q46481318",
+      "slug": "victoire-du-bois",
+      "name": "Victoire Du Bois",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107048945",
+      "slug": "benjamin-tranie",
+      "name": "Benjamin Tranié",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

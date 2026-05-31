@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "les-enquetes-du-departement-v-profanation",
+  "title": "Les enquêtes du département V : profanation",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les enquêtes du département V : profanation",
+    "Les enquêtes du département V : Profanation"
+  ],
+  "genres": [
+    "thriller",
+    "film ou téléfilm criminel",
+    "drame",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Thomas et Marie Jorgensen ont été sauvagement assassinés en 1987. A l'époque, la police avait suspecté un groupe de pensionnaires d'un internat mais, faute de preuves, les poursuites avaient été abandonnées. Vingt ans après les faits, le père de l'une des victimes rend visite à l'inspecteur Carl Morck, avant de se suicider. Morck décide alors de reprendre l'enquête, qui le conduit bientôt sur les traces de Kimmie Lassen, qui aurait été un témoin crucial. Au moment des meurtres, elle sortait en effet avec Ditlev Pram, devenu depuis le patron d'une chaîne d'hôtels. Peut-être elle-même impliquée dans ce double meurtre, elle est devenue la cible de ses anciens amis. Une course contre la montre s'engage...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 119,
+  "cast": [
+    {
+      "qid": "Q768899",
+      "slug": "david-dencik",
+      "name": "David Dencik",
+      "role": "actor"
+    },
+    {
+      "qid": "Q706673",
+      "slug": "fares-fares",
+      "name": "Fares Fares",
+      "role": "actor"
+    },
+    {
+      "qid": "Q117906",
+      "slug": "johan-philip-pilou-asb-k",
+      "name": "Johan Philip Pilou Asbæk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q383754",
+      "slug": "nikolaj-lie-kaas",
+      "name": "Nikolaj Lie Kaas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2033737",
+      "slug": "s-ren-pilmark",
+      "name": "Søren Pilmark",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15985263",
+      "slug": "danica-curcic",
+      "name": "Danica Curcic",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12334665",
+      "slug": "sarah-sofie-boussnina",
+      "name": "Sarah-Sofie Boussnina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12305062",
+      "slug": "camilla-gottlieb",
+      "name": "Camilla Gottlieb",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12327681",
+      "slug": "morten-hemmingsen",
+      "name": "Morten Hemmingsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q433444",
+      "slug": "beate-bille",
+      "name": "Beate Bille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18145315",
+      "slug": "johanne-louise-schmidt",
+      "name": "Johanne Louise Schmidt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12316265",
+      "slug": "henning-valin-jakobsen",
+      "name": "Henning Valin Jakobsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12325931",
+      "slug": "marco-ils",
+      "name": "Marco Ilsø",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12327695",
+      "slug": "morten-kirkskov",
+      "name": "Morten Kirkskov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12315361",
+      "slug": "hans-henrik-clemensen",
+      "name": "Hans Henrik Clemensen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12307120",
+      "slug": "dan-zahle",
+      "name": "Dan Zahle",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q12327179",
+    "slug": "mikkel-n-rgaard",
+    "name": "Mikkel Nørgaard",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

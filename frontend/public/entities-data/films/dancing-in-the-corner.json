@@ -1,0 +1,55 @@
+{
+  "type": "film",
+  "slug": "dancing-in-the-corner",
+  "title": "Dancing in the Corner",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Dancing in the Corner"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Après la chute du communisme en 1989, la télévision couleur n'est plus un produit de luxe en Pologne. Dans les foyers polonais, les écrans ressemblent davantage à la réalité qu'ils voient de leurs fenêtres. Mais quelles sont les vraies couleurs de cette réalité ?...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

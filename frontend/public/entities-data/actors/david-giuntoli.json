@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "david-giuntoli",
+  "name": "David Giuntoli",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Giuntoli%20by%20Gage%20Skidmore.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1980-06-18",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q26636",
+    "wikipedia": "https://fr.wikipedia.org/wiki/David_Giuntoli",
+    "imdb": "nm1365912",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "grimm",
+      "title": "Grimm"
+    },
+    {
+      "type": "series",
+      "slug": "a-million-little-things",
+      "title": "A Million Little Things"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

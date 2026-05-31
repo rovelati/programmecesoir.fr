@@ -1,0 +1,202 @@
+{
+  "type": "film",
+  "slug": "la-venue-de-l-avenir",
+  "title": "La Venue de l'avenir",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "La venue de l'avenir",
+    "La Venue de l'avenir"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "film ou téléfilm criminel",
+    "thriller",
+    "film ou téléfilm historique",
+    "film ou téléfilm policier"
+  ],
+  "description": "Une trentaine de personnes issues d'une même famille apprennent qu'ils vont recevoir en héritage une maison abandonnée depuis des années. Quatre d'entre eux, Seb, Abdel, Céline et Guy, sont chargés d'en faire l'état des lieux. Ces lointains \"cousins\" vont alors découvrir de véritables trésors cachés dans cette vieille bâtisse, qui vont les entraîner sur les traces d'une mystérieuse Adèle qui a quitté sa Normandie natale à 20 ans. Cette Adèle se retrouve à Paris en 1895, au moment où la ville est en pleine révolution industrielle et culturelle. Ce voyage dans leur arbre généalogique va faire découvrir aux quatre cousins la vie quotidienne à la fin du XIXe siècle...",
+  "descriptionAi": "Ce film mêle habilement comédie dramatique et intrigue policière historique. L'ambiance oscille entre la curiosité légère de cousins réunis par un héritage inattendu et la tension d'une enquête sur un passé familial enfoui. L'intérêt réside dans ce double récit : la quête de Seb, Abdel, Céline et Guy dans le présent, qui dévoile progressivement le destin passionnant d'Adèle, leur aïeule plongée dans le bouillonnement du Paris de 1895. Une fresque familiale qui explore avec subtilité les liens entre les époques et les secrets qui traversent les générations, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "027bf865-81c6-422e-95b6-3e53da1a6b74",
+      "title": "La Venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/canal/la-venue-de-l-avenir",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 11:28:00+00",
+      "endTime": "2026-04-21 13:29:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4e6d724f-7056-4d35-a243-100c134594ac",
+      "title": "La venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/paramount-channel/la-venue-de-l-avenir",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 13:15:00+00",
+      "endTime": "2026-04-24 15:15:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "81b3811a-de71-4159-aa73-d7844bc0c2b0",
+      "title": "La Venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/canal-cinema/la-venue-de-l-avenir",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 13:16:00+00",
+      "endTime": "2026-04-24 15:18:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q134142841",
+    "wikipedia": "https://fr.wikipedia.org/wiki/La_Venue_de_l'avenir",
+    "imdb": "tt31411349",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:23.073Z",
+  "year": 2025,
+  "durationMinutes": 124,
+  "cast": [
+    {
+      "qid": "Q96578993",
+      "slug": "suzanne-lindon",
+      "name": "Suzanne Lindon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q116210232",
+      "slug": "abraham-wapler",
+      "name": "Abraham Wapler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3559719",
+      "slug": "vincent-macaigne",
+      "name": "Vincent Macaigne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3189060",
+      "slug": "julia-piaton",
+      "name": "Julia Piaton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q204394",
+      "slug": "zinedine-soualem",
+      "name": "Zinedine Soualem",
+      "role": "actor"
+    },
+    {
+      "qid": "Q115470400",
+      "slug": "paul-kircher",
+      "name": "Paul Kircher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q73615633",
+      "slug": "vassili-schneider",
+      "name": "Vassili Schneider",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3473265",
+      "slug": "sara-giraudeau",
+      "name": "Sara Giraudeau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236157",
+      "slug": "cecile-de-france",
+      "name": "Cécile de France",
+      "role": "actor"
+    },
+    {
+      "qid": "Q576085",
+      "slug": "francois-berleand",
+      "name": "François Berléand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1215287",
+      "slug": "philippine-leroy-beaulieu",
+      "name": "Philippine Leroy-Beaulieu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q112659694",
+      "slug": "raika-hazanavicius",
+      "name": "Raïka Hazanavicius",
+      "role": "actor"
+    },
+    {
+      "qid": "Q42397176",
+      "slug": "pomme",
+      "name": "Pomme",
+      "role": "actor"
+    },
+    {
+      "qid": "Q983020",
+      "slug": "olivier-gourmet",
+      "name": "Olivier Gourmet",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q513632",
+    "slug": "cedric-klapisch",
+    "name": "Cédric Klapisch",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 11:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "yujiro-ishihara",
+  "name": "Yūjirō Ishihara",
+  "worksCount": 1,
+  "description": "acteur et chanteur japonais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%B9%E3%81%8D%E8%BE%BC%E3%81%BF%E3%81%AE%E6%A7%98%E5%AD%90%EF%BC%881957%E5%B9%B4%EF%BC%89.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1934-12-28",
+  "nationality": "Japon",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1322220",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Y%C5%ABjir%C5%8D_Ishihara",
+    "imdb": "nm0410987",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "albator-84-l-atlantis-de-ma-jeunesse",
+      "title": "Albator 84 : L'Atlantis de ma jeunesse"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b12b8823-e503-4271-8a99-2caa64eaafbc",
+      "title": "Albator 84 : L'Atlantis de ma jeunesse",
+      "programSlug": "albator-84-l-atlantis-de-ma-jeunesse",
+      "programUrl": "/programme/mangas/albator-84-l-atlantis-de-ma-jeunesse",
+      "channelId": "mangas",
+      "channelName": "Mangas",
+      "channelSlug": "mangas",
+      "startTime": "2026-04-19 11:16:00+00",
+      "endTime": "2026-04-19 13:35:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 11:16:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

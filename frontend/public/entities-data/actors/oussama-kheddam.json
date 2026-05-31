@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "oussama-kheddam",
+  "name": "Oussama Kheddam",
+  "worksCount": 1,
+  "description": "acteur algérien",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": null,
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q109580429",
+    "wikipedia": null,
+    "imdb": "nm3447958",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "maison-de-retraite",
+      "title": "Maison de retraite"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

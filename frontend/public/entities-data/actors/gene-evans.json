@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "gene-evans",
+  "name": "Gene Evans",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gene%20Evans%20in%20Bonanza%20(The%20Fear%20Merchants).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1922-07-11",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q966420",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Gene_Evans",
+    "imdb": "nm0262775",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "armored-car-robbery",
+      "title": "Armored Car Robbery"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

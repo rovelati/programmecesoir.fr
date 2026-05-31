@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "burning-an-illusion",
+  "title": "Burning an Illusion",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Burning an Illusion"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Pat Williams est une employée de bureau d'une vingtaine d'années. Présentée d'abord comme une héroïne aux aspirations parfaitement conventionnelles, elle a son appart et rêve de se poser avec quelqu'un, Pat voit ses priorités brutalement bousculées et transformées par les événements.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1981,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q22006834",
+    "slug": "menelik-shabazz",
+    "name": "Menelik Shabazz",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

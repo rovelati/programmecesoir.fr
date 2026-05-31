@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "albert-finney",
+  "name": "Albert Finney",
+  "worksCount": 3,
+  "description": "acteur britannique",
+  "descriptionAi": "Albert Finney incarne le charisme brut et l'authenticité du cinéma britannique. Acteur de genre dramatique, il maîtrise aussi bien les rôles de personnages tourmentés que ceux d'hommes ordinaires au destin poignant. Son jeu, à la fois puissant et subtil, crée une ambiance souvent intense et profondément humaine. Ce qui le rend captivant, c'est sa capacité à disparaître dans ses personnages, des héros populaires aux anti-héros complexes, en transmettant une émotion brute et une vérité qui saisit le spectateur. Pour découvrir ou redécouvrir l'étendue de son talent, une sélection de ses films est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Finney%201966.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1936-05-09",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q219546",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Albert_Finney",
+    "imdb": "nm0001215",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-vengeance-dans-la-peau",
+      "title": "La vengeance dans la peau"
+    },
+    {
+      "type": "film",
+      "slug": "jason-bourne-l-heritage",
+      "title": "Jason Bourne : l'héritage"
+    },
+    {
+      "type": "film",
+      "slug": "erin-brockovich-seule-contre-tous",
+      "title": "Erin Brockovich, seule contre tous"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "926ff80c-13f7-4e5f-8f5b-fa5305d4e8e8",
+      "title": "Jason Bourne : L'héritage",
+      "programSlug": "jason-bourne-l-heritage",
+      "programUrl": "/programme/ab3/jason-bourne-l-heritage",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-22 19:55:00+00",
+      "endTime": "2026-04-22 22:00:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:35.483Z",
+  "nextAiringAt": "2026-04-22 19:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

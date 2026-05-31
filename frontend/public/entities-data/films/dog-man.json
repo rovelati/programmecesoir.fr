@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "dog-man",
+  "title": "Dog Man",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Dog Man"
+  ],
+  "genres": [
+    "film de super-héros",
+    "comédie"
+  ],
+  "description": "Lorsqu'un policier et son fidèle compagnon de la brigade canine sont tous deux blessés en service, une opération chirurgicale les lie à jamais et donne naissance à \"Dog Man\". Celui-ci s'avère aussi motivé à servir son pays qu'à rapporter ce qu'on lui lance, s'asseoir sagement ou se rouler par terre. Il est déterminé à faire ses preuves sous cette nouvelle identité en mettant fin aux exactions du tristement célèbre chat Monpetit. Jamais à court de mauvaises idées, le félin ne trouve alors rien de mieux à faire que de se cloner lui-même afin de doubler sa capacité à commettre des infractions...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 89,
+  "cast": [],
+  "director": {
+    "qid": "Q25352681",
+    "slug": "peter-hastings",
+    "name": "Peter Hastings",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

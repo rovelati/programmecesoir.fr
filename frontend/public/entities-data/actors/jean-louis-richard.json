@@ -1,0 +1,76 @@
+{
+  "type": "actor",
+  "slug": "jean-louis-richard",
+  "name": "Jean-Louis Richard",
+  "worksCount": 4,
+  "description": "acteur, réalisateur et scénariste français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1927-05-17",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2729701",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Louis_Richard",
+    "imdb": "nm0723827",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mata-hari-agent-h21",
+      "title": "Mata Hari, agent H21"
+    },
+    {
+      "type": "film",
+      "slug": "le-marginal",
+      "title": "Le marginal"
+    },
+    {
+      "type": "film",
+      "slug": "le-professionnel",
+      "title": "Le professionnel"
+    },
+    {
+      "type": "film",
+      "slug": "a-bout-de-souffle",
+      "title": "A bout de souffle"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b88a8cf2-b41a-4118-8c92-460d607bec41",
+      "title": "Le marginal",
+      "programSlug": "le-marginal",
+      "programUrl": "/programme/cine-classic/le-marginal",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 17:11:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "5b71eeea-aefe-4600-8afd-52e96c7bc3df",
+      "title": "A bout de souffle",
+      "programSlug": "a-bout-de-souffle",
+      "programUrl": "/programme/cine-classic/a-bout-de-souffle",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 22:28:00+00",
+      "endTime": "2026-04-23 23:56:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-23 17:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

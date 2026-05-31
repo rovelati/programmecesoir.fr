@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "tim-allen",
+  "name": "Tim Allen",
+  "worksCount": 1,
+  "description": "acteur, réalisateur, humoriste et pilote automobile américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Allen%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-06-13",
+  "nationality": "États-Unis",
+  "jobTitle": "humoriste",
+  "externalIds": {
+    "wikidata": "Q208408",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tim_Allen",
+    "imdb": "nm0000741",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "super-papa",
+      "title": "Super Papa"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

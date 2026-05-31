@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "slug": "trouver-l-amour",
+  "title": "Trouver l'amour",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Trouver l'amour - Saison 1"
+  ],
+  "genres": [
+    "Series"
+  ],
+  "description": "Anubha compatit à la douleur de Meet Hooda. Ram et Lakhan repèrent Kunal au marché. Meet Hooda le confronte. Amma se moque de Meet, et Anubha détourne la conversation. La montre de Meet Ahlawat se casse, ce qui inquiète Meet Hooda. Kunal informe des voyous que Meet Ahlawat est impliqué dans l'affaire de drogue. Ils attaquent Meet Ahlawat sur l'autoroute.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b47fab65-a6a7-4ec7-8a30-f2d9e51c4b4a",
+      "title": "Trouver l'amour - Saison 1",
+      "programSlug": "trouver-l-amour-saison-1",
+      "programUrl": "/programme/antenne-reunion/trouver-l-amour-saison-1",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 07:20:00+00",
+      "endTime": "2026-04-20 08:15:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q93488200",
+    "wikipedia": null,
+    "imdb": "tt4769430",
+    "tmdb": null
+  },
+  "matchConfidence": 0.85,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [
+    {
+      "qid": "Q153262",
+      "slug": "michaela-mcmanus",
+      "name": "Michaela McManus",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q18534063",
+    "slug": "terry-cunningham",
+    "name": "Terry Cunningham",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 07:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,157 @@
+{
+  "type": "actor",
+  "slug": "sandra-oh",
+  "name": "Sandra Oh",
+  "worksCount": 1,
+  "description": "actrice canadienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandra%20Oh%20Peabody%20Awards%2C%20June%202021.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-07-20",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q40337",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sandra_Oh",
+    "imdb": "nm0644897",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "grey-s-anatomy",
+      "title": "Grey's Anatomy"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dd97eb7b-19e3-4db8-b890-9028059d06c4",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/tf1/grey-s-anatomy-saison-22",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 19:10:00+00",
+      "endTime": "2026-04-22 20:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "0cb4d046-6e76-4b91-981d-71c3bc7510d8",
+      "title": "Grey's Anatomy",
+      "programSlug": "grey-s-anatomy",
+      "programUrl": "/programme/canal-series/grey-s-anatomy",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 19:10:00+00",
+      "endTime": "2026-04-22 20:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c62f3582-0707-4e92-8b91-da13e55ff745",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/tf1/grey-s-anatomy-saison-22",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 20:00:00+00",
+      "endTime": "2026-04-22 21:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "8903346b-34cb-449b-b33e-5763cacd4c0a",
+      "title": "Grey's Anatomy",
+      "programSlug": "grey-s-anatomy",
+      "programUrl": "/programme/canal-series/grey-s-anatomy",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 20:00:00+00",
+      "endTime": "2026-04-22 21:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "840f97ef-6f8e-48a5-b522-8b7acc74ab56",
+      "title": "Grey's Anatomy",
+      "programSlug": "grey-s-anatomy",
+      "programUrl": "/programme/tf1-1/grey-s-anatomy",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-22 20:10:00+00",
+      "endTime": "2026-04-22 21:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a0f9d2b2-4296-4a0a-8cc9-b774b41cc0cf",
+      "title": "Grey's Anatomy",
+      "programSlug": "grey-s-anatomy",
+      "programUrl": "/programme/tf1-1/grey-s-anatomy",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-22 21:00:00+00",
+      "endTime": "2026-04-22 22:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f637be0f-6358-480a-8af6-d62c701d4242",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/rts-un/grey-s-anatomy-saison-22",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 07:55:00+00",
+      "endTime": "2026-04-24 08:35:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "6bacf044-2338-41fc-9679-8e905718d18d",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/rts-un/grey-s-anatomy-saison-22",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 08:35:00+00",
+      "endTime": "2026-04-24 09:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "91b38071-00a5-4033-8f18-8e68ba662a87",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/rts-un/grey-s-anatomy-saison-22",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-25 15:10:00+00",
+      "endTime": "2026-04-25 15:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "25827992-8dc8-4399-b8ac-b54771beb54e",
+      "title": "Grey's Anatomy - Saison 22",
+      "programSlug": "grey-s-anatomy-saison-22",
+      "programUrl": "/programme/rts-un/grey-s-anatomy-saison-22",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-25 15:55:00+00",
+      "endTime": "2026-04-25 16:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 19:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

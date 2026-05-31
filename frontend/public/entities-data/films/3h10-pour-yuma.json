@@ -1,0 +1,121 @@
+{
+  "type": "film",
+  "slug": "3h10-pour-yuma",
+  "title": "3h10 pour Yuma",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "3h10 pour Yuma"
+  ],
+  "genres": [
+    "western",
+    "drame",
+    "film ou téléfilm criminel",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "Conduits par Ben Wade, des hors-la-loi attaquent une diligence. Le conducteur est tué. Le fermier Dan Evans et ses deux fils ont assisté à la scène. Wade se rend dans la ville voisine, accompagné de ses complices. Dan, qui s'y trouve également, le fait arrêter. Il accepte de le surveiller pour 200 dollars...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/310YumaWagonFilming.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2007,
+  "durationMinutes": 117,
+  "cast": [
+    {
+      "qid": "Q129817",
+      "slug": "russell-crowe",
+      "name": "Russell Crowe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q45772",
+      "slug": "christian-bale",
+      "name": "Christian Bale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q221068",
+      "slug": "logan-lerman",
+      "name": "Logan Lerman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24057",
+      "slug": "dallas-roberts",
+      "name": "Dallas Roberts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311804",
+      "slug": "ben-foster",
+      "name": "Ben Foster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349350",
+      "slug": "alan-tudyk",
+      "name": "Alan Tudyk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210148",
+      "slug": "peter-fonda",
+      "name": "Peter Fonda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q266888",
+      "slug": "vinessa-shaw",
+      "name": "Vinessa Shaw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q255268",
+      "slug": "gretchen-mol",
+      "name": "Gretchen Mol",
+      "role": "actor"
+    },
+    {
+      "qid": "Q320084",
+      "slug": "kevin-durand",
+      "name": "Kevin Durand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107769",
+      "slug": "luke-wilson",
+      "name": "Luke Wilson",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q433893",
+    "slug": "james-mangold",
+    "name": "James Mangold",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "kenny-baker",
+  "name": "Kenny Baker",
+  "worksCount": 1,
+  "description": "acteur britannique (1934–2016)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kenny%20Baker%20convention.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1934-08-24",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q454081",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kenny_Baker_(acteur)",
+    "imdb": "nm0048652",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-demoiselles-harvey",
+      "title": "Les demoiselles Harvey"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42470116-e985-4491-9932-ea53e3ff43f4",
+      "title": "Les demoiselles Harvey",
+      "programSlug": "les-demoiselles-harvey",
+      "programUrl": "/programme/cine-classic/les-demoiselles-harvey",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-19 12:10:00+00",
+      "endTime": "2026-04-19 13:48:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 12:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

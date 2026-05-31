@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "mark-malone",
+  "name": "Mark Malone",
+  "worksCount": 1,
+  "description": null,
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": null,
+  "jobTitle": "réalisateur ou réalisatrice",
+  "externalIds": {
+    "wikidata": "Q113547623",
+    "wikipedia": null,
+    "imdb": "nm0540468",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dead-of-winter",
+      "title": "Dead of Winter"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "438f7a9a-bed1-48c7-b9d0-0f7cd164fc77",
+      "title": "Dead of Winter",
+      "programSlug": "dead-of-winter",
+      "programUrl": "/programme/canal-box-office/dead-of-winter",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 07:35:00+00",
+      "endTime": "2026-04-19 09:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "473852d1-30a6-4f0b-8bbb-437a76e98837",
+      "title": "Dead of Winter",
+      "programSlug": "dead-of-winter",
+      "programUrl": "/programme/canal-box-office/dead-of-winter",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 11:39:00+00",
+      "endTime": "2026-04-21 13:14:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 07:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

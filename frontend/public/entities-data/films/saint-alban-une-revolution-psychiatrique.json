@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "saint-alban-une-revolution-psychiatrique",
+  "title": "Saint Alban, une révolution psychiatrique",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Saint Alban, une révolution psychiatrique"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Tout part de la rencontre de quatre psychiatres : Balvet, Tosquelles, Bonnafé et Chaurand qui ont combattu le régime de Vichy, le nazisme et la surmortalité des malades mentaux dans les asiles français.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "top-sante-tv",
+      "channelName": "Top Santé TV",
+      "channelSlug": "top-sante-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/top-sante-tv.jpg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7feb9bf5-67d4-4d8b-9623-1b17c51394b2",
+      "title": "Saint Alban, une révolution psychiatrique",
+      "programSlug": "saint-alban-une-revolution-psychiatrique",
+      "programUrl": "/programme/top-sante-tv/saint-alban-une-revolution-psychiatrique",
+      "channelId": "top-sante-tv",
+      "channelName": "Top Santé TV",
+      "channelSlug": "top-sante-tv",
+      "startTime": "2026-04-21 20:44:00+00",
+      "endTime": "2026-04-21 21:44:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 20:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

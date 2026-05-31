@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "nina-foch",
+  "name": "Nina Foch",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nina%20Foch%20Escape%20in%20the%20Fog.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1924-04-20",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q235632",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Nina_Foch",
+    "imdb": "nm0001225",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-americain-a-paris",
+      "title": "Un Américain à Paris"
+    },
+    {
+      "type": "film",
+      "slug": "un-pitre-au-pensionnat",
+      "title": "Un pitre au pensionnat"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0afcc99a-5a64-49cd-9907-094e01097ba3",
+      "title": "Un Américain à Paris",
+      "programSlug": "un-americain-a-paris",
+      "programUrl": "/programme/cine-classic/un-americain-a-paris",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-19 13:48:00+00",
+      "endTime": "2026-04-19 15:38:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 13:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

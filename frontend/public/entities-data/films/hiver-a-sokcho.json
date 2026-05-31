@@ -1,0 +1,69 @@
+{
+  "type": "film",
+  "slug": "hiver-a-sokcho",
+  "title": "Hiver à Sokcho",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Hiver à Sokcho"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "A Sokcho, une petite ville balnéaire de Corée du Sud, Soo-ha, une jeune femme de 23 ans, mène une vie routinière, entre ses visites à sa mère, vendeuse de poissons sur le marché, et sa relation avec son petit-ami, Jun-oh. L'arrivée de Yan Kerrand, un célèbre dessinateur venu de Normandie, dans la maison d'hôtes dans laquelle Soo-ha travaille, réveille soudain en elle des questions sur son identité, notamment sur son père français dont elle ne sait presque rien. Tandis que l'hiver engourdit la ville, Soo-ha et Yan vont s'observer, se jauger, tenter de communiquer et finir par tisser un lien fragile...",
+  "descriptionAi": "Drame intimiste se déroulant dans la brume hivernale de Sokcho, ce film de 2024 capte l’atmosphère engourdie d’une station balnéaire coréenne hors saison. Il explore avec une sensibilité remarquable la rencontre silencieuse entre une jeune femme en quête d’identité et un artiste français en manque d’inspiration. Leur relation délicate, tissée de non-dits et d’observations croisées, offre une plongée contemplative et émouvante dans les thèmes de l’origine et du désir. La photographie glacée et le rythme apaisant en font une expérience cinématographique profondément évocatrice. Une belle découverte à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q130421171",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Hiver_%C3%A0_Sokcho",
+    "imdb": "tt30519830",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:27:13.825Z",
+  "year": 2024,
+  "durationMinutes": 104,
+  "cast": [
+    {
+      "qid": "Q391974",
+      "slug": "roschdy-zem",
+      "name": "Roschdy Zem",
+      "role": "actor"
+    }
+  ],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

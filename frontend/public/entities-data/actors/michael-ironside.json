@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "michael-ironside",
+  "name": "Michael Ironside",
+  "worksCount": 2,
+  "description": "acteur, producteur, réalisateur et scénariste canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Ironside%20WOH-06%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1950-02-12",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q344973",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michael_Ironside",
+    "imdb": "nm0000461",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "deepwater",
+      "title": "Deepwater"
+    },
+    {
+      "type": "film",
+      "slug": "terminator-renaissance",
+      "title": "Terminator Renaissance"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

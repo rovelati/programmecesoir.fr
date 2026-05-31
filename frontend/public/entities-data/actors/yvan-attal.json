@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "yvan-attal",
+  "name": "Yvan Attal",
+  "worksCount": 3,
+  "description": "acteur, réalisateur et scénariste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yvan%20Attal%202009.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-01-04",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q724208",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Yvan_Attal",
+    "imdb": "nm0040939",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "38-temoins",
+      "title": "38 témoins"
+    },
+    {
+      "type": "film",
+      "slug": "raid-dingue",
+      "title": "Raid dingue"
+    },
+    {
+      "type": "film",
+      "slug": "bon-voyage",
+      "title": "Bon voyage"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3e3fc914-b24c-448e-b448-5eb0fec8a2cd",
+      "title": "Bon voyage",
+      "programSlug": "bon-voyage",
+      "programUrl": "/programme/eurochannel/bon-voyage",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 00:00:00+00",
+      "endTime": "2026-04-21 02:15:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 00:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

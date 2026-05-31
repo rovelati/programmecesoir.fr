@@ -1,0 +1,122 @@
+{
+  "type": "film",
+  "slug": "war-dogs",
+  "title": "War Dogs",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "War Dogs"
+  ],
+  "genres": [
+    "film ou téléfilm biographique",
+    "film ou téléfilm criminel",
+    "drame",
+    "film et téléfilm de guerre",
+    "comédie"
+  ],
+  "description": "Pendant la guerre en Irak, deux amis découvrent un dispositif méconnu du gouvernement américain leur permettant de répondre à des appels d'offres de l'armée et de gagner beaucoup d'argent. Bientôt ils décrochent un contrat de 300 millions de dollars pour armer les soldats afghans...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/War%20Dogs.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 114,
+  "cast": [
+    {
+      "qid": "Q267330",
+      "slug": "miles-teller",
+      "name": "Miles Teller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313388",
+      "slug": "jonah-hill",
+      "name": "Jonah Hill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q698173",
+      "slug": "ana-de-armas",
+      "name": "Ana de Armas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q205707",
+      "slug": "bradley-cooper",
+      "name": "Bradley Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q351812",
+      "slug": "kevin-pollak",
+      "name": "Kevin Pollak",
+      "role": "actor"
+    },
+    {
+      "qid": "Q144643",
+      "slug": "shaun-toub",
+      "name": "Shaun Toub",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5578715",
+      "slug": "j-b-blanc",
+      "name": "J. B. Blanc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26202699",
+      "slug": "roman-mitichyan",
+      "name": "Roman Mitichyan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2885767",
+      "slug": "barry-livingston",
+      "name": "Barry Livingston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24699885",
+      "slug": "said-faraj",
+      "name": "Said Faraj",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16199296",
+      "slug": "dan-bilzerian",
+      "name": "Dan Bilzerian",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q362824",
+    "slug": "todd-phillips",
+    "name": "Todd Phillips",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

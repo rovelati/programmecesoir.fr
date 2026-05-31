@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "stefan-godin",
+  "name": "Stéfan Godin",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-12-29",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3501471",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Stefan_Godin",
+    "imdb": "nm1138998",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-ordre-et-la-morale",
+      "title": "L'ordre et la morale"
+    },
+    {
+      "type": "series",
+      "slug": "cherif",
+      "title": "Cherif"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "slug": "blaze-et-les-monster-machines",
+  "title": "Blaze et les Monster Machines",
+  "airingsCount": 23,
+  "sourceTitles": [
+    "Blaze et les Monster Machines"
+  ],
+  "genres": [
+    "série télévisée comique"
+  ],
+  "description": "Blaze et Pickle font équipe pour une course. Crusher a refusé de faire équipe avec Pickle et s'est allié avec Rudy pour être sûr de gagner. Pour déjouer les pièges de Crusher, un éboulement, des camions hostiles, Blaze nous explique l'importance du poids et de la masse. En se servant de celle-ci, et avec une équipe qui s'entraide, Blaze emmènera AJ et Pickle à la victoire...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon-junior.png",
+      "airingsCount": 23
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "101264ab-d3dc-4797-9ab5-954d827035d7",
+      "title": "Blaze et les Monster Machines",
+      "programSlug": "blaze-et-les-monster-machines",
+      "programUrl": "/programme/nickelodeon-junior/blaze-et-les-monster-machines",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 08:19:00+00",
+      "endTime": "2026-04-19 08:42:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "31cd5178-c9e6-403a-85af-b375f4b7964f",
+      "title": "Blaze et les Monster Machines",
+      "programSlug": "blaze-et-les-monster-machines",
+      "programUrl": "/programme/nickelodeon-junior/blaze-et-les-monster-machines",
+      "channelId": "nickelodeon-junior",
+      "channelName": "Nickelodeon Junior",
+      "channelSlug": "nickelodeon-junior",
+      "startTime": "2026-04-19 14:07:00+00",
+      "endTime": "2026-04-19 14:28:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2014,
+  "numberOfSeasons": 8,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 08:19:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

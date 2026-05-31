@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "gaston-modot",
+  "name": "Gaston Modot",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GastonModot-1923.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1887-12-31",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q323377",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Gaston_Modot",
+    "imdb": "nm0595321",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dernier-atout",
+      "title": "Dernier atout"
+    },
+    {
+      "type": "film",
+      "slug": "la-mome-vert-de-gris",
+      "title": "La Môme vert-de-gris"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

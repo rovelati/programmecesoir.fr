@@ -1,0 +1,85 @@
+{
+  "type": "actor",
+  "slug": "q21995180",
+  "name": "Q21995180",
+  "worksCount": 1,
+  "description": "acteur franco-britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Finnegan%20Oldfield%20DN%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1991-01-10",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q21995180",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Finnegan_Oldfield",
+    "imdb": "nm2028613",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "brule-le-sang",
+      "title": "Brûle le sang"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c93b83dc-ad41-4cf5-8eee-02f1b13cf7c1",
+      "title": "Brûle le sang",
+      "programSlug": "brule-le-sang",
+      "programUrl": "/programme/canal/brule-le-sang",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-20 01:54:00+00",
+      "endTime": "2026-04-20 03:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d2cf4f72-6312-4dc8-aa06-8c64e197e332",
+      "title": "Brûle le sang",
+      "programSlug": "brule-le-sang",
+      "programUrl": "/programme/canal-cinema/brule-le-sang",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 11:34:00+00",
+      "endTime": "2026-04-20 13:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "1378ecde-6307-4a21-bbdd-8489337864fe",
+      "title": "Brûle le sang",
+      "programSlug": "brule-le-sang",
+      "programUrl": "/programme/paramount-channel/brule-le-sang",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-20 11:35:00+00",
+      "endTime": "2026-04-20 13:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "74f55126-2275-405e-8620-2acfe69c7f08",
+      "title": "Brûle le sang",
+      "programSlug": "brule-le-sang",
+      "programUrl": "/programme/cine-frisson/brule-le-sang",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 17:02:00+00",
+      "endTime": "2026-04-23 18:50:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 01:54:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

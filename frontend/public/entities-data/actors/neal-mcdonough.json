@@ -1,0 +1,190 @@
+{
+  "type": "actor",
+  "slug": "neal-mcdonough",
+  "name": "Neal McDonough",
+  "worksCount": 3,
+  "description": "acteur et producteur de cinéma américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neal%20McDonough%20by%20Gage%20Skidmore.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-02-13",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q445125",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Neal_McDonough",
+    "imdb": "nm0568180",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "minority-report",
+      "title": "Minority Report"
+    },
+    {
+      "type": "film",
+      "slug": "prisonniers-du-temps",
+      "title": "Prisonniers du temps"
+    },
+    {
+      "type": "series",
+      "slug": "desperate-housewives",
+      "title": "Desperate Housewives"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "63034bd1-ace0-424b-b642-c24967b3cb4f",
+      "title": "Desperate Housewives",
+      "programSlug": "desperate-housewives",
+      "programUrl": "/programme/w9/desperate-housewives",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-19 10:50:00+00",
+      "endTime": "2026-04-19 11:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bd348639-0730-40d8-8e27-0865c169a07d",
+      "title": "Desperate Housewives",
+      "programSlug": "desperate-housewives",
+      "programUrl": "/programme/w9/desperate-housewives",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-19 11:50:00+00",
+      "endTime": "2026-04-19 12:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "caebb9f8-37ee-47c4-918a-2ddb328fec36",
+      "title": "Desperate Housewives",
+      "programSlug": "desperate-housewives",
+      "programUrl": "/programme/w9/desperate-housewives",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-19 12:40:00+00",
+      "endTime": "2026-04-19 13:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "048c232b-703d-47ba-9601-d587d412432f",
+      "title": "Desperate Housewives",
+      "programSlug": "desperate-housewives",
+      "programUrl": "/programme/w9/desperate-housewives",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-19 13:40:00+00",
+      "endTime": "2026-04-19 14:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "69b0c45e-9dfe-4a8e-bf54-be10ad4217b0",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-19 14:25:00+00",
+      "endTime": "2026-04-19 16:47:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d2b13d63-a3f4-4163-8399-42feaa813b90",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 09:06:00+00",
+      "endTime": "2026-04-21 11:28:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e9795fec-6cc4-4bd7-a44f-8b33a175bb7c",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 09:24:00+00",
+      "endTime": "2026-04-24 11:46:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "e007a450-457c-4570-86a3-db582444affa",
+      "title": "Desperate Housewives - Saison 6",
+      "programSlug": "desperate-housewives-saison-6",
+      "programUrl": "/programme/w9/desperate-housewives-saison-6",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 09:40:00+00",
+      "endTime": "2026-04-25 10:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "5fd1d64f-1268-4f05-bf56-29ed3c7cb2b3",
+      "title": "Desperate Housewives - Saison 6",
+      "programSlug": "desperate-housewives-saison-6",
+      "programUrl": "/programme/w9/desperate-housewives-saison-6",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 10:50:00+00",
+      "endTime": "2026-04-25 11:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "1bf9651c-9fc4-48e5-8225-337a75870b23",
+      "title": "Desperate Housewives - Saison 6",
+      "programSlug": "desperate-housewives-saison-6",
+      "programUrl": "/programme/w9/desperate-housewives-saison-6",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 11:40:00+00",
+      "endTime": "2026-04-25 12:30:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "28e0de53-65ae-4dc0-9c7a-dd9f3d63e2a4",
+      "title": "Desperate Housewives - Saison 6",
+      "programSlug": "desperate-housewives-saison-6",
+      "programUrl": "/programme/w9/desperate-housewives-saison-6",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 12:30:00+00",
+      "endTime": "2026-04-25 13:30:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c1c73b6a-2726-48d4-99c5-1943dd6c274f",
+      "title": "Desperate Housewives - Saison 6",
+      "programSlug": "desperate-housewives-saison-6",
+      "programUrl": "/programme/w9/desperate-housewives-saison-6",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-25 13:30:00+00",
+      "endTime": "2026-04-25 14:30:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 10:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

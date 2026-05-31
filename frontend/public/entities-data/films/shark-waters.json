@@ -1,0 +1,52 @@
+{
+  "type": "film",
+  "slug": "shark-waters",
+  "title": "Shark Waters",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Shark Waters"
+  ],
+  "genres": [
+    "Téléfilm",
+    "Telefilms"
+  ],
+  "description": "En Floride, le capitaine Banning accepte d'emmener Lucia, une vacancière, et son petit groupe d'amis faire un tour en mer sur son bateau de pêche. Alors qu'ils se sont éloignés des côtes, ils sont attaqués par un grand requin blanc. Le prédateur est rapidement rejoint par d'autres squales qui encerclent le bateau. Tandis que Banning tente de faire machine arrière, les requins frappent la coque jusqu'à la fracturer. A bord, c'est la panique. Le bateau prend l'eau et menace de couler alors qu'il est à plusieurs kilomètres du littoral...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mcm.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q109906621",
+    "slug": "jadon-cal",
+    "name": "Jadon Cal",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

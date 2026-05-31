@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jean-francois-martial",
+  "name": "Jean-François Martial",
+  "worksCount": 2,
+  "description": "acteur belge",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1891-09-12",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3165763",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Martial",
+    "imdb": "nm0551792",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "gueule-d-amour",
+      "title": "Gueule d'amour"
+    },
+    {
+      "type": "film",
+      "slug": "mon-oncle",
+      "title": "Mon oncle"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

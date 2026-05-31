@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "jesse-stone-innocences-perdues",
+  "title": "Jesse Stone : innocences perdues",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Jesse Stone : innocences perdues"
+  ],
+  "genres": [
+    "film ou téléfilm à énigme",
+    "drame"
+  ],
+  "description": "Lorsqu'un de ses amis est retrouvé mort, Jesse Stone décide de mener l'enquête, même s'il n'a plus la même latitude d'action que par le passé. Pendant ce temps, la police de Paradise accueille un nouveau chef. Mais l'homme, gendre d'un membre du cabinet du maire, se montre immédiatement hautain et arrogant...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "channelNumber": null,
+      "logoUrl": "/loghi/serie-club.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q213706",
+      "slug": "tom-selleck",
+      "name": "Tom Selleck",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1287882",
+    "slug": "robert-harmon",
+    "name": "Robert Harmon",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

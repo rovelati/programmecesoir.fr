@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "hellboy-ii-les-legions-d-or-maudites",
+  "title": "Hellboy II : les légions d'or maudites",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Hellboy II : les légions d'or maudites"
+  ],
+  "genres": [
+    "Cinéma",
+    "Film fantastique"
+  ],
+  "description": "Hellboy est une créature démoniaque... mais qui a décidé de faire le bien autour de lui ! Eduqué par le professeur Broom, Hellboy travaille au sein d'une section secrète du gouvernement américain, spécialisée dans le paranormal. Devenu ingérable depuis la mort de son père, il se voit affublé d'un chef, Krauss. L'équipe doit combattre les plans du prince Nuada. Maître d'une société de créatures magiques, ce dernier veut anéantir l'humanité. Pour cela, il est en quête des morceaux d'une couronne qui lui permettrait de prendre le contrôle d'une armée mythique et invincible.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f6f14f3d-b3ad-4010-a6b4-6f2c13205067",
+      "title": "Hellboy II : les légions d'or maudites",
+      "programSlug": "hellboy-ii-les-legions-d-or-maudites",
+      "programUrl": "/programme/syfy/hellboy-ii-les-legions-d-or-maudites",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-19 19:00:00+00",
+      "endTime": "2026-04-19 21:05:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 19:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

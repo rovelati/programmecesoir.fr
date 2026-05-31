@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "olivier-cabassut",
+  "name": "Olivier Cabassut",
+  "worksCount": 1,
+  "description": "Actor from France",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/FMA2964%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": null,
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q72106991",
+    "wikipedia": null,
+    "imdb": "nm0127536",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "crime-en-lozere",
+      "title": "Crime en Lozère"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6ade7e5f-7239-4ed7-8656-05761cd99f1e",
+      "title": "Crime en Lozère",
+      "programSlug": "crime-en-lozere",
+      "programUrl": "/programme/teva/crime-en-lozere",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-19 17:05:00+00",
+      "endTime": "2026-04-19 19:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 17:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

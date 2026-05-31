@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "vittorio-caprioli",
+  "name": "Vittorio Caprioli",
+  "worksCount": 3,
+  "description": "acteur italien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/VittorioCaprioli-1965-Rome.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1921-08-15",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q691515",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Vittorio_Caprioli",
+    "imdb": "nm0135671",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-magnifique",
+      "title": "Le magnifique"
+    },
+    {
+      "type": "film",
+      "slug": "le-coup-du-parapluie",
+      "title": "Le coup du parapluie"
+    },
+    {
+      "type": "film",
+      "slug": "zazie-dans-le-metro",
+      "title": "Zazie dans le métro"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "86b7d271-194c-4d7a-854b-9ed4945b3edd",
+      "title": "Zazie dans le métro",
+      "programSlug": "zazie-dans-le-metro",
+      "programUrl": "/programme/cine-classic/zazie-dans-le-metro",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-25 08:43:00+00",
+      "endTime": "2026-04-25 10:13:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-25 08:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "jupiter-le-destin-de-l-univers",
+  "title": "Jupiter : le destin de l'univers",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Jupiter : le destin de l'univers"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film ou téléfilm d'aventure",
+    "film et téléfilm d'action"
+  ],
+  "description": "Jupiter Jones est une jeune technicienne de surface. Mais lorsque Caine, un ancien guerrier interplanétaire conçu génétiquement, lui révèle qu'elle est l'héritière de la Terre jadis ensemencée par une famille royale extraterrestre, Jupiter va devoir se montrer à la hauteur de son empreinte génétique...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 127,
+  "cast": [
+    {
+      "qid": "Q37628",
+      "slug": "mila-kunis",
+      "name": "Mila Kunis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212064",
+      "slug": "channing-tatum",
+      "name": "Channing Tatum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q191104",
+      "slug": "sean-bean",
+      "name": "Sean Bean",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28288",
+      "slug": "eddie-redmayne",
+      "name": "Eddie Redmayne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q554412",
+      "slug": "douglas-booth",
+      "name": "Douglas Booth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2460289",
+      "slug": "tuppence-middleton",
+      "name": "Tuppence Middleton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q269742",
+      "slug": "bae-doona",
+      "name": "Bae Doona",
+      "role": "actor"
+    },
+    {
+      "qid": "Q717194",
+      "slug": "james-d-arcy",
+      "name": "James D'Arcy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1334710",
+      "slug": "tim-pigott-smith",
+      "name": "Tim Pigott-Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1752126",
+      "slug": "nikki-amuka-bird",
+      "name": "Nikki Amuka-Bird",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189407",
+      "slug": "christina-cole",
+      "name": "Christina Cole",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3929913",
+      "slug": "ramon-tikaram",
+      "name": "Ramon Tikaram",
+      "role": "actor"
+    },
+    {
+      "qid": "Q444616",
+      "slug": "maria-doyle-kennedy",
+      "name": "Maria Doyle Kennedy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3119298",
+      "slug": "gugu-mbatha-raw",
+      "name": "Gugu Mbatha-Raw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3048553",
+      "slug": "edward-hogg",
+      "name": "Edward Hogg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3807968",
+      "slug": "jeremy-swift",
+      "name": "Jeremy Swift",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q9545711",
+    "slug": "lana-wachowski",
+    "name": "Lana Wachowski",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

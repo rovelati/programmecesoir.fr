@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "audrey-dana",
+  "name": "Audrey Dana",
+  "worksCount": 1,
+  "description": "comédienne, scénariste et réalisatrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Audrey%20Dana%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-02-14",
+  "nationality": "France",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q177840",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Audrey_Dana",
+    "imdb": "nm0199047",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sous-les-jupes-des-filles",
+      "title": "Sous les jupes des filles"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

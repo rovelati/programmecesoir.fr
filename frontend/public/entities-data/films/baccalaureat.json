@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "baccalaureat",
+  "title": "Baccalauréat",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Baccalauréat"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Romeo, la cinquantaine, est médecin. Il a une jeune maîtresse, qu'il a opérée avant de la séduire et, qui ne s'intéresse qu'à son argent. Désormais, la seule obsession de Romeo est de sauver sa fille de la Roumanie. Si elle obtient une moyenne de 18 à son bac, elle pourra bénéficier d'une bourse qui lui permettra d'étudier en Angleterre. Mais, l'adolescente plutôt douée est agressée dans un chantier près de la fac et a depuis du mal à utiliser sa main droite. Toutefois, Romeo est prêt à tout. En échange d'un foie tout neuf, un homme influent lui promet d'intervenir auprès d'un cador peu recommandable qui pourra corrompre le correcteur des copies...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/2m-maroc.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a2d968f2-d846-40a9-86d8-8689c53010fb",
+      "title": "Baccalauréat",
+      "programSlug": "baccalaureat",
+      "programUrl": "/programme/2m-maroc/baccalaureat",
+      "channelId": "2m-maroc",
+      "channelName": "2M Maroc",
+      "channelSlug": "2m-maroc",
+      "startTime": "2026-04-22 20:45:00+00",
+      "endTime": "2026-04-22 22:25:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-22 20:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

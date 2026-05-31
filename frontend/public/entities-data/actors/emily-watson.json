@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "emily-watson",
+  "name": "Emily Watson",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emily%20Watson.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-01-14",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q229535",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Emily_Watson",
+    "imdb": "nm0001833",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "memoires-de-jeunesse",
+      "title": "Mémoires de jeunesse"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fdee0173-5282-453c-be35-6032c76f026c",
+      "title": "Mémoires de jeunesse",
+      "programSlug": "memoires-de-jeunesse",
+      "programUrl": "/programme/canal-grand-ecran/memoires-de-jeunesse",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 21:27:00+00",
+      "endTime": "2026-04-24 23:32:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 21:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

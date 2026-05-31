@@ -1,0 +1,281 @@
+{
+  "type": "series",
+  "slug": "iron-man-et-ses-amis-incroyables",
+  "title": "Iron Man et ses amis incroyables",
+  "airingsCount": 100,
+  "sourceTitles": [
+    "Iron Man et ses amis incroyables"
+  ],
+  "genres": [
+    "Série TV",
+    "Séries d'animation",
+    "Serie"
+  ],
+  "description": "Les (més)aventures des meilleurs amis et super héros, Tony Stark, Riri Williams et Amadeus Cho, alors qu'ils font équipe pour protéger leur ville. Pour les aider dans leurs missions, ils ont chacun leur propre Iron Suit qui leur permet de voler et les dote chacun d'une super force. Ils élaborent leurs plans à partir de leur QG piloté par le puissant androïde Vision, et accompagnés de leur chiot Gamma, qui a sa propre super-combinaison et accompagne les Iron Friends dans leurs aventures.",
+  "descriptionAi": "Cette série d'animation suit les (més)aventures de Tony Stark et de ses jeunes amis, Riri Williams et Amadeus Cho. Ensemble, ils forment une équipe de super-héros high-tech pour protéger leur ville. Chacun pilote une impressionnante combinaison Iron Suit, volant et combattant avec une super force. Le genre, mêlant action et comédie, offre une ambiance dynamique et résolument moderne. L'intérêt réside dans le mélange de technologies futuristes, de missions palpitantes et de l'alchimie entre les personnages, le tout orchestré depuis leur QG par Vision, avec l'aide inattendue de Gamma, un chiot en armure. Une aventure familiale et trépidante à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-channel.png",
+      "airingsCount": 31
+    },
+    {
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disneychannelplus1.png",
+      "airingsCount": 31
+    },
+    {
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-junior.png",
+      "airingsCount": 38
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1a2e7548-7f6e-4d4c-9cf3-b12983aa4b5c",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-channel/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 06:29:00+00",
+      "endTime": "2026-04-19 06:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d26cc1d0-7dc5-40be-8c00-f51cdefeb810",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-junior/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 06:29:00+00",
+      "endTime": "2026-04-19 06:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7a113539-34aa-44fa-8b65-4c1eee5279cc",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disneychannelplus1/iron-man-et-ses-amis-incroyables",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 07:30:00+00",
+      "endTime": "2026-04-19 07:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6f867de5-263a-4686-b230-efce2a414f3d",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-channel/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 15:12:00+00",
+      "endTime": "2026-04-19 15:38:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d1b0be78-ac76-4965-89e1-d7a33aff093b",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-junior/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 15:12:00+00",
+      "endTime": "2026-04-19 15:38:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "185a9043-f87d-4343-8d84-c2ba541ad9a7",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disneychannelplus1/iron-man-et-ses-amis-incroyables",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 16:15:00+00",
+      "endTime": "2026-04-19 16:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3809cd6b-8720-46f1-92f1-2902b30b4621",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-channel/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 06:30:00+00",
+      "endTime": "2026-04-20 06:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "26ae1ad3-a8a1-4c9d-8ec0-6fe05333fbab",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disneychannelplus1/iron-man-et-ses-amis-incroyables",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 07:30:00+00",
+      "endTime": "2026-04-20 07:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3622456e-cdaf-403b-b99d-4bc1844e73a8",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-junior/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-20 12:40:00+00",
+      "endTime": "2026-04-20 13:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5b61b326-2f9c-418a-bf98-aa3bd40ab11c",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-channel/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 15:15:00+00",
+      "endTime": "2026-04-20 15:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "190b859d-1f95-4b8d-a068-fc578327dbb3",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disneychannelplus1/iron-man-et-ses-amis-incroyables",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 16:15:00+00",
+      "endTime": "2026-04-20 16:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fec08870-2193-4583-be2c-bf0564dc3c93",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-junior/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-20 16:35:00+00",
+      "endTime": "2026-04-20 17:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "9786b43c-6c2c-44ac-a062-2b1806f85a2b",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-junior/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-20 18:50:00+00",
+      "endTime": "2026-04-20 19:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "71d1b02f-4a17-4da4-b996-b19d4c3b265d",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-channel/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-21 06:30:00+00",
+      "endTime": "2026-04-21 06:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "10e78181-d05b-4a21-9b6b-ed9046c31330",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disneychannelplus1/iron-man-et-ses-amis-incroyables",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-21 07:30:00+00",
+      "endTime": "2026-04-21 07:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "5cc1820a-4c6f-444b-8170-668fb0dc3d21",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-junior/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-21 12:40:00+00",
+      "endTime": "2026-04-21 13:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "343a5585-3338-4895-8909-bf38f3a9c3e4",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disney-channel/iron-man-et-ses-amis-incroyables",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-21 15:15:00+00",
+      "endTime": "2026-04-21 15:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ba2bf4a6-1339-43e0-a65a-9b5e904377f3",
+      "title": "Iron Man et ses amis incroyables",
+      "programSlug": "iron-man-et-ses-amis-incroyables",
+      "programUrl": "/programme/disneychannelplus1/iron-man-et-ses-amis-incroyables",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-21 16:15:00+00",
+      "endTime": "2026-04-21 16:40:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:07:25.389Z",
+  "startYear": 2025,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 06:29:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "christine-pascal",
+  "name": "Christine Pascal",
+  "worksCount": 3,
+  "description": "actrice, scénariste et réalisatrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-11-29",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q451637",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Christine_Pascal",
+    "imdb": "nm0664243",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-horloger-de-saint-paul",
+      "title": "L'horloger de Saint-Paul"
+    },
+    {
+      "type": "film",
+      "slug": "le-juge-et-l-assassin",
+      "title": "Le juge et l'assassin"
+    },
+    {
+      "type": "film",
+      "slug": "que-la-fete-commence",
+      "title": "Que la fête commence"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

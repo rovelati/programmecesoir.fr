@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "paul-emile-deiber",
+  "name": "Paul-Émile Deiber",
+  "worksCount": 1,
+  "description": "comédien français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1925-01-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3370389",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Paul-%C3%89mile_Deiber",
+    "imdb": "nm0215028",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-tour-prends-garde",
+      "title": "La Tour, prends garde !"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

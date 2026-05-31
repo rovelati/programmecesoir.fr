@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "l-arme-fatale-4",
+  "title": "L'arme fatale 4",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'arme fatale 4"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "buddy movie",
+    "film d'arts martiaux",
+    "film de copains policiers"
+  ],
+  "description": "Un peu vieillis mais toujours bon pied, bon oeil, Martin Riggs et Roger Murtaugh continuent de former le tandem le plus dynamique de la police américaine. Murtaugh a des soucis. Sa fille est enceinte mais l'identité du père reste un mystère. Riggs se tracasse lui aussi. Doit-il épouser Lorna, enceinte de lui ? Les deux hommes n'en poursuivent pas moins leur travail. Le hasard leur permet de mettre au jour une filière qui exploite des clandestins chinois. Murtaugh, qui se souvient que ses aïeux furent des esclaves, recueille chez lui une famille d'émigrants, précisément celle que le chef de la mafia chinoise veut absolument séquestrer...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/club-rtl.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1998,
+  "durationMinutes": 127,
+  "cast": [
+    {
+      "qid": "Q42229",
+      "slug": "mel-gibson",
+      "name": "Mel Gibson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192165",
+      "slug": "danny-glover",
+      "name": "Danny Glover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20178",
+      "slug": "joe-pesci",
+      "name": "Joe Pesci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229612",
+      "slug": "rene-russo",
+      "name": "Rene Russo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4109",
+      "slug": "chris-rock",
+      "name": "Chris Rock",
+      "role": "actor"
+    },
+    {
+      "qid": "Q159577",
+      "slug": "jet-li",
+      "name": "Jet Li",
+      "role": "actor"
+    },
+    {
+      "qid": "Q442310",
+      "slug": "mary-ellen-trainor",
+      "name": "Mary Ellen Trainor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q31317",
+      "slug": "shawn-michaels",
+      "name": "Shawn Michaels",
+      "role": "actor"
+    },
+    {
+      "qid": "Q270762",
+      "slug": "darlene-love",
+      "name": "Darlene Love",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3157229",
+      "slug": "jack-kehler",
+      "name": "Jack Kehler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q89536",
+      "slug": "roland-kickinger",
+      "name": "Roland Kickinger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1166925",
+      "slug": "steve-kahan",
+      "name": "Steve Kahan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1795874",
+      "slug": "traci-wolfe",
+      "name": "Traci Wolfe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q376736",
+      "slug": "kim-chan",
+      "name": "Kim Chan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1889124",
+      "slug": "richard-riehle",
+      "name": "Richard Riehle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1457631",
+      "slug": "simon-rhee",
+      "name": "Simon Rhee",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q262130",
+    "slug": "richard-donner",
+    "name": "Richard Donner",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

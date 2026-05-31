@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "jean-francois-adam",
+  "name": "Jean-François Adam",
+  "worksCount": 1,
+  "description": "cinéaste franças (1938-1980)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1938-02-14",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q3165423",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Adam",
+    "imdb": "nm0010544",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "passe-ton-bac-d-abord",
+      "title": "Passe ton bac d'abord"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "81de72af-0ee0-4730-9aff-48b3c79afa2f",
+      "title": "Passe ton bac d'abord",
+      "programSlug": "passe-ton-bac-d-abord",
+      "programUrl": "/programme/cine-festival/passe-ton-bac-d-abord",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-22 09:51:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 09:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

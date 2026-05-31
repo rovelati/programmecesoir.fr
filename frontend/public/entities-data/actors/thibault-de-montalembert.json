@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "thibault-de-montalembert",
+  "name": "Thibault de Montalembert",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thibault%20de%20Montalembert.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-02-10",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q3524049",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Thibault_de_Montalembert",
+    "imdb": "nm0598857",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "indochine",
+      "title": "Indochine"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c79031-b25c-49b8-8ad2-27e626a56e4d",
+      "title": "Indochine",
+      "programSlug": "indochine",
+      "programUrl": "/programme/cine-classic/indochine",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 18:50:00+00",
+      "endTime": "2026-04-24 21:22:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

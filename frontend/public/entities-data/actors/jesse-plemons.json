@@ -1,0 +1,94 @@
+{
+  "type": "actor",
+  "slug": "jesse-plemons",
+  "name": "Jesse Plemons",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jesse%20Plemons%20(20769593584).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1988-04-02",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1138674",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jesse_Plemons",
+    "imdb": "nm0687146",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "vice",
+      "title": "Vice"
+    },
+    {
+      "type": "film",
+      "slug": "hostiles",
+      "title": "Hostiles"
+    },
+    {
+      "type": "film",
+      "slug": "kinds-of-kindness",
+      "title": "Kinds of Kindness"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "03358bdc-b134-4494-ba73-ffa6bd2bf0f8",
+      "title": "Kinds of Kindness",
+      "programSlug": "kinds-of-kindness",
+      "programUrl": "/programme/ocs/kinds-of-kindness",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-19 22:52:00+00",
+      "endTime": "2026-04-20 01:31:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f16e334c-8387-422b-8b9f-2172bd621195",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/canal-grand-ecran/hostiles",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 09:30:00+00",
+      "endTime": "2026-04-20 11:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4dacd68f-e0db-4701-b856-27454c5900bc",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/cine-frisson/hostiles",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:39:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "8b5391ed-c5e8-4f74-9ed9-a807048b510b",
+      "title": "Kinds of Kindness",
+      "programSlug": "kinds-of-kindness",
+      "programUrl": "/programme/ocs/kinds-of-kindness",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 00:58:00+00",
+      "endTime": "2026-04-25 03:38:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 22:52:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

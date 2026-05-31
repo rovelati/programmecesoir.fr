@@ -1,0 +1,61 @@
+{
+  "type": "series",
+  "slug": "l-art-du-crime",
+  "title": "L'art du crime",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "L'art du crime",
+    "L'art du crime - Saison 7",
+    "L'art du crime - Saison 8"
+  ],
+  "genres": [
+    "série télévisée policière"
+  ],
+  "description": "Au petit matin, dans la forêt du château de Chantilly, un jeune homme est retrouvé assassiné dans une mise en scène macabre qui imite étrangement un tableau du grand peintre de la Renaissance Raphaël. La victime travaillait pour une célèbre autrice de best-sellers, Patricia Richter. Antoine et Florence ne tardent pas à découvrir que le meurtrier a en fait reproduit scrupuleusement une situation décrite dans le prochain roman de la romancière consacré justement au peintre italien. Quel est le lien entre le tueur et l'écrivaine ? S'agit-il de la même personne ou tente-t-on de lui faire endosser la responsabilité du crime ?...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "channelNumber": 2,
+      "logoUrl": "/loghi/france-2.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4ac1dfb2-05d3-4ef3-9801-03ce2251120b",
+      "title": "L'art du crime - Saison 6",
+      "programSlug": "l-art-du-crime-saison-6",
+      "programUrl": "/programme/tv5-monde/l-art-du-crime-saison-6",
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "startTime": "2026-04-23 12:05:00+00",
+      "endTime": "2026-04-23 13:44:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2017,
+  "numberOfSeasons": 4,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-23 12:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

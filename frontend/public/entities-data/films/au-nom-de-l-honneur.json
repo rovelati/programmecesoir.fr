@@ -1,0 +1,125 @@
+{
+  "type": "film",
+  "slug": "au-nom-de-l-honneur",
+  "title": "Au nom de l'honneur",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Au nom de l'honneur"
+  ],
+  "genres": [
+    "Film",
+    "Cinéma"
+  ],
+  "description": "De retour dans sa ville natale durant la Grande Guerre, un jeune artiste tombe amoureux. Il doit tout sacrifier pour protéger la femme qu'il aime d'un tyran.",
+  "descriptionAi": "Ce film dramatique historique plonge le spectateur dans l'atmosphère tendue et passionnée de la France en 1914. L'histoire, portée par un jeune artiste déchiré entre son amour naissant et un devoir implacable, explore avec force les thèmes du sacrifice et de l'honneur. L'intrigue captivante, où les sentiments personnels se heurtent à la brutalité de la guerre et à la tyrannie, offre un mélange poignant de romance et de tension morale. La reconstitution d'époque soignée et la profondeur des personnages rendent cette quête désespérée particulièrement immersive et touchante. Une fresque humaine intense sur les choix qui définissent une vie, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ad3e6657-c5d7-4200-9bfa-d48142f322cb",
+      "title": "Au nom de l'honneur",
+      "programSlug": "au-nom-de-l-honneur",
+      "programUrl": "/programme/eurochannel/au-nom-de-l-honneur",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 05:40:00+00",
+      "endTime": "2026-04-19 07:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c799de03-5ac3-4c55-9d3f-56fb636430e9",
+      "title": "Au nom de l'honneur",
+      "programSlug": "au-nom-de-l-honneur",
+      "programUrl": "/programme/eurochannel/au-nom-de-l-honneur",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 12:00:00+00",
+      "endTime": "2026-04-20 13:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "9e66be79-4007-4569-8d64-805f21286308",
+      "title": "Au nom de l'honneur",
+      "programSlug": "au-nom-de-l-honneur",
+      "programUrl": "/programme/eurochannel/au-nom-de-l-honneur",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-22 01:10:00+00",
+      "endTime": "2026-04-22 02:35:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "094cd5c4-08b3-451e-9c78-18806a705779",
+      "title": "Au nom de l'honneur",
+      "programSlug": "au-nom-de-l-honneur",
+      "programUrl": "/programme/eurochannel/au-nom-de-l-honneur",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-22 14:05:00+00",
+      "endTime": "2026-04-22 15:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "58054973-31a3-4c03-b2bd-748292906f2b",
+      "title": "Au nom de l'honneur",
+      "programSlug": "au-nom-de-l-honneur",
+      "programUrl": "/programme/eurochannel/au-nom-de-l-honneur",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-25 01:10:00+00",
+      "endTime": "2026-04-25 02:35:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "3e5975cc-756f-4b22-91d1-dd79e7030668",
+      "title": "Au nom de l'honneur",
+      "programSlug": "au-nom-de-l-honneur",
+      "programUrl": "/programme/eurochannel/au-nom-de-l-honneur",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-25 14:00:00+00",
+      "endTime": "2026-04-25 15:25:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q110293032",
+    "wikipedia": null,
+    "imdb": "tt13948762",
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:34:30.735Z",
+  "year": 2022,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q47284",
+    "slug": "robert-rodriguez",
+    "name": "Robert Rodriguez",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 05:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

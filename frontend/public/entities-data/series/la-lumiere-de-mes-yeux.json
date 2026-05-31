@@ -1,0 +1,303 @@
+{
+  "type": "series",
+  "slug": "la-lumiere-de-mes-yeux",
+  "title": "La lumière de mes yeux",
+  "airingsCount": 88,
+  "sourceTitles": [
+    "La lumière de mes yeux"
+  ],
+  "genres": [
+    "Série sentimentale"
+  ],
+  "description": "Soledad est aveugle et rêve de devenir une chanteuse célèbre. Elle tombe amoureuse de Vicente et, malgré les obstacles que le destin met sur leur chemin, ils se battent pour rester ensemble.\n\nRéalisateur(s) : Jorge Alí Triana\nActeurs : Tahimi Alvariño (Delfina Ricardo), Laura De León (Soledad Burgos), Gaby Garrido (Romina Rodriguez), Carina Haller (Honoratia), Juan Carlos Messier (Eduardo Bula), Miguel Ángel Romero y León (Juan Abel), Daniela Tapia (Amira Rebeca Bula), Katherine Vélez (Guillermina 'Mema' Chadid), Luisa Vides Galiano (Sandrita Daza), Edgar Vittorino (Vicente Bula Chadid)",
+  "descriptionAi": "Cette série sentimentale nous plonge dans l’histoire touchante de Soledad, une jeune femme aveugle nourrissant le rêve de devenir chanteuse. Entre douceur et drames, l’ambiance oscille entre romance et résilience, portée par des personnages profondément humains. L’intérêt réside dans ce parcours inspirant, où l’amour qu’elle partage avec Vicente est mis à l’épreuve par les obstacles du destin, illustrant une lutte poignante pour l’accomplissement et l’union. Une belle leçon d’espoir et de détermination, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguadeloupefr.svg",
+      "airingsCount": 18
+    },
+    {
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvmartiniquefr.svg",
+      "airingsCount": 18
+    },
+    {
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguyanefr.svg",
+      "airingsCount": 18
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 8
+    },
+    {
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv7-bordeaux.png",
+      "airingsCount": 8
+    },
+    {
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tvsudmarseillefr.svg",
+      "airingsCount": 18
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "16b0a494-9751-4f6c-bfc2-eeafb35cdab0",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/atvguadeloupefr/la-lumiere-de-mes-yeux",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 06:12:00+00",
+      "endTime": "2026-04-20 07:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0c1d11d1-8304-4765-b7c5-71abcc48149a",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/atvguyanefr/la-lumiere-de-mes-yeux",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 06:12:00+00",
+      "endTime": "2026-04-20 07:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c97b1ea1-f3fc-493d-9a03-a3119aa70e03",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/atvmartiniquefr/la-lumiere-de-mes-yeux",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 06:12:00+00",
+      "endTime": "2026-04-20 07:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "872e2efb-26f6-428b-a119-3515c10ad05a",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/tv7-bordeaux/la-lumiere-de-mes-yeux",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 06:12:00+00",
+      "endTime": "2026-04-20 07:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5d4da9c5-37d4-4be1-b9db-3092d248a0a0",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/tvsudmarseillefr/la-lumiere-de-mes-yeux",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 06:12:00+00",
+      "endTime": "2026-04-20 07:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "95d524e3-8e01-4a13-841c-50496555e057",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/atvguadeloupefr/la-lumiere-de-mes-yeux",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-20 14:24:00+00",
+      "endTime": "2026-04-20 15:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c32b24c1-d213-411a-bd2a-6dc24cec40cb",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/atvguyanefr/la-lumiere-de-mes-yeux",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-20 14:24:00+00",
+      "endTime": "2026-04-20 15:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "330edbd1-6c76-42a0-a0d6-48a2334a72a1",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/atvmartiniquefr/la-lumiere-de-mes-yeux",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-20 14:24:00+00",
+      "endTime": "2026-04-20 15:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "281aa748-01d4-45f4-8b12-dbfde4fc558a",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/tv7-bordeaux/la-lumiere-de-mes-yeux",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-20 14:24:00+00",
+      "endTime": "2026-04-20 15:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f6ee4914-80c5-4288-8560-a780b99618da",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/tvsudmarseillefr/la-lumiere-de-mes-yeux",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-20 14:24:00+00",
+      "endTime": "2026-04-20 15:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8a008a3b-0563-4a95-9dc1-3d88b81b0129",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/atvguadeloupefr/la-lumiere-de-mes-yeux",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-21 06:12:00+00",
+      "endTime": "2026-04-21 07:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "735a0c7a-980d-4b6d-b558-1b935cbfbca1",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/atvguyanefr/la-lumiere-de-mes-yeux",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-21 06:12:00+00",
+      "endTime": "2026-04-21 07:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9d8a2f52-69c5-4d1d-96d3-838c0e30649c",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/atvmartiniquefr/la-lumiere-de-mes-yeux",
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "startTime": "2026-04-21 06:12:00+00",
+      "endTime": "2026-04-21 07:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "314d98b2-96d9-4a2d-a64c-d8b8b06a0ce1",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/antenne-reunion/la-lumiere-de-mes-yeux",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-21 06:12:00+00",
+      "endTime": "2026-04-21 07:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ef9b2a0d-f349-44e4-8e85-f75e1ae0d47f",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/tv7-bordeaux/la-lumiere-de-mes-yeux",
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "startTime": "2026-04-21 06:12:00+00",
+      "endTime": "2026-04-21 07:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "43d04060-efa5-4b54-963b-a9705aebb2cf",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/tvsudmarseillefr/la-lumiere-de-mes-yeux",
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "startTime": "2026-04-21 06:12:00+00",
+      "endTime": "2026-04-21 07:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "9a4b5528-9496-4ac7-906e-61e862d343ba",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/atvguadeloupefr/la-lumiere-de-mes-yeux",
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "startTime": "2026-04-23 06:12:00+00",
+      "endTime": "2026-04-23 07:00:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "f17567a3-b2a9-4c34-a307-519736233df1",
+      "title": "La lumière de mes yeux",
+      "programSlug": "la-lumiere-de-mes-yeux",
+      "programUrl": "/programme/atvguyanefr/la-lumiere-de-mes-yeux",
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "startTime": "2026-04-23 06:12:00+00",
+      "endTime": "2026-04-23 07:00:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T22:07:50.274Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 06:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

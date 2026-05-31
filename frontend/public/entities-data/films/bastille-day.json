@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "bastille-day",
+  "title": "Bastille Day",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Bastille Day"
+  ],
+  "genres": [
+    "film et téléfilm d'action"
+  ],
+  "description": "A Paris, un 14 juillet, Michael, un jeune et talentueux pickpocket anglais dérobe un sac contenant un ours en peluche. Il se débarrasse du jouet sans savoir qu'il contient une bombe. Quand cette dernière explose, il est pris en chasse par la police. Sean, un agent de la CIA, enquête sur ce qui passe dans les médias pour un attentat. Arrêtant Michael, il comprend rapidement que ce dernier n'a rien d'un terroriste. Alors que tout semble les opposer, les deux hommes vont devoir collaborer pour comprendre le complot que cache l'explosion. Leur enquête les mène sur les traces d'un groupe d'employés corrompus du ministère de l'Intérieur français...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d3ee1234-47e0-481d-9ea9-77f44e0dbeb2",
+      "title": "Bastille Day",
+      "programSlug": "bastille-day",
+      "programUrl": "/programme/canal-grand-ecran/bastille-day",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 03:45:00+00",
+      "endTime": "2026-04-24 05:15:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "4fa7595c-a53d-4dcc-a515-8dbcd9a2a61f",
+      "title": "Bastille Day",
+      "programSlug": "bastille-day",
+      "programUrl": "/programme/cine-frisson/bastille-day",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 12:12:00+00",
+      "endTime": "2026-04-25 13:41:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q342604",
+      "slug": "idris-elba",
+      "name": "Idris Elba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q510848",
+      "slug": "richard-madden",
+      "name": "Richard Madden",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2960989",
+      "slug": "charlotte-le-bon",
+      "name": "Charlotte Le Bon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236167",
+      "slug": "kelly-reilly",
+      "name": "Kelly Reilly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q778451",
+      "slug": "jose-garcia",
+      "name": "José Garcia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3524285",
+      "slug": "thierry-godard",
+      "name": "Thierry Godard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4752066",
+      "slug": "anatol-yusef",
+      "name": "Anatol Yusef",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1340950",
+      "slug": "eriq-ebouaney",
+      "name": "Ériq Ebouaney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28497677",
+      "slug": "arieh-worthalter",
+      "name": "Arieh Worthalter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q37798753",
+      "slug": "stephane-caillard",
+      "name": "Stéphane Caillard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3118434",
+      "slug": "gregoire-bonnet",
+      "name": "Grégoire Bonnet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3360244",
+      "slug": "paco-boublard",
+      "name": "Paco Boublard",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2057920",
+    "slug": "james-watkins",
+    "name": "James Watkins",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 03:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

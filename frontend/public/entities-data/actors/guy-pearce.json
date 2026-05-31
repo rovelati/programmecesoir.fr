@@ -1,0 +1,55 @@
+{
+  "type": "actor",
+  "slug": "guy-pearce",
+  "name": "Guy Pearce",
+  "worksCount": 5,
+  "description": "acteur australien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crew%20members%20of%20the%20movie%20%22Genius%22%20at%20the%20Berlinale%20party%20(25036107966)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1967-10-05",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q223745",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Guy_Pearce",
+    "imdb": "nm0001602",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-a-confidential",
+      "title": "L.A. Confidential"
+    },
+    {
+      "type": "film",
+      "slug": "lock-out",
+      "title": "Lock Out"
+    },
+    {
+      "type": "film",
+      "slug": "demineurs",
+      "title": "Démineurs"
+    },
+    {
+      "type": "film",
+      "slug": "sans-aucun-remords",
+      "title": "Sans aucun remords"
+    },
+    {
+      "type": "film",
+      "slug": "l-enfer-du-devoir",
+      "title": "L'enfer du devoir"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

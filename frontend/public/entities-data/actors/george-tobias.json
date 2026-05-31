@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "george-tobias",
+  "name": "George Tobias",
+  "worksCount": 2,
+  "description": "acteur et compositeur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BiffNicholasStrawbBlonde1941Trailer.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1901-07-14",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q43883",
+    "wikipedia": "https://fr.wikipedia.org/wiki/George_Tobias",
+    "imdb": "nm0864869",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "nous-avons-gagne-ce-soir",
+      "title": "Nous avons gagné ce soir"
+    },
+    {
+      "type": "film",
+      "slug": "quasimodo",
+      "title": "Quasimodo"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f9155799-2432-4eb5-a1bb-225147cd5c02",
+      "title": "Nous avons gagné ce soir",
+      "programSlug": "nous-avons-gagne-ce-soir",
+      "programUrl": "/programme/tcm-cinema/nous-avons-gagne-ce-soir",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 02:55:00+00",
+      "endTime": "2026-04-23 04:05:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 02:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

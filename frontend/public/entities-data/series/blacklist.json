@@ -1,0 +1,121 @@
+{
+  "type": "series",
+  "slug": "blacklist",
+  "title": "Blacklist",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Blacklist"
+  ],
+  "genres": [
+    "série télévisée policière",
+    "thriller",
+    "série télévisée dramatique"
+  ],
+  "description": "Raymond \"Red\" Reddington est l'un des criminels les plus activement recherché par le FBI depuis de nombreuses années. Sa connaissance de l'univers du crime et des trafics en tout genre ainsi que sa capacité à échapper aux forces de l'ordre en ont fait une légende. Alors, quand il se rend au FBI, les policiers sont circonspects. Red accepte de collaborer et de livrer une liste des malfrats les plus dangereux de la planète, à une seule condition : travailler avec Elizabeth Keen, une jeune profileuse. \"Blacklist\" vaut surtout pour l'interprétation de James Spader et l'univers proche du \"Silence des Agneaux\".",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Blacklist%20Redemption%20logo.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/club-rtl.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "507f3ee3-8b87-438a-8e11-29fc7f98b316",
+      "title": "Blacklist",
+      "programSlug": "blacklist",
+      "programUrl": "/programme/club-rtl/blacklist",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-23 21:50:00+00",
+      "endTime": "2026-04-23 22:40:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2013,
+  "numberOfSeasons": 10,
+  "cast": [
+    {
+      "qid": "Q296928",
+      "slug": "james-spader",
+      "name": "James Spader",
+      "role": "actor"
+    },
+    {
+      "qid": "Q435647",
+      "slug": "megan-boone",
+      "name": "Megan Boone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q608709",
+      "slug": "harry-lennix",
+      "name": "Harry Lennix",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3027407",
+      "slug": "diego-klattenhoff",
+      "name": "Diego Klattenhoff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q514020",
+      "slug": "ryan-eggold",
+      "name": "Ryan Eggold",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236374",
+      "slug": "parminder-nagra",
+      "name": "Parminder Nagra",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16150323",
+      "slug": "amir-arison",
+      "name": "Amir Arison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q386514",
+      "slug": "mozhan-marno",
+      "name": "Mozhan Marnò",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19463744",
+      "slug": "hisham-tawfiq",
+      "name": "Hisham Tawfiq",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q15706430",
+    "slug": "jon-bokenkamp",
+    "name": "Jon Bokenkamp",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-23 21:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

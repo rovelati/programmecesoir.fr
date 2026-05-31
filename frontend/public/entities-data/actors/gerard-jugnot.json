@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "gerard-jugnot",
+  "name": "Gérard Jugnot",
+  "worksCount": 3,
+  "description": "acteur, réalisateur, scénariste et producteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9rard%20Jugnot%20-%20Avant%20premi%C3%A8re%20Rose%20et%20Noir%20-%20Montpellier.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1951-05-04",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q728158",
+    "wikipedia": "https://fr.wikipedia.org/wiki/G%C3%A9rard_Jugnot",
+    "imdb": "nm0432040",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-juge-et-l-assassin",
+      "title": "Le juge et l'assassin"
+    },
+    {
+      "type": "film",
+      "slug": "le-petit-nicolas",
+      "title": "Le petit Nicolas"
+    },
+    {
+      "type": "film",
+      "slug": "le-coup-du-parapluie",
+      "title": "Le coup du parapluie"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fe63be11-7825-458c-9bcb-73d22b6422fa",
+      "title": "Le petit Nicolas",
+      "programSlug": "le-petit-nicolas",
+      "programUrl": "/programme/canal-grand-ecran/le-petit-nicolas",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 17:35:00+00",
+      "endTime": "2026-04-20 19:04:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 17:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

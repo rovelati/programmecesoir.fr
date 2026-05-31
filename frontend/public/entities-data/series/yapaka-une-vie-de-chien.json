@@ -1,0 +1,92 @@
+{
+  "type": "series",
+  "slug": "yapaka-une-vie-de-chien",
+  "title": "Yapaka, une vie de chien",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Yapaka, une vie de chien"
+  ],
+  "genres": [
+    "Série TV",
+    "Séries jeunesse"
+  ],
+  "description": "La vie est tantôt gaie, tantôt triste. Parfois c'est le fou-rire, parfois les pleurs. Il y a des choses qu'un enfant aimerait dire, mais n'ose pas, des sujets pas faciles à aborder. On l'embête dans la rue. Il trouve qu'on ne l'écoute pas. Il voudrait avoir de meilleurs résultats à l'école, mais n'y arrive pas.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "20bb2dda-0d47-4406-871c-4902155b8c4c",
+      "title": "Yapaka, une vie de chien",
+      "programSlug": "yapaka-une-vie-de-chien",
+      "programUrl": "/programme/plug-rtl/yapaka-une-vie-de-chien",
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "startTime": "2026-04-24 20:00:00+00",
+      "endTime": "2026-04-24 20:05:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "4ea2671e-531c-4395-b720-3988ba75a619",
+      "title": "Yapaka, une vie de chien",
+      "programSlug": "yapaka-une-vie-de-chien",
+      "programUrl": "/programme/rtl-tvi/yapaka-une-vie-de-chien",
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "startTime": "2026-04-25 12:35:00+00",
+      "endTime": "2026-04-25 12:40:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "c548f365-caa3-4df9-aada-abf93c493f07",
+      "title": "Yapaka, une vie de chien",
+      "programSlug": "yapaka-une-vie-de-chien",
+      "programUrl": "/programme/rtl-tvi/yapaka-une-vie-de-chien",
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "startTime": "2026-04-25 14:20:00+00",
+      "endTime": "2026-04-25 14:25:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-24 20:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

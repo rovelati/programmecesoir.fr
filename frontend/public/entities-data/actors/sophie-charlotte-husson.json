@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "sophie-charlotte-husson",
+  "name": "Sophie-Charlotte Husson",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Charlotte%20Husson.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-08-05",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3490824",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sophie-Charlotte_Husson",
+    "imdb": "nm0404077",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "amour-turbulences",
+      "title": "Amour & Turbulences"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "77c52286-0702-4684-9920-123f5d7e7be8",
+      "title": "Amour & Turbulences",
+      "programSlug": "amour-turbulences",
+      "programUrl": "/programme/carac-1-hd/amour-turbulences",
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "startTime": "2026-04-20 21:15:00+00",
+      "endTime": "2026-04-20 22:55:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 21:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

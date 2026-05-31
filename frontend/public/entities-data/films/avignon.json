@@ -1,0 +1,100 @@
+{
+  "type": "film",
+  "slug": "avignon",
+  "title": "Avignon",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Avignon"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Acteur en perte de vitesse, Stéphane espère bien relancer sa carrière lorsqu'il débarque avec les membres de sa troupe au Festival d'Avignon pour jouer une pièce de boulevard. Il y recroise Fanny, une comédienne de renom rencontrée des années plus tôt, qui interprète un classique de Victor Hugo. Tombé sous le charme de la jeune femme, Stéphane profite d'un quiproquo pour se rapprocher d'elle. Pris dans un mensonge qu'il va devoir faire durer le temps du festival, il ignore qu'il vient de s'engager dans une situation qui va très vite le dépasser...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Avignon%2C%20Palais%20des%20Papes%20depuis%20Tour%20Philippe%20le%20Bel%20by%20JM%20Rosier.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4433ea08-2c08-475b-b073-bd9e032f81b9",
+      "title": "Avignon",
+      "programSlug": "avignon",
+      "programUrl": "/programme/canal/avignon",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-24 13:20:00+00",
+      "endTime": "2026-04-24 15:01:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "26accebb-b4ec-44f9-85e3-4e3d8efcf2d4",
+      "title": "Avignon",
+      "programSlug": "avignon",
+      "programUrl": "/programme/canal-cinema/avignon",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-25 08:12:00+00",
+      "endTime": "2026-04-25 09:54:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f01fe26b-44c2-45ee-81e3-43a7de6ebb48",
+      "title": "Avignon",
+      "programSlug": "avignon",
+      "programUrl": "/programme/paramount-channel/avignon",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-25 08:15:00+00",
+      "endTime": "2026-04-25 09:55:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-24 13:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "carlo-nell",
+  "name": "Carlo Nell",
+  "worksCount": 1,
+  "description": "chanteur, parolier, acteur de cinéma et de télévision",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1926-06-09",
+  "nationality": "France",
+  "jobTitle": "humoriste",
+  "externalIds": {
+    "wikidata": "Q2939224",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Carlo_Nell",
+    "imdb": "nm0625031",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "du-rififi-a-paname",
+      "title": "Du rififi à Paname"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

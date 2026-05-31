@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "crispin-glover",
+  "name": "Crispin Glover",
+  "worksCount": 2,
+  "description": "cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crispin%20Glover%202012%20Shankbone.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-04-20",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q310060",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Crispin_Glover",
+    "imdb": "nm0000417",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "charlie-s-angels",
+      "title": "Charlie's Angels"
+    },
+    {
+      "type": "film",
+      "slug": "sailor-et-lula",
+      "title": "Sailor et Lula"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

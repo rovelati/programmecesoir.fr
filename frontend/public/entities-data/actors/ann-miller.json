@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "ann-miller",
+  "name": "Ann Miller",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": "Ann Miller est une actrice et danseuse américaine, icône des comédies musicales hollywoodiennes des années 1940 et 1950. Le genre est principalement la comédie musicale, dans une ambiance festive, énergique et visuellement éblouissante. Ce qui la rend fascinante, c'est son charisme électrique, sa technique de claquets virtuose et sa présence à l'écran, à la fois pétillante et élégante. Elle incarne l'âge d'or de la MGM avec une joie contagieuse. Pour (re)découvrir ses performances étincelantes dans des films comme \"Chantons sous la pluie\", une sélection de ses œuvres est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Miller%201948.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1923-04-12",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q241701",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ann_Miller",
+    "imdb": "nm0587900",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-jour-a-new-york",
+      "title": "Un jour à New York"
+    },
+    {
+      "type": "film",
+      "slug": "mulholland-drive",
+      "title": "Mulholland Drive"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3087d344-6fd8-457d-aaf8-2f6a04783f6d",
+      "title": "Un jour à New York",
+      "programSlug": "un-jour-a-new-york",
+      "programUrl": "/programme/cine-classic/un-jour-a-new-york",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-21 08:17:00+00",
+      "endTime": "2026-04-21 09:58:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e421f727-4754-4c7a-9082-6249a3c5eb2a",
+      "title": "Mulholland Drive",
+      "programSlug": "mulholland-drive",
+      "programUrl": "/programme/ocs/mulholland-drive",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 11:29:00+00",
+      "endTime": "2026-04-21 13:51:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2d7f6144-2c14-4c91-b857-f0d9d5e42589",
+      "title": "Mulholland Drive",
+      "programSlug": "mulholland-drive",
+      "programUrl": "/programme/ocs/mulholland-drive",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 03:52:00+00",
+      "endTime": "2026-04-25 06:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:28.674Z",
+  "nextAiringAt": "2026-04-21 08:17:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

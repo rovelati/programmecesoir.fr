@@ -1,0 +1,126 @@
+{
+  "type": "series",
+  "slug": "belfort-lupin",
+  "title": "Belfort & Lupin",
+  "airingsCount": 26,
+  "sourceTitles": [
+    "Belfort & Lupin"
+  ],
+  "genres": [
+    "Série",
+    "Série d'animation",
+    "Série TV",
+    "Séries d'animation"
+  ],
+  "description": "Le château de Versailles, au XVIIe siècle. Dans les jardins de la résidence royale, Belfort et Lupin, le chien préféré de Louis XIV et le loup intrépide, forment un duo aussi improbable qu'inséparable. Ensemble, les deux amis sont toujours prêts à voler à la rescousse de leurs compagnons à poils et à plumes, qu'ils soient des résidents de la Ménagerie royale ou des animaux sauvages. De découverte en sauvetage, Belfort et Lupin vivent des aventures palpitantes et riches en émotions.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 22
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9ce2611f-271b-4d9d-9c13-6748174bc54d",
+      "title": "Belfort & Lupin",
+      "programSlug": "belfort-lupin",
+      "programUrl": "/programme/france-4/belfort-lupin",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-19 10:45:00+00",
+      "endTime": "2026-04-19 11:07:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fa44b175-26fb-404d-a0c5-59fdccc6c730",
+      "title": "Belfort & Lupin",
+      "programSlug": "belfort-lupin",
+      "programUrl": "/programme/france-4/belfort-lupin",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-19 11:07:00+00",
+      "endTime": "2026-04-19 11:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "edd1325a-fd24-4ceb-a4a5-0908de53c628",
+      "title": "Belfort & Lupin",
+      "programSlug": "belfort-lupin",
+      "programUrl": "/programme/france-4/belfort-lupin",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 10:43:00+00",
+      "endTime": "2026-04-24 11:05:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f25411aa-f543-4b8d-8b4e-ac97e1a93ab8",
+      "title": "Belfort & Lupin",
+      "programSlug": "belfort-lupin",
+      "programUrl": "/programme/france-4/belfort-lupin",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 11:05:00+00",
+      "endTime": "2026-04-24 11:25:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "5b2b16e0-6ca6-47f3-b913-b15630351107",
+      "title": "Belfort & Lupin",
+      "programSlug": "belfort-lupin",
+      "programUrl": "/programme/la-trois/belfort-lupin",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-25 11:32:00+00",
+      "endTime": "2026-04-25 11:54:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 10:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

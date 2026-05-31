@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "barbara",
+  "title": "Barbara",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Barbara"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Au début des années 1980, en Allemagne de l'Est. Barbara, une chirurgienne pédiatrique soupçonnée de vouloir passer à l'Ouest, est mutée dans une clinique d'une petite ville de province où elle reste soumise à la surveillance humiliante et permanente des agents de la Stasi. Pendant ce temps, Jörg, son amant qui vit à l'Ouest, prépare activement son évasion et lui fait remettre de l'argent, que Barbara cache en pleine nature. Barbara fait la connaissance d'André, le médecin-chef de l'hôpital, qui est le seul à se montrer amical à son égard et, très vite, semble s'intéresser à elle. Ses attentions sont-elles sincères ou est-il chargé de la surveiller ?...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

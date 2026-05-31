@@ -1,0 +1,145 @@
+{
+  "type": "film",
+  "slug": "angles-d-attaque",
+  "title": "Angles d'attaque",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Angles d'attaque"
+  ],
+  "genres": [
+    "thriller",
+    "film ou téléfilm criminel",
+    "film et téléfilm d'action",
+    "political thriller film"
+  ],
+  "description": "L'agent Thomas Barnes assure la sécurité du président des Etats-Unis lors d'un sommet mondial pour la paix dans le Sud de l'Espagne. Alors que le chef d'Etat américain s'apprête à prendre la parole, un tueur embusqué fait feu, puis deux bombes explosent. Barnes tente de stopper l'auteur de cet attentat...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q200768",
+      "slug": "dennis-quaid",
+      "name": "Dennis Quaid",
+      "role": "actor"
+    },
+    {
+      "qid": "Q185554",
+      "slug": "matthew-fox",
+      "name": "Matthew Fox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q182763",
+      "slug": "forest-whitaker",
+      "name": "Forest Whitaker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105825",
+      "slug": "william-hurt",
+      "name": "William Hurt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273788",
+      "slug": "edgar-ramirez",
+      "name": "Édgar Ramírez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q363703",
+      "slug": "eduardo-noriega",
+      "name": "Eduardo Noriega",
+      "role": "actor"
+    },
+    {
+      "qid": "Q102124",
+      "slug": "sigourney-weaver",
+      "name": "Sigourney Weaver",
+      "role": "actor"
+    },
+    {
+      "qid": "Q373034",
+      "slug": "said-taghmaoui",
+      "name": "Saïd Taghmaoui",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275967",
+      "slug": "ayelet-zurer",
+      "name": "Ayelet Zurer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447960",
+      "slug": "bruce-mcgill",
+      "name": "Bruce McGill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q190162",
+      "slug": "zoe-saldana",
+      "name": "Zoë Saldaña",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1368141",
+      "slug": "holt-mccallany",
+      "name": "Holt McCallany",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1334830",
+      "slug": "james-legros",
+      "name": "James LeGros",
+      "role": "actor"
+    },
+    {
+      "qid": "Q374181",
+      "slug": "richard-t-jones",
+      "name": "Richard T. Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6526047",
+      "slug": "leonardo-nam",
+      "name": "Leonardo Nam",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1527684",
+    "slug": "pete-travis",
+    "name": "Pete Travis",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

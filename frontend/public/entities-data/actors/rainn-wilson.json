@@ -1,0 +1,94 @@
+{
+  "type": "actor",
+  "slug": "rainn-wilson",
+  "name": "Rainn Wilson",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rainn%20Wilson%202011%20Shankbone%202.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-01-20",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q349548",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rainn_Wilson",
+    "imdb": "nm0933988",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "en-eaux-trouble",
+      "title": "En eaux trouble"
+    },
+    {
+      "type": "film",
+      "slug": "en-eaux-troubles",
+      "title": "En eaux troubles"
+    },
+    {
+      "type": "series",
+      "slug": "the-office-us",
+      "title": "The Office US"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ca65a651-bbc9-4ef9-b975-83a14ed106c7",
+      "title": "The Office US",
+      "programSlug": "the-office-us",
+      "programUrl": "/programme/canvas/the-office-us",
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "startTime": "2026-04-20 14:55:00+00",
+      "endTime": "2026-04-20 15:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5e73e892-ff5a-4c7a-bd4e-dfd013963d30",
+      "title": "The Office US",
+      "programSlug": "the-office-us",
+      "programUrl": "/programme/canvas/the-office-us",
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "startTime": "2026-04-20 15:15:00+00",
+      "endTime": "2026-04-20 15:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c5d62f9b-a6ac-43ed-871b-221d712c2a72",
+      "title": "The Office US",
+      "programSlug": "the-office-us",
+      "programUrl": "/programme/canvas/the-office-us",
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "startTime": "2026-04-24 15:34:00+00",
+      "endTime": "2026-04-24 15:54:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "576670ba-a144-4762-95bb-5c1c0d9e2a51",
+      "title": "The Office US",
+      "programSlug": "the-office-us",
+      "programUrl": "/programme/canvas/the-office-us",
+      "channelId": "canvas",
+      "channelName": "Canvas",
+      "channelSlug": "canvas",
+      "startTime": "2026-04-24 15:54:00+00",
+      "endTime": "2026-04-24 16:20:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 14:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

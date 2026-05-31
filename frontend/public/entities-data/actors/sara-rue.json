@@ -1,0 +1,190 @@
+{
+  "type": "actor",
+  "slug": "sara-rue",
+  "name": "Sara Rue",
+  "worksCount": 3,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sara%20Rue.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-01-26",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q240199",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sara_Rue",
+    "imdb": "nm0749081",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-cercle",
+      "title": "Le cercle"
+    },
+    {
+      "type": "series",
+      "slug": "mom",
+      "title": "Mom"
+    },
+    {
+      "type": "series",
+      "slug": "the-rookie-le-flic-de-los-angeles",
+      "title": "The Rookie : Le flic de Los Angeles"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "89520c53-4d38-44a9-94e5-4dfb642f0546",
+      "title": "The Rookie : Le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/club-rtl/the-rookie-le-flic-de-los-angeles",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 12:30:00+00",
+      "endTime": "2026-04-19 13:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "49ee3404-36ea-4749-8e61-d4b087ceaa3e",
+      "title": "The Rookie : Le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/club-rtl/the-rookie-le-flic-de-los-angeles",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 13:20:00+00",
+      "endTime": "2026-04-19 14:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fbbc8251-fef3-4b19-a43e-9629129e5faa",
+      "title": "The Rookie : Le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/club-rtl/the-rookie-le-flic-de-los-angeles",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 14:10:00+00",
+      "endTime": "2026-04-19 15:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a3d4f606-236b-4ca7-8da1-840178e78bac",
+      "title": "The Rookie : Le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/club-rtl/the-rookie-le-flic-de-los-angeles",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 15:00:00+00",
+      "endTime": "2026-04-19 15:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dfe3d97d-b7ff-4750-8c12-58b2d65f355c",
+      "title": "The Rookie : Le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/club-rtl/the-rookie-le-flic-de-los-angeles",
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "startTime": "2026-04-19 15:50:00+00",
+      "endTime": "2026-04-19 16:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "58cd57cf-b5d7-4620-9f1c-c0e781971a6d",
+      "title": "The Rookie : le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 20:25:00+00",
+      "endTime": "2026-04-19 21:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "98d455c9-9df0-4669-b64a-e5d377087e84",
+      "title": "The Rookie : le flic de Los Angeles",
+      "programSlug": "the-rookie-le-flic-de-los-angeles",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 21:10:00+00",
+      "endTime": "2026-04-19 22:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0adf8e65-68d2-4162-a1c3-e51672e8bdcd",
+      "title": "The Rookie : le flic de Los Angeles - Saison 5",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-5",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-5",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 22:05:00+00",
+      "endTime": "2026-04-19 22:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a98fbe41-9c94-452e-8d00-9335484dff21",
+      "title": "The Rookie : le flic de Los Angeles - Saison 5",
+      "programSlug": "the-rookie-le-flic-de-los-angeles-saison-5",
+      "programUrl": "/programme/serie-club/the-rookie-le-flic-de-los-angeles-saison-5",
+      "channelId": "serie-club",
+      "channelName": "SERIE CLUB",
+      "channelSlug": "serie-club",
+      "startTime": "2026-04-19 22:55:00+00",
+      "endTime": "2026-04-19 23:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bf4af60c-b14e-4447-8829-9c56dfa0a8ad",
+      "title": "Mom - Saison 3",
+      "programSlug": "mom-saison-3",
+      "programUrl": "/programme/warnertv/mom-saison-3",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-20 12:25:00+00",
+      "endTime": "2026-04-20 12:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c7b72d80-7d2a-4c9c-bb58-117148ead3bc",
+      "title": "Mom - Saison 3",
+      "programSlug": "mom-saison-3",
+      "programUrl": "/programme/warnertv/mom-saison-3",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-20 12:50:00+00",
+      "endTime": "2026-04-20 13:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "6a3d1b1a-e1d4-4331-9b58-5bbc569eaa72",
+      "title": "Mom - Saison 3",
+      "programSlug": "mom-saison-3",
+      "programUrl": "/programme/warnertv/mom-saison-3",
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "startTime": "2026-04-20 13:15:00+00",
+      "endTime": "2026-04-20 13:40:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 12:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

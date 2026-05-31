@@ -1,0 +1,76 @@
+{
+  "type": "film",
+  "slug": "rue-du-conservatoire",
+  "title": "Rue du conservatoire",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Rue du conservatoire"
+  ],
+  "genres": [
+    "film documentaire"
+  ],
+  "description": "En 2023, Valérie Donzelli est invitée à donner une master class sur le jeu d'acteur au cinéma au Conservatoire national supérieur d'art dramatique de Paris. Cet exercice la replonge dans une période de sa vie, au milieu des années 1990, lorsqu'elle avait échoué au concours d'entrée de l'école. A son arrivée, elle découvre une jeunesse vivante, aussi joyeuse que passionnée. Quelques mois plus tard, Clémence, une des élèves de dernière année, lui demande de filmer les répétitions de \"Hamlet\", la pièce qu'elle met en scène. Parallèlement, Valérie Donzelli se filme dans l'intimité alors qu'elle est en train de vivre une séparation...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "17b3a342-e132-4943-a39c-0c7110600335",
+      "title": "Rue du conservatoire",
+      "programSlug": "rue-du-conservatoire",
+      "programUrl": "/programme/cine-festival/rue-du-conservatoire",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-24 05:07:00+00",
+      "endTime": "2026-04-24 06:30:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "19305aba-8bc9-4045-b100-f445f956e06d",
+      "title": "Rue du conservatoire",
+      "programSlug": "rue-du-conservatoire",
+      "programUrl": "/programme/cine-festival/rue-du-conservatoire",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-26 00:38:00+00",
+      "endTime": "2026-04-26 02:00:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q130092",
+    "slug": "valerie-donzelli",
+    "name": "Valérie Donzelli",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 05:07:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

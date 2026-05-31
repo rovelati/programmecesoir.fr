@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "orlando-bloom",
+  "name": "Orlando Bloom",
+  "worksCount": 3,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Orlando%20Bloom%20Cannes%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1977-01-13",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q44467",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Orlando_Bloom",
+    "imdb": "nm0089217",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-seigneur-des-anneaux-le-retour-du-roi",
+      "title": "Le seigneur des anneaux : le retour du roi"
+    },
+    {
+      "type": "film",
+      "slug": "le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+      "title": "Le seigneur des anneaux : la communauté de l'anneau"
+    },
+    {
+      "type": "film",
+      "slug": "le-seigneur-des-anneaux-les-deux-tours",
+      "title": "Le seigneur des anneaux : les deux tours"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "be0a223e-e722-4842-b584-d36925a2beaa",
+      "title": "Le seigneur des anneaux : la communauté de l'anneau",
+      "programSlug": "le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+      "programUrl": "/programme/ocs/le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 08:38:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "61b0d032-79dc-4391-a0b3-586261790573",
+      "title": "Le seigneur des anneaux : les deux tours",
+      "programSlug": "le-seigneur-des-anneaux-les-deux-tours",
+      "programUrl": "/programme/ocs/le-seigneur-des-anneaux-les-deux-tours",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 18:50:00+00",
+      "endTime": "2026-04-20 21:45:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 08:38:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

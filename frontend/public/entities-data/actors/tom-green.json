@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "tom-green",
+  "name": "Tom Green",
+  "worksCount": 1,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Green%20-%20'For%20the%20Leathernecks'%20tour%202013%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-07-30",
+  "nationality": "Canada",
+  "jobTitle": "animateur ou animatrice de télévision",
+  "externalIds": {
+    "wikidata": "Q315826",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tom_Green",
+    "imdb": "nm0338381",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "charlie-s-angels",
+      "title": "Charlie's Angels"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

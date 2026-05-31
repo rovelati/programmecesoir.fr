@@ -1,0 +1,114 @@
+{
+  "type": "film",
+  "slug": "le-roi-scorpion-3-l-oeil-des-dieux",
+  "title": "Le roi Scorpion 3 : l'oeil des Dieux",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le roi Scorpion 3 : l'oeil des Dieux"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film et téléfilm d'action",
+    "film de cape et d'épée"
+  ],
+  "description": "Devenu simple mercenaire en quête d'argent, Mathayus, ancien roi Scorpion, n'a plus rien. Il a perdu son royaume, ainsi que sa reine, Cassandra. Ruiné, il sert à présent les intérêts du roi Horus qui lui confie une mission : protéger le roi Ramusan, précieux allié de Horus, contre son propre frère, Talus. S'il réussit, Mathayus sera promis à la princesse Silda, la fille de Ramusan.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.225,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 104,
+  "cast": [
+    {
+      "qid": "Q724281",
+      "slug": "victor-webster",
+      "name": "Victor Webster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4947676",
+      "slug": "bostin-christopher",
+      "name": "Bostin Christopher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q529851",
+      "slug": "temuera-morrison",
+      "name": "Temuera Morrison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6439764",
+      "slug": "krystal-vee",
+      "name": "Krystal Vee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459971",
+      "slug": "kimbo-slice",
+      "name": "Kimbo Slice",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44158",
+      "slug": "david-bautista",
+      "name": "David Bautista",
+      "role": "actor"
+    },
+    {
+      "qid": "Q205435",
+      "slug": "billy-zane",
+      "name": "Billy Zane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220698",
+      "slug": "ron-perlman",
+      "name": "Ron Perlman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231116",
+      "slug": "kelly-hu",
+      "name": "Kelly Hu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7448462",
+      "slug": "selina-lo",
+      "name": "Selina Lo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q543733",
+    "slug": "roel-reine",
+    "name": "Roel Reiné",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

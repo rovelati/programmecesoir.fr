@@ -1,0 +1,177 @@
+{
+  "type": "actor",
+  "slug": "francois-berleand",
+  "name": "François Berléand",
+  "worksCount": 5,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Berl%C3%A9and%20avp%20L'%C3%A9cole%20buissonni%C3%A8re.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1952-04-22",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q576085",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Berl%C3%A9and",
+    "imdb": "nm0075710",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-venue-de-l-avenir",
+      "title": "La Venue de l'avenir"
+    },
+    {
+      "type": "film",
+      "slug": "le-convoyeur",
+      "title": "Le convoyeur"
+    },
+    {
+      "type": "film",
+      "slug": "ne-le-dis-a-personne",
+      "title": "Ne le dis à personne"
+    },
+    {
+      "type": "film",
+      "slug": "deux-moi",
+      "title": "Deux moi"
+    },
+    {
+      "type": "film",
+      "slug": "marche-a-l-ombre",
+      "title": "Marche à l'ombre"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "24a386a3-01b7-4b25-a613-b36e21b41bec",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 17:18:00+00",
+      "endTime": "2026-04-20 18:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "027bf865-81c6-422e-95b6-3e53da1a6b74",
+      "title": "La Venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/canal/la-venue-de-l-avenir",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 11:28:00+00",
+      "endTime": "2026-04-21 13:29:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e35d2b3a-ab76-4686-8779-9a6479c47000",
+      "title": "Deux moi",
+      "programSlug": "deux-moi",
+      "programUrl": "/programme/canal-grand-ecran/deux-moi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 01:26:00+00",
+      "endTime": "2026-04-22 03:38:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "5f1c105c-017d-4e1b-b777-31d9913cfea8",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 05:00:00+00",
+      "endTime": "2026-04-22 06:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e6d27148-d68b-44e5-90ee-210931ba37fc",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/canal-grand-ecran/le-convoyeur",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 17:35:00+00",
+      "endTime": "2026-04-23 19:04:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "05467371-759f-46eb-b8c7-ec2ba690dee5",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 23:28:00+00",
+      "endTime": "2026-04-24 00:54:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "4e6d724f-7056-4d35-a243-100c134594ac",
+      "title": "La venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/paramount-channel/la-venue-de-l-avenir",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 13:15:00+00",
+      "endTime": "2026-04-24 15:15:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "81b3811a-de71-4159-aa73-d7844bc0c2b0",
+      "title": "La Venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/canal-cinema/la-venue-de-l-avenir",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 13:16:00+00",
+      "endTime": "2026-04-24 15:18:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "eb2c22a7-1329-4ada-813e-3b0fb032b7e4",
+      "title": "Ne le dis à personne",
+      "programSlug": "ne-le-dis-a-personne",
+      "programUrl": "/programme/ocs/ne-le-dis-a-personne",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-24 16:41:00+00",
+      "endTime": "2026-04-24 18:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f584d2b5-fdf2-4137-a111-543e238f4162",
+      "title": "Ne le dis à personne",
+      "programSlug": "ne-le-dis-a-personne",
+      "programUrl": "/programme/ocs/ne-le-dis-a-personne",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 10:20:00+00",
+      "endTime": "2026-04-25 12:29:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-20 17:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "slug": "terre-magique",
+  "title": "Terre magique",
+  "airingsCount": 26,
+  "sourceTitles": [
+    "Terre magique"
+  ],
+  "genres": [
+    "Série"
+  ],
+  "description": "Ralentissons et changeons l'ambiance.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/babytv.png",
+      "airingsCount": 26
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "71e98f56-e9d9-424a-8f54-18d94c466c80",
+      "title": "Terre magique",
+      "programSlug": "terre-magique",
+      "programUrl": "/programme/babytv/terre-magique",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 20:46:00+00",
+      "endTime": "2026-04-19 20:49:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d3357e85-9162-40e4-b682-adefd045039a",
+      "title": "Terre magique",
+      "programSlug": "terre-magique",
+      "programUrl": "/programme/babytv/terre-magique",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-19 21:57:00+00",
+      "endTime": "2026-04-20 03:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 20:46:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

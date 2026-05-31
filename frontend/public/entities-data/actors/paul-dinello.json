@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "paul-dinello",
+  "name": "Paul Dinello",
+  "worksCount": 1,
+  "description": "réalisateur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Dinello%20by%20David%20Shankbone.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-11-28",
+  "nationality": "États-Unis",
+  "jobTitle": "scénariste",
+  "externalIds": {
+    "wikidata": "Q7150288",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Dinello",
+    "imdb": "nm0227576",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "soyez-sympas-rembobinez",
+      "title": "Soyez sympas, rembobinez"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "72fb94fb-96a9-44cd-aec5-5b67673ddf87",
+      "title": "Soyez sympas, rembobinez",
+      "programSlug": "soyez-sympas-rembobinez",
+      "programUrl": "/programme/cine-festival/soyez-sympas-rembobinez",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-25 03:40:00+00",
+      "endTime": "2026-04-25 04:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 03:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,145 @@
+{
+  "type": "film",
+  "slug": "novocaine",
+  "title": "Novocaïne",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Novocaïne"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "comédie",
+    "drame"
+  ],
+  "description": "Employé de banque atteint d'insensibilité congénitale à la douleur, une affection rare et handicapante, Nathan Caine vient de s'engager dans une relation avec Sherry, une de ses collègues. Quand celle-ci est prise en otage par des braqueurs, Nathan se lance aussitôt aux trousses des ravisseurs...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7a414086-749b-44a1-af6c-af0a38d32953",
+      "title": "Novocaïne",
+      "programSlug": "novocaine",
+      "programUrl": "/programme/canal-box-office/novocaine",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 23:48:00+00",
+      "endTime": "2026-04-22 01:38:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "80e966ce-93b1-4bea-8594-8f2f73a020c8",
+      "title": "Novocaïne",
+      "programSlug": "novocaine",
+      "programUrl": "/programme/canal/novocaine",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 23:06:00+00",
+      "endTime": "2026-04-26 00:53:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2001,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q16473",
+      "slug": "steve-martin",
+      "name": "Steve Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170428",
+      "slug": "helena-bonham-carter",
+      "name": "Helena Bonham Carter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220901",
+      "slug": "laura-dern",
+      "name": "Laura Dern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q379808",
+      "slug": "elias-koteas",
+      "name": "Elias Koteas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314673",
+      "slug": "scott-caan",
+      "name": "Scott Caan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q370918",
+      "slug": "keith-david",
+      "name": "Keith David",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3454165",
+      "slug": "kevin-bacon",
+      "name": "Kevin Bacon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5089830",
+      "slug": "chelcie-ross",
+      "name": "Chelcie Ross",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3179357",
+      "slug": "jobe-cerny",
+      "name": "JoBe Cerny",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449580",
+      "slug": "lynne-thigpen",
+      "name": "Lynne Thigpen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965651",
+      "slug": "christian-stolte",
+      "name": "Christian Stolte",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q62566782",
+    "slug": "david-atkins",
+    "name": "David Atkins",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 23:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

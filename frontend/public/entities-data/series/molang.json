@@ -1,0 +1,272 @@
+{
+  "type": "series",
+  "slug": "molang",
+  "title": "Molang",
+  "airingsCount": 76,
+  "sourceTitles": [
+    "Molang"
+  ],
+  "genres": [
+    "animation",
+    "série télévisée comique"
+  ],
+  "description": "Molang, un lapin fantaisiste et rêveur, et son ami Piu Piu, petit poussin timide et émotif, partagent une grande histoire d'amitié en dépit de leurs différences. Qu'ils atterrissent sur la Lune ou arrosent leur jardin potager, les deux amis vivent les événements de manière très différente, créant naturellement des situations imprévues. Leur solidarité et la créativité dont ils font preuve font de ces moments parfois difficiles des instants de bonheur partagés.",
+  "descriptionAi": "Cette série d'animation comique, diffusée depuis 2016, suit les aventures de Molang, un lapin exubérant, et de son meilleur ami Piu Piu, un poussin réservé. L'ambiance est douce, joyeuse et pleine de tendresse, portée par un univers visuel épuré et coloré. Leur amitié indéfectible, malgré leurs personnalités opposées, est au cœur du récit et transforme chaque situation du quotidien en une aventure unique. La série séduit par sa simplicité charmante et son optimisme communicatif, illustrant avec créativité la force de l'entraide. Une bulle de douceur à partager en famille, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/piwi.png",
+      "airingsCount": 25
+    },
+    {
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv-pitchoun.webp",
+      "airingsCount": 51
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "91e28c99-cfba-424c-b5b2-72048f998827",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/tv-pitchoun/molang",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-19 07:22:00+00",
+      "endTime": "2026-04-19 07:32:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "21838444-a378-43f6-8279-bdbf7eb9b317",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/tv-pitchoun/molang",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-19 16:15:00+00",
+      "endTime": "2026-04-19 16:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a6c89056-fa18-4fe0-9d2a-1f288f1beeff",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/piwi/molang",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-20 04:45:00+00",
+      "endTime": "2026-04-20 04:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "ea7480be-0c2e-4bd4-a5b9-63711ccedce9",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/piwi/molang",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-20 04:50:00+00",
+      "endTime": "2026-04-20 04:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bdd1fa92-01cf-4662-871d-f6a8fb98a594",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/piwi/molang",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-20 04:55:00+00",
+      "endTime": "2026-04-20 05:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "6d2b04ce-513f-4de4-b197-d7b9c76868f8",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/tv-pitchoun/molang",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-20 05:19:00+00",
+      "endTime": "2026-04-20 05:29:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a8036c22-f6d3-441b-b4fe-cab978c5bd49",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/tv-pitchoun/molang",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-20 07:22:00+00",
+      "endTime": "2026-04-20 07:32:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "92d56eb6-b215-49d4-8880-932e94b08c4e",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/tv-pitchoun/molang",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-20 16:15:00+00",
+      "endTime": "2026-04-20 16:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5f056721-ff95-4c7a-abce-6aee24116640",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/piwi/molang",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-21 04:45:00+00",
+      "endTime": "2026-04-21 04:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "734bd5ce-dfc9-442a-ad6e-1bce607fb0fd",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/piwi/molang",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-21 04:50:00+00",
+      "endTime": "2026-04-21 04:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1128b904-99ef-4dc6-84a2-961a47297e7e",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/piwi/molang",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-21 04:55:00+00",
+      "endTime": "2026-04-21 05:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "49ce7dd3-87de-443c-8d2b-01985c55afad",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/tv-pitchoun/molang",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-21 05:19:00+00",
+      "endTime": "2026-04-21 05:29:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "bee251ec-d831-4936-bb14-ec070dded7ad",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/tv-pitchoun/molang",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-21 07:22:00+00",
+      "endTime": "2026-04-21 07:32:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c4c4ce77-ce2d-4a5e-a10b-3a1814d9cb2f",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/tv-pitchoun/molang",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-21 16:15:00+00",
+      "endTime": "2026-04-21 16:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6f42e871-e80f-4556-bc4b-822b1b6acacd",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/piwi/molang",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-22 04:45:00+00",
+      "endTime": "2026-04-22 04:50:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "022b2dc2-d40a-46af-b014-b6732a0b1fba",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/piwi/molang",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-22 04:50:00+00",
+      "endTime": "2026-04-22 04:55:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c8d4e453-1959-432f-9e4d-0aeffc544e00",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/piwi/molang",
+      "channelId": "piwi",
+      "channelName": "Piwi+",
+      "channelSlug": "piwi",
+      "startTime": "2026-04-22 04:55:00+00",
+      "endTime": "2026-04-22 05:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "6a0c2d64-a96e-4bb9-aa83-9ff1fc8de679",
+      "title": "Molang",
+      "programSlug": "molang",
+      "programUrl": "/programme/tv-pitchoun/molang",
+      "channelId": "tv-pitchoun",
+      "channelName": "TV Pitchoun",
+      "channelSlug": "tv-pitchoun",
+      "startTime": "2026-04-22 05:19:00+00",
+      "endTime": "2026-04-22 05:29:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:41:01.150Z",
+  "startYear": 2016,
+  "numberOfSeasons": 5,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 07:22:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

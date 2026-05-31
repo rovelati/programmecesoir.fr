@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "lucas-black",
+  "name": "Lucas Black",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Black%20Get%20Low%20TIFF09.%20(cropped%202).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1982-11-29",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q359491",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lucas_Black",
+    "imdb": "nm0085407",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "deepwater",
+      "title": "Deepwater"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

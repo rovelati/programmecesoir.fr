@@ -1,0 +1,62 @@
+{
+  "type": "film",
+  "slug": "la-ligue-des-justiciers-echec",
+  "title": "La ligue des justiciers : échec",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La ligue des justiciers : échec"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm d'action",
+    "film et téléfilm de fantasy",
+    "film et téléfilm fantastique"
+  ],
+  "description": "Vandal Savage souhaite bâtir une nouvelle civilisation dont il serait le maître, ce qui implique d'exterminer une grande partie de l'humanité. Afin de ne pas être contrarié dans ses plans par la Ligue des Justiciers, il s'arrange pour que chaque super-héros soit neutralisé pendant qu'il exécute son projet...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 77,
+  "cast": [],
+  "director": {
+    "qid": "Q6500314",
+    "slug": "lauren-montgomery",
+    "name": "Lauren Montgomery",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

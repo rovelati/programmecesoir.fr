@@ -1,0 +1,78 @@
+{
+  "type": "actor",
+  "slug": "violet-mcgraw",
+  "name": "Violet McGraw",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Violet%20McGraw%20at%2053rd%20Saturn%20Awards%202026.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "2011-04-22",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q109455851",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Violet_McGraw",
+    "imdb": "nm8627157",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "life-of-chuck",
+      "title": "Life of Chuck"
+    },
+    {
+      "type": "film",
+      "slug": "m3gan-2-0",
+      "title": "M3GAN 2.0"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "94e324df-cc05-4a75-824b-4e77902fde3d",
+      "title": "Life of Chuck",
+      "programSlug": "life-of-chuck",
+      "programUrl": "/programme/canal-box-office/life-of-chuck",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 15:45:00+00",
+      "endTime": "2026-04-20 17:32:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "998b9897-1d22-48c5-899e-661784bf3688",
+      "title": "M3GAN 2.0",
+      "programSlug": "m3gan-2-0",
+      "programUrl": "/programme/canal-box-office/m3gan-2-0",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 21:05:00+00",
+      "endTime": "2026-04-20 23:01:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "94c2dd63-6a8a-4606-9aa2-f65378f5fc34",
+      "title": "M3GAN 2.0",
+      "programSlug": "m3gan-2-0",
+      "programUrl": "/programme/canal-box-office/m3gan-2-0",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 13:14:00+00",
+      "endTime": "2026-04-25 15:11:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 15:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

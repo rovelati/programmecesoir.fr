@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "johnny-depp",
+  "name": "Johnny Depp",
+  "worksCount": 1,
+  "description": "acteur, cinéaste et musicien américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny%20Depp%202020.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-06-09",
+  "nationality": "États-Unis",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q37175",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Johnny_Depp",
+    "imdb": "nm0000136",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-griffes-de-la-nuit",
+      "title": "Les griffes de la nuit"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

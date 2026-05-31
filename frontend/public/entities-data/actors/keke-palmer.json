@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "keke-palmer",
+  "name": "Keke Palmer",
+  "worksCount": 1,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Keke%20Palmer%202016%20Paleyfest%20original.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1993-08-26",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q273044",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Keke_Palmer",
+    "imdb": "nm1551130",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "cleaner",
+      "title": "Cleaner"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d8a40c73-6744-4f26-bb75-9116b5137a7c",
+      "title": "Cleaner",
+      "programSlug": "cleaner",
+      "programUrl": "/programme/canal-box-office/cleaner",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 13:23:00+00",
+      "endTime": "2026-04-19 14:58:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2130ea8b-11b4-4d5f-a6bf-f24939ee12a1",
+      "title": "Cleaner",
+      "programSlug": "cleaner",
+      "programUrl": "/programme/canal-box-office/cleaner",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 10:14:00+00",
+      "endTime": "2026-04-22 11:49:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 13:23:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

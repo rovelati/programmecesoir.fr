@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "la-mome-vert-de-gris",
+  "title": "La Môme vert-de-gris",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La Môme vert-de-gris"
+  ],
+  "genres": [
+    "film ou téléfilm criminel"
+  ],
+  "description": "La chanteuse Carlotta de la Rue, dite \"la Môme vert-de-gris\", se produit dans le cabaret de Joe Madrigal, à Casablanca. Blessé au cours d'une rixe, son frère, Mickey, est conduit à l'hôpital dans un état critique. Il révèle juste avant de mourir la menace que fait peser un gang sur un énorme convoi d'or en provenance directe des Etats-Unis. La police française au Maroc prévient l'ambassade américaine, qui sollicite immédiatement l'aide du FBI. C'est alors que l'agent Lemmy Caution entre en scène. Son charme naturel agit évidemment sur la belle Carlotta et il ne tarde pas à s'intéresser à l'amant de celle-ci, un certain Rudy Saltierra...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MomeVertDeGris-1952-Pathe.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1953,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q561234",
+      "slug": "eddie-constantine",
+      "name": "Eddie Constantine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q468290",
+      "slug": "dominique-wilms",
+      "name": "Dominique Wilms",
+      "role": "actor"
+    },
+    {
+      "qid": "Q116145",
+      "slug": "howard-vernon",
+      "name": "Howard Vernon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1167073",
+      "slug": "dario-moreno",
+      "name": "Dario Moreno",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3035940",
+      "slug": "don-ziegler",
+      "name": "Don Ziegler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q323377",
+      "slug": "gaston-modot",
+      "name": "Gaston Modot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q677496",
+      "slug": "georges-wilson",
+      "name": "Georges Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3105220",
+      "slug": "giani-esposito",
+      "name": "Giani Esposito",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3118452",
+      "slug": "gregoire-gromoff",
+      "name": "Grégoire Gromoff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q430942",
+      "slug": "henri-cogan",
+      "name": "Henri Cogan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1677880",
+      "slug": "jack-ary",
+      "name": "Jack Ary",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3157773",
+      "slug": "jacqueline-noelle",
+      "name": "Jacqueline Noëlle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3167495",
+      "slug": "jean-marc-tennberg",
+      "name": "Jean-Marc Tennberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3167807",
+      "slug": "jean-marie-robain",
+      "name": "Jean-Marie Robain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1688122",
+      "slug": "jess-hahn",
+      "name": "Jess Hahn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15616920",
+      "slug": "lud-germain",
+      "name": "Lud Germain",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q822322",
+    "slug": "bernard-borderie",
+    "name": "Bernard Borderie",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

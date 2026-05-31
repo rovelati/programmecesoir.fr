@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "georges-chamarat",
+  "name": "Georges Chamarat",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GeorgesChamarat-StudioHarcourt-1960.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1901-03-30",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q1508842",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Georges_Chamarat",
+    "imdb": "nm0150115",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-aventures-d-arsene-lupin",
+      "title": "Les aventures d'Arsène Lupin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "52430700-b42d-4bb3-8d16-c878be001c93",
+      "title": "Les aventures d'Arsène Lupin",
+      "programSlug": "les-aventures-d-arsene-lupin",
+      "programUrl": "/programme/tcm-cinema/les-aventures-d-arsene-lupin",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 05:20:00+00",
+      "endTime": "2026-04-23 07:00:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 05:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

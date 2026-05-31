@@ -1,0 +1,50 @@
+{
+  "type": "actor",
+  "slug": "morten-kirkskov",
+  "name": "Morten Kirkskov",
+  "worksCount": 4,
+  "description": "acteur danois",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Morten%20Kirkskov.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-03-28",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q12327695",
+    "wikipedia": null,
+    "imdb": "nm0456778",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-enquetes-du-departement-v-dossier-64",
+      "title": "Les enquêtes du département V : dossier 64"
+    },
+    {
+      "type": "film",
+      "slug": "les-enquetes-du-departement-v-delivrance",
+      "title": "Les enquêtes du département V : délivrance"
+    },
+    {
+      "type": "film",
+      "slug": "les-enquetes-du-departement-v-misericorde",
+      "title": "Les enquêtes du département V : miséricorde"
+    },
+    {
+      "type": "film",
+      "slug": "les-enquetes-du-departement-v-profanation",
+      "title": "Les enquêtes du département V : profanation"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

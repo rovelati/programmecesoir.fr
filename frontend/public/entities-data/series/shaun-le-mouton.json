@@ -1,0 +1,89 @@
+{
+  "type": "series",
+  "slug": "shaun-le-mouton",
+  "title": "Shaun le mouton",
+  "airingsCount": 18,
+  "sourceTitles": [
+    "Shaun le mouton"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série télévisée comique"
+  ],
+  "description": "Bitzer est embarrassé lorsque son père lui rend une visite surprise et trouve la cour de la ferme en désordre. Shaun et le troupeau se lancent alors dans un grand rangement.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wiesbaden%20Stadtfest%202013%20Shaun%20das%20Schaf.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 18
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "500912b5-454c-4dc0-a537-f9cae0f19c9a",
+      "title": "Shaun le mouton",
+      "programSlug": "shaun-le-mouton",
+      "programUrl": "/programme/france-4/shaun-le-mouton",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 09:36:00+00",
+      "endTime": "2026-04-24 09:43:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f5725c51-9a91-4baf-93ae-34817ea581c1",
+      "title": "Shaun le mouton",
+      "programSlug": "shaun-le-mouton",
+      "programUrl": "/programme/france-4/shaun-le-mouton",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 09:43:00+00",
+      "endTime": "2026-04-24 09:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "27190a2d-caf6-4339-890b-745cce6b4c6f",
+      "title": "Shaun le mouton",
+      "programSlug": "shaun-le-mouton",
+      "programUrl": "/programme/france-4/shaun-le-mouton",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 09:50:00+00",
+      "endTime": "2026-04-24 09:57:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2007,
+  "numberOfSeasons": 7,
+  "cast": [],
+  "creator": {
+    "qid": "Q336206",
+    "slug": "nick-park",
+    "name": "Nick Park",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-24 09:36:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

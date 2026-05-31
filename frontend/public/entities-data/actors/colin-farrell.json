@@ -1,0 +1,89 @@
+{
+  "type": "actor",
+  "slug": "colin-farrell",
+  "name": "Colin Farrell",
+  "worksCount": 2,
+  "description": "acteur irlandais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2025%20Colin%20Farrell%20-%202%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-05-31",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q172035",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Colin_Farrell",
+    "imdb": "nm0268199",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "american-outlaws",
+      "title": "American Outlaws"
+    },
+    {
+      "type": "film",
+      "slug": "minority-report",
+      "title": "Minority Report"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "69b0c45e-9dfe-4a8e-bf54-be10ad4217b0",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-19 14:25:00+00",
+      "endTime": "2026-04-19 16:47:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d2b13d63-a3f4-4163-8399-42feaa813b90",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 09:06:00+00",
+      "endTime": "2026-04-21 11:28:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e9795fec-6cc4-4bd7-a44f-8b33a175bb7c",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 09:24:00+00",
+      "endTime": "2026-04-24 11:46:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "e11ee0f6-1638-41ea-8821-e23f960a9289",
+      "title": "Minority Report",
+      "programSlug": "minority-report",
+      "programUrl": "/programme/action/minority-report",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 20:22:00+00",
+      "endTime": "2026-04-25 22:44:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 14:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

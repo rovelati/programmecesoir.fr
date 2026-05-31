@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "jemaine-clement",
+  "name": "Jemaine Clement",
+  "worksCount": 2,
+  "description": "acteur néo-zélandais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Black%20Sea%2C%20Golden%20Ladder%20album%20preview%20party%20DM1%203180-2%20-%20Jemaine%20Clement.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1974-01-10",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q439315",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jemaine_Clement",
+    "imdb": "nm1318596",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "m3gan-2-0",
+      "title": "M3GAN 2.0"
+    },
+    {
+      "type": "film",
+      "slug": "minecraft-le-film",
+      "title": "Minecraft, le film"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "998b9897-1d22-48c5-899e-661784bf3688",
+      "title": "M3GAN 2.0",
+      "programSlug": "m3gan-2-0",
+      "programUrl": "/programme/canal-box-office/m3gan-2-0",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 21:05:00+00",
+      "endTime": "2026-04-20 23:01:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8204e0ae-3829-4b0a-93e6-49009eae0876",
+      "title": "Minecraft, le film",
+      "programSlug": "minecraft-le-film",
+      "programUrl": "/programme/canal/minecraft-le-film",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-22 13:37:00+00",
+      "endTime": "2026-04-22 15:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "94c2dd63-6a8a-4606-9aa2-f65378f5fc34",
+      "title": "M3GAN 2.0",
+      "programSlug": "m3gan-2-0",
+      "programUrl": "/programme/canal-box-office/m3gan-2-0",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 13:14:00+00",
+      "endTime": "2026-04-25 15:11:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 21:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

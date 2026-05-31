@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "walter-brennan",
+  "name": "Walter Brennan",
+  "worksCount": 2,
+  "description": "acteur américain (1894-1974)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walter%20brennan%20real%20mccoys%201958.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1894-07-25",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q219521",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Walter_Brennan",
+    "imdb": "nm0000974",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "desirs-secrets",
+      "title": "Désirs secrets"
+    },
+    {
+      "type": "film",
+      "slug": "rio-bravo",
+      "title": "Rio Bravo"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

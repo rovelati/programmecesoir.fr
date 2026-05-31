@@ -1,0 +1,112 @@
+{
+  "type": "film",
+  "slug": "trois-kilometres-jusqu-a-la-fin-du-monde",
+  "title": "Trois kilomètres jusqu'à la fin du monde",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Trois kilomètres jusqu'à la fin du monde"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Adi, âgé de 17 ans, passe l'été dans son village natal niché dans le delta du Danube, à l'est de la Roumanie. Un soir, il est violemment agressé dans la rue. Le lendemain, son monde est entièrement bouleversé. Ses parents ne le regardent plus comme avant et la quiétude apparente du village commence à se fissurer. Appelés à enquêter, les policiers décident d'étouffer l'affaire après avoir découvert les raisons qui ont mené à cette agression. En réalité, tout est parti d'une scène à laquelle ont assisté les jeunes assaillants : ils ont aperçu Adi en train d'embrasser un garçon...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q125586093",
+      "slug": "ciprian-chiujdea",
+      "name": "Ciprian Chiujdea",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15915101",
+      "slug": "bogdan-dumitrache",
+      "name": "Bogdan Dumitrache",
+      "role": "actor"
+    },
+    {
+      "qid": "Q535367",
+      "slug": "laura-vasiliu",
+      "name": "Laura Vasiliu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12720038",
+      "slug": "adrian-titieni",
+      "name": "Adrian Titieni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q30728995",
+      "slug": "valeriu-andriuta",
+      "name": "Valeriu Andriuta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107461489",
+      "slug": "richard-bovnoczki",
+      "name": "Richard Bovnoczki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95879134",
+      "slug": "radu-gabriel",
+      "name": "Radu Gabriel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18218686",
+      "slug": "dionisie-vitcu",
+      "name": "Dionisie Vitcu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q130278363",
+      "slug": "vlad-ionut-popescu",
+      "name": "Vlad Ionuț Popescu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q90689930",
+      "slug": "crina-semciuc",
+      "name": "Crina Semciuc",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q98804324",
+    "slug": "emanuel-parvu",
+    "name": "Emanuel Pârvu",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,129 @@
+{
+  "type": "film",
+  "slug": "raid-dingue",
+  "title": "Raid dingue",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Raid dingue"
+  ],
+  "genres": [
+    "comédie",
+    "film et téléfilm d'action"
+  ],
+  "description": "Johanna Pasquali est une policière plutôt maladroite mais qui rêve d'intégrer le Raid. Grâce aux relations de son père, ministre de l'Intérieur, elle est acceptée au centre de formation du groupe d'élite. Las, Eugène Froissard, le plus misogyne des agents du groupe d'élite et qui n'aime pas les pistonnés, est chargé de la former. Distraite, la jeune recrue accumule les bévues, notamment quand il s'agit d'assurer la protection de président de la République. Une nouvelle mission lui est bientôt confiée. Avec Froissard, ils doivent mettre hors d'état de nuire le Gang des Léopards, qui nargue les autorités lors d'une série de braquages de haut vol dans la capitale...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/RaidDingueBoon.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "channelNumber": 1,
+      "logoUrl": "/loghi/tf1.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-1.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 106,
+  "cast": [
+    {
+      "qid": "Q6531360",
+      "slug": "alice-pol",
+      "name": "Alice Pol",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1398256",
+      "slug": "michel-blanc",
+      "name": "Michel Blanc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q468190",
+      "slug": "dany-boon",
+      "name": "Dany Boon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q724208",
+      "slug": "yvan-attal",
+      "name": "Yvan Attal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3369703",
+      "slug": "patrick-mille",
+      "name": "Patrick Mille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106592",
+      "slug": "sabine-azema",
+      "name": "Sabine Azéma",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466991",
+      "slug": "anne-marivin",
+      "name": "Anne Marivin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2829753",
+      "slug": "alain-doutey",
+      "name": "Alain Doutey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q658664",
+      "slug": "francois-levantal",
+      "name": "François Levantal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q609514",
+      "slug": "urbain-cancelier",
+      "name": "Urbain Cancelier",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q468190",
+    "slug": "dany-boon",
+    "name": "Dany Boon",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "type": "film",
+  "slug": "arlington-road",
+  "title": "Arlington Road",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Arlington Road"
+  ],
+  "genres": [
+    "film ou téléfilm à énigme",
+    "film ou téléfilm criminel",
+    "thriller",
+    "drame"
+  ],
+  "description": "Très ébranlé par la mort brutale de son épouse, Michael Faraday, universitaire et spécialiste du terrorisme international, tente de reconstruire sa vie. Faraday se lie d'amitié avec ses nouveaux voisins, Oliver et Cheryl Lang. Il en vient cependant à les soupçonner d'être des terroristes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1999,
+  "durationMinutes": 113,
+  "cast": [
+    {
+      "qid": "Q174843",
+      "slug": "jeff-bridges",
+      "name": "Jeff Bridges",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95048",
+      "slug": "tim-robbins",
+      "name": "Tim Robbins",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272946",
+      "slug": "joan-cusack",
+      "name": "Joan Cusack",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236399",
+      "slug": "hope-davis",
+      "name": "Hope Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2486833",
+      "slug": "robert-gossett",
+      "name": "Robert Gossett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1066597",
+      "slug": "mason-gamble",
+      "name": "Mason Gamble",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2165590",
+      "slug": "spencer-treat-clark",
+      "name": "Spencer Treat Clark",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2052002",
+      "slug": "stanley-anderson",
+      "name": "Stanley Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3530283",
+      "slug": "todd-terry",
+      "name": "Todd Terry",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q662257",
+    "slug": "mark-pellington",
+    "name": "Mark Pellington",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

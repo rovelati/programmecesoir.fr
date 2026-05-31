@@ -1,0 +1,70 @@
+{
+  "type": "film",
+  "slug": "fleuve-noir",
+  "title": "Fleuve noir",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Fleuve noir"
+  ],
+  "genres": [
+    "thriller"
+  ],
+  "description": "Dany Arnault n'est pas rentré du lycée. Le commandant François Visconti, alerté par la mère de Dany, n'est pas inquiet : les adolescents fuguent souvent. Quelques jours plus tard, après l'enquête de routine et une battue infructueuse dans les bois où vit la famille Arnault, il faut toutefois se rendre à l'évidence : il s'agit bien d'une \"disparition inquiétante\". Le policier, qui noie ses problèmes existentiels dans l'alcool, voit débarquer Yann Bellaile, un voisin professeur d'anglais, qui donnait des cours particuliers à Dany, et souhaite proposer ses services. Visconti finit par soupçonner ce bon samaritain, et commence à enquêter sur lui...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": 114,
+  "cast": [
+    {
+      "qid": "Q193504",
+      "slug": "vincent-cassel",
+      "name": "Vincent Cassel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q441272",
+      "slug": "romain-duris",
+      "name": "Romain Duris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262822",
+      "slug": "sandrine-kiberlain",
+      "name": "Sandrine Kiberlain",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1353708",
+    "slug": "erick-zonca",
+    "name": "Érick Zonca",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

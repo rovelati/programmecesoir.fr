@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "eddie-constantine",
+  "name": "Eddie Constantine",
+  "worksCount": 2,
+  "description": "acteur et chanteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/EddieConstantine-StudioHarcourt-1956.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1917-10-29",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q561234",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Eddie_Constantine",
+    "imdb": "nm0176061",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "alphaville-une-etrange-aventure-de-lemmy-caution",
+      "title": "Alphaville, une étrange aventure de Lemmy Caution"
+    },
+    {
+      "type": "film",
+      "slug": "la-mome-vert-de-gris",
+      "title": "La Môme vert-de-gris"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ed1aa73f-86ac-4c9a-8db4-d2bb879db9dc",
+      "title": "Alphaville, une étrange aventure de Lemmy Caution",
+      "programSlug": "alphaville-une-etrange-aventure-de-lemmy-caution",
+      "programUrl": "/programme/cine-classic/alphaville-une-etrange-aventure-de-lemmy-caution",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 00:52:00+00",
+      "endTime": "2026-04-24 02:28:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-24 00:52:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

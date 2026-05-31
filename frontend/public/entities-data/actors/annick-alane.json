@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "annick-alane",
+  "name": "Annick Alane",
+  "worksCount": 3,
+  "description": "actrice française",
+  "descriptionAi": "Annick Alane incarne avec subtilité des rôles variés, de la comédie légère au drame plus intimiste. Son jeu, à la fois précis et empreint d'une sensibilité discrète, captive par sa sincérité. Elle apporte une présence rassurante et une profondeur humaine à chaque personnage, qu'il soit central ou de caractère. Pour le téléspectateur, c'est l'occasion de découvrir une interprète de talent, dont la filmographie reflète plusieurs décennies de cinéma et de télévision français. Une actrice dont la carrière mérite d'être explorée pour son authenticité et son élégance naturelle à l'écran. Pour retrouver ses films, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1925-09-05",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2851563",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Annick_Alane",
+    "imdb": "nm0015960",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "deux-jours-a-tuer",
+      "title": "Deux jours à tuer"
+    },
+    {
+      "type": "film",
+      "slug": "vipere-au-poing",
+      "title": "Vipère au poing"
+    },
+    {
+      "type": "film",
+      "slug": "passe-ton-bac-d-abord",
+      "title": "Passe ton bac d'abord"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "81de72af-0ee0-4730-9aff-48b3c79afa2f",
+      "title": "Passe ton bac d'abord",
+      "programSlug": "passe-ton-bac-d-abord",
+      "programUrl": "/programme/cine-festival/passe-ton-bac-d-abord",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-22 09:51:00+00",
+      "endTime": "2026-04-22 11:30:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:44.383Z",
+  "nextAiringAt": "2026-04-22 09:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "aude-gogny-goubert",
+  "name": "Aude Gogny-Goubert",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aude%20GG%202018.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1984-07-09",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2870702",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Aude_Gogny-Goubert",
+    "imdb": "nm1679641",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-routard",
+      "title": "Le Routard"
+    },
+    {
+      "type": "series",
+      "slug": "j-ai-tue-mon-mari",
+      "title": "J'ai tué mon mari"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

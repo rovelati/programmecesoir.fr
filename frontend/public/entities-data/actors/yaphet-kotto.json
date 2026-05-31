@@ -1,0 +1,85 @@
+{
+  "type": "actor",
+  "slug": "yaphet-kotto",
+  "name": "Yaphet Kotto",
+  "worksCount": 1,
+  "description": "acteur américain (1939–2021)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yaphet%20Koto.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1939-11-15",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q266270",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Yaphet_Kotto",
+    "imdb": "nm0001433",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "homicide",
+      "title": "Homicide"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "02249f5f-e034-4a4d-b00f-a8268336a047",
+      "title": "Homicide - Saison 5",
+      "programSlug": "homicide-saison-5",
+      "programUrl": "/programme/polar/homicide-saison-5",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 18:55:00+00",
+      "endTime": "2026-04-22 19:41:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e8797e93-d932-4bba-9833-293b7abfb9b2",
+      "title": "Homicide - Saison 5",
+      "programSlug": "homicide-saison-5",
+      "programUrl": "/programme/polar/homicide-saison-5",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 19:41:00+00",
+      "endTime": "2026-04-22 20:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "237c80c7-48f2-4133-9ed7-46779ce8b39b",
+      "title": "Homicide - Saison 4",
+      "programSlug": "homicide-saison-4",
+      "programUrl": "/programme/polar/homicide-saison-4",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 22:05:00+00",
+      "endTime": "2026-04-22 22:52:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "054431cb-5a74-420a-a49a-746ca5a54e59",
+      "title": "Homicide - Saison 4",
+      "programSlug": "homicide-saison-4",
+      "programUrl": "/programme/polar/homicide-saison-4",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 22:52:00+00",
+      "endTime": "2026-04-22 23:39:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 18:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,102 @@
+{
+  "type": "series",
+  "slug": "blue-bloods",
+  "title": "Blue Bloods",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Blue Bloods",
+    "Blue Bloods - Saison 14"
+  ],
+  "genres": [
+    "enquête policière"
+  ],
+  "description": "Danny et Baez unissent leurs forces à l'ancienne partenaire de Danny, Jackie Curatola, lorsqu'un tueur en série réapparaît. Frank affronte les journalistes après l'annonce du maire qui veut remplacer le chef de la police par un comité de cinq personnes. Face à la plainte pour viol d'une détenue, Eddie prend des initiatives...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0e32d81-2579-41c4-adab-a529caee92b5",
+      "title": "Blue Bloods - Saison 14",
+      "programSlug": "blue-bloods-saison-14",
+      "programUrl": "/programme/rts-un/blue-bloods-saison-14",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 14:50:00+00",
+      "endTime": "2026-04-19 15:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cd20b19e-a3a1-43f5-8c5a-b22275993bdc",
+      "title": "Blue Bloods - Saison 14",
+      "programSlug": "blue-bloods-saison-14",
+      "programUrl": "/programme/rts-un/blue-bloods-saison-14",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 15:35:00+00",
+      "endTime": "2026-04-19 16:25:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2010,
+  "numberOfSeasons": 14,
+  "cast": [
+    {
+      "qid": "Q313470",
+      "slug": "donnie-wahlberg",
+      "name": "Donnie Wahlberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3554552",
+      "slug": "vanessa-ray",
+      "name": "Vanessa Ray",
+      "role": "actor"
+    },
+    {
+      "qid": "Q213706",
+      "slug": "tom-selleck",
+      "name": "Tom Selleck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232343",
+      "slug": "bridget-moynahan",
+      "name": "Bridget Moynahan",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q7352432",
+    "slug": "robin-green",
+    "name": "Robin Green",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 14:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

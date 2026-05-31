@@ -1,0 +1,108 @@
+{
+  "type": "film",
+  "slug": "je-l-aimais",
+  "title": "Je l'aimais",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Je l'aimais"
+  ],
+  "genres": [
+    "film à flash-back",
+    "drame",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Chloé vient d'être quittée pour une autre par l'homme qu'elle aime et avec qui elle a eu deux enfants. Son beau-père, Pierre, l'emmène à la campagne pour tenter de la consoler. Une nuit, pour percer le mutisme dans lequel elle se terre, il lui révèle la passion qui aurait pu changer sa vie et qu'il tient secrète depuis vingt ans. Lors d'un voyage professionnel au Japon, il a fait la connaissance de Mathilde, une charmante interprète. Le coup de foudre est immédiat et réciproque, mais Pierre est déjà marié. Leur liaison dure un temps, mais, spectateur de la rupture douloureuse de sa secrétaire, Pierre ne parvient pas à quitter sa femme et ses enfants...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 115,
+  "cast": [
+    {
+      "qid": "Q2857110",
+      "slug": "antonin-chalon",
+      "name": "Antonin Chalon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965785",
+      "slug": "christiane-millet",
+      "name": "Christiane Millet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2423448",
+      "slug": "christophe-carriere",
+      "name": "Christophe Carrière",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106303",
+      "slug": "daniel-auteuil",
+      "name": "Daniel Auteuil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3073999",
+      "slug": "florence-loiret-caille",
+      "name": "Florence Loiret Caille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3100676",
+      "slug": "genevieve-mnich",
+      "name": "Geneviève Mnich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3183342",
+      "slug": "jonathan-cohen",
+      "name": "Jonathan Cohen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239341",
+      "slug": "marie-josee-croze",
+      "name": "Marie-Josée Croze",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3568651",
+      "slug": "william-gay",
+      "name": "William Gay",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q139052",
+    "slug": "zabou-breitman",
+    "name": "Zabou Breitman",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

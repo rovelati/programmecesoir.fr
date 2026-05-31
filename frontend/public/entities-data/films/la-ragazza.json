@@ -1,0 +1,107 @@
+{
+  "type": "film",
+  "slug": "la-ragazza",
+  "title": "La ragazza",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La ragazza"
+  ],
+  "genres": [
+    "drame",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "En route vers la prison où croupit l'homme qu'elle aime, la belle Mara se souvient. Retour en 1945. Mara vit à Monteguidi, un petit village de Toscane. Sente, son frère, un résistant, a été assassiné. Arrive Arturo Capelli, dit \"Bube\", un partisan communiste qui fut l'ami de Sente. Arturo, qui ne parle que de liberté, d'égalité et de justice, ne tarde pas à séduire Mara. Les deux jeunes gens deviennent inséparables. Leur bonheur est parfait, jusqu'au jour où Arturo, au terme d'une violente altercation, tue un gendarme fasciste...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ragazza%20di%20Bube-Cardinale.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1963,
+  "durationMinutes": 111,
+  "cast": [
+    {
+      "qid": "Q107006",
+      "slug": "claudia-cardinale",
+      "name": "Claudia Cardinale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q336841",
+      "slug": "george-chakiris",
+      "name": "George Chakiris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3702424",
+      "slug": "dany-paris",
+      "name": "Dany París",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1041513",
+      "slug": "carla-calo",
+      "name": "Carla Calò",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2474015",
+      "slug": "ugo-chiti",
+      "name": "Ugo Chiti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3756748",
+      "slug": "gabriella-giorgelli",
+      "name": "Gabriella Giorgelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3288259",
+      "slug": "marc-michel",
+      "name": "Marc Michel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3320944",
+      "slug": "monique-vita",
+      "name": "Monique Vita",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14770327",
+      "slug": "bruno-scipioni",
+      "name": "Bruno Scipioni",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q53015",
+    "slug": "luigi-comencini",
+    "name": "Luigi Comencini",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "andre-s-labarthe",
+  "name": "André S. Labarthe",
+  "worksCount": 1,
+  "description": "critique, producteur, réalisateur et scénariste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9%20S.%20Labarthe%20%C3%A0%20la%20Cin%C3%A9math%C3%A8que%20fran%C3%A7aise%202-Romanceor.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1931-12-18",
+  "nationality": "France",
+  "jobTitle": "producteur ou productrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q2848599",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Andr%C3%A9_S._Labarthe",
+    "imdb": "nm0479351",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "a-bout-de-souffle",
+      "title": "A bout de souffle"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b71eeea-aefe-4600-8afd-52e96c7bc3df",
+      "title": "A bout de souffle",
+      "programSlug": "a-bout-de-souffle",
+      "programUrl": "/programme/cine-classic/a-bout-de-souffle",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 22:28:00+00",
+      "endTime": "2026-04-23 23:56:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 22:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

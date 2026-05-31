@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "nicolas-bridet",
+  "name": "Nicolas Bridet",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-01-01",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q15973995",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Nicolas_Bridet",
+    "imdb": "nm1082843",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "13-jours-13-nuits",
+      "title": "13 jours, 13 nuits"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "fd3c1ebe-4947-4462-ae45-e18203e85dab",
+      "title": "13 jours, 13 nuits",
+      "programSlug": "13-jours-13-nuits",
+      "programUrl": "/programme/canal-box-office/13-jours-13-nuits",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 09:11:00+00",
+      "endTime": "2026-04-25 11:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 09:11:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

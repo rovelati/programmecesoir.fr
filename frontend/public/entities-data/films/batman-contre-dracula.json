@@ -1,0 +1,70 @@
+{
+  "type": "film",
+  "slug": "batman-contre-dracula",
+  "title": "Batman contre Dracula",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Batman contre Dracula"
+  ],
+  "genres": [
+    "cross-over",
+    "film de vampires",
+    "fantasy urbaine",
+    "film et téléfilm d'action",
+    "film ou téléfilm criminel",
+    "film d'horreur gothique",
+    "film ou téléfilm pour enfants",
+    "film et téléfilm d'horreur",
+    "film gothique",
+    "film d'horreur de science-fiction",
+    "surnaturel horreur",
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "La population de Gotham City est terrorisée : en plus du Joker et du Pingouin qui hantent les rues, une nouvelle créature de la nuit menace la paix des habitants. Il s'agit du terrible comte Dracula, ressuscité par le Pingouin. Batman parviendra-t-il à le stopper avant qu'il ne soit trop tard ?...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2005,
+  "durationMinutes": 85,
+  "cast": [],
+  "director": {
+    "qid": "Q11882366",
+    "slug": "michael-goguen",
+    "name": "Michael Goguen",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,71 @@
+{
+  "type": "film",
+  "slug": "menace-sur-washington",
+  "title": "Menace sur Washington",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Menace sur Washington"
+  ],
+  "genres": [
+    "Téléfilm"
+  ],
+  "description": "Dans un contexte de tension internationale, le capitaine d'un sous-marin nucléaire américain, en proie à une crise de folie, prend le contrôle de son vaisseau et menace de lancer ses missiles sur Washington. Ses motivations obscures sont liées à un profond désespoir face à une situation qu'il juge injuste, et il exige une somme d'argent exorbitante de la part du gouvernement. À bord, deux membres de l'équipage, le lieutenant David (Chris Warren) et le maître chef de bord, tentent désespérément de contrecarrer ses plans. Alors que la situation devient de plus en plus explosive, ils doivent naviguer à travers un climat de peur et de tension, tout en cherchant à sauver non seulement leur propre vie, mais aussi celle de millions de citoyens innocents à Washington. Leur rébellion contre l'autorité du capitaine mettra à l'épreuve leur courage et leur détermination, alors qu'ils se battent pour empêcher une catastrophe imminente.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/gongfr.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "50275c5b-4c33-4c87-9052-d557660a855a",
+      "title": "Menace sur Washington",
+      "programSlug": "menace-sur-washington",
+      "programUrl": "/programme/gongfr/menace-sur-washington",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-20 23:10:00+00",
+      "endTime": "2026-04-21 01:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "173972e7-ac6d-4f9c-9b7f-e59b16cc6ce5",
+      "title": "Menace sur Washington",
+      "programSlug": "menace-sur-washington",
+      "programUrl": "/programme/gongfr/menace-sur-washington",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-23 23:10:00+00",
+      "endTime": "2026-04-24 01:15:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-20 23:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

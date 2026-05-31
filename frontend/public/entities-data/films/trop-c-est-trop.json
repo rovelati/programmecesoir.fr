@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "trop-c-est-trop",
+  "title": "Trop c'est trop",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Trop c'est trop"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Trois femmes vivent dans la même concession et subissent différentes formes de violences de la part des hommes qui les entourent. L'une d'elles, Rolake Dabiri, âgée de 24 ans, décide que trop c'est trop et choisit de prendre la parole et de se révolter contre ces hommes.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nollywood-tv",
+      "channelName": "Nollywood TV",
+      "channelSlug": "nollywood-tv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nollywood-tv.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1975,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q336694",
+      "slug": "bernard-menez",
+      "name": "Bernard Menez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q448508",
+      "slug": "chantal-goya",
+      "name": "Chantal Goya",
+      "role": "actor"
+    },
+    {
+      "qid": "Q183471",
+      "slug": "claude-jade",
+      "name": "Claude Jade",
+      "role": "actor"
+    },
+    {
+      "qid": "Q51125",
+      "slug": "claudia-wells",
+      "name": "Claudia Wells",
+      "role": "actor"
+    },
+    {
+      "qid": "Q663553",
+      "slug": "daniel-gelin",
+      "name": "Daniel Gélin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1166707",
+      "slug": "darry-cowl",
+      "name": "Darry Cowl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1210550",
+      "slug": "didier-kaminka",
+      "name": "Didier Kaminka",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1508798",
+      "slug": "georges-beller",
+      "name": "Georges Beller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3159923",
+      "slug": "jacques-rouland",
+      "name": "Jacques Rouland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q639888",
+      "slug": "jean-carmet",
+      "name": "Jean Carmet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1353516",
+      "slug": "jose-luis-de-vilallonga",
+      "name": "José Luis de Vilallonga",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2577992",
+      "slug": "les-charlots",
+      "name": "Les Charlots",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1893008",
+      "slug": "marcel-dalio",
+      "name": "Marcel Dalio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q665195",
+      "slug": "nicole-jamet",
+      "name": "Nicole Jamet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2183199",
+      "slug": "patrick-topaloff",
+      "name": "Patrick Topaloff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380467",
+      "slug": "philippe-ogouz",
+      "name": "Philippe Ogouz",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1210550",
+    "slug": "didier-kaminka",
+    "name": "Didier Kaminka",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

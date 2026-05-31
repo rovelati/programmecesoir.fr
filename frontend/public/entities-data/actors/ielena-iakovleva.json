@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "ielena-iakovleva",
+  "name": "Ielena Iakovleva",
+  "worksCount": 1,
+  "description": "actrice russe",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elena%20Alekseevna%20Yakovleva%2C%202000.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1961-03-05",
+  "nationality": "Union soviétique",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q466169",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ielena_Iakovleva",
+    "imdb": "nm0945094",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "cosmoball",
+      "title": "Cosmoball"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bb2970dd-697e-41bf-b97d-f3cc56172458",
+      "title": "Cosmoball",
+      "programSlug": "cosmoball",
+      "programUrl": "/programme/cine-family/cosmoball",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 20:40:00+00",
+      "endTime": "2026-04-20 22:35:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 20:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

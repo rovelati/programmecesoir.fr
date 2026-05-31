@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "edmond-o-brien",
+  "name": "Edmond O'Brien",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/EdmondOBrien.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1915-09-10",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q119935",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Edmond_O'Brien",
+    "imdb": "nm0639529",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-homme-qui-tua-liberty-valance",
+      "title": "L'homme qui tua Liberty Valance"
+    },
+    {
+      "type": "film",
+      "slug": "quasimodo",
+      "title": "Quasimodo"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

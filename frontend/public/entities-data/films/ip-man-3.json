@@ -1,0 +1,123 @@
+{
+  "type": "film",
+  "slug": "ip-man-3",
+  "title": "Ip Man 3",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Ip Man 3"
+  ],
+  "genres": [
+    "film ou téléfilm biographique",
+    "film d'arts martiaux",
+    "film et téléfilm d'action",
+    "drame"
+  ],
+  "description": "Le crime organisé s'installe dans la ville sous l'égide d'un chef de gang brutal et sanguinaire. Celui-ci veut devenir le maître suprême incontesté et il n'a qu'un but : étendre son empire. Maître Ip est forcé de prendre position pour le contrer. Il devra déjouer les pièges et combattre contre tous les hommes du gang jusqu'à l'inévitable confrontation finale avec leur chef...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q311723",
+      "slug": "donnie-yen",
+      "name": "Donnie Yen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9092341",
+      "slug": "zhang-jin",
+      "name": "Zhang Jin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q82524",
+      "slug": "lynn-hung",
+      "name": "Lynn Hung",
+      "role": "actor"
+    },
+    {
+      "qid": "Q712908",
+      "slug": "patrick-tam",
+      "name": "Patrick Tam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q712178",
+      "slug": "kent-cheng",
+      "name": "Kent Cheng",
+      "role": "actor"
+    },
+    {
+      "qid": "Q860948",
+      "slug": "bryan-leung",
+      "name": "Bryan Leung",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6686900",
+      "slug": "louis-cheung",
+      "name": "Louis Cheung",
+      "role": "actor"
+    },
+    {
+      "qid": "Q706919",
+      "slug": "danny-chan-kwok-kwan",
+      "name": "Danny Chan Kwok Kwan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q79031",
+      "slug": "mike-tyson",
+      "name": "Mike Tyson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8265447",
+      "slug": "karena-ng",
+      "name": "Karena Ng",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3089283",
+    "slug": "wilson-yip",
+    "name": "Wilson Yip",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "type": "film",
+  "slug": "les-zevades-de-l-espace",
+  "title": "Les Zévadés de l'espace",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les Zévadés de l'espace"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film ou téléfilm pour enfants",
+    "film ou téléfilm de science-fiction",
+    "comédie"
+  ],
+  "description": "Un grand héros intergalactique répond à un SOS envoyé d'une planète lointaine, la Terre. Il s'envole vers elle mais se retrouve pris dans une embuscade.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 89,
+  "cast": [],
+  "director": {
+    "qid": "Q23553923",
+    "slug": "cal-brunker",
+    "name": "Cal Brunker",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

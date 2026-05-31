@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "la-nuit-au-musee-2",
+  "title": "La nuit au musée 2",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La nuit au musée 2"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'aventure",
+    "slapstick",
+    "film et téléfilm d'action"
+  ],
+  "description": "Le Muséum d'histoire naturelle de New York ferme ses portes pour rénovation. Toutes les pièces sont transférées dans les réserves du célèbre Smithsonian, à Washington. Jedediah, le cow-boy miniature, prévient Larry Daley, l'ancien gardien de musée, d'un danger imminent. En effet, les personnages du musée ont emmené avec eux la tablette qui leur permet de prendre vie. Mais le pharaon Kha Mun Rah veut absolument s'en emparer pour ramener son armée du royaume des morts. Grâce à son expérience en tant que gardien, Larry parvient à pénétrer dans le Smithsonian, mais Kha Mun Rah s'est entouré de Napoléon, Ivan le Terrible et Al Capone pour mener le combat...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab3.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2009,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q47100",
+      "slug": "ben-stiller",
+      "name": "Ben Stiller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q481832",
+      "slug": "amy-adams",
+      "name": "Amy Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q161916",
+      "slug": "owen-wilson",
+      "name": "Owen Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202056",
+      "slug": "hank-azaria",
+      "name": "Hank Azaria",
+      "role": "actor"
+    },
+    {
+      "qid": "Q336074",
+      "slug": "christopher-guest",
+      "name": "Christopher Guest",
+      "role": "actor"
+    },
+    {
+      "qid": "Q448021",
+      "slug": "alain-chabat",
+      "name": "Alain Chabat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83338",
+      "slug": "robin-williams",
+      "name": "Robin Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316709",
+      "slug": "steve-coogan",
+      "name": "Steve Coogan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14537",
+      "slug": "bill-hader",
+      "name": "Bill Hader",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316756",
+      "slug": "jay-baruchel",
+      "name": "Jay Baruchel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312129",
+      "slug": "eugene-levy",
+      "name": "Eugene Levy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q375590",
+      "slug": "rami-malek",
+      "name": "Rami Malek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q362616",
+      "slug": "jon-bernthal",
+      "name": "Jon Bernthal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23517",
+      "slug": "ricky-gervais",
+      "name": "Ricky Gervais",
+      "role": "actor"
+    },
+    {
+      "qid": "Q718446",
+      "slug": "jake-cherry",
+      "name": "Jake Cherry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1319539",
+      "slug": "thomas-lennon",
+      "name": "Thomas Lennon",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q323076",
+    "slug": "shawn-levy",
+    "name": "Shawn Levy",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

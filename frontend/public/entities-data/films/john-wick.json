@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "john-wick",
+  "title": "John Wick",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "John Wick"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "thriller policier"
+  ],
+  "description": "Iosef Tarasov n'aurait jamais dû s'en prendre à John Wick. Le petit voyou et fils d'un caïd de la mafia, a eu la mauvaise idée de voler la voiture de collection et de tuer le chien, cadeau de sa défunte femme, de cet homme solitaire et mystérieux. Aurelio, le complice de Tarasov qui connaît la véritable identité de Wick, sait que Iosef a fait l'erreur de sa vie. John Wick est un ex-tueur à gages et est bien décidé à se venger. Alors qu'il aspirait à une vie sans violence depuis la mort de son épouse, il doit ressortir les armes qu'il avait enterrées dans le sol de sa maison. Une guerre sans merci, où tous les coups sont permis, commence alors entre l'homme blessé et le gang...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q43416",
+      "slug": "keanu-reeves",
+      "name": "Keanu Reeves",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262278",
+      "slug": "adrianne-palicki",
+      "name": "Adrianne Palicki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q552026",
+      "slug": "alfie-allen",
+      "name": "Alfie Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232343",
+      "slug": "bridget-moynahan",
+      "name": "Bridget Moynahan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240187",
+      "slug": "bridget-regan",
+      "name": "Bridget Regan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1095834",
+      "slug": "clarke-peters",
+      "name": "Clarke Peters",
+      "role": "actor"
+    },
+    {
+      "qid": "Q115932",
+      "slug": "daniel-bernhardt",
+      "name": "Daniel Bernhardt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210076",
+      "slug": "david-patrick-kelly",
+      "name": "David Patrick Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q515415",
+      "slug": "dean-winters",
+      "name": "Dean Winters",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234141",
+      "slug": "ian-mcshane",
+      "name": "Ian McShane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295233",
+      "slug": "john-leguizamo",
+      "name": "John Leguizamo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q280793",
+      "slug": "kevin-nash",
+      "name": "Kevin Nash",
+      "role": "actor"
+    },
+    {
+      "qid": "Q322056",
+      "slug": "lance-reddick",
+      "name": "Lance Reddick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q382278",
+      "slug": "michael-nyqvist",
+      "name": "Michael Nyqvist",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3525542",
+      "slug": "thomas-sadoski",
+      "name": "Thomas Sadoski",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188772",
+      "slug": "willem-dafoe",
+      "name": "Willem Dafoe",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q22277301",
+    "slug": "chad-stahelski",
+    "name": "Chad Stahelski",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

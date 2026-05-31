@@ -1,0 +1,377 @@
+{
+  "type": "series",
+  "slug": "frasier",
+  "title": "Frasier",
+  "airingsCount": 160,
+  "sourceTitles": [
+    "Frasier",
+    "Frasier - Saison 8",
+    "Frasier - Saison 9"
+  ],
+  "genres": [
+    "sitcom des États-Unis"
+  ],
+  "description": "Malgré la réticence de ses fils, Martin accepte un emploi d'agent de sécurité dans un immeuble. Alors qu'il s'apprête à commencer sa première journée, il se souvient de ses années au service de la police. Ses sentiments sont partagés entre le soulagement de se remettre au travail et la déception de ne pas avoir trouvé mieux. Daphne et Niles s'offrent chacun des places de concert mais sont abattus en réalisant qu'ils se déroulent le même soir. Roz, qui en a assez d'être le larbin de ses amis, refuse de promener le chien de Martin...",
+  "descriptionAi": "Cette sitcom américaine raconte avec finesse les tribulations de Frasier Crane, un psychiatre snob de retour à Seattle. L'ambiance oscille entre l'humour sophistiqué et des moments de tendresse familiale, le tout servi par des dialogues savoureux. Le spectateur est séduit par la dynamique comique des personnages, leurs egos démesurés et leurs quêtes souvent ridicules du bonheur. C'est un savant mélange de comédie de caractère et d'observations sociales pleines d'esprit. Une série culte à l'humour intemporel, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "channelNumber": null,
+      "logoUrl": "/loghi/comedy-central.png",
+      "airingsCount": 160
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e23182bc-81a2-4423-a39f-03f3aa55523f",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-23 23:55:00+00",
+      "endTime": "2026-03-24 00:15:00+00",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "3dce39d5-612c-4c08-bf1a-4eb7edcf3ac2",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-24 00:15:00+00",
+      "endTime": "2026-03-24 00:40:00+00",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "6c652496-a194-4008-81a5-231082d56293",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-24 00:40:00+00",
+      "endTime": "2026-03-24 01:00:00+00",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "92fab362-25aa-4cc7-a88c-9863993cfd0c",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-24 01:00:00+00",
+      "endTime": "2026-03-24 01:25:00+00",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "8cac26c1-7b84-4189-af82-aee98bf3b6ea",
+      "title": "Frasier - Saison 8",
+      "programSlug": "frasier---saison-8",
+      "programUrl": "/programme/comedy-central/frasier---saison-8",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-24 05:40:00+00",
+      "endTime": "2026-03-24 06:05:00+00",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "be8e15d4-7550-4e17-bb0a-24c52d1b939b",
+      "title": "Frasier - Saison 8",
+      "programSlug": "frasier---saison-8",
+      "programUrl": "/programme/comedy-central/frasier---saison-8",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-24 06:05:00+00",
+      "endTime": "2026-03-24 06:30:00+00",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "cc12c6c9-2145-47d5-9a04-33888f8a9fb5",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-24 06:30:00+00",
+      "endTime": "2026-03-24 06:55:00+00",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "7383f754-54aa-42f7-bb59-45157d039e81",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-24 06:55:00+00",
+      "endTime": "2026-03-24 07:20:00+00",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "67b4cdbf-f69c-452b-a1c5-5cbf78f8c78c",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-24 07:20:00+00",
+      "endTime": "2026-03-24 07:40:00+00",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "e9f1b988-2b8b-4057-a6d1-17034c790703",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-24 07:40:00+00",
+      "endTime": "2026-03-24 08:05:00+00",
+      "date": "2026-03-24"
+    },
+    {
+      "id": "b3f78730-8aae-4d3c-b672-f54d50608085",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-24 23:55:00+00",
+      "endTime": "2026-03-25 00:15:00+00",
+      "date": "2026-03-25"
+    },
+    {
+      "id": "69abd9d9-590d-4f99-93d7-79997349eb6b",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-25 00:15:00+00",
+      "endTime": "2026-03-25 00:40:00+00",
+      "date": "2026-03-25"
+    },
+    {
+      "id": "f1a8ef44-1674-4557-a05c-9e58ad35435c",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-25 00:40:00+00",
+      "endTime": "2026-03-25 01:00:00+00",
+      "date": "2026-03-25"
+    },
+    {
+      "id": "694c76ef-0db6-4f79-8cf5-e258edd7245a",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-25 01:00:00+00",
+      "endTime": "2026-03-25 01:25:00+00",
+      "date": "2026-03-25"
+    },
+    {
+      "id": "0d6daf45-af5e-4256-bad5-d083bddedbb1",
+      "title": "Frasier - Saison 8",
+      "programSlug": "frasier---saison-8",
+      "programUrl": "/programme/comedy-central/frasier---saison-8",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-25 05:40:00+00",
+      "endTime": "2026-03-25 06:05:00+00",
+      "date": "2026-03-25"
+    },
+    {
+      "id": "a1d0d992-12db-481b-90ef-edac74a8041c",
+      "title": "Frasier - Saison 8",
+      "programSlug": "frasier---saison-8",
+      "programUrl": "/programme/comedy-central/frasier---saison-8",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-25 06:05:00+00",
+      "endTime": "2026-03-25 06:30:00+00",
+      "date": "2026-03-25"
+    },
+    {
+      "id": "a3afe028-62df-4bc1-bbe9-7d816d01e688",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-25 06:30:00+00",
+      "endTime": "2026-03-25 06:55:00+00",
+      "date": "2026-03-25"
+    },
+    {
+      "id": "e68a6459-0464-4f56-8377-9384520ad975",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-25 06:55:00+00",
+      "endTime": "2026-03-25 07:20:00+00",
+      "date": "2026-03-25"
+    },
+    {
+      "id": "4b93fbf1-2650-4830-9ee0-494759be752d",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-25 07:20:00+00",
+      "endTime": "2026-03-25 07:40:00+00",
+      "date": "2026-03-25"
+    },
+    {
+      "id": "774e201c-476d-4dec-b2a2-57d3dfc16356",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-25 07:40:00+00",
+      "endTime": "2026-03-25 08:05:00+00",
+      "date": "2026-03-25"
+    },
+    {
+      "id": "be626a04-2f9b-4f1a-b63d-b47aa907efb8",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-25 23:55:00+00",
+      "endTime": "2026-03-26 00:15:00+00",
+      "date": "2026-03-26"
+    },
+    {
+      "id": "b2d6c9af-e090-460d-934f-bb07f01f7c0c",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-26 00:15:00+00",
+      "endTime": "2026-03-26 00:40:00+00",
+      "date": "2026-03-26"
+    },
+    {
+      "id": "602d63c8-571e-41b5-b86d-394a840d5c96",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-26 00:40:00+00",
+      "endTime": "2026-03-26 01:00:00+00",
+      "date": "2026-03-26"
+    },
+    {
+      "id": "86655ff8-8d14-4944-86f7-772f67e564c1",
+      "title": "Frasier - Saison 9",
+      "programSlug": "frasier---saison-9",
+      "programUrl": "/programme/comedy-central/frasier---saison-9",
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "startTime": "2026-03-26 01:00:00+00",
+      "endTime": "2026-03-26 01:25:00+00",
+      "date": "2026-03-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:46.548Z",
+  "startYear": 1993,
+  "numberOfSeasons": 11,
+  "cast": [
+    {
+      "qid": "Q196560",
+      "slug": "kelsey-grammer",
+      "name": "Kelsey Grammer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239558",
+      "slug": "jane-leeves",
+      "name": "Jane Leeves",
+      "role": "actor"
+    },
+    {
+      "qid": "Q373976",
+      "slug": "david-hyde-pierce",
+      "name": "David Hyde Pierce",
+      "role": "actor"
+    },
+    {
+      "qid": "Q439446",
+      "slug": "peri-gilpin",
+      "name": "Peri Gilpin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q344655",
+      "slug": "john-mahoney",
+      "name": "John Mahoney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q492396",
+      "slug": "moose",
+      "name": "Moose",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q2295429",
+    "slug": "david-angell",
+    "name": "David Angell",
+    "role": "creator"
+  }
+}

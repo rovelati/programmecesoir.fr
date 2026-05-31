@@ -1,0 +1,71 @@
+{
+  "type": "actor",
+  "slug": "benjamin-lavernhe",
+  "name": "Benjamin Lavernhe",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20Lavernhe.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1984-08-14",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q22248002",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Benjamin_Lavernhe",
+    "imdb": "nm3118835",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-discours",
+      "title": "Le Discours"
+    },
+    {
+      "type": "film",
+      "slug": "en-fanfare",
+      "title": "En fanfare"
+    },
+    {
+      "type": "film",
+      "slug": "le-grand-saut",
+      "title": "Le grand saut"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "445ff83b-a26f-4392-8605-78477c98923d",
+      "title": "Le discours",
+      "programSlug": "le-discours",
+      "programUrl": "/programme/ocs/le-discours",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-19 09:59:00+00",
+      "endTime": "2026-04-19 10:06:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "336ec877-8b68-41d9-9cea-d826bb846024",
+      "title": "Le grand saut",
+      "programSlug": "le-grand-saut",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/le-grand-saut",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-23 15:30:00+00",
+      "endTime": "2026-04-23 15:37:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 09:59:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

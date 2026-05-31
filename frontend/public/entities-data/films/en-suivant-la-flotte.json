@@ -1,0 +1,138 @@
+{
+  "type": "film",
+  "slug": "en-suivant-la-flotte",
+  "title": "En suivant la flotte",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "En suivant la flotte"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm musical"
+  ],
+  "description": "La flotte américaine rentre au port de San Francisco, après un long séjour en mer. Deux camarades, Bake Baker et Bilge Smith, débarquent. Impatients de retrouver la terre ferme, ils décident d'organiser une soirée où musiques, chants et danses seront à l'honneur. Bilge conte fleurette à Connie Martin, jeune professeur de musique, tandis que Bake découvre avec joie que sa partenaire de danse, Sherry, la soeur de Connie, se produit dans le night-club où ils ont échoué. Absorbés par leur discussion, ils s'inscrivent par inadvertance à un concours de danse, qu'ils remportent haut la main. Emporté par son enthousiasme, Bake en fait tant qu'il déclenche le renvoi de Sherry...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Follow%20the%20Fleet%20(1936)%20trailer%205.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "91c6d2d2-1e35-4fc5-aa8c-e399953877e6",
+      "title": "En suivant la flotte",
+      "programSlug": "en-suivant-la-flotte",
+      "programUrl": "/programme/tcm-cinema/en-suivant-la-flotte",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-25 03:25:00+00",
+      "endTime": "2026-04-25 05:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1936,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q100937",
+      "slug": "fred-astaire",
+      "name": "Fred Astaire",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95089",
+      "slug": "ginger-rogers",
+      "name": "Ginger Rogers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295984",
+      "slug": "randolph-scott",
+      "name": "Randolph Scott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1266200",
+      "slug": "harriet-nelson",
+      "name": "Harriet Nelson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q233852",
+      "slug": "betty-grable",
+      "name": "Betty Grable",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3453469",
+      "slug": "russell-hicks",
+      "name": "Russell Hicks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q209662",
+      "slug": "lucille-ball",
+      "name": "Lucille Ball",
+      "role": "actor"
+    },
+    {
+      "qid": "Q725874",
+      "slug": "tony-martin",
+      "name": "Tony Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3037066",
+      "slug": "doris-lloyd",
+      "name": "Doris Lloyd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2868530",
+      "slug": "astrid-allwyn",
+      "name": "Astrid Allwyn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5489839",
+      "slug": "frank-sully",
+      "name": "Frank Sully",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3127788",
+      "slug": "harry-beresford",
+      "name": "Harry Beresford",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q382529",
+    "slug": "mark-sandrich",
+    "name": "Mark Sandrich",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 03:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

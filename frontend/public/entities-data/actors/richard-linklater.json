@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "richard-linklater",
+  "name": "Richard Linklater",
+  "worksCount": 2,
+  "description": "réalisateur, acteur, producteur et scénariste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Linklater%20Blue%20Moon-26%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-07-30",
+  "nationality": "États-Unis",
+  "jobTitle": "scénariste",
+  "externalIds": {
+    "wikidata": "Q40035",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Richard_Linklater",
+    "imdb": "nm0000500",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "a-fleur-de-peau",
+      "title": "A fleur de peau"
+    },
+    {
+      "type": "series",
+      "slug": "beavis-butthead",
+      "title": "Beavis & Butthead"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

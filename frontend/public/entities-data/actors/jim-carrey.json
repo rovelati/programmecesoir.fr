@@ -1,0 +1,109 @@
+{
+  "type": "actor",
+  "slug": "jim-carrey",
+  "name": "Jim Carrey",
+  "worksCount": 6,
+  "description": "acteur et comédien canado-américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jim%20Carrey%202020%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1962-01-17",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q40504",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jim_Carrey",
+    "imdb": "nm0000120",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "menteur-menteur",
+      "title": "Menteur, menteur"
+    },
+    {
+      "type": "film",
+      "slug": "le-grinch",
+      "title": "Le Grinch"
+    },
+    {
+      "type": "film",
+      "slug": "braqueurs-amateurs",
+      "title": "Braqueurs amateurs"
+    },
+    {
+      "type": "film",
+      "slug": "eternal-sunshine-of-the-spotless-mind",
+      "title": "Eternal Sunshine of the Spotless Mind"
+    },
+    {
+      "type": "film",
+      "slug": "ace-ventura-en-afrique",
+      "title": "Ace Ventura en Afrique"
+    },
+    {
+      "type": "film",
+      "slug": "ace-ventura-detective-pour-chiens-et-chats",
+      "title": "Ace Ventura, détective pour chiens et chats"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0cdbad4-3041-4bec-b28c-8f9aac1db096",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "programSlug": "eternal-sunshine-of-the-spotless-mind",
+      "programUrl": "/programme/cine-emotion/eternal-sunshine-of-the-spotless-mind",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-20 13:29:00+00",
+      "endTime": "2026-04-20 15:16:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "944f5cb4-68ec-4619-8641-a81bb4a7bbc7",
+      "title": "Le Grinch",
+      "programSlug": "le-grinch",
+      "programUrl": "/programme/cine-family/le-grinch",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 14:48:00+00",
+      "endTime": "2026-04-21 16:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "512d685c-7b79-415e-96f8-aca9cd0c3631",
+      "title": "Ace Ventura, détective pour chiens et chats",
+      "programSlug": "ace-ventura-detective-pour-chiens-et-chats",
+      "programUrl": "/programme/cine-family/ace-ventura-detective-pour-chiens-et-chats",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 20:10:00+00",
+      "endTime": "2026-04-21 21:34:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "612495e8-9d36-460c-a3ef-7f3f65e6d239",
+      "title": "Ace Ventura en Afrique",
+      "programSlug": "ace-ventura-en-afrique",
+      "programUrl": "/programme/cine-family/ace-ventura-en-afrique",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:01:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 13:29:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "type": "film",
+  "slug": "air-force-bat-21",
+  "title": "Air Force Bat 21",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Air Force Bat 21"
+  ],
+  "genres": [
+    "drame",
+    "film et téléfilm de guerre"
+  ],
+  "description": "Pendant la guerre du Viêtnam, le colonel Iceal Hambleton se porte volontaire pour une mission difficile en territoire ennemi. Alors qu'il survole les postes vietcongs, son avion, touché par un missile, s'écrase. Hambleton, alors seul survivant, se retrouve au milieu des combattants ennemis...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1988,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q150943",
+      "slug": "gene-hackman",
+      "name": "Gene Hackman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192165",
+      "slug": "danny-glover",
+      "name": "Danny Glover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q712914",
+      "slug": "jerry-reed",
+      "name": "Jerry Reed",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2610657",
+      "slug": "erich-anderson",
+      "name": "Erich Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q643106",
+      "slug": "alan-king",
+      "name": "Alan King",
+      "role": "actor"
+    },
+    {
+      "qid": "Q914495",
+      "slug": "robert-zajonc",
+      "name": "Robert Zajonc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q327938",
+      "slug": "david-marshall-grant",
+      "name": "David Marshall Grant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1099307",
+      "slug": "clayton-rohner",
+      "name": "Clayton Rohner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15492466",
+      "slug": "joe-dorsey",
+      "name": "Joe Dorsey",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q735355",
+    "slug": "peter-markle",
+    "name": "Peter Markle",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "dakin-matthews",
+  "name": "Dakin Matthews",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dakin%20Matthews%20in%20Bean.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1940-11-07",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1157743",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dakin_Matthews",
+    "imdb": "nm0559977",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "true-grit",
+      "title": "True Grit"
+    },
+    {
+      "type": "series",
+      "slug": "un-gars-du-queens",
+      "title": "Un gars du Queens"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

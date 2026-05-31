@@ -1,0 +1,97 @@
+{
+  "type": "film",
+  "slug": "les-forcats-de-la-gloire",
+  "title": "Les forçats de la gloire",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Les forçats de la gloire"
+  ],
+  "genres": [
+    "film et téléfilm de guerre",
+    "film ou téléfilm biographique",
+    "drame"
+  ],
+  "description": "Pendant la Seconde Guerre mondiale, Ernie Pyle, correspondant de guerre, rejoint la compagnie C de la 18e infanterie, qui participe à la campagne en Afrique du Nord. Il apprend peu à peu à connaître les soldats qu'il côtoie, et leurs personnalités enrichissent les articles qu'il écrit à son retour aux Etats-Unis. Peu de temps après, il retrouve les mêmes hommes en Italie. Il accompagne les hommes lors des batailles, souvent terribles, de San Vittorio et Cassino. C'est en discutant avec le lieutenant Bill Walker qu'il découvre la solitude d'un officier placé face à des décisions souvent difficiles...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernie%20Pyle's%20'Story%20of%20G.I.%20Joe'%20(1945%20poster).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "55c8c1fa-15b4-4952-823b-eb5ba250af3f",
+      "title": "Les forçats de la gloire",
+      "programSlug": "les-forcats-de-la-gloire",
+      "programUrl": "/programme/cine-classic/les-forcats-de-la-gloire",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 13:40:00+00",
+      "endTime": "2026-04-23 15:35:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1945,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q343633",
+      "slug": "burgess-meredith",
+      "name": "Burgess Meredith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16472",
+      "slug": "robert-mitchum",
+      "name": "Robert Mitchum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2604314",
+      "slug": "freddie-steele",
+      "name": "Freddie Steele",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3565550",
+      "slug": "wally-cassell",
+      "name": "Wally Cassell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3568837",
+      "slug": "william-murphy",
+      "name": "William Murphy",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q290962",
+    "slug": "william-a-wellman",
+    "name": "William A. Wellman",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 13:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

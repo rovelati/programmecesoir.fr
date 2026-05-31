@@ -1,0 +1,97 @@
+{
+  "type": "actor",
+  "slug": "dean-stockwell",
+  "name": "Dean Stockwell",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dean%20Stockwell%2008%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1936-03-05",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q345212",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dean_Stockwell",
+    "imdb": "nm0001777",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "code-quantum",
+      "title": "Code Quantum"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2d145f08-f226-40fd-b480-da0287ffc5d6",
+      "title": "Code Quantum",
+      "programSlug": "code-quantum",
+      "programUrl": "/programme/gulli/code-quantum",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 19:05:00+00",
+      "endTime": "2026-04-19 19:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9c36b845-9a36-4dbf-beec-3df0a411c606",
+      "title": "Code Quantum",
+      "programSlug": "code-quantum",
+      "programUrl": "/programme/gulli/code-quantum",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 19:50:00+00",
+      "endTime": "2026-04-19 20:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "549df598-54ee-452e-a90a-bdd2f16243c5",
+      "title": "Code Quantum",
+      "programSlug": "code-quantum",
+      "programUrl": "/programme/gulli/code-quantum",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 20:45:00+00",
+      "endTime": "2026-04-19 21:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "039adbfa-a990-4961-9515-984bcf82f9d9",
+      "title": "Code Quantum",
+      "programSlug": "code-quantum",
+      "programUrl": "/programme/gulli/code-quantum",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 21:40:00+00",
+      "endTime": "2026-04-19 22:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a13fe8cb-b2aa-418b-9414-e899978143c1",
+      "title": "Code Quantum - Saison 2",
+      "programSlug": "code-quantum-saison-2",
+      "programUrl": "/programme/gulli/code-quantum-saison-2",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 22:35:00+00",
+      "endTime": "2026-04-19 23:20:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 19:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

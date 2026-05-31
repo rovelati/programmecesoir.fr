@@ -1,0 +1,124 @@
+{
+  "type": "film",
+  "slug": "mon-oncle",
+  "title": "Mon oncle",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Mon oncle"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Monsieur Arpel est féru de modernisme. Directeur d'une fabrique de tuyaux en plastique, il a doté sa maison de tous les perfectionnements techniques possibles à ce jour. Pourtant, cette maison pourvue de robots est loin d'apporter une atmosphère détendue à son fils, Gérard, 10 ans. Le beau-frère de monsieur Arpel, monsieur Hulot, fantasque et bohême, occupe un modeste deux pièces dans un quartier populaire. Il invite de temps à autre son jeune neveu, dressé à l'ordre rigoureux qui règne chez lui, à découvrir son domaine de fantaisie et de liberté. Sa soeur, maintenant madame Arpel, espère secrètement qu'il épousera sa voisine, mais c'est compter sans l'esprit discrètement récalcitrant et frondeur de Hulot, résolument épris de liberté...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20arpel%20104.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1958,
+  "durationMinutes": 117,
+  "cast": [
+    {
+      "qid": "Q51549",
+      "slug": "jacques-tati",
+      "name": "Jacques Tati",
+      "role": "actor"
+    },
+    {
+      "qid": "Q88317",
+      "slug": "jean-pierre-zola",
+      "name": "Jean-Pierre Zola",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2900264",
+      "slug": "betty-schneider",
+      "name": "Betty Schneider",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3023086",
+      "slug": "denise-peronne",
+      "name": "Denise Péronne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3579848",
+      "slug": "edouard-francomme",
+      "name": "Édouard Francomme",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165211",
+      "slug": "jean-claude-remoleux",
+      "name": "Jean-Claude Rémoleux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165763",
+      "slug": "jean-francois-martial",
+      "name": "Jean-François Martial",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3265504",
+      "slug": "lucien-fregis",
+      "name": "Lucien Frégis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3302222",
+      "slug": "max-martel",
+      "name": "Max Martel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4382017",
+      "slug": "nicolas-bataille",
+      "name": "Nicolas Bataille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3341121",
+      "slug": "nicole-regnault",
+      "name": "Nicole Régnault",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1860448",
+      "slug": "pierre-etaix",
+      "name": "Pierre Étaix",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51549",
+    "slug": "jacques-tati",
+    "name": "Jacques Tati",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

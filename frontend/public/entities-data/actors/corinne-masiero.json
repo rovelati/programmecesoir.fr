@@ -1,0 +1,59 @@
+{
+  "type": "actor",
+  "slug": "corinne-masiero",
+  "name": "Corinne Masiero",
+  "worksCount": 3,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Corinne%20Masiero%20Cabourg%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-02-03",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2997347",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Corinne_Masiero",
+    "imdb": "nm0556387",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-hermine",
+      "title": "L'hermine"
+    },
+    {
+      "type": "film",
+      "slug": "11-6",
+      "title": "11.6"
+    },
+    {
+      "type": "film",
+      "slug": "mon-chat-et-moi-la-grande-aventure-de-rrou",
+      "title": "Mon chat et moi, la grande aventure de Rroû"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "36dd1f32-6f2d-4cf5-97f8-d4075168273e",
+      "title": "Mon chat et moi, la grande aventure de Rroû",
+      "programSlug": "mon-chat-et-moi-la-grande-aventure-de-rrou",
+      "programUrl": "/programme/cine-family/mon-chat-et-moi-la-grande-aventure-de-rrou",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 02:42:00+00",
+      "endTime": "2026-04-24 04:02:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-24 02:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

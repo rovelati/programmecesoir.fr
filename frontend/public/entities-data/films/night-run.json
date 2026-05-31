@@ -1,0 +1,174 @@
+{
+  "type": "film",
+  "slug": "night-run",
+  "title": "Night Run",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Night Run"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm criminel"
+  ],
+  "description": "A Brooklyn, le tueur à gages vieillissant Jimmy Conlon est bourrelé de remords, fatigué d'être traqué depuis trente ans par le même policier et enclin à trouver sa consolation dans l'alcool. Lorsqu'il abat Danny, le fils de son patron Shawn Maguire, pour protéger son propre fils, il doit faire un choix...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a0c52da9-af7b-4ef3-b450-b74ee2ecf97c",
+      "title": "Night Run",
+      "programSlug": "night-run",
+      "programUrl": "/programme/cine-frisson/night-run",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 20:34:00+00",
+      "endTime": "2026-04-22 22:22:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e5ea0f2a-1c28-434c-9b94-c218155ad40d",
+      "title": "Night Run",
+      "programSlug": "night-run",
+      "programUrl": "/programme/cine-frisson/night-run",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 13:41:00+00",
+      "endTime": "2026-04-25 15:35:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 114,
+  "cast": [
+    {
+      "qid": "Q58444",
+      "slug": "liam-neeson",
+      "name": "Liam Neeson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28262",
+      "slug": "joel-kinnaman",
+      "name": "Joel Kinnaman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104791",
+      "slug": "ed-harris",
+      "name": "Ed Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q611096",
+      "slug": "boyd-holbrook",
+      "name": "Boyd Holbrook",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447960",
+      "slug": "bruce-mcgill",
+      "name": "Bruce McGill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240355",
+      "slug": "genesis-rodriguez",
+      "name": "Génesis Rodríguez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q320052",
+      "slug": "vincent-d-onofrio",
+      "name": "Vincent D'Onofrio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q258246",
+      "slug": "lois-smith",
+      "name": "Lois Smith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q286022",
+      "slug": "common",
+      "name": "Common",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20740615",
+      "slug": "beau-knapp",
+      "name": "Beau Knapp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q454379",
+      "slug": "patricia-kalember",
+      "name": "Patricia Kalember",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3419812",
+      "slug": "rasha-bukvic",
+      "name": "Rasha Bukvic",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1368141",
+      "slug": "holt-mccallany",
+      "name": "Holt McCallany",
+      "role": "actor"
+    },
+    {
+      "qid": "Q10879432",
+      "slug": "malcolm-goodwin",
+      "name": "Malcolm Goodwin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5394335",
+      "slug": "ernie-anastos",
+      "name": "Ernie Anastos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3531748",
+      "slug": "tony-devon",
+      "name": "Tony Devon",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q357183",
+    "slug": "jaume-collet-serra",
+    "name": "Jaume Collet-Serra",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 20:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

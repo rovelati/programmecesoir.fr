@@ -1,0 +1,160 @@
+{
+  "type": "film",
+  "slug": "inferno",
+  "title": "Inferno",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Inferno"
+  ],
+  "genres": [
+    "thriller",
+    "drame",
+    "film ou téléfilm criminel",
+    "film ou téléfilm à énigme",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Robert Langdon se réveille dans un hopital à Florence en ayant oublié ce qu'il s'est passé ces dernières 48 heures. Le célèbre professeur de symbologie se retrouve en possession d'un tube, que des personnes mal intentionnées veulent récuperer. Il s'agit en fait d'une carte, un jeu de piste pour retrouver un virus inventé par Dante...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2016,
+  "durationMinutes": 121,
+  "cast": [
+    {
+      "qid": "Q2263",
+      "slug": "tom-hanks",
+      "name": "Tom Hanks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234447",
+      "slug": "felicity-jones",
+      "name": "Felicity Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438580",
+      "slug": "sidse-babett-knudsen",
+      "name": "Sidse Babett Knudsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q360927",
+      "slug": "irfan-khan",
+      "name": "Irfan Khan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q357387",
+      "slug": "omar-sy",
+      "name": "Omar Sy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311804",
+      "slug": "ben-foster",
+      "name": "Ben Foster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19834546",
+      "slug": "ana-ularu",
+      "name": "Ana Ularu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18202739",
+      "slug": "fortunato-cerlino",
+      "name": "Fortunato Cerlino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1470086",
+      "slug": "attila-arpa",
+      "name": "Attila Árpa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3749413",
+      "slug": "francesca-inaudi",
+      "name": "Francesca Inaudi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7183135",
+      "slug": "philip-arditti",
+      "name": "Philip Arditti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q957363",
+      "slug": "vincent-riotta",
+      "name": "Vincent Riotta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20171862",
+      "slug": "bjorn-freiberg",
+      "name": "Björn Freiberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24279370",
+      "slug": "peter-linka",
+      "name": "Peter Linka",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23908396",
+      "slug": "balint-adorjani",
+      "name": "Bálint Adorjáni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3570718",
+      "slug": "xavier-laurent",
+      "name": "Xavier Laurent",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q103646",
+    "slug": "ron-howard",
+    "name": "Ron Howard",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

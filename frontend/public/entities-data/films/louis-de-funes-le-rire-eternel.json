@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "louis-de-funes-le-rire-eternel",
+  "title": "Louis de Funès, le rire éternel",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Louis de Funès, le rire éternel"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "A l'occasion des quarante ans de la disparition de Louis de Funès, ce documentaire signé Jacques Pessis rend hommage au comédien culte en retraçant sa carrière à travers des extraits de ses plus grands succès au cinéma, du Petit Baigneur à La Grande Vadrouille sans oublier La Folie des Grandeurs, et au music-hall, des archives inédites, ainsi que des témoignages de personnalités et de proches.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "comedie",
+      "channelName": "Comedie+",
+      "channelSlug": "comedie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/comedie.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e9f24b69-0933-4a24-ac73-f5b248e71276",
+      "title": "Louis de Funès, le rire éternel",
+      "programSlug": "louis-de-funes-le-rire-eternel",
+      "programUrl": "/programme/comedie/louis-de-funes-le-rire-eternel",
+      "channelId": "comedie",
+      "channelName": "Comedie+",
+      "channelSlug": "comedie",
+      "startTime": "2026-04-24 23:44:00+00",
+      "endTime": "2026-04-25 01:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-24 23:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

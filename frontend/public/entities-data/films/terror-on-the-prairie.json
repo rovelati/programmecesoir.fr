@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "terror-on-the-prairie",
+  "title": "Terror on the Prairie",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Terror on the Prairie"
+  ],
+  "genres": [
+    "drame",
+    "thriller",
+    "western"
+  ],
+  "description": "Dans le Montana en 1875, les McAllister, une famille de pionniers, s'installent dans une ferme afin de cultiver la terre et faire de l'élevage. Mais les nouveaux venus se trouvent bientôt confrontés aux hors-la-loi qui terrorisent la région. Les mercenaires ont décidé de mener la vie dure aux McAllister...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 107,
+  "cast": [
+    {
+      "qid": "Q233017",
+      "slug": "gina-carano",
+      "name": "Gina Carano",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q14087086",
+    "slug": "michael-polish",
+    "name": "Michael Polish",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

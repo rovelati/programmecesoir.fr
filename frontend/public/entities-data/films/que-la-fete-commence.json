@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "que-la-fete-commence",
+  "title": "Que la fête commence",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Que la fête commence"
+  ],
+  "genres": [
+    "film ou téléfilm historique"
+  ],
+  "description": "En 1719, Philippe d'Orléans assure depuis quatre ans la régence du royaume de France. En Bretagne, où sévit la famine, une révolte éclate contre le pouvoir. Un nobliau ruiné, le marquis de Pontcallec, veut soulever la province. Il se rend à Paris, pour y rencontrer Philippe d'Orléans. Celui-ci est très occupé, la nuit, par de petits soupers galants et de fines débauches, mais gouverne le jour, en compagnie de l'abbé Dubois, son complice en parties fines. Dubois poursuit ses propres ambitions, un chapeau d'archevêque et l'alliance anglaise, quitte à écraser dans le sang une révolte bretonne balbutiante et peu dangereuse. Pontcallec est donc arrêté à son arrivée à Paris et condamné à la déportation vers la Louisiane...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Philippe%20d'Orl%C3%A9ans%2C%20Duke%20of%20Orl%C3%A9ans%20in%20armour%20by%20Jean-Baptiste%20Santerre.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1975,
+  "durationMinutes": 114,
+  "cast": [
+    {
+      "qid": "Q106482",
+      "slug": "philippe-noiret",
+      "name": "Philippe Noiret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106555",
+      "slug": "jean-rochefort",
+      "name": "Jean Rochefort",
+      "role": "actor"
+    },
+    {
+      "qid": "Q739521",
+      "slug": "jean-pierre-marielle",
+      "name": "Jean-Pierre Marielle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q451637",
+      "slug": "christine-pascal",
+      "name": "Christine Pascal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q370457",
+      "slug": "jacques-hilling",
+      "name": "Jacques Hilling",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2826979",
+      "slug": "agnes-chateau",
+      "name": "Agnès Château",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2834938",
+      "slug": "alfred-adam",
+      "name": "Alfred Adam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848982",
+      "slug": "andree-tainsy",
+      "name": "Andrée Tainsy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2897364",
+      "slug": "bernadette-le-sache",
+      "name": "Bernadette Le Saché",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2898151",
+      "slug": "bernard-lajarrige",
+      "name": "Bernard Lajarrige",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2925481",
+      "slug": "brigitte-rouan",
+      "name": "Brigitte Roüan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2926620",
+      "slug": "bruno-balp",
+      "name": "Bruno Balp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310692",
+      "slug": "christian-clavier",
+      "name": "Christian Clavier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q778573",
+      "slug": "daniel-duval",
+      "name": "Daniel Duval",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1433258",
+      "slug": "francois-dyrek",
+      "name": "François Dyrek",
+      "role": "actor"
+    },
+    {
+      "qid": "Q474711",
+      "slug": "georges-riquier",
+      "name": "Georges Riquier",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q337226",
+    "slug": "bertrand-tavernier",
+    "name": "Bertrand Tavernier",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

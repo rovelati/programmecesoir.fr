@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "l-histoire-de-souleymane",
+  "title": "L'Histoire de Souleymane",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'Histoire de Souleymane"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Tandis qu'il pédale dans les rues de Paris pour livrer des repas, Souleymane, un jeune sans-papiers originaire de Guinée, répète inlassablement son histoire. Dans deux jours, il doit passer son entretien de demande d'asile, le sésame pour obtenir des papiers. Mais Souleymane ne se sent pas prêt....",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 94,
+  "cast": [
+    {
+      "qid": "Q130496361",
+      "slug": "abou-sangare",
+      "name": "Abou Sangare",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3341936",
+      "slug": "nina-meurisse",
+      "name": "Nina Meurisse",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q17350744",
+    "slug": "boris-lojkine",
+    "name": "Boris Lojkine",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

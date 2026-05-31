@@ -1,0 +1,168 @@
+{
+  "type": "film",
+  "slug": "undercover",
+  "title": "Undercover",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Undercover"
+  ],
+  "genres": [
+    "drame",
+    "thriller"
+  ],
+  "description": "Sous le pseudonyme d'Arantxa Berradre, une policière infiltre les cercles de la gauche nationaliste basque. Après plusieurs années, elle obtient enfin ce qu'elle espérait : l'ETA la contacte directement. La jeune femme parvient à gagner la confiance des terroristes et collecte des informations cruciales...",
+  "descriptionAi": "Ce drame thriller captivant plonge dans l'univers tendu et paranoïaque de l'infiltration policière. Sous le pseudonyme d'Arantxa Berradre, une jeune femme s'immerge pendant des années dans les cercles nationalistes basques, jusqu'à frôler le noyau dur de l'ETA. L'ambiance, étouffante et minutieusement reconstituée, repose sur un équilibre précaire où chaque regard et chaque silence peut tout faire basculer. L'intérêt réside dans cette plongée psychologique vertigineuse, explorant le coût humain d'un mensonge qui devient identité, et la frontière de plus en plus floue entre l'agent et sa cible. Une tension narrative implacable, portée par une performance remarquable, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "31b7e24f-37d8-4d2e-ae86-b49cd161384c",
+      "title": "Undercover",
+      "programSlug": "undercover",
+      "programUrl": "/programme/canal-box-office/undercover",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 13:50:00+00",
+      "endTime": "2026-04-20 15:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4fc18d90-9c81-463d-8610-705b18eaed9b",
+      "title": "Undercover",
+      "programSlug": "undercover",
+      "programUrl": "/programme/canal-box-office/undercover",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-24 09:35:00+00",
+      "endTime": "2026-04-24 11:30:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:43.541Z",
+  "year": 2024,
+  "durationMinutes": 118,
+  "cast": [
+    {
+      "qid": "Q61467027",
+      "slug": "carolina-yuste",
+      "name": "Carolina Yuste",
+      "role": "actor"
+    },
+    {
+      "qid": "Q930148",
+      "slug": "luis-tosar",
+      "name": "Luis Tosar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6165435",
+      "slug": "victor-clavijo",
+      "name": "Víctor Clavijo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q64362303",
+      "slug": "inigo-gastesi",
+      "name": "Iñigo Gastesi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12387076",
+      "slug": "diego-anido",
+      "name": "Diego Anido",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3260048",
+      "slug": "nausicaa-bonnin",
+      "name": "Nausicaa Bonnín",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6071816",
+      "slug": "pepe-ocio",
+      "name": "Pepe Ocio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6068440",
+      "slug": "pedro-casablanc",
+      "name": "Pedro Casablanc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41220",
+      "slug": "asier-hernandez",
+      "name": "Asier Hernández",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106097927",
+      "slug": "yune-nogueiras",
+      "name": "Yune Nogueiras",
+      "role": "actor"
+    },
+    {
+      "qid": "Q100257775",
+      "slug": "jorge-monge",
+      "name": "Jorge Monge",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q52269021",
+    "slug": "arantxa-echevarria",
+    "name": "Arantxa Echevarría",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 13:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

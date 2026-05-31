@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "nina",
+  "title": "Nina",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Nina"
+  ],
+  "genres": [
+    "Film",
+    "Cinéma"
+  ],
+  "description": "Nina accepte de garder un chien tout l'été à Rome. Alors qu'elle pensait ne plus jamais retomber amoureuse, tout change lorsqu'elle rencontre un musicien.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "30ab852b-6e9f-49de-b35f-09f2a644e2ad",
+      "title": "Nina",
+      "programSlug": "nina",
+      "programUrl": "/programme/eurochannel/nina",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 22:00:00+00",
+      "endTime": "2026-04-19 23:20:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 22:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

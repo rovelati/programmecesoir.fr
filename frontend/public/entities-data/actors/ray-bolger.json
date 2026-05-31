@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "ray-bolger",
+  "name": "Ray Bolger",
+  "worksCount": 1,
+  "description": "acteur américain (1904-1987)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Bolger%201942.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1904-01-10",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q240886",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ray_Bolger",
+    "imdb": "nm0001961",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-demoiselles-harvey",
+      "title": "Les demoiselles Harvey"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42470116-e985-4491-9932-ea53e3ff43f4",
+      "title": "Les demoiselles Harvey",
+      "programSlug": "les-demoiselles-harvey",
+      "programUrl": "/programme/cine-classic/les-demoiselles-harvey",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-19 12:10:00+00",
+      "endTime": "2026-04-19 13:48:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 12:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

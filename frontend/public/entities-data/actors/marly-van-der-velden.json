@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "marly-van-der-velden",
+  "name": "Marly van der Velden",
+  "worksCount": 1,
+  "description": "actrice néerlandaise",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marly%20van%20der%20Velden.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1988-01-06",
+  "nationality": "Royaume des Pays-Bas",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q4974802",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Marly_van_der_Velden",
+    "imdb": "nm1942606",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "loving-ibiza",
+      "title": "Loving Ibiza"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e44b5a33-a9ca-49ac-bf2f-927cbec12c71",
+      "title": "Loving Ibiza",
+      "programSlug": "loving-ibiza",
+      "programUrl": "/programme/eurochannel/loving-ibiza",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 13:25:00+00",
+      "endTime": "2026-04-20 15:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "45737d6c-e385-47fe-a39f-b7eb04f16e96",
+      "title": "Loving Ibiza",
+      "programSlug": "loving-ibiza",
+      "programUrl": "/programme/eurochannel/loving-ibiza",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 10:15:00+00",
+      "endTime": "2026-04-23 12:10:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 13:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

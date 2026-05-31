@@ -1,0 +1,114 @@
+{
+  "type": "actor",
+  "slug": "russell-crowe",
+  "name": "Russell Crowe",
+  "worksCount": 7,
+  "description": "acteur et réalisateur néo-zélandais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Russell%20Crowe%20on%20the%20Green%20Carpet%20at%20the%202025%20Zurich%20Film%20Festival%2006%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-04-07",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q129817",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Russell_Crowe",
+    "imdb": "nm0000128",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-a-confidential",
+      "title": "L.A. Confidential"
+    },
+    {
+      "type": "film",
+      "slug": "un-homme-d-exception",
+      "title": "Un homme d'exception"
+    },
+    {
+      "type": "film",
+      "slug": "man-of-steel",
+      "title": "Man of Steel"
+    },
+    {
+      "type": "film",
+      "slug": "the-nice-guys",
+      "title": "The Nice Guys"
+    },
+    {
+      "type": "film",
+      "slug": "kraven-the-hunter",
+      "title": "Kraven the Hunter"
+    },
+    {
+      "type": "film",
+      "slug": "les-miserables",
+      "title": "Les misérables"
+    },
+    {
+      "type": "film",
+      "slug": "3h10-pour-yuma",
+      "title": "3h10 pour Yuma"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7752c2d-8827-443c-9054-c9fc5642a8b9",
+      "title": "Kraven the Hunter",
+      "programSlug": "kraven-the-hunter",
+      "programUrl": "/programme/canal-box-office/kraven-the-hunter",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 09:10:00+00",
+      "endTime": "2026-04-19 11:14:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b1c6640e-5371-434d-a569-01e9fd4211a2",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/canal-grand-ecran/man-of-steel",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 12:51:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "58ff2527-6de2-41e5-933b-9240d15074a4",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 14:59:00+00",
+      "endTime": "2026-04-20 17:18:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "24919d3f-8d16-45dd-b094-513b5060d653",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 11:30:00+00",
+      "endTime": "2026-04-23 13:48:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 09:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

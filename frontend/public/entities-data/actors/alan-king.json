@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "alan-king",
+  "name": "Alan King",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alan%20king%201966.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1927-12-26",
+  "nationality": "États-Unis",
+  "jobTitle": "écrivain ou écrivaine",
+  "externalIds": {
+    "wikidata": "Q643106",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alan_King",
+    "imdb": "nm0454418",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "air-force-bat-21",
+      "title": "Air Force Bat 21"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

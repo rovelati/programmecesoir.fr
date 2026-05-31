@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "memoires-d-un-escargot",
+  "title": "Mémoires d'un escargot",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Mémoires d'un escargot"
+  ],
+  "genres": [
+    "série d'animation pour adultes",
+    "drame"
+  ],
+  "description": "Après la mort brutale de son père, l'existence innocente et heureuse de Grace Pudel, une collectionneuse d'escargots et passionnée de lecture, vole soudain en éclats. Arrachée à son frère jumeau Gilbert, elle atterrit dans une famille d'accueil qui vit à l'autre bout de l'Australie. Suspendue aux lettres de son frère, ignorée par ses tuteurs et harcelée par ses camarades de classe, Grace s'enfonce dans le désespoir. Sa rencontre avec Pinky, une octogénaire excentrique, va tout changer. A ses côtés, Grace retrouve goût à la vie, réapprend à aimer et sort peu à peu de sa coquille…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 94,
+  "cast": [],
+  "director": {
+    "qid": "Q349248",
+    "slug": "adam-elliot",
+    "name": "Adam Elliot",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

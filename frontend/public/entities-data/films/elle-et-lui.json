@@ -1,0 +1,146 @@
+{
+  "type": "film",
+  "slug": "elle-et-lui",
+  "title": "Elle et lui",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Elle et lui"
+  ],
+  "genres": [
+    "comédie romantique",
+    "drame"
+  ],
+  "description": "Michel Marnay, un play-boy, et Terry McKay, une ancienne danseuse de cabaret, se rencontrent à l'occasion d'une croisière. Bien que déjà engagés tous les deux, ils s'éprennent l'un de l'autre et finissent par se l'avouer. Ils se donnent rendez-vous six mois plus tard au dernier étage de l'Empire State Building. Entretemps, chacun devra rompre ses fiançailles et faire le ménage dans sa vie. Michel, de surcroît, s'emploiera à trouver un métier stable et bien rémunéré. Le jour dit, Terry est victime d'un accident. Elle reste infirme et disparaît sans avertir Michel pour que celui-ci ne se fasse pas de soucis et qu'il ne se sente pas obligé de s'occuper d'elle...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deborah%20Kerr%20in%20An%20Affair%20to%20Remember%20trailer.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b5a393c-cb73-4b59-8c85-4bc4be080ce6",
+      "title": "Elle et lui",
+      "programSlug": "elle-et-lui",
+      "programUrl": "/programme/cine-classic/elle-et-lui",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-21 04:12:00+00",
+      "endTime": "2026-04-21 05:37:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1957,
+  "durationMinutes": 119,
+  "cast": [
+    {
+      "qid": "Q83410",
+      "slug": "cary-grant",
+      "name": "Cary Grant",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104146",
+      "slug": "deborah-kerr",
+      "name": "Deborah Kerr",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1379341",
+      "slug": "richard-denning",
+      "name": "Richard Denning",
+      "role": "actor"
+    },
+    {
+      "qid": "Q264713",
+      "slug": "cathleen-nesbitt",
+      "name": "Cathleen Nesbitt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1439141",
+      "slug": "fortunio-bonanova",
+      "name": "Fortunio Bonanova",
+      "role": "actor"
+    },
+    {
+      "qid": "Q443110",
+      "slug": "minta-durfee",
+      "name": "Minta Durfee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q439216",
+      "slug": "neva-patterson",
+      "name": "Neva Patterson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2831802",
+      "slug": "alberto-morin",
+      "name": "Alberto Morin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q288547",
+      "slug": "matt-moore",
+      "name": "Matt Moore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3037157",
+      "slug": "dorothy-adams",
+      "name": "Dorothy Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21091666",
+      "slug": "charles-watts",
+      "name": "Charles Watts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43024948",
+      "slug": "louis-mercier",
+      "name": "Louis Mercier",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q332530",
+    "slug": "leo-mccarey",
+    "name": "Leo McCarey",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 04:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

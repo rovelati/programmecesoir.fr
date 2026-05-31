@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "jean-pierre-melville",
+  "name": "Jean-Pierre Melville",
+  "worksCount": 2,
+  "description": "réalisateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1917-10-20",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q168693",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Pierre_Melville",
+    "imdb": "nm0578483",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-doulos",
+      "title": "Le doulos"
+    },
+    {
+      "type": "film",
+      "slug": "a-bout-de-souffle",
+      "title": "A bout de souffle"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b71eeea-aefe-4600-8afd-52e96c7bc3df",
+      "title": "A bout de souffle",
+      "programSlug": "a-bout-de-souffle",
+      "programUrl": "/programme/cine-classic/a-bout-de-souffle",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-23 22:28:00+00",
+      "endTime": "2026-04-23 23:56:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 22:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

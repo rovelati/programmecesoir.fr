@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "george-irving",
+  "name": "George Irving",
+  "worksCount": 1,
+  "description": "acteur et cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Irving%20in%20Craig's%20Wife%20(1928).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1874-10-05",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q152941",
+    "wikipedia": "https://fr.wikipedia.org/wiki/George_Irving_(acteur)",
+    "imdb": "nm0410271",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-impossible-monsieur-bebe",
+      "title": "L'impossible monsieur Bébé"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ae83289f-35be-444e-aa94-ab506a0af994",
+      "title": "L'impossible monsieur Bébé",
+      "programSlug": "l-impossible-monsieur-bebe",
+      "programUrl": "/programme/tcm-cinema/l-impossible-monsieur-bebe",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-19 09:15:00+00",
+      "endTime": "2026-04-19 10:55:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 09:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

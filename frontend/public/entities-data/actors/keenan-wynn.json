@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "keenan-wynn",
+  "name": "Keenan Wynn",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Keenan%20Wynn%20-%20publicity.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1916-07-27",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q946859",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Keenan_Wynn",
+    "imdb": "nm0943978",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-vallee-du-bonheur",
+      "title": "La vallée du bonheur"
+    },
+    {
+      "type": "film",
+      "slug": "loving",
+      "title": "Loving"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

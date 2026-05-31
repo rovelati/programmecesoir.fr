@@ -1,0 +1,113 @@
+{
+  "type": "film",
+  "slug": "wild-rose",
+  "title": "Wild Rose",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Wild Rose"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Rose-Lynn Harlan, à la jeunesse tumultueuse, vient de passer quelques mois en prison. Pendant ce temps, Marion, sa mère, a pris soin de ses enfants. Les retrouvailles sont assez froides. Marion reproche à sa fille d'être irresponsable. Rose-Lynn, de son côté, a des rêves plein la tête. Elle veut devenir chanteuse de country. Pour parvenir à ses fins, la jeune femme doit quitter Glasgow et se rentre à Nashville, berceau de ce genre musical. Exaspérée, Marion veut la ramener à la réalité et qu'elle joue enfin son rôle de mère...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "26a98908-1abc-4d69-a66b-2d8659b291e8",
+      "title": "Wild Rose",
+      "programSlug": "wild-rose",
+      "programUrl": "/programme/cine-emotion/wild-rose",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-21 13:21:00+00",
+      "endTime": "2026-04-21 14:58:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7bb4aa3b-4b08-40d8-8b6b-5894943fc53b",
+      "title": "Wild Rose",
+      "programSlug": "wild-rose",
+      "programUrl": "/programme/cine-emotion/wild-rose",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-24 04:51:00+00",
+      "endTime": "2026-04-24 06:31:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q6187642",
+      "slug": "jessie-buckley",
+      "name": "Jessie Buckley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228747",
+      "slug": "julie-walters",
+      "name": "Julie Walters",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238864",
+      "slug": "sophie-okonedo",
+      "name": "Sophie Okonedo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3806811",
+      "slug": "jamie-sives",
+      "name": "Jamie Sives",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5181301",
+      "slug": "craig-parkinson",
+      "name": "Craig Parkinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28039830",
+      "slug": "james-harkness",
+      "name": "James Harkness",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q16220945",
+    "slug": "tom-harper",
+    "name": "Tom Harper",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 13:21:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

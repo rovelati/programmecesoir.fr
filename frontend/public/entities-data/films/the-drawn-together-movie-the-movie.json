@@ -1,0 +1,53 @@
+{
+  "type": "film",
+  "slug": "the-drawn-together-movie-the-movie",
+  "title": "The Drawn Together Movie: The Movie!",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "The Drawn Together Movie: The Movie!"
+  ],
+  "genres": [
+    "comédie",
+    "film LGBT",
+    "film ou téléfilm musical"
+  ],
+  "description": "Quand Foxxy Love remarque que ses gros mots et ceux de ses colocataires ne sont pas censurés, elle comprend que leur émission a été annulée. Elle décide de revenir à l'antenne, nous offrant une télé-réalité \"Drawn Together\" plus déjantée que jamais.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "channelNumber": null,
+      "logoUrl": "/loghi/comedy-central.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2010,
+  "durationMinutes": 71,
+  "cast": [],
+  "director": {
+    "qid": "Q18150090",
+    "slug": "greg-franklin",
+    "name": "Greg Franklin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

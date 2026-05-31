@@ -1,0 +1,317 @@
+{
+  "type": "series",
+  "slug": "icarly",
+  "title": "iCarly",
+  "airingsCount": 96,
+  "sourceTitles": [
+    "iCarly",
+    "iCarly - Saison 1",
+    "iCarly - Saison 2"
+  ],
+  "genres": [
+    "sitcom"
+  ],
+  "description": "L'équipe d'iCarly est invitée au Japon pour participer à une compétition internationale qui rassemble l'élite des émissions diffusées sur Internet. Après un vol plutôt agité et un saut en chute libre imprévu, l'équipe se lie d'amitié avec ses rivaux japonais. Mais les choses tournent mal lorsque leurs nouveaux amis nippons font tout pour sortir Carly et ses amis de la compétition, allant même jusqu'à les kidnapper. Perdus dans un pays étranger, Carly, Sam et Freddie doivent tout faire pour se rendre sains et saufs à la compétition et dénoncer leurs kidnappeurs...",
+  "descriptionAi": "Cette sitcom moderne suit les aventures déjantées de Carly et ses amis, créateurs d'une émission web à succès. L'ambiance est dynamique et pleine d'humour, mêlant comédie de situation et moments de complicité. Le reboot captive par son énergie et ses scénarios loufoques qui plongent le trio dans des péripéties improbables, comme cette compétition internationale au Japon qui vire au cauchemar. L'alchimie entre les personnages et leur résilience face aux obstacles, ici un kidnapping, rend la série aussi drôle que prenante. Une comédie rafraîchissante sur l'amitié et les déboires de la célébrité en ligne, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon.png",
+      "airingsCount": 32
+    },
+    {
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeonplus1fr.svg",
+      "airingsCount": 32
+    },
+    {
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon1.svg",
+      "airingsCount": 32
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8f868b7d-adc6-4bcd-964e-26bc9b368360",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeon/icarly",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 19:01:00+00",
+      "endTime": "2026-04-19 19:24:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9b7cdb27-f70e-4706-b4f8-14b7f934e7d8",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeon/icarly",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 19:24:00+00",
+      "endTime": "2026-04-19 19:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d889c801-f55b-49eb-bc48-127a2f3cd1a0",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeonplus1fr/icarly",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 20:01:00+00",
+      "endTime": "2026-04-19 20:24:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "57403f40-d8d8-4f56-a188-69951deb71c8",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeon1/icarly",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 20:01:00+00",
+      "endTime": "2026-04-19 20:24:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "436944fc-97a1-43c9-8e5d-024da73a95fc",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeonplus1fr/icarly",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 20:24:00+00",
+      "endTime": "2026-04-19 20:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "18e508ee-4b62-43ae-a98d-783893e881f0",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeon1/icarly",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 20:24:00+00",
+      "endTime": "2026-04-19 20:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6c1b8f63-8df9-4d37-9e99-292d9c9b0fa5",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeon/icarly",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 18:59:00+00",
+      "endTime": "2026-04-20 19:24:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f7fc2535-5139-4e16-92f4-6a185c461ec5",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeon/icarly",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 19:24:00+00",
+      "endTime": "2026-04-20 19:49:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7f4bcdfc-7369-4897-aa62-f96af0ca7aa6",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeonplus1fr/icarly",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 19:59:00+00",
+      "endTime": "2026-04-20 20:24:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "312e1584-0b8e-46f9-ad4a-e1eb85af7494",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeonplus1fr/icarly",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 20:24:00+00",
+      "endTime": "2026-04-20 20:49:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b582ac17-621c-4447-b3d2-1c820ec12f98",
+      "title": "iCarly - Saison 1",
+      "programSlug": "icarly-saison-1",
+      "programUrl": "/programme/nickelodeon/icarly-saison-1",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-21 18:59:00+00",
+      "endTime": "2026-04-21 19:24:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c69506ab-fb70-4e99-a5f2-d7ccc8b2e9f4",
+      "title": "iCarly - Saison 1",
+      "programSlug": "icarly-saison-1",
+      "programUrl": "/programme/nickelodeon/icarly-saison-1",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-21 19:24:00+00",
+      "endTime": "2026-04-21 19:49:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8a04a71d-8a47-4895-858b-e57c7a15ac84",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeonplus1fr/icarly",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-21 19:59:00+00",
+      "endTime": "2026-04-21 20:24:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "3074f069-4e9a-4e00-90e6-8566ccf11bca",
+      "title": "iCarly - Saison 1",
+      "programSlug": "icarly-saison-1",
+      "programUrl": "/programme/nickelodeon1/icarly-saison-1",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-21 19:59:00+00",
+      "endTime": "2026-04-21 20:24:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6b904784-4994-4a89-8cf2-270baab9437c",
+      "title": "iCarly",
+      "programSlug": "icarly",
+      "programUrl": "/programme/nickelodeonplus1fr/icarly",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-21 20:24:00+00",
+      "endTime": "2026-04-21 20:49:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "be9cd6f9-09c4-48e5-9f38-3d63fd5fd6f1",
+      "title": "iCarly - Saison 1",
+      "programSlug": "icarly-saison-1",
+      "programUrl": "/programme/nickelodeon1/icarly-saison-1",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-21 20:24:00+00",
+      "endTime": "2026-04-21 20:49:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b2d5729c-0570-4912-845f-797e5d68abbd",
+      "title": "iCarly - Saison 1",
+      "programSlug": "icarly-saison-1",
+      "programUrl": "/programme/nickelodeon/icarly-saison-1",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-22 18:59:00+00",
+      "endTime": "2026-04-22 19:24:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9b01be43-5b25-41bf-880d-9204d72cf965",
+      "title": "iCarly - Saison 1",
+      "programSlug": "icarly-saison-1",
+      "programUrl": "/programme/nickelodeon/icarly-saison-1",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-22 19:24:00+00",
+      "endTime": "2026-04-22 19:49:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:07:40.925Z",
+  "startYear": 2021,
+  "numberOfSeasons": 3,
+  "cast": [
+    {
+      "qid": "Q5104",
+      "slug": "miranda-cosgrove",
+      "name": "Miranda Cosgrove",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349928",
+      "slug": "jerry-trainor",
+      "name": "Jerry Trainor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317194",
+      "slug": "nathan-kress",
+      "name": "Nathan Kress",
+      "role": "actor"
+    },
+    {
+      "qid": "Q101137091",
+      "slug": "laci-mosley",
+      "name": "Laci Mosley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111186741",
+      "slug": "jaidyn-triplett",
+      "name": "Jaidyn Triplett",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q444366",
+    "slug": "dan-schneider",
+    "name": "Dan Schneider",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 19:01:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

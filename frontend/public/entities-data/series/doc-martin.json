@@ -1,0 +1,103 @@
+{
+  "type": "series",
+  "slug": "doc-martin",
+  "title": "Doc Martin",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Doc Martin"
+  ],
+  "genres": [
+    "série médicale",
+    "série télévisée dramatique",
+    "drama romantique"
+  ],
+  "description": "Martin Charles Napoléon Le Foll, chirurgien renommé au CHU de Lyon, est soudain saisi par la phobie du sang. Il ne peut plus opérer et prend la succession d'un mystérieux médecin généraliste dans la petite ville de Port-Garrec. Il en connaît bientôt tous les habitants, à commencer par Julie, la jolie institutrice, et en partage toutes les aventures, drôles ou tragiques. Une série adaptée de l'original britannique, sur fond de paysages bretons.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Doc%20Martin%20in%202007.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4f3e20a8-3217-4670-9c39-6e4972ba3d2c",
+      "title": "Doc Martin",
+      "programSlug": "doc-martin",
+      "programUrl": "/programme/la-trois/doc-martin",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-23 11:26:00+00",
+      "endTime": "2026-04-23 12:12:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "af645cb9-bc36-4ef3-b3cc-a4be764f7dc4",
+      "title": "Doc Martin",
+      "programSlug": "doc-martin",
+      "programUrl": "/programme/la-trois/doc-martin",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-23 12:12:00+00",
+      "endTime": "2026-04-23 13:02:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2004,
+  "numberOfSeasons": 10,
+  "cast": [
+    {
+      "qid": "Q2631586",
+      "slug": "martin-clunes",
+      "name": "Martin Clunes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2176721",
+      "slug": "caroline-catz",
+      "name": "Caroline Catz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2831958",
+      "slug": "stephanie-cole",
+      "name": "Stephanie Cole",
+      "role": "actor"
+    },
+    {
+      "qid": "Q195452",
+      "slug": "selina-cadell",
+      "name": "Selina Cadell",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q3034863",
+    "slug": "dominic-minghella",
+    "name": "Dominic Minghella",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-23 11:26:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

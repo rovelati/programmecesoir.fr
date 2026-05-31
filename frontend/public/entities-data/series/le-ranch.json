@@ -1,0 +1,88 @@
+{
+  "type": "series",
+  "slug": "le-ranch",
+  "title": "Le ranch",
+  "airingsCount": 54,
+  "sourceTitles": [
+    "Le ranch"
+  ],
+  "genres": [
+    "série télévisée d'aventures"
+  ],
+  "description": "Léa et Angelo doivent passer un test d'accompagnateur pour pouvoir organiser leur ' Rando du Ranch ' durant l'été. Et Hugo a trouvé les deux touristes qui les accompagneront : Stevy et Jonathan, deux copains d'enfance qu'il connaît depuis le primaire. Les ados les emmènent alors pour leur première randonnée, avec un parcours défini et des balises où un examinateur les attendra. Super emballés au début, Stevy et Jonathan commencent à en avoir plein les pattes, surtout qu'ils doivent respecter les consignes de sécurité et toujours aller au pas. D'un naturel joueur, les deux potes se lâchent et se la jouent cow-boy, mettant en danger leurs chevaux. Léa et Angelo vont donc devoir, avec l'aide d'Hugo et d'Anaïs, encadrer et gérer leur groupe, sans être trop rabat-joie, tout en réussissant leur test d'accompagnateur...",
+  "descriptionAi": "Cette série télévisée d'aventures plonge le téléspectateur dans l'atmosphère estivale et exigeante d'un ranch. Elle capte l'intérêt en mêlant les défis de l'apprentissage à la responsabilité, le tout sur fond de paysages grandioses. Le récit suit Léa et Angelo, dont l'examen pour devenir accompagnateurs est compromis par le comportement imprudent de deux touristes, Stevy et Jonathan. L'enjeu devient alors de concilier la sécurité, la réussite du test et la gestion d'un groupe aux caractères bien trempés. Une aventure humaine et équestre pleine de rebondissements, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tiji.png",
+      "airingsCount": 54
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b8c46865-039b-4ff1-9383-46fa91b4b706",
+      "title": "Le ranch",
+      "programSlug": "le-ranch",
+      "programUrl": "/programme/tiji/le-ranch",
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "startTime": "2026-04-19 08:35:00+00",
+      "endTime": "2026-04-19 09:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6578c41f-c199-4a39-acae-997942b5d44f",
+      "title": "Le ranch",
+      "programSlug": "le-ranch",
+      "programUrl": "/programme/tiji/le-ranch",
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "startTime": "2026-04-19 09:00:00+00",
+      "endTime": "2026-04-19 09:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "e307e070-f30e-4604-a19c-74766195527f",
+      "title": "Le ranch",
+      "programSlug": "le-ranch",
+      "programUrl": "/programme/tiji/le-ranch",
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "startTime": "2026-04-19 09:20:00+00",
+      "endTime": "2026-04-19 09:45:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:41:52.850Z",
+  "startYear": null,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": {
+    "qid": "Q19629087",
+    "slug": "vincent-costi",
+    "name": "Vincent Costi",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 08:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

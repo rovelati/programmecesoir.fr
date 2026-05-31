@@ -1,0 +1,134 @@
+{
+  "type": "film",
+  "slug": "obsession",
+  "title": "Obsession",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Obsession"
+  ],
+  "genres": [
+    "film ou téléfilm à énigme",
+    "drame",
+    "thriller",
+    "néo-noir",
+    "thriller policier",
+    "film policier dramatique",
+    "thriller psychologique",
+    "drame psychologique",
+    "film à suspense",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Déjà partenaires au trapèze, Aldo et Hélène ont décidé d'unir leurs destins. A cette occasion, Aldo, pour soulager sa conscience, avoue à Hélène qu'il a tué accidentellement son ancien partenaire, Jim Bruno. Cet aveu ne fragilise pas le couple. Les premières semaines du mariage sont heureuses. Mais un jour, Aldo, blessé, doit céder sa place à Alexandre. Les deux hommes ont une violente querelle, Aldo se montrant jaloux de son remplaçant. Peu après, Alexandre est retrouvé mort, assassiné. Louis Bernardin, le dresseur de chiens, est arrêté et condamné à mort. Hélène, convaincue de la culpabilité de son mari, décide de le dénoncer à la police...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4b6fd71e-d4f1-418a-b57a-8c28dd713c36",
+      "title": "Obsession",
+      "programSlug": "obsession",
+      "programUrl": "/programme/eurochannel/obsession",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 08:30:00+00",
+      "endTime": "2026-04-21 10:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "8fff0e5a-9426-4950-96f2-e0186048e684",
+      "title": "Obsession",
+      "programSlug": "obsession",
+      "programUrl": "/programme/tcm-cinema/obsession",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-25 10:10:00+00",
+      "endTime": "2026-04-25 11:55:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1976,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q181899",
+      "slug": "cliff-robertson",
+      "name": "Cliff Robertson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232845",
+      "slug": "genevieve-bujold",
+      "name": "Geneviève Bujold",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311271",
+      "slug": "john-lithgow",
+      "name": "John Lithgow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2439637",
+      "slug": "tom-felleghy",
+      "name": "Tom Felleghy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7617976",
+      "slug": "stocker-fontelieu",
+      "name": "Stocker Fontelieu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26818527",
+      "slug": "sylvia-kuumba-williams",
+      "name": "Sylvia Kuumba Williams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17122228",
+      "slug": "andrea-esterhazy",
+      "name": "Andrea Esterhazy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16262941",
+      "slug": "regis-cordic",
+      "name": "Regis Cordic",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q189526",
+    "slug": "brian-de-palma",
+    "name": "Brian De Palma",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 08:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

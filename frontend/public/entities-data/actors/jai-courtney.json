@@ -1,0 +1,113 @@
+{
+  "type": "actor",
+  "slug": "jai-courtney",
+  "name": "Jai Courtney",
+  "worksCount": 2,
+  "description": "acteur australien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jai%20Courtney%201%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1986-03-15",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q604849",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jai_Courtney",
+    "imdb": "nm2541974",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dangerous-animals",
+      "title": "Dangerous Animals"
+    },
+    {
+      "type": "film",
+      "slug": "divergente",
+      "title": "Divergente"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "928d1eb9-22c2-4dbf-9d58-21e9c5f19ed9",
+      "title": "Divergente",
+      "programSlug": "divergente",
+      "programUrl": "/programme/w9/divergente",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 19:25:00+00",
+      "endTime": "2026-04-20 21:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f0f06165-13f8-40b4-8129-573e54aa01d0",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/canal-cinema/dangerous-animals",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-20 20:40:00+00",
+      "endTime": "2026-04-20 22:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "df50f842-e69f-470b-9a6f-193e0bd9d853",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/paramount-channel/dangerous-animals",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-20 20:40:00+00",
+      "endTime": "2026-04-20 22:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "40ce24fe-b796-42ca-9fd0-9e1d02dcfc63",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/canal-box-office/dangerous-animals",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-21 14:33:00+00",
+      "endTime": "2026-04-21 16:08:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "be864a3f-53ef-44a4-ba0c-01d4080c331a",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/paramount-channel/dangerous-animals",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 23:10:00+00",
+      "endTime": "2026-04-24 00:45:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "2ad513d6-dcb3-4158-9256-abffc0cd0e0c",
+      "title": "Dangerous Animals",
+      "programSlug": "dangerous-animals",
+      "programUrl": "/programme/canal-cinema/dangerous-animals",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 23:11:00+00",
+      "endTime": "2026-04-24 00:47:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 19:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

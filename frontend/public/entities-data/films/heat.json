@@ -1,0 +1,170 @@
+{
+  "type": "film",
+  "slug": "heat",
+  "title": "Heat",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Heat"
+  ],
+  "genres": [
+    "film ou téléfilm épique",
+    "thriller",
+    "film policier dramatique",
+    "film et téléfilm d'action",
+    "thriller policier",
+    "film ou téléfilm criminel",
+    "thriller psychologique",
+    "néo-noir",
+    "drame",
+    "film à suspense",
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm de casse",
+    "drame psychologique",
+    "film ou téléfilm à énigme",
+    "film de gangsters"
+  ],
+  "description": "A Los Angeles, en virtuose de l'attaque à main armée, Neil McCauley réussit une fois de plus un hold-up remarquable, organisé avec une précision extrême, que l'inconséquence d'un complice d'occasion, Waingro, qui abat deux vigiles, transforme en catastrophe. La bêtise de Waingro permet en effet au lieutenant Vincent Hanna, un enquêteur de grand renom, de remonter rapidement la piste jusqu'à McCauley. Alors qu'il est sur le point de mettre toute la bande en état d'arrestation, Hanna est contraint de la laisser s'enfuir. McCauley sait que le policier ne lui laissera désormais plus de répit. Aussi décide-t-il d'organiser une dernière attaque, avant de disparaître...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1995,
+  "durationMinutes": 171,
+  "cast": [
+    {
+      "qid": "Q36949",
+      "slug": "robert-de-niro",
+      "name": "Robert De Niro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41163",
+      "slug": "al-pacino",
+      "name": "Al Pacino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q191084",
+      "slug": "val-kilmer",
+      "name": "Val Kilmer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q167520",
+      "slug": "jon-voight",
+      "name": "Jon Voight",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349852",
+      "slug": "tom-sizemore",
+      "name": "Tom Sizemore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q162554",
+      "slug": "diane-venora",
+      "name": "Diane Venora",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232520",
+      "slug": "amy-brenneman",
+      "name": "Amy Brenneman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228645",
+      "slug": "ashley-judd",
+      "name": "Ashley Judd",
+      "role": "actor"
+    },
+    {
+      "qid": "Q741555",
+      "slug": "mykelti-williamson",
+      "name": "Mykelti Williamson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350819",
+      "slug": "wes-studi",
+      "name": "Wes Studi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q433520",
+      "slug": "ted-levine",
+      "name": "Ted Levine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350208",
+      "slug": "dennis-haysbert",
+      "name": "Dennis Haysbert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220335",
+      "slug": "william-fichtner",
+      "name": "William Fichtner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q37876",
+      "slug": "natalie-portman",
+      "name": "Natalie Portman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223830",
+      "slug": "q223830",
+      "name": "Q223830",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1339951",
+      "slug": "tom-noonan",
+      "name": "Tom Noonan",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q270097",
+    "slug": "michael-mann",
+    "name": "Michael Mann",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,198 @@
+{
+  "type": "series",
+  "slug": "homicide",
+  "title": "Homicide",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Homicide - Saison 4"
+  ],
+  "genres": [
+    "enquête policière",
+    "série télévisée dramatique"
+  ],
+  "description": "Bolander et Felton ont été suspendus à la suite d'un incident survenu lors d'une convention de la police de New York. Kay envisage de passer l'examen de sergent, et Munch affirme vouloir l'imiter. Pembleton et Bayliss enquêtent sur un cadavre découvert dans un entrepôt incendié, et se heurtent à un policier d'une autre brigade, Mike Kellerman...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 8
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "02249f5f-e034-4a4d-b00f-a8268336a047",
+      "title": "Homicide - Saison 5",
+      "programSlug": "homicide-saison-5",
+      "programUrl": "/programme/polar/homicide-saison-5",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 18:55:00+00",
+      "endTime": "2026-04-22 19:41:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e8797e93-d932-4bba-9833-293b7abfb9b2",
+      "title": "Homicide - Saison 5",
+      "programSlug": "homicide-saison-5",
+      "programUrl": "/programme/polar/homicide-saison-5",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 19:41:00+00",
+      "endTime": "2026-04-22 20:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "237c80c7-48f2-4133-9ed7-46779ce8b39b",
+      "title": "Homicide - Saison 4",
+      "programSlug": "homicide-saison-4",
+      "programUrl": "/programme/polar/homicide-saison-4",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 22:05:00+00",
+      "endTime": "2026-04-22 22:52:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "054431cb-5a74-420a-a49a-746ca5a54e59",
+      "title": "Homicide - Saison 4",
+      "programSlug": "homicide-saison-4",
+      "programUrl": "/programme/polar/homicide-saison-4",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-22 22:52:00+00",
+      "endTime": "2026-04-22 23:39:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1993,
+  "numberOfSeasons": 7,
+  "cast": [
+    {
+      "qid": "Q432940",
+      "slug": "daniel-baldwin",
+      "name": "Daniel Baldwin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q542816",
+      "slug": "richard-belzer",
+      "name": "Richard Belzer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q463397",
+      "slug": "andre-braugher",
+      "name": "Andre Braugher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1095721",
+      "slug": "clark-johnson",
+      "name": "Clark Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q266270",
+      "slug": "yaphet-kotto",
+      "name": "Yaphet Kotto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229410",
+      "slug": "melissa-leo",
+      "name": "Melissa Leo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q203205",
+      "slug": "jon-polito",
+      "name": "Jon Polito",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1378361",
+      "slug": "kyle-secor",
+      "name": "Kyle Secor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4212",
+      "slug": "ned-beatty",
+      "name": "Ned Beatty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4500475",
+      "slug": "isabella-hofmann",
+      "name": "Isabella Hofmann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q977086",
+      "slug": "reed-diamond",
+      "name": "Reed Diamond",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239075",
+      "slug": "michelle-forbes",
+      "name": "Michelle Forbes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q330762",
+      "slug": "max-perlich",
+      "name": "Max Perlich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q923485",
+      "slug": "peter-gerety",
+      "name": "Peter Gerety",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1343857",
+      "slug": "jon-seda",
+      "name": "Jon Seda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q444417",
+      "slug": "callie-thorne",
+      "name": "Callie Thorne",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q553234",
+    "slug": "paul-attanasio",
+    "name": "Paul Attanasio",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-22 18:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

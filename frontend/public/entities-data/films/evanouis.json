@@ -1,0 +1,123 @@
+{
+  "type": "film",
+  "slug": "evanouis",
+  "title": "Evanouis",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Evanouis"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm à énigme",
+    "film et téléfilm d'horreur",
+    "thriller"
+  ],
+  "description": "Lorsque tous les enfants d'une même classe, à l'exception d'un seul, se lèvent en pleine nuit à la même heure, quittent leur maison et disparaissent mystérieusement, les habitants d'une petite ville de Pennsylvanie décident de mener l'enquête afin de tenter de découvrir qui, ou quoi, est à l'origine de ce phénomène inexpliqué. Tous pointent du doigt Justine Gandy, l'institutrice des disparus. Stigmatisée et mise à pied, celle-ci est déterminée à comprendre ce qui s'est passé et s'intéresse au seul enfant qui ne s'est pas volatilisé : Alex, le souffre-douleur de la classe...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 128,
+  "cast": [
+    {
+      "qid": "Q41396",
+      "slug": "josh-brolin",
+      "name": "Josh Brolin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13560358",
+      "slug": "julia-garner",
+      "name": "Julia Garner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189113",
+      "slug": "alden-ehrenreich",
+      "name": "Alden Ehrenreich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3329808",
+      "slug": "benedict-wong",
+      "name": "Benedict Wong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235219",
+      "slug": "amy-madigan",
+      "name": "Amy Madigan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16156312",
+      "slug": "austin-abrams",
+      "name": "Austin Abrams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1713263",
+      "slug": "june-diane-raphael",
+      "name": "June Diane Raphael",
+      "role": "actor"
+    },
+    {
+      "qid": "Q946117",
+      "slug": "toby-huss",
+      "name": "Toby Huss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q135456033",
+      "slug": "cary-christopher",
+      "name": "Cary Christopher",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104918111",
+      "slug": "whitmer-thomas",
+      "name": "Whitmer Thomas",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3574497",
+    "slug": "zach-cregger",
+    "name": "Zach Cregger",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

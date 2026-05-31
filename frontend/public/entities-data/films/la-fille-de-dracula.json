@@ -1,0 +1,112 @@
+{
+  "type": "film",
+  "slug": "la-fille-de-dracula",
+  "title": "La fille de Dracula",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "La fille de Dracula"
+  ],
+  "genres": [
+    "film de vampires"
+  ],
+  "description": "Luisa rend visite à sa mère mourante au château de Karlstein. Elle découvre que sa famille est vampire et que le premier comte Karlstein repose dans la crypte.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1972,
+  "durationMinutes": 82,
+  "cast": [
+    {
+      "qid": "Q3645106",
+      "slug": "carmen-yazalde",
+      "name": "Carmen Yazalde",
+      "role": "actor"
+    },
+    {
+      "qid": "Q674554",
+      "slug": "anne-libert",
+      "name": "Anne Libert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q116145",
+      "slug": "howard-vernon",
+      "name": "Howard Vernon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q353758",
+      "slug": "jesus-franco",
+      "name": "Jesús Franco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1161219",
+      "slug": "daniel-white",
+      "name": "Daniel White",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15279593",
+      "slug": "fernando-bilbao",
+      "name": "Fernando Bilbao",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20741910",
+      "slug": "yelena-samarina",
+      "name": "Yelena Samarina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3817736",
+      "slug": "carmen-carbonell",
+      "name": "Carmen Carbonell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2639346",
+      "slug": "alberto-dalbes",
+      "name": "Alberto Dalbes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1123971",
+      "slug": "conchita-nunez",
+      "name": "Conchita Núñez",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q353758",
+    "slug": "jesus-franco",
+    "name": "Jesús Franco",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

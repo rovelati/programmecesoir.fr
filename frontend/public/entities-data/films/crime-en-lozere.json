@@ -1,0 +1,137 @@
+{
+  "type": "film",
+  "slug": "crime-en-lozere",
+  "title": "Crime en Lozère",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Crime en Lozère"
+  ],
+  "genres": [
+    "film ou téléfilm policier"
+  ],
+  "description": "Dans la grotte de l'Aven-Armand, en Lozère, on découvre le corps sans vie de Jérôme Sennac, exploitant agricole et guide bénévole. L'homme a été poignardé en plein coeur. Elisabeth Richard, procureur, et Paul Jansac, commandant, se rendent sur les lieux pour mener l'enquête. Leurs soupçons s'orientent tout d'abord vers Julien Cazagnes, un jeune berger qui avait eu une altercation avec Jérôme peu de temps avant sa mort. Tout l'accuse. Pourtant, il a un alibi solide : au moment du meurtre de Sennac, Julien était en compagnie de Béatrice Lagarrigue, la jeune épouse un rien perturbée d'un inquiétant quinquagénaire. Jansac ne reste pas insensible au charme de Béatrice...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teva.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6ade7e5f-7239-4ed7-8656-05761cd99f1e",
+      "title": "Crime en Lozère",
+      "programSlug": "crime-en-lozere",
+      "programUrl": "/programme/teva/crime-en-lozere",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-19 17:05:00+00",
+      "endTime": "2026-04-19 19:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q527437",
+      "slug": "florence-pernel",
+      "name": "Florence Pernel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3559884",
+      "slug": "vincent-winterhalter",
+      "name": "Vincent Winterhalter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3190798",
+      "slug": "jerome-anger",
+      "name": "Jérôme Anger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2883915",
+      "slug": "barbara-cabrita",
+      "name": "Barbara Cabrita",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2302729",
+      "slug": "sophie-broustal",
+      "name": "Sophie Broustal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3027145",
+      "slug": "didier-pain",
+      "name": "Didier Pain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q72104121",
+      "slug": "renaud-leymans",
+      "name": "Renaud Leymans",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3169571",
+      "slug": "jean-pierre-michael",
+      "name": "Jean-Pierre Michaël",
+      "role": "actor"
+    },
+    {
+      "qid": "Q72106951",
+      "slug": "julien-baudracco",
+      "name": "Julien Baudracco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q72106991",
+      "slug": "olivier-cabassut",
+      "name": "Olivier Cabassut",
+      "role": "actor"
+    },
+    {
+      "qid": "Q72107019",
+      "slug": "aubry-dullin",
+      "name": "Aubry Dullin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q72107045",
+      "slug": "floriane-barbe",
+      "name": "Floriane Barbe",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2976812",
+    "slug": "claude-michel-rome",
+    "name": "Claude-Michel Rome",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 17:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

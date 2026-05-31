@@ -1,0 +1,84 @@
+{
+  "type": "film",
+  "slug": "la-ligue-des-justiciers-le-trone-de-l-atlantide",
+  "title": "La ligue des justiciers : le trône de l'Atlantide",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La ligue des justiciers : le trône de l'Atlantide"
+  ],
+  "genres": [
+    "film de super-héros"
+  ],
+  "description": "Après la frappe d'un missile américain, le royaume de l'Atlantide, dirigé par Orm, décide d'attaquer l'Est des Etats-Unis en immergeant des grandes cités comme Metropolis. Bientôt, une guerre éclate entre les Atlantes et le monde terrestre. Pour éviter un désastre planétaire et la perte de son peuple, la reine de la civilisation sous-marine se met alors à la recherche d'Arthur, son autre fils et demi-frère d'Orm. A la surface, Arthur, doué de pouvoirs extraordinaires, va tenter de sauver le monde en embrassant son destin : devenir Aquaman et rejoindre la célèbre Ligue des Justiciers...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "887d174c-9a07-4ba0-9e1e-4a657a4e937b",
+      "title": "La ligue des justiciers : le trône de l'Atlantide",
+      "programSlug": "la-ligue-des-justiciers-le-trone-de-l-atlantide",
+      "programUrl": "/programme/adultswimfr/la-ligue-des-justiciers-le-trone-de-l-atlantide",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-25 16:40:00+00",
+      "endTime": "2026-04-25 18:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "aff1e7f0-3639-4cea-8ddb-a30e20ad9f19",
+      "title": "La ligue des justiciers : le trône de l'Atlantide",
+      "programSlug": "la-ligue-des-justiciers-le-trone-de-l-atlantide",
+      "programUrl": "/programme/warner-tv-next/la-ligue-des-justiciers-le-trone-de-l-atlantide",
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "startTime": "2026-04-25 16:40:00+00",
+      "endTime": "2026-04-25 18:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 72,
+  "cast": [],
+  "director": {
+    "qid": "Q3310104",
+    "slug": "ethan-spaulding",
+    "name": "Ethan Spaulding",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 16:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

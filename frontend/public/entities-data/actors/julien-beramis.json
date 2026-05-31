@@ -1,0 +1,85 @@
+{
+  "type": "actor",
+  "slug": "julien-beramis",
+  "name": "Julien Béramis",
+  "worksCount": 1,
+  "description": "acteur et scénariste français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1983-11-17",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q22209674",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Julien_B%C3%A9ramis",
+    "imdb": "nm2246504",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "tropiques-criminels",
+      "title": "Tropiques criminels"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e213c868-3d09-42d4-8ac1-3639b0fe3c84",
+      "title": "Tropiques criminels - Saison 7",
+      "programSlug": "tropiques-criminels-saison-7",
+      "programUrl": "/programme/france-2/tropiques-criminels-saison-7",
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "startTime": "2026-04-24 19:10:00+00",
+      "endTime": "2026-04-24 20:00:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "19d68255-f127-4086-913a-815289513d4c",
+      "title": "Tropiques criminels - Saison 5",
+      "programSlug": "tropiques-criminels-saison-5",
+      "programUrl": "/programme/france-2/tropiques-criminels-saison-5",
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "startTime": "2026-04-24 20:00:00+00",
+      "endTime": "2026-04-24 20:55:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "8c32d72a-ff21-4619-bcbf-6ecbec9a5394",
+      "title": "Tropiques criminels - Saison 7",
+      "programSlug": "tropiques-criminels-saison-7",
+      "programUrl": "/programme/france-2/tropiques-criminels-saison-7",
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "startTime": "2026-04-25 00:10:00+00",
+      "endTime": "2026-04-25 00:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f2f59d73-12e8-439d-86cb-2a0ca858a700",
+      "title": "Tropiques criminels - Saison 5",
+      "programSlug": "tropiques-criminels-saison-5",
+      "programUrl": "/programme/france-2/tropiques-criminels-saison-5",
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "startTime": "2026-04-25 00:55:00+00",
+      "endTime": "2026-04-25 01:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 19:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

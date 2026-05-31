@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "ernie-anastos",
+  "name": "Ernie Anastos",
+  "worksCount": 1,
+  "description": "Television news anchor",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernie%20Anastos%2053663471194%20o%20(1).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1943-07-12",
+  "nationality": "États-Unis",
+  "jobTitle": "présentateur ou présentatrice de journal",
+  "externalIds": {
+    "wikidata": "Q5394335",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ernie_Anastos",
+    "imdb": "nm0025727",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "night-run",
+      "title": "Night Run"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a0c52da9-af7b-4ef3-b450-b74ee2ecf97c",
+      "title": "Night Run",
+      "programSlug": "night-run",
+      "programUrl": "/programme/cine-frisson/night-run",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 20:34:00+00",
+      "endTime": "2026-04-22 22:22:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e5ea0f2a-1c28-434c-9b94-c218155ad40d",
+      "title": "Night Run",
+      "programSlug": "night-run",
+      "programUrl": "/programme/cine-frisson/night-run",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-25 13:41:00+00",
+      "endTime": "2026-04-25 15:35:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 20:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

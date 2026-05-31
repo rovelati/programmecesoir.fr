@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "rob-lowe",
+  "name": "Rob Lowe",
+  "worksCount": 3,
+  "description": "acteur, producteur et réalisateur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rob%20Lowe%202012%20Shankbone%202.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-03-17",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q296505",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rob_Lowe",
+    "imdb": "nm0000507",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "austin-powers-dans-goldmember",
+      "title": "Austin Powers dans Goldmember"
+    },
+    {
+      "type": "film",
+      "slug": "outsiders",
+      "title": "Outsiders"
+    },
+    {
+      "type": "series",
+      "slug": "9-1-1-lone-star",
+      "title": "9-1-1: Lone Star"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

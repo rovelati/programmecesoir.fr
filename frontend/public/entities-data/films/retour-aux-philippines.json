@@ -1,0 +1,119 @@
+{
+  "type": "film",
+  "slug": "retour-aux-philippines",
+  "title": "Retour aux Philippines",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Retour aux Philippines"
+  ],
+  "genres": [
+    "film et téléfilm de guerre",
+    "drame"
+  ],
+  "description": "1942. Les troupes japonaises occupent une bonne partie de l'archipel des Philippines après de rudes combats. Le colonel américain Joseph Madden, tout juste rescapé de l'hécatombe, est envoyé par le général McArthur à Bataan. Sa mission : organiser la résistance locale. D'abord réticent, le capitaine Andres Bonifácio, un patriote philippin, accepte de l'épauler. Ne descend-il pas en ligne directe du légendaire meneur de la lutte armée contre le colonisateur américain ? Madden prend la tête de la guérilla anti-japonaise. Un petit Philippin met ses talents d'espion à son service. Les Japonais ne tardent pas à s'apercevoir qu'ils ont affaire à forte partie et réagissent...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1945,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q40531",
+      "slug": "john-wayne",
+      "name": "John Wayne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q83484",
+      "slug": "anthony-quinn",
+      "name": "Anthony Quinn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466440",
+      "slug": "beulah-bondi",
+      "name": "Beulah Bondi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q352701",
+      "slug": "richard-loo",
+      "name": "Richard Loo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1321739",
+      "slug": "philip-ahn",
+      "name": "Philip Ahn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212532",
+      "slug": "lawrence-tierney",
+      "name": "Lawrence Tierney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q129386",
+      "slug": "abner-biberman",
+      "name": "Abner Biberman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1855635",
+      "slug": "vladimir-sokoloff",
+      "name": "Vladimir Sokoloff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q744357",
+      "slug": "paul-fix",
+      "name": "Paul Fix",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1263798",
+      "slug": "john-miljan",
+      "name": "John Miljan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6525762",
+      "slug": "leonard-strong",
+      "name": "Leonard Strong",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q72229",
+    "slug": "edward-dmytryk",
+    "name": "Edward Dmytryk",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

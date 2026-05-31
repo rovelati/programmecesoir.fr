@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "burl-ives",
+  "name": "Burl Ives",
+  "worksCount": 1,
+  "description": "musicien américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Burl%20Ives%20by%20Van%20Vechten.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1909-06-14",
+  "nationality": "États-Unis",
+  "jobTitle": "artiste de rue",
+  "externalIds": {
+    "wikidata": "Q315723",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Burl_Ives",
+    "imdb": "nm0412322",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dresse-pour-tuer",
+      "title": "Dressé pour tuer"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

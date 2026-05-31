@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "hirondelles-et-amazones",
+  "title": "Hirondelles et amazones",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Hirondelles et amazones"
+  ],
+  "genres": [
+    "littérature d'enfance",
+    "fiction nautique"
+  ],
+  "description": "John, Susan, Titty et Roger Walker passent leurs vacances avec leur mère. Ils profitent du lac voisin pour naviguer sur leur petit voilier. Ils ne tardent pas à découvrir la présence d'autres enfants, qui sillonnent comme eux les eaux du lac. Une bataille s'engage alors entre les deux groupes...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swallows%20and%20Amazons%2003.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b557e5e1-9de2-4d60-9e5e-bbb04e8e0636",
+      "title": "Hirondelles et amazones",
+      "programSlug": "hirondelles-et-amazones",
+      "programUrl": "/programme/cine-family/hirondelles-et-amazones",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-19 23:22:00+00",
+      "endTime": "2026-04-20 00:53:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1930,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 23:22:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

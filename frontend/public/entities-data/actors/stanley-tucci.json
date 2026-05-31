@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "stanley-tucci",
+  "name": "Stanley Tucci",
+  "worksCount": 3,
+  "description": "acteur et cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ConclaveBFILFF101024%20(9%20of%2044)%20(54062519935)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1960-11-11",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q223117",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Stanley_Tucci",
+    "imdb": "nm0001804",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jack-le-chasseur-de-geants",
+      "title": "Jack le chasseur de géants"
+    },
+    {
+      "type": "film",
+      "slug": "les-jardins-du-roi",
+      "title": "Les jardins du roi"
+    },
+    {
+      "type": "film",
+      "slug": "julie-julia",
+      "title": "Julie & Julia"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8feb3738-8b3a-465f-bb67-714353c2129d",
+      "title": "Julie & Julia",
+      "programSlug": "julie-julia",
+      "programUrl": "/programme/cine-emotion/julie-julia",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 04:30:00+00",
+      "endTime": "2026-04-23 06:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "79bda564-c115-4d77-ba2c-1c5cfc621167",
+      "title": "Jack le chasseur de géants",
+      "programSlug": "jack-le-chasseur-de-geants",
+      "programUrl": "/programme/cine-family/jack-le-chasseur-de-geants",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 20:46:00+00",
+      "endTime": "2026-04-24 22:37:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 04:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,119 @@
+{
+  "type": "film",
+  "slug": "au-dela-des-collines",
+  "title": "Au-delà des collines",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Au-delà des collines"
+  ],
+  "genres": [
+    "drame",
+    "film LGBT"
+  ],
+  "description": "Alina, une jeune femme en crise, quitte l'Allemagne pour la Roumanie. Elle part à la recherche de Voichita, qui fut sa condisciple à l'orphelinat et qu'elle considère toujours comme sa seule amie. Elle retrouve sa camarade dans un couvent et tente de la convaincre de partir avec elle. Mais Voichita refuse...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Au-del%C3%A0%20des%20collines%20Cannes%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "carac-1-hd",
+      "channelName": "CARAC 1 HD",
+      "channelSlug": "carac-1-hd",
+      "channelNumber": null,
+      "logoUrl": "/loghi/carac-1-hd.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 150,
+  "cast": [
+    {
+      "qid": "Q1095297",
+      "slug": "cosmina-stratan",
+      "name": "Cosmina Stratan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1140393",
+      "slug": "cristina-flutur",
+      "name": "Cristina Flutur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18218686",
+      "slug": "dionisie-vitcu",
+      "name": "Dionisie Vitcu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4116979",
+      "slug": "luminita-gheorghiu",
+      "name": "Luminița Gheorghiu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12742058",
+      "slug": "teodor-corban",
+      "name": "Teodor Corban",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18547685",
+      "slug": "ion-sapdaru",
+      "name": "Ion Sapdaru",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12723827",
+      "slug": "cerasela-iosifescu",
+      "name": "Cerasela Iosifescu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q30728995",
+      "slug": "valeriu-andriuta",
+      "name": "Valeriu Andriuta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q76125092",
+      "slug": "tania-popa",
+      "name": "Tania Popa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18540892",
+      "slug": "gheorghe-ifrim",
+      "name": "Gheorghe Ifrim",
+      "role": "actor"
+    },
+    {
+      "qid": "Q105773104",
+      "slug": "katia-pascariu",
+      "name": "Katia Pascariu",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q314353",
+    "slug": "cristian-mungiu",
+    "name": "Cristian Mungiu",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

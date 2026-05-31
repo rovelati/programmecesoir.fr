@@ -1,0 +1,102 @@
+{
+  "type": "film",
+  "slug": "les-2-alfred",
+  "title": "Les 2 Alfred",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Les 2 Alfred"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Arrivé en fin de droits au chômage, Alexandre subit les foudres de son épouse qui lui fixe un ultimatum pour redresser la barre : deux mois pour démontrer qu'il peut être un père responsable, et subvenir aux besoins de ses deux enfants en bas âge. Il déniche vite un entretien dans une start-up innovatrice. Le souci, c'est qu'il découvre que le patron mène une politique très stricte avec ses salariés, refusant catégoriquement que ceux-ci aient des enfants. Sans autre alternative, Alexandre se retrouve contraint de mentir à Séverine, sa future responsable, réputée pour être très curieuse et perspicace...",
+  "descriptionAi": "Cette comédie sociale de 2020 suit Alexandre, un père en difficulté qui doit impérativement retrouver un emploi. Pour intégrer une start-up au patron hostile aux parents, il est contraint de cacher qu'il a des enfants, menant une double vie face à une supérieure particulièrement perspicace. Le film dépeint avec humour et légèreté les absurdités du monde du travail moderne et les compromis de la vie familiale. Son intrigue pleine de quiproquos et son ton décalé en font une satire accessible et divertissante sur nos vies connectées. Une comédie sur les masques du quotidien, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 6
+    },
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q98697796",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Les_Deux_Alfred",
+    "imdb": "tt12078024",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:22.880Z",
+  "year": 2020,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q262822",
+      "slug": "sandrine-kiberlain",
+      "name": "Sandrine Kiberlain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1187592",
+      "slug": "denis-podalydes",
+      "name": "Denis Podalydès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q993671",
+      "slug": "bruno-podalydes",
+      "name": "Bruno Podalydès",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65468168",
+      "slug": "luana-bajrami",
+      "name": "Luàna Bajrami",
+      "role": "actor"
+    },
+    {
+      "qid": "Q515930",
+      "slug": "isabelle-candelier",
+      "name": "Isabelle Candelier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q970408",
+      "slug": "samuel-benchetrit",
+      "name": "Samuel Benchetrit",
+      "role": "actor"
+    },
+    {
+      "qid": "Q51023",
+      "slug": "vanessa-paradis",
+      "name": "Vanessa Paradis",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q993671",
+    "slug": "bruno-podalydes",
+    "name": "Bruno Podalydès",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

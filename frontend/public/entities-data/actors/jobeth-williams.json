@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "jobeth-williams",
+  "name": "JoBeth Williams",
+  "worksCount": 2,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jobethwilliams.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1948-12-06",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q237809",
+    "wikipedia": "https://fr.wikipedia.org/wiki/JoBeth_Williams",
+    "imdb": "nm0001851",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "droles-d-oiseaux",
+      "title": "Drôles d'oiseaux"
+    },
+    {
+      "type": "film",
+      "slug": "arrete-ou-ma-mere-va-tirer",
+      "title": "Arrête ou ma mère va tirer !"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

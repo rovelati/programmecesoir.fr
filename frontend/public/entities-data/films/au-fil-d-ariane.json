@@ -1,0 +1,108 @@
+{
+  "type": "film",
+  "slug": "au-fil-d-ariane",
+  "title": "Au fil d'Ariane",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Au fil d'Ariane"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "comédie dramatique",
+    "drame"
+  ],
+  "description": "Rien ne va pour Ariane, qui fête son anniversaire seule. A son grand désespoir, ses invités se sont décommandés. C'est donc en solitaire qu'elle se rend au restaurant où les festivités devaient avoir lieu. Un chauffeur de taxi, amateur d'opéra, la mène à bon port. Alors qu'elle s'apprête à lui payer la course, elle se fait voler son sac. Dépitée, elle arrive au restaurant près de la plage. Elle y rencontre Jack, un poète marxiste qui se fait passer pour un Américain, et tombe sous le charme de Denis, le propriétaire des lieux. Un bouleversement pour Ariane, qui a longtemps été un coeur en hiver. Avec Jack et Denis, ils partent en bateau pour une partie de pêche...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3-corse",
+      "channelName": "France 3 - Corse",
+      "channelSlug": "france-3-corse",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-corse.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q2825194",
+      "slug": "adrien-jolivet",
+      "name": "Adrien Jolivet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q434051",
+      "slug": "anais-demoustier",
+      "name": "Anaïs Demoustier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q268690",
+      "slug": "ariane-ascaride",
+      "name": "Ariane Ascaride",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3124178",
+      "slug": "gerard-meylan",
+      "name": "Gérard Meylan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3158341",
+      "slug": "jacques-boudet",
+      "name": "Jacques Boudet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q615469",
+      "slug": "jean-pierre-darroussin",
+      "name": "Jean-Pierre Darroussin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q586641",
+      "slug": "lola-naymark",
+      "name": "Lola Naymark",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8059107",
+      "slug": "youssouf-djaoro",
+      "name": "Youssouf Djaoro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1711059",
+      "slug": "judith-magre",
+      "name": "Judith Magre",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q718596",
+    "slug": "robert-guediguian",
+    "name": "Robert Guédiguian",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

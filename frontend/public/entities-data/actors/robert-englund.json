@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "robert-englund",
+  "name": "Robert Englund",
+  "worksCount": 3,
+  "description": "cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Englund%20at%20Comiccon%20Brussels%202023%20(53039678100)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1947-06-06",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q310389",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Robert_Englund",
+    "imdb": "nm0000387",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-revanche-de-freddy",
+      "title": "La revanche de Freddy"
+    },
+    {
+      "type": "film",
+      "slug": "le-cauchemar-de-freddy",
+      "title": "Le cauchemar de Freddy"
+    },
+    {
+      "type": "film",
+      "slug": "les-griffes-de-la-nuit",
+      "title": "Les griffes de la nuit"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

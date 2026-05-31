@@ -1,0 +1,139 @@
+{
+  "type": "film",
+  "slug": "she-came-at-night",
+  "title": "She came at night",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "She came at night"
+  ],
+  "genres": [
+    "comédie",
+    "film et téléfilm d'horreur",
+    "drame"
+  ],
+  "description": "Un couple de trentenaires vit dans un appartement qui appartient aux parents de l'un d'eux. La mère s'installe pour quelques nuits et découvre peu à peu la vie privée du couple.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e99587c8-7b88-43ef-9e6d-c3d63a10b096",
+      "title": "She came at night",
+      "programSlug": "she-came-at-night",
+      "programUrl": "/programme/eurochannel/she-came-at-night",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 01:00:00+00",
+      "endTime": "2026-04-26 02:30:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": 85,
+  "cast": [
+    {
+      "qid": "Q94994090",
+      "slug": "simona-pekova",
+      "name": "Simona Peková",
+      "role": "actor"
+    },
+    {
+      "qid": "Q101008716",
+      "slug": "annette-nesvadbova",
+      "name": "Annette Nesvadbová",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104853802",
+      "slug": "jiri-rendl",
+      "name": "Jiří Rendl",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11906629",
+      "slug": "vladimir-kratina",
+      "name": "Vladimír Kratina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21685705",
+      "slug": "judit-pechacek",
+      "name": "Judit Pecháček",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55601593",
+      "slug": "denisa-baresova",
+      "name": "Denisa Barešová",
+      "role": "actor"
+    },
+    {
+      "qid": "Q102350630",
+      "slug": "michal-kern",
+      "name": "Michal Kern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6150146",
+      "slug": "jan-vondracek",
+      "name": "Jan Vondráček",
+      "role": "actor"
+    },
+    {
+      "qid": "Q60411061",
+      "slug": "vasil-fridrich",
+      "name": "Vasil Fridrich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q60448456",
+      "slug": "jan-strejcovsky",
+      "name": "Jan Strejcovský",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7599083",
+      "slug": "stanislava-jachnicka",
+      "name": "Stanislava Jachnická",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132798764",
+      "slug": "jakub-mahler",
+      "name": "Jakub Mahler",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q43371305",
+    "slug": "tomas-pavlicek",
+    "name": "Tomáš Pavlíček",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-26 01:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,123 @@
+{
+  "type": "actor",
+  "slug": "michael-caine",
+  "name": "Michael Caine",
+  "worksCount": 4,
+  "description": "acteur et producteur de cinéma britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Caine%20-%20Viennale%202012%20a%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1933-03-14",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q123351",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michael_Caine",
+    "imdb": "nm0000323",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "austin-powers-dans-goldmember",
+      "title": "Austin Powers dans Goldmember"
+    },
+    {
+      "type": "film",
+      "slug": "the-dark-knight-rises",
+      "title": "The Dark Knight Rises"
+    },
+    {
+      "type": "film",
+      "slug": "the-dark-knight-le-chevalier-noir",
+      "title": "The Dark Knight, le chevalier noir"
+    },
+    {
+      "type": "film",
+      "slug": "un-pont-trop-loin",
+      "title": "Un pont trop loin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c2e552e5-5034-45b9-a0c8-4a53b1bae6b6",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-le-chevalier-noir",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 07:44:00+00",
+      "endTime": "2026-04-19 10:12:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "67c1ebbf-a111-4083-a014-1cb877a116d5",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/canal-grand-ecran/the-dark-knight-rises",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 10:12:00+00",
+      "endTime": "2026-04-19 12:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "58a2888e-4f9d-4d4f-ae16-b609caf29b50",
+      "title": "Un pont trop loin",
+      "programSlug": "un-pont-trop-loin",
+      "programUrl": "/programme/cine-classic/un-pont-trop-loin",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-20 15:04:00+00",
+      "endTime": "2026-04-20 17:54:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b544160d-b826-4661-803a-b06f2fd0584b",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-le-chevalier-noir",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 18:50:00+00",
+      "endTime": "2026-04-21 21:16:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "3d1f0ee5-ff66-44e8-8bb5-fbf2e07d1fac",
+      "title": "The Dark Knight Rises",
+      "programSlug": "the-dark-knight-rises",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-rises",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-21 21:16:00+00",
+      "endTime": "2026-04-21 23:57:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "22b05300-eddd-4187-a307-0f99ef85a0d7",
+      "title": "The Dark Knight, le chevalier noir",
+      "programSlug": "the-dark-knight-le-chevalier-noir",
+      "programUrl": "/programme/cine-frisson/the-dark-knight-le-chevalier-noir",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:56:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 07:44:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

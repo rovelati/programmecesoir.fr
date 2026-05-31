@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "irene-jacob",
+  "name": "Irène Jacob",
+  "worksCount": 2,
+  "description": "actrice franco-suisse",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Irene%20Jacob%20Cannes.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-07-15",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q230659",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ir%C3%A8ne_Jacob",
+    "imdb": "nm0001393",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-voyage-en-pyjama",
+      "title": "Le voyage en pyjama"
+    },
+    {
+      "type": "film",
+      "slug": "rendez-vous-avec-pol-pot",
+      "title": "Rendez-vous avec Pol Pot"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

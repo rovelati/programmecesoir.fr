@@ -1,0 +1,68 @@
+{
+  "type": "film",
+  "slug": "raqqa",
+  "title": "Raqqa",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Raqqa"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "En 2014, dans les rues dangereuses de Raqqa, Haibala, un espion mercenaire, traque l'un des chefs les plus recherchés de l'Etat islamique. Mais il n'est pas le seul à avoir infiltré la Syrie : Malika, une agent secret travaillant pour Europol, est arrivée dans la ville pour la même raison...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ArRaqqah%20collection.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "749efcf6-9a00-420d-8de1-75e55a5aa0c0",
+      "title": "Raqqa",
+      "programSlug": "raqqa",
+      "programUrl": "/programme/canal-box-office/raqqa",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-25 07:28:00+00",
+      "endTime": "2026-04-25 09:11:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-25 07:28:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

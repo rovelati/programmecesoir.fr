@@ -1,0 +1,72 @@
+{
+  "type": "film",
+  "slug": "la-grande-aventure-lego",
+  "title": "La grande aventure Lego",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La grande aventure Lego"
+  ],
+  "genres": [
+    "comédie",
+    "cross-over",
+    "film pour adolescents",
+    "film dystopique",
+    "film et téléfilm d'action",
+    "film et téléfilm de fantasy",
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm familial",
+    "film live / animé"
+  ],
+  "description": "Emmet travaille en tant qu'ouvrier sur un chantier. Un jour, il fait une chute qui le conduit dans un sas pour un monde parallèle où, selon une prophétie, un être venu d'ailleurs et doté de pouvoirs surhumains est censé venir sauver la population d'un tyran. Tout le monde pense qu'Emmet est «l'élu»...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/London%20Bus%20with%20Lego%20Movie%20advert.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q218503",
+      "slug": "will-ferrell",
+      "name": "Will Ferrell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q59781976",
+      "slug": "jadon-sand",
+      "name": "Jadon Sand",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q13638984",
+    "slug": "chris-miller",
+    "name": "Chris Miller",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

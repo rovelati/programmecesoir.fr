@@ -1,0 +1,138 @@
+{
+  "type": "film",
+  "slug": "le-tigre-et-le-president",
+  "title": "Le Tigre et le Président",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le Tigre et le Président"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm historique"
+  ],
+  "description": "En 1920, Paul Deschanel est le vainqueur surprise de l'élection présidentielle. Il réussit à battre Georges Clemenceau grâce à ses idées avant-gardistes et sa vision idéaliste de la France. C'est un choc pour le candidat sortant, lui qui fut considéré comme le \"père la Victoire\" à la suite de son succès sur l'Empire allemand en 1918. Mais, lors d'un voyage en direction de Montbrison, Paul Deschanel fait une chute nocturne à travers la fenêtre du train, et disparaît. La France entière se met alors à la recherche de son dirigeant, ce qui semble être une aubaine pour celui qui est surnommé \"le Tigre\", pour son côté impitoyable...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "859fca5e-3e91-4cc0-8855-a64a252c808c",
+      "title": "Le Tigre et le Président",
+      "programSlug": "le-tigre-et-le-president",
+      "programUrl": "/programme/cine-frisson/le-tigre-et-le-president",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-19 23:18:00+00",
+      "endTime": "2026-04-20 00:53:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2022,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q518457",
+      "slug": "andre-dussollier",
+      "name": "André Dussollier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1352534",
+      "slug": "jacques-gamblin",
+      "name": "Jacques Gamblin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965328",
+      "slug": "christian-hecq",
+      "name": "Christian Hecq",
+      "role": "actor"
+    },
+    {
+      "qid": "Q270146",
+      "slug": "anna-mouglalis",
+      "name": "Anna Mouglalis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3008989",
+      "slug": "cyril-couton",
+      "name": "Cyril Couton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2868544",
+      "slug": "astrid-whettnall",
+      "name": "Astrid Whettnall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3218660",
+      "slug": "laura-benson",
+      "name": "Laura Benson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q586641",
+      "slug": "lola-naymark",
+      "name": "Lola Naymark",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21426938",
+      "slug": "patrick-d-assumcao",
+      "name": "Patrick d'Assumçao",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2834228",
+      "slug": "alexandre-von-sivers",
+      "name": "Alexandre von Sivers",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3350916",
+      "slug": "olivier-claverie",
+      "name": "Olivier Claverie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q30727971",
+      "slug": "ricky-tribord",
+      "name": "Ricky Tribord",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q113626922",
+    "slug": "jean-marc-peyrefitte",
+    "name": "Jean-Marc Peyrefitte",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 23:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

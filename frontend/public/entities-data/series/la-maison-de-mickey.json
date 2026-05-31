@@ -1,0 +1,280 @@
+{
+  "type": "series",
+  "slug": "la-maison-de-mickey",
+  "title": "La maison de Mickey+",
+  "airingsCount": 206,
+  "sourceTitles": [
+    "La maison de Mickey+",
+    "La Maison de Mickey+"
+  ],
+  "genres": [
+    "série télévisée comique"
+  ],
+  "description": "Minnie a eu la bonne idée de créer des sacs à dos personnalisés pour ses amis. Tous ensemble, ils décident de partir en randonnée jusqu'à la Falaise Dingo. Grâce à leurs Maxi-outils, Dingo réussit à grimper sur la falaise pour prendre une magnifique photo.",
+  "descriptionAi": "Cette série télévisée comique, diffusée à partir de 2025, capture l'esprit d'aventure et d'amitié au sein du célèbre club. L'ambiance est joyeuse et entraînante, portée par la dynamique de groupe et l'ingéniosité des personnages. L'intérêt réside dans cette aventure simple mais pleine de cœur, où la coopération et la créativité permettent de surmonter les petits défis, comme l'ascension de la Falaise Dingo pour une photo souvenir. C'est un charmant mélange de complicité et de solutions astucieuses, le tout dans un univers coloré et familier. Une aventure collective à ne pas manquer, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-channel.png",
+      "airingsCount": 72
+    },
+    {
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disneychannelplus1.png",
+      "airingsCount": 72
+    },
+    {
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-junior.png",
+      "airingsCount": 62
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8464983d-404e-4b03-88c7-8c8e46090dde",
+      "title": "La maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disneychannelplus1/la-maison-de-mickey",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 05:50:00+00",
+      "endTime": "2026-04-19 06:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "47847720-1305-418d-9030-ddab88223d93",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-channel/la-maison-de-mickey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 06:55:00+00",
+      "endTime": "2026-04-19 07:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5b7ab08c-cb0f-4866-9248-9146fbad7c28",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-junior/la-maison-de-mickey",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 06:55:00+00",
+      "endTime": "2026-04-19 07:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "dda01a57-f989-4eeb-9abd-a78ce5c77a02",
+      "title": "La maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disneychannelplus1/la-maison-de-mickey",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 07:55:00+00",
+      "endTime": "2026-04-19 08:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4cdbf552-9dec-4ee8-b9f2-4ac3f8228736",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-channel/la-maison-de-mickey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 10:14:00+00",
+      "endTime": "2026-04-19 10:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8d7bec65-801e-496c-84bb-3f23ceb24318",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-junior/la-maison-de-mickey",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 10:14:00+00",
+      "endTime": "2026-04-19 10:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2c016104-10de-446e-b3b3-b6fe328ba27f",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-channel/la-maison-de-mickey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 10:40:00+00",
+      "endTime": "2026-04-19 11:04:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6a703750-25a9-40b4-82c9-aa7c5c6dbdff",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-junior/la-maison-de-mickey",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 10:40:00+00",
+      "endTime": "2026-04-19 11:04:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "47b02ac8-06d6-40ff-9c54-7e52162aefb1",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-channel/la-maison-de-mickey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 11:04:00+00",
+      "endTime": "2026-04-19 11:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "40c1fb76-406f-43c9-9252-0537403646a0",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-junior/la-maison-de-mickey",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 11:04:00+00",
+      "endTime": "2026-04-19 11:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3a6adc09-2288-4abb-a371-ef46c4f1221a",
+      "title": "La maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disneychannelplus1/la-maison-de-mickey",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 11:15:00+00",
+      "endTime": "2026-04-19 11:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d9b01d28-07c1-4f17-b948-ff68804c84b2",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-channel/la-maison-de-mickey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 11:30:00+00",
+      "endTime": "2026-04-19 11:56:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "30403c9e-a808-45e7-b855-e54f2af6f0e3",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-junior/la-maison-de-mickey",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 11:30:00+00",
+      "endTime": "2026-04-19 11:56:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0ef56d3a-1c94-4b8c-9277-c061932cb7df",
+      "title": "La maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disneychannelplus1/la-maison-de-mickey",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 11:40:00+00",
+      "endTime": "2026-04-19 12:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c48cd94a-08c4-4b1c-bf04-77131978aef2",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-channel/la-maison-de-mickey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 11:56:00+00",
+      "endTime": "2026-04-19 12:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "43d9f913-7490-4b4b-8595-ab2919b07547",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-junior/la-maison-de-mickey",
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "startTime": "2026-04-19 11:56:00+00",
+      "endTime": "2026-04-19 12:21:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0582aff0-6d3d-4a5b-84e0-0e929a49f300",
+      "title": "La maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disneychannelplus1/la-maison-de-mickey",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-19 12:05:00+00",
+      "endTime": "2026-04-19 12:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a9080815-9328-4792-be41-08798ab39044",
+      "title": "La Maison de Mickey+",
+      "programSlug": "la-maison-de-mickey",
+      "programUrl": "/programme/disney-channel/la-maison-de-mickey",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-19 12:21:00+00",
+      "endTime": "2026-04-19 12:45:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:31.888Z",
+  "startYear": 2025,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 05:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

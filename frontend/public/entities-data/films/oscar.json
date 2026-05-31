@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "oscar",
+  "title": "Oscar",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Oscar"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Le riche promoteur Bertrand Barnier mène une vie paisible entre sa femme, sa fille Colette et ses domestiques. Mais un jour, le ciel lui tombe sur la tête quand, faisant soudain irruption dans sa chambre, son homme de confiance, Christian Martin, lui apprend qu'il l'escroque depuis des années...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

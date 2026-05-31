@@ -1,0 +1,167 @@
+{
+  "type": "film",
+  "slug": "bodyguard",
+  "title": "Bodyguard",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Bodyguard"
+  ],
+  "genres": [
+    "film ou téléfilm d'amour",
+    "drame",
+    "thriller",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Dans \"Bodyguard\" (1992), Frank Farmer, interprété par Kevin Costner, est un garde du corps émérite aux compétences inégalées, ayant assuré la protection de nombreuses personnalités influentes au sein de l'élite américaine. Sa réputation d'homme vigilant et dévoué à la sécurité est bien établie, mais il se retrouve face à un défi de taille lorsqu'il accepte une mission de protection particulièrement complexe : celle de Rachel Marron, une brillante star de la chanson, incarnée par Whitney Houston.Rachel est au sommet de sa carrière, mais cette période de succès est assombrie par une menace persistante. En effet, la chanteuse reçoit des lettres de menace qui inquiètent profondément son entourage, poussant les enjeux de la situation à leur paroxysme. Pour assurer sa sécurité, ses conseillers engagent Frank, dont la méthode rigoureuse et la discipline sans faille sont immédiatement mises à l'épreuve par le caractère flamboyant et indépendant de Rachel.Dès leur première rencontre, le choc entre leur monde et leurs personnalités est palpable. Rachel se débat avec les restrictions que Frank impose pour sa protection, éprouvant sa patience tout en essayant de maintenir son rythme de vie étoilé. Les tensions s'accumulent alors que la pression d'un mystérieux persécuteur se renforce, et Frank doit naviguer entre la nécessité de garder Rachel en sécurité et le défi de s'adapter à son style de vie extravagant.Au fil des jours, alors que les menaces se font plus insistantes et que le danger semblerait inéluctable, une connexion inattendue se crée entre Frank et Rachel. Ce lien, né de la vulnérabilité et de la protection, émerge dans un contexte dramatique, offrant à Rachel une nouvelle perspective sur sa vie de star, mais aussi à Frank, qui, au-delà de son devoir, se retrouve confronté à ses propres émotions et à son passé.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "channelNumber": 9,
+      "logoUrl": "/loghi/w9.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1992,
+  "durationMinutes": 129,
+  "cast": [
+    {
+      "qid": "Q34389",
+      "slug": "whitney-houston",
+      "name": "Whitney Houston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q554670",
+      "slug": "gary-kemp",
+      "name": "Gary Kemp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q862028",
+      "slug": "bill-cobbs",
+      "name": "Bill Cobbs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q712450",
+      "slug": "ralph-waite",
+      "name": "Ralph Waite",
+      "role": "actor"
+    },
+    {
+      "qid": "Q737369",
+      "slug": "tomas-arana",
+      "name": "Tomas Arana",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11930",
+      "slug": "kevin-costner",
+      "name": "Kevin Costner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q263696",
+      "slug": "debbie-reynolds",
+      "name": "Debbie Reynolds",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2959516",
+      "slug": "charles-keating",
+      "name": "Charles Keating",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1773505",
+      "slug": "chris-connelly",
+      "name": "Chris Connelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q77112",
+      "slug": "david-foster",
+      "name": "David Foster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2261425",
+      "slug": "gerry-bamman",
+      "name": "Gerry Bamman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3311292",
+      "slug": "michele-lamar-richards",
+      "name": "Michele Lamar Richards",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1373450",
+      "slug": "mike-starr",
+      "name": "Mike Starr",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208746",
+      "slug": "nathaniel-parker",
+      "name": "Nathaniel Parker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q355209",
+      "slug": "richard-schiff",
+      "name": "Richard Schiff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q978567",
+      "slug": "robert-wuhl",
+      "name": "Robert Wuhl",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q703492",
+    "slug": "mick-jackson",
+    "name": "Mick Jackson",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

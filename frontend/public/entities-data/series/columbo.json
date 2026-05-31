@@ -1,0 +1,189 @@
+{
+  "type": "series",
+  "slug": "columbo",
+  "title": "Columbo",
+  "airingsCount": 9,
+  "sourceTitles": [
+    "Columbo",
+    "Columbo - Saison 1",
+    "Columbo - Saison 13"
+  ],
+  "genres": [
+    "detective television series",
+    "Howcatchem",
+    "série télévisée policière"
+  ],
+  "description": "Clifford Calvert, un riche homme d'affaires, assiste à une soirée mondaine en compagnie de son épouse, Kathleen. Une dispute éclate entre les deux époux. L'incident est clos par l'arrivée impromptue d'un important concurrent de Clifford. Les deux rivaux échangent des propos acerbes. Le ton monte rapidement et l'altercation se transforme en pugilat. Kathleen Calvert quitte la soirée, honteuse de l'attitude de son époux mais bien décidée à en tirer profit pour se débarrasser de lui, qu'elle n'aime plus et trompe depuis quelque temps déjà. Aidée par son amant, Patrick Kinsley, un criminologue, elle échafaude la trame de l'assassinat de Clifford. Malheureusement pour elle, c'est le lieutenant Columbo qui est appelé sur les lieux du crime...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Columbo%20Peter%20Falk%201973.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv-breizh.png",
+      "airingsCount": 9
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "68e24546-138d-467c-af05-78d7fe958a7a",
+      "title": "Columbo - Saison 3",
+      "programSlug": "columbo-saison-3",
+      "programUrl": "/programme/tv-breizh/columbo-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-24 18:50:00+00",
+      "endTime": "2026-04-24 20:40:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f2986f33-f816-43d0-aa12-f7650e9465d7",
+      "title": "Columbo - Saison 3",
+      "programSlug": "columbo-saison-3",
+      "programUrl": "/programme/tv-breizh/columbo-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-24 20:40:00+00",
+      "endTime": "2026-04-24 22:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "8bcee4aa-4e03-420a-902d-14aca29fefe3",
+      "title": "Columbo - Saison 6",
+      "programSlug": "columbo-saison-6",
+      "programUrl": "/programme/tv-breizh/columbo-saison-6",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-24 22:20:00+00",
+      "endTime": "2026-04-24 23:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1968,
+  "numberOfSeasons": 10,
+  "cast": [
+    {
+      "qid": "Q484881",
+      "slug": "peter-falk",
+      "name": "Peter Falk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2300160",
+      "slug": "vito-scotti",
+      "name": "Vito Scotti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2396950",
+      "slug": "marshall-r-teague",
+      "name": "Marshall R. Teague",
+      "role": "actor"
+    },
+    {
+      "qid": "Q110628",
+      "slug": "richard-a-dysart",
+      "name": "Richard A. Dysart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237221",
+      "slug": "julie-newmar",
+      "name": "Julie Newmar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272594",
+      "slug": "shelley-morrison",
+      "name": "Shelley Morrison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3837599",
+      "slug": "louis-herthum",
+      "name": "Louis Herthum",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1830242",
+      "slug": "don-calfa",
+      "name": "Don Calfa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440720",
+      "slug": "susan-howard",
+      "name": "Susan Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2995464",
+      "slug": "john-f-o-donohue",
+      "name": "John F. O'Donohue",
+      "role": "actor"
+    },
+    {
+      "qid": "Q610862",
+      "slug": "jeff-perry",
+      "name": "Jeff Perry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q181407",
+      "slug": "robert-middleton",
+      "name": "Robert Middleton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5531165",
+      "slug": "gene-davis",
+      "name": "Gene Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q389728",
+      "slug": "nick-dennis",
+      "name": "Nick Dennis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275652",
+      "slug": "louise-latham",
+      "name": "Louise Latham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2691756",
+      "slug": "stack-pierce",
+      "name": "Stack Pierce",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q3430982",
+    "slug": "richard-levinson",
+    "name": "Richard Levinson",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-24 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,122 @@
+{
+  "type": "series",
+  "slug": "tropiques-criminels",
+  "title": "Tropiques criminels",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Tropiques criminels",
+    "Tropiques criminels - Saison 5",
+    "Tropiques criminels - Saison 7"
+  ],
+  "genres": [
+    "drama policier"
+  ],
+  "description": "Un homme a été retrouvé mort sur une plage, tué d'une balle en pleine tête. La scène de crime est nettoyée et ne laisse que peu d'indices à Mélissa Sainte-Rose et sa collègue Gaëlle Crivelli. Pas de doute, cette fois-ci, les deux policières ont affaire à un professionnel. Elles accueillent en parallèle de leur enquête une membre de l'IGPN, venue prêter main-forte pour retrouver le coupable du meurtre de Lebrac. Les pistes se brouillent au fil de l'enquête jusqu'à ce que Phil apporte une hypothèse : les deux meurtres seraient liés...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "channelNumber": 2,
+      "logoUrl": "/loghi/france-2.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e213c868-3d09-42d4-8ac1-3639b0fe3c84",
+      "title": "Tropiques criminels - Saison 7",
+      "programSlug": "tropiques-criminels-saison-7",
+      "programUrl": "/programme/france-2/tropiques-criminels-saison-7",
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "startTime": "2026-04-24 19:10:00+00",
+      "endTime": "2026-04-24 20:00:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "19d68255-f127-4086-913a-815289513d4c",
+      "title": "Tropiques criminels - Saison 5",
+      "programSlug": "tropiques-criminels-saison-5",
+      "programUrl": "/programme/france-2/tropiques-criminels-saison-5",
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "startTime": "2026-04-24 20:00:00+00",
+      "endTime": "2026-04-24 20:55:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "8c32d72a-ff21-4619-bcbf-6ecbec9a5394",
+      "title": "Tropiques criminels - Saison 7",
+      "programSlug": "tropiques-criminels-saison-7",
+      "programUrl": "/programme/france-2/tropiques-criminels-saison-7",
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "startTime": "2026-04-25 00:10:00+00",
+      "endTime": "2026-04-25 00:55:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "f2f59d73-12e8-439d-86cb-2a0ca858a700",
+      "title": "Tropiques criminels - Saison 5",
+      "programSlug": "tropiques-criminels-saison-5",
+      "programUrl": "/programme/france-2/tropiques-criminels-saison-5",
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "startTime": "2026-04-25 00:55:00+00",
+      "endTime": "2026-04-25 01:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2019,
+  "numberOfSeasons": 7,
+  "cast": [
+    {
+      "qid": "Q1986254",
+      "slug": "sonia-rolland",
+      "name": "Sonia Rolland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65137473",
+      "slug": "beatrice-de-la-boulaye",
+      "name": "Béatrice de La Boulaye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22209674",
+      "slug": "julien-beramis",
+      "name": "Julien Béramis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3501539",
+      "slug": "stephan-wojtowicz",
+      "name": "Stéphan Wojtowicz",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-24 19:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

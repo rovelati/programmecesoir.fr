@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "alberta-watson",
+  "name": "Alberta Watson",
+  "worksCount": 1,
+  "description": "actrice canadienne",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1955-03-06",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q262389",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alberta_Watson",
+    "imdb": "nm0914491",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-arme-secrete",
+      "title": "L'arme secrète"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

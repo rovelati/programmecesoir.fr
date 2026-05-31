@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "john-ortiz",
+  "name": "John Ortiz",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Ortiz%202019.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-05-23",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q210094",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Ortiz",
+    "imdb": "nm0651159",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bumblebee",
+      "title": "Bumblebee"
+    },
+    {
+      "type": "film",
+      "slug": "two-lovers",
+      "title": "Two Lovers"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4a5424ff-7cdb-4a79-9aee-808d5dd1875d",
+      "title": "Two Lovers",
+      "programSlug": "two-lovers",
+      "programUrl": "/programme/cine-emotion/two-lovers",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-22 13:21:00+00",
+      "endTime": "2026-04-22 15:07:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ae250f41-423c-4d4a-91a8-4519e6ffd22c",
+      "title": "Two Lovers",
+      "programSlug": "two-lovers",
+      "programUrl": "/programme/cine-emotion/two-lovers",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 01:46:00+00",
+      "endTime": "2026-04-25 03:34:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "d594722f-9463-471e-a1da-2bc605c0db0a",
+      "title": "Two Lovers",
+      "programSlug": "two-lovers",
+      "programUrl": "/programme/cine-emotion/two-lovers",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-26 05:02:00+00",
+      "endTime": "2026-04-26 06:48:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-22 13:21:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

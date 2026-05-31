@@ -1,0 +1,101 @@
+{
+  "type": "film",
+  "slug": "un-amour-de-sorciere",
+  "title": "Un amour de sorcière",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Un amour de sorcière"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "comédie"
+  ],
+  "description": "Il ne reste plus que six sorciers sur la planète, et cinq d'entre eux ne songent plus qu'à répandre le bien. L'ultime serviteur du Démon, le bien nommé Molok, s'inquiète pour la sauvegarde des traditions. Il souhaite devenir le parrain du bébé de sa cousine Morgane afin de faire de lui son descendant...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1997,
+  "durationMinutes": 102,
+  "cast": [
+    {
+      "qid": "Q51023",
+      "slug": "vanessa-paradis",
+      "name": "Vanessa Paradis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43697",
+      "slug": "jean-reno",
+      "name": "Jean Reno",
+      "role": "actor"
+    },
+    {
+      "qid": "Q360313",
+      "slug": "gil-bellows",
+      "name": "Gil Bellows",
+      "role": "actor"
+    },
+    {
+      "qid": "Q446717",
+      "slug": "dabney-coleman",
+      "name": "Dabney Coleman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q118052",
+      "slug": "eleonore-hirt",
+      "name": "Éléonore Hirt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q106099",
+      "slug": "jeanne-moreau",
+      "name": "Jeanne Moreau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3194207",
+      "slug": "katrine-boorman",
+      "name": "Katrine Boorman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3372554",
+      "slug": "paula-dehelly",
+      "name": "Paula Dehelly",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3426592",
+    "slug": "rene-manzor",
+    "name": "René Manzor",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

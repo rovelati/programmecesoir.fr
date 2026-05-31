@@ -1,0 +1,102 @@
+{
+  "type": "film",
+  "slug": "sauvage",
+  "title": "Sauvage",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Sauvage"
+  ],
+  "genres": [
+    "drame",
+    "film LGBT"
+  ],
+  "description": "Un homme retrouve son père après 30 ans dans une station service isolée. Une panne de camionnette avec des prostituées entraîne des problèmes.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "52d3b333-5df5-4622-856d-750355f4e15d",
+      "title": "Sauvage",
+      "programSlug": "sauvage",
+      "programUrl": "/programme/eurochannel/sauvage",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 17:05:00+00",
+      "endTime": "2026-04-21 18:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "f0fa013d-66cd-42a9-841b-5fe368e578f3",
+      "title": "Sauvage",
+      "programSlug": "sauvage",
+      "programUrl": "/programme/eurochannel/sauvage",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 15:30:00+00",
+      "endTime": "2026-04-23 17:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": 99,
+  "cast": [
+    {
+      "qid": "Q17354467",
+      "slug": "eric-bernard",
+      "name": "Éric Bernard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55834823",
+      "slug": "felix-maritaud",
+      "name": "Félix Maritaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q101138941",
+      "slug": "nicolas-dibla",
+      "name": "Nicolas Dibla",
+      "role": "actor"
+    },
+    {
+      "qid": "Q101138594",
+      "slug": "philippe-ohrel",
+      "name": "Philippe Ohrel",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q58805940",
+    "slug": "camille-vidal-naquet",
+    "name": "Camille Vidal-Naquet",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 17:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "kev-adams",
+  "name": "Kev Adams",
+  "worksCount": 1,
+  "description": "humoriste et acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kev%20Adams%20Cannes%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1991-07-01",
+  "nationality": "France",
+  "jobTitle": "artiste de cabaret",
+  "externalIds": {
+    "wikidata": "Q2202755",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kev_Adams",
+    "imdb": "nm1133795",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "maison-de-retraite",
+      "title": "Maison de retraite"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

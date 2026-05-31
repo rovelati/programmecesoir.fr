@@ -1,0 +1,118 @@
+{
+  "type": "film",
+  "slug": "partir-un-jour",
+  "title": "Partir un jour",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Partir un jour"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Cécile, 40 ans et enceinte de son premier enfant, est une brillante cheffe cuisinière. Elle s'apprête à réaliser son rêve, ouvrir un restaurant gastronomique à Paris avec son compagnon, Sofiane, lorsqu'une mauvaise nouvelle la contraint à revoir ses plans. En effet, la jeune femme doit rentrer en urgence dans son village natal du Loir-et-Cher, à la suite de l'infarctus de son père. Loin de l'agitation parisienne, elle retrouve Raphaël, son amour de jeunesse qui, lui, n'a jamais pu se résoudre à quitter le bourg. Les souvenirs de Cécile ressurgissent et ses certitudes vacillent…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f28c0994-d653-4c9c-b607-9a823b76cde7",
+      "title": "Partir un jour",
+      "programSlug": "partir-un-jour",
+      "programUrl": "/programme/canal-box-office/partir-un-jour",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 22:14:00+00",
+      "endTime": "2026-04-23 23:48:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q29591607",
+      "slug": "juliette-armanet",
+      "name": "Juliette Armanet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271481",
+      "slug": "dominique-blanc",
+      "name": "Dominique Blanc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2887704",
+      "slug": "bastien-bouillon",
+      "name": "Bastien Bouillon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3085730",
+      "slug": "francois-rollin",
+      "name": "François Rollin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3519305",
+      "slug": "tewfik-jallab",
+      "name": "Tewfik Jallab",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3307810",
+      "slug": "mhamed-arezki",
+      "name": "Mhamed Arezki",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q116896306",
+    "slug": "amelie-bonnin",
+    "name": "Amélie Bonnin",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 22:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

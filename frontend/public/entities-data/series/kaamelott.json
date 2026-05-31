@@ -1,0 +1,382 @@
+{
+  "type": "series",
+  "slug": "kaamelott",
+  "title": "Kaamelott",
+  "airingsCount": 41,
+  "sourceTitles": [
+    "Kaamelott"
+  ],
+  "genres": [
+    "médiéval-fantastique",
+    "série télévisée comique"
+  ],
+  "description": "Au Ve siècle après Jésus-Christ, dans l'actuelle Grande-Bretagne, le roi Arthur règne sur sa cour, à Kaamelott. Investi d'une mission divine, il recherche sans relâche le Graal, la coupe dont se serait servi Jésus de Nazareth lors de la Cène. Mais voilà, les fameux chevaliers de la Table ronde ne se montrent pas très efficaces pour le seconder. Incompétents, batailleurs, noceurs et fainéants, ils multiplient les gaffes. La vie à Kaamelott est pleine de surprises. Une série à succès qui cultive l'absurde avec délectation. L'acteur et réalisateur Alexandre Astier y côtoie son père, Lionnel Astier.",
+  "descriptionAi": "Cette série comique médiévale-fantastique, créée par Alexandre Astier, dépeint avec un humour absurde et décalé la quête improbable du Graal par le roi Arthur et ses chevaliers de la Table ronde. Entre anachronismes savoureux et dialogues cultes, l'ambiance oscille entre la farce et une étonnante profondeur dramatique au fil des saisons. Son génie réside dans cette alchimie unique, mêlant comédie de caractère et récit épique, rendue par une distribution impeccable. Un monument de la télévision française qui séduit par son intelligence et son originalité, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "channelNumber": 9,
+      "logoUrl": "/loghi/w9.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "channelNumber": 21,
+      "logoUrl": "/loghi/6ter.png",
+      "airingsCount": 19
+    },
+    {
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paris-premiere.png",
+      "airingsCount": 11
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "366cbf3d-aa26-4ae8-9b97-de1fce536232",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/w9/kaamelott",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-20 07:00:00+00",
+      "endTime": "2026-04-20 09:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d998e825-7ae4-4816-9819-9ddac8372b55",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/paris-premiere/kaamelott",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-20 08:40:00+00",
+      "endTime": "2026-04-20 10:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "26c2656e-e599-499b-babc-7854d9fc24d5",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-20 19:10:00+00",
+      "endTime": "2026-04-20 20:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e974b0a7-e630-4601-b442-747411eda90a",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-20 20:55:00+00",
+      "endTime": "2026-04-20 22:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7e47875a-411f-4185-ab90-302187c85da4",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-20 22:45:00+00",
+      "endTime": "2026-04-21 00:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "068c4ad2-b9f7-4b5c-9ba6-60b728607473",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/w9/kaamelott",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-21 07:00:00+00",
+      "endTime": "2026-04-21 09:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "44ef2baf-c378-4975-88f7-6471c35176c6",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/paris-premiere/kaamelott",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-21 08:50:00+00",
+      "endTime": "2026-04-21 10:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b431c5d8-5dc3-47df-b3eb-9d71be95a947",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-21 19:10:00+00",
+      "endTime": "2026-04-21 20:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "16f779df-7fda-426d-a447-51ab557e1d2a",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-21 20:30:00+00",
+      "endTime": "2026-04-21 22:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d118b619-3eb2-46b1-a2ef-3893855ace01",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-21 22:00:00+00",
+      "endTime": "2026-04-21 23:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "deb7d63d-166d-41b9-9ca5-427e56e9cb1d",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/w9/kaamelott",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-22 07:00:00+00",
+      "endTime": "2026-04-22 09:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "7e49f9fd-8244-406b-b991-857810bfc5b3",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/paris-premiere/kaamelott",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-22 08:45:00+00",
+      "endTime": "2026-04-22 10:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "eb7e7bdc-23c6-499d-8d65-f952bcee5bc0",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-22 21:20:00+00",
+      "endTime": "2026-04-22 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c368e4fe-ea7c-441f-b2df-0950d6dae8f8",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/6ter/kaamelott",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-22 22:45:00+00",
+      "endTime": "2026-04-23 00:00:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "2edc35e1-3ab9-4c22-9fc6-45f99a810fc2",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/w9/kaamelott",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-23 07:00:00+00",
+      "endTime": "2026-04-23 09:20:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "7123259b-5949-46ba-b120-f18272764bd3",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/paris-premiere/kaamelott",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-23 08:50:00+00",
+      "endTime": "2026-04-23 10:40:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6e562e54-785c-46f0-ba6a-c9144fdb42f2",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/w9/kaamelott",
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "startTime": "2026-04-24 07:00:00+00",
+      "endTime": "2026-04-24 09:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "79ef6133-ee7a-47a9-9379-a1d03187b447",
+      "title": "Kaamelott",
+      "programSlug": "kaamelott",
+      "programUrl": "/programme/paris-premiere/kaamelott",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-24 09:30:00+00",
+      "endTime": "2026-04-24 10:40:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:42:50.780Z",
+  "startYear": 2005,
+  "numberOfSeasons": 6,
+  "cast": [
+    {
+      "qid": "Q2833411",
+      "slug": "alexandre-astier",
+      "name": "Alexandre Astier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851111",
+      "slug": "anne-girouard",
+      "name": "Anne Girouard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082237",
+      "slug": "franck-pitiot",
+      "name": "Franck Pitiot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3241976",
+      "slug": "lionnel-astier",
+      "name": "Lionnel Astier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3525007",
+      "slug": "thomas-cousseau",
+      "name": "Thomas Cousseau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3164751",
+      "slug": "jean-christophe-hembert",
+      "name": "Jean-Christophe Hembert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3158492",
+      "slug": "jacques-chambon",
+      "name": "Jacques Chambon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3340339",
+      "slug": "nicolas-gabion",
+      "name": "Nicolas Gabion",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457089",
+      "slug": "audrey-fleurot",
+      "name": "Audrey Fleurot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3169949",
+      "slug": "jean-robert-lombard",
+      "name": "Jean-Robert Lombard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q90844246",
+      "slug": "lan-truong",
+      "name": "Lan Truong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3484193",
+      "slug": "simon-astier",
+      "name": "Simon Astier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3554530",
+      "slug": "vanessa-guedj",
+      "name": "Vanessa Guedj",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111795812",
+      "slug": "stephane-margot",
+      "name": "Stéphane Margot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16626542",
+      "slug": "aurelien-portehaut",
+      "name": "Aurélien Portehaut",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2834533",
+      "slug": "alexis-henon",
+      "name": "Alexis Hénon",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q2833411",
+    "slug": "alexandre-astier",
+    "name": "Alexandre Astier",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 07:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

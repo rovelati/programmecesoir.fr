@@ -1,0 +1,120 @@
+{
+  "type": "film",
+  "slug": "11-6",
+  "title": "11.6",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "11.6"
+  ],
+  "genres": [
+    "thriller",
+    "film ou téléfilm de casse",
+    "drame"
+  ],
+  "description": "Toni est convoyeur de fonds depuis une dizaine d'années. Employé sans histoires, il est respecté par ses collègues comme par sa hiérarchie. Pourtant, après un événement anodin vécu comme une humiliation, Toni change, devient amer et s'isole. Le 5 novembre 2009, après avoir chargé 11,6 millions d'euros à la Banque de France, il attend que ses collègues descendent du fourgon blindé pour leur fausser compagnie. La police, qui croit tout d'abord à un braquage, doit bien se rendre à l'évidence : le vol est manifeste. La chasse à l'homme est lancée. Toni est finalement localisé, mais le magot reste introuvable. Toni se révèle être un habile dissimulateur...",
+  "descriptionAi": "Ce thriller français, inspiré d'un fait divers réel, plonge dans l'univers des convoyeurs de fonds. L'ambiance est tendue et psychologique, mêlant les genres du drame et du film de casse. L'intérêt réside dans le portrait fascinant d'un homme ordinaire, incarné par François Cluzet, qui bascule soudainement dans un acte démesuré après une humiliation. Le film explore avec acuité les mécanismes de la rancœur et la métamorphose d'un employé modèle en fugitif insaisissable, gardant jusqu'au bout le secret de son butin. Un récit de descente aux enfers aussi haletant que troublant, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:22:56.132Z",
+  "year": 2013,
+  "durationMinutes": 102,
+  "cast": [
+    {
+      "qid": "Q600051",
+      "slug": "francois-cluzet",
+      "name": "François Cluzet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q895091",
+      "slug": "bouli-lanners",
+      "name": "Bouli Lanners",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2997347",
+      "slug": "corinne-masiero",
+      "name": "Corinne Masiero",
+      "role": "actor"
+    },
+    {
+      "qid": "Q899054",
+      "slug": "johan-libereau",
+      "name": "Johan Libéreau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3501539",
+      "slug": "stephan-wojtowicz",
+      "name": "Stéphan Wojtowicz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165060",
+      "slug": "jean-claude-lecas",
+      "name": "Jean-Claude Lecas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3193200",
+      "slug": "karim-leklou",
+      "name": "Karim Leklou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3241976",
+      "slug": "lionnel-astier",
+      "name": "Lionnel Astier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q304707",
+      "slug": "mehdi-nebbou",
+      "name": "Mehdi Nebbou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3195765",
+      "slug": "juana-acosta",
+      "name": "Juana Acosta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q17354467",
+      "slug": "eric-bernard",
+      "name": "Éric Bernard",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3379934",
+    "slug": "philippe-godeau",
+    "name": "Philippe Godeau",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

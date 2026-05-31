@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "patrick-timsit",
+  "name": "Patrick Timsit",
+  "worksCount": 1,
+  "description": "acteur et réalisateur de cinéma, comédien de café-théâtre",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20Timsit%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1959-07-15",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q466527",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Patrick_Timsit",
+    "imdb": "nm0863816",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "aimons-nous-vivants",
+      "title": "Aimons-nous vivants"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c53dcd94-56f9-4ba7-9d11-feefe81de682",
+      "title": "Aimons-nous vivants",
+      "programSlug": "aimons-nous-vivants",
+      "programUrl": "/programme/canal-box-office/aimons-nous-vivants",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 14:18:00+00",
+      "endTime": "2026-04-23 15:46:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 14:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

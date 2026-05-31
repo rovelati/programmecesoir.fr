@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "maurice-baquet",
+  "name": "Maurice Baquet",
+  "worksCount": 2,
+  "description": "acteur et violoncelliste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MauriceBaquet-StudioHarcourt-1966.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1911-05-26",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q323175",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Maurice_Baquet_(acteur)",
+    "imdb": "nm0052703",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dernier-atout",
+      "title": "Dernier atout"
+    },
+    {
+      "type": "film",
+      "slug": "gueule-d-amour",
+      "title": "Gueule d'amour"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,84 @@
+{
+  "type": "film",
+  "slug": "mexico-86",
+  "title": "Mexico 86",
+  "airingsCount": 8,
+  "sourceTitles": [
+    "Mexico 86"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Au milieu des années 1980, au Mexique. Maria, une militante révolutionnaire guatémaltèque, est depuis des années exilée à Mexico où elle poursuit sans relâche son action politique contre la junte militaire qui a pris le pouvoir dans son pays. Alors que son fils âgé de 10 ans vient vivre avec elle, la jeune femme saisit immédiatement qu'elle se trouve face à un dilemme cornélien. En effet, elle va devoir faire un choix entre son rôle de mère et celui d'activiste.",
+  "descriptionAi": "Ce drame poignant nous plonge dans le Mexique des années 1980, baigné d'une ambiance à la fois tendue et mélancolique. Il suit le parcours déchirant de Maria, une exilée guatémaltèque dont l'engagement révolutionnaire est bouleversé par l'arrivée de son jeune fils. Le film explore avec subtilité le conflit intime entre la lutte politique et les liens familiaux, offrant une réflexion profonde sur les sacrifices personnels. La force du récit et la justesse des émotions en font une œuvre captivante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "aa849323-89ee-4280-adb7-cb81950e9091",
+      "title": "Mexico 86",
+      "programSlug": "mexico-86",
+      "programUrl": "/programme/paramount-channel/mexico-86",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-22 17:25:00+00",
+      "endTime": "2026-04-22 19:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e2ebfadc-0758-4fa3-82f8-04fbcf54689f",
+      "title": "Mexico 86",
+      "programSlug": "mexico-86",
+      "programUrl": "/programme/canal-cinema/mexico-86",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 17:26:00+00",
+      "endTime": "2026-04-22 19:00:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q127381548",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mexico_86",
+    "imdb": "tt31229255",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:34:24.420Z",
+  "year": 2024,
+  "durationMinutes": 89,
+  "cast": [],
+  "director": {
+    "qid": "Q75612503",
+    "slug": "cesar-diaz",
+    "name": "César Díaz",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 17:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

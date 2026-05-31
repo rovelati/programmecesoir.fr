@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "nicolas-dibla",
+  "name": "Nicolas Dibla",
+  "worksCount": 1,
+  "description": "actor",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1985-09-21",
+  "nationality": null,
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q101138941",
+    "wikipedia": null,
+    "imdb": "nm9785782",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sauvage",
+      "title": "Sauvage"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "52d3b333-5df5-4622-856d-750355f4e15d",
+      "title": "Sauvage",
+      "programSlug": "sauvage",
+      "programUrl": "/programme/eurochannel/sauvage",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-21 17:05:00+00",
+      "endTime": "2026-04-21 18:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "f0fa013d-66cd-42a9-841b-5fe368e578f3",
+      "title": "Sauvage",
+      "programSlug": "sauvage",
+      "programUrl": "/programme/eurochannel/sauvage",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 15:30:00+00",
+      "endTime": "2026-04-23 17:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 17:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

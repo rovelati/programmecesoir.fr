@@ -1,0 +1,88 @@
+{
+  "type": "film",
+  "slug": "battle-star-wars",
+  "title": "Battle Star Wars",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Battle Star Wars"
+  ],
+  "genres": [
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "Lord Malaster règne d'une main de fer dans l'espace. Pour étendre son empire, il a jeté son dévolu sur une nouvelle planète dont les habitants se révoltent et se préparent à une bataille intergalactique. Les rebelles reçoivent un soutien inattendu de la part d'Astera Malaster, la fille du tyran...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mcm.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c7540dfd-4438-4376-a4a4-c3931586bc5c",
+      "title": "Battle Star Wars",
+      "programSlug": "battle-star-wars",
+      "programUrl": "/programme/mcm/battle-star-wars",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-19 14:15:00+00",
+      "endTime": "2026-04-19 15:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9c36bfe7-710a-47cc-ab17-764f25672e83",
+      "title": "Battle Star Wars",
+      "programSlug": "battle-star-wars",
+      "programUrl": "/programme/mcm/battle-star-wars",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-20 20:35:00+00",
+      "endTime": "2026-04-20 22:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "640190cc-b04b-4d18-81a2-98f4a4057021",
+      "title": "Battle Star Wars",
+      "programSlug": "battle-star-wars",
+      "programUrl": "/programme/mcm/battle-star-wars",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-25 19:00:00+00",
+      "endTime": "2026-04-25 20:35:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2020,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q100150126",
+    "slug": "james-thomas",
+    "name": "James Thomas",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 14:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

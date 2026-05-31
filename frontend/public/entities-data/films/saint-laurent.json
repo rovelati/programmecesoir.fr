@@ -1,0 +1,72 @@
+{
+  "type": "film",
+  "slug": "saint-laurent",
+  "title": "Saint Laurent",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Saint Laurent"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Entre 1967 et 1976 : les années les plus créatives de la carrière du grand couturier Yves Saint Laurent. Une période où tout se révèle chez le génie français de la haute-couture, un créateur aux prises avec ses démons et ceux de son époque. Homme pétri de contrastes, entre créativité et morbidité, Yves Saint Laurent vit d'amours éperdues et conflictuelles avec Pierre Bergé ou Jacques de Basher et révèle autant de solitude que d'envie d'être aimé. Sa dépression chronique et son rapport si singulier à la réalité n'altèrent pas son statut de star...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e63fa6f4-7e80-4ecd-8c23-bd9ff79e84cf",
+      "title": "Saint Laurent",
+      "programSlug": "saint-laurent",
+      "programUrl": "/programme/canal-grand-ecran/saint-laurent",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-21 01:35:00+00",
+      "endTime": "2026-04-21 04:29:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e6f4d126-5167-421e-ac37-c9a5e7fb8dd9",
+      "title": "Saint Laurent",
+      "programSlug": "saint-laurent",
+      "programUrl": "/programme/cine-emotion/saint-laurent",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 08:19:00+00",
+      "endTime": "2026-04-23 10:46:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 01:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

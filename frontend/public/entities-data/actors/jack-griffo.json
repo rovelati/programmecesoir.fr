@@ -1,0 +1,185 @@
+{
+  "type": "actor",
+  "slug": "jack-griffo",
+  "name": "Jack Griffo",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Griffo%20KCA%202025%20(cropped).png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1996-12-11",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q13460355",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jack_Griffo",
+    "imdb": "nm4338976",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "les-thunderman-incognito",
+      "title": "Les Thunderman : Incognito"
+    },
+    {
+      "type": "series",
+      "slug": "les-thunderman",
+      "title": "Les Thunderman"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dffa1523-3c09-4549-b61f-abaaf1aaad94",
+      "title": "Les Thunderman : Incognito",
+      "programSlug": "les-thunderman-incognito",
+      "programUrl": "/programme/nickelodeon/les-thunderman-incognito",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 10:16:00+00",
+      "endTime": "2026-04-19 10:39:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "f3e30f86-f10d-43e1-9592-4eab1dce4161",
+      "title": "Les Thunderman : Incognito",
+      "programSlug": "les-thunderman-incognito",
+      "programUrl": "/programme/nickelodeon/les-thunderman-incognito",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 10:39:00+00",
+      "endTime": "2026-04-19 11:02:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bfa62adb-7303-4790-9602-7a1c105ddff7",
+      "title": "Les Thunderman : Incognito",
+      "programSlug": "les-thunderman-incognito",
+      "programUrl": "/programme/nickelodeonplus1fr/les-thunderman-incognito",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 11:16:00+00",
+      "endTime": "2026-04-19 11:39:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d7a6f021-5285-4fcd-acb9-ff70b945197d",
+      "title": "Les Thunderman : Incognito",
+      "programSlug": "les-thunderman-incognito",
+      "programUrl": "/programme/nickelodeon1/les-thunderman-incognito",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 11:16:00+00",
+      "endTime": "2026-04-19 11:39:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8101bcff-d3be-4d5d-a322-436d841bd8f3",
+      "title": "Les Thunderman : Incognito",
+      "programSlug": "les-thunderman-incognito",
+      "programUrl": "/programme/nickelodeonplus1fr/les-thunderman-incognito",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 11:39:00+00",
+      "endTime": "2026-04-19 12:02:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "79ad9db2-4101-4947-a050-c6d0088dc9fb",
+      "title": "Les Thunderman : Incognito",
+      "programSlug": "les-thunderman-incognito",
+      "programUrl": "/programme/nickelodeon1/les-thunderman-incognito",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 11:39:00+00",
+      "endTime": "2026-04-19 12:02:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "28492ee5-40cc-479b-934d-f34a038f3446",
+      "title": "Les Thunderman : Incognito",
+      "programSlug": "les-thunderman-incognito",
+      "programUrl": "/programme/nickelodeon/les-thunderman-incognito",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 17:24:00+00",
+      "endTime": "2026-04-19 17:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0e2bf559-6f59-4cf0-b106-0d2c330b0242",
+      "title": "Les Thunderman : Incognito",
+      "programSlug": "les-thunderman-incognito",
+      "programUrl": "/programme/nickelodeonplus1fr/les-thunderman-incognito",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 18:24:00+00",
+      "endTime": "2026-04-19 18:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "7f235a95-52ce-4c5a-85cf-7fae9d5a1571",
+      "title": "Les Thunderman : Incognito",
+      "programSlug": "les-thunderman-incognito",
+      "programUrl": "/programme/nickelodeon1/les-thunderman-incognito",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 18:24:00+00",
+      "endTime": "2026-04-19 18:51:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d643cd37-8c15-49b4-8ad1-52d3d4b564f1",
+      "title": "Les Thunderman : Incognito",
+      "programSlug": "les-thunderman-incognito",
+      "programUrl": "/programme/nickelodeon/les-thunderman-incognito",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 00:44:00+00",
+      "endTime": "2026-04-20 01:08:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "831b8bdf-30a5-4932-831b-970e2da0ca75",
+      "title": "Les Thunderman : Incognito",
+      "programSlug": "les-thunderman-incognito",
+      "programUrl": "/programme/nickelodeonplus1fr/les-thunderman-incognito",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 01:44:00+00",
+      "endTime": "2026-04-20 02:08:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "dc42d46e-8f50-4de8-8bed-01ca91533813",
+      "title": "Les Thunderman",
+      "programSlug": "les-thunderman",
+      "programUrl": "/programme/nickelodeon/les-thunderman",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 09:25:00+00",
+      "endTime": "2026-04-20 09:49:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 10:16:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

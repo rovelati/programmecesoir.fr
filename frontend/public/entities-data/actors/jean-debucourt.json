@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jean-debucourt",
+  "name": "Jean Debucourt",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Debucourt%20by%20Harcourt%201938.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1894-01-19",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3171608",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Debucourt",
+    "imdb": "nm0213581",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dernier-atout",
+      "title": "Dernier atout"
+    },
+    {
+      "type": "film",
+      "slug": "madame-de",
+      "title": "Madame de..."
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

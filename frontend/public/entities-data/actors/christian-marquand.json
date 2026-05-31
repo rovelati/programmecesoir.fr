@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "christian-marquand",
+  "name": "Christian Marquand",
+  "worksCount": 1,
+  "description": "acteur et réalisateur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1927-03-15",
+  "nationality": "France",
+  "jobTitle": "réalisateur ou réalisatrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q1081030",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Christian_Marquand",
+    "imdb": "nm0549650",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "apocalypse-now-final-cut",
+      "title": "Apocalypse Now Final Cut"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

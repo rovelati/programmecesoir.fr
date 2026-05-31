@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "david-strathairn",
+  "name": "David Strathairn",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Strathairn%202022.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1949-01-26",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q310318",
+    "wikipedia": "https://fr.wikipedia.org/wiki/David_Strathairn",
+    "imdb": "nm0000657",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-vengeance-dans-la-peau",
+      "title": "La vengeance dans la peau"
+    },
+    {
+      "type": "film",
+      "slug": "jason-bourne-l-heritage",
+      "title": "Jason Bourne : l'héritage"
+    },
+    {
+      "type": "film",
+      "slug": "l-a-confidential",
+      "title": "L.A. Confidential"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "926ff80c-13f7-4e5f-8f5b-fa5305d4e8e8",
+      "title": "Jason Bourne : L'héritage",
+      "programSlug": "jason-bourne-l-heritage",
+      "programUrl": "/programme/ab3/jason-bourne-l-heritage",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-22 19:55:00+00",
+      "endTime": "2026-04-22 22:00:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-22 19:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

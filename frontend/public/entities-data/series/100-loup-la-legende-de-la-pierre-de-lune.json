@@ -1,0 +1,72 @@
+{
+  "type": "series",
+  "slug": "100-loup-la-legende-de-la-pierre-de-lune",
+  "title": "100% Loup : La Légende de la pierre de lune",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "100% Loup : La Légende de la pierre de lune"
+  ],
+  "genres": [
+    "Série TV",
+    "Séries d'animation"
+  ],
+  "description": "Freddy Lupin réussit à convaincre les anciens de la meute de le laisser passer l'épreuve d'entrée à l'académie d'Hurleville, réservée aux loups.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "038512d8-c0ca-42e2-a7af-346b7ce76fe8",
+      "title": "100% Loup : La Légende de la pierre de lune",
+      "programSlug": "100-loup-la-legende-de-la-pierre-de-lune",
+      "programUrl": "/programme/la-trois/100-loup-la-legende-de-la-pierre-de-lune",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-25 12:43:00+00",
+      "endTime": "2026-04-25 13:05:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "e251d5d8-11b9-4c8d-95e9-828f1e97a7d4",
+      "title": "100% Loup : La Légende de la pierre de lune",
+      "programSlug": "100-loup-la-legende-de-la-pierre-de-lune",
+      "programUrl": "/programme/la-trois/100-loup-la-legende-de-la-pierre-de-lune",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-25 13:05:00+00",
+      "endTime": "2026-04-25 13:27:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-25 12:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

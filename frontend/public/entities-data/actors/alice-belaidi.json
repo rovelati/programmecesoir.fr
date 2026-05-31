@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "alice-belaidi",
+  "name": "Alice Belaïdi",
+  "worksCount": 2,
+  "description": "actrice française",
+  "descriptionAi": "Alice Belaïdi incarne une énergie solaire et une polyvalence rare dans le paysage cinématographique français. Naviguant avec aisance entre la comédie populaire, où son naturel et son timing comique brillent, et des rôles plus dramatiques qui révèlent sa profondeur, elle captive par son authenticité. Ses performances, toujours justes et empreintes d'une grande générosité, créent une complicité immédiate avec le public. L'ambiance de ses films oscille entre la franche rigolade et l'émotion touchante, offrant des moments de pur divertissement comme des plongées plus intimistes. Découvrir son parcours, c'est suivre une actrice au talent évident et au charisme communicatif, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Balaidi%20Deauville%202019.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1987-03-18",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q32608",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alice_Bela%C3%AFdi",
+    "imdb": "nm3902885",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sous-les-jupes-des-filles",
+      "title": "Sous les jupes des filles"
+    },
+    {
+      "type": "film",
+      "slug": "radiostars",
+      "title": "Radiostars"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f7cee21b-9787-4fb4-9cf0-ee09695438ea",
+      "title": "Radiostars",
+      "programSlug": "radiostars",
+      "programUrl": "/programme/cine-family/radiostars",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 13:09:00+00",
+      "endTime": "2026-04-21 14:48:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:52.572Z",
+  "nextAiringAt": "2026-04-21 13:09:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

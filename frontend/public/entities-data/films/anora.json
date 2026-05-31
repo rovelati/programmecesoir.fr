@@ -1,0 +1,156 @@
+{
+  "type": "film",
+  "slug": "anora",
+  "title": "Anora",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Anora"
+  ],
+  "genres": [
+    "comédie dramatique"
+  ],
+  "description": "Anora, une jeune strip-teaseuse de Brooklyn, voit sa vie se transformer en véritable conte de fées quand elle rencontre Ivan, le fils de Nikolai Zakharov, un célèbre et influent oligarque russe. Sans réfléchir, elle accepte la demande en mariage, soudaine et inattendue, du jeune homme. Mais lorsque la nouvelle de leur mariage parvient en Russie, leur belle idylle est menacée. En effet, les parents du jeune homme se rendent immédiatement à New York avec la ferme intention de faire annuler cette union, en employant la force si nécessaire. Malgré les risques, Anora refuse catégoriquement de divorcer...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 139,
+  "cast": [
+    {
+      "qid": "Q26923245",
+      "slug": "mikey-madison",
+      "name": "Mikey Madison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q115474775",
+      "slug": "mark-eidelstein",
+      "name": "Mark Eidelstein",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24035944",
+      "slug": "iouri-borissov",
+      "name": "Iouri Borissov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4174263",
+      "slug": "darya-ekamasova",
+      "name": "Darya Ekamasova",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2376200",
+      "slug": "alexei-serebriakov",
+      "name": "Alexeï Serebriakov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125429069",
+      "slug": "ivy-wolk",
+      "name": "Ivy Wolk",
+      "role": "actor"
+    },
+    {
+      "qid": "Q130626878",
+      "slug": "luna-sofia-miranda",
+      "name": "Luna Sofía Miranda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131389619",
+      "slug": "karren-karagulian",
+      "name": "Karren Karagulian",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43373841",
+      "slug": "vache-tovmasyan",
+      "name": "Vache Tovmasyan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q130805513",
+      "slug": "lindsey-normington",
+      "name": "Lindsey Normington",
+      "role": "actor"
+    },
+    {
+      "qid": "Q111536404",
+      "slug": "ella-rubin",
+      "name": "Ella Rubin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q110253170",
+      "slug": "brittney-rodriguez",
+      "name": "Brittney Rodriguez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6834290",
+      "slug": "michael-sergio",
+      "name": "Michael Sergio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q61983404",
+      "slug": "mickey-o-hagan",
+      "name": "Mickey O'hagan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132459156",
+      "slug": "q132459156",
+      "name": "Q132459156",
+      "role": "actor"
+    },
+    {
+      "qid": "Q132459158",
+      "slug": "q132459158",
+      "name": "Q132459158",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q7441419",
+    "slug": "sean-s-baker",
+    "name": "Sean S. Baker",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

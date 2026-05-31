@@ -1,0 +1,281 @@
+{
+  "type": "series",
+  "slug": "looney-tunes-cartoons",
+  "title": "Looney Tunes Cartoons",
+  "airingsCount": 311,
+  "sourceTitles": [
+    "Looney Tunes Cartoons"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série télévisée comique",
+    "série télévisée d'aventures"
+  ],
+  "description": "Daffuccino : Une riche spécialiste en café va écrire une critique sur l'établissement de Porky. Cet article sera capital pour notre ami : positif, il le propulsera vers la réussite. Négatif, ce sera la chute. Porky a toutes les raisons de s'inquiéter, car c'est Daffy qui se charge de servir cette client particulière et Daffy n'y connait rien, en café… /Une piaule qui miaule : Mémé et Titi vont déménager au soleil, en Floride. Si Sylvestre veut avaler le canari, c'est le moment ou jamais. Mais une fois dans le ventre de rominet, Titi prend ses aises et aménage le lieu à son goût. Il commande même des meubles pour se sentir chez lui…",
+  "descriptionAi": "Cette série d'animation, débutée en 2020, renoue avec l'esprit des classiques Looney Tunes. Mêlant comédie, aventure et humour absurde, elle plonge le téléspectateur dans un univers espiègle et dynamique. Chaque épisode, comme celui où Porky redoute la critique d'une experte en café servie par l'incompétent Daffy, ou celui où Titi transforme l'estomac de Sylvestre en nid douillet, capture la folie inventive et l'énergie intemporelle des personnages. C'est un divertissement familial vif, fidèle à l'héritage tout en étant rafraîchissant. Une escapade joyeuse et débridée à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang-1.png",
+      "airingsCount": 120
+    },
+    {
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "channelNumber": null,
+      "logoUrl": "/loghi/boomerang.png",
+      "airingsCount": 115
+    },
+    {
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cartoon-network.png",
+      "airingsCount": 76
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ed3d1467-8453-4a07-9435-9e56bc04e895",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/cartoon-network/looney-tunes-cartoons",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 06:40:00+00",
+      "endTime": "2026-04-19 06:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a7a6b847-1af9-4ead-a867-0436407ce63f",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/cartoon-network/looney-tunes-cartoons",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 06:50:00+00",
+      "endTime": "2026-04-19 07:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fdea71ee-0b8f-4fa5-88da-cede74c932b8",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/cartoon-network/looney-tunes-cartoons",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 07:00:00+00",
+      "endTime": "2026-04-19 07:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "37a1bf97-8ec1-4bf6-ab26-7b1635fcc461",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/cartoon-network/looney-tunes-cartoons",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 07:10:00+00",
+      "endTime": "2026-04-19 07:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "43f6f2d8-1bfc-4ef7-bb84-a1ae37af1eb3",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/boomerang/looney-tunes-cartoons",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 13:00:00+00",
+      "endTime": "2026-04-19 13:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "444a189c-45f5-4c02-a707-088f6b70e835",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/boomerang/looney-tunes-cartoons",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 13:10:00+00",
+      "endTime": "2026-04-19 13:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "3020ae7e-017d-4624-b532-c718f6248a34",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/boomerang/looney-tunes-cartoons",
+      "channelId": "boomerang",
+      "channelName": "Boomerang",
+      "channelSlug": "boomerang",
+      "startTime": "2026-04-19 13:20:00+00",
+      "endTime": "2026-04-19 13:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4a08b70b-91ef-42d0-81f4-8ff692a58b37",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/boomerang-1/looney-tunes-cartoons",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-19 14:00:00+00",
+      "endTime": "2026-04-19 14:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "35a17951-24e1-43f5-8658-b20af7fff081",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/boomerang-1/looney-tunes-cartoons",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-19 14:10:00+00",
+      "endTime": "2026-04-19 14:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1be3bc27-653f-485f-868f-fa0c17e677b3",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/cartoon-network/looney-tunes-cartoons",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 14:15:00+00",
+      "endTime": "2026-04-19 14:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "fddc5a06-b59f-48ed-bfe7-f10bad30f1a5",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/boomerang-1/looney-tunes-cartoons",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-19 14:20:00+00",
+      "endTime": "2026-04-19 14:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "89536507-d947-4142-8e8f-264b4bccd974",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/cartoon-network/looney-tunes-cartoons",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 14:25:00+00",
+      "endTime": "2026-04-19 14:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d62b37f0-250d-455c-b426-c303a5abf7d7",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/cartoon-network/looney-tunes-cartoons",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 14:35:00+00",
+      "endTime": "2026-04-19 14:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2305f898-68c3-4b97-9248-ed24abd4587d",
+      "title": "Looney Tunes Cartoons",
+      "programSlug": "looney-tunes-cartoons",
+      "programUrl": "/programme/cartoon-network/looney-tunes-cartoons",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 14:50:00+00",
+      "endTime": "2026-04-19 15:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "74d4fec6-0e42-46de-b8e2-dff1b8e3c30d",
+      "title": "Looney Tunes Cartoons - S04E03",
+      "programSlug": "looney-tunes-cartoons-s04e03",
+      "programUrl": "/programme/boomerang-1/looney-tunes-cartoons-s04e03",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-19 23:45:00+00",
+      "endTime": "2026-04-19 23:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "83ae8c3a-741e-4ac9-b956-26ed5fef7fee",
+      "title": "Looney Tunes Cartoons - S02E05",
+      "programSlug": "looney-tunes-cartoons-s02e05",
+      "programUrl": "/programme/boomerang-1/looney-tunes-cartoons-s02e05",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-19 23:55:00+00",
+      "endTime": "2026-04-20 00:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3d6b0fc0-c2fb-4033-970d-99e1280c984b",
+      "title": "Looney Tunes Cartoons - S01E03",
+      "programSlug": "looney-tunes-cartoons-s01e03",
+      "programUrl": "/programme/boomerang-1/looney-tunes-cartoons-s01e03",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-20 00:05:00+00",
+      "endTime": "2026-04-20 00:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d8919460-6a1e-4f60-ab2e-5c211b2e99fc",
+      "title": "Looney Tunes Cartoons - S04E07",
+      "programSlug": "looney-tunes-cartoons-s04e07",
+      "programUrl": "/programme/boomerang-1/looney-tunes-cartoons-s04e07",
+      "channelId": "boomerang-1",
+      "channelName": "Boomerang +1",
+      "channelSlug": "boomerang-1",
+      "startTime": "2026-04-20 00:15:00+00",
+      "endTime": "2026-04-20 00:30:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:21.888Z",
+  "startYear": 2020,
+  "numberOfSeasons": 6,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 06:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

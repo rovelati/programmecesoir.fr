@@ -1,0 +1,101 @@
+{
+  "type": "film",
+  "slug": "dresse-pour-tuer",
+  "title": "Dressé pour tuer",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Dressé pour tuer"
+  ],
+  "genres": [
+    "drame",
+    "film et téléfilm d'horreur"
+  ],
+  "description": "Plusieurs personnes succombent, victimes de morsures d'une rare violence et la police n'arrive pas à retrouver l'animal à l'origine de ce carnage. Et pour cause ! Le chien-loup a été recueilli par une jeune femme qui, après l'avoir accidentellement renversé, tente d'en faire un animal de compagnie...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1982,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q441452",
+      "slug": "kristy-mcnichol",
+      "name": "Kristy McNichol",
+      "role": "actor"
+    },
+    {
+      "qid": "Q344576",
+      "slug": "paul-winfield",
+      "name": "Paul Winfield",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315723",
+      "slug": "burl-ives",
+      "name": "Burl Ives",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1681349",
+      "slug": "jameson-parker",
+      "name": "Jameson Parker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1209753",
+      "slug": "dick-miller",
+      "name": "Dick Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q560770",
+      "slug": "marshall-thompson",
+      "name": "Marshall Thompson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1651660",
+      "slug": "paul-bartel",
+      "name": "Paul Bartel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262479",
+      "slug": "samuel-fuller",
+      "name": "Samuel Fuller",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q262479",
+    "slug": "samuel-fuller",
+    "name": "Samuel Fuller",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

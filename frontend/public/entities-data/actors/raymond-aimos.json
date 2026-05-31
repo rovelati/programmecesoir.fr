@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "raymond-aimos",
+  "name": "Raymond Aimos",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aimos-1944-Anonyme.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1889-02-04",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3420629",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Raymond_Aimos",
+    "imdb": "nm0014656",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "je-t-attendrai",
+      "title": "Je t'attendrai"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

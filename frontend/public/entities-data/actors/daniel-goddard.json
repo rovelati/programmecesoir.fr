@@ -1,0 +1,181 @@
+{
+  "type": "actor",
+  "slug": "daniel-goddard",
+  "name": "Daniel Goddard",
+  "worksCount": 1,
+  "description": "mannequin et acteur, connu pour les Feux de l'amour et BeastMaster",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Goddard%20-%20Monte-Carlo%20Television%20Festival.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-08-28",
+  "nationality": "Australie",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q1160867",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Daniel_Goddard",
+    "imdb": "nm0323773",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "les-feux-de-l-amour",
+      "title": "Les Feux de l'amour"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "17fa8b64-14e6-4a6d-b679-aca331f951b5",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1/les-feux-de-l-amour",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-20 08:55:00+00",
+      "endTime": "2026-04-20 09:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2df0286d-b6ac-45b9-a78e-293144be0e41",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/canal-series/les-feux-de-l-amour",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-20 08:55:00+00",
+      "endTime": "2026-04-20 09:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8dbf23b0-4f07-4ac3-a9d7-cdafd0c1eff1",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/antenne-reunion/les-feux-de-l-amour",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 09:05:00+00",
+      "endTime": "2026-04-20 09:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4d6a0f9a-63bf-46f3-889a-483910abe509",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1-1/les-feux-de-l-amour",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-20 09:55:00+00",
+      "endTime": "2026-04-20 10:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c0496004-69c4-4a0d-b93e-94f878d0deaf",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1/les-feux-de-l-amour",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-21 08:55:00+00",
+      "endTime": "2026-04-21 09:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a9d1a8e3-994c-4d7d-bf74-b69b5668918e",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/canal-series/les-feux-de-l-amour",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-21 08:55:00+00",
+      "endTime": "2026-04-21 09:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "95a81efc-62f4-4b95-b9d1-67cd04c467f5",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1-1/les-feux-de-l-amour",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-21 09:55:00+00",
+      "endTime": "2026-04-21 10:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a856a527-a9cd-44f6-ae0d-a5243d5c8603",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1/les-feux-de-l-amour",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 08:55:00+00",
+      "endTime": "2026-04-22 09:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "8ba89b0d-8ffa-4deb-93fe-ed2709ce9b98",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/canal-series/les-feux-de-l-amour",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 08:55:00+00",
+      "endTime": "2026-04-22 09:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c936f7ae-00ce-4f75-a698-e4e179ec238d",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1-1/les-feux-de-l-amour",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-22 09:55:00+00",
+      "endTime": "2026-04-22 10:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "3297612d-5786-4e30-8445-ccf54416ccea",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1/les-feux-de-l-amour",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-23 08:55:00+00",
+      "endTime": "2026-04-23 09:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "451c6e9c-4e17-46ce-9bb1-cce5c0a2e03d",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/canal-series/les-feux-de-l-amour",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-23 08:55:00+00",
+      "endTime": "2026-04-23 09:45:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 08:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

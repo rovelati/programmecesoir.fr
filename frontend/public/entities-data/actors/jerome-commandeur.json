@@ -1,0 +1,78 @@
+{
+  "type": "actor",
+  "slug": "jerome-commandeur",
+  "name": "Jérôme Commandeur",
+  "worksCount": 2,
+  "description": "acteur et humoriste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/J%C3%A9r%C3%B4me%20Commandeur%20C%C3%A9sar%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-04-12",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3190858",
+    "wikipedia": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Commandeur",
+    "imdb": "nm1569942",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-accident-de-piano",
+      "title": "L'Accident de piano"
+    },
+    {
+      "type": "film",
+      "slug": "ma-famille-t-adore-deja",
+      "title": "Ma famille t'adore déjà"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "57e91742-2867-49ba-aa36-d4096f288a1f",
+      "title": "L'Accident de piano",
+      "programSlug": "l-accident-de-piano",
+      "programUrl": "/programme/canal-cinema/l-accident-de-piano",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-19 20:34:00+00",
+      "endTime": "2026-04-19 22:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "53b2e1df-6552-4488-950d-8818da6953ca",
+      "title": "L'accident de piano",
+      "programSlug": "l-accident-de-piano",
+      "programUrl": "/programme/paramount-channel/l-accident-de-piano",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-19 20:35:00+00",
+      "endTime": "2026-04-19 22:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c3588aeb-09b5-4266-a382-b2a3b1e89889",
+      "title": "L'Accident de piano",
+      "programSlug": "l-accident-de-piano",
+      "programUrl": "/programme/canal-box-office/l-accident-de-piano",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 08:36:00+00",
+      "endTime": "2026-04-22 10:01:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 20:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

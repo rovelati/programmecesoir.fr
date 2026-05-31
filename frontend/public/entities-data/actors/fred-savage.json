@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "fred-savage",
+  "name": "Fred Savage",
+  "worksCount": 1,
+  "description": "acteur de cinéma et télévision, réalisateur",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/FredSavage1989.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-07-09",
+  "nationality": "États-Unis",
+  "jobTitle": "réalisateur ou réalisatrice de télévision",
+  "externalIds": {
+    "wikidata": "Q447392",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fred_Savage",
+    "imdb": "nm0000625",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "austin-powers-dans-goldmember",
+      "title": "Austin Powers dans Goldmember"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

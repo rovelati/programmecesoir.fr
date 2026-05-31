@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jake-cherry",
+  "name": "Jake Cherry",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1996-09-15",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q718446",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jake_Cherry",
+    "imdb": "nm1544084",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-nuit-au-musee",
+      "title": "La nuit au musée"
+    },
+    {
+      "type": "film",
+      "slug": "la-nuit-au-musee-2",
+      "title": "La nuit au musée 2"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

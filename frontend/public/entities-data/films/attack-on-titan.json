@@ -1,0 +1,108 @@
+{
+  "type": "film",
+  "slug": "attack-on-titan",
+  "title": "Attack on Titan",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Attack on Titan"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film et téléfilm d'action"
+  ],
+  "description": "La Terre n'a presque plus d'eau potable. Pour assurer la survie de l'humanité, une mission est envoyée sur Titan pour récupérer des cristaux d'eau auprès de ses habitants extraterrestres. Mais, alors que les humains s'apprêtent à repartir chargés de la précieuse cargaison, ils sont attaqués par des aliens rebelles qui ne croient pas à leurs intentions pacifiques. Sur Terre, Max Reece est alors chargé de mettre sur pied une mission de sauvetage. Il n'a pas d'autre choix que d'accepter de voyager dans le vaisseau d'Allison Quince, avec laquelle il a un vieux différend. Arrivé sur place, l'équipage découvre qu'il ne reste qu'une seule survivante de la mission précédente...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "channelNumber": null,
+      "logoUrl": "/loghi/mcm.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42b52b7f-506d-45b7-acaf-0dfd022798c9",
+      "title": "Attack on Titan",
+      "programSlug": "attack-on-titan",
+      "programUrl": "/programme/mcm/attack-on-titan",
+      "channelId": "mcm",
+      "channelName": "MCM",
+      "channelSlug": "mcm",
+      "startTime": "2026-04-22 20:35:00+00",
+      "endTime": "2026-04-22 22:10:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q1342961",
+      "slug": "haruma-miura",
+      "name": "Haruma Miura",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11653757",
+      "slug": "hiroki-hasegawa",
+      "name": "Hiroki Hasegawa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1051455",
+      "slug": "kiko-mizuhara",
+      "name": "Kiko Mizuhara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1343793",
+      "slug": "kanata-hongo",
+      "name": "Kanata Hongō",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5360024",
+      "slug": "takahiro-miura",
+      "name": "Takahiro Miura",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1051891",
+      "slug": "nanami-sakuraba",
+      "name": "Nanami Sakuraba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11529701",
+      "slug": "satoru-matsuo",
+      "name": "Satoru Matsuo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q900501",
+    "slug": "shinji-higuchi",
+    "name": "Shinji Higuchi",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 20:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,173 @@
+{
+  "type": "film",
+  "slug": "les-tuche-3",
+  "title": "Les Tuche 3",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Les Tuche 3"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Jeff Tuche, devenu maire, veut tenir ses promesses vis-à-vis des habitants de sa commune. Après avoir multiplié les courriers à l'Elysée, il ne voit toujours pas arriver le TGV dans son village. Il décide alors de se présenter au poste de chef de l'Etat et, contre toute attente, remporte l'élection...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7d97f242-41da-4815-9b49-2edcf1ac5c70",
+      "title": "Les Tuche 3",
+      "programSlug": "les-tuche-3",
+      "programUrl": "/programme/ocs/les-tuche-3",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 11:30:00+00",
+      "endTime": "2026-04-20 13:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "303d5de5-cafd-45cd-8704-842fc64feaa9",
+      "title": "Les Tuche 3",
+      "programSlug": "les-tuche-3",
+      "programUrl": "/programme/ocs/les-tuche-3",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-22 06:30:00+00",
+      "endTime": "2026-04-22 08:01:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": 95,
+  "cast": [
+    {
+      "qid": "Q949391",
+      "slug": "jean-paul-rouve",
+      "name": "Jean-Paul Rouve",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3141565",
+      "slug": "isabelle-nanty",
+      "name": "Isabelle Nanty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28497094",
+      "slug": "theo-fernandez",
+      "name": "Théo Fernandez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2975094",
+      "slug": "claire-nadeau",
+      "name": "Claire Nadeau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3473425",
+      "slug": "sarah-stern",
+      "name": "Sarah Stern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23774055",
+      "slug": "pierre-lottin",
+      "name": "Pierre Lottin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3340587",
+      "slug": "nicolas-maury",
+      "name": "Nicolas Maury",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3350789",
+      "slug": "olivier-baroux",
+      "name": "Olivier Baroux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3474928",
+      "slug": "scali-delpeyrat",
+      "name": "Scali Delpeyrat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15069796",
+      "slug": "ralph-amoussou",
+      "name": "Ralph Amoussou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380282",
+      "slug": "philippe-magnan",
+      "name": "Philippe Magnan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3501539",
+      "slug": "stephan-wojtowicz",
+      "name": "Stéphan Wojtowicz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3440165",
+      "slug": "roland-marchisio",
+      "name": "Roland Marchisio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3084132",
+      "slug": "francois-bureloup",
+      "name": "François Bureloup",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380851",
+      "slug": "philippe-vieux",
+      "name": "Philippe Vieux",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3167233",
+      "slug": "jean-luc-porraz",
+      "name": "Jean-Luc Porraz",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3350789",
+    "slug": "olivier-baroux",
+    "name": "Olivier Baroux",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 11:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

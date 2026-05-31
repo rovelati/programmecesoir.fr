@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "pierre-richard",
+  "name": "Pierre Richard",
+  "worksCount": 1,
+  "description": "acteur, réalisateur et scénariste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Richard%20Cannes%202015.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1934-08-16",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q315243",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Pierre_Richard",
+    "imdb": "nm0007069",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-coup-du-parapluie",
+      "title": "Le coup du parapluie"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

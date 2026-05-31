@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "ian-mcshane",
+  "name": "Ian McShane",
+  "worksCount": 3,
+  "description": "acteur, producteur et réalisateur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/McShaneTamLinRio311022%20(1%20of%2021)%20(52470810951)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1942-09-29",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q234141",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ian_McShane",
+    "imdb": "nm0574534",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jack-le-chasseur-de-geants",
+      "title": "Jack le chasseur de géants"
+    },
+    {
+      "type": "film",
+      "slug": "john-wick-2",
+      "title": "John Wick 2"
+    },
+    {
+      "type": "film",
+      "slug": "john-wick",
+      "title": "John Wick"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "79bda564-c115-4d77-ba2c-1c5cfc621167",
+      "title": "Jack le chasseur de géants",
+      "programSlug": "jack-le-chasseur-de-geants",
+      "programUrl": "/programme/cine-family/jack-le-chasseur-de-geants",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 20:46:00+00",
+      "endTime": "2026-04-24 22:37:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-24 20:46:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

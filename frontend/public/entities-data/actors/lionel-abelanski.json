@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "lionel-abelanski",
+  "name": "Lionel Abelanski",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel%20Abelanski.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-10-22",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1341507",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lionel_Abelanski",
+    "imdb": "nm0008506",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "14-jours-pour-aller-mieux",
+      "title": "14 Jours pour aller mieux"
+    },
+    {
+      "type": "film",
+      "slug": "boule-bill",
+      "title": "Boule & Bill"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "85ddd2a1-29db-44a1-8e2f-d9b15dfe66fc",
+      "title": "Boule & Bill",
+      "programSlug": "boule-bill",
+      "programUrl": "/programme/canal-grand-ecran/boule-bill",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 16:15:00+00",
+      "endTime": "2026-04-20 17:35:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 16:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

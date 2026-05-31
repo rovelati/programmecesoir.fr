@@ -1,0 +1,80 @@
+{
+  "type": "series",
+  "slug": "the-equalizer",
+  "title": "The Equalizer",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "The Equalizer",
+    "The Equalizer - Saison 5"
+  ],
+  "genres": [
+    "série télévisée dramatique",
+    "série d'action",
+    "série télévisée policière"
+  ],
+  "description": "Un agent de sécurité quitte son poste pour un appel personnel et, quelques instants plus tard, un incendie réduit en cendres une immense somme d'argent stockée dans un entrepôt sécurisé. McCall est appelée à la rescousse lorsqu'une famille réalise qu'elle a perdu toutes ses économies dans cet incendie mystérieux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2021,
+  "numberOfSeasons": 5,
+  "cast": [
+    {
+      "qid": "Q1112005",
+      "slug": "queen-latifah",
+      "name": "Queen Latifah",
+      "role": "actor"
+    },
+    {
+      "qid": "Q336185",
+      "slug": "chris-noth",
+      "name": "Chris Noth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q460786",
+      "slug": "lorraine-toussaint",
+      "name": "Lorraine Toussaint",
+      "role": "actor"
+    },
+    {
+      "qid": "Q281964",
+      "slug": "adam-goldberg",
+      "name": "Adam Goldberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q287596",
+      "slug": "liza-lapira",
+      "name": "Liza Lapira",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

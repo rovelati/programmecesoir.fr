@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "rolfe-sedan",
+  "name": "Rolfe Sedan",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rolfe%20Sedan%20(1940s).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1896-01-20",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q7360827",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rolfe_Sedan",
+    "imdb": "nm0781232",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-entreprenant-monsieur-petrov",
+      "title": "L'Entreprenant Monsieur Petrov"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

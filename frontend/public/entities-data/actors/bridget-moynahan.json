@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "bridget-moynahan",
+  "name": "Bridget Moynahan",
+  "worksCount": 3,
+  "description": "actrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridget%20Moynahan%20-%202023%20Montclair%20Film%20Festival.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-04-28",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q232343",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bridget_Moynahan",
+    "imdb": "nm0005256",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "john-wick-2",
+      "title": "John Wick 2"
+    },
+    {
+      "type": "film",
+      "slug": "john-wick",
+      "title": "John Wick"
+    },
+    {
+      "type": "series",
+      "slug": "blue-bloods",
+      "title": "Blue Bloods"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0e32d81-2579-41c4-adab-a529caee92b5",
+      "title": "Blue Bloods - Saison 14",
+      "programSlug": "blue-bloods-saison-14",
+      "programUrl": "/programme/rts-un/blue-bloods-saison-14",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 14:50:00+00",
+      "endTime": "2026-04-19 15:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cd20b19e-a3a1-43f5-8c5a-b22275993bdc",
+      "title": "Blue Bloods - Saison 14",
+      "programSlug": "blue-bloods-saison-14",
+      "programUrl": "/programme/rts-un/blue-bloods-saison-14",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-19 15:35:00+00",
+      "endTime": "2026-04-19 16:25:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 14:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

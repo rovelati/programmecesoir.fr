@@ -1,0 +1,161 @@
+{
+  "type": "film",
+  "slug": "un-jour-a-new-york",
+  "title": "Un jour à New York",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Un jour à New York"
+  ],
+  "genres": [
+    "film ou téléfilm musical"
+  ],
+  "description": "Trois matelots, Gabey, Chip et Ozzie, ont une permission de 24 heures à New York, où leur navire est ancré. Ils se lancent à la découverte de la ville et de ses habitantes. Chip rencontre une jeune femme chauffeur de taxi répondant au doux prénom de Brunhilde. Ozzie, dont le faciès évoque celui d'un homme des cavernes, attire l'attention d'une étudiante en anthropologie, Claire. Gabey séduit Ivy, \"Miss Tourniquet\", dont le joli visage l'avait frappé sur des affiches placardées dans les couloirs du métro. Chaque couple vit une journée inoubliable, marquée par de nombreuses aventures, dont certaines ne laissent pas la police indifférente...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/On%20the%20Town%20(1949%20poster)%20crop.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3087d344-6fd8-457d-aaf8-2f6a04783f6d",
+      "title": "Un jour à New York",
+      "programSlug": "un-jour-a-new-york",
+      "programUrl": "/programme/cine-classic/un-jour-a-new-york",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-21 08:17:00+00",
+      "endTime": "2026-04-21 09:58:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1949,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q73089",
+      "slug": "gene-kelly",
+      "name": "Gene Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40912",
+      "slug": "frank-sinatra",
+      "name": "Frank Sinatra",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241701",
+      "slug": "ann-miller",
+      "name": "Ann Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235196",
+      "slug": "betty-garrett",
+      "name": "Betty Garrett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2303506",
+      "slug": "jules-munshin",
+      "name": "Jules Munshin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q253934",
+      "slug": "vera-ellen",
+      "name": "Vera-Ellen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457861",
+      "slug": "florence-bates",
+      "name": "Florence Bates",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271852",
+      "slug": "alice-pearce",
+      "name": "Alice Pearce",
+      "role": "actor"
+    },
+    {
+      "qid": "Q253298",
+      "slug": "judy-holliday",
+      "name": "Judy Holliday",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2552902",
+      "slug": "hans-conried",
+      "name": "Hans Conried",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3035739",
+      "slug": "don-brodie",
+      "name": "Don Brodie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3236787",
+      "slug": "lester-dorr",
+      "name": "Lester Dorr",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5487056",
+      "slug": "frank-hagney",
+      "name": "Frank Hagney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3126801",
+      "slug": "hank-mann",
+      "name": "Hank Mann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6939100",
+      "slug": "murray-alper",
+      "name": "Murray Alper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20745672",
+      "slug": "claire-carleton",
+      "name": "Claire Carleton",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q73089",
+    "slug": "gene-kelly",
+    "name": "Gene Kelly",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 08:17:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

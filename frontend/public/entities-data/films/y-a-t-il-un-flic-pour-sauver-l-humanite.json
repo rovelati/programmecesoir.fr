@@ -1,0 +1,108 @@
+{
+  "type": "film",
+  "slug": "y-a-t-il-un-flic-pour-sauver-l-humanite",
+  "title": "Y a-t-il un flic pour sauver l'humanité ?",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Y a-t-il un flic pour sauver l'humanité ?"
+  ],
+  "genres": [
+    "film ou téléfilm parodique",
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "Richard Dix est un des agents les plus maladroits du bureau fédéral de la police. Et pourtant, c'est à lui qu'on fait appel pour accomplir une mission de la plus haute importance : retrouver et ramener sain et sauf le président des Etats-Unis, qui aurait été enlevé et emprisonné sur la Lune par un groupe d'extraterrestres belliqueux. Richard Dix, accompagné de la ravissante et fidèle Cassandra Menage, s'envole pour le satellite terrestre, où il doit s'accomplir sa périlleuse mission. Sur place, il met tout en oeuvre pour retrouver le président, mais sa légendaire maladresse ne tarde pas à se manifester : les catastrophes s'enchaînent...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/gongfr.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2000,
+  "durationMinutes": 99,
+  "cast": [
+    {
+      "qid": "Q82786",
+      "slug": "leslie-nielsen",
+      "name": "Leslie Nielsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461767",
+      "slug": "ophelie-winter",
+      "name": "Ophélie Winter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1386043",
+      "slug": "ezio-greggio",
+      "name": "Ezio Greggio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q367629",
+      "slug": "peter-egan",
+      "name": "Peter Egan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q85697",
+      "slug": "alexandra-kamp",
+      "name": "Alexandra Kamp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3310556",
+      "slug": "michel-perron",
+      "name": "Michel Perron",
+      "role": "actor"
+    },
+    {
+      "qid": "Q68027",
+      "slug": "verona-feldbusch",
+      "name": "Verona Feldbusch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5233780",
+      "slug": "david-fox",
+      "name": "David Fox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109300804",
+      "slug": "una-kay",
+      "name": "Una Kay",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2837665",
+    "slug": "allan-a-goldstein",
+    "name": "Allan A. Goldstein",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

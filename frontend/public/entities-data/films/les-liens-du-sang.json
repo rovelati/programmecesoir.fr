@@ -1,0 +1,125 @@
+{
+  "type": "film",
+  "slug": "les-liens-du-sang",
+  "title": "Les liens du sang",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les liens du sang"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film et téléfilm d'action"
+  ],
+  "description": "En défendant un détenu condamné pour meurtre, une avocate apprend qu'il est son frère caché. Sa lutte pour sa liberté expose des secrets familiaux inavoués.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q314403",
+      "slug": "guillaume-canet",
+      "name": "Guillaume Canet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q600051",
+      "slug": "francois-cluzet",
+      "name": "François Cluzet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275664",
+      "slug": "clotilde-hesme",
+      "name": "Clotilde Hesme",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1647279",
+      "slug": "marie-denarnaud",
+      "name": "Marie Denarnaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1044296",
+      "slug": "carole-franck",
+      "name": "Carole Franck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3351270",
+      "slug": "olivier-perrier",
+      "name": "Olivier Perrier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3264922",
+      "slug": "luc-thuillier",
+      "name": "Luc Thuillier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3086961",
+      "slug": "fred-ulysse",
+      "name": "Fred Ulysse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3008989",
+      "slug": "cyril-couton",
+      "name": "Cyril Couton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3287895",
+      "slug": "marc-chapiteau",
+      "name": "Marc Chapiteau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q304707",
+      "slug": "mehdi-nebbou",
+      "name": "Mehdi Nebbou",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3438299",
+      "slug": "rodolphe-couthouis",
+      "name": "Rodolphe Couthouis",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3159463",
+    "slug": "jacques-maillot",
+    "name": "Jacques Maillot",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

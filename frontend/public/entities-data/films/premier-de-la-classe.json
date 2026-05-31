@@ -1,0 +1,94 @@
+{
+  "type": "film",
+  "slug": "premier-de-la-classe",
+  "title": "Premier de la classe",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Premier de la classe"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Abou, 14 ans, n'est pas franchement studieux, il est même plutôt mauvais élève. Il cumule les mauvaises notes mais parvient à cacher la vérité à son père très strict. L'adolescent a trouvé un stratagème : il lui présente de faux bulletins. Mais un jour, son père est convoqué à une réunion parents-professeurs. Abou panique et engage des faux enseignants pour répondre aux questions de cet homme autoritaire. Une des enseignantes d'Abou n'est pas dupe et lui pose un ultimatum. Il a deux mois pour redresser la barre et améliorer ses notes. Sinon, c'est le redoublement assuré. Abou n'a pas d'autre choix que d'accepter...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "channelNumber": 21,
+      "logoUrl": "/loghi/6ter.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2019,
+  "durationMinutes": 82,
+  "cast": [
+    {
+      "qid": "Q291392",
+      "slug": "michele-laroque",
+      "name": "Michèle Laroque",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3367537",
+      "slug": "pascal-nzonzi",
+      "name": "Pascal Nzonzi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23021082",
+      "slug": "fatsah-bouyahmed",
+      "name": "Fatsah Bouyahmed",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3155677",
+      "slug": "issa-doumbia",
+      "name": "Issa Doumbia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3341044",
+      "slug": "nicole-ferroni",
+      "name": "Nicole Ferroni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15163991",
+      "slug": "nadia-roz",
+      "name": "Nadia Roz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3525620",
+      "slug": "thomas-vdb",
+      "name": "Thomas VDB",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q64821663",
+    "slug": "stephane-ben-lahcene",
+    "name": "Stéphane Ben Lahcene",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

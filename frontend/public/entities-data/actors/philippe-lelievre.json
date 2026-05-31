@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "philippe-lelievre",
+  "name": "Philippe Lelièvre",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20lelievre.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-01-21",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3380212",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Philippe_Leli%C3%A8vre",
+    "imdb": "nm0500960",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-voyage-en-pyjama",
+      "title": "Le voyage en pyjama"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,137 @@
+{
+  "type": "film",
+  "slug": "la-mer-au-loin",
+  "title": "La mer au loin",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "La mer au loin",
+    "La Mer au loin"
+  ],
+  "genres": [
+    "film ou téléfilm d'amour",
+    "drame"
+  ],
+  "description": "Bien décidé à s'offrir un avenir meilleur, Nour, 27 ans, a quitté sa ville natale d'Oujda, au Maroc, et a émigré clandestinement à Marseille. Avec ses amis, il vit de petits trafics et mène une existence marginale et festive. Sa rencontre avec Serge, un policier charismatique et imprévisible qui décide inexplicablement de le prendre sous son aile, et avec Noémie, la femme de ce dernier, va bouleverser son existence. Nour découvre bientôt l'inavouable secret de Serge, et se rapproche de Noémie, qui n'hésite pas à lui faire de troublantes confessions. De 1990 à 2000, Nour aime, vieillit et se raccroche à ses rêves...",
+  "descriptionAi": "Ce drame amoureux de 2024 plonge dans l’atmosphère électrique et marginale du Marseille des années 90. Il suit Nour, jeune Marocain en quête d’une vie meilleure, dont l’existence bascule après sa rencontre avec Serge, un policier ambigu, et Noémie, la femme de ce dernier. Le film captive par son exploration des liens complexes, des secrets inavouables et de la quête identitaire, le tout porté par des personnages profondément humains. Une histoire intense sur les rêves, les trahisons et les amours interdites, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67b2a73d-1e1a-45f0-890c-3250bf95bf35",
+      "title": "La mer au loin",
+      "programSlug": "la-mer-au-loin",
+      "programUrl": "/programme/paramount-channel/la-mer-au-loin",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 08:05:00+00",
+      "endTime": "2026-04-23 09:55:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "3eafc283-6420-4f65-ba4b-8e881a179525",
+      "title": "La Mer au loin",
+      "programSlug": "la-mer-au-loin",
+      "programUrl": "/programme/canal-cinema/la-mer-au-loin",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 08:05:00+00",
+      "endTime": "2026-04-23 09:58:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "aea55a03-500b-4275-bc0f-1b6c8596cb22",
+      "title": "La Mer au loin",
+      "programSlug": "la-mer-au-loin",
+      "programUrl": "/programme/canal/la-mer-au-loin",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 01:34:00+00",
+      "endTime": "2026-04-25 03:28:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:49:14.002Z",
+  "year": 2024,
+  "durationMinutes": 112,
+  "cast": [
+    {
+      "qid": "Q132824492",
+      "slug": "ayoub-gretaa",
+      "name": "Ayoub Gretaa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q270146",
+      "slug": "anna-mouglalis",
+      "name": "Anna Mouglalis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q285206",
+      "slug": "gregoire-colin",
+      "name": "Grégoire Colin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q112066271",
+      "slug": "sarah-henochsberg",
+      "name": "Sarah Henochsberg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q133804879",
+      "slug": "camille-damour",
+      "name": "Camille Damour",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55381732",
+    "slug": "said-hamich",
+    "name": "Saïd Hamich",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 08:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

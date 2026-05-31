@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "slug": "smiling-friends",
+  "title": "Smiling Friends",
+  "airingsCount": 18,
+  "sourceTitles": [
+    "Smiling Friends"
+  ],
+  "genres": [
+    "série d'animation pour adultes",
+    "série télévisée comique",
+    "humour noir",
+    "humour absurde",
+    "speculative fiction comedy"
+  ],
+  "description": "Smiling Friends suit les aventures des employés d'une petite entreprise dont le but est d'apporter de la joie dans un monde à la fois étrange et bariolé. On y trouve Charlie, l'employé cynique et Pim, l'employé modèle, qui ont pour mission de redonner le sourire aux gens. Il y a également Allan, un maniaque de l'organisation, Glep, l'employé plein de mystères et le Boss, un milliardaire imprévisible qui n'est autre que le fondateur de l'entreprise.Les épisodes de quinze minutes de cette série d'animation ont été co-écrits par Michael Cusack (YOLO : Crystal Fantasy) et Zach Hadel (JonTron's StarCade) et animés par le studio Princess Bento.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 18
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2022,
+  "numberOfSeasons": 3,
+  "cast": [],
+  "creator": {
+    "qid": "Q106621347",
+    "slug": "zach-hadel",
+    "name": "Zach Hadel",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,141 @@
+{
+  "type": "film",
+  "slug": "voyage-au-bout-de-l-enfer",
+  "title": "Voyage au bout de l'enfer",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Voyage au bout de l'enfer"
+  ],
+  "genres": [
+    "film et téléfilm de guerre",
+    "drame",
+    "film anti-guerre",
+    "war drama",
+    "film ou téléfilm épique"
+  ],
+  "description": "En 1968, dans une petite ville de Pennsylvanie, Michael, Nick, Steven et quelques autres, chasseurs de daims à leurs heures, s'apprêtent à fêter en grande pompe le mariage de Steven et leur départ à la guerre. Deux ans plus tard, capturés par les Viêtcongs, ils vivent emprisonnés dans des cages immergées...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e34d82ba-c294-4cdb-95d5-19ce7d48c591",
+      "title": "Voyage au bout de l'enfer",
+      "programSlug": "voyage-au-bout-de-l-enfer",
+      "programUrl": "/programme/cine-festival/voyage-au-bout-de-l-enfer",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-20 13:10:00+00",
+      "endTime": "2026-04-20 16:15:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1978,
+  "durationMinutes": 182,
+  "cast": [
+    {
+      "qid": "Q36949",
+      "slug": "robert-de-niro",
+      "name": "Robert De Niro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q185051",
+      "slug": "christopher-walken",
+      "name": "Christopher Walken",
+      "role": "actor"
+    },
+    {
+      "qid": "Q249865",
+      "slug": "john-savage",
+      "name": "John Savage",
+      "role": "actor"
+    },
+    {
+      "qid": "Q296177",
+      "slug": "john-cazale",
+      "name": "John Cazale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q873",
+      "slug": "meryl-streep",
+      "name": "Meryl Streep",
+      "role": "actor"
+    },
+    {
+      "qid": "Q164624",
+      "slug": "george-dzundza",
+      "name": "George Dzundza",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275803",
+      "slug": "amy-wright",
+      "name": "Amy Wright",
+      "role": "actor"
+    },
+    {
+      "qid": "Q922952",
+      "slug": "joe-grifasi",
+      "name": "Joe Grifasi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3386965",
+      "slug": "pierre-segui",
+      "name": "Pierre Segui",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7498855",
+      "slug": "shirley-stoler",
+      "name": "Shirley Stoler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2675397",
+      "slug": "rutanya-alda",
+      "name": "Rutanya Alda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19819509",
+      "slug": "paul-d-amato",
+      "name": "Paul D'Amato",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q59129",
+    "slug": "michael-cimino",
+    "name": "Michael Cimino",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 13:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

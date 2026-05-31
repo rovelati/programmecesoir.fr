@@ -1,0 +1,152 @@
+{
+  "type": "film",
+  "slug": "vice",
+  "title": "Vice",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Vice"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "drame",
+    "film ou téléfilm biographique",
+    "film LGBT",
+    "cinéma politique"
+  ],
+  "description": "Avant de devenir l'homme politique que l'on sait, Dick Cheney a été renvoyé de Yale et est sorti deux fois de prison grâce à Lynne qui lui a posé un ultimatum. Changer de vie ou pas de mariage. Dick Cheney a donc changé de vie. Il a travaillé comme chef du personnel auprès du président Gerald Ford, a été secrétaire de la Défense pour George Bush et a officié comme Pdg de la Halliburton Oil Corporation. Rusé, il est devenu le vice-président le plus puissant de l'Amérique moderne grâce George W. Bush. Il a été largement secondé par son épouse, Lynne, une femme redoutable et intelligente. George W. Bush est vite devenu une marionnette...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2018,
+  "durationMinutes": 132,
+  "cast": [
+    {
+      "qid": "Q45772",
+      "slug": "christian-bale",
+      "name": "Christian Bale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q481832",
+      "slug": "amy-adams",
+      "name": "Amy Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237781",
+      "slug": "alison-pill",
+      "name": "Alison Pill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q216221",
+      "slug": "steve-carell",
+      "name": "Steve Carell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q316446",
+      "slug": "sam-rockwell",
+      "name": "Sam Rockwell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315763",
+      "slug": "bill-pullman",
+      "name": "Bill Pullman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q686301",
+      "slug": "tyler-perry",
+      "name": "Tyler Perry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3959303",
+      "slug": "shea-whigham",
+      "name": "Shea Whigham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349312",
+      "slug": "lily-rabe",
+      "name": "Lily Rabe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5438927",
+      "slug": "fay-masterson",
+      "name": "Fay Masterson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15665021",
+      "slug": "don-mcmanus",
+      "name": "Don McManus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q536653",
+      "slug": "jillian-armenante",
+      "name": "Jillian Armenante",
+      "role": "actor"
+    },
+    {
+      "qid": "Q439053",
+      "slug": "lisa-gay-hamilton",
+      "name": "Lisa Gay Hamilton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2722303",
+      "slug": "matt-nolan",
+      "name": "Matt Nolan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26202699",
+      "slug": "roman-mitichyan",
+      "name": "Roman Mitichyan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1138674",
+      "slug": "jesse-plemons",
+      "name": "Jesse Plemons",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q350405",
+    "slug": "adam-mckay",
+    "name": "Adam McKay",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

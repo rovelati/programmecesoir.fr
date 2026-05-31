@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "bryce-dallas-howard",
+  "name": "Bryce Dallas Howard",
+  "worksCount": 2,
+  "description": "actrice, scénariste, productrice et réalisatrice américaine",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bryce%20Dallas%20Howard%20June%202018%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1981-03-02",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q229775",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Bryce_Dallas_Howard",
+    "imdb": "nm0397171",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "terminator-renaissance",
+      "title": "Terminator Renaissance"
+    },
+    {
+      "type": "film",
+      "slug": "le-grinch",
+      "title": "Le Grinch"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "944f5cb4-68ec-4619-8641-a81bb4a7bbc7",
+      "title": "Le Grinch",
+      "programSlug": "le-grinch",
+      "programUrl": "/programme/cine-family/le-grinch",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-21 14:48:00+00",
+      "endTime": "2026-04-21 16:30:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 14:48:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

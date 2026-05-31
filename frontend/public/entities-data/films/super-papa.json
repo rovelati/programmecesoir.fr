@@ -1,0 +1,113 @@
+{
+  "type": "film",
+  "slug": "super-papa",
+  "title": "Super Papa",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Super Papa"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "comédie"
+  ],
+  "description": "Pour l'anniversaire de son fils Gaby, qui fête ses 8 ans, Tom lui offre aussi maladroitement qu'involontairement un livre qui ne contient que des pages blanches. Devant la déception du garçon, Tom, déterminé à ne pas perdre la face, invente une histoire de toutes pièces. Il prétend qu'il s'agit en réalité d'un livre magique, et qu'il suffit d'y écrire ses rêves pour que ceux-ci se réalisent aussitôt. Voilà comment, pris à son propre piège et dépassé par cet improbable mensonge, Tom va se retrouver contraint de tout mettre en oeuvre pour exaucer les souhaits de son fils, même les plus fous...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2001,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q208408",
+      "slug": "tim-allen",
+      "name": "Tim Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40248",
+      "slug": "julie-bowen",
+      "name": "Julie Bowen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242523",
+      "slug": "kelly-lynch",
+      "name": "Kelly Lynch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q740511",
+      "slug": "greg-germann",
+      "name": "Greg Germann",
+      "role": "actor"
+    },
+    {
+      "qid": "Q171571",
+      "slug": "hayden-panettiere",
+      "name": "Hayden Panettiere",
+      "role": "actor"
+    },
+    {
+      "qid": "Q343564",
+      "slug": "patrick-warburton",
+      "name": "Patrick Warburton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q107933",
+      "slug": "james-belushi",
+      "name": "James Belushi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q980143",
+      "slug": "ken-marino",
+      "name": "Ken Marino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2589276",
+      "slug": "wolfgang-bodison",
+      "name": "Wolfgang Bodison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q725247",
+      "slug": "robert-joy",
+      "name": "Robert Joy",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q328483",
+    "slug": "john-pasquin",
+    "name": "John Pasquin",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

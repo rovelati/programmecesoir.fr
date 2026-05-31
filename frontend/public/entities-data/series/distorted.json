@@ -1,0 +1,122 @@
+{
+  "type": "series",
+  "slug": "distorted",
+  "title": "Distorted",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Distorted"
+  ],
+  "genres": [
+    "metal progressif",
+    "metal gothique",
+    "doom metal",
+    "death-doom"
+  ],
+  "description": "Heavy metal band",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "channelNumber": null,
+      "logoUrl": "/loghi/gongmax.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "82786c3f-ef17-4119-8e33-cd97870cef61",
+      "title": "Distorted",
+      "programSlug": "distorted",
+      "programUrl": "/programme/gongmax/distorted",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-20 11:15:00+00",
+      "endTime": "2026-04-20 12:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "21033928-5194-4e4d-ab69-8ae86e931dbb",
+      "title": "Distorted",
+      "programSlug": "distorted",
+      "programUrl": "/programme/gongmax/distorted",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-21 11:15:00+00",
+      "endTime": "2026-04-21 12:20:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "927850b8-fb0d-48b9-bc35-315b919c565b",
+      "title": "Distorted",
+      "programSlug": "distorted",
+      "programUrl": "/programme/gongmax/distorted",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-22 11:15:00+00",
+      "endTime": "2026-04-22 12:20:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e395a017-ebbb-463b-b2ac-424c083d12d4",
+      "title": "Distorted",
+      "programSlug": "distorted",
+      "programUrl": "/programme/gongmax/distorted",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-23 11:15:00+00",
+      "endTime": "2026-04-23 12:20:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "bc273d90-95cd-4157-9074-4662fc80fad7",
+      "title": "Distorted",
+      "programSlug": "distorted",
+      "programUrl": "/programme/gongmax/distorted",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-24 11:15:00+00",
+      "endTime": "2026-04-24 12:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "fc28cbb0-f9b5-4f04-be8c-48d77193d435",
+      "title": "Distorted",
+      "programSlug": "distorted",
+      "programUrl": "/programme/gongmax/distorted",
+      "channelId": "gongmax",
+      "channelName": "GongMax",
+      "channelSlug": "gongmax",
+      "startTime": "2026-04-25 11:15:00+00",
+      "endTime": "2026-04-25 12:20:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 11:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

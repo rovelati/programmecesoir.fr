@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "jean-marc-tennberg",
+  "name": "Jean-Marc Tennberg",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1924-05-12",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3167495",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean-Marc_Tennberg",
+    "imdb": "nm0855070",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-mome-vert-de-gris",
+      "title": "La Môme vert-de-gris"
+    },
+    {
+      "type": "film",
+      "slug": "le-repos-du-guerrier",
+      "title": "Le repos du guerrier"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

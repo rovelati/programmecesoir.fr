@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "roland-armontel",
+  "name": "Roland Armontel",
+  "worksCount": 2,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roland-Armontel-couleur.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1901-12-21",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q3439936",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Roland_Armontel",
+    "imdb": "nm0035553",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "je-t-attendrai",
+      "title": "Je t'attendrai"
+    },
+    {
+      "type": "film",
+      "slug": "rocambole",
+      "title": "Rocambole"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

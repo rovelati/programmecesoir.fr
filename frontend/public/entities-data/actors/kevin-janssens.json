@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "kevin-janssens",
+  "name": "Kevin Janssens",
+  "worksCount": 1,
+  "description": "acteur belge",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Janssens.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-08-21",
+  "nationality": "Belgique",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2684230",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Kevin_Janssens_(acteur)",
+    "imdb": "nm1822271",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "tueurs",
+      "title": "Tueurs"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

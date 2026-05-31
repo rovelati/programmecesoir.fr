@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "yi-yi",
+  "title": "Yi Yi",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Yi Yi"
+  ],
+  "genres": [
+    "drame",
+    "tranche de vie"
+  ],
+  "description": "A Taipei, capitale de Taïwan, on célèbre le mariage du frère de Min-Min, l'épouse de NJ Jian. A cette occasion, celui-ci retrouve son grand amour de jeunesse, Sherry. Tandis que son jeune fils s'emploie à photographier les invités de dos - pour leur montrer ce qu'ils ne voient pas -, la grand-mère, restée seule, sombre dans le coma. Le médecin demande qu'on lui parle afin de la stimuler. Tous se succèdent à son chevet, pour réaliser douloureusement qu'ils n'ont absolument rien à lui dire. Après sa mort, la vie reprend rapidement son cours. Tandis que Min-Min se ressource dans un monastère bouddhiste, NJ Jian tente de comprendre pourquoi il a jadis quitté Sherry. De son côté, sa fille vit difficilement ses premières désillusions amoureuses...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2000,
+  "durationMinutes": 173,
+  "cast": [
+    {
+      "qid": "Q3570139",
+      "slug": "wu-nien-jen",
+      "name": "Wu Nien-jen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q701597",
+      "slug": "elaine-jin",
+      "name": "Elaine Jin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3155705",
+      "slug": "issei-ogata",
+      "name": "Issei Ogata",
+      "role": "actor"
+    },
+    {
+      "qid": "Q716700",
+      "slug": "edward-yang",
+      "name": "Edward Yang",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8997656",
+      "slug": "lin-adriene",
+      "name": "Lin Adriene",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16325683",
+      "slug": "chen-yi-wen",
+      "name": "Chen Yi Wen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4448652",
+      "slug": "hsiao-shu-shen",
+      "name": "Hsiao Shu-shen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15955814",
+      "slug": "tang-ru-yun",
+      "name": "Tang Ru-yun",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8995537",
+      "slug": "lee-yung-feng",
+      "name": "Lee Yung-feng",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5367343",
+      "slug": "leon-dai",
+      "name": "Leon Dai",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8980121",
+      "slug": "lawrence-ko",
+      "name": "Lawrence Ko",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9326734",
+      "slug": "lo-pei-an",
+      "name": "Lo Pei-An",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9051090",
+      "slug": "tang-tsung-sheng",
+      "name": "Tang Tsung Sheng",
+      "role": "actor"
+    },
+    {
+      "qid": "Q257766",
+      "slug": "cheryl-yang",
+      "name": "Cheryl Yang",
+      "role": "actor"
+    },
+    {
+      "qid": "Q9081389",
+      "slug": "kate-yeung",
+      "name": "Kate Yeung",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15907534",
+      "slug": "danny-teng",
+      "name": "Danny Teng",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q716700",
+    "slug": "edward-yang",
+    "name": "Edward Yang",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

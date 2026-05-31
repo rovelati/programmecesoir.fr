@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "chloe-coulloud",
+  "name": "Chloé Coulloud",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1987-01-08",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2964183",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Chlo%C3%A9_Coulloud",
+    "imdb": "nm2191046",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "cocorico",
+      "title": "Cocorico"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "806ee63c-6367-40d8-94df-286a05d82842",
+      "title": "Cocorico",
+      "programSlug": "cocorico",
+      "programUrl": "/programme/m6/cocorico",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-23 21:00:00+00",
+      "endTime": "2026-04-23 22:45:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 21:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

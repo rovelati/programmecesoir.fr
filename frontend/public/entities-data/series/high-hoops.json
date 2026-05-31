@@ -1,0 +1,71 @@
+{
+  "type": "series",
+  "slug": "high-hoops",
+  "title": "High Hoops",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "High Hoops - Saison 1"
+  ],
+  "genres": [
+    "Series"
+  ],
+  "description": "Aoife est bien décidée à se réinventer dans son nouveau collège… mais rejoindra-t-elle l’équipe de basket qui est plutôt nulle, quitte à briser ses envies de popularité ?",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-kids",
+      "channelName": "Canal+ Kids",
+      "channelSlug": "canal-kids",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-kids.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e4833036-fae6-46bd-afdf-32af71144e24",
+      "title": "High Hoops - Saison 1",
+      "programSlug": "high-hoops-saison-1",
+      "programUrl": "/programme/canal-kids/high-hoops-saison-1",
+      "channelId": "canal-kids",
+      "channelName": "Canal+ Kids",
+      "channelSlug": "canal-kids",
+      "startTime": "2026-04-24 18:42:00+00",
+      "endTime": "2026-04-24 19:10:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "e8471708-3c9f-40de-b53f-0d4a2a78dc13",
+      "title": "High Hoops - Saison 1",
+      "programSlug": "high-hoops-saison-1",
+      "programUrl": "/programme/canal-kids/high-hoops-saison-1",
+      "channelId": "canal-kids",
+      "channelName": "Canal+ Kids",
+      "channelSlug": "canal-kids",
+      "startTime": "2026-04-24 19:10:00+00",
+      "endTime": "2026-04-24 19:39:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1998,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-24 18:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "type": "film",
+  "slug": "mes-racines-d-amour",
+  "title": "Mes racines d'amour",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Mes racines d'amour"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "En l'absence de sa mère, Alice, 7 ans, est chargée de s'occuper de Paul, son frère de 10 ans, en situation de handicap. Mais elle préfèrerait aller se baigner.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2901da55-0a7c-4c0e-8d1d-8d8738c252c1",
+      "title": "Mes racines d'amour",
+      "programSlug": "mes-racines-d-amour",
+      "programUrl": "/programme/cine-emotion/mes-racines-d-amour",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 03:34:00+00",
+      "endTime": "2026-04-25 03:59:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-25 03:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

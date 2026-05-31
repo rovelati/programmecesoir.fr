@@ -1,0 +1,286 @@
+{
+  "type": "series",
+  "slug": "hamster-gretel",
+  "title": "Hamster & Gretel",
+  "airingsCount": 218,
+  "sourceTitles": [
+    "Hamster & Gretel"
+  ],
+  "genres": [
+    "comédie d'action",
+    "film ou téléfilm musical",
+    "film de super-héros"
+  ],
+  "description": "Lors d'une sortie scolaire dans une usine de robotique, Kelly, une camarade de Gretel, tombe accidentellement sous le contrôle d'un nanorobot. Pendant ce temps, Kevin et Hamster aident Fred à se débarrasser des souvenirs des batailles précédentes, mais ils ont du mal à se séparer de l'un d'entre eux. / Au musée d'histoire naturelle, les extraterrestres réveillent le paléontologue décédé, le Dr MedusaSaurus, qui se déchaîne aux côtés d'une armée de fossiles réanimés.",
+  "descriptionAi": "Cette série animée mêle avec énergie comédie d'action, aventures de super-héros et touches musicales. L'ambiance est décalée, familiale et rythmée par des gags visuels. Ce qui captive, c'est le duo improbable formé par Gretel, une jeune fille devenue super-héroïne, et son hamster de compagnie doté des mêmes pouvoirs, face à des menaces aussi absurdes que créatives. Leurs aventures, pleines de cœur et d'humour, explorent avec légèreté les thèmes de la famille et de la responsabilité. Une offre divertissante et originale pour les jeunes téléspectateurs et leur famille, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-channel.png",
+      "airingsCount": 84
+    },
+    {
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disneychannelplus1.png",
+      "airingsCount": 84
+    },
+    {
+      "channelId": "disney-junior",
+      "channelName": "Disney Junior",
+      "channelSlug": "disney-junior",
+      "channelNumber": null,
+      "logoUrl": "/loghi/disney-junior.png",
+      "airingsCount": 50
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0b2addd0-4ded-4ef3-951c-5d5d5ccb1368",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disney-channel/hamster-gretel",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 00:10:00+00",
+      "endTime": "2026-04-20 00:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3238b138-76df-4504-9e9d-8d26fb41c36c",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disney-channel/hamster-gretel",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 00:35:00+00",
+      "endTime": "2026-04-20 00:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "de331c87-4295-4dda-a637-3eff90532d2d",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disneychannelplus1/hamster-gretel",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 01:10:00+00",
+      "endTime": "2026-04-20 01:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8769bb75-ef9d-46ae-8fd2-edb3391ef844",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disneychannelplus1/hamster-gretel",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 01:35:00+00",
+      "endTime": "2026-04-20 01:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5e52cae9-a17f-43c8-9b22-0ca486bd8e7b",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disney-channel/hamster-gretel",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 02:05:00+00",
+      "endTime": "2026-04-20 02:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b3343eb4-c6d4-4125-a5f0-d1f0d71fcfbb",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disney-channel/hamster-gretel",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 02:25:00+00",
+      "endTime": "2026-04-20 02:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a43df168-a047-4899-a72e-11c3d76a9750",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disney-channel/hamster-gretel",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-20 02:50:00+00",
+      "endTime": "2026-04-20 03:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "837cfd7a-c0b7-42f6-9640-47ac1e19113e",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disneychannelplus1/hamster-gretel",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 03:05:00+00",
+      "endTime": "2026-04-20 03:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "35cd49ab-fa9d-48ed-b6ed-12b718716bb5",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disneychannelplus1/hamster-gretel",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 03:25:00+00",
+      "endTime": "2026-04-20 03:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "48eb45c3-75d3-463c-84fe-6bb4254508a9",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disneychannelplus1/hamster-gretel",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-20 03:50:00+00",
+      "endTime": "2026-04-20 04:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b7276956-3ff9-4426-ad4c-5c11ee79f4ce",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disney-channel/hamster-gretel",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-21 00:10:00+00",
+      "endTime": "2026-04-21 00:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d74578b0-cb44-4f75-8ca8-dd07efbdd677",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disney-channel/hamster-gretel",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-21 00:35:00+00",
+      "endTime": "2026-04-21 00:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ea6078b7-fd58-4a18-b2e0-b0cc628c5805",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disneychannelplus1/hamster-gretel",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-21 01:10:00+00",
+      "endTime": "2026-04-21 01:35:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2a01afde-6894-433e-b00c-35a5b0908939",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disneychannelplus1/hamster-gretel",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-21 01:35:00+00",
+      "endTime": "2026-04-21 01:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c6458ee2-98f4-4214-9d84-6ebd9178fc11",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disney-channel/hamster-gretel",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-21 02:05:00+00",
+      "endTime": "2026-04-21 02:25:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "1a909b5c-58df-4372-b5fc-570bacc5e2c1",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disney-channel/hamster-gretel",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-21 02:25:00+00",
+      "endTime": "2026-04-21 02:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "76faf382-b9ac-4c5e-bd34-8fb75f4065cb",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disney-channel/hamster-gretel",
+      "channelId": "disney-channel",
+      "channelName": "Disney Channel",
+      "channelSlug": "disney-channel",
+      "startTime": "2026-04-21 02:50:00+00",
+      "endTime": "2026-04-21 03:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "cb9b10fa-c15d-4243-a1dc-192d74975690",
+      "title": "Hamster & Gretel",
+      "programSlug": "hamster-gretel",
+      "programUrl": "/programme/disneychannelplus1/hamster-gretel",
+      "channelId": "disneychannelplus1",
+      "channelName": "DisneyChannelPlus1",
+      "channelSlug": "disneychannelplus1",
+      "startTime": "2026-04-21 03:05:00+00",
+      "endTime": "2026-04-21 03:25:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:06:27.441Z",
+  "startYear": 2022,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": {
+    "qid": "Q935609",
+    "slug": "dan-povenmire",
+    "name": "Dan Povenmire",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 00:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,132 @@
+{
+  "type": "film",
+  "slug": "une-famille-a-louer",
+  "title": "Une famille à louer",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Une famille à louer"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Maison luxueuse, superbe voiture, domestique : Paul-André, quadragénaire riche et introverti, ne manque de rien. Sauf d'une famille. Car cet homme d'affaires désabusé se sent très seul et s'ennuie profondément. Il en conclut qu'il a besoin de ce qu'on appelle le bonheur familial. Et pour cela, il propose un étonnant contrat, en tout bien tout honneur, à la pétillante Violette, une jeune mère célibataire de deux enfants menacée d'expulsion : louer sa famille contre le remboursement de ses dettes. Prêt à goûter aux joies de la vie familiale, Paul-André s'installe chez elle. Mais sa \" famille à louer \" lui réserve quelques surprises...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cannes%202018%208.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "be216e82-4107-484f-beac-3a9347f288d6",
+      "title": "Une famille à louer",
+      "programSlug": "une-famille-a-louer",
+      "programUrl": "/programme/cine-emotion/une-famille-a-louer",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 20:27:00+00",
+      "endTime": "2026-04-25 22:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q714765",
+      "slug": "benoit-poelvoorde",
+      "name": "Benoît Poelvoorde",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3560737",
+      "slug": "virginie-efira",
+      "name": "Virginie Efira",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3085412",
+      "slug": "francois-morel",
+      "name": "François Morel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380605",
+      "slug": "philippe-rebbot",
+      "name": "Philippe Rebbot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273803",
+      "slug": "edith-scob",
+      "name": "Édith Scob",
+      "role": "actor"
+    },
+    {
+      "qid": "Q47066718",
+      "slug": "pauline-serieys",
+      "name": "Pauline Serieys",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3456181",
+      "slug": "remy-roubakha",
+      "name": "Rémy Roubakha",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3570738",
+      "slug": "xavier-mathieu",
+      "name": "Xavier Mathieu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2407984",
+      "slug": "gwendoline-hamon",
+      "name": "Gwendoline Hamon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3502153",
+      "slug": "stephanie-bataille",
+      "name": "Stéphanie Bataille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123273138",
+      "slug": "calixte-broisin-doutaz",
+      "name": "Calixte Broisin-Doutaz",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3168931",
+    "slug": "jean-pierre-ameris",
+    "name": "Jean-Pierre Améris",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 20:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

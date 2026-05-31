@@ -1,0 +1,174 @@
+{
+  "type": "actor",
+  "slug": "amy-adams",
+  "name": "Amy Adams",
+  "worksCount": 7,
+  "description": "actrice américaine",
+  "descriptionAi": "Amy Adams incarne à l'écran une humanité touchante et complexe, naviguant avec grâce entre comédies légères et drames profonds. Son talent réside dans sa capacité à rendre ses personnages profondément authentiques, qu’elle prête sa voix à une princesse enchantée ou qu’elle explore les tourments d’une femme ambitieuse. Le spectateur est captivé par sa présence lumineuse et sa justesse émotionnelle, qui apportent une sincérité rare à chaque rôle. Pour découvrir ou redécouvrir ses performances les plus marquantes, des comédies romantiques pleines de charme aux thrillers psychologiques envoûtants, une sélection de ses films est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amy%20Adams%20UK%20Nocturnal%20Animals%20Premiere%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1974-08-20",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q481832",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Amy_Adams",
+    "imdb": "nm0010736",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "vice",
+      "title": "Vice"
+    },
+    {
+      "type": "film",
+      "slug": "man-of-steel",
+      "title": "Man of Steel"
+    },
+    {
+      "type": "film",
+      "slug": "zack-snyder-s-justice-league",
+      "title": "Zack Snyder's Justice League"
+    },
+    {
+      "type": "film",
+      "slug": "julie-julia",
+      "title": "Julie & Julia"
+    },
+    {
+      "type": "film",
+      "slug": "justice-league",
+      "title": "Justice League"
+    },
+    {
+      "type": "film",
+      "slug": "la-nuit-au-musee-2",
+      "title": "La nuit au musée 2"
+    },
+    {
+      "type": "film",
+      "slug": "premier-contact",
+      "title": "Premier contact"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c6640e-5371-434d-a569-01e9fd4211a2",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/canal-grand-ecran/man-of-steel",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 12:51:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "085ef5a4-7b14-4dbe-9472-f3ca746c33ef",
+      "title": "Zack Snyder's Justice League",
+      "programSlug": "zack-snyder-s-justice-league",
+      "programUrl": "/programme/canal-grand-ecran/zack-snyder-s-justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 15:10:00+00",
+      "endTime": "2026-04-19 19:04:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "82500398-59e9-40c4-9c7e-3dc46ff98ed8",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/canal-grand-ecran/justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 01:13:00+00",
+      "endTime": "2026-04-20 03:22:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4c3335d6-9cfe-4bd4-b927-32953d1a59ac",
+      "title": "Premier contact",
+      "programSlug": "premier-contact",
+      "programUrl": "/programme/cine-frisson/premier-contact",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 11:28:00+00",
+      "endTime": "2026-04-20 13:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "58ff2527-6de2-41e5-933b-9240d15074a4",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 14:59:00+00",
+      "endTime": "2026-04-20 17:18:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8feb3738-8b3a-465f-bb67-714353c2129d",
+      "title": "Julie & Julia",
+      "programSlug": "julie-julia",
+      "programUrl": "/programme/cine-emotion/julie-julia",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 04:30:00+00",
+      "endTime": "2026-04-23 06:30:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "24919d3f-8d16-45dd-b094-513b5060d653",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 11:30:00+00",
+      "endTime": "2026-04-23 13:48:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "08cc7bec-c0a5-4adc-b17c-88b82387e40f",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/cine-frisson/justice-league",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 08:27:00+00",
+      "endTime": "2026-04-24 10:24:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "909c41a6-c8c4-4d1b-aaca-9efee3f4d9f8",
+      "title": "Justice League",
+      "programSlug": "justice-league",
+      "programUrl": "/programme/canal-grand-ecran/justice-league",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-25 08:27:00+00",
+      "endTime": "2026-04-25 10:24:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:07.144Z",
+  "nextAiringAt": "2026-04-19 12:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

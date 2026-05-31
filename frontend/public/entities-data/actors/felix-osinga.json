@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "felix-osinga",
+  "name": "Felix Osinga",
+  "worksCount": 1,
+  "description": "acteur néerlandais",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "2002-04-22",
+  "nationality": "Royaume des Pays-Bas",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q60317485",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Felix_Osinga",
+    "imdb": "nm4968392",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "drole-de-prof",
+      "title": "Drôle de prof"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "de4e69d3-e304-4192-b9bb-107168bbb443",
+      "title": "Drôle de prof",
+      "programSlug": "drole-de-prof",
+      "programUrl": "/programme/cine-family/drole-de-prof",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-26 00:32:00+00",
+      "endTime": "2026-04-26 03:03:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-26 00:32:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

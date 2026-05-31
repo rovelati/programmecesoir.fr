@@ -1,0 +1,96 @@
+{
+  "type": "series",
+  "slug": "ninja-kamui",
+  "title": "Ninja Kamui",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Ninja Kamui"
+  ],
+  "genres": [
+    "Série"
+  ],
+  "description": "Le PDG d'AUZA rêve de prendre le contrôle total de l'infrastructure énergétique du pays en utilisant l'organisation ninja de Yamaji. Emma se fait le vœu de les arrêter avec l'aide d'Higan. Pendant ce temps, Jason et Mike sont toujours en cavale.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9fcd7f8a-666a-4a6f-bf04-5192f49a9cf5",
+      "title": "Ninja Kamui",
+      "programSlug": "ninja-kamui",
+      "programUrl": "/programme/adultswimfr/ninja-kamui",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-20 02:35:00+00",
+      "endTime": "2026-04-20 02:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e5853b1a-09c2-4b28-b7d9-f4da4f103ade",
+      "title": "Ninja Kamui",
+      "programSlug": "ninja-kamui",
+      "programUrl": "/programme/adultswimfr/ninja-kamui",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-20 02:55:00+00",
+      "endTime": "2026-04-20 03:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "762abd22-012f-42fe-b980-b16d27b33f7f",
+      "title": "Ninja Kamui",
+      "programSlug": "ninja-kamui",
+      "programUrl": "/programme/adultswimfr/ninja-kamui",
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "startTime": "2026-04-20 03:20:00+00",
+      "endTime": "2026-04-20 03:40:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": {
+    "qid": "Q99916671",
+    "slug": "sunghoo-park",
+    "name": "Sunghoo Park",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 02:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

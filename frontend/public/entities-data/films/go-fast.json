@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "go-fast",
+  "title": "Go Fast",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Go Fast"
+  ],
+  "genres": [
+    "film ou téléfilm criminel"
+  ],
+  "description": "Marek, un officier de la police judiciaire, perd son collègue et meilleur ami. Bouleversé, il est muté dans un nouveau service de la PJ chargé des infiltrations. Il a bientôt pour mission de noyauter un gang de trafiquants de drogue, qui importe du haschisch espagnol en très grande quantité...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q983020",
+      "slug": "olivier-gourmet",
+      "name": "Olivier Gourmet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461656",
+      "slug": "catalina-denis",
+      "name": "Catalina Denis",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3351423",
+    "slug": "olivier-van-hoofstadt",
+    "name": "Olivier Van Hoofstadt",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

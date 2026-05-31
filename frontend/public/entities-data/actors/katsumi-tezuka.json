@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "katsumi-tezuka",
+  "name": "Katsumi Tezuka",
+  "worksCount": 1,
+  "description": "joueur de baseball japonais",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1912-08-31",
+  "nationality": "Japon",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q6132837",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Katsumi_Tezuka",
+    "imdb": "nm0856801",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "godzilla",
+      "title": "Godzilla"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

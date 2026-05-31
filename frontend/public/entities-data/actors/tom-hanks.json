@@ -1,0 +1,80 @@
+{
+  "type": "actor",
+  "slug": "tom-hanks",
+  "name": "Tom Hanks",
+  "worksCount": 5,
+  "description": "acteur, réalisateur et producteur de cinéma américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Hanks%20at%20the%20Elvis%20Premiere%202022.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1956-07-09",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2263",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Tom_Hanks",
+    "imdb": "nm0000158",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "anges-et-demons",
+      "title": "Anges et démons"
+    },
+    {
+      "type": "film",
+      "slug": "la-ligne-verte",
+      "title": "La ligne verte"
+    },
+    {
+      "type": "film",
+      "slug": "da-vinci-code",
+      "title": "Da Vinci Code"
+    },
+    {
+      "type": "film",
+      "slug": "forrest-gump",
+      "title": "Forrest Gump"
+    },
+    {
+      "type": "film",
+      "slug": "inferno",
+      "title": "Inferno"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3093fae7-fdfe-4845-a4e5-87b43dfb8279",
+      "title": "La ligne verte",
+      "programSlug": "la-ligne-verte",
+      "programUrl": "/programme/cine-emotion/la-ligne-verte",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-21 06:27:00+00",
+      "endTime": "2026-04-21 09:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "69c21ffa-16ec-4137-9d31-20fcdd73f795",
+      "title": "La ligne verte",
+      "programSlug": "la-ligne-verte",
+      "programUrl": "/programme/cine-emotion/la-ligne-verte",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-24 22:44:00+00",
+      "endTime": "2026-04-25 01:46:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 06:27:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "damaged",
+  "title": "Damaged",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Damaged"
+  ],
+  "genres": [
+    "punk hardcore"
+  ],
+  "description": "Policier à Chicago, Dan Lawson a vu sa carrière basculer après un drame personnel et la disparition dans la nature d'un tueur en série ayant fait cinq victimes. Six ans plus tard, il reçoit un appel des forces de l'ordre écossaises : des meurtres similaires ont en effet été commis à Edimbourg. Sur place, Lawson retrouve Walter Bravo, un ancien coéquipier ; associés à Glen Boyd, un enquêteur écossais, ils espèrent parvenir à arrêter le criminel au plus vite...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paris-premiere.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2c3423a1-cd11-41b1-b831-a084b523500c",
+      "title": "Damaged",
+      "programSlug": "damaged",
+      "programUrl": "/programme/paris-premiere/damaged",
+      "channelId": "paris-premiere",
+      "channelName": "Paris Première",
+      "channelSlug": "paris-premiere",
+      "startTime": "2026-04-24 21:20:00+00",
+      "endTime": "2026-04-24 23:00:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1981,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-24 21:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

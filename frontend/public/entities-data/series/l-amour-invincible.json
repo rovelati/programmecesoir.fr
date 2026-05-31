@@ -1,0 +1,59 @@
+{
+  "type": "series",
+  "slug": "l-amour-invincible",
+  "title": "L'Amour Invincible",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "L'Amour Invincible - Saison 1"
+  ],
+  "genres": [
+    "telenovela"
+  ],
+  "description": "Columba embrasse David, qui imagine Leona. Cette dernière refuse l'intimité avec Gael et trouve une tarentule dans le lit. Lola révèle à Benjamín qu'il n'est pas son frère. Leona veut lui dire qu'elle est sa mère, mais Jacinta supplie de garder le secret. Gael confronte Columba pour sa tentative de meurtre sur Leona. Jeremías révèle à Benjamín que Leona est sa mère biologique.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6bff7a1d-8c13-4c02-8a9d-c791dcb8e91a",
+      "title": "L'Amour Invincible - Saison 1",
+      "programSlug": "l-amour-invincible-saison-1",
+      "programUrl": "/programme/antenne-reunion/l-amour-invincible-saison-1",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 01:15:00+00",
+      "endTime": "2026-04-20 04:10:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q115434913",
+    "wikipedia": "https://fr.wikipedia.org/wiki/L'Amour_invincible",
+    "imdb": "tt22188282",
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2023,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 01:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

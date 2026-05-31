@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "sa-mere-ou-moi",
+  "title": "Sa mère ou moi !",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Sa mère ou moi !"
+  ],
+  "genres": [
+    "comédie romantique"
+  ],
+  "description": "Charlie rencontre le docteur Kevin Fields et en tombe amoureuse. Or celui-ci a une mère particulièrement encombrante, Viola. Kevin décide de lui présenter Charlie et profite de l'occasion pour demander la main de la jeune femme. Désormais, Viola va tout faire pour gâcher l'existence du couple...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "warnertv",
+      "channelName": "WarnerTV",
+      "channelSlug": "warnertv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warnertv.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2005,
+  "durationMinutes": 101,
+  "cast": [
+    {
+      "qid": "Q40715",
+      "slug": "jennifer-lopez",
+      "name": "Jennifer Lopez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41142",
+      "slug": "jane-fonda",
+      "name": "Jane Fonda",
+      "role": "actor"
+    },
+    {
+      "qid": "Q270660",
+      "slug": "michael-vartan",
+      "name": "Michael Vartan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237194",
+      "slug": "wanda-sykes",
+      "name": "Wanda Sykes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273650",
+      "slug": "monet-mazur",
+      "name": "Monet Mazur",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242735",
+      "slug": "elaine-stritch",
+      "name": "Elaine Stritch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q201842",
+      "slug": "adam-scott",
+      "name": "Adam Scott",
+      "role": "actor"
+    },
+    {
+      "qid": "Q127273",
+      "slug": "annie-parisse",
+      "name": "Annie Parisse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q355116",
+      "slug": "will-arnett",
+      "name": "Will Arnett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q270622",
+      "slug": "harriet-sansom-harris",
+      "name": "Harriet Sansom Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q931325",
+      "slug": "jimmy-jean-louis",
+      "name": "Jimmy Jean-Louis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q442300",
+      "slug": "mark-moses",
+      "name": "Mark Moses",
+      "role": "actor"
+    },
+    {
+      "qid": "Q760805",
+      "slug": "stephen-dunham",
+      "name": "Stephen Dunham",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2415514",
+      "slug": "amanda-wyss",
+      "name": "Amanda Wyss",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1489113",
+      "slug": "jenny-wade",
+      "name": "Jenny Wade",
+      "role": "actor"
+    },
+    {
+      "qid": "Q93421",
+      "slug": "randee-heller",
+      "name": "Randee Heller",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q721107",
+    "slug": "robert-luketic",
+    "name": "Robert Luketic",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

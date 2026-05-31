@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "niki",
+  "title": "Niki",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Niki"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "En 1952, à Paris. Trois ans après son mariage, Niki de Saint Phalle s'installe en France avec Harry Mathews, son époux, et sa fille, bien loin d'une Amérique et d'une famille étouffantes. Mais malgré la distance, Niki se voit régulièrement ébranlée par des réminiscences de son enfance. De graves traumatismes la hantent, et malgré tous ses efforts, elle ne parvient pas à se libérer de ses démons. Victime d'une dépression nerveuse, la jeune femme est internée dans un hôpital psychiatrique à Nice. Depuis l'enfer qu'elle découvre, Niki trouve dans l'art une arme pour se libérer de son traumatisme...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

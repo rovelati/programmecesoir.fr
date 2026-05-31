@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "camille",
+  "title": "Camille",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Camille"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "En mai 2014, Bangui, la capitale de la République centrafricaine, est en état de pré-guerre civile. La Seleka, une rébellion venu du Nord musulman y affronte les anti-Balaka, des milices d’autodéfense chrétiennes. Camille, une photographe de 26 ans, part en reportage avec une milice anti-Balaka en province...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

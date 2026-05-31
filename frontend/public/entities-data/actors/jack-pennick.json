@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "jack-pennick",
+  "name": "Jack Pennick",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Pennick%20(painting%2C%201940).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1895-12-07",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q1677155",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jack_Pennick",
+    "imdb": "nm0672136",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-charge-heroique",
+      "title": "La charge héroïque"
+    },
+    {
+      "type": "film",
+      "slug": "le-massacre-de-fort-apache",
+      "title": "Le massacre de Fort Apache"
+    },
+    {
+      "type": "film",
+      "slug": "l-homme-qui-tua-liberty-valance",
+      "title": "L'homme qui tua Liberty Valance"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

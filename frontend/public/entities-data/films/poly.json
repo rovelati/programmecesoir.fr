@@ -1,0 +1,61 @@
+{
+  "type": "film",
+  "slug": "poly",
+  "title": "Poly",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Poly"
+  ],
+  "genres": [
+    "Cinema",
+    "Film d'aventures",
+    "Film"
+  ],
+  "description": "Après le divorce de ses parents, Cécile, 10 ans, déménage dans le sud de la France avec sa mère, Louise, médecin. La vie au village est compliquée pour la petite Parisienne qui a bien du mal à se faire de nouveaux amis. Un soir, elle se rend à un spectacle de cirque et assiste émerveillée au numéro du poney Poly. Lorsqu'elle découvre que celui-ci est maltraité, elle s'enfuit avec lui. Furieux, Brancalou, le patron du cirque, veut absolument retrouver Poly pour le vendre à un boucher. Victor, qui connaît bien la région, promet à la maman de Cécile de retrouver la petite fille. Pendant ce temps, Poly et Cécile deviennent inséparables alors qu'ils parcourent la montagne...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "cc5daa99-36c2-4d11-aa43-1ee41ce83949",
+      "title": "Poly",
+      "programSlug": "poly",
+      "programUrl": "/programme/cine-family/poly",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-26 03:03:00+00",
+      "endTime": "2026-04-26 04:41:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-26 03:03:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

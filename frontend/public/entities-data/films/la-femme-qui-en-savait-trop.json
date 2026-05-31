@@ -1,0 +1,89 @@
+{
+  "type": "film",
+  "slug": "la-femme-qui-en-savait-trop",
+  "title": "La femme qui en savait trop",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "La femme qui en savait trop"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "En Iran, Tarlan, une professeure de danse à la retraite, assiste à un meurtre commis par une personnalité influente du gouvernement. Elle décide de dénoncer les faits aux autorités, mais se heurte rapidement à leur refus d'enquêter. Face au silence de la police et aux pressions politiques grandissantes, Tarlan se retrouve confrontée à un choix difficile : se taire afin de préserver sa tranquillité ou, au contraire, risquer sa réputation, sa sécurité ainsi que ses ressources personnelles pour faire éclater la vérité et obtenir justice, quitte à affronter seule un système corrompu...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4642624d-a12e-43c8-bc20-b96b0cdc8f92",
+      "title": "La femme qui en savait trop",
+      "programSlug": "la-femme-qui-en-savait-trop",
+      "programUrl": "/programme/tf1/la-femme-qui-en-savait-trop",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-20 12:25:00+00",
+      "endTime": "2026-04-20 14:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "3b6f1c68-8dd1-44e0-8082-45cb89c9e8c6",
+      "title": "La femme qui en savait trop",
+      "programSlug": "la-femme-qui-en-savait-trop",
+      "programUrl": "/programme/canal-series/la-femme-qui-en-savait-trop",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-20 12:25:00+00",
+      "endTime": "2026-04-20 14:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "84f72fc7-f08e-4632-9e72-87b2cfc3a184",
+      "title": "La femme qui en savait trop",
+      "programSlug": "la-femme-qui-en-savait-trop",
+      "programUrl": "/programme/tf1-1/la-femme-qui-en-savait-trop",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-20 13:25:00+00",
+      "endTime": "2026-04-20 15:00:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 100,
+  "cast": [],
+  "director": {
+    "qid": "Q5953161",
+    "slug": "nader-saeivar",
+    "name": "Nader Saeivar",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 12:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

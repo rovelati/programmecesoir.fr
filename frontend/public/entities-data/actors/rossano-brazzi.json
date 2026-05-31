@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "rossano-brazzi",
+  "name": "Rossano Brazzi",
+  "worksCount": 1,
+  "description": "acteur italien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rossano%20Brazzi.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1916-09-18",
+  "nationality": "Italie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1040798",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rossano_Brazzi",
+    "imdb": "nm0106387",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "vacances-a-venise",
+      "title": "Vacances à Venise"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5b0aafbb-558f-4846-b94c-231169d3f063",
+      "title": "Vacances à Venise",
+      "programSlug": "vacances-a-venise",
+      "programUrl": "/programme/tcm-cinema/vacances-a-venise",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-25 13:30:00+00",
+      "endTime": "2026-04-25 15:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-25 13:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

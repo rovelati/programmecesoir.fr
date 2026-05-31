@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "charlie-hall",
+  "name": "Charlie Hall",
+  "worksCount": 1,
+  "description": "acteur britannique (1899-1959)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Hall%2C%20Double%20Whoopee.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1899-08-19",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "humoriste",
+  "externalIds": {
+    "wikidata": "Q636496",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Charlie_Hall_(acteur)",
+    "imdb": "nm0355408",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-entreprenant-monsieur-petrov",
+      "title": "L'Entreprenant Monsieur Petrov"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "dominic-cooper",
+  "name": "Dominic Cooper",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominic%20Cooper%20by%20Gage%20Skidmore.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1978-06-02",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q317761",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dominic_Cooper",
+    "imdb": "nm1002641",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "tamara-drewe",
+      "title": "Tamara Drewe"
+    },
+    {
+      "type": "film",
+      "slug": "warcraft-le-commencement",
+      "title": "Warcraft : le commencement"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,5 @@
+CRON_TZ=Europe/Paris
+# Historical wrapper name preserved for Hostinger cron compatibility.
+# It now publishes only to Bluesky and refreshes the admin report.
+15 18 * * * /home/u914016995/programmecesoir_social/run_social_x_sport_server.sh >> /home/u914016995/.logs/social_x_sport.log 2>&1
+35 19 * * * /home/u914016995/programmecesoir_social/run_social_x_film_server.sh >> /home/u914016995/.logs/social_x_film.log 2>&1

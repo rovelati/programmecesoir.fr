@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "lynn-hung",
+  "name": "Lynn Hung",
+  "worksCount": 2,
+  "description": "mannequin et actrice chinoise",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E7%86%8A%E9%BB%9B%E6%9E%97.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1980-10-10",
+  "nationality": "République populaire de Chine",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q82524",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lynn_Hung",
+    "imdb": "nm3237713",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "ip-man-3",
+      "title": "Ip Man 3"
+    },
+    {
+      "type": "film",
+      "slug": "ip-man-4",
+      "title": "Ip Man 4"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

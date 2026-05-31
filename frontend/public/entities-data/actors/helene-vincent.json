@@ -1,0 +1,75 @@
+{
+  "type": "actor",
+  "slug": "helene-vincent",
+  "name": "Hélène Vincent",
+  "worksCount": 4,
+  "description": "actrice et metteuse en scène française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A9l%C3%A8ne%20Vincent%20at%20Cine%20Lumiere%20-%202025%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1943-09-09",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3144876",
+    "wikipedia": "https://fr.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Vincent",
+    "imdb": "nm0898653",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-grand-saut",
+      "title": "Le grand saut"
+    },
+    {
+      "type": "film",
+      "slug": "bernie",
+      "title": "Bernie"
+    },
+    {
+      "type": "film",
+      "slug": "mine-de-rien",
+      "title": "Mine de rien"
+    },
+    {
+      "type": "film",
+      "slug": "on-ira",
+      "title": "On ira"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "336ec877-8b68-41d9-9cea-d826bb846024",
+      "title": "Le grand saut",
+      "programSlug": "le-grand-saut",
+      "programUrl": "/programme/france-3-nouvelle-aquitaine/le-grand-saut",
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "startTime": "2026-04-23 15:30:00+00",
+      "endTime": "2026-04-23 15:37:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "afd9f14f-e260-4991-b419-2abd01c555de",
+      "title": "On ira",
+      "programSlug": "on-ira",
+      "programUrl": "/programme/canal-box-office/on-ira",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-23 15:46:00+00",
+      "endTime": "2026-04-23 17:20:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 15:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

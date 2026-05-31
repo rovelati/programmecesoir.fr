@@ -1,0 +1,144 @@
+{
+  "type": "film",
+  "slug": "en-boucle",
+  "title": "En boucle",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "En boucle"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm de science-fiction"
+  ],
+  "description": "Une nouvelle journée commence à l'auberge Fujiya, nichée au coeur des montagnes japonaises. Dans ce décor paradisiaque, une journée ordinaire, ou presque, débute. Les uns après les autres, les employés et les clients de l'établissement ont un sentiment de déjà-vu et se rendent compte que les mêmes deux minutes sont en train de se répéter à l'infini. Certains veulent en sortir, d'autres préfèrent y rester, mais tous cherchent à comprendre ce qui leur arrive...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b92eee82-7d85-4cee-b38c-fc558bc7164d",
+      "title": "En boucle",
+      "programSlug": "en-boucle",
+      "programUrl": "/programme/cine-festival/en-boucle",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-19 20:30:00+00",
+      "endTime": "2026-04-19 21:54:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2023,
+  "durationMinutes": 82,
+  "cast": [
+    {
+      "qid": "Q104538866",
+      "slug": "riko-fujitani",
+      "name": "Riko Fujitani",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11550430",
+      "slug": "munenori-nagano",
+      "name": "Munenori Nagano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104538872",
+      "slug": "takashi-sumita",
+      "name": "Takashi Sumita",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11644058",
+      "slug": "yoshifumi-sakai",
+      "name": "Yoshifumi Sakai",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11631953",
+      "slug": "masashi-suwa",
+      "name": "Masashi Suwa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q64782566",
+      "slug": "gota-ishida",
+      "name": "Gōta Ishida",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40040967",
+      "slug": "haruki-nakagawa",
+      "name": "Haruki Nakagawa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q60989823",
+      "slug": "kazunari-tosa",
+      "name": "Kazunari Tosa",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11675150",
+      "slug": "yuki-torigoe",
+      "name": "Yūki Torigoe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11511541",
+      "slug": "saori",
+      "name": "Saori",
+      "role": "actor"
+    },
+    {
+      "qid": "Q38278203",
+      "slug": "shiori-kubo",
+      "name": "Shiori Kubo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11519814",
+      "slug": "manami-honjo",
+      "name": "Manami Honjō",
+      "role": "actor"
+    },
+    {
+      "qid": "Q8056153",
+      "slug": "yoshimasa-kondo",
+      "name": "Yoshimasa Kondō",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q97274835",
+    "slug": "junta-yamaguchi",
+    "name": "Junta Yamaguchi",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 20:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

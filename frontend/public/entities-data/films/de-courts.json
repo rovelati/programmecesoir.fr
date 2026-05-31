@@ -1,0 +1,79 @@
+{
+  "type": "film",
+  "slug": "de-courts",
+  "title": "+ de courts",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "+ de courts"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Magazine bimensuel consacré au cinéma court, les deuxième et quatrième dimanches de chaque mois. Une émission de 52 minutes qui aime le court métrage et qui en veut toujours plus. + de courts accompagne par la parole la diffusion de 2 à 3 courts-métrages qui font l'actualité. Chaque émission propose des recommandations éclectiques aux spectateurs.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "da7ddcdb-61e6-42db-a5fa-9ed5bb571dea",
+      "title": "+ de courts",
+      "programSlug": "de-courts",
+      "programUrl": "/programme/canal-cinema/de-courts",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-22 05:50:00+00",
+      "endTime": "2026-04-22 06:51:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "2718ef7b-61d8-49a5-85c9-ce1259969bf7",
+      "title": "+ de courts",
+      "programSlug": "de-courts",
+      "programUrl": "/programme/canal-cinema/de-courts",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 17:59:00+00",
+      "endTime": "2026-04-23 19:00:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-22 05:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

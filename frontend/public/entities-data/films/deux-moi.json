@@ -1,0 +1,161 @@
+{
+  "type": "film",
+  "slug": "deux-moi",
+  "title": "Deux moi",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Deux moi"
+  ],
+  "genres": [
+    "comédie dramatique"
+  ],
+  "description": "Rémy et Mélanie, deux trentenaires parisiens, vivent dans le même quartier. Ils ont beau être jeunes, ils souffrent tous les deux d'une grande solitude, d'un manque d'épanouissement et de reconnaissance au travail. Ils passent leur temps sur les réseaux sociaux et les sites de rencontres, mais peinent à faire une belle rencontre. Ils s'en plaignent à leurs amis et surtout à leur psychologue respectif. Rémy et Mélanie pourraient se croiser, notamment dans l'épicerie de leur quartier, dirigé par un patron haut en couleur...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e35d2b3a-ab76-4686-8779-9a6479c47000",
+      "title": "Deux moi",
+      "programSlug": "deux-moi",
+      "programUrl": "/programme/canal-grand-ecran/deux-moi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 01:26:00+00",
+      "endTime": "2026-04-22 03:38:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2019,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q3084265",
+      "slug": "francois-civil",
+      "name": "François Civil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2844973",
+      "slug": "ana-girardot",
+      "name": "Ana Girardot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16535251",
+      "slug": "camille-cottin",
+      "name": "Camille Cottin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q576085",
+      "slug": "francois-berleand",
+      "name": "François Berléand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11282528",
+      "slug": "eye-haidara",
+      "name": "Eye Haïdara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3421713",
+      "slug": "rebecca-marder",
+      "name": "Rebecca Marder",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3386444",
+      "slug": "pierre-niney",
+      "name": "Pierre Niney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q204394",
+      "slug": "zinedine-soualem",
+      "name": "Zinedine Soualem",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3560742",
+      "slug": "virginie-hocq",
+      "name": "Virginie Hocq",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23816433",
+      "slug": "paul-hamy",
+      "name": "Paul Hamy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3292402",
+      "slug": "marie-bunel",
+      "name": "Marie Bunel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21426938",
+      "slug": "patrick-d-assumcao",
+      "name": "Patrick d'Assumçao",
+      "role": "actor"
+    },
+    {
+      "qid": "Q518474",
+      "slug": "garance-clavel",
+      "name": "Garance Clavel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1255329",
+      "slug": "simon-abkarian",
+      "name": "Simon Abkarian",
+      "role": "actor"
+    },
+    {
+      "qid": "Q18169333",
+      "slug": "emmanuelle-bouaziz",
+      "name": "Emmanuelle Bouaziz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3427154",
+      "slug": "renee-le-calm",
+      "name": "Renée Le Calm",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q513632",
+    "slug": "cedric-klapisch",
+    "name": "Cédric Klapisch",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 01:26:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

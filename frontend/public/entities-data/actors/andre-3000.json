@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "andre-3000",
+  "name": "André 3000",
+  "worksCount": 1,
+  "description": "musicien américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andre%20Benjamin.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-05-27",
+  "nationality": "États-Unis",
+  "jobTitle": "rappeur ou rappeuse",
+  "externalIds": {
+    "wikidata": "Q448837",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Andr%C3%A9_3000",
+    "imdb": "nm0071275",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "quatre-freres",
+      "title": "Quatre frères"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

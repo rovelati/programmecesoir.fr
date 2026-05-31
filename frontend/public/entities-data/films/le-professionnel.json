@@ -1,0 +1,111 @@
+{
+  "type": "film",
+  "slug": "le-professionnel",
+  "title": "Le professionnel",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Le professionnel"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film ou téléfilm d'espionnage",
+    "drame",
+    "thriller",
+    "film et téléfilm d'action",
+    "film ou téléfilm à énigme"
+  ],
+  "description": "Le commandant Josselin Beaumont, agent des services spéciaux français, est chargé par ses supérieurs d'abattre un chef d'Etat africain, Njala, au nom des intérêts de la nation. Mais à peine arrivé au Malawi, Josselin est arrêté et condamné aux travaux forcés. C'est qu'entretemps, les stratégies politiques françaises ont changé et que ses supérieurs ont préféré le livrer aux autorités. Il s'évade deux ans plus tard et rentre à Paris, bien décidé à se venger. Il commence par prévenir ses anciens patrons qu'il remplira le contrat dont il avait été chargé, à l'occasion d'une visite officielle de Njala en France. Le colonel Martin, son supérieur, réunit alors son équipe au grand complet et donne l'ordre d'abattre Josselin avant qu'il ne passe à l'acte...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1981,
+  "durationMinutes": 108,
+  "cast": [
+    {
+      "qid": "Q106255",
+      "slug": "jean-paul-belmondo",
+      "name": "Jean-Paul Belmondo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q667488",
+      "slug": "jean-desailly",
+      "name": "Jean Desailly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q375290",
+      "slug": "robert-hossein",
+      "name": "Robert Hossein",
+      "role": "actor"
+    },
+    {
+      "qid": "Q517272",
+      "slug": "bernard-pierre-donnadieu",
+      "name": "Bernard-Pierre Donnadieu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q441334",
+      "slug": "cyrielle-clair",
+      "name": "Cyrielle Clair",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3587903",
+      "slug": "elisabeth-margoni",
+      "name": "Élisabeth Margoni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2729701",
+      "slug": "jean-louis-richard",
+      "name": "Jean-Louis Richard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1784382",
+      "slug": "michel-beaune",
+      "name": "Michel Beaune",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1355362",
+      "slug": "marie-christine-descouard",
+      "name": "Marie-Christine Descouard",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1351715",
+    "slug": "georges-lautner",
+    "name": "Georges Lautner",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

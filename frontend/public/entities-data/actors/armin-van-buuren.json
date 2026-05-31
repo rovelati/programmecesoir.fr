@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "armin-van-buuren",
+  "name": "Armin van Buuren",
+  "worksCount": 1,
+  "description": "disc jockey et producteur musical néerlandais",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Armin%20van%20Buuren%20Armin%20Only%20Embrace%202017.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-12-25",
+  "nationality": "Royaume des Pays-Bas",
+  "jobTitle": "producteur ou productrice de disques",
+  "externalIds": {
+    "wikidata": "Q62617",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Armin_van_Buuren",
+    "imdb": "nm2226634",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "loving-ibiza",
+      "title": "Loving Ibiza"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e44b5a33-a9ca-49ac-bf2f-927cbec12c71",
+      "title": "Loving Ibiza",
+      "programSlug": "loving-ibiza",
+      "programUrl": "/programme/eurochannel/loving-ibiza",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 13:25:00+00",
+      "endTime": "2026-04-20 15:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "45737d6c-e385-47fe-a39f-b7eb04f16e96",
+      "title": "Loving Ibiza",
+      "programSlug": "loving-ibiza",
+      "programUrl": "/programme/eurochannel/loving-ibiza",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 10:15:00+00",
+      "endTime": "2026-04-23 12:10:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 13:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

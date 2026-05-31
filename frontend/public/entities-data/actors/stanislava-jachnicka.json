@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "stanislava-jachnicka",
+  "name": "Stanislava Jachnická",
+  "worksCount": 1,
+  "description": "actrice",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanislava%20Jachnick%C3%A1.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-08-18",
+  "nationality": "Tchéquie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q7599083",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stanislava_Jachnick%C3%A1",
+    "imdb": "nm0413065",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "she-came-at-night",
+      "title": "She came at night"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e99587c8-7b88-43ef-9e6d-c3d63a10b096",
+      "title": "She came at night",
+      "programSlug": "she-came-at-night",
+      "programUrl": "/programme/eurochannel/she-came-at-night",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 01:00:00+00",
+      "endTime": "2026-04-26 02:30:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-26 01:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

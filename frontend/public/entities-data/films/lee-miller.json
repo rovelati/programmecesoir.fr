@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "lee-miller",
+  "title": "Lee Miller",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Lee Miller"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Londres, pendant la Seconde Guerre mondiale. La photographe de mode Elizabeth Miller, surnommée \"Lee\", se porte volontaire pour devenir la première femme correspondante de guerre pour le célèbre magazine \"British Vogue\". Ancienne mannequin, muse des surréalistes, véritable icône de mode, la jeune femme, pugnace, finit par obtenir son accréditation auprès de l'armée américaine. Dans un premier temps, elle se voit chargée de capturer des images des bombardements allemands sur Londres, avant de se rendre en Normandie pour immortaliser le débarquement des soldats alliés...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/War%20correspondents-Lee-Miller.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

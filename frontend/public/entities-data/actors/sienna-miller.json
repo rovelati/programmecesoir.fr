@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "sienna-miller",
+  "name": "Sienna Miller",
+  "worksCount": 1,
+  "description": "actrice américano-britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sienna%20Miller%20Berlinale%202017.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1981-12-28",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q193458",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sienna_Miller",
+    "imdb": "nm1092227",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "american-sniper",
+      "title": "American Sniper"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,104 @@
+{
+  "type": "film",
+  "slug": "prodigieuses",
+  "title": "Prodigieuses",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Prodigieuses"
+  ],
+  "genres": [
+    "film ou téléfilm biographique",
+    "drame",
+    "comédie dramatique",
+    "film ou téléfilm musical",
+    "film ou téléfilm historique"
+  ],
+  "description": "Claire et Jeanne, des jumelles pianistes virtuoses de 18 ans, sont admises dans une prestigieuse école de musique allemande dirigée par l'intraitable professeur Klaus Lenhardt. Elles portent ainsi l'ambition de Serge, leur père, qui a tout sacrifié pour faire d'elles les meilleures. Mais malheureusement, elles découvrent toutes deux qu'une maladie orpheline fragilise peu à peu leurs mains, compromettant leur irrésistible ascension. Refusant obstinément de renoncer à leur rêve, les jumelles décident se battre et de se réinventer pour devenir, plus que jamais, prodigieuses...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 107,
+  "cast": [
+    {
+      "qid": "Q27919040",
+      "slug": "camille-razat",
+      "name": "Camille Razat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2646765",
+      "slug": "franck-dubosc",
+      "name": "Franck Dubosc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289032",
+      "slug": "isabelle-carre",
+      "name": "Isabelle Carré",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19259811",
+      "slug": "august-wittgenstein",
+      "name": "August Wittgenstein",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1817950",
+      "slug": "lennart-betzgen",
+      "name": "Lennart Betzgen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123015309",
+      "slug": "lola-aubriere",
+      "name": "Lola Aubrière",
+      "role": "actor"
+    },
+    {
+      "qid": "Q124845908",
+      "slug": "meledeen-yacoubi",
+      "name": "Meledeen Yacoubi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q138702479",
+      "slug": "thomas-landbo",
+      "name": "Thomas Landbo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q131300689",
+    "slug": "frederic-potier",
+    "name": "Frédéric Potier",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

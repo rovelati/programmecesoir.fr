@@ -1,0 +1,121 @@
+{
+  "type": "actor",
+  "slug": "charles-levin",
+  "name": "Charles Levin",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Levin%20%22Karen's%20Song%22%20(1987%20FOX%20press%20photo).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1949-03-12",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q2957680",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Levin_(actor)",
+    "imdb": "nm0505570",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "alice",
+      "title": "Alice"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bf89b01f-e5d2-4cf3-a409-3480479227b3",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-19 14:55:00+00",
+      "endTime": "2026-04-19 16:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9f02ccb1-2b45-4b59-a6ba-546ceaf6fb15",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-20 14:55:00+00",
+      "endTime": "2026-04-20 16:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7d56100a-1bb0-43a5-a6f5-5c2fa1b113a5",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-21 14:55:00+00",
+      "endTime": "2026-04-21 16:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "632c0181-dc5a-407f-8c98-549511341ae1",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-22 14:55:00+00",
+      "endTime": "2026-04-22 16:10:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "567e4b45-54ff-430c-bf14-33e0aa0aa1ac",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-23 14:55:00+00",
+      "endTime": "2026-04-23 16:10:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "48071026-d2c5-4ac8-8a46-090c9bf2075c",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-24 14:55:00+00",
+      "endTime": "2026-04-24 16:10:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "3b5562f3-9d8e-4459-aea0-ef30081d9735",
+      "title": "Alice",
+      "programSlug": "alice",
+      "programUrl": "/programme/gongfr/alice",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-25 14:55:00+00",
+      "endTime": "2026-04-25 16:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 14:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

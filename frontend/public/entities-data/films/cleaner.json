@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "cleaner",
+  "title": "Cleaner",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Cleaner"
+  ],
+  "genres": [
+    "thriller"
+  ],
+  "description": "En plein coeur de Londres, au sommet de la tour Shard, une grande entreprise spécialisée dans l'énergie tient un gala annuel. Mais des militants radicaux pénètrent les lieux et prennent tout le monde en otage. Organisés comme des paramilitaires, les écoterroristes veulent dénoncer la corruption qui règne au sein de la firme. Déterminés, ils sont équipés d'armes et de charges explosives. A l'extérieur de l'immeuble, Joanna \"Joey\" Locke, une ancienne militaire reconvertie en laveuse de vitres, est sur sa nacelle. Quand la situation dégénère, elle se décide à intervenir pour stopper les terroristes...",
+  "descriptionAi": "Ce thriller haletant de 2007 plonge le spectateur dans une prise d'otages au sommet du Shard à Londres. Des écoterroristes déterminés et lourdement armés paralysent le gala d'une multinationale énergétique. L'ambiance est tendue et claustrophobe, le danger palpable à chaque instant. L'intérêt réside dans le personnage inattendu de Joanna, une laveuse de vitres et ancienne militaire, qui se retrouve seule à pouvoir agir de l'extérieur. Son ingéniosité et son courage face à une situation désespérée offrent un suspense continu et des retournements captivants. Un film d'action efficace qui questionne aussi les dérives du capitalisme, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Samuel-L.-Jackson-Cleaner.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 4
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d8a40c73-6744-4f26-bb75-9116b5137a7c",
+      "title": "Cleaner",
+      "programSlug": "cleaner",
+      "programUrl": "/programme/canal-box-office/cleaner",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-19 13:23:00+00",
+      "endTime": "2026-04-19 14:58:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2130ea8b-11b4-4d5f-a6bf-f24939ee12a1",
+      "title": "Cleaner",
+      "programSlug": "cleaner",
+      "programUrl": "/programme/canal-box-office/cleaner",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-22 10:14:00+00",
+      "endTime": "2026-04-22 11:49:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": "Q1099448",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Cleaner_(film%2C_2007)",
+    "imdb": "tt0896798",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:27:12.246Z",
+  "year": 2007,
+  "durationMinutes": 88,
+  "cast": [
+    {
+      "qid": "Q172678",
+      "slug": "samuel-l-jackson",
+      "name": "Samuel L. Jackson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q104791",
+      "slug": "ed-harris",
+      "name": "Ed Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170606",
+      "slug": "eva-mendes",
+      "name": "Eva Mendes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q347395",
+      "slug": "luis-guzman",
+      "name": "Luis Guzmán",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273044",
+      "slug": "keke-palmer",
+      "name": "Keke Palmer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q285409",
+      "slug": "maggie-lawson",
+      "name": "Maggie Lawson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q367155",
+      "slug": "robert-forster",
+      "name": "Robert Forster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q350014",
+      "slug": "jose-pablo-cantillo",
+      "name": "Jose Pablo Cantillo",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q318712",
+    "slug": "renny-harlin",
+    "name": "Renny Harlin",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 13:23:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,132 @@
+{
+  "type": "film",
+  "slug": "two-lovers",
+  "title": "Two Lovers",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Two Lovers"
+  ],
+  "genres": [
+    "drame",
+    "film ou téléfilm d'amour"
+  ],
+  "description": "Poursuivi par le souvenir de sa fiancée perdue, Leonard Kraditor est irrésistiblement attiré par une nouvelle voisine, Michelle, dont la blondeur souriante cache la douleur d'une liaison sans avenir. Il n'en continue pas moins de courtiser la brune et émouvante Sandra, que sa famille lui destine...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4a5424ff-7cdb-4a79-9aee-808d5dd1875d",
+      "title": "Two Lovers",
+      "programSlug": "two-lovers",
+      "programUrl": "/programme/cine-emotion/two-lovers",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-22 13:21:00+00",
+      "endTime": "2026-04-22 15:07:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ae250f41-423c-4d4a-91a8-4519e6ffd22c",
+      "title": "Two Lovers",
+      "programSlug": "two-lovers",
+      "programUrl": "/programme/cine-emotion/two-lovers",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-25 01:46:00+00",
+      "endTime": "2026-04-25 03:34:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "d594722f-9463-471e-a1da-2bc605c0db0a",
+      "title": "Two Lovers",
+      "programSlug": "two-lovers",
+      "programUrl": "/programme/cine-emotion/two-lovers",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-26 05:02:00+00",
+      "endTime": "2026-04-26 06:48:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 110,
+  "cast": [
+    {
+      "qid": "Q185140",
+      "slug": "joaquin-phoenix",
+      "name": "Joaquin Phoenix",
+      "role": "actor"
+    },
+    {
+      "qid": "Q34460",
+      "slug": "gwyneth-paltrow",
+      "name": "Gwyneth Paltrow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q266888",
+      "slug": "vinessa-shaw",
+      "name": "Vinessa Shaw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q203840",
+      "slug": "isabella-rossellini",
+      "name": "Isabella Rossellini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q379808",
+      "slug": "elias-koteas",
+      "name": "Elias Koteas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2908394",
+      "slug": "moni-moshonov",
+      "name": "Moni Moshonov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q210094",
+      "slug": "john-ortiz",
+      "name": "John Ortiz",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q630845",
+    "slug": "james-gray",
+    "name": "James Gray",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 13:21:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

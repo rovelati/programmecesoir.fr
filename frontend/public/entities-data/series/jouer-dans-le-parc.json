@@ -1,0 +1,96 @@
+{
+  "type": "series",
+  "slug": "jouer-dans-le-parc",
+  "title": "Jouer dans le parc",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Jouer dans le parc"
+  ],
+  "genres": [
+    "Série",
+    "Série TV"
+  ],
+  "description": "Vos enfants vont adorer se détendre avec les personnages de Baby TV dans un beau parc avec de la musique classique apaisante.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/babytv.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "586aa2ee-c7d1-4dd7-b665-ee966b138709",
+      "title": "Jouer dans le parc",
+      "programSlug": "jouer-dans-le-parc",
+      "programUrl": "/programme/babytv/jouer-dans-le-parc",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 02:46:00+00",
+      "endTime": "2026-04-22 02:49:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "0a986377-465d-42b1-a905-75c798603d4d",
+      "title": "Jouer dans le parc",
+      "programSlug": "jouer-dans-le-parc",
+      "programUrl": "/programme/babytv/jouer-dans-le-parc",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-23 02:46:00+00",
+      "endTime": "2026-04-23 02:49:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "0d733421-5dea-4bce-ba04-070ad5d41b44",
+      "title": "Jouer dans le parc",
+      "programSlug": "jouer-dans-le-parc",
+      "programUrl": "/programme/babytv/jouer-dans-le-parc",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-24 02:46:00+00",
+      "endTime": "2026-04-24 02:49:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "cf7baf80-0c86-40a5-b855-204b8bb26676",
+      "title": "Jouer dans le parc",
+      "programSlug": "jouer-dans-le-parc",
+      "programUrl": "/programme/babytv/jouer-dans-le-parc",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-25 02:46:00+00",
+      "endTime": "2026-04-25 02:49:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-22 02:46:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

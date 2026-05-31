@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "ben-miller",
+  "name": "Ben Miller",
+  "worksCount": 2,
+  "description": "humoriste, acteur et réalisateur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben%20Miller%2020191205.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1966-02-24",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q816568",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ben_Miller",
+    "imdb": "nm0587950",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "johnny-english-le-retour",
+      "title": "Johnny English, le retour"
+    },
+    {
+      "type": "film",
+      "slug": "johnny-english",
+      "title": "Johnny English"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4bc79017-5001-4151-bd64-bc53e819e4f8",
+      "title": "Johnny English, le retour",
+      "programSlug": "johnny-english-le-retour",
+      "programUrl": "/programme/cine-family/johnny-english-le-retour",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 08:16:00+00",
+      "endTime": "2026-04-20 09:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d3845ee2-34da-4935-84ef-15a423b9de99",
+      "title": "Johnny English",
+      "programSlug": "johnny-english",
+      "programUrl": "/programme/cine-family/johnny-english",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 11:13:00+00",
+      "endTime": "2026-04-25 12:39:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "bd82cf28-5189-48a7-b44a-67ed8e2d7fc2",
+      "title": "Johnny English, le retour",
+      "programSlug": "johnny-english-le-retour",
+      "programUrl": "/programme/cine-family/johnny-english-le-retour",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 12:39:00+00",
+      "endTime": "2026-04-25 14:17:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 08:16:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

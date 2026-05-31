@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "carole-bouquet",
+  "name": "Carole Bouquet",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carole%20Bouquet%20Cannes%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1957-08-18",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q106607",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Carole_Bouquet",
+    "imdb": "nm0000962",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "une-heure-de-tranquillite",
+      "title": "Une heure de tranquillité"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

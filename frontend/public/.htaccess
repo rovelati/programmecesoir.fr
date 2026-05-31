@@ -1,0 +1,159 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Canonical host: always serve the apex domain.
+  RewriteCond %{HTTP_HOST} ^www\.programmecesoir\.fr$ [NC]
+  RewriteRule ^ https://programmecesoir.fr%{REQUEST_URI} [R=301,L]
+
+  # Canonical home route: consolidate /ce-soir on /
+  RewriteRule ^ce-soir/?$ / [R=301,L]
+  RewriteRule ^notizie/?$ /actualites [R=301,L]
+
+  # Canonical channel aliases: collapse legacy / compact slugs to the
+  # single public channel URL we want indexed.
+  RewriteRule ^france2/?$ /france-2 [R=301,L]
+  RewriteRule ^france3/?$ /france-3 [R=301,L]
+  RewriteRule ^canal/?$ /canal-plus [R=301,L]
+  RewriteRule ^canalplus/?$ /canal-plus [R=301,L]
+  RewriteRule ^bfmtv/?$ /bfm-tv [R=301,L]
+  RewriteRule ^france-info/?$ /franceinfo [R=301,L]
+
+  RewriteRule ^en-direct/france2/?$ /en-direct/france-2 [R=301,L]
+  RewriteRule ^en-direct/france3/?$ /en-direct/france-3 [R=301,L]
+  RewriteRule ^en-direct/canal/?$ /en-direct/canal-plus [R=301,L]
+  RewriteRule ^en-direct/canalplus/?$ /en-direct/canal-plus [R=301,L]
+  RewriteRule ^en-direct/bfmtv/?$ /en-direct/bfm-tv [R=301,L]
+  RewriteRule ^en-direct/france-info/?$ /en-direct/franceinfo [R=301,L]
+
+  RewriteRule ^ce-soir/france2/?$ /ce-soir/france-2 [R=301,L]
+  RewriteRule ^ce-soir/france3/?$ /ce-soir/france-3 [R=301,L]
+  RewriteRule ^ce-soir/canal/?$ /ce-soir/canal-plus [R=301,L]
+  RewriteRule ^ce-soir/canalplus/?$ /ce-soir/canal-plus [R=301,L]
+  RewriteRule ^ce-soir/bfmtv/?$ /ce-soir/bfm-tv [R=301,L]
+  RewriteRule ^ce-soir/france-info/?$ /ce-soir/franceinfo [R=301,L]
+
+  RewriteRule ^demain/france2/?$ /demain/france-2 [R=301,L]
+  RewriteRule ^demain/france3/?$ /demain/france-3 [R=301,L]
+  RewriteRule ^demain/canal/?$ /demain/canal-plus [R=301,L]
+  RewriteRule ^demain/canalplus/?$ /demain/canal-plus [R=301,L]
+  RewriteRule ^demain/bfmtv/?$ /demain/bfm-tv [R=301,L]
+  RewriteRule ^demain/france-info/?$ /demain/franceinfo [R=301,L]
+
+  # Canonicalize program airing variant URLs to the canonical program URL
+  # Example: /programme/tf1/danse-avec-les-stars/2026-03-13-2125 -> /programme/tf1/danse-avec-les-stars
+  RewriteRule ^programme/([^/]+)/([^/]+)/([0-9]{4}-[0-9]{2}-[0-9]{2}-[0-9]{4})/?$ /programme/$1/$2 [R=301,L]
+
+  # Collapse consecutive hyphens in programme/radio slugs so the request
+  # matches the normalised snapshot filename on disk.
+  RewriteRule ^((?:programme|radio)/.+?)--+(.+)$ /$1-$2 [R=301,L]
+
+  # BEGIN GENERATED GONE ENTITY RULES
+  # Serve 410 Gone for removed entity URLs before the SPA fallback.
+  RewriteRule ^film/attractions-the-first-dorcel-scene-of-alika-and-mary-bambola/?$ - [G,L]
+  RewriteRule ^film/blacked-raw-vol-96/?$ - [G,L]
+  RewriteRule ^film/blacked-raw-vol-97/?$ - [G,L]
+  RewriteRule ^film/bts-luxure-les-indecences-de-ma-femme/?$ - [G,L]
+  RewriteRule ^film/destiny-bella-leur-premiere-scene-dorcel/?$ - [G,L]
+  RewriteRule ^film/dorcel-airlines-hotesses-libertines/?$ - [G,L]
+  RewriteRule ^film/la-premiere-scene-dorcel-d-ariana-van/?$ - [G,L]
+  RewriteRule ^film/la-premiere-scene-dorcel-de-clemence-audiard/?$ - [G,L]
+  RewriteRule ^film/la-premiere-scene-dorcel-de-nathalie-grace/?$ - [G,L]
+  RewriteRule ^film/le-meilleur-de-xxl/?$ - [G,L]
+  RewriteRule ^film/luxure---les-jeux-de-ma-femme/?$ - [G,L]
+  RewriteRule ^film/luxure-10th-anniversary/?$ - [G,L]
+  RewriteRule ^film/luxure-epouses-indecentes/?$ - [G,L]
+  RewriteRule ^film/pornfilm-festival-de-berlin-2022/?$ - [G,L]
+  RewriteRule ^film/pornochic-tiffany-alyssa/?$ - [G,L]
+  RewriteRule ^film/sexy-night/?$ - [G,L]
+  RewriteRule ^film/the-french-baker-s-ass/?$ - [G,L]
+  RewriteRule ^film/tushy-raw-vol-83/?$ - [G,L]
+  RewriteRule ^film/versus-an-alt-porn-story/?$ - [G,L]
+  RewriteRule ^serie/69-sexy-things/?$ - [G,L]
+  RewriteRule ^serie/7-nude-models/?$ - [G,L]
+  RewriteRule ^serie/pink-kiss/?$ - [G,L]
+  RewriteRule ^serie/pornochic/?$ - [G,L]
+  RewriteRule ^serie/sexy-girls-next-door/?$ - [G,L]
+  # END GENERATED GONE ENTITY RULES
+
+  # Serve pre-rendered HTML snapshots when available, before the SPA fallback.
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} !^/api/
+  RewriteCond %{REQUEST_URI} !^/assets/
+  RewriteCond %{REQUEST_URI} !\.(css|js|jpg|jpeg|png|gif|ico|svg|woff|woff2|ttf|eot|json|xml|txt|pdf|html)$
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.+?)/?$ $1.html [L]
+
+  # Programme/radio pages without a pre-rendered snapshot are gone. Valid
+  # future broadcasts must have a generated snapshot; otherwise serving the
+  # homepage HTML here creates a false SEO page.
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}.html !-f
+  RewriteCond %{REQUEST_URI} !\.html?$ [NC]
+  RewriteRule ^(?:programme|radio)/.+$ - [G,L]
+
+  # Handle Angular/React Router - redirect all requests to index.html
+  # except for files that exist
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} !^/api/
+  RewriteCond %{REQUEST_URI} !^/assets/
+  RewriteCond %{REQUEST_URI} !\.(css|js|jpg|jpeg|png|gif|ico|svg|woff|woff2|ttf|eot|json|xml|txt|pdf)$
+  RewriteRule ^ index.html [L]
+
+  # Force HTTPS
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # Remove trailing slashes
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} (.+)/$
+  RewriteRule ^ %1 [R=301,L]
+</IfModule>
+
+# Serve text responses with an explicit UTF-8 charset so crawlers and
+# non-browser clients don't fall back to ISO-8859-1.
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .html .htm .json .xml .txt .css .js
+
+# Enable compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
+# Browser caching
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpg "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType application/json "access plus 15 minutes"
+  ExpiresByType text/html "access plus 5 minutes"
+</IfModule>
+
+# Security headers
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set X-XSS-Protection "1; mode=block"
+  SetEnvIfNoCase Request_URI "^/(search-console|entities-data|birthday-data)/" pcs_internal_data=1
+  Header set X-Robots-Tag "noindex, nofollow, noarchive" env=pcs_internal_data
+
+  <FilesMatch "\.html$">
+    Header set Cache-Control "public, max-age=300, stale-while-revalidate=300"
+  </FilesMatch>
+
+  <FilesMatch "\.json$">
+    Header set Cache-Control "public, max-age=900, stale-while-revalidate=3600"
+  </FilesMatch>
+
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+</IfModule>

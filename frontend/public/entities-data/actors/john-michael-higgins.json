@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "john-michael-higgins",
+  "name": "John Michael Higgins",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Michael%20Higgins%202018%20(275563741).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-02-12",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q967130",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Michael_Higgins",
+    "imdb": "nm0383422",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bad-teacher",
+      "title": "Bad Teacher"
+    },
+    {
+      "type": "film",
+      "slug": "braqueurs-amateurs",
+      "title": "Braqueurs amateurs"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,174 @@
+{
+  "type": "film",
+  "slug": "une-bataille-apres-l-autre",
+  "title": "Une bataille après l'autre",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Une bataille après l'autre"
+  ],
+  "genres": [
+    "drame",
+    "thriller",
+    "film et téléfilm d'action",
+    "film ou téléfilm criminel",
+    "comédie",
+    "comédie noire"
+  ],
+  "description": "Ancien membre d'un groupe révolutionnaire d'extrême-gauche, Bob vit caché et en marge de la société avec sa fille Willa, âgée de 16 ans. En dépit de tous ses efforts pour passer inaperçu, il finit par être rattrapé par son passé. En effet, il découvre qu'un de ses ennemis jurés a retrouvé sa trace...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista%20Theater%20Presenting%20One%20Battle%20After%20Another%20in%20VistaVision%20Sign.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8c551de2-3fe3-45ac-8dc9-d05085ae39b7",
+      "title": "Une bataille après l'autre",
+      "programSlug": "une-bataille-apres-l-autre",
+      "programUrl": "/programme/canal-box-office/une-bataille-apres-l-autre",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 11:14:00+00",
+      "endTime": "2026-04-20 13:50:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 161,
+  "cast": [
+    {
+      "qid": "Q38111",
+      "slug": "leonardo-dicaprio",
+      "name": "Leonardo DiCaprio",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44221",
+      "slug": "sean-penn",
+      "name": "Sean Penn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235141",
+      "slug": "regina-hall",
+      "name": "Regina Hall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16726249",
+      "slug": "alana-haim",
+      "name": "Alana Haim",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7708542",
+      "slug": "teyana-taylor",
+      "name": "Teyana Taylor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1321005",
+      "slug": "wood-harris",
+      "name": "Wood Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20657093",
+      "slug": "junglepussy",
+      "name": "Junglepussy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193668",
+      "slug": "benicio-del-toro",
+      "name": "Benicio del Toro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125156936",
+      "slug": "chase-infiniti",
+      "name": "Chase Infiniti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1151457",
+      "slug": "d-w-moffett",
+      "name": "D.W. Moffett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q224754",
+      "slug": "tony-goldwyn",
+      "name": "Tony Goldwyn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q904209",
+      "slug": "eric-schweig",
+      "name": "Eric Schweig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q133596666",
+      "slug": "q133596666",
+      "name": "Q133596666",
+      "role": "actor"
+    },
+    {
+      "qid": "Q109564878",
+      "slug": "john-hoogenakker",
+      "name": "John Hoogenakker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3497183",
+      "slug": "starletta-dupois",
+      "name": "Starletta DuPois",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1288447",
+      "slug": "kevin-tighe",
+      "name": "Kevin Tighe",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q25132",
+    "slug": "paul-thomas-anderson",
+    "name": "Paul Thomas Anderson",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-20 11:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

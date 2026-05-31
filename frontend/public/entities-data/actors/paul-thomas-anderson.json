@@ -1,0 +1,63 @@
+{
+  "type": "actor",
+  "slug": "paul-thomas-anderson",
+  "name": "Paul Thomas Anderson",
+  "worksCount": 4,
+  "description": "réalisateur, scénariste et producteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Thomas%20Anderson%202022%20(2)%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-06-26",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q25132",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Paul_Thomas_Anderson",
+    "imdb": "nm0000759",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "boogie-nights",
+      "title": "Boogie Nights"
+    },
+    {
+      "type": "film",
+      "slug": "une-bataille-apres-l-autre",
+      "title": "Une bataille après l'autre"
+    },
+    {
+      "type": "film",
+      "slug": "there-will-be-blood",
+      "title": "There Will Be Blood"
+    },
+    {
+      "type": "film",
+      "slug": "magnolia",
+      "title": "Magnolia"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8c551de2-3fe3-45ac-8dc9-d05085ae39b7",
+      "title": "Une bataille après l'autre",
+      "programSlug": "une-bataille-apres-l-autre",
+      "programUrl": "/programme/canal-box-office/une-bataille-apres-l-autre",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 11:14:00+00",
+      "endTime": "2026-04-20 13:50:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 11:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

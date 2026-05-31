@@ -1,0 +1,375 @@
+{
+  "type": "series",
+  "slug": "beverly-hills",
+  "title": "Beverly Hills",
+  "airingsCount": 197,
+  "sourceTitles": [
+    "Beverly Hills",
+    "Beverly Hills - Saison 5"
+  ],
+  "genres": [
+    "soap opera",
+    "série dramatique pour adolescents"
+  ],
+  "description": "Brandon et Brenda, des jumeaux, déménagent de leur Minnesota pour le très select 953 Hillcrest Drive, Beverly Hills CA, 90210. Leur vie va changer du tout au tout. Dans ce quartier huppé de Los Angeles, les jeunes gens tentent de se faire de nouveaux amis. La rentrée scolaire les aide à faire de nouvelles rencontres. Andrea, Steve et Kelly constituent le premier noyau de la bande. Brandon, qui voudrait bien rejoindre l'équipe de basket locale, voit sa demande rejettée, ce qui le déçoit énormément. Brenda, elle connaît quelques problèmes de coeur. Bien vite, la fin du semestre s'annonce, avec l'organisation du traditionnel bal de fin d'année. Dans cette série devenue culte, l'actrice Tori Spelling a fait ses premières armes, après quelques apparitions, notamment dans \"Hooker\" et \"Glitter\".",
+  "descriptionAi": "Cette série dramatique pour adolescents, véritable soap opera culte des années 1990, plonge le téléspectateur dans l'univers clinquant et tumultueux de la jeunesse dorée de Beverly Hills. À travers le regard de jumeaux du Minnesota confrontés à un nouveau monde de privilèges et d'embûches, elle explore avec justesse les thèmes universels de l'amitié, des premières amours et de la recherche d'identité. L'ambiance, à la fois glamour et authentique, et ses personnages attachants, dont les débuts de Tori Spelling, captivent par leur parcours semé de drames et de joies. Une immersion nostalgique et addictive dans les préoccupations d'une génération, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beverly%20hills%2090210.svg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab3.png",
+      "airingsCount": 112
+    },
+    {
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab1.png",
+      "airingsCount": 85
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "125d01dd-0389-49fc-8ac4-d7ea0a46b6ca",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab1/beverly-hills",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 10:25:00+00",
+      "endTime": "2026-04-19 11:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a83db60c-4548-4565-a367-45d3e0149c1f",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab1/beverly-hills",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 11:15:00+00",
+      "endTime": "2026-04-19 12:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c5deaae9-b5b3-4f02-adb5-18510e409658",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab1/beverly-hills",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 12:05:00+00",
+      "endTime": "2026-04-19 12:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "17865914-4f98-4488-a372-c39609392709",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab1/beverly-hills",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 12:55:00+00",
+      "endTime": "2026-04-19 13:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1849b2d4-ee20-4b46-ae84-e89cd0cf51db",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab1/beverly-hills",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 13:45:00+00",
+      "endTime": "2026-04-19 14:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5a81aaba-7be1-446d-8d33-ff3f5010bcf5",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab1/beverly-hills",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 14:40:00+00",
+      "endTime": "2026-04-19 15:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "399d1212-b93f-409d-8904-abd21e5129c8",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab1/beverly-hills",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 15:30:00+00",
+      "endTime": "2026-04-19 16:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "cbf3f1a3-9784-4213-9bb1-c1e3c72a6043",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab1/beverly-hills",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 16:20:00+00",
+      "endTime": "2026-04-19 17:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "474aeb38-8708-4606-a388-65e167da0955",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab1/beverly-hills",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 17:10:00+00",
+      "endTime": "2026-04-19 18:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6310c7a0-0641-466b-9f5d-f72f4a9e6bc8",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab1/beverly-hills",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-19 18:00:00+00",
+      "endTime": "2026-04-19 18:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "73da5e5f-159c-4833-93f3-63e6c46d5244",
+      "title": "Beverly Hills - Saison 6",
+      "programSlug": "beverly-hills-saison-6",
+      "programUrl": "/programme/ab1/beverly-hills-saison-6",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 10:30:00+00",
+      "endTime": "2026-04-20 11:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "bae6ef7f-7be1-4067-9b10-06b6c42ecfda",
+      "title": "Beverly Hills - Saison 6",
+      "programSlug": "beverly-hills-saison-6",
+      "programUrl": "/programme/ab1/beverly-hills-saison-6",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 11:20:00+00",
+      "endTime": "2026-04-20 12:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "65aa2647-49e2-4635-b81e-1114104d6137",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab3/beverly-hills",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-20 11:45:00+00",
+      "endTime": "2026-04-20 12:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "246a237b-214b-4925-ae85-e451a281e21c",
+      "title": "Beverly Hills - Saison 6",
+      "programSlug": "beverly-hills-saison-6",
+      "programUrl": "/programme/ab1/beverly-hills-saison-6",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 12:10:00+00",
+      "endTime": "2026-04-20 13:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "56290ed1-6e85-4629-95f9-1d8e7f775eee",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab3/beverly-hills",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-20 12:35:00+00",
+      "endTime": "2026-04-20 13:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2b41efd4-cf25-439e-a919-6f6534e22d51",
+      "title": "Beverly Hills - Saison 6",
+      "programSlug": "beverly-hills-saison-6",
+      "programUrl": "/programme/ab1/beverly-hills-saison-6",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 13:00:00+00",
+      "endTime": "2026-04-20 13:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e15015dd-6eee-46f7-ba55-b182c818063e",
+      "title": "Beverly Hills",
+      "programSlug": "beverly-hills",
+      "programUrl": "/programme/ab3/beverly-hills",
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "startTime": "2026-04-20 13:25:00+00",
+      "endTime": "2026-04-20 14:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "0eb2ce80-0c0c-4df1-8974-2dd61ae66699",
+      "title": "Beverly Hills - Saison 6",
+      "programSlug": "beverly-hills-saison-6",
+      "programUrl": "/programme/ab1/beverly-hills-saison-6",
+      "channelId": "ab1",
+      "channelName": "AB1",
+      "channelSlug": "ab1",
+      "startTime": "2026-04-20 13:50:00+00",
+      "endTime": "2026-04-20 14:45:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T22:06:36.689Z",
+  "startYear": 1990,
+  "numberOfSeasons": 10,
+  "cast": [
+    {
+      "qid": "Q2681188",
+      "slug": "noelle-parker",
+      "name": "Noelle Parker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311769",
+      "slug": "jason-priestley",
+      "name": "Jason Priestley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207598",
+      "slug": "shannen-doherty",
+      "name": "Shannen Doherty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230015",
+      "slug": "jennie-garth",
+      "name": "Jennie Garth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q352233",
+      "slug": "ian-ziering",
+      "name": "Ian Ziering",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235575",
+      "slug": "gabrielle-carteris",
+      "name": "Gabrielle Carteris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318165",
+      "slug": "luke-perry",
+      "name": "Luke Perry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313311",
+      "slug": "brian-austin-green",
+      "name": "Brian Austin Green",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1252255",
+      "slug": "douglas-emerson",
+      "name": "Douglas Emerson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229050",
+      "slug": "tori-spelling",
+      "name": "Tori Spelling",
+      "role": "actor"
+    },
+    {
+      "qid": "Q242440",
+      "slug": "carol-potter",
+      "name": "Carol Potter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q726154",
+      "slug": "james-eckhouse",
+      "name": "James Eckhouse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q967117",
+      "slug": "joe-e-tata",
+      "name": "Joe E. Tata",
+      "role": "actor"
+    },
+    {
+      "qid": "Q664670",
+      "slug": "mark-damon-espinoza",
+      "name": "Mark Damon Espinoza",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232527",
+      "slug": "kathleen-robertson",
+      "name": "Kathleen Robertson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230045",
+      "slug": "tiffani-thiessen",
+      "name": "Tiffani Thiessen",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q452063",
+    "slug": "darren-star",
+    "name": "Darren Star",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 10:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

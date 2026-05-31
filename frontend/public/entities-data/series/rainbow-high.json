@@ -1,0 +1,46 @@
+{
+  "type": "series",
+  "slug": "rainbow-high",
+  "title": "Rainbow High",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Rainbow High"
+  ],
+  "genres": [
+    "Série"
+  ],
+  "description": "Les petites fées sont au Rainbow World à la recherche de leurs soeurs. Astrid leur fait visiter le Rainbow World et elles découvrent le royaume de Moonbow encore très verdoyant. La princesse Marina et Rosetta sont encore rongée par la jalousie, et les petites doivent les aider à y remédier...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "channelNumber": 18,
+      "logoUrl": "/loghi/gulli.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2020,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

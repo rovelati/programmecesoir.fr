@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "les-jardins-du-roi",
+  "title": "Les jardins du roi",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Les jardins du roi"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Dans sa soif de pouvoir, Louis XIV s'est s'attiré la jalousie des autres monarques européens avec la construction du château de Versailles. Il ne veut pas s'arrêter là et décide que les jardins seront également les plus beaux. Avec André Le Nôtre, il s'est trouvé un allié de poids. L'arrivée de Sabine De Barra, architecte paysagiste, va tout bouleverser. La jeune femme aux idées révolutionnaires est dotée d'un talent immense, mais doit combattre sa timidité pour trouver sa place au sein d'une cour féroce. Elle finit par convaincre le Roi Soleil et son frère, le duc d'Orléans. Sa collaboration avec Le Nôtre est faite de respect mutuel, jusqu'à ce que les sentiments s'en mêlent...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2014,
+  "durationMinutes": 117,
+  "cast": [
+    {
+      "qid": "Q106481",
+      "slug": "alan-rickman",
+      "name": "Alan Rickman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q231310",
+      "slug": "helen-mccrory",
+      "name": "Helen McCrory",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235721",
+      "slug": "jennifer-ehle",
+      "name": "Jennifer Ehle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202765",
+      "slug": "kate-winslet",
+      "name": "Kate Winslet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q427019",
+      "slug": "matthias-schoenaerts",
+      "name": "Matthias Schoenaerts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223117",
+      "slug": "stanley-tucci",
+      "name": "Stanley Tucci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3015315",
+      "slug": "danny-webb",
+      "name": "Danny Webb",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5053386",
+      "slug": "cathy-belton",
+      "name": "Cathy Belton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q466388",
+      "slug": "steven-waddington",
+      "name": "Steven Waddington",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1242707",
+      "slug": "adrian-scarborough",
+      "name": "Adrian Scarborough",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4685338",
+      "slug": "adrian-schiller",
+      "name": "Adrian Schiller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4764269",
+      "slug": "angus-wright",
+      "name": "Angus Wright",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4727316",
+      "slug": "alistair-petrie",
+      "name": "Alistair Petrie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q359210",
+      "slug": "rupert-penry-jones",
+      "name": "Rupert Penry-Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2063582",
+      "slug": "paula-paul",
+      "name": "Paula Paul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5446761",
+      "slug": "fidelis-morgan",
+      "name": "Fidelis Morgan",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q106481",
+    "slug": "alan-rickman",
+    "name": "Alan Rickman",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

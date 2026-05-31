@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "guy-laporte",
+  "name": "Guy Laporte",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1948-03-11",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3121905",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Guy_Laporte_(acteur)",
+    "imdb": "nm0487720",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "marche-a-l-ombre",
+      "title": "Marche à l'ombre"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

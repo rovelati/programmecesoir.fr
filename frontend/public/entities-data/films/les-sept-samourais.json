@@ -1,0 +1,153 @@
+{
+  "type": "film",
+  "slug": "les-sept-samourais",
+  "title": "Les sept samouraïs",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les sept samouraïs"
+  ],
+  "genres": [
+    "drame",
+    "chanbara",
+    "film ou téléfilm épique",
+    "film et téléfilm d'action",
+    "drame historique",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Au XVIe siècle, au Japon, une bande de pillards convoite les récoltes d'un village de montagne. Mis au courant du raid à venir, les paysans se décident à engager des samouraïs pour les défendre. Au prix de nombreux sacrifices et difficultés, ils parviennent à convaincre sept guerriers de les aider...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Seven%20Samurai%20poster2.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1954,
+  "durationMinutes": 207,
+  "cast": [
+    {
+      "qid": "Q40070",
+      "slug": "takashi-shimura",
+      "name": "Takashi Shimura",
+      "role": "actor"
+    },
+    {
+      "qid": "Q37001",
+      "slug": "toshiro-mifune",
+      "name": "Toshirō Mifune",
+      "role": "actor"
+    },
+    {
+      "qid": "Q922612",
+      "slug": "seiji-miyaguchi",
+      "name": "Seiji Miyaguchi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q975630",
+      "slug": "minoru-chiaki",
+      "name": "Minoru Chiaki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q63525",
+      "slug": "isao-kimura",
+      "name": "Isao Kimura",
+      "role": "actor"
+    },
+    {
+      "qid": "Q438605",
+      "slug": "keiko-tsushima",
+      "name": "Keiko Tsushima",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1992367",
+      "slug": "bokuzen-hidari",
+      "name": "Bokuzen Hidari",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1861772",
+      "slug": "yoshio-inaba",
+      "name": "Yoshio Inaba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q579058",
+      "slug": "daisuke-kato",
+      "name": "Daisuke Katō",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1085473",
+      "slug": "yoshio-tsuchiya",
+      "name": "Yoshio Tsuchiya",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3573159",
+      "slug": "yukiko-shimazaki",
+      "name": "Yukiko Shimazaki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3043193",
+      "slug": "kamatari-fujiwara",
+      "name": "Kamatari Fujiwara",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3198422",
+      "slug": "kokuten-kodo",
+      "name": "Kokuten Kōdō",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11670072",
+      "slug": "shinpei-takagi",
+      "name": "Shinpei Takagi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1315977",
+      "slug": "haruo-nakajima",
+      "name": "Haruo Nakajima",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3155131",
+      "slug": "isao-yamagata",
+      "name": "Isao Yamagata",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q8006",
+    "slug": "akira-kurosawa",
+    "name": "Akira Kurosawa",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

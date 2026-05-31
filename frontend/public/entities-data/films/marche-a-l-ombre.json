@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "marche-a-l-ombre",
+  "title": "Marche à l'ombre",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Marche à l'ombre"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Denis, un éternel angoissé, bourlingue avec son copain François, un guitariste bellâtre. De retour de Grèce, tous deux se rendent à Paris, où un ami doit les loger. Mais l'ami en question a disparu, et son toit s'est envolé. Denis et François sont contraints de faire la manche dans le métro...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1984,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q822410",
+      "slug": "bernard-farcy",
+      "name": "Bernard Farcy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3027145",
+      "slug": "didier-pain",
+      "name": "Didier Pain",
+      "role": "actor"
+    },
+    {
+      "qid": "Q346102",
+      "slug": "dominique-besnehard",
+      "name": "Dominique Besnehard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q576085",
+      "slug": "francois-berleand",
+      "name": "François Berléand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3121905",
+      "slug": "guy-laporte",
+      "name": "Guy Laporte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3165588",
+      "slug": "jean-francois-derec",
+      "name": "Jean-François Dérec",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3194207",
+      "slug": "katrine-boorman",
+      "name": "Katrine Boorman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3280630",
+      "slug": "maka-kotto",
+      "name": "Maka Kotto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1398256",
+      "slug": "michel-blanc",
+      "name": "Michel Blanc",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3314602",
+      "slug": "mimi-felixine",
+      "name": "Mimi Felixine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q171530",
+      "slug": "patrick-bruel",
+      "name": "Patrick Bruel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3385032",
+      "slug": "pierre-forget",
+      "name": "Pierre Forget",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3490923",
+      "slug": "sophie-duez",
+      "name": "Sophie Duez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3526321",
+      "slug": "theo-legitimus",
+      "name": "Théo Légitimus",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1558999",
+      "slug": "gerard-lanvin",
+      "name": "Gérard Lanvin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26837228",
+      "slug": "beatrice-camurat",
+      "name": "Béatrice Camurat",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1398256",
+    "slug": "michel-blanc",
+    "name": "Michel Blanc",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

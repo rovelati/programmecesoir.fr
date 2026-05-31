@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "charlotte-gainsbourg",
+  "name": "Charlotte Gainsbourg",
+  "worksCount": 2,
+  "description": "actrice et chanteuse franco-britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte%20Gainsbourg-5647%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-07-21",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q276005",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Charlotte_Gainsbourg",
+    "imdb": "nm0001250",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "nous-les-leroy",
+      "title": "Nous, les Leroy"
+    },
+    {
+      "type": "film",
+      "slug": "la-buche",
+      "title": "La bûche"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,76 @@
+{
+  "type": "film",
+  "slug": "ernest-cole-photographe",
+  "title": "Ernest Cole, photographe",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Ernest Cole, photographe"
+  ],
+  "genres": [
+    "film documentaire",
+    "film ou téléfilm biographique"
+  ],
+  "description": "Ernest Cole, photographe sud-africain, a été le premier à exposer au monde entier les horreurs de l'apartheid. Son livre \"House of Bondage\", publié en 1967 alors qu'il n'avait que 27 ans, témoigne de la vie des Noirs sous le régime ségrégationniste. Contraint de s'exiler à New York et en Europe pour le reste de sa vie, Ernest Cole n'a jamais retrouvé ses repères. Raoul Peck raconte ses errances, ses tourments d'artiste et sa colère au quotidien, face au silence ou à la complicité du monde occidental. Il raconte aussi comment, en 2017, 60 000 négatifs de son travail sont découverts par hasard dans le coffre d'une banque suédoise...",
+  "descriptionAi": "Ce documentaire biographique de Raoul Peck plonge dans la vie et l'œuvre du photographe sud-africain Ernest Cole. L'ambiance est à la fois intime et implacable, retraçant le parcours de cet exilé qui révéla au monde la brutalité de l'apartheid. Le film captivant explore son génie artistique, sa colère et son profond désarroi, tout en révélant l'incroyable redécouverte de ses archives perdues. C'est un portrait puissant sur le pouvoir du témoignage et le prix de la vérité, une plongée essentielle dans l'histoire et la conscience d'un artiste. Ne manquez pas ce récit poignant, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q125925221",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ernest_Cole%2C_photographe",
+    "imdb": "tt27760132",
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:34:38.871Z",
+  "year": 2024,
+  "durationMinutes": 105,
+  "cast": [],
+  "director": {
+    "qid": "Q1357018",
+    "slug": "raoul-peck",
+    "name": "Raoul Peck",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

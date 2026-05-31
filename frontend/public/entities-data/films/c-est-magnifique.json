@@ -1,0 +1,119 @@
+{
+  "type": "film",
+  "slug": "c-est-magnifique",
+  "title": "C'est magnifique !",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "C'est magnifique !"
+  ],
+  "genres": [
+    "comédie",
+    "comédie dramatique"
+  ],
+  "description": "Elevé par des parents aimants loin des regards indiscrets, dans une maison isolée en pleine campagne, Pierre doit apprendre à vivre sans eux lors de leur soudaine disparition. Mais pire encore, ce quadragénaire apprend à cet instant qu'il a été adopté et qu'il ne possède aucune existence légale. Pour cet être quelque peu naïf et peu au fait des codes de la vie en société, un parcours du combattant aux airs de David contre Goliath commence. Heureusement, un coup de pouce du destin l'envoie vers Anna, une jeune femme en quête d'un logement et qui semble la personne adéquate pour l'aider à retrouver ses parents biologiques...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q606555",
+      "slug": "clovis-cornillac",
+      "name": "Clovis Cornillac",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6531360",
+      "slug": "alice-pol",
+      "name": "Alice Pol",
+      "role": "actor"
+    },
+    {
+      "qid": "Q658160",
+      "slug": "myriam-boyer",
+      "name": "Myriam Boyer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3106456",
+      "slug": "gilles-privat",
+      "name": "Gilles Privat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q110754547",
+      "slug": "q110754547",
+      "name": "Q110754547",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3240925",
+      "slug": "lilou-fogli",
+      "name": "Lilou Fogli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3219022",
+      "slug": "laurent-bateau",
+      "name": "Laurent Bateau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15973725",
+      "slug": "alain-blazquez",
+      "name": "Alain Blazquez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3438839",
+      "slug": "roger-cornillac",
+      "name": "Roger Cornillac",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2848415",
+      "slug": "andre-penvern",
+      "name": "André Penvern",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2911040",
+      "slug": "boris-terral",
+      "name": "Boris Terral",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q606555",
+    "slug": "clovis-cornillac",
+    "name": "Clovis Cornillac",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

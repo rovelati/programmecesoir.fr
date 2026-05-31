@@ -1,0 +1,61 @@
+{
+  "type": "film",
+  "slug": "batman-et-les-tortues-ninja",
+  "title": "Batman et les Tortues Ninja",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Batman et les Tortues Ninja"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "cross-over",
+    "film de ninja"
+  ],
+  "description": "Batman, Batgirl et Robin forgent une alliance avec les Tortues Ninja pour lutter contre un ennemi redoutable, lui-même aidé par Ra's Al Gul et la Ligue des Assassins...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "adultswimfr",
+      "channelName": "AdultSwim.fr",
+      "channelSlug": "adultswimfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/adultswimfr.svg",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "warner-tv-next",
+      "channelName": "Warner TV Next",
+      "channelSlug": "warner-tv-next",
+      "channelNumber": null,
+      "logoUrl": "/loghi/warner-tv-next.svg",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2019,
+  "durationMinutes": 84,
+  "cast": [],
+  "director": {
+    "qid": "Q113366099",
+    "slug": "jake-castorena",
+    "name": "Jake Castorena",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

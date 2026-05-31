@@ -1,0 +1,127 @@
+{
+  "type": "series",
+  "slug": "code-quantum",
+  "title": "Code Quantum",
+  "airingsCount": 14,
+  "sourceTitles": [
+    "Code Quantum",
+    "Code Quantum - Saison 2"
+  ],
+  "genres": [
+    "série télévisée de science-fiction",
+    "alternate history television series"
+  ],
+  "description": "A sa grande déception, et bien qu'il ait retrouvé ses souvenirs, Ben ne retourne pas chez lui mais fait un nouveau saut temporel. Il reprend conscience au-dessus de la Russie en 1978, à bord d'un avion militaire transportant une caisse au contenu top secret. Après avoir essuyé un tir de missile russe, l'avion s'écrase et Ben se retrouve avec les autres membres de l'équipage en terrain ennemi et sans la présence d'Addison ni de toute l'équipe de Code Quantum...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "channelNumber": 18,
+      "logoUrl": "/loghi/gulli.png",
+      "airingsCount": 14
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2d145f08-f226-40fd-b480-da0287ffc5d6",
+      "title": "Code Quantum",
+      "programSlug": "code-quantum",
+      "programUrl": "/programme/gulli/code-quantum",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 19:05:00+00",
+      "endTime": "2026-04-19 19:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "9c36b845-9a36-4dbf-beec-3df0a411c606",
+      "title": "Code Quantum",
+      "programSlug": "code-quantum",
+      "programUrl": "/programme/gulli/code-quantum",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 19:50:00+00",
+      "endTime": "2026-04-19 20:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "549df598-54ee-452e-a90a-bdd2f16243c5",
+      "title": "Code Quantum",
+      "programSlug": "code-quantum",
+      "programUrl": "/programme/gulli/code-quantum",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 20:45:00+00",
+      "endTime": "2026-04-19 21:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "039adbfa-a990-4961-9515-984bcf82f9d9",
+      "title": "Code Quantum",
+      "programSlug": "code-quantum",
+      "programUrl": "/programme/gulli/code-quantum",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 21:40:00+00",
+      "endTime": "2026-04-19 22:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "a13fe8cb-b2aa-418b-9414-e899978143c1",
+      "title": "Code Quantum - Saison 2",
+      "programSlug": "code-quantum-saison-2",
+      "programUrl": "/programme/gulli/code-quantum-saison-2",
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "startTime": "2026-04-19 22:35:00+00",
+      "endTime": "2026-04-19 23:20:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1989,
+  "numberOfSeasons": 5,
+  "cast": [
+    {
+      "qid": "Q311699",
+      "slug": "scott-bakula",
+      "name": "Scott Bakula",
+      "role": "actor"
+    },
+    {
+      "qid": "Q345212",
+      "slug": "dean-stockwell",
+      "name": "Dean Stockwell",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q710739",
+    "slug": "donald-bellisario",
+    "name": "Donald Bellisario",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 19:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

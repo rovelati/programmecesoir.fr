@@ -1,0 +1,77 @@
+{
+  "type": "actor",
+  "slug": "alexandre-charlot",
+  "name": "Alexandre Charlot",
+  "worksCount": 2,
+  "description": "réalisateur et scénariste français",
+  "descriptionAi": "Alexandre Charlot est un réalisateur et scénariste français dont l’œuvre navigue souvent entre le drame intimiste et la comédie sociale. Son univers se caractérise par une ambiance à la fois réaliste et sensible, où les personnages ordinaires sont confrontés à des dilemmes profonds. Ce qui le rend captivant, c’est sa capacité à saisir les nuances des relations humaines et à traiter de sujets contemporains avec justesse et sans manichéisme. Ses récits, ancrés dans le quotidien, parviennent à toucher par leur authenticité et leur regard empathique. Une filmographie qui invite à la réflexion, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1953-01-01",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2833529",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alexandre_Charlot",
+    "imdb": "nm0153265",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "boule-bill",
+      "title": "Boule & Bill"
+    },
+    {
+      "type": "film",
+      "slug": "le-larbin",
+      "title": "Le Larbin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1a2a90e6-af79-43b0-a9c3-a76246d49ebf",
+      "title": "Le Larbin",
+      "programSlug": "le-larbin",
+      "programUrl": "/programme/cine-family/le-larbin",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 11:30:00+00",
+      "endTime": "2026-04-20 13:16:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "85ddd2a1-29db-44a1-8e2f-d9b15dfe66fc",
+      "title": "Boule & Bill",
+      "programSlug": "boule-bill",
+      "programUrl": "/programme/canal-grand-ecran/boule-bill",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 16:15:00+00",
+      "endTime": "2026-04-20 17:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "fe29e5b2-210a-4a20-8c12-cc70758ef164",
+      "title": "Le Larbin",
+      "programSlug": "le-larbin",
+      "programUrl": "/programme/cine-family/le-larbin",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 18:50:00+00",
+      "endTime": "2026-04-23 20:36:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:47.354Z",
+  "nextAiringAt": "2026-04-20 11:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

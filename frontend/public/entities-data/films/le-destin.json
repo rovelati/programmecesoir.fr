@@ -1,0 +1,106 @@
+{
+  "type": "film",
+  "slug": "le-destin",
+  "title": "Le destin",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le destin"
+  ],
+  "genres": [
+    "film ou téléfilm biographique"
+  ],
+  "description": "Dans le Languedoc, au XIIe siècle, un traducteur des oeuvres du grand philosophe arabe Averroès est brûlé comme hérétique. Son fils, Joseph, parvient à s'enfuir, à gagner l'Andalousie et à trouver refuge auprès d'Averroès lui-même, alors Grand Juge du calife Al Mansour et médecin fort réputé. Nasser, le fils aîné du calife, compte parmi les plus fidèles disciples d'Averroès, tandis que le cadet, Abdallah, ne pense qu'à la danse, à la musique et à la belle Gitane dont il est follement épris depuis quelques semaines. Une secte de fanatiques prend le pouvoir. Elle tente tout d'abord d'en finir avec un doux poète, Marwan, avant d'endoctriner Abdallah...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1997,
+  "durationMinutes": 135,
+  "cast": [
+    {
+      "qid": "Q381486",
+      "slug": "nour-el-sherif",
+      "name": "Nour El-Sherif",
+      "role": "actor"
+    },
+    {
+      "qid": "Q303720",
+      "slug": "khaled-el-nabawy",
+      "name": "Khaled El Nabawy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6473854",
+      "slug": "laila-elwi",
+      "name": "Laila Elwi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q10989976",
+      "slug": "mahmoud-hemida",
+      "name": "Mahmoud Hemida",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3276901",
+      "slug": "safia-el-emari",
+      "name": "Safia El Emari",
+      "role": "actor"
+    },
+    {
+      "qid": "Q571707",
+      "slug": "mohamed-mounir",
+      "name": "Mohamed Mounir",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12179037",
+      "slug": "ahmed-fouad-selim",
+      "name": "Ahmed Fouad Selim",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12249720",
+      "slug": "hani-salama",
+      "name": "Hani Salama",
+      "role": "actor"
+    },
+    {
+      "qid": "Q51765860",
+      "slug": "faris-endris-rahoma",
+      "name": "Faris Endris Rahoma",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q312611",
+    "slug": "youssef-chahine",
+    "name": "Youssef Chahine",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

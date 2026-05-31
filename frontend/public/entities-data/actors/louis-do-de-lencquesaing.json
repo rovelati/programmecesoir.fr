@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "louis-do-de-lencquesaing",
+  "name": "Louis-Do de Lencquesaing",
+  "worksCount": 2,
+  "description": "acteur, réalisateur, scénariste et metteur en scène français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis-Do%20de%20Lencquesaing%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-12-25",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1871396",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Louis-Do_de_Lencquesaing",
+    "imdb": "nm0209629",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-voyage-en-pyjama",
+      "title": "Le voyage en pyjama"
+    },
+    {
+      "type": "film",
+      "slug": "petites-coupures",
+      "title": "Petites coupures"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9b44ab34-937b-4589-935c-ad4d47dce606",
+      "title": "Petites coupures",
+      "programSlug": "petites-coupures",
+      "programUrl": "/programme/canal-grand-ecran/petites-coupures",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 04:00:00+00",
+      "endTime": "2026-04-23 05:33:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 04:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

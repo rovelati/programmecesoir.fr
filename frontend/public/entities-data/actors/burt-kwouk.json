@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "burt-kwouk",
+  "name": "Burt Kwouk",
+  "worksCount": 2,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Burt%20Kwouk%20plaque.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1930-07-18",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q725674",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Burt_Kwouk",
+    "imdb": "nm0477297",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "air-america",
+      "title": "Air America"
+    },
+    {
+      "type": "film",
+      "slug": "fils-du-vent",
+      "title": "Fils du vent"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b69d0c4-f44b-4007-ae5b-9c4ea20661b4",
+      "title": "Fils du vent",
+      "programSlug": "fils-du-vent",
+      "programUrl": "/programme/tele-grenoble/fils-du-vent",
+      "channelId": "tele-grenoble",
+      "channelName": "Télé Grenoble",
+      "channelSlug": "tele-grenoble",
+      "startTime": "2026-04-25 00:50:00+00",
+      "endTime": "2026-04-25 01:45:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-25 00:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

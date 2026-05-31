@@ -1,0 +1,95 @@
+{
+  "type": "film",
+  "slug": "l-equilibrio",
+  "title": "L'equilibrio",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'equilibrio"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Ancien missionnaire en Afrique, le père Giuseppe est en poste dans une petite parsoisse de Rome, où il aide notamment des réfugiés. Troublé par les sentiments qu'il éprouve pour une femme, le prêtre demande à être transferé et se retrouve affecté en Campanie, non loin de Naples. Il découvre une région qui a longtemps été polluée par le crime organisé, responsable de l'enfouissement illégal de tonnes de déchets. Alors que son prédécesseur, le père anonio, combattait férocement ces pratiques, Giiuseppe veut reprendre son combat. Mais les forces en présence sont puissantes...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4e087ad7-8f6e-4e8b-b530-32f00eff0784",
+      "title": "L'equilibrio",
+      "programSlug": "l-equilibrio",
+      "programUrl": "/programme/eurochannel/l-equilibrio",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-23 23:35:00+00",
+      "endTime": "2026-04-24 01:05:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "0ecef234-1a0a-47f3-aed9-71056431f4c4",
+      "title": "L'equilibrio",
+      "programSlug": "l-equilibrio",
+      "programUrl": "/programme/eurochannel/l-equilibrio",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 02:30:00+00",
+      "endTime": "2026-04-26 04:00:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2017,
+  "durationMinutes": 90,
+  "cast": [
+    {
+      "qid": "Q20630332",
+      "slug": "mimmo-borrelli",
+      "name": "Mimmo Borrelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3362666",
+      "slug": "paolo-sassanelli",
+      "name": "Paolo Sassanelli",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3627622",
+      "slug": "astrid-meloni",
+      "name": "Astrid Meloni",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q548917",
+    "slug": "vincenzo-marra",
+    "name": "Vincenzo Marra",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 23:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

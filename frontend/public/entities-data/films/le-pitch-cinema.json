@@ -1,0 +1,463 @@
+{
+  "type": "film",
+  "slug": "le-pitch-cinema",
+  "title": "Le pitch cinéma",
+  "airingsCount": 27,
+  "sourceTitles": [
+    "Le pitch cinéma"
+  ],
+  "genres": [
+    "Cinema"
+  ],
+  "description": "Ce magazine est consacré au septième art – le cinéma et à l'actualité qui s'y rattache.",
+  "descriptionAi": "Plongez dans l'univers du septième art avec ce magazine dédié à la passion du cinéma. Entre analyses de films, décryptages de l'actualité et rencontres avec des professionnels, l'émission cultive une atmosphère à la fois cinéphile et accessible. Ce qui la rend captivante, c'est son regard à la fois expert et curieux, qui explore les coulisses de la création et les tendances du grand écran sans jamais se prendre au sérieux. Une invitation à partager une discussion informée et enthousiaste sur l'art filmique, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-2",
+      "channelName": "France 2",
+      "channelSlug": "france-2",
+      "channelNumber": 2,
+      "logoUrl": "/loghi/france-2.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "channelNumber": 3,
+      "logoUrl": "/loghi/france-3.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-5",
+      "channelName": "France 5",
+      "channelSlug": "france-5",
+      "channelNumber": 5,
+      "logoUrl": "/loghi/france-5.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-centre.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-limousin.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-champagne-ardenne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-rhone-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-languedoc.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bourgogne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-basse-normandie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-aquitaine.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-pays-de-loire",
+      "channelName": "France 3 - Pays de Loire",
+      "channelSlug": "france-3-pays-de-loire",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-pays-de-loire.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-poitou-charentes",
+      "channelName": "France 3 - Poitou-Charentes",
+      "channelSlug": "france-3-poitou-charentes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-poitou-charentes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-midi-pyrenees.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-picardie",
+      "channelName": "France 3 - Picardie",
+      "channelSlug": "france-3-picardie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-picardie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-cote-dazur.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-franche-comte.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nord-pas-de-calais.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-provence-alpes",
+      "channelName": "France 3 - Provence Alpes",
+      "channelSlug": "france-3-provence-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-provence-alpes.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-auvergne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-paris-ile-de-france.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-lorraine.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-bretagne.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alsace.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-haute-normandie.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-alpes.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5246c60e-19e8-4a91-93fc-4e65dae636cb",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-rhone-alpes/le-pitch-cinema",
+      "channelId": "france-3-rhone-alpes",
+      "channelName": "France 3 - Rhône-Alpes",
+      "channelSlug": "france-3-rhone-alpes",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "2b6ef29f-4f55-435c-aa7f-eab34d8572d4",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3/le-pitch-cinema",
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "0c8cd9a0-3d15-4672-8517-635040564a79",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-alpes/le-pitch-cinema",
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "8824e1c9-09b1-4129-be17-69ae45e9c611",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-alsace/le-pitch-cinema",
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "2ce445f5-c044-47cd-b770-0e06aab290e0",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-aquitaine/le-pitch-cinema",
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "874296ac-cf7d-4f2d-b3a7-e0fc124f308d",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-auvergne/le-pitch-cinema",
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ac4282e3-8ffa-4635-b755-0774162b4d3b",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-basse-normandie/le-pitch-cinema",
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "cbbcfe4b-fc02-4de0-b4df-ec45f5ca1ba6",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-bourgogne/le-pitch-cinema",
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "12b945dd-4f0e-4eba-9222-ab20f846befe",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-bretagne/le-pitch-cinema",
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ad0790ee-7a88-4903-8c8b-14e7b3a1c68b",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-centre/le-pitch-cinema",
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "768040b6-f412-47bd-b555-815fd1084365",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-champagne-ardenne/le-pitch-cinema",
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "233fdb93-c270-4fea-b62c-071ddd1aa663",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-cote-dazur/le-pitch-cinema",
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "1609634c-61c8-4819-9916-3b969f6d4390",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-franche-comte/le-pitch-cinema",
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a55607d8-87e8-4cb2-9b44-d104244595c8",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-haute-normandie/le-pitch-cinema",
+      "channelId": "france-3-haute-normandie",
+      "channelName": "France 3 - Haute-Normandie",
+      "channelSlug": "france-3-haute-normandie",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "4ee84adf-30bc-4a01-8441-db782f543d0b",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-languedoc/le-pitch-cinema",
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "5968288e-f45c-4d46-8f9a-1bae30d005a2",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-limousin/le-pitch-cinema",
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "5418e68c-34f5-4c2e-b9df-b0fdaf9cd01f",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-midi-pyrenees/le-pitch-cinema",
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a971728c-ce47-4ebd-a854-5e3b5ca15424",
+      "title": "Le pitch cinéma",
+      "programSlug": "le-pitch-cinema",
+      "programUrl": "/programme/france-3-nord-pas-de-calais/le-pitch-cinema",
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "startTime": "2026-04-21 22:40:00+00",
+      "endTime": "2026-04-21 22:45:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:26:28.996Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 22:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

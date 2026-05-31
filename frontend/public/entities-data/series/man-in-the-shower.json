@@ -1,0 +1,96 @@
+{
+  "type": "series",
+  "slug": "man-in-the-shower",
+  "title": "Man In the Shower",
+  "airingsCount": 9,
+  "sourceTitles": [
+    "Man In the Shower"
+  ],
+  "genres": [
+    "Série",
+    "Série TV"
+  ],
+  "description": "Le résumé n'est pas disponible",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/gongfr.svg",
+      "airingsCount": 9
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "26be32de-bbf0-4188-b0c2-77d23ff7557f",
+      "title": "Man In the Shower",
+      "programSlug": "man-in-the-shower",
+      "programUrl": "/programme/gongfr/man-in-the-shower",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-21 07:35:00+00",
+      "endTime": "2026-04-21 07:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "efefa0f4-fa2a-4f80-b950-ea8ffae79952",
+      "title": "Man In the Shower",
+      "programSlug": "man-in-the-shower",
+      "programUrl": "/programme/gongfr/man-in-the-shower",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-22 07:35:00+00",
+      "endTime": "2026-04-22 07:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "905d5652-76cb-438c-bc31-2c7e59154186",
+      "title": "Man In the Shower",
+      "programSlug": "man-in-the-shower",
+      "programUrl": "/programme/gongfr/man-in-the-shower",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-23 07:35:00+00",
+      "endTime": "2026-04-23 07:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "fa42cc59-a6af-4f23-9569-6327dc37a804",
+      "title": "Man In the Shower",
+      "programSlug": "man-in-the-shower",
+      "programUrl": "/programme/gongfr/man-in-the-shower",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-24 07:35:00+00",
+      "endTime": "2026-04-24 07:45:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-21 07:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

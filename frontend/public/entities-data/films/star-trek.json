@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "star-trek",
+  "title": "Star Trek",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Star Trek"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm de science-fiction",
+    "film ou téléfilm d'aventure",
+    "drame"
+  ],
+  "description": "Aux confins de la galaxie, George Kirk, devenu capitaine de l'USS Kelvin, se sacrifie pour sauver son équipage et son fils qui vient de naître, quand son vaisseau est attaqué par Nero, un Romulien. Vingt ans plus tard, James T. Kirk est un cadet de Starfleet prometteur mais au tempérament imprévisible. Il fait la connaissance du médecin Leonard McCoy et attend de décrocher un poste d'officier. Mais, pour avoir triché à un examen, Kirk est mis à pied. C'est alors que la planète Vulcain appelle la flotte à l'aide. Défiant les ordres, Kirk, aidé par McCoy, embarque à bord de l'USS Enterprise, dont le second est Spock, à l'origine de la sanction de Kirk...",
+  "descriptionAi": "Ce film de science-fiction et d'aventure de 2009 redéfinit avec brio l'univers Star Trek. Il offre un mélange palpitant d'action spatiale, de drame et d'humour, le tout porté par une énergie visuelle spectaculaire. L'ambiance est à la fois épique et intimiste, explorant les origines des légendaires personnages Kirk et Spock. Le scénario intelligent, qui revisite la mythologie avec audace, et la dynamique entre les héros rendent ce reboot passionnant, que l'on soit fan de longue date ou nouveau venu dans la saga. Une aventure spatiale captivante à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:37.302Z",
+  "year": 2009,
+  "durationMinutes": 127,
+  "cast": [
+    {
+      "qid": "Q139642",
+      "slug": "zachary-quinto",
+      "name": "Zachary Quinto",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23466",
+      "slug": "chris-pine",
+      "name": "Chris Pine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238464",
+      "slug": "simon-pegg",
+      "name": "Simon Pegg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q708256",
+      "slug": "ben-cross",
+      "name": "Ben Cross",
+      "role": "actor"
+    },
+    {
+      "qid": "Q312705",
+      "slug": "john-cho",
+      "name": "John Cho",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314133",
+      "slug": "anton-yelchin",
+      "name": "Anton Yelchin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4349",
+      "slug": "jimmy-bennett",
+      "name": "Jimmy Bennett",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16345",
+      "slug": "leonard-nimoy",
+      "name": "Leonard Nimoy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1638065",
+      "slug": "jacob-kogan",
+      "name": "Jacob Kogan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q190162",
+      "slug": "zoe-saldana",
+      "name": "Zoë Saldaña",
+      "role": "actor"
+    },
+    {
+      "qid": "Q101797",
+      "slug": "winona-ryder",
+      "name": "Winona Ryder",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1332872",
+      "slug": "greg-ellis",
+      "name": "Greg Ellis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q199929",
+      "slug": "jennifer-morrison",
+      "name": "Jennifer Morrison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q935167",
+      "slug": "clifton-collins-jr",
+      "name": "Clifton Collins Jr.",
+      "role": "actor"
+    },
+    {
+      "qid": "Q54314",
+      "slug": "chris-hemsworth",
+      "name": "Chris Hemsworth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q140181",
+      "slug": "rachel-nichols",
+      "name": "Rachel Nichols",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q188137",
+    "slug": "j-j-abrams",
+    "name": "J. J. Abrams",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

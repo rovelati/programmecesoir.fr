@@ -1,0 +1,368 @@
+{
+  "type": "series",
+  "slug": "scenes-de-menages",
+  "title": "Scènes de ménages",
+  "airingsCount": 46,
+  "sourceTitles": [
+    "Scènes de ménages",
+    "Scènes de ménages - Saison 0",
+    "Scènes de ménages - Saison 12",
+    "Scènes de ménages - Saison 17"
+  ],
+  "genres": [
+    "Series",
+    "Série"
+  ],
+  "description": "Loin d'être un long fleuve tranquille, la vie de couple est émaillée de conflits, de disputes et de réconciliations, comme en témoigne le quotidien de quatre d'entre eux. Parmi eux, les trentenaires Cédric et Marion, qui se surnomment mutuellement \"poussin\", les jeunes parents Emma et Fabien, récemment installés à la campagne avec leur petite Chloé, José et Liliane, mariés depuis plus de vingt ans, sans oublier les inénarrables Huguette et Raymond, des retraités à la méchanceté gratuite. Librement adapté de la série espagnole \"Escenas de matrimonio\", ce programme court évoque avec humour les hauts et les bas de la vie de couple.",
+  "descriptionAi": "Cette série humoristique dépeint avec justesse les aléas du quotidien conjugal à travers quatre couples aux âges et dynamiques différents. Chaque épisode, sous forme de saynète, capture l'ambiance tantôt cocasse, tantôt touchante des petites disputes et réconciliations qui rythment la vie à deux. Son intérêt réside dans son humour universel et ses personnages attachants, dont les travers sont aisément reconnaissables, offrant un miroir tendre et drôle des relations amoureuses. Une tranche de vie légère et divertissante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "channelNumber": 6,
+      "logoUrl": "/loghi/m6.png",
+      "airingsCount": 36
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 9
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a8853086-552b-4aa5-a091-7ead9081cff4",
+      "title": "Scènes de ménages - Saison 12",
+      "programSlug": "scenes-de-menages-saison-12",
+      "programUrl": "/programme/antenne-reunion/scenes-de-menages-saison-12",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-19 08:15:00+00",
+      "endTime": "2026-04-19 08:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "836affe9-bbe8-489f-acfd-95b94851dce6",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-20 04:00:00+00",
+      "endTime": "2026-04-20 06:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "03fe521d-dbd2-4b41-8eba-4cf43d3b4e13",
+      "title": "Scènes de ménages - Saison 12",
+      "programSlug": "scenes-de-menages-saison-12",
+      "programUrl": "/programme/antenne-reunion/scenes-de-menages-saison-12",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 08:15:00+00",
+      "endTime": "2026-04-20 08:20:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "82d6f787-0d96-4fb3-bdec-7790673930de",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-20 11:35:00+00",
+      "endTime": "2026-04-20 11:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2e07283d-855a-4914-934d-3c74f8d5d254",
+      "title": "Scènes de ménages - Saison 17",
+      "programSlug": "scenes-de-menages-saison-17",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-17",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-20 18:40:00+00",
+      "endTime": "2026-04-20 19:10:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "40bade31-4545-4a4e-98f9-1c46538bc933",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-21 04:00:00+00",
+      "endTime": "2026-04-21 06:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "7f6002cd-4bcc-4ecc-9b70-b6e79947961f",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-21 11:35:00+00",
+      "endTime": "2026-04-21 11:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6b2e0630-24d3-49d1-918f-377ef6de955a",
+      "title": "Scènes de ménages - Saison 17",
+      "programSlug": "scenes-de-menages-saison-17",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-17",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-21 18:40:00+00",
+      "endTime": "2026-04-21 19:10:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "11023836-eef3-4a4f-8fbb-dcde1e411591",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-21 19:10:00+00",
+      "endTime": "2026-04-21 19:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "75d06d17-118f-4a9e-89d4-0bd273977f4a",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-21 19:55:00+00",
+      "endTime": "2026-04-21 20:55:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "f59be7f7-a109-4917-9f06-3120801175e8",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 23:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e535d6fd-1ba4-484b-ab5b-a849e33cdfe7",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-21 23:00:00+00",
+      "endTime": "2026-04-22 00:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ce50b493-e4fd-4f62-a5ec-778b0c27bba2",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-22 04:00:00+00",
+      "endTime": "2026-04-22 06:05:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "a97ab422-e121-4e49-907a-c12bc2eedbfc",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-22 11:35:00+00",
+      "endTime": "2026-04-22 11:40:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "0c42442f-8bcc-4b0e-9efe-be4a6a65a07b",
+      "title": "Scènes de ménages - Saison 17",
+      "programSlug": "scenes-de-menages-saison-17",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-17",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-22 18:40:00+00",
+      "endTime": "2026-04-22 19:10:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "1c16c6fd-7998-494c-a7b7-72faa3340f56",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-23 04:00:00+00",
+      "endTime": "2026-04-23 06:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "7dbdcd26-fd9b-4011-b45e-2aafbe68cf72",
+      "title": "Scènes de ménages - Saison 0",
+      "programSlug": "scenes-de-menages-saison-0",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-0",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-23 11:35:00+00",
+      "endTime": "2026-04-23 11:40:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "4c026844-037a-4d28-b94f-fb84736fade8",
+      "title": "Scènes de ménages - Saison 17",
+      "programSlug": "scenes-de-menages-saison-17",
+      "programUrl": "/programme/m6/scenes-de-menages-saison-17",
+      "channelId": "m6",
+      "channelName": "M6",
+      "channelSlug": "m6",
+      "startTime": "2026-04-23 18:40:00+00",
+      "endTime": "2026-04-23 19:10:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:42:27.193Z",
+  "startYear": 2009,
+  "numberOfSeasons": 16,
+  "cast": [
+    {
+      "qid": "Q3293631",
+      "slug": "marion-game",
+      "name": "Marion Game",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1558987",
+      "slug": "gerard-hernandez",
+      "name": "Gérard Hernandez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2850947",
+      "slug": "anne-elisabeth-blateau",
+      "name": "Anne-Élisabeth Blateau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3018476",
+      "slug": "david-mora",
+      "name": "David Mora",
+      "role": "actor"
+    },
+    {
+      "qid": "Q510056",
+      "slug": "valerie-karsenti",
+      "name": "Valérie Karsenti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3089651",
+      "slug": "frederic-bouraly",
+      "name": "Frédéric Bouraly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20723757",
+      "slug": "amelie-etasse",
+      "name": "Amélie Etasse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3118434",
+      "slug": "gregoire-bonnet",
+      "name": "Grégoire Bonnet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q759001",
+      "slug": "audrey-lamy",
+      "name": "Audrey Lamy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3263951",
+      "slug": "loup-denis-elion",
+      "name": "Loup-Denis Elion",
+      "role": "actor"
+    },
+    {
+      "qid": "Q55600173",
+      "slug": "vinnie-dargaud",
+      "name": "Vinnie Dargaud",
+      "role": "actor"
+    },
+    {
+      "qid": "Q56818988",
+      "slug": "claire-chust",
+      "name": "Claire Chust",
+      "role": "actor"
+    },
+    {
+      "qid": "Q110928911",
+      "slug": "ryad-baxx",
+      "name": "Ryad Baxx",
+      "role": "actor"
+    },
+    {
+      "qid": "Q110928984",
+      "slug": "claudia-mongumu",
+      "name": "Claudia Mongumu",
+      "role": "actor"
+    }
+  ],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 08:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

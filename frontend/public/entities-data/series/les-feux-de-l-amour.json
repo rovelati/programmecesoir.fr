@@ -1,0 +1,347 @@
+{
+  "type": "series",
+  "slug": "les-feux-de-l-amour",
+  "title": "Les Feux de l'amour",
+  "airingsCount": 39,
+  "sourceTitles": [
+    "Les Feux de l'amour"
+  ],
+  "genres": [
+    "soap opera"
+  ],
+  "description": "La famille Abbott, installée à Genoa City, dans le Wisconsin, possède une immense fortune et une gigantesque entreprise. Les luttes de pouvoir, trahisons au sein même du clan sont monnaie courante. Leur ennemi de toujours, l'industriel Victor Newman, ne fait rien pour leur faciliter la tâche, bien au contraire. D'alliances en ruptures, les illusions de chacun se heurtent à l'hostilité, à la jalousie et à la haine des autres. Entre amour et pouvoir, le choix est souvent celui de la puissance. Un Soap Opera mondialement célèbre, produit et diffusé depuis plus de quarante ans aux Etats-Unis ! A ce jour, une trentaine de pays différents diffusent le feuilleton chaque jour, et c'est en France que le feuilleton réalise ses meilleures audiences, juste derrière les Etats-Unis.",
+  "descriptionAi": "Plongez dans l'univers captivant des Feux de l'amour, un soap opera mythique débuté en 1973. Au cœur de Genoa City, suivez les destins entrelacés des Abbott et de leur rival Victor Newman, où les intrigues familiales, les luttes de pouvoir et les passions dévorantes créent une ambiance intense et addictive. Ce qui le rend fascinant ? L'équilibre parfait entre drames sentimentaux et batailles économiques, le tout porté par des personnages devenus iconiques. Une saga aux rebondissements incessants, qui cultive son succès mondial depuis plus de cinquante ans, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "channelNumber": 1,
+      "logoUrl": "/loghi/tf1.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-series.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-1.png",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "17fa8b64-14e6-4a6d-b679-aca331f951b5",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1/les-feux-de-l-amour",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-20 08:55:00+00",
+      "endTime": "2026-04-20 09:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "2df0286d-b6ac-45b9-a78e-293144be0e41",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/canal-series/les-feux-de-l-amour",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-20 08:55:00+00",
+      "endTime": "2026-04-20 09:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8dbf23b0-4f07-4ac3-a9d7-cdafd0c1eff1",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/antenne-reunion/les-feux-de-l-amour",
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "startTime": "2026-04-20 09:05:00+00",
+      "endTime": "2026-04-20 09:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4d6a0f9a-63bf-46f3-889a-483910abe509",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1-1/les-feux-de-l-amour",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-20 09:55:00+00",
+      "endTime": "2026-04-20 10:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "c0496004-69c4-4a0d-b93e-94f878d0deaf",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1/les-feux-de-l-amour",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-21 08:55:00+00",
+      "endTime": "2026-04-21 09:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a9d1a8e3-994c-4d7d-bf74-b69b5668918e",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/canal-series/les-feux-de-l-amour",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-21 08:55:00+00",
+      "endTime": "2026-04-21 09:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "95a81efc-62f4-4b95-b9d1-67cd04c467f5",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1-1/les-feux-de-l-amour",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-21 09:55:00+00",
+      "endTime": "2026-04-21 10:45:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a856a527-a9cd-44f6-ae0d-a5243d5c8603",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1/les-feux-de-l-amour",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-22 08:55:00+00",
+      "endTime": "2026-04-22 09:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "8ba89b0d-8ffa-4deb-93fe-ed2709ce9b98",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/canal-series/les-feux-de-l-amour",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-22 08:55:00+00",
+      "endTime": "2026-04-22 09:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "c936f7ae-00ce-4f75-a698-e4e179ec238d",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1-1/les-feux-de-l-amour",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-22 09:55:00+00",
+      "endTime": "2026-04-22 10:45:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "3297612d-5786-4e30-8445-ccf54416ccea",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1/les-feux-de-l-amour",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-23 08:55:00+00",
+      "endTime": "2026-04-23 09:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "451c6e9c-4e17-46ce-9bb1-cce5c0a2e03d",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/canal-series/les-feux-de-l-amour",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-23 08:55:00+00",
+      "endTime": "2026-04-23 09:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6960d192-e15e-45fe-b109-d657d479b598",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1-1/les-feux-de-l-amour",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-23 09:55:00+00",
+      "endTime": "2026-04-23 10:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "af68b451-1761-44ea-8671-2702020ae438",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1/les-feux-de-l-amour",
+      "channelId": "tf1",
+      "channelName": "TF1",
+      "channelSlug": "tf1",
+      "startTime": "2026-04-24 08:55:00+00",
+      "endTime": "2026-04-24 09:45:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "72f12934-7d48-401a-b9bd-30a44bc2ab65",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/canal-series/les-feux-de-l-amour",
+      "channelId": "canal-series",
+      "channelName": "Canal+ Series",
+      "channelSlug": "canal-series",
+      "startTime": "2026-04-24 08:55:00+00",
+      "endTime": "2026-04-24 09:45:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "36a5a352-e11f-474a-9381-63eae85c4c55",
+      "title": "Les Feux de l'amour",
+      "programSlug": "les-feux-de-l-amour",
+      "programUrl": "/programme/tf1-1/les-feux-de-l-amour",
+      "channelId": "tf1-1",
+      "channelName": "TF1 + 1",
+      "channelSlug": "tf1-1",
+      "startTime": "2026-04-24 09:55:00+00",
+      "endTime": "2026-04-24 10:45:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:43:03.686Z",
+  "startYear": 1973,
+  "numberOfSeasons": 53,
+  "cast": [
+    {
+      "qid": "Q446937",
+      "slug": "jeanne-cooper",
+      "name": "Jeanne Cooper",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1160867",
+      "slug": "daniel-goddard",
+      "name": "Daniel Goddard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3809219",
+      "slug": "john-driscoll",
+      "name": "John Driscoll",
+      "role": "actor"
+    },
+    {
+      "qid": "Q439895",
+      "slug": "tammin-sursok",
+      "name": "Tammin Sursok",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1893209",
+      "slug": "michael-graziadei",
+      "name": "Michael Graziadei",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3277020",
+      "slug": "michael-damian",
+      "name": "Michael Damian",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2927234",
+      "slug": "bryton-mcclure",
+      "name": "Bryton McClure",
+      "role": "actor"
+    },
+    {
+      "qid": "Q966834",
+      "slug": "kristoff-st-john",
+      "name": "Kristoff St. John",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4355247",
+      "slug": "diego-serrano",
+      "name": "Diego Serrano",
+      "role": "actor"
+    },
+    {
+      "qid": "Q881183",
+      "slug": "blair-redford",
+      "name": "Blair Redford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6173404",
+      "slug": "jeff-branson",
+      "name": "Jeff Branson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2123697",
+      "slug": "christel-khalil",
+      "name": "Christel Khalil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q59522",
+      "slug": "joshua-morrow",
+      "name": "Joshua Morrow",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q3568752",
+    "slug": "william-joseph-bell",
+    "name": "William Joseph Bell",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 08:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

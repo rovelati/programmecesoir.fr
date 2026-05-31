@@ -1,0 +1,59 @@
+{
+  "type": "film",
+  "slug": "le-pretendant",
+  "title": "Le prétendant",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le prétendant"
+  ],
+  "genres": [
+    "Téléfilm"
+  ],
+  "description": "Au début du XXe siècle, dans une société où les conventions et les mariages arrangés sont monnaie courante, un père désespéré cherche à assurer l'avenir de sa fille en passant une annonce pour lui trouver un mari. Il promet une dot généreuse, espérant ainsi attirer un prétendant digne de ce nom. Alors que les prétendants affluent, chacun avec ses propres motivations et ambitions, la jeune femme, pleine d'aspirations et de rêves, se retrouve au cœur d'une intrigue où l'amour et l'intérêt se mêlent. Entre les attentes de son père et ses propres désirs, elle doit naviguer à travers un éventail de candidats, tous plus intrigants les uns que les autres, tout en questionnant la nature même de l'amour. Ce mariage arrangé saura-t-il combler les espoirs de son père, ou la jeune femme découvrira-t-elle que le véritable bonheur ne se trouve pas dans les promesses de richesse, mais dans l'authenticité des sentiments ?",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ca4aa33-c4f5-4d35-945b-672da137495c",
+      "title": "Le prétendant",
+      "programSlug": "le-pretendant",
+      "programUrl": "/programme/eurochannel/le-pretendant",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-25 15:25:00+00",
+      "endTime": "2026-04-25 16:55:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-25 15:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "nos-plus-belles-annees",
+  "title": "Nos plus belles années",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Nos plus belles années"
+  ],
+  "genres": [
+    "film ou téléfilm d'amour",
+    "drame"
+  ],
+  "description": "En 1937, Katie Morosky et Hubbell Gardiner dansent ensemble au bal de fin d'année de leur université. Qu'ont-ils en commun, hormis ce pas de valse ? Il est riche et oisif. Elle est pauvre, travaille pour financer ses études et s'est engagée dans un combat militant pour la paix. Un amour sans doute déraisonnable les pousse l'un vers l'autre. Des années plus tard, Katie et Hubbell, qui se sont perdus de vue, se retrouvent à New York. Katie travaille à la radio et milite plus ardemment que jamais, dans une Amérique où commence la chasse aux sorcières du sénateur McCarthy. Hubbell, qui n'a pas su faire fructifier ses talents d'écrivain, tente d'oublier ses échecs dans la boisson...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8c0907a1-66cd-4c9d-8937-ac1b3079401f",
+      "title": "Nos plus belles années",
+      "programSlug": "nos-plus-belles-annees",
+      "programUrl": "/programme/rts-deux/nos-plus-belles-annees",
+      "channelId": "rts-deux",
+      "channelName": "RTS Deux",
+      "channelSlug": "rts-deux",
+      "startTime": "2026-04-21 22:35:00+00",
+      "endTime": "2026-04-22 00:40:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1973,
+  "durationMinutes": 118,
+  "cast": [
+    {
+      "qid": "Q4636",
+      "slug": "barbra-streisand",
+      "name": "Barbra Streisand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q59215",
+      "slug": "robert-redford",
+      "name": "Robert Redford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q896953",
+      "slug": "bradford-dillman",
+      "name": "Bradford Dillman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238327",
+      "slug": "lois-chiles",
+      "name": "Lois Chiles",
+      "role": "actor"
+    },
+    {
+      "qid": "Q543762",
+      "slug": "patrick-o-neal",
+      "name": "Patrick O'Neal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q267217",
+      "slug": "viveca-lindfors",
+      "name": "Viveca Lindfors",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1400743",
+      "slug": "herb-edelman",
+      "name": "Herb Edelman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235221",
+      "slug": "sally-kirkland",
+      "name": "Sally Kirkland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193105",
+      "slug": "james-woods",
+      "name": "James Woods",
+      "role": "actor"
+    },
+    {
+      "qid": "Q260545",
+      "slug": "susan-blakely",
+      "name": "Susan Blakely",
+      "role": "actor"
+    },
+    {
+      "qid": "Q978706",
+      "slug": "murray-hamilton",
+      "name": "Murray Hamilton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q953504",
+      "slug": "dan-seymour",
+      "name": "Dan Seymour",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5292891",
+      "slug": "don-keefer",
+      "name": "Don Keefer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q279225",
+      "slug": "george-gaynes",
+      "name": "George Gaynes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1490055",
+      "slug": "marcia-mae-jones",
+      "name": "Marcia Mae Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q337206",
+      "slug": "marvin-hamlisch",
+      "name": "Marvin Hamlisch",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51522",
+    "slug": "sydney-pollack",
+    "name": "Sydney Pollack",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 22:35:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

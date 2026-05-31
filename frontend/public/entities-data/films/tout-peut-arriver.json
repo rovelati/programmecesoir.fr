@@ -1,0 +1,145 @@
+{
+  "type": "film",
+  "slug": "tout-peut-arriver",
+  "title": "Tout peut arriver",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Tout peut arriver"
+  ],
+  "genres": [
+    "comédie romantique",
+    "comédie dramatique",
+    "comédie",
+    "drame"
+  ],
+  "description": "Harry Sanborn, directeur d'une maison de disques new-yorkaise, la soixantaine frétillante, ne sort qu'avec des femmes jeunes, de préférence âgées de moins de 30 ans. Lors d'un week-end romantique avec Marin, sa nouvelle petite amie, il rencontre la mère de sa conquête, Erica Barry, un écrivain à succès, féministe à ses heures. Il tombe rapidement sous son charme, malgré ses cols roulés et ses airs de ne pas y toucher. De son côté, Erica n'est pas insensible au séduisant sexagénaire, en dépit de ses manières un peu frustes et son langage parfois vulgaire. Mais bientôt, un médecin trentenaire fait son apparition : il est aussitôt séduit par Erica...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2003,
+  "durationMinutes": 123,
+  "cast": [
+    {
+      "qid": "Q39792",
+      "slug": "jack-nicholson",
+      "name": "Jack Nicholson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q102642",
+      "slug": "diane-keaton",
+      "name": "Diane Keaton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q43416",
+      "slug": "keanu-reeves",
+      "name": "Keanu Reeves",
+      "role": "actor"
+    },
+    {
+      "qid": "Q204299",
+      "slug": "frances-mcdormand",
+      "name": "Frances McDormand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q131332",
+      "slug": "amanda-peet",
+      "name": "Amanda Peet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295964",
+      "slug": "jon-favreau",
+      "name": "Jon Favreau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q527306",
+      "slug": "paul-michael-glaser",
+      "name": "Paul Michael Glaser",
+      "role": "actor"
+    },
+    {
+      "qid": "Q534915",
+      "slug": "patrick-fischler",
+      "name": "Patrick Fischler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q262091",
+      "slug": "rachel-ticotin",
+      "name": "Rachel Ticotin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q255005",
+      "slug": "kadee-strickland",
+      "name": "KaDee Strickland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7177037",
+      "slug": "peter-spears",
+      "name": "Peter Spears",
+      "role": "actor"
+    },
+    {
+      "qid": "Q462955",
+      "slug": "susan-misner",
+      "name": "Susan Misner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q361158",
+      "slug": "thomas-joseph-thyne",
+      "name": "Thomas Joseph Thyne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q432875",
+      "slug": "jennifer-siebel",
+      "name": "Jennifer Siebel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q761697",
+      "slug": "connie-sawyer",
+      "name": "Connie Sawyer",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q235555",
+    "slug": "nancy-meyers",
+    "name": "Nancy Meyers",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

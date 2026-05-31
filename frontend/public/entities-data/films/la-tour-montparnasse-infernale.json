@@ -1,0 +1,174 @@
+{
+  "type": "film",
+  "slug": "la-tour-montparnasse-infernale",
+  "title": "La Tour Montparnasse infernale",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La Tour Montparnasse infernale"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm parodique"
+  ],
+  "description": "Eric et Ramzy lavent les vitres de la Tour Montparnasse. La journée s'achève et seule Marie-Joëlle se trouve encore dans les bureaux. Soudain, des malfaiteurs surgissent. Alertés par les coups de feu, les laveurs de carreaux n'écoutent que leur lâcheté et prennent la fuite. Mais Eric fait bientôt demi-tour...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "5bba922d-b832-4409-8340-7750dec16143",
+      "title": "La Tour Montparnasse infernale",
+      "programSlug": "la-tour-montparnasse-infernale",
+      "programUrl": "/programme/canal-grand-ecran/la-tour-montparnasse-infernale",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 04:56:00+00",
+      "endTime": "2026-04-22 06:27:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "fc6ae759-c337-4ce4-aa71-3128376c953e",
+      "title": "La Tour Montparnasse infernale",
+      "programSlug": "la-tour-montparnasse-infernale",
+      "programUrl": "/programme/canal-grand-ecran/la-tour-montparnasse-infernale",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-26 04:20:00+00",
+      "endTime": "2026-04-26 05:50:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2001,
+  "durationMinutes": 92,
+  "cast": [
+    {
+      "qid": "Q3591428",
+      "slug": "eric-et-ramzy",
+      "name": "Éric et Ramzy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2930147",
+      "slug": "bo-gaultier-de-kermoal",
+      "name": "Bô Gaultier de Kermoal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16269599",
+      "slug": "bruce-johnson",
+      "name": "Bruce Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3047449",
+      "slug": "edgar-givry",
+      "name": "Edgar Givry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3591196",
+      "slug": "eric-judor",
+      "name": "Éric Judor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3086968",
+      "slug": "fred-testot",
+      "name": "Fred Testot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3103561",
+      "slug": "georges-trillat",
+      "name": "Georges Trillat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1684746",
+      "slug": "jean-claude-dauphin",
+      "name": "Jean-Claude Dauphin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q762906",
+      "slug": "joeystarr",
+      "name": "Joeystarr",
+      "role": "actor"
+    },
+    {
+      "qid": "Q456360",
+      "slug": "marina-fois",
+      "name": "Marina Foïs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16185694",
+      "slug": "michel-puterflam",
+      "name": "Michel Puterflam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q357387",
+      "slug": "omar-sy",
+      "name": "Omar Sy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q89130",
+      "slug": "pierre-semmler",
+      "name": "Pierre Semmler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q554103",
+      "slug": "pierre-francois-martin-laval",
+      "name": "Pierre-François Martin-Laval",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3418669",
+      "slug": "ramzy-bedia",
+      "name": "Ramzy Bedia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3479511",
+      "slug": "serge-riaboukine",
+      "name": "Serge Riaboukine",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2959892",
+    "slug": "charles-nemes",
+    "name": "Charles Nemes",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 04:56:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

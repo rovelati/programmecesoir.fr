@@ -1,0 +1,117 @@
+{
+  "type": "series",
+  "slug": "regular-show",
+  "title": "Regular Show",
+  "airingsCount": 74,
+  "sourceTitles": [
+    "Regular Show"
+  ],
+  "genres": [
+    "série télévisée de science-fiction",
+    "comédie dramatique",
+    "série télévisée de fantasy",
+    "série télévisée d'aventures",
+    "série d'action",
+    "série télévisée pour la jeunesse"
+  ],
+  "description": "Mordecai et Rigby jouent à un jeu vidéo dont les deux personnages qu'ils incarnent ont des coiffures ridicules. Rigby propose un pari: le perdant de cette partie devra porter la coiffure de son personnage pendant une semaine.",
+  "descriptionAi": "Cette série animée mêle science-fiction, fantasy et comédie dans un quotidien décalé. L'ambiance est à la fois absurde et nostalgique, suivant deux amis oiseau et raton laveur dans des emplois sans intérêt qui dégénèrent souvent en aventures surnaturelles. Son humour déjanté et ses références à la culture pop des années 80-90 séduisent un large public, bien au-delà du jeune public visé. L'alchimie entre les personnages et l'équilibre parfait entre le banal et l'extraordinaire rendent chaque épisode imprévisible et captivant. Une série culte à découvrir absolument, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cartoon-network.png",
+      "airingsCount": 74
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "438726e5-6c36-462e-9b0b-c3db23b56530",
+      "title": "Regular Show",
+      "programSlug": "regular-show",
+      "programUrl": "/programme/cartoon-network/regular-show",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 19:40:00+00",
+      "endTime": "2026-04-19 19:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d85d02cc-6541-4a71-968d-a3a648109f47",
+      "title": "Regular Show",
+      "programSlug": "regular-show",
+      "programUrl": "/programme/cartoon-network/regular-show",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 19:55:00+00",
+      "endTime": "2026-04-19 20:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2a7a8227-b2ef-42dd-9872-4790c8b17ec6",
+      "title": "Regular Show",
+      "programSlug": "regular-show",
+      "programUrl": "/programme/cartoon-network/regular-show",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 21:35:00+00",
+      "endTime": "2026-04-19 21:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5f12f21d-7192-4fe9-99a2-a120705acae7",
+      "title": "Regular Show",
+      "programSlug": "regular-show",
+      "programUrl": "/programme/cartoon-network/regular-show",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 21:45:00+00",
+      "endTime": "2026-04-19 21:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "129d1cea-604e-40bd-82d8-1082fb7f22c4",
+      "title": "Regular Show",
+      "programSlug": "regular-show",
+      "programUrl": "/programme/cartoon-network/regular-show",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 21:55:00+00",
+      "endTime": "2026-04-19 22:05:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:41:06.309Z",
+  "startYear": 2010,
+  "numberOfSeasons": 8,
+  "cast": [],
+  "creator": {
+    "qid": "Q918083",
+    "slug": "j-g-quintel",
+    "name": "J. G. Quintel",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 19:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

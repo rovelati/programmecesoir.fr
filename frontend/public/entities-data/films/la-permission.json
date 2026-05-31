@@ -1,0 +1,83 @@
+{
+  "type": "film",
+  "slug": "la-permission",
+  "title": "La permission",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La permission"
+  ],
+  "genres": [
+    "film ou téléfilm d'amour",
+    "drame"
+  ],
+  "description": "Alors qu’il espère une promotion, Turner, un soldat noir américain basé en France, se voit accorder trois jours de permission par son supérieur, le capitaine Lutz. Il décide de les passer à Paris. Après avoir arpenté les rues, les musées et autres cabarets érotiques de la capitale, Turner fait la connaissance d’une jeune Française blanche, Miriam, dans une boîte de nuit. Désirant voir la mer, il lui propose de partir le lendemain en voiture sur la côte normande. Elle accepte. Sur la route qui les mène à Étretat, Turner et Miriam apprennent à se connaître.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tv5-monde",
+      "channelName": "TV5 Monde",
+      "channelSlug": "tv5-monde",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv5-monde.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1967,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q505093",
+      "slug": "harry-baird",
+      "name": "Harry Baird",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461473",
+      "slug": "nicole-berger",
+      "name": "Nicole Berger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q639318",
+      "slug": "christian-marin",
+      "name": "Christian Marin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3015780",
+      "slug": "dany-jacquet",
+      "name": "Dany Jacquet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2015052",
+      "slug": "pierre-doris",
+      "name": "Pierre Doris",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2531955",
+    "slug": "melvin-van-peebles",
+    "name": "Melvin Van Peebles",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,84 @@
+{
+  "type": "film",
+  "slug": "le-fantome-de-siberie",
+  "title": "Le Fantôme de Sibérie",
+  "airingsCount": 10,
+  "sourceTitles": [
+    "Le Fantôme de Sibérie"
+  ],
+  "genres": [
+    "Cinéma",
+    "Film"
+  ],
+  "description": "Alors qu'ils s'aventurent dans les montagnes de Sibérie, des étudiants se retrouvent piégés sur un sommet après un glissement de terrain et font face à une menace terrifiante.",
+  "descriptionAi": "Ce film d'horreur et de survie plonge le spectateur dans une atmosphère glaciale et claustrophobique. L'isolement extrême des sommets sibériens, magnifiquement filmé, sert de décor à une angoisse grandissante. L'intérêt réside dans le mélange entre un danger naturel palpable et une menace surnaturelle insaisissable, qui exploite avec efficacité la peur de l'inconnu et la psychologie des personnages aux abois. La tension est habilement distillée, faisant de cette lutte pour la survie une expérience immersive et angoissante. Un thriller glacial à l'ambiance envoûtante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 10
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b5aed98a-b1bf-4128-bed3-d40fbea6f925",
+      "title": "Le Fantôme de Sibérie",
+      "programSlug": "le-fantome-de-siberie",
+      "programUrl": "/programme/eurochannel/le-fantome-de-siberie",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 20:20:00+00",
+      "endTime": "2026-04-19 22:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ef6f8678-6dc4-4a49-b7f4-c0b0abfe2f8c",
+      "title": "Le Fantôme de Sibérie",
+      "programSlug": "le-fantome-de-siberie",
+      "programUrl": "/programme/eurochannel/le-fantome-de-siberie",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 10:20:00+00",
+      "endTime": "2026-04-20 12:00:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b5992a4e-44ed-4124-8b65-ecf2c996b48d",
+      "title": "Le Fantôme de Sibérie",
+      "programSlug": "le-fantome-de-siberie",
+      "programUrl": "/programme/eurochannel/le-fantome-de-siberie",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-25 12:20:00+00",
+      "endTime": "2026-04-25 14:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:27:17.545Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-19 20:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

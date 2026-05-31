@@ -1,0 +1,66 @@
+{
+  "type": "actor",
+  "slug": "linh-dan-pham",
+  "name": "Linh-Dan Pham",
+  "worksCount": 2,
+  "description": "actrice franco-vietnamienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Linh%20Dan%20Pham%202013%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1974-06-20",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q292756",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Linh-Dan_Pham",
+    "imdb": "nm0199006",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "dans-la-cuisine-des-nguyen",
+      "title": "Dans la cuisine des Nguyen"
+    },
+    {
+      "type": "film",
+      "slug": "indochine",
+      "title": "Indochine"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "41630b15-9e4c-45bd-9612-3276249cd83a",
+      "title": "Dans la cuisine des Nguyen",
+      "programSlug": "dans-la-cuisine-des-nguyen",
+      "programUrl": "/programme/canal-box-office/dans-la-cuisine-des-nguyen",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-20 07:53:00+00",
+      "endTime": "2026-04-20 09:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "b1c79031-b25c-49b8-8ad2-27e626a56e4d",
+      "title": "Indochine",
+      "programSlug": "indochine",
+      "programUrl": "/programme/cine-classic/indochine",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-24 18:50:00+00",
+      "endTime": "2026-04-24 21:22:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-20 07:53:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

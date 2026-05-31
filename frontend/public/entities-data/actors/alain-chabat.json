@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "alain-chabat",
+  "name": "Alain Chabat",
+  "worksCount": 2,
+  "description": "acteur, cinéaste, animateur de télévision et humoriste français",
+  "descriptionAi": "Alain Chabat est un touche-à-tout génial du divertissement français, aussi à l'aise devant que derrière la caméra. Acteur, réalisateur et animateur culte, il marque les esprits par son humour décalé et son sens de l'absurde. Ses œuvres, souvent des comédies loufoques ou des parodies déjantées, dégagent une ambiance joyeuse et inventive. Ce qui le rend fascinant, c'est sa capacité à créer des univers uniques, peuplés de personnages mémorables et de répliques devenues légendaires, qui séduisent un large public en mêlant intelligence et fantaisie. Une filmographie aussi riche que réjouissante, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AlainChabat2006.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1958-11-24",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q448021",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alain_Chabat",
+    "imdb": "nm0149260",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-cite-de-la-peur",
+      "title": "La cité de la peur"
+    },
+    {
+      "type": "film",
+      "slug": "la-nuit-au-musee-2",
+      "title": "La nuit au musée 2"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42611a44-ab50-4e94-98a2-182319fa2b6a",
+      "title": "La cité de la peur",
+      "programSlug": "la-cite-de-la-peur",
+      "programUrl": "/programme/canal-grand-ecran/la-cite-de-la-peur",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 07:57:00+00",
+      "endTime": "2026-04-22 09:35:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:27.379Z",
+  "nextAiringAt": "2026-04-22 07:57:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

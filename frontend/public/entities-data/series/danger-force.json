@@ -1,0 +1,284 @@
+{
+  "type": "series",
+  "slug": "danger-force",
+  "title": "Danger Force",
+  "airingsCount": 163,
+  "sourceTitles": [
+    "Danger Force",
+    "Danger Force - Saison 1",
+    "Danger Force - Saison 2",
+    "Danger Force - Saison 3"
+  ],
+  "genres": [
+    "Série",
+    "Series",
+    "Série humoristique"
+  ],
+  "description": "Captain Man est à nouveau a la tête d' apprentis super-héros les Danger Force. Captain Man et Schwoz créent une fausse école la Swellview Academy pour les douées afin de former les enfants à exploiter leurs super pouvoirs, incontrôlables, pour lutter contre le crime. Les quatre nouveaux super-héros sont nommés Chapa, Bose, Mika et Miles.",
+  "descriptionAi": "Cette série humoristique suit les aventures déjantées de Captain Man et de son équipe d'apprentis super-héros, la Danger Force. L'ambiance est résolument comique et dynamique, mêlant action et situations burlesques. L'intérêt réside dans la formation de ces quatre adolescents aux pouvoirs incontrôlables, Chapa, Bose, Mika et Miles, qui doivent apprendre à maîtriser leurs capacités tout en cachant leur double vie dans une fausse école, la Swellview Academy. Le mélange de gags, de défis super-héroïques et de complicité entre les personnages offre un divertissement familial rythmé. Une aventure pleine d'énergie et de rires à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon.png",
+      "airingsCount": 55
+    },
+    {
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon1.svg",
+      "airingsCount": 54
+    },
+    {
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeonplus1fr.svg",
+      "airingsCount": 54
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "977f3265-4aa4-49bd-8d64-1dd87174e7d7",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeon/danger-force",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 11:02:00+00",
+      "endTime": "2026-04-19 11:24:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "1e5f68c5-ab17-49cc-a51f-48fbc4fc7262",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeon/danger-force",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 11:24:00+00",
+      "endTime": "2026-04-19 11:46:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b786b36f-1b84-4582-88a9-5ed29fe2b54d",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeonplus1fr/danger-force",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 12:02:00+00",
+      "endTime": "2026-04-19 12:24:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "75936221-6492-4458-b634-79e9a422eac6",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeon1/danger-force",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 12:02:00+00",
+      "endTime": "2026-04-19 12:24:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "6f7fb479-4728-4269-8c89-794e68800ded",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeonplus1fr/danger-force",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 12:24:00+00",
+      "endTime": "2026-04-19 12:46:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "c9ec706f-04c2-48e6-915d-110c3e779264",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeon1/danger-force",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 12:24:00+00",
+      "endTime": "2026-04-19 12:46:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "bba4e1dd-f065-4049-8169-f1ce23e0913a",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeon/danger-force",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-19 18:35:00+00",
+      "endTime": "2026-04-19 19:01:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "546cb390-7fa9-4ac5-af71-9020a4d42c7c",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeonplus1fr/danger-force",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-19 19:35:00+00",
+      "endTime": "2026-04-19 20:01:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "15cddbf5-82b2-48da-8d5c-5ab3727dae59",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeon1/danger-force",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-19 19:35:00+00",
+      "endTime": "2026-04-19 20:01:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ec364490-21bf-4372-b9e2-8464c969c406",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeon/danger-force",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 01:08:00+00",
+      "endTime": "2026-04-20 01:32:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "a4e938a6-8dec-434c-9997-0554905c7a8a",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeonplus1fr/danger-force",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 02:08:00+00",
+      "endTime": "2026-04-20 02:32:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "31ed0bfa-c939-4a7d-8efa-f484767dc11d",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeon/danger-force",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 09:49:00+00",
+      "endTime": "2026-04-20 10:13:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "6a993a97-15d3-4992-8972-dca9fbe90cfe",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeonplus1fr/danger-force",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 10:49:00+00",
+      "endTime": "2026-04-20 11:13:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d5de74a0-708a-41e1-b4c7-fa3a35ccf05e",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeon/danger-force",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 18:37:00+00",
+      "endTime": "2026-04-20 18:59:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "1753b7cc-3948-4631-9e1f-42109e56ec6c",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeonplus1fr/danger-force",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 19:37:00+00",
+      "endTime": "2026-04-20 19:59:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "92daf1b0-e593-42b5-9593-accebe7e9685",
+      "title": "Danger Force - Saison 2",
+      "programSlug": "danger-force-saison-2",
+      "programUrl": "/programme/nickelodeon/danger-force-saison-2",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-21 01:08:00+00",
+      "endTime": "2026-04-21 01:32:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a3524ea5-2e16-4274-9d67-550d3a2fe51f",
+      "title": "Danger Force",
+      "programSlug": "danger-force",
+      "programUrl": "/programme/nickelodeonplus1fr/danger-force",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-21 02:08:00+00",
+      "endTime": "2026-04-21 02:32:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "5c73b2d6-7d0c-4419-92ba-b159158dbb8a",
+      "title": "Danger Force - Saison 2",
+      "programSlug": "danger-force-saison-2",
+      "programUrl": "/programme/nickelodeon1/danger-force-saison-2",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-21 02:08:00+00",
+      "endTime": "2026-04-21 02:32:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.2,
+  "updatedAt": "2026-03-23T22:06:46.707Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 11:02:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

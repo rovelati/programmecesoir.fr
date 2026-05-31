@@ -1,0 +1,64 @@
+{
+  "type": "film",
+  "slug": "la-foret-de-mogari",
+  "title": "La forêt de Mogari",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "La forêt de Mogari"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Shigeki vit dans une petite maison de retraite sous le regard bienveillant d'une aide-soignante, Machiko, devenue son amie. Sans le savoir, tous les deux partagent un lourd secret : la perte d'un être cher. Désemparé, le vieil homme décide de partir par la forêt. Machiko n'a pas d'autre choix que de le rejoindre. Au beau milieu de cette nature mystérieuse et protectrice, ils se sentent à nouveau vivants...",
+  "descriptionAi": "Ce drame intimiste de 2007 nous plonge dans une ambiance à la fois douce et mélancolique. Il suit Shigeki, un résident d’une maison de retraite, et Machiko, son aide-soignante, deux êtres liés par un deuil secret. Lorsque l’homme âgé s’enfuit dans la forêt, Machiko part à sa recherche. Le film trouve son intérêt dans la délicatesse avec laquelle il explore la solitude, le chagrin et la résilience, le tout porté par des paysages naturels qui deviennent un personnage à part entière, à la fois refuge et miroir des âmes. Une quête de paix émouvante et poétique, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q1115678",
+    "wikipedia": "https://fr.wikipedia.org/wiki/La_For%C3%AAt_de_Mogari",
+    "imdb": "tt1016205",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:18.096Z",
+  "year": 2007,
+  "durationMinutes": 97,
+  "cast": [
+    {
+      "qid": "Q3813232",
+      "slug": "machiko-ono",
+      "name": "Machiko Ono",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1092833",
+      "slug": "makiko-watanabe",
+      "name": "Makiko Watanabe",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q271247",
+    "slug": "naomi-kawase",
+    "name": "Naomi Kawase",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

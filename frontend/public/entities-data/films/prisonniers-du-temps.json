@@ -1,0 +1,154 @@
+{
+  "type": "film",
+  "slug": "prisonniers-du-temps",
+  "title": "Prisonniers du temps",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Prisonniers du temps"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm de science-fiction",
+    "film ou téléfilm d'aventure",
+    "drame d'époque",
+    "thriller",
+    "film de voyage dans le temps",
+    "adaptation d'un roman au cinéma"
+  ],
+  "description": "Théâtre de violents affrontements entre Français et Anglais pendant la Guerre de Cent Ans, le site du village médiéval de Castelgarde, en Dordogne, est exploré par une équipe que dirige le professeur E. A. Johnston. Tandis que celui-ci repart pour les Etats-Unis afin de s'entretenir avec le sponsor de la mission, les fouilles se poursuivent sous la conduite de son adjoint, André Marek. C'est alors que l'équipe fait deux découvertes stupéfiantes…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2003,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q213864",
+      "slug": "paul-walker",
+      "name": "Paul Walker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241372",
+      "slug": "frances-o-connor",
+      "name": "Frances O'Connor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q169982",
+      "slug": "gerard-butler",
+      "name": "Gerard Butler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298838",
+      "slug": "billy-connolly",
+      "name": "Billy Connolly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q212790",
+      "slug": "david-thewlis",
+      "name": "David Thewlis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237594",
+      "slug": "anna-friel",
+      "name": "Anna Friel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q445125",
+      "slug": "neal-mcdonough",
+      "name": "Neal McDonough",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1396699",
+      "slug": "matt-craven",
+      "name": "Matt Craven",
+      "role": "actor"
+    },
+    {
+      "qid": "Q383064",
+      "slug": "ethan-embry",
+      "name": "Ethan Embry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q298276",
+      "slug": "michael-sheen",
+      "name": "Michael Sheen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q115735",
+      "slug": "lambert-wilson",
+      "name": "Lambert Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315118",
+      "slug": "marton-csokas",
+      "name": "Marton Csokas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3442834",
+      "slug": "rossif-sutherland",
+      "name": "Rossif Sutherland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2067444",
+      "slug": "david-la-haye",
+      "name": "David La Haye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5110012",
+      "slug": "christian-paul",
+      "name": "Christian Paul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q270386",
+      "slug": "veronica-hart",
+      "name": "Veronica Hart",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q262130",
+    "slug": "richard-donner",
+    "name": "Richard Donner",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

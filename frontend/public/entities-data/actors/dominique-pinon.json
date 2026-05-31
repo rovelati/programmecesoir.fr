@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "dominique-pinon",
+  "name": "Dominique Pinon",
+  "worksCount": 3,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominique%20Pinon%20Lumi%C3%A8res%202015%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1955-03-04",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q38554",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dominique_Pinon",
+    "imdb": "nm0684500",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "comme-un-poisson-hors-de-l-eau",
+      "title": "Comme un poisson hors de l'eau"
+    },
+    {
+      "type": "film",
+      "slug": "d-apres-une-histoire-vraie",
+      "title": "D'après une histoire vraie"
+    },
+    {
+      "type": "film",
+      "slug": "37-2-le-matin",
+      "title": "37°2 le matin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ff31e0ed-dd74-4d0a-b230-1f276cc231cc",
+      "title": "37°2 le matin",
+      "programSlug": "37-2-le-matin",
+      "programUrl": "/programme/cine-festival/37-2-le-matin",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-23 09:04:00+00",
+      "endTime": "2026-04-23 11:03:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-23 09:04:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

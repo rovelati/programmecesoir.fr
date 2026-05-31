@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "ben-stiller",
+  "name": "Ben Stiller",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ben%20Stiller%20at%20the%202024%20Toronto%20International%20Film%20Festival%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1965-11-30",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q47100",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ben_Stiller",
+    "imdb": "nm0001774",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "starsky-et-hutch",
+      "title": "Starsky et Hutch"
+    },
+    {
+      "type": "film",
+      "slug": "la-nuit-au-musee",
+      "title": "La nuit au musée"
+    },
+    {
+      "type": "film",
+      "slug": "la-nuit-au-musee-2",
+      "title": "La nuit au musée 2"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

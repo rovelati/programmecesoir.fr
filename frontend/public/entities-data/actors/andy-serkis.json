@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "andy-serkis",
+  "name": "Andy Serkis",
+  "worksCount": 3,
+  "description": "acteur et realisateur britannique",
+  "descriptionAi": "Andy Serkis est un acteur et réalisateur britannique, véritable pionnier de la performance capture. Il a révolutionné le jeu d'acteur en donnant vie, par son art physique et vocal, à des personnages numériques iconiques comme Gollum ou César. Son travail explore souvent des genres dramatiques ou fantastiques, avec une intensité et une profondeur psychologique captivantes. Pour le téléspectateur, l'intérêt réside dans son talent unique à fusionner technologie et émotion pure, créant des êtres d'une humanité troublante. Découvrez l'étendue de son œuvre fascinante à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Serkis%20Comic-Con%202011.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-04-20",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q206922",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Andy_Serkis",
+    "imdb": "nm0785227",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-seigneur-des-anneaux-le-retour-du-roi",
+      "title": "Le seigneur des anneaux : le retour du roi"
+    },
+    {
+      "type": "film",
+      "slug": "le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+      "title": "Le seigneur des anneaux : la communauté de l'anneau"
+    },
+    {
+      "type": "film",
+      "slug": "le-seigneur-des-anneaux-les-deux-tours",
+      "title": "Le seigneur des anneaux : les deux tours"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "be0a223e-e722-4842-b584-d36925a2beaa",
+      "title": "Le seigneur des anneaux : la communauté de l'anneau",
+      "programSlug": "le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+      "programUrl": "/programme/ocs/le-seigneur-des-anneaux-la-communaute-de-l-anneau",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 08:38:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "61b0d032-79dc-4391-a0b3-586261790573",
+      "title": "Le seigneur des anneaux : les deux tours",
+      "programSlug": "le-seigneur-des-anneaux-les-deux-tours",
+      "programUrl": "/programme/ocs/le-seigneur-des-anneaux-les-deux-tours",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-20 18:50:00+00",
+      "endTime": "2026-04-20 21:45:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:25:19.711Z",
+  "nextAiringAt": "2026-04-20 08:38:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

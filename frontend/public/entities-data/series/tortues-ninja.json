@@ -1,0 +1,65 @@
+{
+  "type": "series",
+  "slug": "tortues-ninja",
+  "title": "Tortues Ninja",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Tortues Ninja"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série d'action",
+    "série télévisée de fantasy",
+    "série télévisée de science-fiction",
+    "série télévisée d'aventures",
+    "série télévisée comique",
+    "superhero television program"
+  ],
+  "description": "Déçu par le récent échec de Bradford, Shredder donne à Xever la responsabilité de capturer les Tortues. Xever demande aux bandes du quartier de le prévenir s'ils les aperçoivent. Ça tombe bien, les Tortues Ninja viennent de voler au secours d'un propriétaire de restaurant qui se faisait racketter par des voyous du coin, les Dragons Pourpres...\n\nRéalisateur(s) : Michael Chang, Ciro Nieli",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-j",
+      "channelName": "CANAL J",
+      "channelSlug": "canal-j",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-j.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "game-one",
+      "channelName": "Game One",
+      "channelSlug": "game-one",
+      "channelNumber": null,
+      "logoUrl": "/loghi/game-one.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2012,
+  "numberOfSeasons": 5,
+  "cast": [],
+  "creator": {
+    "qid": "Q718916",
+    "slug": "kevin-eastman",
+    "name": "Kevin Eastman",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

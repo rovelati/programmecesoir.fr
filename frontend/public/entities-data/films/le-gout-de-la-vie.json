@@ -1,0 +1,160 @@
+{
+  "type": "film",
+  "slug": "le-gout-de-la-vie",
+  "title": "Le goût de la vie",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Le goût de la vie"
+  ],
+  "genres": [
+    "comédie romantique",
+    "drame"
+  ],
+  "description": "Chef au sein du prestigieux restaurant \"22 Bleecker\", Kate mène une existence stressante. En cuisine, ses collègues n'apprécient guère son petit côté maniaque mais admirent son talent. Tout bascule lorsque Kate apprend le décès de sa soeur. En effet, la défunte laisse derrière elle une fille sans père, la petite Zoe. Refusant de la laisser grandir dans un orphelinat, Kate décide d'élever sa nièce. Mais Zoe pourra-t-elle s'adapter au mode de vie très strict de la jeune chef ? Heureusement, le patron du \"22 Bleecker\" vient d'embaucher Nick, un nouveau sous-chef. Mais le jeune homme perturbe totalement les petites habitudes bien réglées de Kate...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "rtl-tvi",
+      "channelName": "RTL TVI",
+      "channelSlug": "rtl-tvi",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rtl-tvi.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "plug-rtl",
+      "channelName": "Plug RTL",
+      "channelSlug": "plug-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/plug-rtl.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b00cd056-0a0b-457b-961a-c1ed3ba0cec4",
+      "title": "Le goût de la vie",
+      "programSlug": "le-gout-de-la-vie",
+      "programUrl": "/programme/cine-emotion/le-gout-de-la-vie",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-23 00:34:00+00",
+      "endTime": "2026-04-23 02:15:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2007,
+  "durationMinutes": 104,
+  "cast": [
+    {
+      "qid": "Q47664",
+      "slug": "catherine-zeta-jones",
+      "name": "Catherine Zeta-Jones",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192643",
+      "slug": "aaron-eckhart",
+      "name": "Aaron Eckhart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q201418",
+      "slug": "abigail-breslin",
+      "name": "Abigail Breslin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229268",
+      "slug": "patricia-clarkson",
+      "name": "Patricia Clarkson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349312",
+      "slug": "lily-rabe",
+      "name": "Lily Rabe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q621490",
+      "slug": "bob-balaban",
+      "name": "Bob Balaban",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189378",
+      "slug": "arija-bareikis",
+      "name": "Arija Bareikis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q918510",
+      "slug": "brian-f-o-byrne",
+      "name": "Brían F. O'Byrne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2027352",
+      "slug": "john-mcmartin",
+      "name": "John McMartin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15992411",
+      "slug": "matthew-rauch",
+      "name": "Matthew Rauch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q227129",
+      "slug": "zoe-kravitz",
+      "name": "Zoë Kravitz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1489113",
+      "slug": "jenny-wade",
+      "name": "Jenny Wade",
+      "role": "actor"
+    },
+    {
+      "qid": "Q289931",
+      "slug": "celia-weston",
+      "name": "Celia Weston",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q951522",
+    "slug": "scott-hicks",
+    "name": "Scott Hicks",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 00:34:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

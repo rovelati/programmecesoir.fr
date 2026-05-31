@@ -1,0 +1,84 @@
+{
+  "type": "series",
+  "slug": "les-marsupilamis",
+  "title": "Les Marsupilamis",
+  "airingsCount": 9,
+  "sourceTitles": [
+    "Les Marsupilamis"
+  ],
+  "genres": [
+    "Séries d'animation",
+    "Série TV"
+  ],
+  "description": "Hope, Punch et Twister, une fratrie de jeunes marsupilamis, ont grandi secrètement dans une métropole ensoleillée d'Amérique du Sud. Avec leurs amis Jade et Mica, ils ont fait de cette jungle urbaine leur terrain de jeux mais les marsus doivent rester cachés, ce qui n'est pas du goût de Stan, un zoologue déterminé à révéler leur existence. © Gulli",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 9
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2b980f9e-2312-435e-89ef-f61b117920e1",
+      "title": "Les Marsupilamis",
+      "programSlug": "les-marsupilamis",
+      "programUrl": "/programme/la-trois/les-marsupilamis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-19 07:00:00+00",
+      "endTime": "2026-04-19 07:11:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "208f7dbd-40d2-4cfa-b911-eb9d73d4222a",
+      "title": "Les Marsupilamis",
+      "programSlug": "les-marsupilamis",
+      "programUrl": "/programme/la-trois/les-marsupilamis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-19 07:11:00+00",
+      "endTime": "2026-04-19 07:22:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "37c4e6f1-7e09-494c-adba-f2ba96b47652",
+      "title": "Les Marsupilamis",
+      "programSlug": "les-marsupilamis",
+      "programUrl": "/programme/la-trois/les-marsupilamis",
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "startTime": "2026-04-19 07:22:00+00",
+      "endTime": "2026-04-19 07:34:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 07:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

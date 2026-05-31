@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "apres-l-orage",
+  "title": "Après l'orage",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Après l'orage"
+  ],
+  "genres": [
+    "comédie dramatique"
+  ],
+  "description": "La Ciotat, petite ville côtière du sud de la France, ne semble se définir que par ce qu'elle n'est plus. Entre ceux qui aimeraient ne pas se souvenir et ceux qui n'y parviennent plus, le film dresse le portrait d'un lieu amputé de son chantier naval, autrefois poumon de la ville.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "france-3-nouvelle-aquitaine",
+      "channelName": "France 3 Nouvelle Aquitaine",
+      "channelSlug": "france-3-nouvelle-aquitaine",
+      "channelNumber": null,
+      "logoUrl": "/loghi/france-3-nouvelle-aquitaine.svg",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1943,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q2837650",
+      "slug": "allain-dhurtal",
+      "name": "Allain Dhurtal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2958565",
+      "slug": "charles-blavette",
+      "name": "Charles Blavette",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3047777",
+      "slug": "edmond-castel",
+      "name": "Edmond Castel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1406487",
+      "slug": "fernand-charpin",
+      "name": "Fernand Charpin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3099105",
+      "slug": "gaston-orbal",
+      "name": "Gaston Orbal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15973783",
+      "slug": "henry-bonvallet",
+      "name": "Henry Bonvallet",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3171574",
+      "slug": "jean-daurand",
+      "name": "Jean Daurand",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2256714",
+      "slug": "jean-tarride",
+      "name": "Jean Tarride",
+      "role": "actor"
+    },
+    {
+      "qid": "Q553331",
+      "slug": "jules-berry",
+      "name": "Jules Berry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3240943",
+      "slug": "lily-baron",
+      "name": "Lily Baron",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3269758",
+      "slug": "lysiane-rey",
+      "name": "Lysiane Rey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3340022",
+      "slug": "nicolas-amato",
+      "name": "Nicolas Amato",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3425748",
+      "slug": "rene-alie",
+      "name": "René Alié",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1112651",
+      "slug": "rene-dary",
+      "name": "René Dary",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3246622",
+      "slug": "robert-berri",
+      "name": "Robert Berri",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459535",
+      "slug": "suzy-prim",
+      "name": "Suzy Prim",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3383168",
+    "slug": "pierre-jean-ducis",
+    "name": "Pierre-Jean Ducis",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

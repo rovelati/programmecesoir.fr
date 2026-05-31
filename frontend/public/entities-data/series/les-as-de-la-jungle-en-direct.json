@@ -1,0 +1,60 @@
+{
+  "type": "series",
+  "slug": "les-as-de-la-jungle-en-direct",
+  "title": "Les as de la jungle : en direct",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Les as de la jungle : en direct"
+  ],
+  "genres": [
+    "Série",
+    "Série d'animation"
+  ],
+  "description": "Al et Bob s'élèvent contre la pêche aux insectes industrielle que mènent les araignées avec leurs grandes toiles...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "channelNumber": 14,
+      "logoUrl": "/loghi/france-4.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2505ba5b-1b5b-45d9-9ec4-b7f46b7aba51",
+      "title": "Les as de la jungle : en direct",
+      "programSlug": "les-as-de-la-jungle-en-direct",
+      "programUrl": "/programme/france-4/les-as-de-la-jungle-en-direct",
+      "channelId": "france-4",
+      "channelName": "France 4",
+      "channelSlug": "france-4",
+      "startTime": "2026-04-24 09:25:00+00",
+      "endTime": "2026-04-24 09:36:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-24 09:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "film",
+  "slug": "candice-renoir",
+  "title": "Candice Renoir",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Candice Renoir"
+  ],
+  "genres": [
+    "film ou téléfilm criminel"
+  ],
+  "description": "À l’approche d’Halloween, Candice, désormais enquêtrice à la financière, accompagne Antoine choisir des citrouilles pour faire plaisir à sa fille, Suzanne. Distraite par une sorcière qui lui fait goûter des confitures maison, elle oublie de surveiller la petite et Nathan, un garçon avec lequel elle jouait. Après avoir été retrouvée, Suzanne dit que Nathan a été enlevé par Jack O’ Lantern, l’épouvantail. Sébastien Gazini, le père de l’enfant disparu, est le patron d’une marque de bonbons à succès. C’est le début d’une enquête à haut risque en plein Halloween…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "13eme-rue",
+      "channelName": "13ème rue",
+      "channelSlug": "13eme-rue",
+      "channelNumber": null,
+      "logoUrl": "/loghi/13eme-rue.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q3009708",
+      "slug": "cecile-bois",
+      "name": "Cécile Bois",
+      "role": "actor"
+    }
+  ],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

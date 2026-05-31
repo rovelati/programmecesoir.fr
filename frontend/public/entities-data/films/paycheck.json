@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "paycheck",
+  "title": "Paycheck",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Paycheck"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm de science-fiction",
+    "adaptation d'une œuvre littéraire au cinéma",
+    "film de voyage dans le temps"
+  ],
+  "description": "Un concepteur de logiciels informatiques dont la mémoire a été effacée apprend qu'il n'a pas été payé pour son dernier contrat et qu'il est menacé de mort.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "channelNumber": null,
+      "logoUrl": "/loghi/syfy.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2003,
+  "durationMinutes": 114,
+  "cast": [
+    {
+      "qid": "Q483118",
+      "slug": "ben-affleck",
+      "name": "Ben Affleck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q125017",
+      "slug": "uma-thurman",
+      "name": "Uma Thurman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192643",
+      "slug": "aaron-eckhart",
+      "name": "Aaron Eckhart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q208649",
+      "slug": "paul-giamatti",
+      "name": "Paul Giamatti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449679",
+      "slug": "colm-feore",
+      "name": "Colm Feore",
+      "role": "actor"
+    },
+    {
+      "qid": "Q459007",
+      "slug": "joe-morton",
+      "name": "Joe Morton",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232968",
+      "slug": "kathryn-morris",
+      "name": "Kathryn Morris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q257165",
+      "slug": "ivana-milicevic",
+      "name": "Ivana Miličević",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15666053",
+      "slug": "michelle-harrison",
+      "name": "Michelle Harrison",
+      "role": "actor"
+    },
+    {
+      "qid": "Q724780",
+      "slug": "barclay-hope",
+      "name": "Barclay Hope",
+      "role": "actor"
+    },
+    {
+      "qid": "Q551558",
+      "slug": "callum-keith-rennie",
+      "name": "Callum Keith Rennie",
+      "role": "actor"
+    },
+    {
+      "qid": "Q292709",
+      "slug": "claudette-mink",
+      "name": "Claudette Mink",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3052377",
+      "slug": "emily-holmes",
+      "name": "Emily Holmes",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240436",
+      "slug": "krista-allen",
+      "name": "Krista Allen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q203268",
+      "slug": "michael-c-hall",
+      "name": "Michael C. Hall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q682752",
+      "slug": "peter-friedman",
+      "name": "Peter Friedman",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q55432",
+    "slug": "john-woo",
+    "name": "John Woo",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

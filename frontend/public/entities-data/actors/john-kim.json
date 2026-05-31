@@ -1,0 +1,185 @@
+{
+  "type": "actor",
+  "slug": "john-kim",
+  "name": "John Kim",
+  "worksCount": 2,
+  "description": "acteur australien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/10.5.17JohnKimByLuigiNovi1.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1993-01-10",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q18764162",
+    "wikipedia": "https://fr.wikipedia.org/wiki/John_Kim_(acteur)",
+    "imdb": "nm2279247",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "9-1-1",
+      "title": "9-1-1"
+    },
+    {
+      "type": "series",
+      "slug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "title": "Flynn Carson et les nouveaux aventuriers"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "59e63a1d-64d7-4609-8eac-52dfa79d50ff",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-19 22:50:00+00",
+      "endTime": "2026-04-19 23:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "21a4aab6-fc14-4c8e-a0c5-44c402375822",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-19 23:40:00+00",
+      "endTime": "2026-04-20 00:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d148fcf9-9c5a-487d-9b58-67a79336e847",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 00:30:00+00",
+      "endTime": "2026-04-20 01:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "50affc23-7b36-48f7-8495-a7b45634e834",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 01:15:00+00",
+      "endTime": "2026-04-20 02:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "93068b33-deb4-41aa-bd91-041abf808a3b",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 02:05:00+00",
+      "endTime": "2026-04-20 02:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4424a79e-208b-4e93-8038-25dae1f53a3e",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 03:15:00+00",
+      "endTime": "2026-04-20 03:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f94cdecc-94ae-4085-b258-2c094538c589",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 03:55:00+00",
+      "endTime": "2026-04-20 04:45:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "7b329d90-00ec-4510-9739-47ef78bafda5",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 04:45:00+00",
+      "endTime": "2026-04-20 05:35:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "caa522f2-4e08-4458-8be6-d951a53ca6ef",
+      "title": "Flynn Carson et les nouveaux aventuriers",
+      "programSlug": "flynn-carson-et-les-nouveaux-aventuriers",
+      "programUrl": "/programme/syfy/flynn-carson-et-les-nouveaux-aventuriers",
+      "channelId": "syfy",
+      "channelName": "Syfy",
+      "channelSlug": "syfy",
+      "startTime": "2026-04-20 05:35:00+00",
+      "endTime": "2026-04-20 06:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "d109dc69-4de2-4cb8-ae5d-6f472313eeeb",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 10:40:00+00",
+      "endTime": "2026-04-20 11:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "8646dd14-03a1-4f10-86d3-1a1655bf9bf2",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 11:25:00+00",
+      "endTime": "2026-04-20 12:15:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "49bba40b-ee25-4a51-a851-ea23e318842b",
+      "title": "9-1-1 - Saison 5",
+      "programSlug": "9-1-1-saison-5",
+      "programUrl": "/programme/teva/9-1-1-saison-5",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-20 12:15:00+00",
+      "endTime": "2026-04-20 13:00:00+00",
+      "date": "2026-04-20"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 22:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

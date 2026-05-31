@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "carey-mulligan",
+  "name": "Carey Mulligan",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carey%20Mulligan%20at%20the%202025%20Sundance%20Film%20Festival%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1985-05-28",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q219655",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Carey_Mulligan",
+    "imdb": "nm1659547",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-suffragettes",
+      "title": "Les suffragettes"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2ab3a59d-d90d-49ea-abe8-b51f78b5829f",
+      "title": "Les suffragettes",
+      "programSlug": "les-suffragettes",
+      "programUrl": "/programme/canal-grand-ecran/les-suffragettes",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 23:32:00+00",
+      "endTime": "2026-04-25 01:14:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 23:32:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

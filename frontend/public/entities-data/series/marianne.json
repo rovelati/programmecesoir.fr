@@ -1,0 +1,59 @@
+{
+  "type": "series",
+  "slug": "marianne",
+  "title": "Marianne",
+  "airingsCount": 22,
+  "sourceTitles": [
+    "Marianne - Saison 1"
+  ],
+  "genres": [
+    "série télévisée d'horreur"
+  ],
+  "description": "Les restes d'un conducteur de train sont retrouvés sur une voie de chemin de fer. Selma, la légiste, décèle des indices qui indiquent que l'homme aurait été assommé puis déposé sur les rails en attendant le passage d'un train. Peu de temps auparavant, l'épouse du défunt avait aussi été écrasée par un train...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20Du%20Bois%20Call%20Me%20By%20Your%20Name%20Photo%20Call%20Berlinale%202017.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 22
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f905f08d-585b-4f51-a4b0-16a4acf15062",
+      "title": "Marianne",
+      "programSlug": "marianne",
+      "programUrl": "/programme/la-une/marianne",
+      "channelId": "la-une",
+      "channelName": "La Une",
+      "channelSlug": "la-une",
+      "startTime": "2026-04-25 15:05:00+00",
+      "endTime": "2026-04-25 16:07:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2019,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-25 15:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,81 @@
+{
+  "type": "film",
+  "slug": "l-espion-de-dieu",
+  "title": "L'espion de Dieu",
+  "airingsCount": 11,
+  "sourceTitles": [
+    "L'espion de Dieu",
+    "L'Espion de Dieu"
+  ],
+  "genres": [
+    "Film",
+    "Cinema"
+  ],
+  "description": "Après avoir perdu son frère aîné durant la Première Guerre mondiale, Dietrich Bonhoeffer part étudier la théologie aux Etats-Unis. Pendant son séjour, Frank, un camarade d'études baptiste afro-américain, influence sa vision spirituelle et ses croyances religieuses. De retour en Allemagne, la famille Bonhoeffer se méfie du pouvoir grandissant du parti nazi, notamment de son influence dans les églises allemandes. Dietrich s'oppose fermement et publiquement aux changements de doctrine opérés par les nazis, qu'il considère comme sacrilèges. Il se retrouve rapidement dans l'oeil du viseur et entre en résistance...",
+  "descriptionAi": "Ce film historique dramatique plonge dans le destin du théologien Dietrich Bonhoeffer. L'ambiance est à la fois intime et tendue, tissant une réflexion spirituelle profonde avec la montée implacable de la terreur nazie. L'intérêt réside dans ce portrait nuancé d'un homme de foi dont les convictions, forgées par des rencontres marquantes, le poussent à une résistance morale et politique d'une grande bravoure. C'est un récit poignant sur le courage et le prix de la dissidence face à l'oppression. Une œuvre inspirante à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 5
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4cfbe0d1-6127-4d0b-bd3a-61cf7a5a5ed1",
+      "title": "L'espion de Dieu",
+      "programSlug": "l-espion-de-dieu",
+      "programUrl": "/programme/paramount-channel/l-espion-de-dieu",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-21 05:05:00+00",
+      "endTime": "2026-04-21 07:15:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "75078f60-d129-4ac7-a767-d0a47d3b1054",
+      "title": "L'Espion de Dieu",
+      "programSlug": "l-espion-de-dieu",
+      "programUrl": "/programme/canal-cinema/l-espion-de-dieu",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-21 05:08:00+00",
+      "endTime": "2026-04-21 07:16:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:27:05.327Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-21 05:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

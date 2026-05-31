@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "susan-clark",
+  "name": "Susan Clark",
+  "worksCount": 1,
+  "description": "actrice canadienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Clark%20%22Webster%22%20(1983%20ABC%20press%20photo).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1940-03-08",
+  "nationality": "Canada",
+  "jobTitle": "producteur ou productrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q291455",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Susan_Clark",
+    "imdb": "nm0164540",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-fugue",
+      "title": "La fugue"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

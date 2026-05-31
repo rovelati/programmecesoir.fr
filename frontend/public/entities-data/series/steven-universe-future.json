@@ -1,0 +1,54 @@
+{
+  "type": "series",
+  "slug": "steven-universe-future",
+  "title": "Steven Universe Future",
+  "airingsCount": 20,
+  "sourceTitles": [
+    "Steven Universe Future"
+  ],
+  "genres": [
+    "séries télévisées sur le thème des LGBTI+",
+    "science fantasy",
+    "programme de télévision initiatique",
+    "comédie dramatique"
+  ],
+  "description": "Dans le souci d'intégrer toutes les gemmes à Plage Ville, Améthyste ouvre un programme d'entraide. Tout se passe bien jusqu'à ce que Steven s'en mêle...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cartoon-network.png",
+      "airingsCount": 20
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2019,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": {
+    "qid": "Q12569944",
+    "slug": "rebecca-sugar",
+    "name": "Rebecca Sugar",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

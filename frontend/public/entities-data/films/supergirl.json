@@ -1,0 +1,122 @@
+{
+  "type": "film",
+  "slug": "supergirl",
+  "title": "Supergirl",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Supergirl"
+  ],
+  "genres": [
+    "film pour adolescents",
+    "film ou téléfilm de science-fiction",
+    "film et téléfilm de fantasy",
+    "film et téléfilm d'action",
+    "film ou téléfilm pour enfants"
+  ],
+  "description": "Sur une planète lointaine. Par inadvertance, la douce et belle Kara laisse échapper une pierre magique, l'omegahedron, qui crève la couche protectrice de la cité et se perd dans l'immensité du cosmos. Ce geste condamne la planète à mourir rapidement. La jeune fille n'a guère le choix : il lui faut absolument retrouver la pierre perdue. Sa quête la mène sur Terre. La diabolique Selena, une magicienne mégalomane, a pris possession de l'omegahedron et découvert ses prodigieux pouvoirs. Elle compte bien se servir d'elle pour dominer le monde et lui imposer sa loi. Kara s'aperçoit que l'atmosphère terrestre décuple ses forces et multiplie ses facultés. Devenue Supergirl, elle va enfin pouvoir se mesurer à la satanique Selena...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1984,
+  "durationMinutes": 125,
+  "cast": [
+    {
+      "qid": "Q168721",
+      "slug": "faye-dunaway",
+      "name": "Faye Dunaway",
+      "role": "actor"
+    },
+    {
+      "qid": "Q241879",
+      "slug": "helen-slater",
+      "name": "Helen Slater",
+      "role": "actor"
+    },
+    {
+      "qid": "Q103876",
+      "slug": "peter-o-toole",
+      "name": "Peter O'Toole",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202725",
+      "slug": "mia-farrow",
+      "name": "Mia Farrow",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240658",
+      "slug": "brenda-vaccaro",
+      "name": "Brenda Vaccaro",
+      "role": "actor"
+    },
+    {
+      "qid": "Q981226",
+      "slug": "simon-ward",
+      "name": "Simon Ward",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1152815",
+      "slug": "marc-mcclure",
+      "name": "Marc McClure",
+      "role": "actor"
+    },
+    {
+      "qid": "Q457817",
+      "slug": "maureen-teefy",
+      "name": "Maureen Teefy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q976729",
+      "slug": "hart-bochner",
+      "name": "Hart Bochner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q525970",
+      "slug": "peter-cook",
+      "name": "Peter Cook",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1174699",
+      "slug": "david-healy",
+      "name": "David Healy",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q336024",
+    "slug": "jeannot-szwarc",
+    "name": "Jeannot Szwarc",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

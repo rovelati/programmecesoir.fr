@@ -1,0 +1,149 @@
+{
+  "type": "film",
+  "slug": "la-charge-heroique",
+  "title": "La charge héroïque",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "La charge héroïque"
+  ],
+  "genres": [
+    "western",
+    "film et téléfilm de guerre"
+  ],
+  "description": "1876. A la veille de quitter l'armée, sa véritable famille, le capitaine Nathan Brittles se voit confier une dernière mission. Il doit conduire madame Allshard, la femme du commandant, et Olivia Dandridge, sa nièce, jusqu'au relais de la diligence. Mais les Indiens ont incendié les lieux...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/She%20Wore%20a%20Yellow%20Ribbon%20trailer%202.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1949,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q40531",
+      "slug": "john-wayne",
+      "name": "John Wayne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240250",
+      "slug": "joanne-dru",
+      "name": "Joanne Dru",
+      "role": "actor"
+    },
+    {
+      "qid": "Q593286",
+      "slug": "john-agar",
+      "name": "John Agar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q329577",
+      "slug": "victor-mclaglen",
+      "name": "Victor McLaglen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349166",
+      "slug": "ben-johnson",
+      "name": "Ben Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1397312",
+      "slug": "harry-carey-jr",
+      "name": "Harry Carey Jr.",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1009495",
+      "slug": "george-o-brien",
+      "name": "George O'Brien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1375849",
+      "slug": "tom-tyler",
+      "name": "Tom Tyler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1361838",
+      "slug": "francis-ford",
+      "name": "Francis Ford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240217",
+      "slug": "mildred-natwick",
+      "name": "Mildred Natwick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1308273",
+      "slug": "noble-johnson",
+      "name": "Noble Johnson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1388924",
+      "slug": "john-big-tree",
+      "name": "John Big Tree",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1677155",
+      "slug": "jack-pennick",
+      "name": "Jack Pennick",
+      "role": "actor"
+    },
+    {
+      "qid": "Q224778",
+      "slug": "rudy-bowman",
+      "name": "Rudy Bowman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2865338",
+      "slug": "arthur-shields",
+      "name": "Arthur Shields",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1668336",
+      "slug": "irving-pichel",
+      "name": "Irving Pichel",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q51114",
+    "slug": "john-ford",
+    "name": "John Ford",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

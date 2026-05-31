@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "thelma-et-louise",
+  "title": "Thelma et Louise",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Thelma et Louise"
+  ],
+  "genres": [
+    "buddy film féminin",
+    "girls with guns",
+    "comédie dramatique",
+    "film ou téléfilm criminel",
+    "road movie",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Thelma mène une triste vie de femme au foyer. Elle est affublée d'un mari machiste qui la terrorise. Heureusement, elle a pour meilleure amie Louise, une serveuse dynamique. Or, Louise en a assez de son ami Jimmy et de son travail. Elle réussit à convaincre Thelma de partir pour un week-end en célibataires. Sur la route, les deux jeunes femmes s'arrêtent dans un dancing. Thelma, excitée par cette escapade, se laisse imprudemment entraîner sur le parking par un pervers qui tente de la violer. Mais Louise arrive avec un revolver et abat l'homme. C'est le début d'une cavale effrénée. Les deux rebelles improvisées n'ont pas d'autre solution que de se servir à nouveau de leur arme...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 4
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "c2c24c59-8415-40a2-b866-57012fc6b083",
+      "title": "Thelma et Louise",
+      "programSlug": "thelma-et-louise",
+      "programUrl": "/programme/canal-grand-ecran/thelma-et-louise",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 05:33:00+00",
+      "endTime": "2026-04-23 07:38:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1991,
+  "durationMinutes": 129,
+  "cast": [
+    {
+      "qid": "Q133050",
+      "slug": "susan-sarandon",
+      "name": "Susan Sarandon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q280098",
+      "slug": "geena-davis",
+      "name": "Geena Davis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q191132",
+      "slug": "harvey-keitel",
+      "name": "Harvey Keitel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q220584",
+      "slug": "michael-madsen",
+      "name": "Michael Madsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q349857",
+      "slug": "christopher-mcdonald",
+      "name": "Christopher McDonald",
+      "role": "actor"
+    },
+    {
+      "qid": "Q376131",
+      "slug": "stephen-tobolowsky",
+      "name": "Stephen Tobolowsky",
+      "role": "actor"
+    },
+    {
+      "qid": "Q35332",
+      "slug": "brad-pitt",
+      "name": "Brad Pitt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q944681",
+      "slug": "jason-beghe",
+      "name": "Jason Beghe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275254",
+      "slug": "lucinda-jenney",
+      "name": "Lucinda Jenney",
+      "role": "actor"
+    },
+    {
+      "qid": "Q434014",
+      "slug": "marco-st-john",
+      "name": "Marco St. John",
+      "role": "actor"
+    },
+    {
+      "qid": "Q941712",
+      "slug": "timothy-carhart",
+      "name": "Timothy Carhart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2939846",
+      "slug": "carol-mansell",
+      "name": "Carol Mansell",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q56005",
+    "slug": "ridley-scott",
+    "name": "Ridley Scott",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 05:33:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

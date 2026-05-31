@@ -1,0 +1,354 @@
+{
+  "type": "series",
+  "slug": "hawaii-5-0",
+  "title": "Hawaii 5-0",
+  "airingsCount": 43,
+  "sourceTitles": [
+    "Hawaii 5-0",
+    "Hawaii 5-0 - Saison 4",
+    "Hawaii 5-0 - Saison 5"
+  ],
+  "genres": [
+    "série télévisée policière",
+    "série d'action",
+    "drama policier",
+    "série télévisée dramatique"
+  ],
+  "description": "Le gouverneur charge Steve McGarrett et Lou Grover, le capitaine du SWAT, d'arrêter Ian Wright pour défaut de paiement de ses contraventions. A leur arrivée chez lui, les deux hommes essuient une fusillade tandis que Wright est kidnappé. Les deux agents découvrent ensuite que le jeune homme est un hacker surdoué et vénal, qui vend ses compétences au plus offrant. Il serait mêlé à un récent braquage de banque. En s'intéressant à ce hold-up, McGarrett et Grover réalisent qu'il n'est que la première étape de ce qui ressemble à une future attaque contre la sécurité nationale. En effet, le système de sécurité de la banque, que Wright a désactivé, est le même que celui qui doit être installé dans toutes les ambassades américaines...",
+  "descriptionAi": "Cette série policière allie action et drame dans le cadre paradisiaque d'Hawaï. L'ambiance est un savant mélange de tensions professionnelles et de légèreté insulaire, portée par une équipe d'enquêteurs au caractère bien trempé. L'intérêt réside dans des intrigues modernes, souvent liées à la sécurité nationale ou à des technologies de pointe, traitées avec un rythme soutenu. Le dynamisme des duos d'agents et les paysages somptueux offrent un divertissement efficace et dépaysant. Une série d'action palpitante à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "channelNumber": 21,
+      "logoUrl": "/loghi/6ter.png",
+      "airingsCount": 21
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 22
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "ba9d5aff-1d35-4dc7-a61f-84778ab63b43",
+      "title": "Hawaii 5-0 - Saison 6",
+      "programSlug": "hawaii-5-0-saison-6",
+      "programUrl": "/programme/rts-un/hawaii-5-0-saison-6",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-20 14:20:00+00",
+      "endTime": "2026-04-20 15:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "62cc4c6c-8bcf-43e8-89ff-638361eb133d",
+      "title": "Hawaii 5-0 - Saison 6",
+      "programSlug": "hawaii-5-0-saison-6",
+      "programUrl": "/programme/rts-un/hawaii-5-0-saison-6",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-20 15:05:00+00",
+      "endTime": "2026-04-20 15:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "e7936c91-bd16-43ba-a4c1-5da520aecfb7",
+      "title": "Hawaii 5-0 - Saison 6",
+      "programSlug": "hawaii-5-0-saison-6",
+      "programUrl": "/programme/rts-un/hawaii-5-0-saison-6",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-21 14:20:00+00",
+      "endTime": "2026-04-21 15:05:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "a97c2ad8-5028-4c89-b16c-9942ac5b80d2",
+      "title": "Hawaii 5-0 - Saison 6",
+      "programSlug": "hawaii-5-0-saison-6",
+      "programUrl": "/programme/rts-un/hawaii-5-0-saison-6",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-21 15:05:00+00",
+      "endTime": "2026-04-21 15:50:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "bac55119-16e2-483e-95fb-5f8596fea9ff",
+      "title": "Hawaii 5-0 - Saison 6",
+      "programSlug": "hawaii-5-0-saison-6",
+      "programUrl": "/programme/rts-un/hawaii-5-0-saison-6",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-22 14:20:00+00",
+      "endTime": "2026-04-22 15:05:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "ba7da91b-a6d4-4e54-b9e4-c12742bff823",
+      "title": "Hawaii 5-0 - Saison 7",
+      "programSlug": "hawaii-5-0-saison-7",
+      "programUrl": "/programme/rts-un/hawaii-5-0-saison-7",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-22 15:05:00+00",
+      "endTime": "2026-04-22 15:50:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f100785a-a8a5-4404-a925-cd334591a9f1",
+      "title": "Hawaii 5-0 - Saison 7",
+      "programSlug": "hawaii-5-0-saison-7",
+      "programUrl": "/programme/rts-un/hawaii-5-0-saison-7",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-23 14:15:00+00",
+      "endTime": "2026-04-23 15:05:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "36f813e7-50df-4f4c-a637-4a39ac1a73ad",
+      "title": "Hawaii 5-0 - Saison 7",
+      "programSlug": "hawaii-5-0-saison-7",
+      "programUrl": "/programme/rts-un/hawaii-5-0-saison-7",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-23 15:05:00+00",
+      "endTime": "2026-04-23 15:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "3b263c1f-3892-41ec-9533-507ef1a8a101",
+      "title": "Hawaii 5-0 - Saison 7",
+      "programSlug": "hawaii-5-0-saison-7",
+      "programUrl": "/programme/rts-un/hawaii-5-0-saison-7",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 14:20:00+00",
+      "endTime": "2026-04-24 15:05:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "e4c55b9f-61d1-4997-bb96-e2d5e326149d",
+      "title": "Hawaii 5-0 - Saison 7",
+      "programSlug": "hawaii-5-0-saison-7",
+      "programUrl": "/programme/rts-un/hawaii-5-0-saison-7",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-24 15:05:00+00",
+      "endTime": "2026-04-24 15:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "8537db4d-f9d5-48db-8608-682c56665a6c",
+      "title": "Hawaii 5-0 - Saison 4",
+      "programSlug": "hawaii-5-0-saison-4",
+      "programUrl": "/programme/6ter/hawaii-5-0-saison-4",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-24 19:10:00+00",
+      "endTime": "2026-04-24 19:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "a435789c-6fc3-42bd-88db-610836696682",
+      "title": "Hawaii 5-0 - Saison 4",
+      "programSlug": "hawaii-5-0-saison-4",
+      "programUrl": "/programme/6ter/hawaii-5-0-saison-4",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-24 19:50:00+00",
+      "endTime": "2026-04-24 20:50:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "7aebce8d-3945-4f96-a903-b5571465a16e",
+      "title": "Hawaii 5-0 - Saison 4",
+      "programSlug": "hawaii-5-0-saison-4",
+      "programUrl": "/programme/6ter/hawaii-5-0-saison-4",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-24 20:50:00+00",
+      "endTime": "2026-04-24 21:40:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "66ccd495-ca9d-4910-bcbc-83e1fbbc93b2",
+      "title": "Hawaii 5-0 - Saison 4",
+      "programSlug": "hawaii-5-0-saison-4",
+      "programUrl": "/programme/6ter/hawaii-5-0-saison-4",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-24 21:40:00+00",
+      "endTime": "2026-04-24 22:30:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "6947dc4f-0da8-463e-a87d-381b2a107c77",
+      "title": "Hawaii 5-0 - Saison 4",
+      "programSlug": "hawaii-5-0-saison-4",
+      "programUrl": "/programme/6ter/hawaii-5-0-saison-4",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-24 22:30:00+00",
+      "endTime": "2026-04-24 23:20:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "d991bf98-b1b2-4858-99e5-6bd5967220a5",
+      "title": "Hawaii 5-0 - Saison 4",
+      "programSlug": "hawaii-5-0-saison-4",
+      "programUrl": "/programme/6ter/hawaii-5-0-saison-4",
+      "channelId": "6ter",
+      "channelName": "6ter",
+      "channelSlug": "6ter",
+      "startTime": "2026-04-24 23:20:00+00",
+      "endTime": "2026-04-25 00:20:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:42:41.563Z",
+  "startYear": 2010,
+  "numberOfSeasons": 10,
+  "cast": [
+    {
+      "qid": "Q358137",
+      "slug": "alex-o-loughlin",
+      "name": "Alex O'Loughlin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314673",
+      "slug": "scott-caan",
+      "name": "Scott Caan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q299700",
+      "slug": "daniel-dae-kim",
+      "name": "Daniel Dae Kim",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230722",
+      "slug": "grace-park",
+      "name": "Grace Park",
+      "role": "actor"
+    },
+    {
+      "qid": "Q309503",
+      "slug": "masi-oka",
+      "name": "Masi Oka",
+      "role": "actor"
+    },
+    {
+      "qid": "Q261583",
+      "slug": "lauren-german",
+      "name": "Lauren German",
+      "role": "actor"
+    },
+    {
+      "qid": "Q437813",
+      "slug": "michelle-borth",
+      "name": "Michelle Borth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q471128",
+      "slug": "chi-mcbride",
+      "name": "Chi McBride",
+      "role": "actor"
+    },
+    {
+      "qid": "Q264914",
+      "slug": "jorge-garcia",
+      "name": "Jorge Garcia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314200",
+      "slug": "mark-dacascos",
+      "name": "Mark Dacascos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2400817",
+      "slug": "teilor-grubbs",
+      "name": "Teilor Grubbs",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1189298",
+      "slug": "ian-anthony-dale",
+      "name": "Ian Anthony Dale",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237244",
+      "slug": "larisa-oleynik",
+      "name": "Larisa Oleynik",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271637",
+      "slug": "terry-o-quinn",
+      "name": "Terry O'Quinn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4965706",
+      "slug": "brian-yang",
+      "name": "Brian Yang",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16832012",
+      "slug": "angela-gots",
+      "name": "Angela Gots",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q2885608",
+    "slug": "leonard-freeman",
+    "name": "Leonard Freeman",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 14:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

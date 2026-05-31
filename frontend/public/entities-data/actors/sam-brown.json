@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "sam-brown",
+  "name": "Sam Brown",
+  "worksCount": 1,
+  "description": "chanteuse rock, auteur-compositeur, fille du chanteur-guitariste Joe Brown",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sam%20Brown%202006.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-10-07",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "chanteur ou chanteuse",
+  "externalIds": {
+    "wikidata": "Q284196",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sam_Brown",
+    "imdb": "nm0114628",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-mort-dans-la-peau",
+      "title": "La mort dans la peau"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

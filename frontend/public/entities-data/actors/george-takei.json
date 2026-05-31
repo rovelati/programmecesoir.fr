@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "george-takei",
+  "name": "George Takei",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Takei%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1937-04-20",
+  "nationality": "États-Unis",
+  "jobTitle": "humoriste",
+  "externalIds": {
+    "wikidata": "Q110154",
+    "wikipedia": "https://fr.wikipedia.org/wiki/George_Takei",
+    "imdb": "nm0001786",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jerry-la-grande-gueule",
+      "title": "Jerry la grande gueule"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "jarrad-paul",
+  "name": "Jarrad Paul",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-06-20",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q3162786",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jarrad_Paul",
+    "imdb": "nm0666871",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "menteur-menteur",
+      "title": "Menteur, menteur"
+    },
+    {
+      "type": "series",
+      "slug": "monk",
+      "title": "Monk"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d862e1a4-552e-48d9-9c23-47c5470a23db",
+      "title": "Monk - Saison 5",
+      "programSlug": "monk-saison-5",
+      "programUrl": "/programme/rts-un/monk-saison-5",
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "startTime": "2026-04-25 14:25:00+00",
+      "endTime": "2026-04-25 15:10:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-25 14:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

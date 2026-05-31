@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "michael-b-jordan",
+  "name": "Michael B. Jordan",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20B%20Jordan%20-%20Sinners%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1989-02-09",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3308007",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Michael_B._Jordan",
+    "imdb": "nm0430107",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sans-aucun-remords",
+      "title": "Sans aucun remords"
+    },
+    {
+      "type": "film",
+      "slug": "sinners",
+      "title": "Sinners"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

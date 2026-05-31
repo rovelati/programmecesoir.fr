@@ -1,0 +1,123 @@
+{
+  "type": "actor",
+  "slug": "aure-atika",
+  "name": "Aure Atika",
+  "worksCount": 4,
+  "description": "actrice et réalisatrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aure%20Atika%20Cannes.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-07-12",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q291521",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Aure_Atika",
+    "imdb": "nm0004133",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-convoyeur",
+      "title": "Le convoyeur"
+    },
+    {
+      "type": "film",
+      "slug": "le-panache",
+      "title": "Le Panache"
+    },
+    {
+      "type": "film",
+      "slug": "la-verite-si-je-mens-2",
+      "title": "La vérité si je mens ! 2"
+    },
+    {
+      "type": "film",
+      "slug": "vacances-forcees",
+      "title": "Vacances forcées"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2ce12171-2240-402e-8332-aef67c023468",
+      "title": "Le Panache",
+      "programSlug": "le-panache",
+      "programUrl": "/programme/cine-family/le-panache",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 09:55:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "24a386a3-01b7-4b25-a613-b36e21b41bec",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 17:18:00+00",
+      "endTime": "2026-04-20 18:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5f1c105c-017d-4e1b-b777-31d9913cfea8",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 05:00:00+00",
+      "endTime": "2026-04-22 06:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "8d6fda4a-a1c7-4571-b534-ce3fe8708cc4",
+      "title": "Le Panache",
+      "programSlug": "le-panache",
+      "programUrl": "/programme/cine-family/le-panache",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 12:56:00+00",
+      "endTime": "2026-04-23 14:26:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "e6d27148-d68b-44e5-90ee-210931ba37fc",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/canal-grand-ecran/le-convoyeur",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 17:35:00+00",
+      "endTime": "2026-04-23 19:04:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "05467371-759f-46eb-b8c7-ec2ba690dee5",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 23:28:00+00",
+      "endTime": "2026-04-24 00:54:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 09:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

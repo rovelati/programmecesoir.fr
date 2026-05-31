@@ -1,0 +1,70 @@
+{
+  "type": "actor",
+  "slug": "justin-theroux",
+  "name": "Justin Theroux",
+  "worksCount": 3,
+  "description": "cinéaste américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Justin%20Theroux-63738%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-08-10",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q316596",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Justin_Theroux",
+    "imdb": "nm0857620",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bumblebee",
+      "title": "Bumblebee"
+    },
+    {
+      "type": "film",
+      "slug": "mulholland-drive",
+      "title": "Mulholland Drive"
+    },
+    {
+      "type": "film",
+      "slug": "american-psycho",
+      "title": "American Psycho"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "e421f727-4754-4c7a-9082-6249a3c5eb2a",
+      "title": "Mulholland Drive",
+      "programSlug": "mulholland-drive",
+      "programUrl": "/programme/ocs/mulholland-drive",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 11:29:00+00",
+      "endTime": "2026-04-21 13:51:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2d7f6144-2c14-4c91-b857-f0d9d5e42589",
+      "title": "Mulholland Drive",
+      "programSlug": "mulholland-drive",
+      "programUrl": "/programme/ocs/mulholland-drive",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 03:52:00+00",
+      "endTime": "2026-04-25 06:15:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-21 11:29:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

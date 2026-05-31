@@ -1,0 +1,55 @@
+{
+  "type": "series",
+  "slug": "daria",
+  "title": "Daria",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Daria"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "sitcom",
+    "série télévisée comique",
+    "satire",
+    "programme de télévision initiatique"
+  ],
+  "description": "Grande nouvelle pour Helen : Erin, la fille de sa soeur Rita, va se marier. Toute la famille Morgendorffer est invitée aux festivités. Devant l'insistance d'Helen, Quinn et Daria sont choisies pour être demoiselles d'honneur. Tandis qu'Helen et Rita ne cessent de se disputer, Daria la fait connaissance de sa tante Emy...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "comedy-central",
+      "channelName": "Comedy Central",
+      "channelSlug": "comedy-central",
+      "channelNumber": null,
+      "logoUrl": "/loghi/comedy-central.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1997,
+  "numberOfSeasons": 5,
+  "cast": [],
+  "creator": {
+    "qid": "Q279212",
+    "slug": "glenn-eichler",
+    "name": "Glenn Eichler",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "snoop-dogg",
+  "name": "Snoop Dogg",
+  "worksCount": 1,
+  "description": "rappeur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snoop%20Dogg%202019%20by%20Glenn%20Francis.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-10-20",
+  "nationality": "États-Unis",
+  "jobTitle": "rappeur ou rappeuse",
+  "externalIds": {
+    "wikidata": "Q6096",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Snoop_Dogg",
+    "imdb": "nm0004879",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "starsky-et-hutch",
+      "title": "Starsky et Hutch"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

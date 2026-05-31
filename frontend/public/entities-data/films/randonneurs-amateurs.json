@@ -1,0 +1,115 @@
+{
+  "type": "film",
+  "slug": "randonneurs-amateurs",
+  "title": "Randonneurs amateurs",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Randonneurs amateurs"
+  ],
+  "genres": [
+    "comédie",
+    "film ou téléfilm d'aventure",
+    "film ou téléfilm biographique",
+    "film basé sur des livres"
+  ],
+  "description": "Ecrivain à la retraite, Bill Bryson décide un jour de traverser les Appalaches à pied. Ne le croyant pas capable de parcourir seul les 3 500 kilomètres du chemin, Catherine, son épouse, lui impose de se faire accompagner. Bill ne trouve personne, jusqu'au jour où Stephen, un vieil ami perdu de vue, finit par se manifester. En surpoids et fatigué, Stephen ne semble pas être en suffisamment bonne condition physique. Il est pourtant décidé, et les deux hommes prennent le départ. Mais le voyage s'annonce particulièrement difficile, d'autant que Bill et Stephen ne cessent d'être doublés par des marcheurs plus jeunes et plus aguerris qu'eux...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 104,
+  "cast": [
+    {
+      "qid": "Q59215",
+      "slug": "robert-redford",
+      "name": "Robert Redford",
+      "role": "actor"
+    },
+    {
+      "qid": "Q188018",
+      "slug": "nick-nolte",
+      "name": "Nick Nolte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q168724",
+      "slug": "emma-thompson",
+      "name": "Emma Thompson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q108935",
+      "slug": "mary-steenburgen",
+      "name": "Mary Steenburgen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1985488",
+      "slug": "nick-offerman",
+      "name": "Nick Offerman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272927",
+      "slug": "kristen-schaal",
+      "name": "Kristen Schaal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3907145",
+      "slug": "r-keith-harris",
+      "name": "R. Keith Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q531074",
+      "slug": "chrystee-pharris",
+      "name": "Chrystee Pharris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16186207",
+      "slug": "danny-vinson",
+      "name": "Danny Vinson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q26508542",
+      "slug": "sandra-ellis-lafferty",
+      "name": "Sandra Ellis Lafferty",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1738629",
+    "slug": "ken-kwapis",
+    "name": "Ken Kwapis",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

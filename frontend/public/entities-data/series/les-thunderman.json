@@ -1,0 +1,149 @@
+{
+  "type": "series",
+  "slug": "les-thunderman",
+  "title": "Les Thunderman",
+  "airingsCount": 34,
+  "sourceTitles": [
+    "Les Thunderman",
+    "Les Thunderman - Saison 1"
+  ],
+  "genres": [
+    "teen sitcom",
+    "sitcom des États-Unis"
+  ],
+  "description": "Phoebe ne sait plus où donner de la tête. Elle n'a pas assez de temps pour concilier ses activités scolaires, ses loisirs et s'occuper de Billy et Nora. Toujours en quête d'expériences scientifiques inédites, Max propose de cloner sa soeur...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon.png",
+      "airingsCount": 12
+    },
+    {
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeonplus1fr.svg",
+      "airingsCount": 11
+    },
+    {
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/nickelodeon1.svg",
+      "airingsCount": 11
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "dc42d46e-8f50-4de8-8bed-01ca91533813",
+      "title": "Les Thunderman",
+      "programSlug": "les-thunderman",
+      "programUrl": "/programme/nickelodeon/les-thunderman",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-20 09:25:00+00",
+      "endTime": "2026-04-20 09:49:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "316be250-911a-402a-a36c-c56f59328cc1",
+      "title": "Les Thunderman",
+      "programSlug": "les-thunderman",
+      "programUrl": "/programme/nickelodeonplus1fr/les-thunderman",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-20 10:25:00+00",
+      "endTime": "2026-04-20 10:49:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f50e0598-a32d-4b7f-a71e-fe237fcb8316",
+      "title": "Les Thunderman - Saison 1",
+      "programSlug": "les-thunderman-saison-1",
+      "programUrl": "/programme/nickelodeon/les-thunderman-saison-1",
+      "channelId": "nickelodeon",
+      "channelName": "Nickelodeon",
+      "channelSlug": "nickelodeon",
+      "startTime": "2026-04-25 17:26:00+00",
+      "endTime": "2026-04-25 17:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "b1aa0dac-cf6b-4e12-abb3-9313adcb9c2e",
+      "title": "Les Thunderman",
+      "programSlug": "les-thunderman",
+      "programUrl": "/programme/nickelodeonplus1fr/les-thunderman",
+      "channelId": "nickelodeonplus1fr",
+      "channelName": "NickelodeonPlus1.fr",
+      "channelSlug": "nickelodeonplus1fr",
+      "startTime": "2026-04-25 18:26:00+00",
+      "endTime": "2026-04-25 18:50:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "44c9c72b-7055-4fd9-8eaf-dbaa130634b0",
+      "title": "Les Thunderman - Saison 1",
+      "programSlug": "les-thunderman-saison-1",
+      "programUrl": "/programme/nickelodeon1/les-thunderman-saison-1",
+      "channelId": "nickelodeon1",
+      "channelName": "Nickelodeon+1",
+      "channelSlug": "nickelodeon1",
+      "startTime": "2026-04-25 18:26:00+00",
+      "endTime": "2026-04-25 18:50:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2013,
+  "numberOfSeasons": 4,
+  "cast": [
+    {
+      "qid": "Q13460355",
+      "slug": "jack-griffo",
+      "name": "Jack Griffo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15772548",
+      "slug": "kira-kosarin",
+      "name": "Kira Kosarin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19258386",
+      "slug": "addison-riecke",
+      "name": "Addison Riecke",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q108672319",
+    "slug": "jed-spingarn",
+    "name": "Jed Spingarn",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-20 09:25:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

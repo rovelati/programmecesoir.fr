@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "simon-callow",
+  "name": "Simon Callow",
+  "worksCount": 1,
+  "description": "acteur et écrivain britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Callow.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1949-06-15",
+  "nationality": "Royaume-Uni",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q731187",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Simon_Callow",
+    "imdb": "nm0001003",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "ace-ventura-en-afrique",
+      "title": "Ace Ventura en Afrique"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "612495e8-9d36-460c-a3ef-7f3f65e6d239",
+      "title": "Ace Ventura en Afrique",
+      "programSlug": "ace-ventura-en-afrique",
+      "programUrl": "/programme/cine-family/ace-ventura-en-afrique",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:01:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 11:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

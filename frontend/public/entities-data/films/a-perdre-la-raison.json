@@ -1,0 +1,95 @@
+{
+  "type": "film",
+  "slug": "a-perdre-la-raison",
+  "title": "A perdre la raison",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "A perdre la raison"
+  ],
+  "genres": [
+    "drame",
+    "film à flash-back"
+  ],
+  "description": "Murielle et Mounir vivent une folle passion et pensent que leur union se poursuivra dans ce même climat jusqu'à la fin de leurs jours. Depuis son plus jeune âge, Mounir loge chez le docteur Pinget, une personne qui prend beaucoup de place dans l'existence du couple. Quand les deux amoureux prennent finalement la décision de se marier, ils se retrouvent peu à peu dans un état de dépendance psychique et matérielle vis-à-vis du médecin. Puis ils décident d'avoir des enfants, ce qui complique encore les relations. Murielle, qui supporte de plus en plus mal l'ambiance étouffante qui règne chez elle, dérive lentement. Un drame terrifiant menace son bonheur et celui des siens...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20perdre%20la%20raison%202012.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2012,
+  "durationMinutes": 111,
+  "cast": [
+    {
+      "qid": "Q1974920",
+      "slug": "niels-arestrup",
+      "name": "Niels Arestrup",
+      "role": "actor"
+    },
+    {
+      "qid": "Q981690",
+      "slug": "tahar-rahim",
+      "name": "Tahar Rahim",
+      "role": "actor"
+    },
+    {
+      "qid": "Q259968",
+      "slug": "emilie-dequenne",
+      "name": "Émilie Dequenne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3336549",
+      "slug": "nathalie-boutefeu",
+      "name": "Nathalie Boutefeu",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2411736",
+      "slug": "yannick-renier",
+      "name": "Yannick Renier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2362835",
+      "slug": "stephane-bissot",
+      "name": "Stéphane Bissot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2892182",
+      "slug": "baya-belal",
+      "name": "Baya Belal",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3179479",
+    "slug": "joachim-lafosse",
+    "name": "Joachim Lafosse",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

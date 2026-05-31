@@ -1,0 +1,91 @@
+{
+  "type": "film",
+  "slug": "milkshake",
+  "title": "Milkshake",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Milkshake"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Sophie est photographe. Il y a trois mois, elle a accouché. Mais un matin, son agent l'appelle pour lui dire qu'elle a décroché un job. Elle l'accepte.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2c295a80-37fe-4c50-acb7-135363d98991",
+      "title": "Milkshake",
+      "programSlug": "milkshake",
+      "programUrl": "/programme/ocs/milkshake",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-21 03:16:00+00",
+      "endTime": "2026-04-21 03:30:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "127d35d8-965c-4fb5-bb8c-2ce01bff8be7",
+      "title": "Milkshake",
+      "programSlug": "milkshake",
+      "programUrl": "/programme/ocs/milkshake",
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "startTime": "2026-04-25 03:38:00+00",
+      "endTime": "2026-04-25 03:52:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 83,
+  "cast": [
+    {
+      "qid": "Q23887819",
+      "slug": "tyler-ross",
+      "name": "Tyler Ross",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q114804161",
+    "slug": "mariko-munro",
+    "name": "Mariko Munro",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 03:16:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

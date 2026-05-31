@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "richard-a-dysart",
+  "name": "Richard A. Dysart",
+  "worksCount": 1,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Dysart%20(1988).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1929-03-30",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q110628",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Richard_A._Dysart",
+    "imdb": "nm0246004",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "columbo",
+      "title": "Columbo"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "68e24546-138d-467c-af05-78d7fe958a7a",
+      "title": "Columbo - Saison 3",
+      "programSlug": "columbo-saison-3",
+      "programUrl": "/programme/tv-breizh/columbo-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-24 18:50:00+00",
+      "endTime": "2026-04-24 20:40:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "f2986f33-f816-43d0-aa12-f7650e9465d7",
+      "title": "Columbo - Saison 3",
+      "programSlug": "columbo-saison-3",
+      "programUrl": "/programme/tv-breizh/columbo-saison-3",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-24 20:40:00+00",
+      "endTime": "2026-04-24 22:20:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "8bcee4aa-4e03-420a-902d-14aca29fefe3",
+      "title": "Columbo - Saison 6",
+      "programSlug": "columbo-saison-6",
+      "programUrl": "/programme/tv-breizh/columbo-saison-6",
+      "channelId": "tv-breizh",
+      "channelName": "TV Breizh",
+      "channelSlug": "tv-breizh",
+      "startTime": "2026-04-24 22:20:00+00",
+      "endTime": "2026-04-24 23:40:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

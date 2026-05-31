@@ -1,0 +1,161 @@
+{
+  "type": "film",
+  "slug": "les-suffragettes",
+  "title": "Les suffragettes",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Les suffragettes"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "En Angleterre, au début du XXe siècle, Maud, une jeune femme employée dans une blanchisserie, mariée et mère de famille décide de s'engager auprès du groupe de militantes féministes britanniques appelé \" Les suffragettes \", un mouvement radical qui lutte pour obtenir le droit de vote des femmes au Royaume-Uni. Face aux réactions agressives du gouvernement envers les diverses manifestations pacifiques, Les suffragettes, dirigées par la célèbre Emmeline Pankhurst, sont prêtes à recourir à la violence et à risquer leur travail, leur famille et leur vie pour porter leur message...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2ab3a59d-d90d-49ea-abe8-b51f78b5829f",
+      "title": "Les suffragettes",
+      "programSlug": "les-suffragettes",
+      "programUrl": "/programme/canal-grand-ecran/les-suffragettes",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-24 23:32:00+00",
+      "endTime": "2026-04-25 01:14:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 106,
+  "cast": [
+    {
+      "qid": "Q219655",
+      "slug": "carey-mulligan",
+      "name": "Carey Mulligan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q170428",
+      "slug": "helena-bonham-carter",
+      "name": "Helena Bonham Carter",
+      "role": "actor"
+    },
+    {
+      "qid": "Q873",
+      "slug": "meryl-streep",
+      "name": "Meryl Streep",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273904",
+      "slug": "natalie-press",
+      "name": "Natalie Press",
+      "role": "actor"
+    },
+    {
+      "qid": "Q259688",
+      "slug": "anne-marie-duff",
+      "name": "Anne-Marie Duff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234546",
+      "slug": "romola-garai",
+      "name": "Romola Garai",
+      "role": "actor"
+    },
+    {
+      "qid": "Q342617",
+      "slug": "ben-whishaw",
+      "name": "Ben Whishaw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q206659",
+      "slug": "brendan-gleeson",
+      "name": "Brendan Gleeson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1389078",
+      "slug": "samuel-west",
+      "name": "Samuel West",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4685338",
+      "slug": "adrian-schiller",
+      "name": "Adrian Schiller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6681693",
+      "slug": "lorraine-stanley",
+      "name": "Lorraine Stanley",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5534044",
+      "slug": "geoff-bell",
+      "name": "Geoff Bell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7493792",
+      "slug": "shelley-longworth",
+      "name": "Shelley Longworth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4844079",
+      "slug": "finbar-lynch",
+      "name": "Finbar Lynch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1102009",
+      "slug": "clive-wood",
+      "name": "Clive Wood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15820755",
+      "slug": "jamie-ballard",
+      "name": "Jamie Ballard",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q7422329",
+    "slug": "sarah-gavron",
+    "name": "Sarah Gavron",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 23:32:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

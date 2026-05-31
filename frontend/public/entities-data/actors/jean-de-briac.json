@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "jean-de-briac",
+  "name": "Jean De Briac",
+  "worksCount": 1,
+  "description": "acteur français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20De%20Briac%20in%20The%20Frisky%20Mrs.%20Johnson.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1891-08-15",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q6170516",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean_De_Briac",
+    "imdb": "nm0207591",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "l-entreprenant-monsieur-petrov",
+      "title": "L'Entreprenant Monsieur Petrov"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

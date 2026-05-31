@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "pat-morita",
+  "name": "Pat Morita",
+  "worksCount": 3,
+  "description": "acteur américain d'origine japonaise (1932-2005)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Morita.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1932-06-28",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q298799",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Pat_Morita",
+    "imdb": "nm0001552",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "karate-kid-ii",
+      "title": "Karaté Kid II"
+    },
+    {
+      "type": "film",
+      "slug": "karate-kid-iii",
+      "title": "Karaté Kid III"
+    },
+    {
+      "type": "film",
+      "slug": "karate-kid-le-moment-de-verite",
+      "title": "Karaté Kid, le moment de vérité"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

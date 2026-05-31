@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "mathilde-bisson",
+  "name": "Mathilde Bisson",
+  "worksCount": 1,
+  "description": "actrice française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mathilde%20Bisson%2001F.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1985-01-30",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q21008033",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Mathilde_Bisson",
+    "imdb": "nm3400818",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "adieu-monsieur-haffmann",
+      "title": "Adieu Monsieur Haffmann"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

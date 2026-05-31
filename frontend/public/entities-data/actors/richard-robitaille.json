@@ -1,0 +1,97 @@
+{
+  "type": "actor",
+  "slug": "richard-robitaille",
+  "name": "Richard Robitaille",
+  "worksCount": 1,
+  "description": "acteur canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1963-03-08",
+  "nationality": "Canada",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q26036546",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Richard_Robitaille",
+    "imdb": "nm0733261",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-dernier-souffle",
+      "title": "Le Dernier souffle"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f4c6fb3c-85b3-40d5-bfd7-5aba792234f3",
+      "title": "Le Dernier souffle",
+      "programSlug": "le-dernier-souffle",
+      "programUrl": "/programme/canal/le-dernier-souffle",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 01:14:00+00",
+      "endTime": "2026-04-21 02:52:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ba0abeb6-de46-47eb-b37e-c9bdcb3df87b",
+      "title": "Le dernier souffle",
+      "programSlug": "le-dernier-souffle",
+      "programUrl": "/programme/paramount-channel/le-dernier-souffle",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 09:55:00+00",
+      "endTime": "2026-04-23 11:35:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "4a4b9680-0707-4768-9021-f0a357eadb1c",
+      "title": "Le Dernier souffle",
+      "programSlug": "le-dernier-souffle",
+      "programUrl": "/programme/canal-cinema/le-dernier-souffle",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 09:58:00+00",
+      "endTime": "2026-04-23 11:36:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "c6ba25b8-833d-4d69-b8a3-369172718bff",
+      "title": "Le dernier souffle",
+      "programSlug": "le-dernier-souffle",
+      "programUrl": "/programme/paramount-channel/le-dernier-souffle",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-25 17:20:00+00",
+      "endTime": "2026-04-25 19:00:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "6d01116a-aca7-425a-8db1-41cd89f7ffa2",
+      "title": "Le Dernier souffle",
+      "programSlug": "le-dernier-souffle",
+      "programUrl": "/programme/canal-cinema/le-dernier-souffle",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-25 17:22:00+00",
+      "endTime": "2026-04-25 19:00:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 01:14:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

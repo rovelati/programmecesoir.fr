@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "carmen-yazalde",
+  "name": "Carmen Yazalde",
+  "worksCount": 1,
+  "description": "mannequin et actrice portugaise",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1950-05-29",
+  "nationality": "Portugal",
+  "jobTitle": "mannequin",
+  "externalIds": {
+    "wikidata": "Q3645106",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Carmen_Yazalde",
+    "imdb": "nm0629548",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-fille-de-dracula",
+      "title": "La fille de Dracula"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

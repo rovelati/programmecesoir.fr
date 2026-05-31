@@ -1,0 +1,132 @@
+{
+  "type": "film",
+  "slug": "l-equipee-sauvage",
+  "title": "L'équipée sauvage",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "L'équipée sauvage"
+  ],
+  "genres": [
+    "film pour adolescents",
+    "adaptation d'une œuvre littéraire au cinéma",
+    "drame"
+  ],
+  "description": "Johnny et sa bande sillonnent les routes sur de puissantes motos, effrayant les voyageurs et installant un sentiment de peur dans les endroits où ils font halte. Après avoir perturbé une course de moto et dérobé un des trophées, ils arrivent dans une petite bourgade, où Johnny rencontre la jeune Kathie, qui s'éprend de lui. Une bande rivale, menée par un certain Chino, tente de les évincer. Johnny affronte le chef des intrus et finit par en triompher. Toute cette agitation n'est pas du goût des habitants de la ville. L'un d'eux, Charlie Thomas, réunit quelques hommes et décide de mater Johnny et ses motards, car il estime que le shérif, Harry Bleeker, est incapable de se faire respecter...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Triumph%20Thunderbird%20from%20the%20movie%20%22The%20Wild%20One%22%20(1953).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1953,
+  "durationMinutes": 79,
+  "cast": [
+    {
+      "qid": "Q34012",
+      "slug": "marlon-brando",
+      "name": "Marlon Brando",
+      "role": "actor"
+    },
+    {
+      "qid": "Q529541",
+      "slug": "mary-murphy",
+      "name": "Mary Murphy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q76895",
+      "slug": "lee-marvin",
+      "name": "Lee Marvin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1385393",
+      "slug": "robert-keith",
+      "name": "Robert Keith",
+      "role": "actor"
+    },
+    {
+      "qid": "Q330847",
+      "slug": "jay-c-flippen",
+      "name": "Jay C. Flippen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3568307",
+      "slug": "will-wright",
+      "name": "Will Wright",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14941763",
+      "slug": "hugh-sanders",
+      "name": "Hugh Sanders",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1381411",
+      "slug": "jerry-paris",
+      "name": "Jerry Paris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3420566",
+      "slug": "ray-teal",
+      "name": "Ray Teal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15070027",
+      "slug": "robert-osterloh",
+      "name": "Robert Osterloh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q449465",
+      "slug": "timothy-carey",
+      "name": "Timothy Carey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6223473",
+      "slug": "john-brown",
+      "name": "John Brown",
+      "role": "actor"
+    },
+    {
+      "qid": "Q23747203",
+      "slug": "sam-gilman",
+      "name": "Sam Gilman",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q727349",
+    "slug": "laszlo-benedek",
+    "name": "László Benedek",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,163 @@
+{
+  "type": "film",
+  "slug": "les-demoiselles-harvey",
+  "title": "Les demoiselles Harvey",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Les demoiselles Harvey"
+  ],
+  "genres": [
+    "film ou téléfilm musical",
+    "comédie romantique",
+    "adaptation d'une œuvre littéraire au cinéma"
+  ],
+  "description": "En 1885, Susan Bradley se rend dans l'Ouest afin d'y rencontrer son futur mari, qu'elle ne connaît pas mais dont les lettres l'ont enchantée. Dans le train, elle se lie avec des jeunes serveuses qui se rendent en groupe à Sandrock et vont y tenir l'un des restaurants de la célèbre chaîne Harvey. A Sandrock, Susan découvre son promis, un cow-boy mal dégrossi. D'un commun accord, le mariage ne se fait pas. Susan entre dans la troupe des Harvey Girls. Le patron du saloon voisin, Ned Trent, voit d'un oeil goguenard s'ouvrir un établissement concurrent. Son associé, le juge Sam Purvis, est moins indulgent. Il a décidé de tout faire pour contraindre le restaurant à fermer ses portes...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Judy%20Garland%20The%20Harvey%20Girls%20MGM%20Publicity%20still.jpeg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-classic.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "42470116-e985-4491-9932-ea53e3ff43f4",
+      "title": "Les demoiselles Harvey",
+      "programSlug": "les-demoiselles-harvey",
+      "programUrl": "/programme/cine-classic/les-demoiselles-harvey",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-19 12:10:00+00",
+      "endTime": "2026-04-19 13:48:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1946,
+  "durationMinutes": 102,
+  "cast": [
+    {
+      "qid": "Q11637",
+      "slug": "judy-garland",
+      "name": "Judy Garland",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1390451",
+      "slug": "john-hodiak",
+      "name": "John Hodiak",
+      "role": "actor"
+    },
+    {
+      "qid": "Q240886",
+      "slug": "ray-bolger",
+      "name": "Ray Bolger",
+      "role": "actor"
+    },
+    {
+      "qid": "Q206856",
+      "slug": "angela-lansbury",
+      "name": "Angela Lansbury",
+      "role": "actor"
+    },
+    {
+      "qid": "Q981418",
+      "slug": "preston-foster",
+      "name": "Preston Foster",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3560683",
+      "slug": "virginia-o-brien",
+      "name": "Virginia O'Brien",
+      "role": "actor"
+    },
+    {
+      "qid": "Q454081",
+      "slug": "kenny-baker",
+      "name": "Kenny Baker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q445018",
+      "slug": "marjorie-main",
+      "name": "Marjorie Main",
+      "role": "actor"
+    },
+    {
+      "qid": "Q62558",
+      "slug": "cyd-charisse",
+      "name": "Cyd Charisse",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1712599",
+      "slug": "stephen-mcnally",
+      "name": "Stephen McNally",
+      "role": "actor"
+    },
+    {
+      "qid": "Q531868",
+      "slug": "hazel-brooks",
+      "name": "Hazel Brooks",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1072969",
+      "slug": "chill-wills",
+      "name": "Chill Wills",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2947119",
+      "slug": "jack-lambert",
+      "name": "Jack Lambert",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4468426",
+      "slug": "jacqueline-white",
+      "name": "Jacqueline White",
+      "role": "actor"
+    },
+    {
+      "qid": "Q529503",
+      "slug": "selena-royle",
+      "name": "Selena Royle",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6390966",
+      "slug": "kenny-baker",
+      "name": "Kenny Baker",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q630981",
+    "slug": "george-sidney",
+    "name": "George Sidney",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 12:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

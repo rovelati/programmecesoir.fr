@@ -1,0 +1,388 @@
+{
+  "type": "series",
+  "slug": "tandem",
+  "title": "Tandem",
+  "airingsCount": 34,
+  "sourceTitles": [
+    "Tandem"
+  ],
+  "genres": [
+    "fiction de détective",
+    "drama policier"
+  ],
+  "description": "Lorsqu'un homme affirme avoir échappé à une tentative de meurtre et accuse l'ex-mari de sa compagne, la gendarmerie ne prête pas attention à cette affirmation, car les deux ex-conjoints se déchirent pour obtenir la garde de leur fils et s'accusent mutuellement des pires horreurs. Cependant, la situation prend une tournure dramatique lorsque l'homme est retrouvé assassiné le soir-même. Les deux ex-conjoints s'accusent mutuellement, mais qui dit la vérité ? Et si la vérité était bien plus complexe qu'elle n'y paraissait ? Une enquête fascinante commence alors pour découvrir la vérité cachée derrière cette guerre acharnée pour la garde de leur enfant.\n\nRéalisateur(s) : Octave Raspail\nActeurs : Astrid Veillon (Léa Soler), Stéphane Blancafort (Paul Marchal), Piérick Tournier (Erwan Lebellec), Tatiana Gousseff (la capitaine Sabine Mauriac), Titouan Laporte (Thomas), Alban Casterman (le lieutenant Célestin Morel), François-Dominique Blin (Franck Marvaud), Patrick Descamps (le colonel Pierre Soler), Sarah-Cheyenne (Alice), Isabelle Tanakil (Annie Soler), Charley Fouquet (Esther Dulac), Marie Bernard (Apolline), Nelly Lawson (Camille Barbier), Marie Barraud (Clémence), Laurent Maurel (David), Catherine Giron (Madame Nolet), Tim Rousseau (Alex), Mathieu Duboclard (Giordano), Bruno Paviot (le docteur Wagner), Aliocha Itovich (Georges Nemours)",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "atvguadeloupefr",
+      "channelName": "ATVGuadeloupe.fr",
+      "channelSlug": "atvguadeloupefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguadeloupefr.svg",
+      "airingsCount": 7
+    },
+    {
+      "channelId": "atvmartiniquefr",
+      "channelName": "ATVMartinique.fr",
+      "channelSlug": "atvmartiniquefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvmartiniquefr.svg",
+      "airingsCount": 7
+    },
+    {
+      "channelId": "atvguyanefr",
+      "channelName": "ATVGuyane.fr",
+      "channelSlug": "atvguyanefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/atvguyanefr.svg",
+      "airingsCount": 7
+    },
+    {
+      "channelId": "tv7-bordeaux",
+      "channelName": "TV7 Bordeaux",
+      "channelSlug": "tv7-bordeaux",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tv7-bordeaux.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "tvsudmarseillefr",
+      "channelName": "TVSUDMarseille.fr",
+      "channelSlug": "tvsudmarseillefr",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tvsudmarseillefr.svg",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "574a2ba7-65fb-4b0c-a71b-49dd64686c4b",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3/tandem-saison-7",
+      "channelId": "france-3",
+      "channelName": "France 3",
+      "channelSlug": "france-3",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "09087236-29d7-45a5-b1ab-6920e0180e2f",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-alpes/tandem-saison-7",
+      "channelId": "france-3-alpes",
+      "channelName": "France 3 - Alpes",
+      "channelSlug": "france-3-alpes",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e26bfe68-8db1-4b6d-a0f3-f5495fa65326",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-alsace/tandem-saison-7",
+      "channelId": "france-3-alsace",
+      "channelName": "France 3 - Alsace",
+      "channelSlug": "france-3-alsace",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "ee116fa9-52b6-4d1b-8690-10247b6c5c0a",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-aquitaine/tandem-saison-7",
+      "channelId": "france-3-aquitaine",
+      "channelName": "France 3 - Aquitaine",
+      "channelSlug": "france-3-aquitaine",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "b8033abf-e227-4a7b-be7b-3b213cdc1acc",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-auvergne/tandem-saison-7",
+      "channelId": "france-3-auvergne",
+      "channelName": "France 3 - Auvergne",
+      "channelSlug": "france-3-auvergne",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "94e31d9d-7d90-40f5-bb61-1953de460c87",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-basse-normandie/tandem-saison-7",
+      "channelId": "france-3-basse-normandie",
+      "channelName": "France 3 - Basse-Normandie",
+      "channelSlug": "france-3-basse-normandie",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "cd36ab5e-cbc2-4409-a84a-8280d93b88e6",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-bourgogne/tandem-saison-7",
+      "channelId": "france-3-bourgogne",
+      "channelName": "France 3 - Bourgogne",
+      "channelSlug": "france-3-bourgogne",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "907f42dd-c310-44ce-ae1c-b5a2cbb8268e",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-bretagne/tandem-saison-7",
+      "channelId": "france-3-bretagne",
+      "channelName": "France 3 - Bretagne",
+      "channelSlug": "france-3-bretagne",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "2eca4679-7a6a-4fae-9833-15917ec9d659",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-centre/tandem-saison-7",
+      "channelId": "france-3-centre",
+      "channelName": "France 3 - Centre",
+      "channelSlug": "france-3-centre",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d22d2c2d-c786-417a-8d5e-b16a50f76a0b",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-champagne-ardenne/tandem-saison-7",
+      "channelId": "france-3-champagne-ardenne",
+      "channelName": "France 3 - Champagne-Ardenne",
+      "channelSlug": "france-3-champagne-ardenne",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "897118da-2523-46b6-9e43-92c964b03208",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-cote-dazur/tandem-saison-7",
+      "channelId": "france-3-cote-dazur",
+      "channelName": "France 3 - Côte d'Azur",
+      "channelSlug": "france-3-cote-dazur",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "c5b7057a-8772-4e4c-8341-1a1e74f22ab7",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-franche-comte/tandem-saison-7",
+      "channelId": "france-3-franche-comte",
+      "channelName": "France 3 - Franche-Comté",
+      "channelSlug": "france-3-franche-comte",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "6e8336a2-fbde-4273-8a23-1f04a2f4f78b",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-languedoc/tandem-saison-7",
+      "channelId": "france-3-languedoc",
+      "channelName": "France 3 - Languedoc",
+      "channelSlug": "france-3-languedoc",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "fd886128-53ba-42b2-952b-b4edcfa1e337",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-limousin/tandem-saison-7",
+      "channelId": "france-3-limousin",
+      "channelName": "France 3 - Limousin",
+      "channelSlug": "france-3-limousin",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "cbe9044c-2e6c-4efa-85b4-d9a7c89eaa70",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-lorraine/tandem-saison-7",
+      "channelId": "france-3-lorraine",
+      "channelName": "France 3 - Lorraine",
+      "channelSlug": "france-3-lorraine",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "0fe100e8-6f1c-4382-b8fc-47301d8435a4",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-midi-pyrenees/tandem-saison-7",
+      "channelId": "france-3-midi-pyrenees",
+      "channelName": "France 3 - Midi-Pyrénées",
+      "channelSlug": "france-3-midi-pyrenees",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "3605ff30-c4ac-44a5-9232-8893f6c4cba3",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-nord-pas-de-calais/tandem-saison-7",
+      "channelId": "france-3-nord-pas-de-calais",
+      "channelName": "France 3 - Nord Pas-de-Calais",
+      "channelSlug": "france-3-nord-pas-de-calais",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "4c3cd345-533e-4c79-9d53-98479e7624a5",
+      "title": "Tandem - Saison 7",
+      "programSlug": "tandem-saison-7",
+      "programUrl": "/programme/france-3-paris-ile-de-france/tandem-saison-7",
+      "channelId": "france-3-paris-ile-de-france",
+      "channelName": "France 3 - Paris Ile-de-France",
+      "channelSlug": "france-3-paris-ile-de-france",
+      "startTime": "2026-04-21 20:55:00+00",
+      "endTime": "2026-04-21 21:40:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2016,
+  "numberOfSeasons": 7,
+  "cast": [
+    {
+      "qid": "Q2868543",
+      "slug": "astrid-veillon",
+      "name": "Astrid Veillon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q34749272",
+      "slug": "stephane-blancafort",
+      "name": "Stéphane Blancafort",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3389622",
+      "slug": "pierick-tournier",
+      "name": "Piérick Tournier",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3516045",
+      "slug": "tatiana-goussef",
+      "name": "Tatiana Goussef",
+      "role": "actor"
+    },
+    {
+      "qid": "Q56216512",
+      "slug": "francois-dominique-blin",
+      "name": "François-Dominique Blin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3529596",
+      "slug": "titouan-laporte",
+      "name": "Titouan Laporte",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2405609",
+      "slug": "patrick-descamps",
+      "name": "Patrick Descamps",
+      "role": "actor"
+    },
+    {
+      "qid": "Q16185738",
+      "slug": "isabelle-tanakil",
+      "name": "Isabelle Tanakil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2830755",
+      "slug": "alban-casterman",
+      "name": "Alban Casterman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q65322474",
+      "slug": "nelly-lawson",
+      "name": "Nelly Lawson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q102140999",
+      "slug": "guillemette-barioz",
+      "name": "Guillemette Barioz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q98496808",
+      "slug": "baya-rehaz",
+      "name": "Baya Rehaz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q72104121",
+      "slug": "renaud-leymans",
+      "name": "Renaud Leymans",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q16028409",
+    "slug": "christophe-douchand",
+    "name": "Christophe Douchand",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-21 20:55:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

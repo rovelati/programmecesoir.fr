@@ -1,0 +1,47 @@
+{
+  "type": "film",
+  "slug": "les-enfants-de-gaza",
+  "title": "Les Enfants de Gaza",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les Enfants de Gaza"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "En 2003, en pleine seconde Intifada, quelques colons israéliens persistent à vivre dans les territoires occupés. Sous les bombardements qui frappent les deux camps, chacun tente d'échapper à un quotidien saturé de mort et de ruines. Tandis que de jeunes Palestiniens s'entraînent à la guerre dans l'espoir de rejoindre la lutte armée, le petit Mahmud préfère passer ses journées sur la plage, rêvant de surf. C'est là qu'il rencontre Alon, un garçon de son âge animé de la même passion, ainsi que Dan, un trentenaire étranger, ancien surfeur de haut niveau...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

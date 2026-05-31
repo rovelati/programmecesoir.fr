@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "deux-jours-a-tuer",
+  "title": "Deux jours à tuer",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Deux jours à tuer"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Antoine, talentueux publicitaire quadragénaire, mène, en apparence, une vie de rêve, entouré de Cécile, une femme aimante, et de leurs deux ravissants enfants. Pourtant, au cours d'une réunion de travail, Antoine se montre odieux avec l'un de ses clients, et propose dans la foulée de revendre ses parts de la société à son associé. A la maison, Antoine est très désagréable avec ses enfants et muet face à sa femme, qui l'accuse d'avoir une maîtresse. Une fête a été organisée chez lui à l'occasion de son anniversaire par ses amis. Elle est maintenue malgré la situation. Au cours du dîner, Antoine règle ses comptes avec chacun des invités...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2008,
+  "durationMinutes": 84,
+  "cast": [
+    {
+      "qid": "Q124389",
+      "slug": "albert-dupontel",
+      "name": "Albert Dupontel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q288157",
+      "slug": "alessandra-martines",
+      "name": "Alessandra Martines",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851178",
+      "slug": "anne-loiret",
+      "name": "Anne Loiret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851563",
+      "slug": "annick-alane",
+      "name": "Annick Alane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2975100",
+      "slug": "claire-nebout",
+      "name": "Claire Nebout",
+      "role": "actor"
+    },
+    {
+      "qid": "Q462318",
+      "slug": "cristiana-reali",
+      "name": "Cristiana Reali",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3015878",
+      "slug": "daphne-burki",
+      "name": "Daphné Bürki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1451117",
+      "slug": "francois-marthouret",
+      "name": "François Marthouret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q287336",
+      "slug": "guillaume-de-tonquedec",
+      "name": "Guillaume de Tonquédec",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3171644",
+      "slug": "jean-dell",
+      "name": "Jean Dell",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3186508",
+      "slug": "jose-paul",
+      "name": "José Paul",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2724026",
+      "slug": "marie-christine-adam",
+      "name": "Marie-Christine Adam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q239341",
+      "slug": "marie-josee-croze",
+      "name": "Marie-Josée Croze",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3298586",
+      "slug": "mathias-mlekuz",
+      "name": "Mathias Mlekuz",
+      "role": "actor"
+    },
+    {
+      "qid": "Q956942",
+      "slug": "pierre-vaneck",
+      "name": "Pierre Vaneck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3471167",
+      "slug": "samuel-labarthe",
+      "name": "Samuel Labarthe",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1387804",
+    "slug": "jean-becker",
+    "name": "Jean Becker",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

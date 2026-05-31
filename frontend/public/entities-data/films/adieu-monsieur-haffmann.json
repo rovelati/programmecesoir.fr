@@ -1,0 +1,89 @@
+{
+  "type": "film",
+  "slug": "adieu-monsieur-haffmann",
+  "title": "Adieu Monsieur Haffmann",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Adieu Monsieur Haffmann"
+  ],
+  "genres": [
+    "adaptation d'une œuvre littéraire au cinéma",
+    "comédie dramatique"
+  ],
+  "description": "À Paris, pendant la Seconde Guerre mondiale, Joseph Haffmann, joaillier, vite avec sa femme et ses deux enfants. Alors que les lois antijuives se font de plus en plus coercitives et menaçantes, Joseph envoie sa femme et ses enfants en zone libre, projetant de les rejoindre ensuite. Il veut d'abord régler la question de la gestion de sa boutique. Il propose à son nouvel employé, François Mercier, de lui céder son enseigne le temps de la guerre. Joseph la récupérera ensuite, et aidera François à acquérir sa propre enseigne. François en parle à son épouse Blanche, qui n'est pas très enthousiaste.",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20time%20in%20Paris%20(49965196563).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "la-trois",
+      "channelName": "La Trois",
+      "channelSlug": "la-trois",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-trois.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q106303",
+      "slug": "daniel-auteuil",
+      "name": "Daniel Auteuil",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3473265",
+      "slug": "sara-giraudeau",
+      "name": "Sara Giraudeau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q552639",
+      "slug": "gilles-lellouche",
+      "name": "Gilles Lellouche",
+      "role": "actor"
+    },
+    {
+      "qid": "Q21008033",
+      "slug": "mathilde-bisson",
+      "name": "Mathilde Bisson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2851033",
+      "slug": "anne-coesens",
+      "name": "Anne Coesens",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082981",
+      "slug": "frans-boyer",
+      "name": "Frans Boyer",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3086808",
+    "slug": "fred-cavaye",
+    "name": "Fred Cavayé",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

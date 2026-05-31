@@ -1,0 +1,99 @@
+{
+  "type": "film",
+  "slug": "sur-un-fil",
+  "title": "Sur un fil",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Sur un fil"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Au cours d'un spectacle, Jo, une jeune artiste de rue, est victime d'un grave accident qui la prive de toute activité pour de longs mois. A l'hôpital, elle rencontre les clowns de Nez pour rire, une association qui tente d'apporter de la joie et du réconfort aux patients. Jo accepte d'intégrer la troupe.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/paramount-channel.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 116,
+  "cast": [
+    {
+      "qid": "Q70437467",
+      "slug": "aloise-sauvage",
+      "name": "Aloïse Sauvage",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3380605",
+      "slug": "philippe-rebbot",
+      "name": "Philippe Rebbot",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3473265",
+      "slug": "sara-giraudeau",
+      "name": "Sara Giraudeau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3470839",
+      "slug": "samir-guesmi",
+      "name": "Samir Guesmi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965972",
+      "slug": "christine-pignet",
+      "name": "Christine Pignet",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3422822",
+    "slug": "reda-kateb",
+    "name": "Reda Kateb",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

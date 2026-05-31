@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "dwayne-johnson",
+  "name": "Dwayne Johnson",
+  "worksCount": 3,
+  "description": "acteur, producteur de télévision et catcheur américano-canadien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dwayne%20Johnson-1809%20(cropped).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-05-02",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q10738",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dwayne_Johnson",
+    "imdb": "nm0425005",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "max-la-menace",
+      "title": "Max la menace"
+    },
+    {
+      "type": "film",
+      "slug": "black-adam",
+      "title": "Black Adam"
+    },
+    {
+      "type": "film",
+      "slug": "le-roi-scorpion",
+      "title": "Le roi Scorpion"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "9643570a-a31b-4a0a-96dc-9b247dbe9e8a",
+      "title": "Max la menace",
+      "programSlug": "max-la-menace",
+      "programUrl": "/programme/cine-family/max-la-menace",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 15:43:00+00",
+      "endTime": "2026-04-25 17:30:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-25 15:43:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

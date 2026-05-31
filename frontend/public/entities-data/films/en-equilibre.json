@@ -1,0 +1,118 @@
+{
+  "type": "film",
+  "slug": "en-equilibre",
+  "title": "En équilibre",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "En équilibre"
+  ],
+  "genres": [
+    "drame"
+  ],
+  "description": "Marc, un cascadeur équestre aguerri, officie depuis plusieurs années sur les tournages de films. Mais un jour, malgré son expérience, il est victime d'un grave accident de cheval. En convalescence en Bretagne, il reçoit la visite de sa conseillère d'assurance, la jeune et charmante Florence, chargée de trouver un arrangement avec lui. La rencontre de cet homme brisé, qui pense qu'il ne remontera plus jamais en selle tout en refusant de s'avouer vaincu, et de cette jeune femme lumineuse, pourtant elle aussi hantée par un drame personnel, va changer le cours du destin...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2015,
+  "durationMinutes": 87,
+  "cast": [
+    {
+      "qid": "Q124389",
+      "slug": "albert-dupontel",
+      "name": "Albert Dupontel",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236157",
+      "slug": "cecile-de-france",
+      "name": "Cécile de France",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3369703",
+      "slug": "patrick-mille",
+      "name": "Patrick Mille",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1044296",
+      "slug": "carole-franck",
+      "name": "Carole Franck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3379770",
+      "slug": "philippe-duclos",
+      "name": "Philippe Duclos",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3218747",
+      "slug": "laure-calamy",
+      "name": "Laure Calamy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15649275",
+      "slug": "marianne-groves",
+      "name": "Marianne Groves",
+      "role": "actor"
+    },
+    {
+      "qid": "Q993587",
+      "slug": "bruno-monsaingeon",
+      "name": "Bruno Monsaingeon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3185296",
+      "slug": "joseph-malerba",
+      "name": "Joseph Malerba",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2623182",
+      "slug": "alexis-loret",
+      "name": "Alexis Loret",
+      "role": "actor"
+    },
+    {
+      "qid": "Q97168",
+      "slug": "marie-baumer",
+      "name": "Marie Bäumer",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3022648",
+    "slug": "denis-dercourt",
+    "name": "Denis Dercourt",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

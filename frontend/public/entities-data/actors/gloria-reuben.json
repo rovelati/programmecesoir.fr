@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "gloria-reuben",
+  "name": "Gloria Reuben",
+  "worksCount": 2,
+  "description": "actrice canadienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Actress%20gloria%20reuben%20photo%20by%20christopher%20peterson.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-06-09",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q261535",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Gloria_Reuben",
+    "imdb": "nm0005349",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "jesse-stone-le-benefice-du-doute",
+      "title": "Jesse Stone : le bénéfice du doute"
+    },
+    {
+      "type": "series",
+      "slug": "urgences",
+      "title": "Urgences"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

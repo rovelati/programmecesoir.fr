@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "jean-reno",
+  "name": "Jean Reno",
+  "worksCount": 3,
+  "description": "acteur franco-espagnol",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Reno%20Cannes%202016.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1948-07-30",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q43697",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jean_Reno",
+    "imdb": "nm0000606",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "the-doorman",
+      "title": "The Doorman"
+    },
+    {
+      "type": "film",
+      "slug": "da-vinci-code",
+      "title": "Da Vinci Code"
+    },
+    {
+      "type": "film",
+      "slug": "un-amour-de-sorciere",
+      "title": "Un amour de sorcière"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

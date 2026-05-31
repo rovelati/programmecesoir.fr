@@ -1,0 +1,109 @@
+{
+  "type": "actor",
+  "slug": "albert-dupontel",
+  "name": "Albert Dupontel",
+  "worksCount": 6,
+  "description": "acteur, réalisateur et scénariste de cinéma français",
+  "descriptionAi": "Albert Dupontel est un acteur et réalisateur français au style unique, mêlant humour noir, satire sociale et émotion brute. Ses films, souvent classés dans le registre de la comédie dramatique, bousculent les conventions avec une audace visuelle et narrative remarquable. Le téléspectateur est captivé par son univers à la fois grotesque et profondément humain, où la violence du monde se heurte à des lueurs de poésie et de tendresse. Son regard acéré sur nos travers, servi par des performances intenses, crée une expérience cinématographique dérangeante et inoubliable. Pour découvrir ses œuvres marquantes, c’est à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Dupontel%20(c)%20Chistophe%20Brachet.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1964-01-11",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q124389",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Albert_Dupontel",
+    "imdb": "nm0243355",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "deux-jours-a-tuer",
+      "title": "Deux jours à tuer"
+    },
+    {
+      "type": "film",
+      "slug": "9-mois-ferme",
+      "title": "9 mois ferme"
+    },
+    {
+      "type": "film",
+      "slug": "le-convoyeur",
+      "title": "Le convoyeur"
+    },
+    {
+      "type": "film",
+      "slug": "en-equilibre",
+      "title": "En équilibre"
+    },
+    {
+      "type": "film",
+      "slug": "bernie",
+      "title": "Bernie"
+    },
+    {
+      "type": "film",
+      "slug": "l-origine-du-monde",
+      "title": "L'origine du monde"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "24a386a3-01b7-4b25-a613-b36e21b41bec",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 17:18:00+00",
+      "endTime": "2026-04-20 18:50:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5f1c105c-017d-4e1b-b777-31d9913cfea8",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-22 05:00:00+00",
+      "endTime": "2026-04-22 06:30:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "e6d27148-d68b-44e5-90ee-210931ba37fc",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/canal-grand-ecran/le-convoyeur",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-23 17:35:00+00",
+      "endTime": "2026-04-23 19:04:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "05467371-759f-46eb-b8c7-ec2ba690dee5",
+      "title": "Le convoyeur",
+      "programSlug": "le-convoyeur",
+      "programUrl": "/programme/cine-frisson/le-convoyeur",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 23:28:00+00",
+      "endTime": "2026-04-24 00:54:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:35.214Z",
+  "nextAiringAt": "2026-04-20 17:18:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "type": "series",
+  "slug": "mon-fils-ma-bataille",
+  "title": "Mon fils, ma bataille",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Mon fils, ma bataille - Saison 1"
+  ],
+  "genres": [
+    "Series"
+  ],
+  "description": "Un amour fatal et impossible unit, détruit presque et sauve finalement deux personnes issues de mondes complètement différents. Lola est une jeune femme qui cherche désespérément son fils perdu et fuit un passé difficile où elle tente de garder Igor, le père de son enfant, avec une certaine possessivité.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "antenne-reunion",
+      "channelName": "ANTENNE REUNION",
+      "channelSlug": "antenne-reunion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/antenne-reunion.svg",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": "Q721717",
+    "wikipedia": null,
+    "imdb": "tt0558722",
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2004,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": {
+    "qid": "Q5495238",
+    "slug": "fred-gerber",
+    "name": "Fred Gerber",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

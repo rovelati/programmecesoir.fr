@@ -1,0 +1,85 @@
+{
+  "type": "film",
+  "slug": "winter-break",
+  "title": "Winter Break",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Winter Break"
+  ],
+  "genres": [
+    "comédie dramatique",
+    "film de Noël"
+  ],
+  "description": "Nouvelle-Angleterre, en 1970. Professeur d'histoire ancienne au prestigieux lycée Barton, un établissement privé réservé aux garçons, Paul Hunham apprend avec désarroi qu'il a été désigné par la direction pour surveiller les quelques élèves qui resteront dans le lycée pendant les fêtes de fin d'année. Peu sociable et aigri, l'homme accepte difficilement son sort, d'autant plus qu'un seul et unique élève passera finalement Noël sur place : le peu commode Angus, réputé pour son insubordination. Inévitablement, la cohabitation forcée commence par quelques menues frictions. Mais les vacances finissent vite par prendre une tournure inattendue...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "ocs",
+      "channelName": "OCS",
+      "channelSlug": "ocs",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ocs.png",
+      "airingsCount": 3
+    },
+    {
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-emotion.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2023,
+  "durationMinutes": 133,
+  "cast": [
+    {
+      "qid": "Q208649",
+      "slug": "paul-giamatti",
+      "name": "Paul Giamatti",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5243751",
+      "slug": "da-vine-joy-randolph",
+      "name": "Da’Vine Joy Randolph",
+      "role": "actor"
+    },
+    {
+      "qid": "Q238855",
+      "slug": "carrie-preston",
+      "name": "Carrie Preston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q123486087",
+      "slug": "dominic-sessa",
+      "name": "Dominic Sessa",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q313566",
+    "slug": "alexander-payne",
+    "name": "Alexander Payne",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

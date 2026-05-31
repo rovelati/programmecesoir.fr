@@ -1,0 +1,50 @@
+{
+  "type": "actor",
+  "slug": "alice-taglioni",
+  "name": "Alice Taglioni",
+  "worksCount": 4,
+  "description": "actrice française",
+  "descriptionAi": "Alice Taglioni incarne l'élégance et la polyvalence du cinéma français. Actrice de cinéma et de télévision, elle navigue avec aisance entre des rôles dramatiques intenses et des comédies légères, souvent dans des atmosphères de romance ou de suspense contemporain. Son charisme naturel et sa capacité à incarner des personnages à la fois forts et vulnérables captivent immédiatement le téléspectateur. Que ce soit dans un film à suspense psychologique ou une comédie romantique, elle apporte une authenticité qui rend chaque histoire profondément humaine et engageante. Pour découvrir ses prochaines apparitions à l'écran, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alice-Taglioni-Notre-univers.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1976-07-26",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q265232",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Alice_Taglioni",
+    "imdb": "nm0998117",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sous-les-jupes-des-filles",
+      "title": "Sous les jupes des filles"
+    },
+    {
+      "type": "film",
+      "slug": "broceliande",
+      "title": "Brocéliande"
+    },
+    {
+      "type": "film",
+      "slug": "le-routard",
+      "title": "Le Routard"
+    },
+    {
+      "type": "series",
+      "slug": "crossing-lines",
+      "title": "Crossing Lines"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:24:54.966Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

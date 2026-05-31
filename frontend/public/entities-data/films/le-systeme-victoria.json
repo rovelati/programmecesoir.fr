@@ -1,0 +1,85 @@
+{
+  "type": "film",
+  "slug": "le-systeme-victoria",
+  "title": "Le système Victoria",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Le système Victoria"
+  ],
+  "genres": [
+    "Cinema",
+    "Film"
+  ],
+  "description": "Directeur de travaux, David est à la tête du chantier d'une grosse tour en construction dans le quartier parisien de La Défense. Entre les retards qui s'enchaînent et qui deviennent insurmontables, les pressions incessantes de ses supérieurs et du client, et le surmenage des équipes, il ne vit que dans l'urgence. Lorsqu'il croise le chemin de Victoria, ambitieuse directrice des ressources humains au sein d'une multinationale, il est immédiatement séduit par son audace et sa liberté. Entre relation passionnelle et enjeux professionnels, David va bien malgré lui se retrouver pris au piège d'un système qui le dépasse...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6e344fb4-1b8e-4e9b-9555-b917bb0c3277",
+      "title": "Le système Victoria",
+      "programSlug": "le-systeme-victoria",
+      "programUrl": "/programme/paramount-channel/le-systeme-victoria",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-21 17:20:00+00",
+      "endTime": "2026-04-21 19:00:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "d7fe8e15-c929-4cab-8b5b-c24d0a43e846",
+      "title": "Le système Victoria",
+      "programSlug": "le-systeme-victoria",
+      "programUrl": "/programme/canal-cinema/le-systeme-victoria",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-21 17:21:00+00",
+      "endTime": "2026-04-21 19:00:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [],
+  "director": {
+    "qid": "Q27757865",
+    "slug": "sylvain-desclous",
+    "name": "Sylvain Desclous",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-21 17:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

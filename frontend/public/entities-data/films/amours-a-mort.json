@@ -1,0 +1,51 @@
+{
+  "type": "film",
+  "slug": "amours-a-mort",
+  "title": "Amours à mort",
+  "airingsCount": 1,
+  "sourceTitles": [
+    "Amours à mort"
+  ],
+  "genres": [
+    "Telefilms"
+  ],
+  "description": "Dans le Parc du haut-fourneau d'Uckange, on découvre le cadavre de Gilles Thouvenin, l'ancien directeur du site. Clément Leroy, capitaine de la section criminelle de la gendarmerie de Metz, est chargé de mener l'enquête. Il débute les investigations avec le soutien de Laure Thouvenin, fille de la victime…",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "channelNumber": null,
+      "logoUrl": "/loghi/polar.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2019,
+  "durationMinutes": 90,
+  "cast": [],
+  "director": {
+    "qid": "Q3350786",
+    "slug": "olivier-barma",
+    "name": "Olivier Barma",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

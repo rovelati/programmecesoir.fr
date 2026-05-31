@@ -1,0 +1,143 @@
+{
+  "type": "film",
+  "slug": "una-donna-per-amica",
+  "title": "Una donna per amica",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Una donna per amica"
+  ],
+  "genres": [
+    "comédie romantique"
+  ],
+  "description": "Un homme prend conscience de ses véritables sentiments lorsque sa meilleure amie lui annonce qu'elle va se marier. Va-t-il lui avouer son amour ?",
+  "descriptionAi": "Cette comédie romantique de 2014 explore avec légèreté et émotion la frontière ténue entre amitié et amour. L’ambiance, à la fois drôle et touchante, nous plonge dans le dilemme universel d’un homme confronté à ses vrais sentiments. Le film captive par son authenticité et ses personnages attachants, qui rendent cette histoire de cœur à la fois personnelle et profondément relatable. Une quête sincère du bonheur qui interroge sur les risques à prendre pour être vrai. Une douce histoire d’introspection sentimentale à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "channelNumber": null,
+      "logoUrl": "/loghi/eurochannel.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "0cfb2382-e92c-4564-84cb-2e7caade4407",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 07:05:00+00",
+      "endTime": "2026-04-19 08:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5b573118-6df5-44c3-9f9e-00230b0f174c",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-19 14:15:00+00",
+      "endTime": "2026-04-19 15:40:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "19bcb3a6-cb28-4097-95ff-cefdd0cfc1f0",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-22 02:35:00+00",
+      "endTime": "2026-04-22 04:00:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "0f384023-b5c9-42ba-9261-328c7eec397b",
+      "title": "Una donna per amica",
+      "programSlug": "una-donna-per-amica",
+      "programUrl": "/programme/eurochannel/una-donna-per-amica",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 04:00:00+00",
+      "endTime": "2026-04-26 05:25:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:48:41.600Z",
+  "year": 2014,
+  "durationMinutes": 88,
+  "cast": [
+    {
+      "qid": "Q3737674",
+      "slug": "fabio-de-luigi",
+      "name": "Fabio De Luigi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q207578",
+      "slug": "laetitia-casta",
+      "name": "Laetitia Casta",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4007701",
+      "slug": "valentina-lodovini",
+      "name": "Valentina Lodovini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q511290",
+      "slug": "valeria-solarino",
+      "name": "Valeria Solarino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1077542",
+      "slug": "adriano-giannini",
+      "name": "Adriano Giannini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3320729",
+      "slug": "monica-scattini",
+      "name": "Monica Scattini",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3499270",
+      "slug": "antonia-liskova",
+      "name": "Antonia Liskova",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1010696",
+    "slug": "giovanni-veronesi",
+    "name": "Giovanni Veronesi",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 07:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

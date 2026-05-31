@@ -1,0 +1,51 @@
+{
+  "type": "series",
+  "slug": "lolirock",
+  "title": "LoliRock",
+  "airingsCount": 18,
+  "sourceTitles": [
+    "LoliRock"
+  ],
+  "genres": [
+    "film ou téléfilm musical"
+  ],
+  "description": "Méphisto jette un sort censé limiter les pouvoirs d'Iris, mais il touche Lyna à la place, qui semble se volatiliser ! En réalité, elle a simplement rétréci pour atteindre la taille d'une poupée, et une petite fille l'a emportée, la prenant précisément pour une poupée. Le pendentif d'Iris se met à briller, et cette dernière accepte de veiller sur la petite fille pour que son grand frère puisse se rendre à un rendez-vous. Chez la petite fille, Lyna navigue dans un monde qui lui semble désormais immense.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tiji.png",
+      "airingsCount": 18
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2014,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": {
+    "qid": "Q1175668",
+    "slug": "david-michel",
+    "name": "David Michel",
+    "role": "creator"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

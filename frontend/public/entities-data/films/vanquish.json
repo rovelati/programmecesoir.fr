@@ -1,0 +1,73 @@
+{
+  "type": "film",
+  "slug": "vanquish",
+  "title": "Vanquish",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Vanquish"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller"
+  ],
+  "description": "Victoria est l'aide-soignante de Damon, un policier à la retraite qui vit en fauteuil roulant dans sa luxueuse résidence. Le sombre passé de la jeune femme, où elle transportait de la drogue pour la mafia russe, semble derrière elle. Mais un soir, son patron prend sa fille en otage. En échange de sa libération, il demande à Victoria de récupérer de l'argent dans cinq établissements différents. Elle n'a alors d'autre choix que de prendre sa moto et parcourir la ville à la rencontre de dangereux criminels.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "abxplore",
+      "channelName": "ABXplore",
+      "channelSlug": "abxplore",
+      "channelNumber": null,
+      "logoUrl": "/loghi/abxplore.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "la-chaine-lequipe",
+      "channelName": "La chaine l’Équipe",
+      "channelSlug": "la-chaine-lequipe",
+      "channelNumber": null,
+      "logoUrl": "/loghi/la-chaine-lequipe.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2021,
+  "durationMinutes": 96,
+  "cast": [
+    {
+      "qid": "Q48337",
+      "slug": "morgan-freeman",
+      "name": "Morgan Freeman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3942185",
+      "slug": "ruby-rose",
+      "name": "Ruby Rose",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2075917",
+    "slug": "george-gallo",
+    "name": "George Gallo",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

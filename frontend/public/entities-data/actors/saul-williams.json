@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "saul-williams",
+  "name": "Saul Williams",
+  "worksCount": 1,
+  "description": "acteur, écrivain, poète et rappeur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SaulWilliams.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-02-29",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q533369",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Saul_Williams",
+    "imdb": "nm0931654",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sinners",
+      "title": "Sinners"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

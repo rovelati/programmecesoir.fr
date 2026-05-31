@@ -1,0 +1,137 @@
+{
+  "type": "film",
+  "slug": "buried",
+  "title": "Buried",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Buried"
+  ],
+  "genres": [
+    "thriller",
+    "drame"
+  ],
+  "description": "Paul Conroy, un entrepreneur américain sous contrat en Irak, se réveille dans l'obscurité. Il a été pris en embuscade près de Bakubah et enterré vivant avec une torche et un téléphone portable à moitié chargé. Il reçoit alors un appel de son ravisseur : il a 90 minutes pour réunir cinq millions de dollars...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2010,
+  "durationMinutes": 91,
+  "cast": [
+    {
+      "qid": "Q192682",
+      "slug": "ryan-reynolds",
+      "name": "Ryan Reynolds",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3186366",
+      "slug": "jose-luis-garcia-perez",
+      "name": "José Luis García Pérez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q22981791",
+      "slug": "robert-paterson",
+      "name": "Robert Paterson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q376131",
+      "slug": "stephen-tobolowsky",
+      "name": "Stephen Tobolowsky",
+      "role": "actor"
+    },
+    {
+      "qid": "Q237190",
+      "slug": "samantha-mathis",
+      "name": "Samantha Mathis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11042646",
+      "slug": "ivana-mino",
+      "name": "Ivana Miño",
+      "role": "actor"
+    },
+    {
+      "qid": "Q726165",
+      "slug": "erik-palladino",
+      "name": "Erik Palladino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q437449",
+      "slug": "kali-rocha",
+      "name": "Kali Rocha",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1077865",
+      "slug": "chris-william-martin",
+      "name": "Chris William Martin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3296147",
+      "slug": "mary-birdsong",
+      "name": "Mary Birdsong",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4931184",
+      "slug": "kirk-baily",
+      "name": "Kirk Baily",
+      "role": "actor"
+    },
+    {
+      "qid": "Q461742",
+      "slug": "anne-lockhart",
+      "name": "Anne Lockhart",
+      "role": "actor"
+    },
+    {
+      "qid": "Q794378",
+      "slug": "robert-clotworthy",
+      "name": "Robert Clotworthy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q443044",
+      "slug": "tess-harper",
+      "name": "Tess Harper",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q1887437",
+    "slug": "rodrigo-cortes",
+    "name": "Rodrigo Cortés",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "manon-azem",
+  "name": "Manon Azem",
+  "worksCount": 1,
+  "description": "actrice franco-israélienne",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-10-12",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q3286441",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Manon_Azem",
+    "imdb": "nm2442560",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-routard",
+      "title": "Le Routard"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

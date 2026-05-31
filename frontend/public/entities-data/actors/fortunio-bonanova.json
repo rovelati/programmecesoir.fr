@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "fortunio-bonanova",
+  "name": "Fortunio Bonanova",
+  "worksCount": 1,
+  "description": "actor and opera singer (1895-1969)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fortunio%20Bonanova%20in%20Fiesta%20trailer.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1895-01-13",
+  "nationality": "Espagne",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q1439141",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Fortunio_Bonanova",
+    "imdb": "nm0093769",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "elle-et-lui",
+      "title": "Elle et lui"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3b5a393c-cb73-4b59-8c85-4bc4be080ce6",
+      "title": "Elle et lui",
+      "programSlug": "elle-et-lui",
+      "programUrl": "/programme/cine-classic/elle-et-lui",
+      "channelId": "cine-classic",
+      "channelName": "Ciné+ Classic",
+      "channelSlug": "cine-classic",
+      "startTime": "2026-04-21 04:12:00+00",
+      "endTime": "2026-04-21 05:37:00+00",
+      "date": "2026-04-21"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-21 04:12:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

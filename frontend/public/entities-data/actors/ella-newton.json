@@ -1,0 +1,85 @@
+{
+  "type": "actor",
+  "slug": "ella-newton",
+  "name": "Ella Newton",
+  "worksCount": 1,
+  "description": "actrice australienne",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": "Australie",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q87861754",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ella_Newton",
+    "imdb": "nm8773157",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "dr-harrow",
+      "title": "Dr Harrow"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "905c5329-075d-48d2-82cb-b20632aeb8c1",
+      "title": "Dr Harrow - Saison 3",
+      "programSlug": "dr-harrow-saison-3",
+      "programUrl": "/programme/teva/dr-harrow-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-22 23:05:00+00",
+      "endTime": "2026-04-22 23:50:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "649a3c60-4d2f-491c-8798-f3e109de0536",
+      "title": "Dr Harrow - Saison 3",
+      "programSlug": "dr-harrow-saison-3",
+      "programUrl": "/programme/teva/dr-harrow-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-22 23:50:00+00",
+      "endTime": "2026-04-23 00:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "6b5f9a63-fbb2-4587-ba1f-0c7ca2be9740",
+      "title": "Dr Harrow - Saison 3",
+      "programSlug": "dr-harrow-saison-3",
+      "programUrl": "/programme/teva/dr-harrow-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-25 22:05:00+00",
+      "endTime": "2026-04-25 23:00:00+00",
+      "date": "2026-04-26"
+    },
+    {
+      "id": "8f3d07a9-bd03-46eb-9c40-2d24dba36167",
+      "title": "Dr Harrow - Saison 3",
+      "programSlug": "dr-harrow-saison-3",
+      "programUrl": "/programme/teva/dr-harrow-saison-3",
+      "channelId": "teva",
+      "channelName": "Téva",
+      "channelSlug": "teva",
+      "startTime": "2026-04-25 23:00:00+00",
+      "endTime": "2026-04-25 23:50:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-22 23:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

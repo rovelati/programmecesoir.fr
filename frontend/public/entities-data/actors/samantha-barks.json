@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "samantha-barks",
+  "name": "Samantha Barks",
+  "worksCount": 1,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Samantha%20Barks%20-%20Fendi.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1990-10-02",
+  "nationality": "Île de Man",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q440273",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Samantha_Barks",
+    "imdb": "nm2885819",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "les-miserables",
+      "title": "Les misérables"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

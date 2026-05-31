@@ -1,0 +1,65 @@
+{
+  "type": "actor",
+  "slug": "adam-beach",
+  "name": "Adam Beach",
+  "worksCount": 2,
+  "description": "acteur canadien",
+  "descriptionAi": "Adam Beach incarne avec justesse des personnages complexes, souvent ancrés dans des récits dramatiques ou historiques. Acteur canadien d'origine autochtone, il apporte une profondeur et une authenticité rares à ses rôles, explorant des thématiques sociales et identitaires avec une sensibilité remarquable. Son jeu, à la fois intense et nuancé, captive par sa capacité à traduire les conflits intérieurs et la résilience humaine. Pour découvrir les films et séries qui mettent en lumière son talent unique et son parcours inspirant, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AdamBeach.png",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1972-11-11",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q348755",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Adam_Beach",
+    "imdb": "nm0063440",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "hostiles",
+      "title": "Hostiles"
+    },
+    {
+      "type": "series",
+      "slug": "new-york-unite-speciale",
+      "title": "New York, unité spéciale"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f16e334c-8387-422b-8b9f-2172bd621195",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/canal-grand-ecran/hostiles",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 09:30:00+00",
+      "endTime": "2026-04-20 11:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4dacd68f-e0db-4701-b856-27454c5900bc",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/cine-frisson/hostiles",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:39:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:24:15.873Z",
+  "nextAiringAt": "2026-04-20 09:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

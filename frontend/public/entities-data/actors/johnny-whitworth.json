@@ -1,0 +1,89 @@
+{
+  "type": "actor",
+  "slug": "johnny-whitworth",
+  "name": "Johnny Whitworth",
+  "worksCount": 2,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnny%20Whitworth%20at%20the%20Chiller%20Theatre%20Expo%202017.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1975-10-31",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q2062198",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Johnny_Whitworth",
+    "imdb": "nm0926615",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "sans-limite",
+      "title": "Sans limite"
+    },
+    {
+      "type": "film",
+      "slug": "pathology",
+      "title": "Pathology"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "bbc5860c-c08f-4226-9760-9f6b92c55163",
+      "title": "Sans limite",
+      "programSlug": "sans-limite",
+      "programUrl": "/programme/eurochannel/sans-limite",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-20 15:20:00+00",
+      "endTime": "2026-04-20 17:05:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "5b3f267e-df53-49d5-a5f8-73f58865d771",
+      "title": "Pathology",
+      "programSlug": "pathology",
+      "programUrl": "/programme/gongfr/pathology",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-21 23:10:00+00",
+      "endTime": "2026-04-22 01:15:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "f3226ed2-fd89-4cc7-a29d-83fa72668ffc",
+      "title": "Pathology",
+      "programSlug": "pathology",
+      "programUrl": "/programme/gongfr/pathology",
+      "channelId": "gongfr",
+      "channelName": "Gong.fr",
+      "channelSlug": "gongfr",
+      "startTime": "2026-04-24 23:10:00+00",
+      "endTime": "2026-04-25 01:15:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "7e80775a-9aa1-4760-9e75-a3b0e5a11fa0",
+      "title": "Sans limite",
+      "programSlug": "sans-limite",
+      "programUrl": "/programme/eurochannel/sans-limite",
+      "channelId": "eurochannel",
+      "channelName": "Eurochannel",
+      "channelSlug": "eurochannel",
+      "startTime": "2026-04-26 05:25:00+00",
+      "endTime": "2026-04-26 07:10:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-20 15:20:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

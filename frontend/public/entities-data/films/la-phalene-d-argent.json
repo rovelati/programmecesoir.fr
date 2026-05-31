@@ -1,0 +1,114 @@
+{
+  "type": "film",
+  "slug": "la-phalene-d-argent",
+  "title": "La phalène d'argent",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La phalène d'argent"
+  ],
+  "genres": [
+    "film ou téléfilm d'amour",
+    "drame"
+  ],
+  "description": "Mari modèle et politicien soucieux de sa réputation, Christopher Strong reproche à sa fille d'aimer un homme marié. Son rigorisme s'atténue quelque peu quand il s'éprend lui-même, contre toute attente, d'une demoiselle pleine de caractère et fanatique d'aviation, Cynthia Darrington. Une folle passion unit bientôt ces deux êtres. Mais un tel amour ne peut durer : il compromettrait la carrière de Strong et l'harmonie de sa famille. D'un commun accord, Cynthia et Christopher se séparent. Cupidon, le fripon, les réunit à nouveau. Cette fois, Cynthia tombe enceinte...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christopher%20Strong%20lobby%20card.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "3965fb9b-ab37-4b93-82a1-9d5c8f1c576b",
+      "title": "La phalène d'argent",
+      "programSlug": "la-phalene-d-argent",
+      "programUrl": "/programme/tcm-cinema/la-phalene-d-argent",
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "startTime": "2026-04-23 04:05:00+00",
+      "endTime": "2026-04-23 05:20:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1933,
+  "durationMinutes": 78,
+  "cast": [
+    {
+      "qid": "Q56016",
+      "slug": "katharine-hepburn",
+      "name": "Katharine Hepburn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q445538",
+      "slug": "colin-clive",
+      "name": "Colin Clive",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235639",
+      "slug": "billie-burke",
+      "name": "Billie Burke",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273104",
+      "slug": "helen-chandler",
+      "name": "Helen Chandler",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272061",
+      "slug": "margaret-lindsay",
+      "name": "Margaret Lindsay",
+      "role": "actor"
+    },
+    {
+      "qid": "Q946000",
+      "slug": "irene-browne",
+      "name": "Irene Browne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3157239",
+      "slug": "jack-la-rue",
+      "name": "Jack La Rue",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3418251",
+      "slug": "ralph-forbes",
+      "name": "Ralph Forbes",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q447847",
+    "slug": "dorothy-arzner",
+    "name": "Dorothy Arzner",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 04:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

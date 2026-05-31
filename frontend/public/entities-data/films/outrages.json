@@ -1,0 +1,150 @@
+{
+  "type": "film",
+  "slug": "outrages",
+  "title": "Outrages",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Outrages"
+  ],
+  "genres": [
+    "film et téléfilm de guerre",
+    "film de procès",
+    "drame"
+  ],
+  "description": "1966 au Viêtnam. Eriksson, une jeune recrue, est affecté à l'escadron du commandant Meserve, un homme charismatique mais brutal, à peine plus âgé que lui. Au cours d'une difficile mission de reconnaissance, Meserve sauve Eriksson d'une mort certaine. Hélas, il ne peut rien faire pour l'opérateur radio, tué par les Vietnamiens lors d'une embuscade. Quoique traumatisée, l'équipe est renvoyée immédiatement dans la jungle. Meserve promet à ses hommes de leur \"offrir\" une villageoise. Eriksson assiste, impuissant, au viol et au meurtre d'une jeune Vietnamienne. Taraudé par l'image de la jeune femme, Eriksson finit par dénoncer ses compagnons, malgré leurs menaces...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1989,
+  "durationMinutes": 113,
+  "cast": [
+    {
+      "qid": "Q395274",
+      "slug": "michael-j-fox",
+      "name": "Michael J. Fox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q44221",
+      "slug": "sean-penn",
+      "name": "Sean Penn",
+      "role": "actor"
+    },
+    {
+      "qid": "Q223110",
+      "slug": "john-c-reilly",
+      "name": "John C. Reilly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3526158",
+      "slug": "thuy-thu-le",
+      "name": "Thuy Thu Le",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295233",
+      "slug": "john-leguizamo",
+      "name": "John Leguizamo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q512896",
+      "slug": "erik-king",
+      "name": "Erik King",
+      "role": "actor"
+    },
+    {
+      "qid": "Q310315",
+      "slug": "ving-rhames",
+      "name": "Ving Rhames",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1364747",
+      "slug": "sam-robards",
+      "name": "Sam Robards",
+      "role": "actor"
+    },
+    {
+      "qid": "Q51814",
+      "slug": "dale-dye",
+      "name": "Dale Dye",
+      "role": "actor"
+    },
+    {
+      "qid": "Q127836",
+      "slug": "sherman-howard",
+      "name": "Sherman Howard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1368141",
+      "slug": "holt-mccallany",
+      "name": "Holt McCallany",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235020",
+      "slug": "amy-irving",
+      "name": "Amy Irving",
+      "role": "actor"
+    },
+    {
+      "qid": "Q727730",
+      "slug": "wendell-pierce",
+      "name": "Wendell Pierce",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3016514",
+      "slug": "darren-e-burrows",
+      "name": "Darren E. Burrows",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1239182",
+      "slug": "don-harvey",
+      "name": "Don Harvey",
+      "role": "actor"
+    },
+    {
+      "qid": "Q786106",
+      "slug": "john-marshall-jones",
+      "name": "John Marshall Jones",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q189526",
+    "slug": "brian-de-palma",
+    "name": "Brian De Palma",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

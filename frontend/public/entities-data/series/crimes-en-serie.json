@@ -1,0 +1,121 @@
+{
+  "type": "series",
+  "slug": "crimes-en-serie",
+  "title": "Crimes en série",
+  "airingsCount": 14,
+  "sourceTitles": [
+    "Crimes en série",
+    "Crimes en série - Saison 1"
+  ],
+  "genres": [
+    "Série",
+    "Series"
+  ],
+  "description": "Un grossiste en boucherie vient d'être assassiné. Le meurtrier a signé son forfait en déposant un scarabée dans la main de sa victime. L'enquête est confiée à Thomas Berthier, le seul profileur de la police criminelle. Berthier et ses adjoints disposent d'un matériel très performant, notamment d'un logiciel qui leur permet de dresser le portrait-robot d'un criminel avec très peu de données. Ils établissent rapidement le profil du tueur, mais celui-ci frappe avant qu'ils aient pu l'identifier et l'appréhender. Une course contre la montre débute. Parallèlement, Thomas est confronté à des soucis personnels : l'argent des courses a disparu. Après une rapide enquête domestique, il en vient à soupçonner la gardienne de l'immeuble et sa fille...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 14
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "1413e8ec-fda9-4b25-b1fe-d9e92949b587",
+      "title": "Crimes en série - Saison 1",
+      "programSlug": "crimes-en-serie-saison-1",
+      "programUrl": "/programme/action/crimes-en-serie-saison-1",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-20 03:21:00+00",
+      "endTime": "2026-04-20 05:25:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "11a74ca2-ee31-469b-bc24-a341df5ef0c2",
+      "title": "Crimes en série - Saison 1",
+      "programSlug": "crimes-en-serie-saison-1",
+      "programUrl": "/programme/action/crimes-en-serie-saison-1",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-21 02:56:00+00",
+      "endTime": "2026-04-21 05:40:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "cf7c89f4-c33c-47b9-9b6f-535cfb537af5",
+      "title": "Crimes en série - Saison 1",
+      "programSlug": "crimes-en-serie-saison-1",
+      "programUrl": "/programme/action/crimes-en-serie-saison-1",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-22 03:11:00+00",
+      "endTime": "2026-04-22 04:44:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "9bf79c73-2603-46b9-a2a1-63a570e4adfd",
+      "title": "Crimes en série - Saison 1",
+      "programSlug": "crimes-en-serie-saison-1",
+      "programUrl": "/programme/action/crimes-en-serie-saison-1",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-23 03:54:00+00",
+      "endTime": "2026-04-23 05:57:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "590fb71e-4ef6-4e00-b5e0-4211c4e23f15",
+      "title": "Crimes en série - Saison 1",
+      "programSlug": "crimes-en-serie-saison-1",
+      "programUrl": "/programme/action/crimes-en-serie-saison-1",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-24 03:37:00+00",
+      "endTime": "2026-04-24 06:01:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "c4ad53ab-90ee-497c-8249-3f583dbd7010",
+      "title": "Crimes en série - Saison 1",
+      "programSlug": "crimes-en-serie-saison-1",
+      "programUrl": "/programme/action/crimes-en-serie-saison-1",
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "startTime": "2026-04-25 03:57:00+00",
+      "endTime": "2026-04-25 05:37:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1998,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-20 03:21:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

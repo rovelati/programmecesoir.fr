@@ -1,0 +1,73 @@
+{
+  "type": "actor",
+  "slug": "ayoub-gretaa",
+  "name": "Ayoub Gretaa",
+  "worksCount": 1,
+  "description": "acteur marocain",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1991-12-12",
+  "nationality": "Maroc",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q132824492",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Ayoub_Gretaa",
+    "imdb": "nm13380033",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-mer-au-loin",
+      "title": "La mer au loin"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "67b2a73d-1e1a-45f0-890c-3250bf95bf35",
+      "title": "La mer au loin",
+      "programSlug": "la-mer-au-loin",
+      "programUrl": "/programme/paramount-channel/la-mer-au-loin",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-23 08:05:00+00",
+      "endTime": "2026-04-23 09:55:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "3eafc283-6420-4f65-ba4b-8e881a179525",
+      "title": "La Mer au loin",
+      "programSlug": "la-mer-au-loin",
+      "programUrl": "/programme/canal-cinema/la-mer-au-loin",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-23 08:05:00+00",
+      "endTime": "2026-04-23 09:58:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "aea55a03-500b-4275-bc0f-1b6c8596cb22",
+      "title": "La Mer au loin",
+      "programSlug": "la-mer-au-loin",
+      "programUrl": "/programme/canal/la-mer-au-loin",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-25 01:34:00+00",
+      "endTime": "2026-04-25 03:28:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-23 08:05:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

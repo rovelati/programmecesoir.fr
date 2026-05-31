@@ -1,0 +1,128 @@
+{
+  "type": "film",
+  "slug": "sierra-torride",
+  "title": "Sierra torride",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Sierra torride"
+  ],
+  "genres": [
+    "western",
+    "comédie",
+    "film et téléfilm de guerre"
+  ],
+  "description": "Au Mexique, au XIXe siècle, Hogan, un mercenaire, est fortement surpris lorsqu'il découvre que la femme qu'il vient d'arracher aux griffes de trois gredins est une religieuse. Celle-ci, soeur Sara, est recherchée par l'armée française pour avoir collecté des fonds au profit des partisans mexicains...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Selva%20baja%20caducifolia%2C%20en%20epoca%20de%20invierno%2C%20san%20andres%20de%20la%20cal.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "arte",
+      "channelName": "Arte",
+      "channelSlug": "arte",
+      "channelNumber": 7,
+      "logoUrl": "/loghi/arte.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "rts-un",
+      "channelName": "RTS Un",
+      "channelSlug": "rts-un",
+      "channelNumber": null,
+      "logoUrl": "/loghi/rts-un.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1970,
+  "durationMinutes": 109,
+  "cast": [
+    {
+      "qid": "Q43203",
+      "slug": "clint-eastwood",
+      "name": "Clint Eastwood",
+      "role": "actor"
+    },
+    {
+      "qid": "Q95026",
+      "slug": "shirley-maclaine",
+      "name": "Shirley MacLaine",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2831802",
+      "slug": "alberto-morin",
+      "name": "Alberto Morin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4792834",
+      "slug": "armando-silvestre",
+      "name": "Armando Silvestre",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3082138",
+      "slug": "manuel-fabregas",
+      "name": "Manuel Fábregas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q5379743",
+      "slug": "enrique-lucero",
+      "name": "Enrique Lucero",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2332778",
+      "slug": "ada-carrasco",
+      "name": "Ada Carrasco",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2836100",
+      "slug": "pancho-cordova",
+      "name": "Pancho Córdova",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4532783",
+      "slug": "jose-angel-espinoza",
+      "name": "José Ángel Espinoza",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7367047",
+      "slug": "rosa-furman",
+      "name": "Rosa Furman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3186574",
+      "slug": "jose-torvay",
+      "name": "José Torvay",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q358322",
+    "slug": "don-siegel",
+    "name": "Don Siegel",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

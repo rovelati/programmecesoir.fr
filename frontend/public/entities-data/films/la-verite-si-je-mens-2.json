@@ -1,0 +1,148 @@
+{
+  "type": "film",
+  "slug": "la-verite-si-je-mens-2",
+  "title": "La vérité si je mens ! 2",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "La vérité si je mens ! 2"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Eddie Vuibert, propriétaire d'une entreprise de confection dans le quartier du Sentier, à Paris, coule des jours heureux entre sa femme, Sandra, leurs deux filles et ses amis, Dov, Yvan, Patrick et Serge. Mais les affaires ne sont plus ce qu'elles étaient. Les petites entreprises sont contraintes de trouver de nouveaux débouchés auprès de partenaires puissants pour écouler leur marchandise. Eddie parvient à décrocher un contrat avec Eurodiscount, une chaîne de supermarchés européens, ignorant que le géant de la distribution a des projets douteux. Mis en faillite, Eddie découvre, un peu tard, qu'il est victime d'une énorme escroquerie...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "channelNumber": 18,
+      "logoUrl": "/loghi/gulli.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2001,
+  "durationMinutes": 105,
+  "cast": [
+    {
+      "qid": "Q1886630",
+      "slug": "richard-anconina",
+      "name": "Richard Anconina",
+      "role": "actor"
+    },
+    {
+      "qid": "Q778451",
+      "slug": "jose-garcia",
+      "name": "José Garcia",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2926989",
+      "slug": "bruno-solo",
+      "name": "Bruno Solo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q318991",
+      "slug": "gad-elmaleh",
+      "name": "Gad Elmaleh",
+      "role": "actor"
+    },
+    {
+      "qid": "Q291521",
+      "slug": "aure-atika",
+      "name": "Aure Atika",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1265121",
+      "slug": "gilbert-melki",
+      "name": "Gilbert Melki",
+      "role": "actor"
+    },
+    {
+      "qid": "Q271553",
+      "slug": "amira-casar",
+      "name": "Amira Casar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2965105",
+      "slug": "christian-bujeau",
+      "name": "Christian Bujeau",
+      "role": "actor"
+    },
+    {
+      "qid": "Q965873",
+      "slug": "daniel-prevost",
+      "name": "Daniel Prévost",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2154406",
+      "slug": "elisa-tovati",
+      "name": "Élisa Tovati",
+      "role": "actor"
+    },
+    {
+      "qid": "Q325097",
+      "slug": "enrico-macias",
+      "name": "Enrico Macias",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3063683",
+      "slug": "fabienne-carat",
+      "name": "Fabienne Carat",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3108436",
+      "slug": "gladys-cohen",
+      "name": "Gladys Cohen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15676192",
+      "slug": "isaac-sharry",
+      "name": "Isaac Sharry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3154913",
+      "slug": "isabelle-doval",
+      "name": "Isabelle Doval",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3265597",
+      "slug": "lucien-layani",
+      "name": "Lucien Layani",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3525156",
+    "slug": "thomas-gilou",
+    "name": "Thomas Gilou",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

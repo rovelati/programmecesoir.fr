@@ -1,0 +1,108 @@
+{
+  "type": "series",
+  "slug": "le-monde-de-la-magie",
+  "title": "Le monde de la magie",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Le monde de la magie"
+  ],
+  "genres": [
+    "Série",
+    "Série TV"
+  ],
+  "description": "Vos enfants vont adorer se détendre avec les personnages de Baby TV dans un beau parc avec de la musique classique apaisante.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "channelNumber": null,
+      "logoUrl": "/loghi/babytv.png",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "52af794e-11de-45a3-bd08-24c1a892967e",
+      "title": "Le monde de la magie",
+      "programSlug": "le-monde-de-la-magie",
+      "programUrl": "/programme/babytv/le-monde-de-la-magie",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-22 02:40:00+00",
+      "endTime": "2026-04-22 02:43:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "90b2b2f7-47ad-4293-8f50-f2fbbad0797e",
+      "title": "Le monde de la magie",
+      "programSlug": "le-monde-de-la-magie",
+      "programUrl": "/programme/babytv/le-monde-de-la-magie",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-23 02:40:00+00",
+      "endTime": "2026-04-23 02:43:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "abe5681b-0398-4aa7-86c9-0ac057b96e2f",
+      "title": "Le monde de la magie",
+      "programSlug": "le-monde-de-la-magie",
+      "programUrl": "/programme/babytv/le-monde-de-la-magie",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-24 02:40:00+00",
+      "endTime": "2026-04-24 02:43:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "4d7e8884-9d74-49ed-b3cd-952f885db72c",
+      "title": "Le monde de la magie",
+      "programSlug": "le-monde-de-la-magie",
+      "programUrl": "/programme/babytv/le-monde-de-la-magie",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-25 02:40:00+00",
+      "endTime": "2026-04-25 02:43:00+00",
+      "date": "2026-04-25"
+    },
+    {
+      "id": "93d6e2e5-de46-4e81-bcc0-cd5e422c188e",
+      "title": "Le monde de la magie",
+      "programSlug": "le-monde-de-la-magie",
+      "programUrl": "/programme/babytv/le-monde-de-la-magie",
+      "channelId": "babytv",
+      "channelName": "BabyTV",
+      "channelSlug": "babytv",
+      "startTime": "2026-04-26 02:40:00+00",
+      "endTime": "2026-04-26 03:00:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": null,
+  "numberOfSeasons": null,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-22 02:40:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "series",
+  "slug": "clarence",
+  "title": "Clarence",
+  "airingsCount": 34,
+  "sourceTitles": [
+    "Clarence"
+  ],
+  "genres": [
+    "série télévisée pour la jeunesse",
+    "série télévisée comique",
+    "série télévisée d'aventures",
+    "séries télévisées sur le thème des LGBTI+"
+  ],
+  "description": "Chad et Clarence viennent de réparer le toit de monsieur Noles, qui décide de les payer avec des tickets pour un match de football où ils doivent emmener son fils, Belson. Comme Belson prend les tickets et va dans la loge VIP sans eux, Chad se retrouve obligé d'acheter de moins bonnes places...",
+  "descriptionAi": "Cette série télévisée d'animation pour la jeunesse mêle comique et aventures du quotidien avec une grande douceur. Elle suit Clarence, un enfant optimiste et excentrique, et ses deux meilleurs amis, à travers les défis et les joies simples de l'enfance dans la ville d'Aberdale. Son intérêt réside dans son portrait authentique et humoristique de l'amitié, de la découverte de soi et de la vie de banlieue, le tout servi par une animation colorée et des personnages attachants. Une série rafraîchissante qui célèbre la curiosité et la bienveillance, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cartoon-network.png",
+      "airingsCount": 34
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a6f76cc9-5727-4cd4-baaf-45cfffd7fa51",
+      "title": "Clarence",
+      "programSlug": "clarence",
+      "programUrl": "/programme/cartoon-network/clarence",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 10:45:00+00",
+      "endTime": "2026-04-19 10:55:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "2c2c6a70-00e1-4485-a47f-ee9be937d76a",
+      "title": "Clarence",
+      "programSlug": "clarence",
+      "programUrl": "/programme/cartoon-network/clarence",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 10:55:00+00",
+      "endTime": "2026-04-19 11:05:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "933e7a34-eb9e-4126-a641-03b690fee715",
+      "title": "Clarence",
+      "programSlug": "clarence",
+      "programUrl": "/programme/cartoon-network/clarence",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 11:05:00+00",
+      "endTime": "2026-04-19 11:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "48393795-e603-4675-ab4f-9715f1fa0b09",
+      "title": "Clarence",
+      "programSlug": "clarence",
+      "programUrl": "/programme/cartoon-network/clarence",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 16:55:00+00",
+      "endTime": "2026-04-19 17:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "b386d3d6-82af-433b-bd41-971fc9d1e1ef",
+      "title": "Clarence",
+      "programSlug": "clarence",
+      "programUrl": "/programme/cartoon-network/clarence",
+      "channelId": "cartoon-network",
+      "channelName": "Cartoon Network",
+      "channelSlug": "cartoon-network",
+      "startTime": "2026-04-19 17:10:00+00",
+      "endTime": "2026-04-19 17:20:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T22:43:18.559Z",
+  "startYear": 2014,
+  "numberOfSeasons": 3,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": "2026-04-19 10:45:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

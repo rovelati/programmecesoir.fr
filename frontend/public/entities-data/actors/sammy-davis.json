@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "sammy-davis",
+  "name": "Sammy Davis",
+  "worksCount": 1,
+  "description": "chanteur de swing et crooner, acteur, danseur (1925–1990)",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sammy%20Davis%20Jnr%20Allan%20Warren.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1925-12-08",
+  "nationality": "États-Unis",
+  "jobTitle": "acteur ou actrice de télévision",
+  "externalIds": {
+    "wikidata": "Q297816",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Sammy_Davis_Jr.",
+    "imdb": "nm0002035",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "tap-dance",
+      "title": "Tap Dance"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

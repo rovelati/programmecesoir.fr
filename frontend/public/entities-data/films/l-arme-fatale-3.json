@@ -1,0 +1,160 @@
+{
+  "type": "film",
+  "slug": "l-arme-fatale-3",
+  "title": "L'arme fatale 3",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "L'arme fatale 3"
+  ],
+  "genres": [
+    "film ou téléfilm criminel",
+    "film et téléfilm d'action",
+    "thriller",
+    "buddy movie",
+    "film de copains policiers"
+  ],
+  "description": "Le sergent Roger Murtaugh manque vraiment de chance. A huit jours de son départ en retraite, une légère maladresse, qui se termine par l'explosion d'un immeuble, met ses supérieurs en colère. Murtaugh se retrouve transféré à la circulation. Il est vrai que son éternel complice, Martin Riggs, lui tient compagnie dans le châtiment comme dans la faute. Mais même entre les pots d'échappement, le crime fleurit. Le tandem de choc ne tarde pas à remonter toute la filière d'un trafic d'armes volées dans les locaux de la police. Une belle inspectrice de la police des polices chargée de l'enquête, Lorna Cole, les somme de lui livrer leurs informations...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tf1-series-films",
+      "channelName": "TF1 Séries-Films",
+      "channelSlug": "tf1-series-films",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tf1-series-films.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "club-rtl",
+      "channelName": "Club RTL",
+      "channelSlug": "club-rtl",
+      "channelNumber": null,
+      "logoUrl": "/loghi/club-rtl.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1992,
+  "durationMinutes": 118,
+  "cast": [
+    {
+      "qid": "Q42229",
+      "slug": "mel-gibson",
+      "name": "Mel Gibson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q192165",
+      "slug": "danny-glover",
+      "name": "Danny Glover",
+      "role": "actor"
+    },
+    {
+      "qid": "Q20178",
+      "slug": "joe-pesci",
+      "name": "Joe Pesci",
+      "role": "actor"
+    },
+    {
+      "qid": "Q229612",
+      "slug": "rene-russo",
+      "name": "Rene Russo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1032023",
+      "slug": "stuart-wilson",
+      "name": "Stuart Wilson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q442310",
+      "slug": "mary-ellen-trainor",
+      "name": "Mary Ellen Trainor",
+      "role": "actor"
+    },
+    {
+      "qid": "Q326444",
+      "slug": "mark-pellegrino",
+      "name": "Mark Pellegrino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q510654",
+      "slug": "alan-scarfe",
+      "name": "Alan Scarfe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1388769",
+      "slug": "sven-ole-thorsen",
+      "name": "Sven-Ole Thorsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1387358",
+      "slug": "miguel-a-nunez",
+      "name": "Miguel A. Núñez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q973915",
+      "slug": "stephen-t-kay",
+      "name": "Stephen T. Kay",
+      "role": "actor"
+    },
+    {
+      "qid": "Q376107",
+      "slug": "jan-de-bont",
+      "name": "Jan de Bont",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1447126",
+      "slug": "kenneth-tigar",
+      "name": "Kenneth Tigar",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1677114",
+      "slug": "jack-mcgee",
+      "name": "Jack McGee",
+      "role": "actor"
+    },
+    {
+      "qid": "Q24699898",
+      "slug": "john-cenatiempo",
+      "name": "John Cenatiempo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2693047",
+      "slug": "scott-bryce",
+      "name": "Scott Bryce",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q262130",
+    "slug": "richard-donner",
+    "name": "Richard Donner",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

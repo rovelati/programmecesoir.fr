@@ -1,0 +1,40 @@
+{
+  "type": "actor",
+  "slug": "eric-bana",
+  "name": "Eric Bana",
+  "worksCount": 2,
+  "description": "acteur australien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Bana%20at%20the%202009%20Tribeca%20Film%20Festival.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1968-08-09",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q4440",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Eric_Bana",
+    "imdb": "nm0051509",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "hors-du-temps",
+      "title": "Hors du temps"
+    },
+    {
+      "type": "film",
+      "slug": "hulk",
+      "title": "Hulk"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

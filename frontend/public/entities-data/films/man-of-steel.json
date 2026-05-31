@@ -1,0 +1,188 @@
+{
+  "type": "film",
+  "slug": "man-of-steel",
+  "title": "Man of Steel",
+  "airingsCount": 3,
+  "sourceTitles": [
+    "Man of Steel"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "thriller",
+    "film ou téléfilm de science-fiction",
+    "film de super-héros"
+  ],
+  "description": "Un jeune garçon doté d'une force extraordinaire part à la recherche de ses véritables origines et découvre qu'il est né sur une lointaine planète nommée Krypton. Conscient que son destin est étroitement lié à celui de la Terre, menacé, il utilise ses pouvoirs pour sauver son lieu d'adoption...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zack%20Snyder%2C%20Henry%20Cavill%2C%20Russell%20Crowe%20(3).jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 3
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b1c6640e-5371-434d-a569-01e9fd4211a2",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/canal-grand-ecran/man-of-steel",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-19 12:51:00+00",
+      "endTime": "2026-04-19 15:10:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "58ff2527-6de2-41e5-933b-9240d15074a4",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-20 14:59:00+00",
+      "endTime": "2026-04-20 17:18:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "24919d3f-8d16-45dd-b094-513b5060d653",
+      "title": "Man of Steel",
+      "programSlug": "man-of-steel",
+      "programUrl": "/programme/cine-frisson/man-of-steel",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-23 11:30:00+00",
+      "endTime": "2026-04-23 13:48:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 143,
+  "cast": [
+    {
+      "qid": "Q255070",
+      "slug": "diane-lane",
+      "name": "Diane Lane",
+      "role": "actor"
+    },
+    {
+      "qid": "Q62648",
+      "slug": "antje-traue",
+      "name": "Antje Traue",
+      "role": "actor"
+    },
+    {
+      "qid": "Q380095",
+      "slug": "christopher-meloni",
+      "name": "Christopher Meloni",
+      "role": "actor"
+    },
+    {
+      "qid": "Q295498",
+      "slug": "henry-cavill",
+      "name": "Henry Cavill",
+      "role": "actor"
+    },
+    {
+      "qid": "Q481832",
+      "slug": "amy-adams",
+      "name": "Amy Adams",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41449",
+      "slug": "michael-shannon",
+      "name": "Michael Shannon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q608709",
+      "slug": "harry-lennix",
+      "name": "Harry Lennix",
+      "role": "actor"
+    },
+    {
+      "qid": "Q275967",
+      "slug": "ayelet-zurer",
+      "name": "Ayelet Zurer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q193048",
+      "slug": "laurence-fishburne",
+      "name": "Laurence Fishburne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q129817",
+      "slug": "russell-crowe",
+      "name": "Russell Crowe",
+      "role": "actor"
+    },
+    {
+      "qid": "Q355209",
+      "slug": "richard-schiff",
+      "name": "Richard Schiff",
+      "role": "actor"
+    },
+    {
+      "qid": "Q11930",
+      "slug": "kevin-costner",
+      "name": "Kevin Costner",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228871",
+      "slug": "carla-gugino",
+      "name": "Carla Gugino",
+      "role": "actor"
+    },
+    {
+      "qid": "Q14191093",
+      "slug": "dylan-sprayberry",
+      "name": "Dylan Sprayberry",
+      "role": "actor"
+    },
+    {
+      "qid": "Q719556",
+      "slug": "michael-kelly",
+      "name": "Michael Kelly",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440979",
+      "slug": "tahmoh-penikett",
+      "name": "Tahmoh Penikett",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q139890",
+    "slug": "zack-snyder",
+    "name": "Zack Snyder",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-19 12:51:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

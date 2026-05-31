@@ -1,0 +1,58 @@
+{
+  "type": "actor",
+  "slug": "jason-segel",
+  "name": "Jason Segel",
+  "worksCount": 3,
+  "description": "acteur américain",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jason%20Segel%20at%20Televerse%202025.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1980-01-18",
+  "nationality": "États-Unis",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q202304",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Jason_Segel",
+    "imdb": "nm0781981",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "bad-teacher",
+      "title": "Bad Teacher"
+    },
+    {
+      "type": "film",
+      "slug": "en-cloque-mode-d-emploi",
+      "title": "En cloque, mode d'emploi"
+    },
+    {
+      "type": "film",
+      "slug": "sexe-entre-amis",
+      "title": "Sexe entre amis"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d9c78314-093d-49c7-9b98-a78f5b59a690",
+      "title": "En cloque, mode d'emploi",
+      "programSlug": "en-cloque-mode-d-emploi",
+      "programUrl": "/programme/cine-emotion/en-cloque-mode-d-emploi",
+      "channelId": "cine-emotion",
+      "channelName": "Ciné+ Emotion",
+      "channelSlug": "cine-emotion",
+      "startTime": "2026-04-22 18:50:00+00",
+      "endTime": "2026-04-22 20:59:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-22 18:50:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,119 @@
+{
+  "type": "actor",
+  "slug": "cedric-klapisch",
+  "name": "Cédric Klapisch",
+  "worksCount": 3,
+  "description": "cinéaste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9dric%20Klapisch%202017.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1961-09-04",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q513632",
+    "wikipedia": "https://fr.wikipedia.org/wiki/C%C3%A9dric_Klapisch",
+    "imdb": "nm0458251",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "la-venue-de-l-avenir",
+      "title": "La Venue de l'avenir"
+    },
+    {
+      "type": "film",
+      "slug": "ce-qui-nous-lie",
+      "title": "Ce qui nous lie"
+    },
+    {
+      "type": "film",
+      "slug": "deux-moi",
+      "title": "Deux moi"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "08e5042d-e8cb-49f2-b726-94d6a1d9b78b",
+      "title": "Ce qui nous lie",
+      "programSlug": "ce-qui-nous-lie",
+      "programUrl": "/programme/cine-family/ce-qui-nous-lie",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-19 13:52:00+00",
+      "endTime": "2026-04-19 15:42:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5a04f894-4490-4f04-9d26-7c19d2854a93",
+      "title": "Ce qui nous lie",
+      "programSlug": "ce-qui-nous-lie",
+      "programUrl": "/programme/cine-festival/ce-qui-nous-lie",
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "startTime": "2026-04-20 09:41:00+00",
+      "endTime": "2026-04-20 11:30:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "027bf865-81c6-422e-95b6-3e53da1a6b74",
+      "title": "La Venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/canal/la-venue-de-l-avenir",
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "startTime": "2026-04-21 11:28:00+00",
+      "endTime": "2026-04-21 13:29:00+00",
+      "date": "2026-04-21"
+    },
+    {
+      "id": "e35d2b3a-ab76-4686-8779-9a6479c47000",
+      "title": "Deux moi",
+      "programSlug": "deux-moi",
+      "programUrl": "/programme/canal-grand-ecran/deux-moi",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 01:26:00+00",
+      "endTime": "2026-04-22 03:38:00+00",
+      "date": "2026-04-22"
+    },
+    {
+      "id": "4e6d724f-7056-4d35-a243-100c134594ac",
+      "title": "La venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/paramount-channel/la-venue-de-l-avenir",
+      "channelId": "paramount-channel",
+      "channelName": "Paramount Channel",
+      "channelSlug": "paramount-channel",
+      "startTime": "2026-04-24 13:15:00+00",
+      "endTime": "2026-04-24 15:15:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "81b3811a-de71-4159-aa73-d7844bc0c2b0",
+      "title": "La Venue de l'avenir",
+      "programSlug": "la-venue-de-l-avenir",
+      "programUrl": "/programme/canal-cinema/la-venue-de-l-avenir",
+      "channelId": "canal-cinema",
+      "channelName": "Canal+ Cinema",
+      "channelSlug": "canal-cinema",
+      "startTime": "2026-04-24 13:16:00+00",
+      "endTime": "2026-04-24 15:18:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 13:52:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

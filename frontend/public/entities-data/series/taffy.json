@@ -1,0 +1,46 @@
+{
+  "type": "series",
+  "slug": "taffy",
+  "title": "Taffy",
+  "airingsCount": 25,
+  "sourceTitles": [
+    "Taffy"
+  ],
+  "genres": [
+    "série télévisée comique"
+  ],
+  "description": "La richissime Madame Millesous vit dans un manoir avec son chien adoré, Bentley. Un jour, Scraggs le raton-laveur se présente, déguisé en chat. Adopté d'emblée par la vieille dame, il devient Taffy et se laisse évidemment chouchouter... Mais Bentley, pas dupe, va tout faire pour le chasser de son territoire.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "gulli",
+      "channelName": "Gulli",
+      "channelSlug": "gulli",
+      "channelNumber": 18,
+      "logoUrl": "/loghi/gulli.png",
+      "airingsCount": 25
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2019,
+  "numberOfSeasons": 1,
+  "cast": [],
+  "creator": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

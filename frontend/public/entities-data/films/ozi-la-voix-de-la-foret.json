@@ -1,0 +1,60 @@
+{
+  "type": "film",
+  "slug": "ozi-la-voix-de-la-foret",
+  "title": "Ozi, la voix de la forêt",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Ozi, la voix de la forêt"
+  ],
+  "genres": [
+    "film ou téléfilm familial",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Ozi, une jeune orang-outan, se retrouve malencontreusement séparée de ses parents à la suite d'un feu de forêt. Elle grandit dans une réserve, entourée d'autres animaux devenus ses amis. Mais un jour, guidée par son instinct, elle décide de partir à la recherche de sa famille dans la forêt tropicale...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6e57bc0d-25fd-498a-880c-83bb8b52a0c9",
+      "title": "Ozi, la voix de la forêt",
+      "programSlug": "ozi-la-voix-de-la-foret",
+      "programUrl": "/programme/canal-box-office/ozi-la-voix-de-la-foret",
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "startTime": "2026-04-26 05:38:00+00",
+      "endTime": "2026-04-26 07:03:00+00",
+      "date": "2026-04-26"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 87,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": "2026-04-26 05:38:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

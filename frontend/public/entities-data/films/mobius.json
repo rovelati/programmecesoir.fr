@@ -1,0 +1,114 @@
+{
+  "type": "film",
+  "slug": "mobius",
+  "title": "Möbius",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Möbius"
+  ],
+  "genres": [
+    "film ou téléfilm d'espionnage",
+    "film et téléfilm d'action"
+  ],
+  "description": "Un agent russe est chargé de démêler ce que les activités monégasques d'un puissant oligarque, Rostovski, pourraient avoir de douteux. Les talents d'une surdouée de la finance, que son rôle dans la chute de la banque Lehman Brothers tient éloignée des Etats-Unis, pourraient lui être utiles...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-grand-ecran.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "8ab78a00-24ee-4eea-bc97-466f9b71f774",
+      "title": "Möbius",
+      "programSlug": "mobius",
+      "programUrl": "/programme/canal-grand-ecran/mobius",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-22 17:19:00+00",
+      "endTime": "2026-04-22 19:04:00+00",
+      "date": "2026-04-22"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2013,
+  "durationMinutes": 103,
+  "cast": [
+    {
+      "qid": "Q189422",
+      "slug": "jean-dujardin",
+      "name": "Jean Dujardin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q236157",
+      "slug": "cecile-de-france",
+      "name": "Cécile de France",
+      "role": "actor"
+    },
+    {
+      "qid": "Q203804",
+      "slug": "tim-roth",
+      "name": "Tim Roth",
+      "role": "actor"
+    },
+    {
+      "qid": "Q267356",
+      "slug": "john-lynch",
+      "name": "John Lynch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q259968",
+      "slug": "emilie-dequenne",
+      "name": "Émilie Dequenne",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2834347",
+      "slug": "alexei-gorbounov",
+      "name": "Alexeï Gorbounov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q726105",
+      "slug": "vladimir-menchov",
+      "name": "Vladimir Menchov",
+      "role": "actor"
+    },
+    {
+      "qid": "Q727730",
+      "slug": "wendell-pierce",
+      "name": "Wendell Pierce",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q2636752",
+    "slug": "eric-rochant",
+    "name": "Éric Rochant",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-22 17:19:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

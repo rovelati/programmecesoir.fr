@@ -1,0 +1,151 @@
+{
+  "type": "film",
+  "slug": "les-enquetes-du-departement-v-promesse",
+  "title": "Les enquêtes du département V : Promesse",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Les enquêtes du département V : Promesse"
+  ],
+  "genres": [
+    "adaptation d'un roman au cinéma",
+    "police procedural film",
+    "thriller",
+    "film ou téléfilm criminel"
+  ],
+  "description": "Le détective Carl Mørck envoie Rose, sa jeune collègue, sur l'île danoise isolée de Bornholm pour répondre aux demandes répétées de son ancien collègue Christian Habersaat. Plus tard, Carl, nouvellement fiancé, arrive sur l'île où Rose, Assad et lui se retrouvent mêlés à une vieille affaire concernant une jeune fille retrouvée morte, allongée sur une branche d'arbre. A l'époque, la police avait conclu que la victime; qui circulait à vélo, avait été percutée par un chauffard et projetée à plusieurs mètres de hauteur. Habersaat n'a jamais cru à cette version...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 126,
+  "cast": [
+    {
+      "qid": "Q382210",
+      "slug": "ulrich-thomsen",
+      "name": "Ulrich Thomsen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4980511",
+      "slug": "hedda-stiernstedt",
+      "name": "Hedda Stiernstedt",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4947416",
+      "slug": "helle-fagralid",
+      "name": "Helle Fagralid",
+      "role": "actor"
+    },
+    {
+      "qid": "Q4941851",
+      "slug": "lisa-carlehed",
+      "name": "Lisa Carlehed",
+      "role": "actor"
+    },
+    {
+      "qid": "Q84081",
+      "slug": "s-ren-malling",
+      "name": "Søren Malling",
+      "role": "actor"
+    },
+    {
+      "qid": "Q84084",
+      "slug": "peter-mygind",
+      "name": "Peter Mygind",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40012232",
+      "slug": "joachim-fjelstrup",
+      "name": "Joachim Fjelstrup",
+      "role": "actor"
+    },
+    {
+      "qid": "Q97479212",
+      "slug": "afshin-firouzi",
+      "name": "Afshin Firouzi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q71247037",
+      "slug": "sofie-torp",
+      "name": "Sofie Torp",
+      "role": "actor"
+    },
+    {
+      "qid": "Q969466",
+      "slug": "marina-bouras",
+      "name": "Marina Bouras",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7295091",
+      "slug": "rasmus-bjerg",
+      "name": "Rasmus Bjerg",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12332899",
+      "slug": "rasmus-hammerich",
+      "name": "Rasmus Hammerich",
+      "role": "actor"
+    },
+    {
+      "qid": "Q28498467",
+      "slug": "mads-reuther",
+      "name": "Mads Reuther",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1783323",
+      "slug": "ken-vedsegaard",
+      "name": "Ken Vedsegaard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12316421",
+      "slug": "henrik-noel-olesen",
+      "name": "Henrik Noél Olesen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q12326838",
+      "slug": "mette-lysdahl",
+      "name": "Mette Lysdahl",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q939321",
+    "slug": "ole-christian-madsen",
+    "name": "Ole Christian Madsen",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

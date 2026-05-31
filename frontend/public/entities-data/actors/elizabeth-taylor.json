@@ -1,0 +1,41 @@
+{
+  "type": "actor",
+  "slug": "elizabeth-taylor",
+  "name": "Elizabeth Taylor",
+  "worksCount": 2,
+  "description": "actrice américano-britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Taylor%20with%20Kennedy%20award.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1932-02-27",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q34851",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Elizabeth_Taylor",
+    "imdb": "nm0000072",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "qui-a-peur-de-virginia-woolf",
+      "title": "Qui a peur de Virginia Woolf ?"
+    },
+    {
+      "type": "film",
+      "slug": "la-famille-pierrafeu",
+      "title": "La famille Pierrafeu"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

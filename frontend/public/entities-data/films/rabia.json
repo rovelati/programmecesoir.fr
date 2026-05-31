@@ -1,0 +1,83 @@
+{
+  "type": "film",
+  "slug": "rabia",
+  "title": "Rabia",
+  "airingsCount": 5,
+  "sourceTitles": [
+    "Rabia"
+  ],
+  "genres": [
+    "thriller",
+    "drame"
+  ],
+  "description": "Poussée par les promesses d'une vie meilleure, Rabia, une Française de 19 ans, s'envole avec son amie Laïla pour la Syrie afin d'y rejoindre l'organisation terroriste Daech. Arrivées à Raqqa, elles intègrent une madafa, une maison qui héberge les futures épouses des combattants, et se retrouvent prisonnières de Madame, la charismatique directrice qui tient les lieux d'une main de fer. Rabia ne tarde pas à voir son rêve se transformer en cauchemar. Contrainte d'accepter un mariage arrangé avec un combattant choisi par Madame, la jeune femme regrette sa décision...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-festival",
+      "channelName": "Ciné+ Festival",
+      "channelSlug": "cine-festival",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-festival.png",
+      "airingsCount": 5
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2025,
+  "durationMinutes": 94,
+  "cast": [
+    {
+      "qid": "Q123741726",
+      "slug": "megan-northam",
+      "name": "Megan Northam",
+      "role": "actor"
+    },
+    {
+      "qid": "Q462256",
+      "slug": "lubna-azabal",
+      "name": "Lubna Azabal",
+      "role": "actor"
+    },
+    {
+      "qid": "Q126947500",
+      "slug": "natacha-krief",
+      "name": "Natacha Krief",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1123974",
+      "slug": "lena-lauzemis",
+      "name": "Lena Lauzemis",
+      "role": "actor"
+    },
+    {
+      "qid": "Q110618924",
+      "slug": "andranic-manet",
+      "name": "Andranic Manet",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q131001023",
+    "slug": "mareike-engelhardt",
+    "name": "Mareike Engelhardt",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

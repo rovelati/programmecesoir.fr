@@ -1,0 +1,61 @@
+{
+  "type": "actor",
+  "slug": "mads-ousdal",
+  "name": "Mads Ousdal",
+  "worksCount": 1,
+  "description": "acteur norvégien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mads%20Ousdal%20som%20Peer%20Gynt%202014.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1970-12-08",
+  "nationality": "Norvège",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q6728713",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mads_Ousdal",
+    "imdb": "nm0653626",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "wisting",
+      "title": "Wisting"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "d3802816-1f8d-4532-88c2-680e664b2a7e",
+      "title": "Wisting - Saison 3",
+      "programSlug": "wisting-saison-3",
+      "programUrl": "/programme/polar/wisting-saison-3",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 20:58:00+00",
+      "endTime": "2026-04-19 21:46:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "daca7485-53a4-426d-abb0-8a0d9e0be7e8",
+      "title": "Wisting - Saison 3",
+      "programSlug": "wisting-saison-3",
+      "programUrl": "/programme/polar/wisting-saison-3",
+      "channelId": "polar",
+      "channelName": "Polar+",
+      "channelSlug": "polar",
+      "startTime": "2026-04-19 21:46:00+00",
+      "endTime": "2026-04-19 22:33:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 20:58:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

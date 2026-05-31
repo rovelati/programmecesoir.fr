@@ -1,0 +1,162 @@
+{
+  "type": "film",
+  "slug": "daylight",
+  "title": "Daylight",
+  "airingsCount": 6,
+  "sourceTitles": [
+    "Daylight"
+  ],
+  "genres": [
+    "film et téléfilm d'action",
+    "film ou téléfilm catastrophe"
+  ],
+  "description": "A New York, comme tous les jours, des milliers de personnes empruntent le tunnel qui relie la ville au New Jersey en passant sous l'East River. Une petite bande de malfrats, poursuivie par la police, s'engage à toute allure sur cette route, zigzague entre les voitures et entre en collision avec un convoi transportant des produits toxiques. Un souffle de feu d'une puissance stupéfiante balaie le tunnel. Kit Latura assiste à la catastrophe. Ancien secouriste devenu chauffeur, il semble le seul à pouvoir s'introduire dans cet enfer. Connaissant les lieux, il rejoint un groupe de survivants, sous les décombres, au prix d'efforts surhumains. Mais les eaux de l'East River commencent à s'infiltrer entre les parois, et les explosions se succèdent...",
+  "descriptionAi": "Ce film catastrophe et d'action de 1996 plonge le spectateur dans une course contre la montre des plus angoissantes. L'ambiance, étouffante et claustrophobe, est installée dès l'explosion qui piège des survivants dans un tunnel new-yorkais. L'intérêt réside dans le combat désespéré et les dilemmes humains face au désastre, portés par la figure d'un héros ordinaire, interprété par Sylvester Stallone, qui doit braver le feu, l'eau et les effondrements. Un thriller intense qui maintient la pression jusqu'au bout, à voir sur programmecesoir.fr.",
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "action",
+      "channelName": "Action",
+      "channelSlug": "action",
+      "channelNumber": null,
+      "logoUrl": "/loghi/action.png",
+      "airingsCount": 6
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "4019fc0c-7454-48c5-aed3-e32397b04254",
+      "title": "Daylight",
+      "programSlug": "daylight",
+      "programUrl": "/programme/rtl9/daylight",
+      "channelId": "rtl9",
+      "channelName": "RTL9",
+      "channelSlug": "rtl9",
+      "startTime": "2026-04-25 21:10:00+00",
+      "endTime": "2026-04-25 23:05:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:49:00.864Z",
+  "year": 1996,
+  "durationMinutes": 114,
+  "cast": [
+    {
+      "qid": "Q40026",
+      "slug": "sylvester-stallone",
+      "name": "Sylvester Stallone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q232520",
+      "slug": "amy-brenneman",
+      "name": "Amy Brenneman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q171363",
+      "slug": "viggo-mortensen",
+      "name": "Viggo Mortensen",
+      "role": "actor"
+    },
+    {
+      "qid": "Q724804",
+      "slug": "dan-hedaya",
+      "name": "Dan Hedaya",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1319653",
+      "slug": "jay-o-sanders",
+      "name": "Jay O. Sanders",
+      "role": "actor"
+    },
+    {
+      "qid": "Q274527",
+      "slug": "karen-young",
+      "name": "Karen Young",
+      "role": "actor"
+    },
+    {
+      "qid": "Q235622",
+      "slug": "claire-bloom",
+      "name": "Claire Bloom",
+      "role": "actor"
+    },
+    {
+      "qid": "Q272944",
+      "slug": "danielle-harris",
+      "name": "Danielle Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q705352",
+      "slug": "barry-newman",
+      "name": "Barry Newman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2330114",
+      "slug": "stan-shaw",
+      "name": "Stan Shaw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q440932",
+      "slug": "sage-stallone",
+      "name": "Sage Stallone",
+      "role": "actor"
+    },
+    {
+      "qid": "Q446762",
+      "slug": "colin-fox",
+      "name": "Colin Fox",
+      "role": "actor"
+    },
+    {
+      "qid": "Q6204100",
+      "slug": "jo-anderson",
+      "name": "Jo Anderson",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3181927",
+      "slug": "john-lees",
+      "name": "John Lees",
+      "role": "actor"
+    },
+    {
+      "qid": "Q693301",
+      "slug": "mark-rolston",
+      "name": "Mark Rolston",
+      "role": "actor"
+    },
+    {
+      "qid": "Q374586",
+      "slug": "nestor-serrano",
+      "name": "Nestor Serrano",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q503966",
+    "slug": "rob-cohen",
+    "name": "Rob Cohen",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-25 21:10:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

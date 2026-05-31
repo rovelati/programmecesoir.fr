@@ -1,0 +1,157 @@
+{
+  "type": "film",
+  "slug": "pretty-woman",
+  "title": "Pretty Woman",
+  "airingsCount": 4,
+  "sourceTitles": [
+    "Pretty Woman"
+  ],
+  "genres": [
+    "comédie romantique",
+    "romance"
+  ],
+  "description": "Dans l’effervescence des nuits hollywoodiennes, où les rêves se heurtent souvent à une réalité impitoyable, Vivian Ward (Julia Roberts) arpente les trottoirs de Sunset Boulevard, survivant tant bien que mal dans un monde qui ne lui a guère souri. Son existence bascule le jour où elle croise la route d’Edward Lewis (Richard Gere), un homme d’affaires froid et méthodique, maître dans l’art des fusions et des acquisitions, mais bien moins à l’aise avec les émotions. Alors qu’il cherche simplement une compagne pour l’accompagner à un dîner professionnel, leur rencontre fortuite se transforme en une proposition inattendue : contre une somme alléchante, Vivian accepte de jouer les escortes d’exception pendant une semaine, plongeant malgré elle dans un univers de luxe, de pouvoir et de codes sociaux qu’elle ne maîtrise pas.Si Edward voit d’abord en elle une simple transaction, une parenthèse divertissante dans sa vie ultra-organisée, Vivian, avec son franc-parler et son charme naturel, va peu à peu ébranler ses certitudes. Entre les dîners chic de Beverly Hills, les boutiques de Rodeo Drive où elle défie les vendeuses snobs, et les nuits où leurs conversations deviennent de plus en plus personnelles, une alchimie improbable se dessine. Pourtant, leurs mondes restent diamétralement opposés : lui, prisonnier de sa tour d’ivoire et de ses engagements professionnels, elle, en quête d’une vie meilleure mais terrifiée à l’idée de se perdre dans un rôle qui n’est pas le sien.",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "w9",
+      "channelName": "W9",
+      "channelSlug": "w9",
+      "channelNumber": 9,
+      "logoUrl": "/loghi/w9.png",
+      "airingsCount": 2
+    },
+    {
+      "channelId": "ab3",
+      "channelName": "AB3",
+      "channelSlug": "ab3",
+      "channelNumber": null,
+      "logoUrl": "/loghi/ab3.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 1990,
+  "durationMinutes": 119,
+  "cast": [
+    {
+      "qid": "Q48410",
+      "slug": "richard-gere",
+      "name": "Richard Gere",
+      "role": "actor"
+    },
+    {
+      "qid": "Q40523",
+      "slug": "julia-roberts",
+      "name": "Julia Roberts",
+      "role": "actor"
+    },
+    {
+      "qid": "Q364135",
+      "slug": "ralph-bellamy",
+      "name": "Ralph Bellamy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q311754",
+      "slug": "jason-alexander",
+      "name": "Jason Alexander",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234220",
+      "slug": "laura-san-giacomo",
+      "name": "Laura San Giacomo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q313433",
+      "slug": "hector-elizondo",
+      "name": "Héctor Elizondo",
+      "role": "actor"
+    },
+    {
+      "qid": "Q259703",
+      "slug": "amy-yasbeck",
+      "name": "Amy Yasbeck",
+      "role": "actor"
+    },
+    {
+      "qid": "Q202056",
+      "slug": "hank-azaria",
+      "name": "Hank Azaria",
+      "role": "actor"
+    },
+    {
+      "qid": "Q287835",
+      "slug": "andrea-parker",
+      "name": "Andrea Parker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q456373",
+      "slug": "elinor-donahue",
+      "name": "Elinor Donahue",
+      "role": "actor"
+    },
+    {
+      "qid": "Q943028",
+      "slug": "larry-miller",
+      "name": "Larry Miller",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2641365",
+      "slug": "alex-hyde-white",
+      "name": "Alex Hyde-White",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2652939",
+      "slug": "larry-hankin",
+      "name": "Larry Hankin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q273137",
+      "slug": "dey-young",
+      "name": "Dey Young",
+      "role": "actor"
+    },
+    {
+      "qid": "Q315087",
+      "slug": "garry-marshall",
+      "name": "Garry Marshall",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7436770",
+      "slug": "scott-marshall",
+      "name": "Scott Marshall",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q315087",
+    "slug": "garry-marshall",
+    "name": "Garry Marshall",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

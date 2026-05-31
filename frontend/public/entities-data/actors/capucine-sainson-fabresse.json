@@ -1,0 +1,49 @@
+{
+  "type": "actor",
+  "slug": "capucine-sainson-fabresse",
+  "name": "Capucine Sainson-Fabresse",
+  "worksCount": 1,
+  "description": "actress",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": null,
+  "nationality": null,
+  "jobTitle": "acteur ou actrice de cinéma",
+  "externalIds": {
+    "wikidata": "Q124004065",
+    "wikipedia": null,
+    "imdb": "nm12032367",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mon-chat-et-moi-la-grande-aventure-de-rrou",
+      "title": "Mon chat et moi, la grande aventure de Rroû"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "36dd1f32-6f2d-4cf5-97f8-d4075168273e",
+      "title": "Mon chat et moi, la grande aventure de Rroû",
+      "programSlug": "mon-chat-et-moi-la-grande-aventure-de-rrou",
+      "programUrl": "/programme/cine-family/mon-chat-et-moi-la-grande-aventure-de-rrou",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 02:42:00+00",
+      "endTime": "2026-04-24 04:02:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-24 02:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

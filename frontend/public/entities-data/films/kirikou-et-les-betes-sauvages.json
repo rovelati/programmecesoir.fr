@@ -1,0 +1,65 @@
+{
+  "type": "film",
+  "slug": "kirikou-et-les-betes-sauvages",
+  "title": "Kirikou et les bêtes sauvages",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Kirikou et les bêtes sauvages"
+  ],
+  "genres": [
+    "film et téléfilm de fantasy",
+    "film ou téléfilm pour enfants"
+  ],
+  "description": "L'histoire de Kirikou et de la sorcière n'est qu'une des nombreuses aventures vécues en Afrique par le petit garçon. C'est son grand-père, installé dans la grotte bleue, qui fait le récit des autres exploits de Kirikou. A travers quatre fables, il raconte comment l'inventif garçon est devenu jardinier, détective, potier, marchand, voyageur et médecin. Il raconte aussi pourquoi l'intelligence est la meilleure des armes pour vaincre les difficultés et apporte la preuve que si le gentil Kirikou est le plus petit des héros, il est aussi le plus vaillant...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "b6d3380b-e56e-4fb7-a1ea-d321279b4d1f",
+      "title": "Kirikou et les bêtes sauvages",
+      "programSlug": "kirikou-et-les-betes-sauvages",
+      "programUrl": "/programme/cine-family/kirikou-et-les-betes-sauvages",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-23 03:47:00+00",
+      "endTime": "2026-04-23 05:01:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2005,
+  "durationMinutes": 72,
+  "cast": [],
+  "director": {
+    "qid": "Q1364283",
+    "slug": "michel-ocelot",
+    "name": "Michel Ocelot",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-23 03:47:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

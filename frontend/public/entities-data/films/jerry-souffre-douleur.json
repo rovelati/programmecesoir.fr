@@ -1,0 +1,46 @@
+{
+  "type": "film",
+  "slug": "jerry-souffre-douleur",
+  "title": "Jerry, souffre-douleur",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Jerry, souffre-douleur"
+  ],
+  "genres": [
+    "Film"
+  ],
+  "description": "Une vedette de cinéma meurt dans un accident d'avion. L'équipe qui travaillait pour le bellâtre refuse de se séparer et entreprend de trouver un successeur à la star défunte. Jetant son dévolu sur le premier venu, elle déniche Stanley Belt, un groom d'une timidité maladive qui fait tout de travers...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": null,
+    "license": null,
+    "attribution": null,
+    "kind": null
+  },
+  "channels": [
+    {
+      "channelId": "tcm-cinema",
+      "channelName": "TCM Cinéma",
+      "channelSlug": "tcm-cinema",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tcm-cinema.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": null,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": null,
+  "durationMinutes": null,
+  "cast": [],
+  "director": null,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

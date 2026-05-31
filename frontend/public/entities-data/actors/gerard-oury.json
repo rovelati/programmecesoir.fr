@@ -1,0 +1,53 @@
+{
+  "type": "actor",
+  "slug": "gerard-oury",
+  "name": "Gérard Oury",
+  "worksCount": 2,
+  "description": "cinéaste français",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9rard%20Oury%20Mich%C3%A8le%20Morgan.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1919-04-29",
+  "nationality": "France",
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q470798",
+    "wikipedia": "https://fr.wikipedia.org/wiki/G%C3%A9rard_Oury",
+    "imdb": "nm0653620",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-corniaud",
+      "title": "Le corniaud"
+    },
+    {
+      "type": "film",
+      "slug": "le-coup-du-parapluie",
+      "title": "Le coup du parapluie"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2a0af9de-410d-4954-8056-47c42d1bee64",
+      "title": "Le corniaud",
+      "programSlug": "le-corniaud",
+      "programUrl": "/programme/cine-family/le-corniaud",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-19 15:42:00+00",
+      "endTime": "2026-04-19 17:30:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": "2026-04-19 15:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

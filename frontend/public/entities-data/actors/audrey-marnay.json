@@ -1,0 +1,36 @@
+{
+  "type": "actor",
+  "slug": "audrey-marnay",
+  "name": "Audrey Marnay",
+  "worksCount": 1,
+  "description": "actrice et mannequin française",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Audrey%20Marnay%20Cannes%202013.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1980-10-14",
+  "nationality": "France",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q2870859",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Audrey_Marnay",
+    "imdb": "nm1081826",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "mon-meilleur-ami",
+      "title": "Mon meilleur ami"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

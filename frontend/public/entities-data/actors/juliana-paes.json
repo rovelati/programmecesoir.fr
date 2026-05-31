@@ -1,0 +1,97 @@
+{
+  "type": "actor",
+  "slug": "juliana-paes",
+  "name": "Juliana Paes",
+  "worksCount": 1,
+  "description": "actrice et mannequin brésilienne",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Juliana%20Paes%20nas%20de%20%22Mais%20Uma%20Vez%20Amor%22%2001.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-03-26",
+  "nationality": "Brésil",
+  "jobTitle": "acteur ou actrice",
+  "externalIds": {
+    "wikidata": "Q466954",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Juliana_Paes",
+    "imdb": "nm0655945",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "series",
+      "slug": "le-prix-du-desir",
+      "title": "Le prix du désir"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "a5a52a8d-ec45-4d10-aa0c-9218e4b84007",
+      "title": "Le prix du désir",
+      "programSlug": "le-prix-du-desir",
+      "programUrl": "/programme/ninanovelasfr/le-prix-du-desir",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 09:00:00+00",
+      "endTime": "2026-04-19 09:45:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "5fdc7161-a1e2-442d-a590-c8afd29271b5",
+      "title": "Le prix du désir",
+      "programSlug": "le-prix-du-desir",
+      "programUrl": "/programme/ninanovelasfr/le-prix-du-desir",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 09:45:00+00",
+      "endTime": "2026-04-19 10:30:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "0c3d593a-6a04-4865-a524-17dae7d18cf7",
+      "title": "Le prix du désir",
+      "programSlug": "le-prix-du-desir",
+      "programUrl": "/programme/ninanovelasfr/le-prix-du-desir",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 10:30:00+00",
+      "endTime": "2026-04-19 11:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "d52936e3-ca98-489b-a013-9977ee2a8527",
+      "title": "Le prix du désir",
+      "programSlug": "le-prix-du-desir",
+      "programUrl": "/programme/ninanovelasfr/le-prix-du-desir",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 11:15:00+00",
+      "endTime": "2026-04-19 12:00:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "860df21f-52b1-4a76-bf8e-92353dce4c53",
+      "title": "Le prix du désir",
+      "programSlug": "le-prix-du-desir",
+      "programUrl": "/programme/ninanovelasfr/le-prix-du-desir",
+      "channelId": "ninanovelasfr",
+      "channelName": "NinaNovelas.fr",
+      "channelSlug": "ninanovelasfr",
+      "startTime": "2026-04-19 12:00:00+00",
+      "endTime": "2026-04-19 13:00:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 09:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

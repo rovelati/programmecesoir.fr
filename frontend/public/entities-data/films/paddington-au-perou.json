@@ -1,0 +1,123 @@
+{
+  "type": "film",
+  "slug": "paddington-au-perou",
+  "title": "Paddington au Pérou",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Paddington au Pérou"
+  ],
+  "genres": [
+    "comédie",
+    "film live / animé",
+    "film ou téléfilm familial",
+    "film ou téléfilm d'aventure"
+  ],
+  "description": "Alors qu'il coule des jours heureux auprès des Brown dans le paisible quartier londonien de Windsor Gardens, Paddington reçoit une lettre troublante qui vient briser sa quiétude. La Maison des ours retraités, située au Pérou, l'informe que sa tante Lucy, pensionnaire de l'établissement, se comporte d'une manière étrange. Ni une ni deux, Paddington décide immédiatement de prendre un vol pour le Pérou, accompagné par la famille Brown. A leur arrivée, les voyageurs apprennent que Lucy a disparu. Ils se lancent aussitôt à sa recherche à travers la forêt amazonienne et jusqu'aux sommets des montagnes du Machu Picchu...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "canal",
+      "channelName": "Canal+",
+      "channelSlug": "canal",
+      "channelNumber": 4,
+      "logoUrl": "/loghi/canal.png",
+      "airingsCount": 1
+    },
+    {
+      "channelId": "canal-box-office",
+      "channelName": "CANAL+ BOX OFFICE",
+      "channelSlug": "canal-box-office",
+      "channelNumber": null,
+      "logoUrl": "/loghi/canal-box-office.png",
+      "airingsCount": 1
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": 106,
+  "cast": [
+    {
+      "qid": "Q155775",
+      "slug": "hugh-bonneville",
+      "name": "Hugh Bonneville",
+      "role": "actor"
+    },
+    {
+      "qid": "Q230308",
+      "slug": "emily-mortimer",
+      "name": "Emily Mortimer",
+      "role": "actor"
+    },
+    {
+      "qid": "Q228747",
+      "slug": "julie-walters",
+      "name": "Julie Walters",
+      "role": "actor"
+    },
+    {
+      "qid": "Q185079",
+      "slug": "jim-broadbent",
+      "name": "Jim Broadbent",
+      "role": "actor"
+    },
+    {
+      "qid": "Q19960315",
+      "slug": "madeleine-harris",
+      "name": "Madeleine Harris",
+      "role": "actor"
+    },
+    {
+      "qid": "Q15639406",
+      "slug": "samuel-joslin",
+      "name": "Samuel Joslin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q7088045",
+      "slug": "olivia-colman",
+      "name": "Olivia Colman",
+      "role": "actor"
+    },
+    {
+      "qid": "Q41548",
+      "slug": "antonio-banderas",
+      "name": "Antonio Banderas",
+      "role": "actor"
+    },
+    {
+      "qid": "Q342617",
+      "slug": "ben-whishaw",
+      "name": "Ben Whishaw",
+      "role": "actor"
+    },
+    {
+      "qid": "Q234798",
+      "slug": "imelda-staunton",
+      "name": "Imelda Staunton",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q5301060",
+    "slug": "dougal-wilson",
+    "name": "Dougal Wilson",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

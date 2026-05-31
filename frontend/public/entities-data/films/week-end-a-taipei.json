@@ -1,0 +1,70 @@
+{
+  "type": "film",
+  "slug": "week-end-a-taipei",
+  "title": "Week-end à Taipei",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "Week-end à Taipei"
+  ],
+  "genres": [
+    "film et téléfilm d'action"
+  ],
+  "description": "John Lawlor est un redoutable agent de la DEA pour qui le travail est la priorité absolue. De l'autre côté du globe, Joey, elle, vit sa vie pied au plancher. Au volant, il n'y a pas meilleur pilote qu'elle. Joey et John se sont rencontrés à Taipei. Leur histoire a été folle, brûlante, passionnée, mais aussi de courte durée. Quinze ans plus tard, le destin les réunit à nouveau dans la capitale taïwanaise. Les émotions longtemps enfouies refont soudain surface. Dans un monde où le danger rôde à chaque coin de rue, seule la passion qui les avait unis autrefois pourra les sauver...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-frisson.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2024,
+  "durationMinutes": null,
+  "cast": [
+    {
+      "qid": "Q722001",
+      "slug": "luke-evans",
+      "name": "Luke Evans",
+      "role": "actor"
+    },
+    {
+      "qid": "Q448052",
+      "slug": "kwai-lun-mei",
+      "name": "Kwai Lun-mei",
+      "role": "actor"
+    },
+    {
+      "qid": "Q317563",
+      "slug": "sung-kang",
+      "name": "Sung Kang",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q5540807",
+    "slug": "george-huang",
+    "name": "George Huang",
+    "role": "director"
+  },
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

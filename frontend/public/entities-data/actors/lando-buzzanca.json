@@ -1,0 +1,54 @@
+{
+  "type": "actor",
+  "slug": "lando-buzzanca",
+  "name": "Lando Buzzanca",
+  "worksCount": 2,
+  "description": "acteur italien",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lando%20Buzzanca%20cropped.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1935-08-24",
+  "nationality": "Italie",
+  "jobTitle": "acteur ou actrice de théâtre",
+  "externalIds": {
+    "wikidata": "Q1041527",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Lando_Buzzanca",
+    "imdb": "nm0125627",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "le-corniaud",
+      "title": "Le corniaud"
+    },
+    {
+      "type": "film",
+      "slug": "seduite-et-abandonnee",
+      "title": "Séduite et abandonnée"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "2a0af9de-410d-4954-8056-47c42d1bee64",
+      "title": "Le corniaud",
+      "programSlug": "le-corniaud",
+      "programUrl": "/programme/cine-family/le-corniaud",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-19 15:42:00+00",
+      "endTime": "2026-04-19 17:30:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "updatedAt": "2026-03-24T22:40:48.786Z",
+  "matchConfidence": 1,
+  "nextAiringAt": "2026-04-19 15:42:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

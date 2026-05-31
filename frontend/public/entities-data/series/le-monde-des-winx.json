@@ -1,0 +1,81 @@
+{
+  "type": "series",
+  "slug": "le-monde-des-winx",
+  "title": "Le monde des Winx",
+  "airingsCount": 20,
+  "sourceTitles": [
+    "Le monde des Winx"
+  ],
+  "genres": [
+    "série d'action",
+    "série télévisée d'aventures",
+    "série télévisée comique",
+    "série télévisée policière",
+    "série télévisée fantastique",
+    "thriller"
+  ],
+  "description": "Grâce à l'imagination de Stella, les Winx parviennent à échapper aux caméras du concours-réalité, et se lancent à la recherche d'Annabelle. Dans la loge de cette dernière, les Winx découvrent l'existence d'un portail magique permettant l'accès à une autre dimension. Révélant leurs nouveaux pouvoirs et se transformant en fées, elles débarquent dans le monde où Annabelle est retenue prisonnière. Les six fées tentent de la mettre à l'abri du danger qui rôde, mais une mystérieuse force magique les en empêchent et les renvoie sur Terre, sans Annabelle...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "channelNumber": null,
+      "logoUrl": "/loghi/tiji.png",
+      "airingsCount": 20
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "6317e7bc-482a-42f5-bd73-fef2dc3d336c",
+      "title": "Le monde des Winx",
+      "programSlug": "le-monde-des-winx",
+      "programUrl": "/programme/tiji/le-monde-des-winx",
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "startTime": "2026-04-19 15:30:00+00",
+      "endTime": "2026-04-19 15:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8b816445-82c5-4980-9639-fcce0d7ccfba",
+      "title": "Le monde des Winx",
+      "programSlug": "le-monde-des-winx",
+      "programUrl": "/programme/tiji/le-monde-des-winx",
+      "channelId": "tiji",
+      "channelName": "TIJI",
+      "channelSlug": "tiji",
+      "startTime": "2026-04-19 15:50:00+00",
+      "endTime": "2026-04-19 16:15:00+00",
+      "date": "2026-04-19"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 2016,
+  "numberOfSeasons": 2,
+  "cast": [],
+  "creator": {
+    "qid": "Q773680",
+    "slug": "iginio-straffi",
+    "name": "Iginio Straffi",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-19 15:30:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

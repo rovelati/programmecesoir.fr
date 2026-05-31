@@ -1,0 +1,45 @@
+{
+  "type": "actor",
+  "slug": "paul-bettany",
+  "name": "Paul Bettany",
+  "worksCount": 3,
+  "description": "acteur britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Bettany%20-%20Los%20Angeles%20Comic%20Con%202025.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1971-05-27",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q242707",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Paul_Bettany",
+    "imdb": "nm0079273",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "un-homme-d-exception",
+      "title": "Un homme d'exception"
+    },
+    {
+      "type": "film",
+      "slug": "da-vinci-code",
+      "title": "Da Vinci Code"
+    },
+    {
+      "type": "film",
+      "slug": "legend",
+      "title": "Legend"
+    }
+  ],
+  "upcomingAirings": [],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "nextAiringAt": null,
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

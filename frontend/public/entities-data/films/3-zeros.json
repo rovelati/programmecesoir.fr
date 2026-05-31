@@ -1,0 +1,161 @@
+{
+  "type": "film",
+  "slug": "3-zeros",
+  "title": "3 zéros",
+  "airingsCount": 2,
+  "sourceTitles": [
+    "3 zéros"
+  ],
+  "genres": [
+    "comédie"
+  ],
+  "description": "Dans la cour de la prison de Fleury-Mérogis, détenus et gardiens s'affrontent au cours d'un match de football. Tibor Kovacs, un jeune Hongrois purgeant une peine qui touche à sa fin, se démarque clairement du reste des joueurs. Véritable passionné du ballon rond, il rêve d'intégrer l'équipe de France. Manu, son compagnon de cellule, est convaincu du don exceptionnel de Tibor. Ainsi, à la veille de leur sortie de prison, les deux hommes décident d'unir leurs destins et d'entamer une brillante carrière sportive : Tibor deviendra le plus grand joueur du monde et Manu son agent. Dès sa libération, celui-ci se rend au Brésil pour y rencontrer une ancienne star du football...",
+  "descriptionAi": null,
+  "image": {
+    "url": null,
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "channelNumber": null,
+      "logoUrl": "/loghi/cine-family.png",
+      "airingsCount": 2
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "7d349440-fe84-4dd9-a53a-0fb4085d663d",
+      "title": "3 zéros",
+      "programSlug": "3-zeros",
+      "programUrl": "/programme/cine-family/3-zeros",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-24 09:41:00+00",
+      "endTime": "2026-04-24 11:17:00+00",
+      "date": "2026-04-24"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "year": 2002,
+  "durationMinutes": 98,
+  "cast": [
+    {
+      "qid": "Q943295",
+      "slug": "samuel-le-bihan",
+      "name": "Samuel Le Bihan",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2942199",
+      "slug": "cathy-lobe",
+      "name": "Cathy Lobé",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3499698",
+      "slug": "stomy-bugsy",
+      "name": "Stomy Bugsy",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1558999",
+      "slug": "gerard-lanvin",
+      "name": "Gérard Lanvin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q2874769",
+      "slug": "axelle-laffont",
+      "name": "Axelle Laffont",
+      "role": "actor"
+    },
+    {
+      "qid": "Q447709",
+      "slug": "firmine-richard",
+      "name": "Firmine Richard",
+      "role": "actor"
+    },
+    {
+      "qid": "Q958831",
+      "slug": "gerard-darmon",
+      "name": "Gérard Darmon",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3141565",
+      "slug": "isabelle-nanty",
+      "name": "Isabelle Nanty",
+      "role": "actor"
+    },
+    {
+      "qid": "Q605817",
+      "slug": "jay-jay-okocha",
+      "name": "Jay-Jay Okocha",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1685859",
+      "slug": "jean-tiberi",
+      "name": "Jean Tiberi",
+      "role": "actor"
+    },
+    {
+      "qid": "Q13494",
+      "slug": "jean-pierre-papin",
+      "name": "Jean-Pierre Papin",
+      "role": "actor"
+    },
+    {
+      "qid": "Q441676",
+      "slug": "lea-drucker",
+      "name": "Léa Drucker",
+      "role": "actor"
+    },
+    {
+      "qid": "Q180326",
+      "slug": "lilian-thuram",
+      "name": "Lilian Thuram",
+      "role": "actor"
+    },
+    {
+      "qid": "Q1713457",
+      "slug": "lorant-deutsch",
+      "name": "Lorànt Deutsch",
+      "role": "actor"
+    },
+    {
+      "qid": "Q314861",
+      "slug": "luis-fernandez",
+      "name": "Luis Fernandez",
+      "role": "actor"
+    },
+    {
+      "qid": "Q3290437",
+      "slug": "mareva-galanter",
+      "name": "Mareva Galanter",
+      "role": "actor"
+    }
+  ],
+  "director": {
+    "qid": "Q3063643",
+    "slug": "fabien-onteniente",
+    "name": "Fabien Onteniente",
+    "role": "director"
+  },
+  "nextAiringAt": "2026-04-24 09:41:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

@@ -1,0 +1,138 @@
+{
+  "type": "series",
+  "slug": "lassie",
+  "title": "Lassie",
+  "airingsCount": 7,
+  "sourceTitles": [
+    "Lassie"
+  ],
+  "genres": [
+    "family television program",
+    "fiction d'aventures"
+  ],
+  "description": "Contraint de partir en hélicoptère pour retrouver une snowboardeuse imprudente partie faire du hors piste, Graham embarque avec lui Zoé et Lassie, alors qu'il avait promis à sa fille de passer du temps avec elle. Si cette mission de sauvetage n'est pas ce à quoi Zoé s'attendait, elle va faire preuve d'un sens inné du devoir, telle une vrai petite ranger, en menant un sauvetage périlleux avec l'aide de Lassie...",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lassie%201960%20cast%20photo.JPG",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "channels": [
+    {
+      "channelId": "teletoon-1",
+      "channelName": "Télétoon +1",
+      "channelSlug": "teletoon-1",
+      "channelNumber": null,
+      "logoUrl": "/loghi/teletoon-1.svg",
+      "airingsCount": 7
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "f0192935-da03-4f66-bebb-596e066f1d4d",
+      "title": "Lassie",
+      "programSlug": "lassie",
+      "programUrl": "/programme/teletoon/lassie",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-22 23:15:00+00",
+      "endTime": "2026-04-22 23:26:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "a39686d2-101b-46a4-8faf-af56f2ea107d",
+      "title": "Lassie",
+      "programSlug": "lassie",
+      "programUrl": "/programme/teletoon/lassie",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 03:00:00+00",
+      "endTime": "2026-04-23 03:22:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "8f6fb5de-1aea-47da-bfc7-2a3b0d872b4d",
+      "title": "Lassie",
+      "programSlug": "lassie",
+      "programUrl": "/programme/teletoon/lassie",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 03:22:00+00",
+      "endTime": "2026-04-23 03:45:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "49a4c4cd-b803-4128-b6f8-8b322060736f",
+      "title": "Lassie",
+      "programSlug": "lassie",
+      "programUrl": "/programme/teletoon/lassie",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 03:45:00+00",
+      "endTime": "2026-04-23 04:07:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "231f2091-173c-4d69-affb-32360f34b5c4",
+      "title": "Lassie",
+      "programSlug": "lassie",
+      "programUrl": "/programme/teletoon/lassie",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 12:00:00+00",
+      "endTime": "2026-04-23 12:23:00+00",
+      "date": "2026-04-23"
+    },
+    {
+      "id": "c4fce38a-261a-4c56-9f8a-b1adba3e2670",
+      "title": "Lassie",
+      "programSlug": "lassie",
+      "programUrl": "/programme/teletoon/lassie",
+      "channelId": "teletoon",
+      "channelName": "TéléToon+",
+      "channelSlug": "teletoon",
+      "startTime": "2026-04-23 12:23:00+00",
+      "endTime": "2026-04-23 12:50:00+00",
+      "date": "2026-04-23"
+    }
+  ],
+  "externalIds": {
+    "wikidata": null,
+    "wikipedia": null,
+    "imdb": null,
+    "tmdb": null
+  },
+  "matchConfidence": 1.35,
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "startYear": 1954,
+  "numberOfSeasons": 19,
+  "cast": [
+    {
+      "qid": "Q716718",
+      "slug": "tommy-rettig",
+      "name": "Tommy Rettig",
+      "role": "actor"
+    },
+    {
+      "qid": "Q522262",
+      "slug": "jan-clayton",
+      "name": "Jan Clayton",
+      "role": "actor"
+    }
+  ],
+  "creator": {
+    "qid": "Q7347434",
+    "slug": "robert-maxwell",
+    "name": "Robert Maxwell",
+    "role": "creator"
+  },
+  "nextAiringAt": "2026-04-22 23:15:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}

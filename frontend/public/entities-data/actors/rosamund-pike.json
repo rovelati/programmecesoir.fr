@@ -1,0 +1,189 @@
+{
+  "type": "actor",
+  "slug": "rosamund-pike",
+  "name": "Rosamund Pike",
+  "worksCount": 5,
+  "description": "actrice britannique",
+  "descriptionAi": null,
+  "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/RosamundPike10TIFF.jpg",
+    "source": "wikidata",
+    "license": null,
+    "attribution": null,
+    "kind": "editorial"
+  },
+  "birthDate": "1979-01-27",
+  "nationality": null,
+  "jobTitle": null,
+  "externalIds": {
+    "wikidata": "Q230004",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Rosamund_Pike",
+    "imdb": "nm0683253",
+    "tmdb": null
+  },
+  "knownFor": [
+    {
+      "type": "film",
+      "slug": "droles-d-oiseaux",
+      "title": "Drôles d'oiseaux"
+    },
+    {
+      "type": "film",
+      "slug": "johnny-english-le-retour",
+      "title": "Johnny English, le retour"
+    },
+    {
+      "type": "film",
+      "slug": "hostiles",
+      "title": "Hostiles"
+    },
+    {
+      "type": "film",
+      "slug": "radioactive",
+      "title": "Radioactive"
+    },
+    {
+      "type": "series",
+      "slug": "le-monde-de-barney",
+      "title": "Le Monde de Barney"
+    }
+  ],
+  "upcomingAirings": [
+    {
+      "id": "752029f4-0f51-4b26-97b1-9e42cde08e43",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 10:00:00+00",
+      "endTime": "2026-04-19 10:15:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "8f169a9c-2ee3-491f-839b-f672393547f6",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 10:15:00+00",
+      "endTime": "2026-04-19 10:25:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "574b3fa9-74a2-4d84-8a23-0e16b0c4e702",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 10:25:00+00",
+      "endTime": "2026-04-19 10:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "66a9bf46-1f48-4111-ae8d-68561a4329bc",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 10:35:00+00",
+      "endTime": "2026-04-19 10:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ebbcdda5-4c45-46fe-bbc9-2b4094a82a31",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 15:10:00+00",
+      "endTime": "2026-04-19 15:20:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "ef6d60c3-541e-418f-aab0-fd3ff8afc967",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 15:20:00+00",
+      "endTime": "2026-04-19 15:35:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "982a2b31-275e-403f-8ec5-09d04fa74820",
+      "title": "Le Monde de Barney",
+      "programSlug": "le-monde-de-barney",
+      "programUrl": "/programme/cartoonito/le-monde-de-barney",
+      "channelId": "cartoonito",
+      "channelName": "Cartoonito",
+      "channelSlug": "cartoonito",
+      "startTime": "2026-04-19 18:40:00+00",
+      "endTime": "2026-04-19 18:50:00+00",
+      "date": "2026-04-19"
+    },
+    {
+      "id": "4bc79017-5001-4151-bd64-bc53e819e4f8",
+      "title": "Johnny English, le retour",
+      "programSlug": "johnny-english-le-retour",
+      "programUrl": "/programme/cine-family/johnny-english-le-retour",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-20 08:16:00+00",
+      "endTime": "2026-04-20 09:55:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "f16e334c-8387-422b-8b9f-2172bd621195",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/canal-grand-ecran/hostiles",
+      "channelId": "canal-grand-ecran",
+      "channelName": "Canal+ Grand Ecran",
+      "channelSlug": "canal-grand-ecran",
+      "startTime": "2026-04-20 09:30:00+00",
+      "endTime": "2026-04-20 11:40:00+00",
+      "date": "2026-04-20"
+    },
+    {
+      "id": "4dacd68f-e0db-4701-b856-27454c5900bc",
+      "title": "Hostiles",
+      "programSlug": "hostiles",
+      "programUrl": "/programme/cine-frisson/hostiles",
+      "channelId": "cine-frisson",
+      "channelName": "Ciné+ Frisson",
+      "channelSlug": "cine-frisson",
+      "startTime": "2026-04-24 11:30:00+00",
+      "endTime": "2026-04-24 13:39:00+00",
+      "date": "2026-04-24"
+    },
+    {
+      "id": "bd82cf28-5189-48a7-b44a-67ed8e2d7fc2",
+      "title": "Johnny English, le retour",
+      "programSlug": "johnny-english-le-retour",
+      "programUrl": "/programme/cine-family/johnny-english-le-retour",
+      "channelId": "cine-family",
+      "channelName": "Ciné+ Family",
+      "channelSlug": "cine-family",
+      "startTime": "2026-04-25 12:39:00+00",
+      "endTime": "2026-04-25 14:17:00+00",
+      "date": "2026-04-25"
+    }
+  ],
+  "updatedAt": "2026-03-23T21:09:40.991Z",
+  "matchConfidence": null,
+  "nextAiringAt": "2026-04-19 10:00:00+00",
+  "lastProgramRefreshAt": "2026-04-19T06:09:29+00:00"
+}
