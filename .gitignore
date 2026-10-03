@@ -11,6 +11,14 @@
 !.env.example
 programmecesoir-c491fade6de8.json
 ssh-pf.bash
+*.token
+.cloudflare-token
+*passwd*
+.new-server-passwd
+*.ssh
+NUOVO-SERVER.ssh
+*.pem
+*.key
 
 # Python
 __pycache__/
