@@ -1,0 +1,507 @@
+---
+export const prerender = false;
+
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import { getProgramBySlug, getChannelSlugFromId, getChannelBySlug, slugify } from '../../../utils/supabase';
+import { formatTimeFR, formatDateFR, durationMinutes, isCurrentlyAiring } from '../../../utils/dates';
+import { findEntityMatch, fetchEntity, shouldLinkEntity, type FilmEntity, type SeriesEntity } from '../../../utils/entities';
+import { getTvStreamUrl } from '../../../utils/tvStreams';
+import { getReplayLabel } from '../../../utils/replay';
+import { getRelatedPrograms } from '../../../utils/relatedPrograms';
+import RelatedPrograms from '../../../components/RelatedPrograms.astro';
+import AdSlot from '../../../components/AdSlot.astro';
+import { ADSENSE_SLOTS } from '../../../utils/adsense';
+import { resolveOgImage, pickSchemaImage, inferProgramSchemaType, durationIsoMinutes } from '../../../utils/seoImage';
+import { isAdultOrJunkChannel, shouldIndexProgram } from '../../../utils/programSeo';
+import { channelSeoName, programPageSeo } from '../../../utils/seoCopy';
+import { isRegionalFrance3 } from '../../../utils/channelUrls';
+
+const { ch, slug: rawSlug } = Astro.params;
+if (!ch || !rawSlug) return new Response(null, { status: 404 });
+
+const programSlug = rawSlug.replace(/\/.*$/, '');
+
+// Consolidate regional France 3 duplicate broadcasts into national France 3
+if (isRegionalFrance3(ch)) {
+  return Astro.redirect(`/programme/france-3/${programSlug}`, 301);
+}
+
+const program = await getProgramBySlug(ch, programSlug);
+
+// A missing or expired programme redirects permanently (301) to the channel schedule page
+// to preserve crawl equity and eliminate 4xx errors on search engines.
+if (!program) {
+  const chRow = await getChannelBySlug(ch);
+  if (chRow) {
+    const targetSlug = getChannelSlugFromId(chRow.channel_id);
+    return Astro.redirect(`/${targetSlug}`, 301);
+  }
+  return Astro.rewrite('/404');
+}
+
+const chSlug = getChannelSlugFromId(program.channel_id);
+const pSlug = slugify(program.title);
+
+if (isRegionalFrance3(chSlug)) {
+  return Astro.redirect(`/programme/france-3/${pSlug}`, 301);
+}
+
+const channelName = channelSeoName(chSlug, program.channels_fr?.name ?? ch);
+const canonical = `https://programmecesoir.fr/programme/${chSlug}/${pSlug}`;
+
+// Consolidate duplicate URLs (wrong channel slug or title slug)
+if (ch !== chSlug || programSlug !== pSlug) {
+  return Astro.redirect(`/programme/${chSlug}/${pSlug}`, 301);
+}
+
+const indexable = shouldIndexProgram(program) && !isAdultOrJunkChannel(chSlug) && !isRegionalFrance3(chSlug);
+const { title: pageTitle, description: pageDescription } = programPageSeo(
+  program.title,
+  channelName,
+  program.description,
+);
+const live = isCurrentlyAiring(program.start_time, program.end_time);
+const startMs = new Date(program.start_time).getTime();
+const nowMs = Date.now();
+const diffMinutes = (startMs - nowMs) / 60000;
+const isLiveOrImminent = diffMinutes <= 10;
+const duration = durationMinutes(program.start_time, program.end_time);
+const dateFormatted = formatDateFR(program.start_time);
+
+const entityMatch = program.genre ? findEntityMatch(program.genre, program.title) : null;
+const entity = entityMatch ? fetchEntity<FilmEntity | SeriesEntity>(entityMatch.type === 'film' ? 'film' : 'series', entityMatch.slug) : null;
+const entityUrl = entityMatch ? `/${entityMatch.type === 'film' ? 'film' : 'serie'}/${entityMatch.slug}` : null;
+const entityCast = entity && 'cast' in entity ? (entity as any).cast ?? [] : [];
+const tvStream = getTvStreamUrl(program.channel_id, channelName);
+const replayLabel = getReplayLabel(chSlug);
+const posterUrl = program.poster_url || (entity && 'image' in entity ? (entity as any).image?.url : null) || null;
+const ogImage = resolveOgImage(posterUrl, program.channels_fr?.logo_url);
+const schemaImage = pickSchemaImage(posterUrl, program.channels_fr?.logo_url) || ogImage;
+const relatedPrograms = await getRelatedPrograms(program, 6);
+const prefetchUrls = relatedPrograms.map(({ channelSlug, programSlug }) => `/programme/${channelSlug}/${programSlug}`);
+
+const workId = `${canonical}#program`;
+const workType = inferProgramSchemaType(program.genre);
+const workEntity: Record<string, unknown> = {
+  '@context': 'https://schema.org',
+  '@type': workType,
+  '@id': workId,
+  name: program.title,
+  description: program.description ?? `${program.title} sur ${channelName}`,
+  url: canonical,
+  inLanguage: 'fr-FR',
+  image: schemaImage,
+  ...(program.genre ? { genre: program.genre } : {}),
+  ...(workType === 'Movie' ? { duration: durationIsoMinutes(duration) } : {}),
+};
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BroadcastEvent',
+    name: `${program.title} sur ${channelName}`,
+    description: program.description ?? `${program.title} sur ${channelName}`,
+    startDate: program.start_time,
+    endDate: program.end_time,
+    isLiveBroadcast: live,
+    inLanguage: 'fr-FR',
+    url: canonical,
+    image: schemaImage,
+    workPerformed: { '@id': workId },
+    publishedOn: {
+      '@type': 'BroadcastService',
+      name: channelName,
+      broadcastDisplayName: channelName,
+      broadcastTimezone: 'Europe/Paris',
+    },
+  },
+  workEntity,
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Accueil', item: 'https://programmecesoir.fr' },
+      { '@type': 'ListItem', position: 2, name: channelName, item: `https://programmecesoir.fr/${chSlug}` },
+      { '@type': 'ListItem', position: 3, name: program.title, item: canonical },
+    ],
+  },
+];
+---
+
+<Layout
+  title={pageTitle}
+  description={pageDescription}
+  canonical={canonical}
+  noindex={!indexable}
+  image={ogImage}
+  ogType="article"
+  prefetchUrls={[`/${chSlug}`, `/ce-soir/${chSlug}`, ...prefetchUrls]}
+  jsonLd={jsonLd}
+>
+  <Header slot="header" />
+
+  <div class="container mx-auto px-3 sm:px-4 py-6 sm:py-8 max-w-4xl">
+    <nav class="mb-6 text-sm text-slate-400" aria-label="Fil d'Ariane">
+      <a href="/" class="hover:text-blue-600 transition-colors">Accueil</a>
+      <span class="mx-2">/</span>
+      <a href={`/${chSlug}`} class="hover:text-blue-600 transition-colors">{channelName}</a>
+      <span class="mx-2">/</span>
+      <span class="text-slate-600">{program.title}</span>
+    </nav>
+
+    <article class="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
+      <div class="p-5 sm:p-8 space-y-5">
+        <div class="flex flex-col sm:flex-row gap-4 items-start">
+          <div class="w-full sm:w-48 sm:h-30 md:w-56 md:h-35 aspect-video sm:aspect-auto rounded-xl overflow-hidden bg-slate-100 border border-slate-200 flex-shrink-0 shadow-2xs">
+            {posterUrl ? (
+              <img
+                src={posterUrl}
+                alt={program.title}
+                width="224"
+                height="140"
+                class="w-full h-full object-cover poster-img"
+                loading="eager"
+                onerror="this.classList.add('hidden'); this.nextElementSibling?.classList.remove('hidden')"
+              />
+            ) : null}
+            <div class:list={['w-full h-full flex items-center justify-center p-2 poster-fallback', posterUrl ? 'hidden' : '']}>
+              {program.channels_fr?.logo_url ? (
+                <img src={program.channels_fr.logo_url} alt="" class="w-10 h-10 object-contain opacity-60" width="40" height="40" />
+              ) : (
+                <span class="text-[10px] font-bold text-slate-400 text-center leading-tight px-1">TV</span>
+              )}
+            </div>
+          </div>
+          <div class="min-w-0 flex-1 space-y-2">
+            <h1 class="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 leading-tight">{program.title}</h1>
+            <div class="flex flex-wrap items-center gap-2">
+              {program.channels_fr?.logo_url && (
+                <img src={program.channels_fr.logo_url} alt={channelName} class="w-7 h-7 object-contain rounded bg-white border border-slate-200 p-0.5" width="28" height="28" />
+              )}
+              <span class="text-sm font-bold text-blue-600">{channelName}</span>
+              {live && (
+                <span class="inline-flex items-center gap-1.5 px-2 py-0.5 bg-red-50 text-red-600 text-[10px] font-bold uppercase rounded-full border border-red-100">
+                  <span class="w-1.5 h-1.5 bg-red-500 rounded-full animate-pulse"></span>
+                  En direct
+                </span>
+              )}
+              {program.genre && (
+                <span class="px-2 py-0.5 bg-slate-100 text-slate-600 text-[11px] font-semibold rounded-full">{program.genre}</span>
+              )}
+            </div>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-3">
+          <div class="bg-slate-50 rounded-xl p-2.5 sm:p-3 text-center">
+            <p class="text-[10px] font-bold uppercase text-slate-400 tracking-wider">Début</p>
+            <p class="text-base sm:text-lg font-black text-slate-900 tabular-nums">{formatTimeFR(program.start_time)}</p>
+          </div>
+          <div class="bg-slate-50 rounded-xl p-2.5 sm:p-3 text-center">
+            <p class="text-[10px] font-bold uppercase text-slate-400 tracking-wider">Fin</p>
+            <p class="text-base sm:text-lg font-black text-slate-900 tabular-nums">{formatTimeFR(program.end_time)}</p>
+          </div>
+          <div class="bg-slate-50 rounded-xl p-2.5 sm:p-3 text-center">
+            <p class="text-[10px] font-bold uppercase text-slate-400 tracking-wider">Durée</p>
+            <p class="text-base sm:text-lg font-black text-slate-900">{duration} min</p>
+          </div>
+          <div class="bg-slate-50 rounded-xl p-2.5 sm:p-3 text-center">
+            <p class="text-[10px] font-bold uppercase text-slate-400 tracking-wider">Date</p>
+            <p class="text-xs sm:text-sm font-bold text-slate-900 capitalize">{dateFormatted}</p>
+          </div>
+        </div>
+
+        {/* Actions: direct ou (calendrier + rappel) */}
+        <div class="space-y-3">
+          {isLiveOrImminent ? (
+            /* 1 seul bouton: Regarder en direct */
+            <div class="flex flex-col sm:flex-row gap-2.5">
+              {tvStream ? (
+                <a
+                  href={tvStream.streamUrl}
+                  target="_blank"
+                  rel="nofollow noopener noreferrer"
+                  class="flex-1 inline-flex items-center justify-center gap-2.5 px-5 py-3.5 bg-blue-600 text-white rounded-2xl font-black text-sm hover:bg-blue-700 transition-all shadow-md hover:shadow-lg"
+                >
+                  <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M6.3 2.841A1.5 1.5 0 004 4.11v11.78a1.5 1.5 0 002.3 1.269l9.344-5.89a1.5 1.5 0 000-2.538L6.3 2.84z" /></svg>
+                  Regarder en direct
+                </a>
+              ) : null}
+              {program.replay_url && (
+                <a
+                  href={program.replay_url}
+                  target="_blank"
+                  rel="nofollow noopener noreferrer"
+                  class="inline-flex items-center justify-center gap-2 px-4 py-3.5 bg-indigo-600 text-white rounded-2xl font-bold text-sm hover:bg-indigo-700 transition-colors"
+                >
+                  {replayLabel}
+                </a>
+              )}
+            </div>
+          ) : (
+            /* 2 boutons: Ajouter au calendrier + M'alerter */
+            <div class="flex flex-col sm:flex-row gap-2.5">
+              <button
+                type="button"
+                id="save-calendar-btn"
+                class="flex-1 inline-flex items-center justify-center gap-2 px-4 py-3 bg-white border-2 border-slate-200 hover:border-blue-400 text-slate-700 rounded-2xl font-bold text-sm transition-all cursor-pointer"
+              >
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
+                <span id="page-cal-label">Ajouter au calendrier</span>
+              </button>
+              <button
+                type="button"
+                id="save-reminder-btn"
+                class="flex-1 inline-flex items-center justify-center gap-2 px-4 py-3 bg-amber-500 hover:bg-amber-600 text-white rounded-2xl font-bold text-sm transition-all shadow-sm cursor-pointer"
+              >
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path><path stroke-linecap="round" stroke-linejoin="round" d="M13.73 21a2 2 0 0 1-3.46 0"></path></svg>
+                <span id="page-remind-label">M'alerter (10 min avant)</span>
+              </button>
+            </div>
+          )}
+          <div id="page-notif-feedback" class="hidden text-xs text-center font-medium text-amber-700 bg-amber-50 border border-amber-200 rounded-xl p-2.5"></div>
+        </div>
+        {tvStream?.provider && isLiveOrImminent && (
+          <p class="text-[11px] text-slate-400 -mt-1">Direct officiel via {tvStream.provider}</p>
+        )}
+
+        <!-- High-Viewability Mid-Content Ad (Directement après les horaires & actions clés) -->
+        <AdSlot
+          slot={ADSENSE_SLOTS.CHANNEL_MID_CONTENT}
+          minHeight={250}
+          eager={true}
+          className="my-5"
+        />
+
+        {program.description && (
+          <div class="prose prose-slate max-w-none">
+            <h2 class="text-base sm:text-lg font-black text-slate-900">Synopsis</h2>
+            <p class="text-slate-600 leading-relaxed text-[15px]">{program.description}</p>
+          </div>
+        )}
+
+        {entityCast.length > 0 && (
+          <div>
+            <h2 class="text-lg font-black text-slate-900 mb-3">Acteurs principaux</h2>
+            <div class="flex flex-wrap gap-2">
+              {entityCast.slice(0, 12).map((person: any) => (
+                shouldLinkEntity('actor', person.slug) ? (
+                  <a href={`/acteur/${person.slug}`} class="rounded-full border border-slate-200 bg-white px-3 py-1.5 text-[13px] font-semibold text-slate-700 hover:border-blue-400 hover:text-blue-600 transition-colors">
+                    {person.name}
+                  </a>
+                ) : (
+                  <span class="rounded-full border border-slate-100 bg-slate-50 px-3 py-1.5 text-[13px] font-medium text-slate-500">
+                    {person.name}
+                  </span>
+                )
+              ))}
+            </div>
+          </div>
+        )}
+
+        {entityUrl && entity && (
+          <a href={entityUrl} class="inline-flex items-center gap-2 px-4 py-2 bg-slate-50 border border-slate-200 rounded-full text-sm font-semibold text-blue-600 hover:bg-blue-50 hover:border-blue-300 transition-colors">
+            Voir la fiche {entityMatch!.type === 'film' ? 'film' : 'série'}
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+          </a>
+        )}
+      </div>
+    </article>
+
+    <!-- Pre-Footer Smart Lazy-Load Ad -->
+    <AdSlot
+      slot={ADSENSE_SLOTS.PRE_FOOTER}
+      minHeight={250}
+      eager={false}
+      className="my-8"
+    />
+
+    <RelatedPrograms
+      suggestions={relatedPrograms}
+      genre={program.genre}
+      currentTime={`${formatTimeFR(program.start_time)} – ${formatTimeFR(program.end_time)}`}
+    />
+
+    <nav class="mt-8 flex flex-col sm:flex-row gap-3 sm:gap-4">
+      <a href={`/${chSlug}`} class="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-slate-200 rounded-full font-semibold text-sm text-slate-700 hover:border-blue-300 transition-all">
+        &larr; Programme {channelName}
+      </a>
+      <a href="/" class="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-slate-200 rounded-full font-semibold text-sm text-slate-700 hover:border-blue-300 transition-all">
+        Tous les programmes ce soir
+      </a>
+    </nav>
+  </div>
+
+  <Footer slot="footer" />
+</Layout>
+
+<script define:vars={{ programTitle: program.title, channelName, startTime: program.start_time, endTime: program.end_time, description: program.description ?? '', canonical, posterUrl, streamUrl: tvStream?.streamUrl || canonical }}>
+  const REMINDERS_KEY = 'pcs_tv_reminders';
+
+  function getReminders() {
+    try {
+      return JSON.parse(localStorage.getItem(REMINDERS_KEY) || '[]');
+    } catch {
+      return [];
+    }
+  }
+
+  function saveReminders(list) {
+    try {
+      localStorage.setItem(REMINDERS_KEY, JSON.stringify(list));
+    } catch {}
+  }
+
+  function hasReminder() {
+    const list = getReminders();
+    return list.some(
+      (r) => r.title === programTitle && r.startTime === startTime
+    );
+  }
+
+  function updateReminderBtn(isActive) {
+    const btn = document.getElementById('save-reminder-btn');
+    const label = document.getElementById('page-remind-label');
+    if (!btn || !label) return;
+    if (isActive) {
+      label.textContent = '✓ Rappel activé';
+      btn.classList.remove('bg-amber-500', 'hover:bg-amber-600', 'text-white');
+      btn.classList.add('bg-emerald-50', 'text-emerald-700', 'border-2', 'border-emerald-500', 'hover:bg-emerald-100');
+    } else {
+      label.textContent = "M'alerter (10 min avant)";
+      btn.classList.remove('bg-emerald-50', 'text-emerald-700', 'border-2', 'border-emerald-500', 'hover:bg-emerald-100');
+      btn.classList.add('bg-amber-500', 'hover:bg-amber-600', 'text-white');
+    }
+  }
+
+  function showNotifFeedback(msg) {
+    const box = document.getElementById('page-notif-feedback');
+    if (!box) return;
+    box.textContent = msg;
+    box.classList.remove('hidden');
+    setTimeout(() => {
+      box.classList.add('hidden');
+    }, 4500);
+  }
+
+  function formatICSDate(date) {
+    const d = new Date(date);
+    const p = (n) => String(n).padStart(2, '0');
+    return `${d.getUTCFullYear()}${p(d.getUTCMonth()+1)}${p(d.getUTCDate())}T${p(d.getUTCHours())}${p(d.getUTCMinutes())}${p(d.getUTCSeconds())}Z`;
+  }
+
+  function escapeICS(text) {
+    return String(text).replace(/\\/g,'\\\\').replace(/;/g,'\\;').replace(/,/g,'\\,').replace(/\n/g,'\\n');
+  }
+
+  function downloadICS() {
+    const uid = `programmecesoir-${Date.now()}@programmecesoir.fr`;
+    const ics = [
+      'BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//ProgrammeCeSoir//FR','CALSCALE:GREGORIAN','METHOD:PUBLISH',
+      'BEGIN:VEVENT',`UID:${uid}`,`DTSTAMP:${formatICSDate(new Date())}`,
+      `DTSTART:${formatICSDate(startTime)}`,`DTEND:${formatICSDate(endTime)}`,
+      `SUMMARY:${escapeICS(`Regarder ${programTitle} sur ${channelName}`)}`,
+      `DESCRIPTION:${escapeICS(description)}\\n\\nDirect / Infos: ${streamUrl}`,
+      `LOCATION:${escapeICS(channelName)}`,`URL:${canonical}`,'STATUS:CONFIRMED',
+      'BEGIN:VALARM','TRIGGER:-PT10M','ACTION:DISPLAY',
+      `DESCRIPTION:${escapeICS(`Rappel : ${programTitle} dans 10 minutes sur ${channelName}`)}`,'END:VALARM','END:VEVENT','END:VCALENDAR'
+    ].join('\r\n');
+    const blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${programTitle.replace(/[^a-z0-9]/gi,'_')}_${channelName.replace(/[^a-z0-9]/gi,'_')}.ics`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  function openGoogleCalendar() {
+    const fmt = (d) => new Date(d).toISOString().replace(/[-:]/g,'').split('.')[0]+'Z';
+    const params = new URLSearchParams({
+      action: 'TEMPLATE',
+      text: `Regarder ${programTitle} sur ${channelName}`,
+      dates: `${fmt(startTime)}/${fmt(endTime)}`,
+      details: `${description}\n\nDirect / Infos: ${streamUrl}`,
+      location: channelName,
+    });
+    window.open(`https://calendar.google.com/calendar/render?${params}`, '_blank');
+  }
+
+  function addToCalendar() {
+    const isChrome = /Chrome\//.test(navigator.userAgent) && !/Edg\/|OPR\/|SamsungBrowser/.test(navigator.userAgent);
+    if (isChrome) openGoogleCalendar();
+    else downloadICS();
+
+    const label = document.getElementById('page-cal-label');
+    const btn = document.getElementById('save-calendar-btn');
+    if (label && btn) {
+      label.textContent = '✓ Ajouté !';
+      btn.classList.add('border-green-500', 'text-green-600');
+      setTimeout(() => {
+        label.textContent = 'Ajouter au calendrier';
+        btn.classList.remove('border-green-500', 'text-green-600');
+      }, 2500);
+    }
+  }
+
+  function toggleReminder() {
+    if (!('Notification' in window)) {
+      showNotifFeedback('Les notifications push ne sont pas supportées sur ce navigateur.');
+      return;
+    }
+
+    if (Notification.permission === 'default') {
+      Notification.requestPermission().then((perm) => {
+        if (perm === 'granted') doAddReminder();
+        else showNotifFeedback('Notifications refusées. Autorisez-les dans les paramètres de votre navigateur.');
+      });
+      return;
+    }
+
+    if (Notification.permission === 'denied') {
+      showNotifFeedback('Notifications bloquées dans votre navigateur.');
+      return;
+    }
+
+    if (hasReminder()) {
+      const list = getReminders().filter(
+        (r) => !(r.title === programTitle && r.startTime === startTime)
+      );
+      saveReminders(list);
+      updateReminderBtn(false);
+      showNotifFeedback('Rappel désactivé.');
+    } else {
+      doAddReminder();
+    }
+  }
+
+  function doAddReminder() {
+    const list = getReminders();
+    const item = {
+      id: String(Date.now()),
+      title: programTitle,
+      startTime: startTime,
+      endTime: endTime,
+      channelName: channelName,
+      streamUrl: streamUrl,
+      poster_url: posterUrl || '',
+      notified10m: false,
+      notifiedStart: false,
+      addedAt: Date.now(),
+    };
+    list.push(item);
+    saveReminders(list);
+    updateReminderBtn(true);
+    showNotifFeedback('✓ Rappel activé ! Vous recevrez une notification 10 min avant le début.');
+  }
+
+  document.getElementById('save-calendar-btn')?.addEventListener('click', addToCalendar);
+  document.getElementById('save-reminder-btn')?.addEventListener('click', toggleReminder);
+
+  // Set initial button state
+  updateReminderBtn(hasReminder());
+</script>

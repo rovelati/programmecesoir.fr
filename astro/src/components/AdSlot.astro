@@ -1,0 +1,115 @@
+---
+/**
+ * AdSlot.astro — Composant Google AdSense optimisé pour Programme Ce Soir
+ *
+ * Optimisations techniques :
+ * - Smart Lazy-Load (IntersectionObserver avec rootMargin 280px) :
+ *   Déclenche adsbygoogle.push({}) uniquement lorsque l'utilisateur approche du slot (~280px).
+ *   Évite les impressions à 0% de viewability en bas de page, hissant l'Active View > 75%
+ *   pour débloquer les enchères programmatiques privées / DSP premium.
+ * - Réserve d'espace anti-CLS (min-height configurable, défaut 250px) pour garantir CLS = 0.
+ * - Option eager={true} pour les emplacements prioritaires proches du 1er écran.
+ * - Étiquetage transparent "Publicité" selon les règles IAB et Google Publisher Policy.
+ */
+import { ADSENSE_CLIENT_ID, ADSENSE_SLOTS } from '../utils/adsense';
+
+export interface Props {
+  slot?: string;
+  format?: 'auto' | 'fluid' | 'rectangle' | 'horizontal';
+  layoutKey?: string;
+  minHeight?: number;
+  className?: string;
+  label?: string;
+  eager?: boolean;
+  inFeedWrapper?: boolean;
+}
+
+const {
+  slot = ADSENSE_SLOTS.IN_FEED_CHANNELS,
+  format = 'auto',
+  layoutKey,
+  minHeight = 250,
+  className = '',
+  label = 'Publicité',
+  eager = false,
+  inFeedWrapper = false,
+} = Astro.props;
+---
+
+<aside
+  class:list={[
+    'pcs-ad-slot rounded-2xl border border-slate-200/80 bg-slate-50/70 p-3 shadow-2xs text-center transition-opacity',
+    inFeedWrapper ? 'my-4' : 'my-6',
+    className,
+  ]}
+  aria-label={label}
+  data-ad-unit={slot}
+>
+  <div class="mb-1.5 flex items-center justify-between px-1">
+    <span class="text-[10px] font-semibold uppercase tracking-widest text-slate-400 select-none">
+      {label}
+    </span>
+  </div>
+  <div
+    class="flex w-full items-center justify-center overflow-hidden rounded-xl bg-white/70"
+    style={`min-height: ${minHeight}px;`}
+  >
+    <ins
+      class="adsbygoogle block w-full mx-auto"
+      style={`display:block;width:100%;min-height:${minHeight}px;`}
+      data-ad-client={ADSENSE_CLIENT_ID}
+      data-ad-slot={slot}
+      data-ad-format={format}
+      data-full-width-responsive="true"
+      data-pcs-eager={eager ? '1' : '0'}
+      {...(layoutKey ? { 'data-ad-layout-key': layoutKey } : {})}
+    ></ins>
+  </div>
+</aside>
+
+<script is:inline>
+  (function () {
+    function pushAd(ins) {
+      if (!ins || ins.dataset.pcsLoaded === '1') return;
+      if (ins.offsetParent === null) return; // Élément non visible / display:none
+      if (ins.closest('#program-overlay')) return; // Ne pas exécuter dans le modal programme
+      ins.dataset.pcsLoaded = '1';
+      try {
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+      } catch (e) {}
+    }
+
+    function initPcsAds() {
+      var nodes = document.querySelectorAll('ins.adsbygoogle:not([data-pcs-bound="1"])');
+      for (var i = 0; i < nodes.length; i++) {
+        var ins = nodes[i];
+        ins.dataset.pcsBound = '1';
+
+        if (ins.dataset.pcsEager === '1' || !('IntersectionObserver' in window)) {
+          pushAd(ins);
+        } else {
+          if (!window.__pcsAdObserver) {
+            window.__pcsAdObserver = new IntersectionObserver(
+              function (entries, obs) {
+                for (var j = 0; j < entries.length; j++) {
+                  if (entries[j].isIntersecting) {
+                    obs.unobserve(entries[j].target);
+                    pushAd(entries[j].target);
+                  }
+                }
+              },
+              { rootMargin: '280px 0px' }
+            );
+          }
+          window.__pcsAdObserver.observe(ins);
+        }
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initPcsAds, { once: true });
+    } else {
+      initPcsAds();
+    }
+  })();
+</script>

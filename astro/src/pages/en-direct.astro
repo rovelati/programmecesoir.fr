@@ -1,0 +1,431 @@
+---
+export const prerender = false;
+
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import ChannelCard from '../components/ChannelCard.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { ADSENSE_SLOTS } from '../utils/adsense';
+import { getChannels, getProgramsForDate, groupProgramsByChannel, getTodayDateFR, getChannelSlugFromId, slugify } from '../utils/supabase';
+import { formatDateLongFR, isCurrentlyAiring } from '../utils/dates';
+import { buildHubPrefetchUrls } from '../utils/speculationRules';
+import { isAdultOrJunkChannel } from '../utils/programSeo';
+import { isRegionalFrance3, getTntNumber } from '../utils/channelUrls';
+
+const today = await getTodayDateFR();
+const todayFormatted = formatDateLongFR();
+const [allChannels, todayPrograms] = await Promise.all([
+  getChannels(),
+  getProgramsForDate(today),
+]);
+const channels = allChannels
+  .filter((c) => {
+    const slug = getChannelSlugFromId(c.channel_id);
+    if (isAdultOrJunkChannel(slug)) return false;
+    if (isRegionalFrance3(slug)) return false;
+    return true;
+  })
+  .sort((a, b) => {
+    const slugA = getChannelSlugFromId(a.channel_id);
+    const slugB = getChannelSlugFromId(b.channel_id);
+    const numA = getTntNumber(a.channel_number, slugA) ?? 999;
+    const numB = getTntNumber(b.channel_number, slugB) ?? 999;
+    return numA - numB;
+  });
+
+const byChannel = groupProgramsByChannel(todayPrograms);
+const channelPrograms = channels.map((channel) => {
+  const programs = byChannel.get(channel.channel_id) ?? [];
+  const livePrograms = programs.filter((p) => isCurrentlyAiring(p.start_time, p.end_time));
+  const upcomingPrograms = programs.filter((p) => new Date(p.start_time).getTime() > Date.now());
+  const displayPrograms = [...livePrograms, ...upcomingPrograms.slice(0, 3)];
+  return { channel, programs: displayPrograms };
+});
+
+const activeChannels = channelPrograms.filter((cp) => cp.programs.length > 0);
+const totalChannelCount = activeChannels.length;
+
+const INITIAL_CHANNEL_LIMIT = 50;
+const initialChannels = activeChannels.slice(0, INITIAL_CHANNEL_LIMIT);
+const remainingChannelCount = Math.max(0, totalChannelCount - INITIAL_CHANNEL_LIMIT);
+
+const prefetchUrls = buildHubPrefetchUrls(activeChannels, getChannelSlugFromId, slugify, 12);
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Programme TV en direct',
+    description: 'Tous les programmes TV en cours de diffusion sur les chaînes TNT françaises.',
+    url: 'https://programmecesoir.fr/en-direct',
+    inLanguage: 'fr-FR',
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Accueil', item: 'https://programmecesoir.fr' },
+      { '@type': 'ListItem', position: 2, name: 'En direct', item: 'https://programmecesoir.fr/en-direct' },
+    ],
+  },
+];
+---
+
+<Layout
+  title="Programme TV en direct maintenant — Direct & En ce moment"
+  description="Programme TV en direct aujourd'hui : découvrez ce qui passe maintenant à la télé sur TF1, France 2, M6, CNews, KTO et toutes les chaînes TNT avec les émissions actuellement à l'antenne."
+  canonical="https://programmecesoir.fr/en-direct"
+  prefetchUrls={prefetchUrls}
+  prerenderUrls={['/', '/demain']}
+  jsonLd={jsonLd}
+>
+  <Header slot="header" activePath="/en-direct" />
+
+  <!-- ── Hero Section ─────────────────────────────────────────────────────── -->
+  <section class="bg-gradient-to-b from-slate-50 to-white border-b border-slate-200/80 py-6 sm:py-9">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center gap-2 mb-2.5">
+        <span class="inline-flex items-center gap-1.5 text-[11px] font-black uppercase tracking-wider text-red-600 bg-red-50 border border-red-200 px-2.5 py-1 rounded-full shadow-xs">
+          <span class="w-2 h-2 bg-red-500 rounded-full animate-pulse inline-block"></span>
+          Actuellement à l'antenne
+        </span>
+      </div>
+      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-slate-950">
+        Programme TV <span class="text-red-600">en direct</span>
+      </h1>
+      <p class="text-slate-600 mt-2.5 text-sm sm:text-base max-w-3xl leading-relaxed">
+        <span class="font-semibold text-slate-800 capitalize">{todayFormatted}</span> &mdash;
+        Que regarder à la télé maintenant ? Découvrez les programmes actuellement en cours de diffusion et les émissions à suivre sur toutes les chaînes TNT.
+      </p>
+
+      <!-- Search & Category Quick-Filter Bar -->
+      <div class="mt-6 pt-4 border-t border-slate-200/60 flex flex-col md:flex-row gap-3 items-stretch md:items-center justify-between">
+        <!-- Live Search Input -->
+        <div class="relative flex-1 max-w-md">
+          <input
+            id="channel-search-input"
+            type="search"
+            placeholder="🔍 Rechercher une chaîne ou un direct..."
+            class="w-full px-4 py-2.5 pl-10 rounded-xl bg-white border border-slate-200 text-slate-900 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-xs placeholder:text-slate-400"
+            aria-label="Rechercher une chaîne ou un direct"
+          />
+          <svg class="w-4 h-4 text-slate-400 absolute left-3.5 top-3.5 pointer-events-none" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+          </svg>
+        </div>
+
+        <!-- Filter Chips -->
+        <div class="flex items-center gap-1.5 overflow-x-auto pb-1 md:pb-0 scrollbar-none text-xs font-semibold" id="category-filter-chips">
+          <button type="button" data-filter="all" class="filter-chip px-3 py-1.5 rounded-lg bg-blue-600 text-white shadow-xs whitespace-nowrap transition-colors cursor-pointer">
+            Toutes (<span id="visible-count">{totalChannelCount}</span>)
+          </button>
+          <button type="button" data-filter="main" class="filter-chip px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 hover:bg-slate-200 whitespace-nowrap transition-colors cursor-pointer">
+            ⭐ Chaînes TNT
+          </button>
+          <button type="button" data-filter="film" class="filter-chip px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 hover:bg-slate-200 whitespace-nowrap transition-colors cursor-pointer">
+            🎬 Films
+          </button>
+          <button type="button" data-filter="serie" class="filter-chip px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 hover:bg-slate-200 whitespace-nowrap transition-colors cursor-pointer">
+            📺 Séries
+          </button>
+          <button type="button" data-filter="sport" class="filter-chip px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 hover:bg-slate-200 whitespace-nowrap transition-colors cursor-pointer">
+            ⚽ Sport
+          </button>
+          <button type="button" data-filter="doku" class="filter-chip px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 hover:bg-slate-200 whitespace-nowrap transition-colors cursor-pointer">
+            🌍 Documentaires
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
+    {initialChannels.length > 0 ? (
+      <section aria-label={`${totalChannelCount} chaînes en direct`} class="mb-10">
+        <h2 class="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 mb-6">Toutes les chaînes en direct</h2>
+        <div id="channels-grid" class="divide-y divide-slate-100 rounded-2xl border border-slate-200 overflow-hidden bg-white shadow-sm">
+          {initialChannels.map(({ channel, programs }, channelIndex) => (
+            <>
+              <ChannelCard
+                channel={channel}
+                programs={programs}
+                viewMode="en-direct"
+                channelIndex={channelIndex}
+                eagerPoster={channelIndex < 8}
+                lazyChannelLogo={channelIndex >= 20}
+              />
+              {channelIndex === 1 && (
+                <div class="px-2 py-1 bg-slate-50/70" data-infeed-container>
+                  <AdSlot
+                    slot={ADSENSE_SLOTS.IN_FEED_CHANNELS}
+                    minHeight={250}
+                    inFeedWrapper={true}
+                    eager={true}
+                    className="border-dashed"
+                  />
+                </div>
+              )}
+              {channelIndex === 6 && (
+                <div class="px-2 py-1 bg-slate-50/70" data-infeed-container>
+                  <AdSlot
+                    slot={ADSENSE_SLOTS.IN_FEED_CHANNELS}
+                    minHeight={250}
+                    inFeedWrapper={true}
+                    eager={false}
+                    className="border-dashed"
+                  />
+                </div>
+              )}
+            </>
+          ))}
+        </div>
+
+        {remainingChannelCount > 0 && (
+          <div id="load-more-container" class="mt-4 text-center">
+            <button
+              id="btn-load-more"
+              type="button"
+              class="w-full py-3.5 px-6 rounded-2xl bg-white border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 text-slate-800 hover:text-blue-600 font-extrabold text-sm shadow-xs transition-all flex items-center justify-center gap-2 cursor-pointer group"
+            >
+              <span class="text-base group-hover:scale-110 transition-transform">📺</span>
+              <span>Afficher toutes les chaînes (+{remainingChannelCount} chaînes)</span>
+            </button>
+          </div>
+        )}
+
+        <!-- No Results Fallback -->
+        <div id="no-search-results" class="hidden text-center py-16 text-slate-500 bg-white rounded-2xl border border-slate-200 mt-4">
+          <p class="text-3xl mb-2">🔍</p>
+          <p class="text-base font-bold text-slate-800">Aucune chaîne ou émission en direct correspondante</p>
+          <p class="text-xs text-slate-500 mt-1">Essayez un autre mot-clé ou réinitialisez les filtres.</p>
+        </div>
+      </section>
+    ) : (
+      <div class="text-center py-16 text-slate-400 bg-white rounded-2xl border border-slate-200">
+        <p class="text-4xl mb-4" aria-hidden="true">📺</p>
+        <p class="text-lg font-semibold">Aucun programme en direct pour le moment.</p>
+        <p class="text-sm mt-1">Veuillez réessayer dans quelques instants.</p>
+      </div>
+    )}
+
+    <!-- Pre-Footer Smart Lazy-Load Ad -->
+    <AdSlot
+      slot={ADSENSE_SLOTS.PRE_FOOTER}
+      minHeight={250}
+      eager={false}
+      className="my-10"
+    />
+
+    <nav class="mt-12 pt-8 border-t border-slate-200" aria-label="Navigation rapide">
+      <div class="flex flex-wrap gap-3">
+        <a href="/" class="inline-flex items-center gap-2 px-4 py-2 bg-white border border-slate-200 rounded-full text-sm font-semibold text-slate-700 hover:border-blue-300 hover:text-blue-600 transition-all shadow-xs">&larr; Programme TV ce soir</a>
+        <a href="/demain" class="inline-flex items-center gap-2 px-4 py-2 bg-white border border-slate-200 rounded-full text-sm font-semibold text-slate-700 hover:border-blue-300 hover:text-blue-600 transition-all shadow-xs">Demain</a>
+        <a href="/film-ce-soir" class="inline-flex items-center gap-2 px-4 py-2 bg-white border border-slate-200 rounded-full text-sm font-semibold text-slate-700 hover:border-blue-300 hover:text-blue-600 transition-all shadow-xs">Films ce soir</a>
+      </div>
+    </nav>
+  </main>
+
+  <Footer slot="footer" />
+</Layout>
+
+<!-- Client-side Live Instant Filter & Progressive Loader Script -->
+<script>
+  (function () {
+    const searchInput = document.getElementById('channel-search-input') as HTMLInputElement | null;
+    const chips = document.querySelectorAll<HTMLButtonElement>('.filter-chip');
+    const grid = document.getElementById('channels-grid');
+    const loadMoreBtn = document.getElementById('btn-load-more');
+    const loadMoreContainer = document.getElementById('load-more-container');
+    const countEl = document.getElementById('visible-count');
+    const noResultsEl = document.getElementById('no-search-results');
+
+    let extraLoaded = false;
+    let extraLoading = false;
+    let activeFilter = 'all';
+    let searchQuery = '';
+
+    const MAIN_TNT_SLUGS = new Set([
+      'tf1', 'france-2', 'france-3', 'canal-plus', 'canal', 'france-5', 'm6', 'arte',
+      'c8', 'w9', 'tmc', 'tfx', 'nrj-12', 'lcp', 'lcp-public-senat', 'france-4',
+      'bfm-tv', 'cnews', 'cstar', 'gulli', 'culturebox', 'tf1-series-films',
+      'la-chaine-lequipe', 'lequipe', '6ter', 'rmc-story', 'rmc-decouverte', 'cherie-25', 'lci', 'franceinfo'
+    ]);
+
+    function createChannelCard(item: any) {
+      const card = document.createElement('div');
+      card.className = 'channel-card-item block group border-b border-slate-100 hover:bg-slate-50/80 transition-colors';
+      card.setAttribute('data-channel-card', '');
+      card.setAttribute('data-channel-name', (item.name || '').toLowerCase());
+      card.setAttribute('data-channel-slug', item.slug);
+      card.setAttribute('data-channel-number', String(item.channelNumber ?? 999));
+      card.setAttribute('data-program-title', (item.prime?.title || '').toLowerCase());
+      card.setAttribute('data-category', item.catGroup || 'autre');
+
+      const prime = item.prime;
+      const tntBadge = item.tntNum != null
+        ? `<span class="inline-flex items-center px-1 py-0.2 rounded text-[9px] font-bold bg-slate-100 text-slate-700 border border-slate-200">TNT ${item.tntNum}</span>`
+        : item.isPaid
+        ? `<span class="inline-flex items-center px-1 py-0.2 rounded text-[9px] font-bold bg-amber-50 text-amber-700 border border-amber-200">Payant</span>`
+        : item.isLocal
+        ? `<span class="inline-flex items-center px-1 py-0.2 rounded text-[9px] font-bold bg-emerald-50 text-emerald-700 border border-emerald-200">TNT Locale</span>`
+        : '';
+
+      const primeBlock = prime && prime.href ? `
+        <a href="${prime.href}" ${prime.overlayAttr ? `data-program='${prime.overlayAttr.replace(/'/g, '&#39;')}'` : ''} class="block cursor-pointer group/prog focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded-lg p-1 -m-1" title="Cliquez pour les détails complets">
+          <div class="flex gap-2.5 sm:gap-3 items-start">
+            ${prime.posterUrl ? `
+              <div class="w-16 h-10 sm:w-20 sm:h-12 flex-shrink-0 rounded-lg overflow-hidden bg-slate-100 border border-slate-200 shadow-2xs block">
+                <img src="${prime.posterUrl}" alt="${prime.title}" width="80" height="48" class="w-full h-full object-cover poster-img" loading="lazy" decoding="async" onerror="this.parentElement.style.display='none'" />
+              </div>
+            ` : ''}
+            <div class="min-w-0 flex-1">
+              <p class="text-[10px] sm:text-[11px] text-slate-500 mb-0.5 flex items-center gap-1.5 flex-wrap">
+                ${prime.live ? `
+                  <span class="inline-flex items-center gap-1 px-1.5 py-0.2 bg-red-50 text-red-600 text-[9px] font-bold uppercase rounded-full border border-red-100 shrink-0">
+                    <span class="w-1.5 h-1.5 bg-red-500 rounded-full animate-pulse"></span> Direct
+                  </span>
+                ` : ''}
+                <span class="tabular-nums font-semibold text-slate-700">${prime.time}</span>
+                ${prime.genre ? `<span class="uppercase tracking-wide font-bold text-slate-400 text-[9px] sm:text-[10px]">${prime.genre}</span>` : ''}
+              </p>
+              <h3 class="text-[13px] sm:text-sm font-extrabold text-slate-900 leading-snug mb-1 group-hover/prog:text-blue-600 transition-colors line-clamp-2">
+                ${prime.title}
+              </h3>
+              <div class="h-[3px] w-full overflow-hidden rounded-full bg-slate-100 mb-1.5">
+                <div class="h-full rounded-full transition-all" style="width:${prime.progress}%;background:${prime.live ? '#ef4444' : '#3b82f6'}"></div>
+              </div>
+              ${item.next ? `
+                <p class="text-[11px] text-slate-400 truncate">
+                  <span class="tabular-nums font-medium text-slate-500">${item.next.time}</span> — <span class="text-slate-600 font-medium">${item.next.title}</span>
+                </p>
+              ` : ''}
+            </div>
+          </div>
+        </a>
+      ` : `<p class="text-xs text-slate-400 italic py-1">Aucun programme disponible pour ce créneau</p>`;
+
+      card.innerHTML = `
+        <div class="grid grid-cols-[76px_1fr] sm:grid-cols-[100px_1fr_24px] gap-3 px-3 py-2.5 sm:px-4 sm:py-3.5 items-start">
+          <a href="${item.channelHref}" class="flex flex-col items-start gap-1 focus:outline-none group/chan" aria-label="Programme ${item.name}">
+            <div class="w-8 h-8 sm:w-9 sm:h-9 flex-shrink-0 flex items-center justify-center overflow-hidden rounded-lg border border-slate-200 bg-white shadow-xs p-1 group-hover/chan:scale-105 transition-transform">
+              <img src="${item.logo}" alt="Logo ${item.name}" width="36" height="36" class="w-full h-full object-contain" loading="lazy" decoding="async" />
+            </div>
+            <div class="min-w-0 w-full">
+              <p class="text-[11px] sm:text-xs font-extrabold text-slate-900 leading-tight truncate group-hover/chan:text-blue-600 transition-colors">${item.name}</p>
+              <div class="flex items-center gap-1 mt-0.5 flex-wrap">${tntBadge}</div>
+            </div>
+          </a>
+          <div class="min-w-0 py-0.5">${primeBlock}</div>
+          <div class="hidden sm:flex items-center justify-center pt-2 text-slate-300 group-hover:text-blue-500 transition-colors">
+            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+          </div>
+        </div>
+      `;
+      return card;
+    }
+
+    async function loadRemainingChannels() {
+      if (extraLoaded || extraLoading) return;
+      extraLoading = true;
+      if (loadMoreBtn) {
+        loadMoreBtn.innerHTML = '<span class="inline-block animate-spin mr-2">⏳</span> Chargement des chaînes...';
+      }
+      try {
+        const res = await fetch('/api/channels-extra.json?mode=en-direct&offset=50');
+        if (res.ok) {
+          const data = await res.json();
+          if (data.items && grid) {
+            data.items.forEach((item: any) => {
+              grid.appendChild(createChannelCard(item));
+            });
+          }
+          extraLoaded = true;
+          if (loadMoreContainer) loadMoreContainer.style.display = 'none';
+        }
+      } catch (e) {
+        console.error('Error loading extra channels', e);
+      } finally {
+        extraLoading = false;
+        applyFilters();
+      }
+    }
+
+    if (loadMoreBtn) {
+      loadMoreBtn.addEventListener('click', loadRemainingChannels);
+    }
+
+    // Auto load on scroll near bottom
+    window.addEventListener('scroll', () => {
+      if (!extraLoaded && !extraLoading && window.innerHeight + window.scrollY >= document.body.offsetHeight - 800) {
+        loadRemainingChannels();
+      }
+    }, { passive: true });
+
+    function applyFilters() {
+      const cards = document.querySelectorAll<HTMLElement>('[data-channel-card]');
+      let visible = 0;
+      cards.forEach(card => {
+        const name = card.getAttribute('data-channel-name') || '';
+        const slug = card.getAttribute('data-channel-slug') || '';
+        const chNum = parseInt(card.getAttribute('data-channel-number') || '999', 10);
+        const title = card.getAttribute('data-program-title') || '';
+        const cat = card.getAttribute('data-category') || '';
+
+        const matchesSearch = !searchQuery ||
+          name.includes(searchQuery) ||
+          slug.includes(searchQuery) ||
+          title.includes(searchQuery) ||
+          (chNum <= 50 && `ch ${chNum}`.includes(searchQuery));
+
+        let matchesCategory = true;
+        if (activeFilter === 'main') {
+          matchesCategory = MAIN_TNT_SLUGS.has(slug) || (chNum >= 1 && chNum <= 27);
+        } else if (activeFilter !== 'all') {
+          matchesCategory = cat === activeFilter;
+        }
+
+        const isVisible = matchesSearch && matchesCategory;
+        card.style.display = isVisible ? '' : 'none';
+        if (isVisible) visible++;
+      });
+
+      const infeedContainers = document.querySelectorAll<HTMLElement>('[data-infeed-container]');
+      infeedContainers.forEach(container => {
+        container.style.display = searchQuery ? 'none' : '';
+      });
+
+      if (countEl) countEl.textContent = String(visible);
+      if (noResultsEl) noResultsEl.classList.toggle('hidden', visible > 0);
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        searchQuery = (e.target as HTMLInputElement).value.toLowerCase().trim();
+        if (searchQuery && !extraLoaded) {
+          loadRemainingChannels();
+        } else {
+          applyFilters();
+        }
+      });
+    }
+
+    chips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        chips.forEach(c => {
+          c.classList.remove('bg-blue-600', 'text-white');
+          c.classList.add('bg-slate-100', 'text-slate-700');
+        });
+        chip.classList.remove('bg-slate-100', 'text-slate-700');
+        chip.classList.add('bg-blue-600', 'text-white');
+
+        activeFilter = chip.getAttribute('data-filter') || 'all';
+        if (activeFilter !== 'all' && activeFilter !== 'main' && !extraLoaded) {
+          loadRemainingChannels();
+        } else {
+          applyFilters();
+        }
+      });
+    });
+  })();
+</script>

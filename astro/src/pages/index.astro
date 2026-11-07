@@ -1,0 +1,583 @@
+---
+export const prerender = true;
+
+import { PRIME_TIME_DESCRIPTION } from '../utils/primeTime';
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import ChannelCard from '../components/ChannelCard.astro';
+import CategoryPills from '../components/CategoryPills.astro';
+import CeSoirPourVous from '../components/CeSoirPourVous.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { ADSENSE_SLOTS } from '../utils/adsense';
+import { getTonightPrograms, getChannelSlugFromId, slugify } from '../utils/supabase';
+import { channelScheduleUrl, isRegionalFrance3, getTntNumber } from '../utils/channelUrls';
+import { resolveProgramPoster } from '../utils/programPoster';
+import { formatDateLongFR } from '../utils/dates';
+import { pickFeaturedProgram } from '../utils/programPick';
+import { buildHubPrefetchUrls } from '../utils/speculationRules';
+import { programAbsoluteUrl, shouldIndexProgram, isAdultOrJunkChannel } from '../utils/programSeo';
+import { homeSeo } from '../utils/seoCopy';
+
+const tonightPrograms = await getTonightPrograms();
+const tonightDate = formatDateLongFR();
+const { title: homeTitle, description: homeDescription } = homeSeo();
+
+const byChannel = new Map<string, typeof tonightPrograms>();
+for (const program of tonightPrograms) {
+  const list = byChannel.get(program.channel_id) ?? [];
+  list.push(program);
+  byChannel.set(program.channel_id, list);
+}
+
+const channels = [...new Map(
+  tonightPrograms.map((program) => [program.channel_id, program.channels_fr]),
+).values()]
+  .filter((channel) => {
+    const slug = getChannelSlugFromId(channel.channel_id);
+    if (isAdultOrJunkChannel(slug)) return false;
+    if (isRegionalFrance3(slug)) return false;
+    return true;
+  })
+  .sort((a, b) => {
+    const slugA = getChannelSlugFromId(a.channel_id);
+    const slugB = getChannelSlugFromId(b.channel_id);
+    const numA = getTntNumber(a.channel_number, slugA) ?? 999;
+    const numB = getTntNumber(b.channel_number, slugB) ?? 999;
+    return numA - numB;
+  });
+
+const channelPrograms = channels.map((channel) => ({
+  channel,
+  programs: byChannel.get(channel.channel_id) ?? [],
+}));
+
+const activeChannels = channelPrograms.filter((cp) => cp.programs.length > 0);
+const totalChannelCount = activeChannels.length;
+
+// Pre-render the top 150 major channels server-side for lightning-fast HTML & SEO
+const INITIAL_CHANNEL_LIMIT = 150;
+const initialChannels = activeChannels.slice(0, INITIAL_CHANNEL_LIMIT);
+const remainingChannelCount = Math.max(0, totalChannelCount - INITIAL_CHANNEL_LIMIT);
+
+let posterCount = 0;
+const initialCards = initialChannels.map(({ channel, programs }, channelIndex) => {
+  const primeProgram = pickFeaturedProgram(programs, 'ce-soir');
+  const hasPoster = Boolean(primeProgram && resolveProgramPoster(primeProgram));
+  const eagerPoster = hasPoster && posterCount < 8;
+  if (hasPoster && eagerPoster) posterCount += 1;
+  return {
+    channel,
+    programs,
+    channelIndex,
+    eagerPoster: hasPoster ? eagerPoster : false,
+    lazyChannelLogo: channelIndex >= 20,
+    primeProgram,
+  };
+});
+
+const prefetchUrls = buildHubPrefetchUrls(activeChannels, getChannelSlugFromId, slugify, 12);
+
+const eveningPicks = initialCards
+  .filter(({ primeProgram }) => primeProgram && shouldIndexProgram(primeProgram) && resolveProgramPoster(primeProgram))
+  .slice(0, 6)
+  .map(({ channel, primeProgram }) => ({ channel, program: primeProgram! }));
+
+const programListJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Programmes TV ce soir',
+  numberOfItems: initialCards.length,
+  itemListElement: initialCards.flatMap((card, index) => {
+    const prog = card.primeProgram;
+    if (!prog) return [];
+    const chSlug = getChannelSlugFromId(card.channel.channel_id);
+    return [{
+      '@type': 'ListItem',
+      position: index + 1,
+      item: {
+        '@type': 'BroadcastEvent',
+        name: prog.title,
+        startDate: prog.start_time,
+        endDate: prog.end_time,
+        url: shouldIndexProgram(prog)
+          ? programAbsoluteUrl(chSlug, prog.title)
+          : channelScheduleUrl('ce-soir', chSlug),
+        ...(prog.description ? { description: prog.description.substring(0, 200) } : {}),
+        location: {
+          '@type': 'BroadcastService',
+          name: card.channel.name,
+          url: `https://programmecesoir.fr/ce-soir/${chSlug}`,
+        },
+      },
+    }];
+  }),
+};
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': 'https://programmecesoir.fr/#website',
+    url: 'https://programmecesoir.fr',
+    name: 'Programme Ce Soir',
+    alternateName: 'Programme TV TNT Ce Soir',
+    description: 'Guide TV TNT : programme ce soir, en direct et demain sur toutes les chaînes françaises',
+    inLanguage: 'fr-FR',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: 'https://programmecesoir.fr/recherche?qs={search_term_string}',
+      },
+      'query-input': 'required name=search_term_string',
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': 'https://programmecesoir.fr/#organization',
+    name: 'Programme Ce Soir',
+    url: 'https://programmecesoir.fr',
+    logo: {
+      '@type': 'ImageObject',
+      url: 'https://programmecesoir.fr/apple-touch-icon.png',
+      width: 180,
+      height: 180,
+    },
+    sameAs: [
+      'https://www.wikidata.org/wiki/Q138768630',
+      'https://bsky.app/profile/programmecesoir.bsky.social',
+      'https://www.trustpilot.com/review/programmecesoir.fr',
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Programme TNT ce soir',
+    description: 'Liste des programmes TNT diffusés ce soir sur les chaînes françaises.',
+    url: 'https://programmecesoir.fr',
+    inLanguage: 'fr-FR',
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Accueil', item: 'https://programmecesoir.fr' },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: 'Que passe-t-il ce soir à la télévision ?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Retrouvez le programme TV ce soir et ce qu’il y a à la télé ce soir sur programmecesoir.fr : films, séries, documentaires et émissions sur TF1, France 2, M6, Arte et toutes les chaînes TNT.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'Quel film passe ce soir à la télé ?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Consultez notre sélection de films ce soir sur toutes les chaînes TNT françaises avec horaires, synopsis et chaînes sur programmecesoir.fr.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'Quelles séries sont diffusées ce soir ?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Découvrez toutes les séries diffusées ce soir sur la TNT, avec les horaires et chaînes, sur programmecesoir.fr/series-ce-soir.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'Comment voir le programme TV de demain ?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Le programme TV de demain est disponible sur programmecesoir.fr/demain avec tous les horaires et chaînes TNT.',
+        },
+      },
+    ],
+  },
+  programListJsonLd,
+];
+---
+
+<Layout
+  title={homeTitle}
+  description={homeDescription}
+  canonical="https://programmecesoir.fr/"
+  prefetchUrls={prefetchUrls}
+  prerenderUrls={['/en-direct', '/demain', '/recommandes']}
+  jsonLd={jsonLd}
+>
+  <Header slot="header" activePath="/" />
+
+  <!-- ── Hero Section ─────────────────────────────────────────────────────── -->
+  <section class="bg-gradient-to-b from-slate-50 to-white border-b border-slate-200/80 py-6 sm:py-9">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center gap-2 mb-2.5">
+        <span class="inline-flex items-center gap-1.5 text-[11px] font-black uppercase tracking-wider text-rose-600 bg-rose-50 border border-rose-200 px-2.5 py-1 rounded-full shadow-xs">
+          <span class="w-2 h-2 bg-rose-500 rounded-full animate-pulse inline-block"></span>
+          Direct & Prime Time 21:10
+        </span>
+      </div>
+      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-slate-950">
+        Programme TV <span class="text-blue-600">ce soir</span> & 21h10
+      </h1>
+      <p class="text-slate-600 mt-2.5 text-sm sm:text-base max-w-3xl leading-relaxed">
+        <span class="font-semibold text-slate-800 capitalize" data-live-date>{tonightDate}</span> &mdash; Que regarder à la télé ce soir ?
+        {PRIME_TIME_DESCRIPTION}
+      </p>
+
+      <!-- Search & Category Quick-Filter Bar -->
+      <div class="mt-6 pt-4 border-t border-slate-200/60 flex flex-col md:flex-row gap-3 items-stretch md:items-center justify-between">
+        <!-- Live Search Input -->
+        <div class="relative flex-1 max-w-md">
+          <input
+            id="channel-search-input"
+            type="search"
+            placeholder="🔍 Rechercher une chaîne ou un programme (ex. TF1, Koh-Lanta)..."
+            class="w-full px-4 py-2.5 pl-10 rounded-xl bg-white border border-slate-200 text-slate-900 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-xs placeholder:text-slate-400"
+            aria-label="Rechercher une chaîne ou un programme"
+          />
+          <svg class="w-4 h-4 text-slate-400 absolute left-3.5 top-3.5 pointer-events-none" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+          </svg>
+        </div>
+
+        <!-- Category Navigation Pills -->
+        <CategoryPills activePath="/" />
+      </div>
+
+      <!-- Direct & Live TV Quick Links -->
+      <div class="mt-4 pt-3 border-t border-slate-200/60 flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none text-xs" aria-label="Chaînes en direct live">
+        <span class="inline-flex items-center gap-1.5 font-bold text-slate-700 shrink-0">
+          <span class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
+          En direct live :
+        </span>
+        <a href="/en-direct/tf1" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">TF1 en direct</a>
+        <a href="/en-direct/france-2" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">France 2 en direct</a>
+        <a href="/en-direct/france-3" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">France 3 en direct</a>
+        <a href="/en-direct/m6" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">M6 en direct</a>
+        <a href="/en-direct/cnews" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">CNews en direct</a>
+        <a href="/en-direct/kto" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">KTO en direct</a>
+        <a href="/en-direct/bein-sports-1" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">beIN SPORTS en direct</a>
+        <a href="/en-direct" class="shrink-0 px-2.5 py-1 rounded-lg bg-red-50 border border-red-200 text-red-700 font-bold hover:bg-red-100 transition-colors">Toutes les chaînes &rarr;</a>
+      </div>
+    </div>
+  </section>
+
+  <main id="main-content" class="max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
+
+    <!-- Liste des Chaînes en Lignes (Full-Width Rows) -->
+    {initialCards.length > 0 ? (
+      <section aria-label={`${totalChannelCount} chaînes avec programmes ce soir`} class="mb-10">
+        <h2 class="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 mb-6">Grille des programmes TV ce soir</h2>
+        <div id="channels-grid" class="divide-y divide-slate-100 rounded-2xl border border-slate-200 overflow-hidden bg-white shadow-sm">
+          {initialCards.map(({ channel, programs, channelIndex, eagerPoster, lazyChannelLogo }, idx) => (
+            <>
+              <ChannelCard
+                channel={channel}
+                programs={programs}
+                viewMode="ce-soir"
+                channelIndex={channelIndex}
+                eagerPoster={eagerPoster}
+                lazyChannelLogo={lazyChannelLogo}
+              />
+              {idx === 1 && (
+                <div class="px-2 py-1 bg-slate-50/70" data-infeed-container>
+                  <AdSlot
+                    slot={ADSENSE_SLOTS.IN_FEED_CHANNELS}
+                    minHeight={250}
+                    inFeedWrapper={true}
+                    eager={true}
+                    className="border-dashed"
+                  />
+                </div>
+              )}
+              {idx === 6 && (
+                <div class="px-2 py-1 bg-slate-50/70" data-infeed-container>
+                  <AdSlot
+                    slot={ADSENSE_SLOTS.IN_FEED_CHANNELS}
+                    minHeight={250}
+                    inFeedWrapper={true}
+                    eager={false}
+                    className="border-dashed"
+                  />
+                </div>
+              )}
+            </>
+          ))}
+        </div>
+
+        {remainingChannelCount > 0 && (
+          <div id="load-more-container" class="mt-4 text-center">
+            <button
+              id="btn-load-more"
+              type="button"
+              class="w-full py-3.5 px-6 rounded-2xl bg-white border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 text-slate-800 hover:text-blue-600 font-extrabold text-sm shadow-xs transition-all flex items-center justify-center gap-2 cursor-pointer group"
+            >
+              <span class="text-base group-hover:scale-110 transition-transform">📺</span>
+              <span>Afficher toutes les chaînes (+{remainingChannelCount} chaînes)</span>
+            </button>
+          </div>
+        )}
+
+        <!-- No Results Fallback -->
+        <div id="no-search-results" class="hidden text-center py-16 text-slate-500 bg-white rounded-2xl border border-slate-200 mt-4">
+          <p class="text-3xl mb-2">🔍</p>
+          <p class="text-base font-bold text-slate-800">Aucune chaîne ou émission correspondante</p>
+          <p class="text-xs text-slate-500 mt-1">Essayez un autre mot-clé ou réinitialisez les filtres.</p>
+        </div>
+      </section>
+    ) : (
+      <div class="text-center py-16 text-slate-400 bg-white rounded-2xl border border-slate-200">
+        <p class="text-4xl mb-4" aria-hidden="true">📺</p>
+        <p class="text-lg font-semibold">Les programmes de ce soir ne sont pas encore disponibles.</p>
+        <p class="text-sm mt-1">Veuillez réessayer dans quelques instants.</p>
+      </div>
+    )}
+
+    {eveningPicks.length > 0 && (
+      <div class="mb-12">
+        <CeSoirPourVous picks={eveningPicks} />
+      </div>
+    )}
+
+    <!-- Pre-Footer Smart Lazy-Load Ad (High Viewability before FAQ) -->
+    <AdSlot
+      slot={ADSENSE_SLOTS.PRE_FOOTER}
+      minHeight={250}
+      eager={false}
+      className="my-10"
+    />
+
+    <!-- SEO FAQ Section -->
+    <section class="mt-14 pt-10 border-t border-slate-200" aria-label="Questions fréquentes sur le programme TV">
+      <h2 class="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 mb-6">
+        Questions fréquentes sur le programme TV ce soir
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+        <div class="bg-white border border-slate-200/80 rounded-2xl p-5 sm:p-6 shadow-xs">
+          <h3 class="font-bold text-slate-900 mb-2 text-base">
+            Que passe-t-il ce soir à la télévision française ?
+          </h3>
+          <p class="text-slate-600 text-sm leading-relaxed">
+            Sur Programme Ce Soir, retrouvez les films, séries et émissions de ce soir sur toutes les chaînes gratuites de la TNT (TF1, France 2, France 3, M6, Arte, W9, TMC) et les chaînes thématiques.
+          </p>
+        </div>
+
+        <div class="bg-white border border-slate-200/80 rounded-2xl p-5 sm:p-6 shadow-xs">
+          <h3 class="font-bold text-slate-900 mb-2 text-base">
+            Quel film passe ce soir à la télé ?
+          </h3>
+          <p class="text-slate-600 text-sm leading-relaxed">
+            Consultez notre filtre direct <em>Films</em> ou la rubrique dédiée pour découvrir la sélection des longs-métrages diffusés ce soir avec horaires précis, synopsis détaillés, bandes-annonces et casting.
+          </p>
+        </div>
+
+        <div class="bg-white border border-slate-200/80 rounded-2xl p-5 sm:p-6 shadow-xs">
+          <h3 class="font-bold text-slate-900 mb-2 text-base">
+            Quelles séries sont diffusées ce soir ?
+          </h3>
+          <p class="text-slate-600 text-sm leading-relaxed">
+            Retrouvez tous les épisodes inédits et rediffusions de séries françaises et internationales diffusées ce soir en cliquant sur le filtre <em>Séries</em> ou sur notre page dédiée aux séries du soir.
+          </p>
+        </div>
+
+        <div class="bg-white border border-slate-200/80 rounded-2xl p-5 sm:p-6 shadow-xs">
+          <h3 class="font-bold text-slate-900 mb-2 text-base">
+            Comment consulter le programme TV de demain ou en direct ?
+          </h3>
+          <p class="text-slate-600 text-sm leading-relaxed">
+            Utilisez les liens du menu pour basculer instantanément sur la grille <em>En direct</em> (programmes actuellement diffusés) ou <em>Demain</em> pour anticiper vos soirées télévisées.
+          </p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <Footer slot="footer" />
+</Layout>
+
+<!-- Client-side Live Instant Filter & Progressive Loader Script -->
+<script>
+  (function () {
+    const searchInput = document.getElementById('channel-search-input') as HTMLInputElement | null;
+    const chips = document.querySelectorAll<HTMLButtonElement>('.filter-chip');
+    const grid = document.getElementById('channels-grid');
+    const loadMoreBtn = document.getElementById('btn-load-more');
+    const loadMoreContainer = document.getElementById('load-more-container');
+    const countEl = document.getElementById('visible-count');
+    const noResultsEl = document.getElementById('no-search-results');
+
+    let extraLoaded = false;
+    let extraLoading = false;
+    let activeFilter = 'all';
+    let searchQuery = '';
+
+    const MAIN_TNT_SLUGS = new Set([
+      'tf1', 'france-2', 'france-3', 'canal-plus', 'canal', 'france-5', 'm6', 'arte',
+      'c8', 'w9', 'tmc', 'tfx', 'nrj-12', 'lcp', 'lcp-public-senat', 'france-4',
+      'bfm-tv', 'cnews', 'cstar', 'gulli', 'culturebox', 'tf1-series-films',
+      'la-chaine-lequipe', 'lequipe', '6ter', 'rmc-story', 'rmc-decouverte', 'cherie-25', 'lci', 'franceinfo'
+    ]);
+
+    function createChannelCard(item: any) {
+      const card = document.createElement('div');
+      card.className = 'channel-card-item block group border-b border-slate-100 hover:bg-slate-50/80 transition-colors';
+      card.setAttribute('data-channel-card', '');
+      card.setAttribute('data-channel-name', (item.name || '').toLowerCase());
+      card.setAttribute('data-channel-slug', item.slug);
+      card.setAttribute('data-channel-number', String(item.channelNumber ?? 999));
+      card.setAttribute('data-program-title', (item.prime?.title || '').toLowerCase());
+      card.setAttribute('data-category', item.catGroup || 'autre');
+
+      const prime = item.prime;
+      const tntBadge = item.tntNum != null
+        ? `<span class="inline-flex items-center px-1 py-0.2 rounded text-[9px] font-bold bg-slate-100 text-slate-700 border border-slate-200">TNT ${item.tntNum}</span>`
+        : item.isPaid
+        ? `<span class="inline-flex items-center px-1 py-0.2 rounded text-[9px] font-bold bg-amber-50 text-amber-700 border border-amber-200">Payant</span>`
+        : item.isLocal
+        ? `<span class="inline-flex items-center px-1 py-0.2 rounded text-[9px] font-bold bg-emerald-50 text-emerald-700 border border-emerald-200">TNT Locale</span>`
+        : '';
+
+      const primeBlock = prime && prime.href ? `
+        <a href="${prime.href}" ${prime.overlayAttr ? `data-program='${prime.overlayAttr.replace(/'/g, '&#39;')}'` : ''} class="block cursor-pointer group/prog focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded-lg p-1 -m-1" title="Cliquez pour les détails complets">
+          <div class="flex gap-2.5 sm:gap-3 items-start">
+            ${prime.posterUrl ? `
+              <div class="w-16 h-10 sm:w-20 sm:h-12 flex-shrink-0 rounded-lg overflow-hidden bg-slate-100 border border-slate-200 shadow-2xs block">
+                <img src="${prime.posterUrl}" alt="${prime.title}" width="80" height="48" class="w-full h-full object-cover poster-img" loading="lazy" decoding="async" onerror="this.parentElement.style.display='none'" />
+              </div>
+            ` : ''}
+            <div class="min-w-0 flex-1">
+              <p class="text-[10px] sm:text-[11px] text-slate-500 mb-0.5 flex items-center gap-1.5 flex-wrap">
+                ${prime.live ? `
+                  <span class="inline-flex items-center gap-1 px-1.5 py-0.2 bg-red-50 text-red-600 text-[9px] font-bold uppercase rounded-full border border-red-100 shrink-0">
+                    <span class="w-1.5 h-1.5 bg-red-500 rounded-full animate-pulse"></span> Direct
+                  </span>
+                ` : ''}
+                <span class="tabular-nums font-semibold text-slate-700">${prime.time}</span>
+                ${prime.genre ? `<span class="uppercase tracking-wide font-bold text-slate-400 text-[9px] sm:text-[10px]">${prime.genre}</span>` : ''}
+              </p>
+              <h3 class="text-[13px] sm:text-sm font-extrabold text-slate-900 leading-snug mb-1 group-hover/prog:text-blue-600 transition-colors line-clamp-2">
+                ${prime.title}
+              </h3>
+              <div class="h-[3px] w-full overflow-hidden rounded-full bg-slate-100 mb-1.5">
+                <div class="h-full rounded-full transition-all" style="width:${prime.progress}%;background:${prime.live ? '#ef4444' : '#3b82f6'}"></div>
+              </div>
+              ${item.next ? `
+                <p class="text-[11px] text-slate-400 truncate">
+                  <span class="tabular-nums font-medium text-slate-500">${item.next.time}</span> — <span class="text-slate-600 font-medium">${item.next.title}</span>
+                </p>
+              ` : ''}
+            </div>
+          </div>
+        </a>
+      ` : `<p class="text-xs text-slate-400 italic py-1">Aucun programme disponible pour ce créneau</p>`;
+
+      card.innerHTML = `
+        <div class="grid grid-cols-[76px_1fr] sm:grid-cols-[100px_1fr_24px] gap-3 px-3 py-2.5 sm:px-4 sm:py-3.5 items-start">
+          <a href="${item.channelHref}" class="flex flex-col items-start gap-1 focus:outline-none group/chan" aria-label="Programme ${item.name}">
+            <div class="w-8 h-8 sm:w-9 sm:h-9 flex-shrink-0 flex items-center justify-center overflow-hidden rounded-lg border border-slate-200 bg-white shadow-xs p-1 group-hover/chan:scale-105 transition-transform">
+              <img src="${item.logo}" alt="Logo ${item.name}" width="36" height="36" class="w-full h-full object-contain" loading="lazy" decoding="async" />
+            </div>
+            <div class="min-w-0 w-full">
+              <p class="text-[11px] sm:text-xs font-extrabold text-slate-900 leading-tight truncate group-hover/chan:text-blue-600 transition-colors">${item.name}</p>
+              <div class="flex items-center gap-1 mt-0.5 flex-wrap">${tntBadge}</div>
+            </div>
+          </a>
+          <div class="min-w-0 py-0.5">${primeBlock}</div>
+          <div class="hidden sm:flex items-center justify-center pt-2 text-slate-300 group-hover:text-blue-500 transition-colors">
+            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+          </div>
+        </div>
+      `;
+      return card;
+    }
+
+    async function loadRemainingChannels() {
+      if (extraLoaded || extraLoading) return;
+      extraLoading = true;
+      if (loadMoreBtn) {
+        loadMoreBtn.innerHTML = '<span class="inline-block animate-spin mr-2">⏳</span> Chargement des chaînes...';
+      }
+      try {
+        const res = await fetch('/api/channels-extra.json?mode=ce-soir&offset=150');
+        if (res.ok) {
+          const data = await res.json();
+          if (data.items && grid) {
+            data.items.forEach((item: any) => {
+              grid.appendChild(createChannelCard(item));
+            });
+          }
+          extraLoaded = true;
+          if (loadMoreContainer) loadMoreContainer.style.display = 'none';
+        }
+      } catch (e) {
+        console.error('Error loading extra channels', e);
+      } finally {
+        extraLoading = false;
+        applyFilters();
+      }
+    }
+
+    if (loadMoreBtn) {
+      loadMoreBtn.addEventListener('click', loadRemainingChannels);
+    }
+
+    // Auto load on scroll near bottom
+    window.addEventListener('scroll', () => {
+      if (!extraLoaded && !extraLoading && window.innerHeight + window.scrollY >= document.body.offsetHeight - 800) {
+        loadRemainingChannels();
+      }
+    }, { passive: true });
+
+    function applyFilters() {
+      const cards = document.querySelectorAll<HTMLElement>('[data-channel-card]');
+      let visible = 0;
+      cards.forEach(card => {
+        const name = card.getAttribute('data-channel-name') || '';
+        const slug = card.getAttribute('data-channel-slug') || '';
+        const chNum = parseInt(card.getAttribute('data-channel-number') || '999', 10);
+        const title = card.getAttribute('data-program-title') || '';
+        const cat = card.getAttribute('data-category') || '';
+
+        const matchesSearch = !searchQuery ||
+          name.includes(searchQuery) ||
+          slug.includes(searchQuery) ||
+          title.includes(searchQuery) ||
+          (chNum <= 50 && `ch ${chNum}`.includes(searchQuery));
+
+      const isVisible = matchesSearch;
+      card.style.display = isVisible ? '' : 'none';
+      if (isVisible) visible++;
+    });
+
+    const infeedContainers = document.querySelectorAll<HTMLElement>('[data-infeed-container]');
+    infeedContainers.forEach(container => {
+      container.style.display = searchQuery ? 'none' : '';
+    });
+
+    if (noResultsEl) noResultsEl.classList.toggle('hidden', visible > 0);
+  }
+
+  if (searchInput) {
+    searchInput.addEventListener('input', (e) => {
+      searchQuery = (e.target as HTMLInputElement).value.toLowerCase().trim();
+      if (searchQuery && !extraLoaded) {
+        loadRemainingChannels();
+      } else {
+        applyFilters();
+      }
+    });
+  }
+})();
+</script>
