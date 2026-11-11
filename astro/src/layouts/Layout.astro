@@ -1,0 +1,147 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  noindex?: boolean;
+  /** When true with noindex, emits noindex,nofollow (thin entity pages). */
+  nofollow?: boolean;
+  image?: string | null;
+  ogType?: string;
+  jsonLd?: object | object[];
+  prefetchUrls?: string[];
+  prerenderUrls?: string[];
+}
+
+import SpeculationRules from '../components/SpeculationRules.astro';
+import ProgramOverlay from '../components/ProgramOverlay.astro';
+import GeoExperience from '../components/GeoExperience.astro';
+import { resolveOgImage } from '../utils/seoImage';
+
+
+const {
+  title,
+  description,
+  canonical,
+  noindex = false,
+  nofollow = false,
+  image,
+  ogType = 'website',
+  jsonLd,
+  prefetchUrls,
+  prerenderUrls,
+} = Astro.props;
+const canonicalUrl = canonical ?? new URL(Astro.url.pathname, Astro.site).href;
+const jsonLdArray = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
+const ogImage = image ? resolveOgImage(image) : resolveOgImage();
+const robotsContent = noindex
+  ? (nofollow ? 'noindex, nofollow' : 'noindex, follow')
+  : 'index, follow, max-image-preview:large, max-snippet:-1';
+---
+
+<!doctype html>
+<html lang="fr">
+  <head>
+    <!-- UniConsent CMP (GDPR) — must stay synchronous, first in head -->
+    <script is:inline src="https://cmp.uniconsent.com/v2/stub.min.js"></script>
+    <script is:inline src="https://cmp.uniconsent.com/v2/stubgcm.min.js"></script>
+    <script async src="https://cmp.uniconsent.com/v2/b039bb5739/cmp.js"></script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="language" content="fr" />
+    <meta http-equiv="content-language" content="fr-FR" />
+    <meta name="robots" content={robotsContent} />
+    <meta name="msvalidate.01" content={import.meta.env.PUBLIC_MSVALIDATE || import.meta.env.MSVALIDATE || "C491FADE6DE847B39A3BFCE7E3E018D9"} />
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="alternate" hreflang="fr-FR" href={canonicalUrl} />
+    <link rel="alternate" hreflang="x-default" href={canonicalUrl} />
+    <link rel="alternate" type="application/rss+xml" title="Programme TV Ce Soir" href="https://programmecesoir.fr/rss/ce-soir.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Films Ce Soir à la Télé" href="https://programmecesoir.fr/rss/films.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Séries TV Ce Soir" href="https://programmecesoir.fr/rss/series.xml" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:site_name" content="Programme Ce Soir" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:secure_url" content={ogImage} />
+    <meta property="og:image:alt" content={title} />
+    <link rel="image_src" href={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZQ67HN31M1"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ZQ67HN31M1', { send_page_view: true });
+      // Soft-filter Singapore non-FR noise after config (keeps snippet visible for GSC).
+      (function () {
+        var GA_ID = 'G-ZQ67HN31M1';
+        function hasFrenchLang() {
+          try {
+            var langs = (navigator.languages && navigator.languages.length)
+              ? navigator.languages
+              : [navigator.language || ''];
+            return langs.some(function (l) {
+              var s = String(l || '').toLowerCase();
+              return s === 'fr' || s.indexOf('fr-') === 0;
+            });
+          } catch (e) { return false; }
+        }
+        var ctrl = typeof AbortController !== 'undefined' ? new AbortController() : null;
+        var timer = setTimeout(function () { if (ctrl) ctrl.abort(); }, 1200);
+        fetch('/api/geo', { credentials: 'same-origin', cache: 'no-store', signal: ctrl && ctrl.signal })
+          .then(function (r) { return r.ok ? r.json() : null; })
+          .then(function (data) {
+            clearTimeout(timer);
+            var country = data && data.country ? data.country : null;
+            if (country === 'SG' && !hasFrenchLang()) {
+              window['ga-disable-' + GA_ID] = true;
+            }
+          })
+          .catch(function () { clearTimeout(timer); });
+      })();
+    </script>
+
+    <!-- Microsoft Clarity -->
+    <script type="text/javascript" is:inline>
+      (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, "clarity", "script", "ype4n2jacz");
+    </script>
+
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2168172914069272" crossorigin="anonymous"></script>
+
+    {jsonLdArray.map((ld) => (
+      <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+    ))}
+
+    <SpeculationRules prefetchUrls={prefetchUrls} prerenderUrls={prerenderUrls} />
+  </head>
+  <body class="bg-slate-50 text-slate-900 font-[Inter,system-ui,sans-serif] antialiased min-h-screen flex flex-col">
+    <GeoExperience />
+    <slot name="header" />
+    <main class="flex-1">
+      <slot />
+    </main>
+    <slot name="footer" />
+    <ProgramOverlay />
+  </body>
+</html>

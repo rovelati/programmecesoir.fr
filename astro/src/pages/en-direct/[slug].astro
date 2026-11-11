@@ -1,0 +1,319 @@
+---
+export const prerender = false;
+
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getChannelBySlug, getChannelSlugFromId, getProgramsByChannelAndDate, getTodayDateFR, slugify } from '../../utils/supabase';
+import { formatDateFR, isCurrentlyAiring } from '../../utils/dates';
+import { getRelatedChannelsForSchedule } from '../../utils/relatedChannels';
+import RelatedChannels from '../../components/RelatedChannels.astro';
+import ScheduleProgramRow from '../../components/ScheduleProgramRow.astro';
+import ScheduleProgramCard from '../../components/ScheduleProgramCard.astro';
+import { channelLiveSeo, channelSeoName } from '../../utils/seoCopy';
+import { isAdultOrJunkChannel } from '../../utils/programSeo';
+import { buildChannelScheduleJsonLd } from '../../utils/channelJsonLd';
+import { getTvStreamUrl } from '../../utils/tvStreams';
+
+const { slug } = Astro.params;
+if (!slug) return Astro.redirect('/');
+
+const channel = await getChannelBySlug(slug);
+
+if (!channel) return new Response(null, { status: 404 });
+
+const today = await getTodayDateFR();
+const programs = await getProgramsByChannelAndDate(channel.channel_id, today);
+const relatedChannels = await getRelatedChannelsForSchedule(channel, programs, 'en-direct', today, 6);
+const todayFormatted = formatDateFR(new Date());
+const chSlug = getChannelSlugFromId(channel.channel_id);
+const canonical = `https://programmecesoir.fr/en-direct/${chSlug}`;
+const seoName = channelSeoName(chSlug, channel.name);
+const { title: pageTitle, description: pageDescription } = channelLiveSeo(seoName);
+const noindex = isAdultOrJunkChannel(chSlug);
+const tvStream = getTvStreamUrl(chSlug, channel.name);
+
+const currentProgram = programs.find((p) => isCurrentlyAiring(p.start_time, p.end_time));
+const upcomingPrograms = programs.filter((p) => new Date(p.start_time).getTime() > Date.now());
+
+// Prefer current + upcoming in the graph for live pages
+const liveGraphPrograms = [
+  ...(currentProgram ? [currentProgram] : []),
+  ...upcomingPrograms.filter((p) => p.id !== currentProgram?.id),
+];
+
+import { pickFeaturedProgram } from '../../utils/programPick';
+import { resolveProgramPoster } from '../../utils/programPoster';
+import { resolveOgImage } from '../../utils/seoImage';
+import { getDirectCardImage } from '../../utils/channelLogos';
+
+const featuredProg = currentProgram ?? pickFeaturedProgram(programs, 'en-direct');
+const featuredPoster = featuredProg ? resolveProgramPoster(featuredProg) : null;
+// High-CTR dedicated 600x600 thumbnail card (channel logo + '🔴 EN DIRECT' badge)
+const directCardImage = getDirectCardImage(chSlug);
+const ogImage = directCardImage;
+
+const TOP_DIRECT_CHANNELS = [
+  { slug: 'kto', name: 'KTO' },
+  { slug: 'france-3', name: 'France 3' },
+  { slug: 'cnews', name: 'CNews' },
+  { slug: 'm6', name: 'M6' },
+  { slug: 'france-5', name: 'France 5' },
+  { slug: 'france-2', name: 'France 2' },
+  { slug: 'arte', name: 'ARTE' },
+  { slug: 'antenne-reunion', name: 'Antenne Réunion' },
+  { slug: '2m-maroc', name: '2M Maroc' },
+  { slug: 'w9', name: 'W9' },
+  { slug: 'tmc', name: 'TMC' },
+  { slug: 'tf1', name: 'TF1' },
+  { slug: 'rts-1', name: 'RTS 1' },
+  { slug: 'france-24', name: 'France 24' },
+  { slug: 'bfm-tv', name: 'BFM TV' },
+  { slug: 'lci', name: 'LCI' },
+  { slug: '6ter', name: '6ter' },
+  { slug: 'tvpi', name: 'TVPI' },
+  { slug: 'bein-sports-1', name: 'beIN SPORTS 1' },
+];
+
+const faqJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: `Quel est le programme diffusé en direct sur ${seoName} en ce moment ?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: currentProgram
+          ? `Actuellement sur ${seoName}, retrouvez "${currentProgram.title}" en direct. Consultez la grille en direct pour voir les horaires précis et la suite des émissions.`
+          : `Consultez la grille en direct de ${seoName} sur cette page pour découvrir l'émission en cours de diffusion et les prochains rendez-vous de la journée.`,
+      },
+    },
+    {
+      '@type': 'Question',
+      name: `Comment regarder ${seoName} en direct live streaming et replay gratuit ?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: tvStream
+          ? `Vous pouvez regarder ${seoName} en direct live streaming et replay gratuit sur la plateforme officielle ${tvStream.provider} (${tvStream.streamUrl}), ainsi que sur la TNT et les box des opérateurs TV (Orange, Free, SFR, Bouygues).`
+          : `Vous pouvez suivre ${seoName} en direct live à la télévision sur la TNT, le câble, le satellite, les box internet et sur la plateforme de replay officielle de la chaîne.`,
+      },
+    },
+    {
+      '@type': 'Question',
+      name: `Où trouver le programme de ${seoName} ce soir et demain ?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: `Retrouvez le programme TV de première partie de soirée sur https://programmecesoir.fr/ce-soir/${chSlug} et la grille complète de demain sur https://programmecesoir.fr/demain/${chSlug}.`,
+      },
+    },
+  ],
+};
+
+const webPageJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  '@id': `${canonical}#webpage`,
+  url: canonical,
+  name: pageTitle,
+  description: pageDescription,
+  primaryImageOfPage: {
+    '@type': 'ImageObject',
+    url: directCardImage,
+    width: 600,
+    height: 600,
+  },
+};
+
+const jsonLd = [
+  webPageJsonLd,
+  ...buildChannelScheduleJsonLd({
+    channel,
+    channelSlug: chSlug,
+    channelName: seoName,
+    canonical,
+    view: 'en-direct',
+    programs: liveGraphPrograms.length > 0 ? liveGraphPrograms : programs,
+    breadcrumbs: [
+      { name: 'Accueil', item: 'https://programmecesoir.fr' },
+      { name: seoName, item: `https://programmecesoir.fr/${chSlug}` },
+      { name: 'En direct', item: canonical },
+    ],
+  }),
+  faqJsonLd,
+];
+---
+
+<Layout
+  title={pageTitle}
+  description={pageDescription}
+  canonical={canonical}
+  noindex={noindex}
+  image={ogImage}
+  jsonLd={jsonLd}
+>
+  <Header slot="header" activePath="/en-direct" />
+
+  <div class="container mx-auto px-3 sm:px-4 py-6 sm:py-8 max-w-5xl">
+    <div class="flex items-center gap-3.5 sm:gap-4 mb-6">
+      {channel.logo_url && (
+        <img
+          src={channel.logo_url}
+          alt={`Logo ${seoName}`}
+          class="w-14 h-14 sm:w-16 sm:h-16 object-contain rounded-xl bg-white border border-slate-200 p-2 shadow-xs shrink-0"
+          width="64"
+          height="64"
+        />
+      )}
+      <div>
+        <div class="flex items-center gap-2 mb-1">
+          <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-[10px] sm:text-[11px] font-black uppercase bg-red-50 text-red-600 border border-red-200">
+            <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+            Direct & En ce moment
+          </span>
+        </div>
+        <h1 class="text-2xl sm:text-3xl md:text-4xl font-black text-slate-900 tracking-tight">
+          {seoName} en direct : programme TV en ce moment et streaming
+        </h1>
+        <p class="text-slate-500 text-xs sm:text-sm capitalize mt-1">
+          Grille des programmes en direct à l'antenne &bull; {todayFormatted}
+        </p>
+      </div>
+    </div>
+
+    <!-- Navigation temporelle -->
+    <nav class="flex gap-2 sm:gap-3 mb-6 overflow-x-auto pb-1 scrollbar-none" aria-label="Navigation temporelle">
+      <a href={`/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">Aujourd'hui</a>
+      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">Ce soir (21h10)</a>
+      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-red-600 text-white rounded-full text-xs sm:text-sm font-bold shadow-xs">En direct</a>
+      <a href={`/demain/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">Demain</a>
+    </nav>
+
+    {tvStream && (
+      <div class="mb-6 p-4 bg-gradient-to-r from-red-500/10 via-red-500/5 to-white border border-red-200 rounded-2xl flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 shadow-xs">
+        <div class="flex items-center gap-3">
+          <span class="flex h-3 w-3 relative shrink-0">
+            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+            <span class="relative inline-flex rounded-full h-3 w-3 bg-red-600"></span>
+          </span>
+          <div>
+            <p class="text-sm font-black text-slate-900">
+              Regarder {seoName} en direct live & replay
+            </p>
+            <p class="text-xs text-slate-500">
+              Streaming officiel gratuit sur la plateforme {tvStream.provider}
+            </p>
+          </div>
+        </div>
+        <a
+          href={tvStream.streamUrl}
+          target="_blank"
+          rel="noopener noreferrer nofollow"
+          class="inline-flex items-center gap-2 px-4 py-2 bg-red-600 hover:bg-red-700 text-white font-bold rounded-xl text-xs sm:text-sm shadow-sm transition-all shrink-0 cursor-pointer"
+        >
+          <span>Regarder {seoName} sur {tvStream.provider}</span>
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+          </svg>
+        </a>
+      </div>
+    )}
+
+    {currentProgram ? (
+      <section class="mb-8 sm:mb-10">
+        <h2 class="text-lg sm:text-xl font-black text-slate-900 mb-3 sm:mb-4 flex items-center gap-2">
+          <span class="w-1.5 h-6 bg-red-500 rounded-full"></span>
+          À l'antenne actuellement sur {seoName}
+        </h2>
+        <ScheduleProgramRow program={currentProgram} channel={channel} channelSlug={chSlug} />
+      </section>
+    ) : (
+      <div class="mb-8 sm:mb-10 text-center py-8 bg-slate-50 border border-slate-200 rounded-2xl text-slate-500">
+        <p class="font-bold text-slate-700">Aucun programme en direct répertorié à cet instant.</p>
+        <p class="text-xs text-slate-500 mt-1">Consultez la liste des prochains programmes ci-dessous.</p>
+      </div>
+    )}
+
+    {upcomingPrograms.length > 0 && (
+      <section class="mb-10 sm:mb-12">
+        <h2 class="text-lg sm:text-xl font-black text-slate-900 mb-3 sm:mb-4 flex items-center gap-2">
+          <span class="w-1.5 h-6 bg-blue-600 rounded-full"></span>
+          Prochains programmes aujourd'hui sur {seoName}
+        </h2>
+        <div class="space-y-2">
+          {upcomingPrograms.map((p) => (
+            <ScheduleProgramCard program={p} channel={channel} channelSlug={chSlug} />
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- FAQ & Guide SEO Section -->
+    <section class="mb-10 p-5 sm:p-6 bg-slate-50 border border-slate-200 rounded-2xl">
+      <h2 class="text-base sm:text-lg font-black text-slate-900 mb-4 flex items-center gap-2">
+        ℹ️ Tout savoir sur {seoName} en direct
+      </h2>
+      <div class="space-y-4 text-xs sm:text-sm text-slate-600 leading-relaxed">
+        <div>
+          <h3 class="font-bold text-slate-900 text-sm sm:text-base">
+            Quel est le programme diffusé sur {seoName} en direct en ce moment ?
+          </h3>
+          <p class="mt-1">
+            {currentProgram ? (
+              <>Actuellement sur {seoName}, vous pouvez regarder <strong>{currentProgram.title}</strong>. Retrouvez le détail complet du programme, la durée et les horaires sur cette page.</>
+            ) : (
+              <>Consultez notre guide ci-dessus pour découvrir l'émission actuellement en cours de diffusion sur {seoName}.</>
+            )}
+          </p>
+        </div>
+        <div>
+          <h3 class="font-bold text-slate-900 text-sm sm:text-base">
+            Comment regarder {seoName} en direct live et replay gratuit ?
+          </h3>
+          <p class="mt-1">
+            {tvStream ? (
+              <>Vous pouvez regarder <strong>{seoName} en direct streaming</strong> et accéder aux replays gratuits directement sur la plateforme officielle <strong>{tvStream.provider}</strong> (<a href={tvStream.streamUrl} target="_blank" rel="noopener noreferrer nofollow" class="text-red-600 font-semibold underline">accéder au direct officiel sur {tvStream.provider}</a>). La chaîne est également accessible gratuitement sur la TNT et les box TV internet (Orange, Free, SFR, Bouygues).</>
+            ) : (
+              <>{seoName} est accessible gratuitement sur la TNT, via les décodeurs TV de vos fournisseurs d'accès internet (Orange, Free, SFR, Bouygues), le satellite, ainsi que sur les applications et sites de streaming officiels.</>
+            )}
+          </p>
+        </div>
+        <div>
+          <h3 class="font-bold text-slate-900 text-sm sm:text-base">
+            Où voir la suite des programmes de {seoName} ?
+          </h3>
+          <p class="mt-1">
+            Accédez facilement au <a href={`/ce-soir/${chSlug}`} class="text-blue-600 font-semibold underline">programme {seoName} ce soir à 21h10</a>, à la <a href={`/${chSlug}`} class="text-blue-600 font-semibold underline">grille complète d'aujourd'hui</a> ou au <a href={`/demain/${chSlug}`} class="text-blue-600 font-semibold underline">programme {seoName} de demain</a>.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Maillage rapide autres chaînes en direct -->
+    <section class="mb-10 pt-6 border-t border-slate-200">
+      <h2 class="text-sm font-black text-slate-900 uppercase tracking-wider mb-3">
+        📺 Autres chaînes en direct en ce moment
+      </h2>
+      <div class="flex flex-wrap gap-1.5 sm:gap-2">
+        {TOP_DIRECT_CHANNELS.filter(c => c.slug !== chSlug).map((c) => (
+          <a
+            href={`/en-direct/${c.slug}`}
+            class="px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-lg text-xs font-semibold bg-white border border-slate-200 text-slate-700 hover:bg-slate-100 hover:text-blue-600 transition-colors shadow-2xs"
+          >
+            {c.name} en direct
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <RelatedChannels suggestions={relatedChannels} viewMode="en-direct" channelName={channel.name} />
+
+    <nav class="mt-10 pt-6 border-t border-slate-200 flex flex-wrap gap-4 text-xs sm:text-sm" aria-label="Retour">
+      <a href={`/${chSlug}`} class="text-blue-600 font-semibold hover:underline">&larr; Grille {seoName} complète aujourd'hui</a>
+      <a href={`/ce-soir/${chSlug}`} class="text-blue-600 font-semibold hover:underline">&larr; {seoName} ce soir</a>
+      <a href="/en-direct" class="text-blue-600 font-semibold hover:underline">&larr; Tous les programmes en direct</a>
+    </nav>
+  </div>
+
+  <Footer slot="footer" />
+</Layout>

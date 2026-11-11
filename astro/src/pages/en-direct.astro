@@ -11,7 +11,7 @@ import { getChannels, getProgramsForDate, groupProgramsByChannel, getTodayDateFR
 import { formatDateLongFR, isCurrentlyAiring } from '../utils/dates';
 import { buildHubPrefetchUrls } from '../utils/speculationRules';
 import { isAdultOrJunkChannel } from '../utils/programSeo';
-import { isRegionalFrance3, getTntNumber } from '../utils/channelUrls';
+import { isRegionalFrance3, getChannelSortOrder } from '../utils/channelUrls';
 
 const today = await getTodayDateFR();
 const todayFormatted = formatDateLongFR();
@@ -29,8 +29,8 @@ const channels = allChannels
   .sort((a, b) => {
     const slugA = getChannelSlugFromId(a.channel_id);
     const slugB = getChannelSlugFromId(b.channel_id);
-    const numA = getTntNumber(a.channel_number, slugA) ?? 999;
-    const numB = getTntNumber(b.channel_number, slugB) ?? 999;
+    const numA = getChannelSortOrder(a.channel_number, slugA);
+    const numB = getChannelSortOrder(b.channel_number, slugB);
     return numA - numB;
   });
 
@@ -73,8 +73,8 @@ const jsonLd = [
 ---
 
 <Layout
-  title="Programme TV en direct maintenant — Direct & En ce moment"
-  description="Programme TV en direct aujourd'hui : découvrez ce qui passe maintenant à la télé sur TF1, France 2, M6, CNews, KTO et toutes les chaînes TNT avec les émissions actuellement à l'antenne."
+  title="🔴 Programme TV en Direct : Que Regarder en Ce Moment | Live TNT"
+  description="🔴 Programme TV en direct aujourd'hui : regardez ce qui passe maintenant en direct sur TF1, France 2, M6, CNews et toutes les chaînes TNT avec streaming officiel et horaires en temps réel."
   canonical="https://programmecesoir.fr/en-direct"
   prefetchUrls={prefetchUrls}
   prerenderUrls={['/', '/demain']}
