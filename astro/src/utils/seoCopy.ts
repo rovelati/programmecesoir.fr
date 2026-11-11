@@ -141,11 +141,11 @@ export function channelTomorrowSeo(channelName: string) {
 }
 
 export function channelLiveSeo(channelName: string) {
-  const shortTitle = `🔴 ${channelName} en Direct : Regarder ${channelName} Gratuitement | Live TV`;
+  const shortTitle = `${channelName} en Direct : Regarder ${channelName} Gratuitement | Live TV`;
   const title =
     shortTitle.length <= 60
       ? shortTitle
-      : `🔴 ${channelName} en Direct : Regarder Gratuitement | Live TV`;
+      : `${channelName} en Direct : Regarder Gratuitement | Live TV`;
 
   return {
     title,
