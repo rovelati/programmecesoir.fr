@@ -427,5 +427,18 @@ const jsonLd = [
         }
       });
     });
+
+    // Auto-refresh when returning to tab after > 90s
+    const pageLoadedAt = Date.now();
+    document.addEventListener('visibilitychange', function () {
+      if (document.visibilityState === 'visible' && Date.now() - pageLoadedAt > 90000) {
+        window.location.reload();
+      }
+    });
+    window.addEventListener('pageshow', function (event) {
+      if (event.persisted) {
+        window.location.reload();
+      }
+    });
   })();
 </script>

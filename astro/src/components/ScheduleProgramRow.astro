@@ -1,0 +1,74 @@
+---
+import type { ChannelRow, ProgramRow } from '../utils/supabase';
+import { formatTimeFR, isCurrentlyAiring } from '../utils/dates';
+import { programAnchorId } from '../utils/channelUrls';
+import { buildProgramOverlayAttr } from '../utils/programOverlayData';
+import { resolveProgramPoster } from '../utils/programPoster';
+import { programPath } from '../utils/programSeo';
+
+interface Props {
+  program: ProgramRow;
+  channel: Pick<ChannelRow, 'channel_id' | 'name' | 'logo_url'>;
+  channelSlug: string;
+  showEndTime?: boolean;
+}
+
+const { program, channel, channelSlug, showEndTime = false } = Astro.props;
+const live = isCurrentlyAiring(program.start_time, program.end_time);
+const overlayData = buildProgramOverlayAttr(program, channel, channelSlug);
+const posterUrl = resolveProgramPoster(program);
+const href = programPath(channelSlug, program.title);
+
+const startMs = new Date(program.start_time).getTime();
+const endMs = new Date(program.end_time).getTime();
+const totalMs = Math.max(1, endMs - startMs);
+const currentProgress = live ? Math.min(100, Math.max(0, Math.round(((Date.now() - startMs) / totalMs) * 100))) : 0;
+---
+
+<a
+  href={href}
+  id={programAnchorId(program.title)}
+  data-program={overlayData}
+  aria-label={`${program.title} — ${formatTimeFR(program.start_time)}`}
+  class:list={[
+    'group grid gap-2.5 sm:gap-3 px-3 py-2.5 sm:px-4 sm:py-3 bg-white rounded-xl border border-slate-200 hover:border-blue-200 hover:shadow-sm transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-inset items-center',
+    program.poster_url || posterUrl ? 'grid-cols-[48px_64px_1fr] sm:grid-cols-[56px_84px_1fr]' : 'grid-cols-[48px_1fr] sm:grid-cols-[56px_1fr]',
+    live && 'border-red-100 bg-red-50/30',
+  ]}
+>
+  <div class="text-right flex-shrink-0">
+    <span class="text-[14px] sm:text-[15px] font-extrabold text-slate-900 tabular-nums block">{formatTimeFR(program.start_time)}</span>
+    {showEndTime && (
+      <span class="text-[11px] sm:text-[12px] font-medium text-slate-400 tabular-nums block">{formatTimeFR(program.end_time)}</span>
+    )}
+    {live && (
+      <span class="inline-flex items-center gap-1 mt-0.5 px-1.5 py-0.5 bg-red-50 text-red-600 text-[9px] font-bold uppercase rounded-full border border-red-100">
+        <span class="w-1 h-1 bg-red-500 rounded-full animate-pulse"></span>
+        Live
+      </span>
+    )}
+  </div>
+  {posterUrl && (
+    <div class="w-16 h-10 sm:w-21 sm:h-13 rounded-lg overflow-hidden bg-slate-100 border border-slate-200 shadow-2xs flex-shrink-0">
+      <img src={posterUrl} alt={program.title} width="84" height="52" class="w-full h-full object-cover" loading="lazy" decoding="async" />
+    </div>
+  )}
+  <div class="min-w-0">
+    <h3 class="text-[15px] font-extrabold text-slate-900 leading-snug group-hover:text-blue-600 transition-colors line-clamp-2">{program.title}</h3>
+    {program.genre && <span class="text-[11px] uppercase tracking-wide font-bold text-slate-400">{program.genre}</span>}
+    {live && (
+      <div class="mt-1.5 flex items-center gap-2 max-w-md">
+        <div class="h-1.5 flex-1 overflow-hidden rounded-full bg-red-100">
+          <div
+            class="h-full rounded-full bg-red-600 transition-all duration-500 live-progress-bar"
+            data-start={startMs}
+            data-end={endMs}
+            style={`width: ${currentProgress}%;`}
+          />
+        </div>
+        <span class="text-[10px] font-bold text-red-600 tabular-nums live-progress-text shrink-0">{currentProgress}%</span>
+      </div>
+    )}
+    {program.description && <p class="text-[13px] text-slate-500 mt-1 line-clamp-2 leading-snug">{program.description.substring(0, 150)}</p>}
+  </div>
+</a>

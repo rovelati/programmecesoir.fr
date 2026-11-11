@@ -35,6 +35,8 @@ const tvStream = getTvStreamUrl(chSlug, channel.name);
 
 const currentProgram = programs.find((p) => isCurrentlyAiring(p.start_time, p.end_time));
 const upcomingPrograms = programs.filter((p) => new Date(p.start_time).getTime() > Date.now());
+const liveStartTime = currentProgram ? new Date(currentProgram.start_time).getTime() : null;
+const liveEndTime = currentProgram ? new Date(currentProgram.end_time).getTime() : null;
 
 // Prefer current + upcoming in the graph for live pages
 const liveGraphPrograms = [
@@ -317,3 +319,55 @@ const jsonLd = [
 
   <Footer slot="footer" />
 </Layout>
+
+<script is:inline define:vars={{ liveStartTime, liveEndTime }}>
+  (function () {
+    const pageLoadedAt = Date.now();
+
+    function updateProgressBar() {
+      const bar = document.querySelector('.live-progress-bar');
+      const text = document.querySelector('.live-progress-text');
+      if (!bar || !liveStartTime || !liveEndTime) return;
+
+      const now = Date.now();
+      if (now >= liveEndTime) {
+        // Le programme en direct est terminé -> rafraîchissement automatique
+        window.location.reload();
+        return;
+      }
+
+      const total = liveEndTime - liveStartTime;
+      const pct = Math.min(100, Math.max(0, Math.round(((now - liveStartTime) / total) * 100)));
+      bar.style.width = pct + '%';
+      if (text) text.textContent = pct + '%';
+    }
+
+    // Mise à jour de la barre toutes les 5 secondes
+    if (liveStartTime && liveEndTime) {
+      setInterval(updateProgressBar, 5000);
+
+      // Timeout programmé pour la fin exacte de l'émission + 2s de marge
+      const msUntilEnd = Math.max(3000, liveEndTime - Date.now() + 2000);
+      setTimeout(function () {
+        window.location.reload();
+      }, msUntilEnd);
+    }
+
+    // Rechargement immédiat si l'onglet redevient actif après > 60s ou si l'émission a changé
+    document.addEventListener('visibilitychange', function () {
+      if (document.visibilityState === 'visible') {
+        const elapsed = Date.now() - pageLoadedAt;
+        if (elapsed > 60000 || (liveEndTime && Date.now() >= liveEndTime)) {
+          window.location.reload();
+        }
+      }
+    });
+
+    // Rechargement si la page est restaurée depuis le bfcache (bouton précédent/suivant du navigateur)
+    window.addEventListener('pageshow', function (event) {
+      if (event.persisted) {
+        window.location.reload();
+      }
+    });
+  })();
+</script>
