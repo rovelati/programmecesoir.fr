@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="ferrariRed" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF2830" />
+      <stop offset="48%" stop-color="#E10600" />
+      <stop offset="100%" stop-color="#9E0005" />
+    </linearGradient>
+    <linearGradient id="screenSurface" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#F1F5F9" />
+    </linearGradient>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.25" />
+    </filter>
+  </defs>
+
+  <!-- 1. Ferrari Red Squircle Base -->
+  <rect x="20" y="20" width="472" height="472" rx="116" fill="url(#ferrariRed)" filter="url(#cardShadow)" />
+  <rect x="20" y="20" width="472" height="472" rx="116" fill="none" stroke="rgba(255,255,255,0.32)" stroke-width="6" />
+
+  <!-- 2. TV Antenna (Retro-Modern Broadcast signal rays) -->
+  <path d="M 192 116 L 256 172 L 320 116" fill="none" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="192" cy="116" r="15" fill="#FFFFFF" />
+  <circle cx="320" cy="116" r="15" fill="#FFFFFF" />
+
+  <!-- 3. TV Body (Crisp White High-Contrast Monitor) -->
+  <rect x="84" y="166" width="344" height="246" rx="44" fill="url(#screenSurface)" />
+
+  <!-- 4. Play Button (Ferrari Red Action Catalyst - Optically Centered) -->
+  <path d="M 234 232 C 234 222 245 216 254 221 L 322 263 C 330 268 330 280 322 285 L 254 327 C 245 332 234 326 234 316 Z" fill="url(#ferrariRed)" />
+
+  <!-- 5. "En Direct / Ce Soir" Live Ruby Beacon -->
+  <circle cx="396" cy="202" r="12" fill="#E10600" />
+  <circle cx="396" cy="202" r="4.5" fill="#FFFFFF" />
+</svg>

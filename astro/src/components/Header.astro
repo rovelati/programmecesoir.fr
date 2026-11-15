@@ -1,0 +1,387 @@
+---
+interface Props {
+  activePath?: string;
+}
+const { activePath = '/' } = Astro.props;
+
+const navLinks = [
+  { href: '/en-direct', label: 'En direct' },
+  { href: '/', label: 'Ce soir' },
+  { href: '/demain', label: 'Demain' },
+  { href: '/recommandes', label: 'Pour vous' },
+];
+
+const exploreLinks = [
+  { href: '/film-ce-soir', title: 'Films ce soir', detail: 'Le hub cinéma du prime time.' },
+  { href: '/series-ce-soir', title: 'Séries ce soir', detail: 'Les principales diffusions séries.' },
+  { href: '/sport-ce-soir', title: 'Sport ce soir', detail: 'Les événements TV à forte demande.' },
+  { href: '/documentaires-ce-soir', title: 'Documentaires', detail: 'Docs et magazines du soir.' },
+  { href: '/recommandes', title: 'Pour vous', detail: 'Suggestions personnalisées pour ce soir.' },
+];
+
+const catalogLinks = [
+  { href: '/films', title: 'Films', detail: 'Catalogue film et diffusions.' },
+  { href: '/series', title: 'Séries', detail: 'Fiches séries et prochaines diffusions.' },
+  { href: '/acteurs', title: 'Acteurs', detail: 'Acteurs à la TV et fiches entités.' },
+];
+
+const channelLinks = [
+  { href: '/tf1', title: 'TF1' },
+  { href: '/france-2', title: 'France 2' },
+  { href: '/france-3', title: 'France 3' },
+  { href: '/m6', title: 'M6' },
+  { href: '/arte', title: 'ARTE' },
+  { href: '/canal-plus', title: 'Canal+' },
+  { href: '/antenne-reunion', title: 'Antenne Réunion' },
+  { href: '/w9', title: 'W9' },
+  { href: '/tmc', title: 'TMC' },
+  { href: '/france-5', title: 'France 5' },
+];
+
+function isTimeActive(view: 'direct' | 'soir' | 'demain'): boolean {
+  if (view === 'direct') return activePath === '/en-direct' || activePath.startsWith('/en-direct/');
+  if (view === 'demain') return activePath === '/demain' || activePath.startsWith('/demain/');
+  return activePath === '/' || activePath.startsWith('/ce-soir/');
+}
+
+function isActive(href: string): boolean {
+  if (href === '/') return activePath === '/';
+  return activePath === href || activePath.startsWith(href + '/');
+}
+---
+
+<header class="sticky top-0 z-50 w-full bg-white shadow-sm transition-shadow" id="main-header">
+  <div class="container mx-auto px-3 sm:px-4">
+    <!-- Top bar -->
+    <div class="flex items-center justify-between gap-2 h-14 sm:h-16">
+      <a href="/" class="flex items-center gap-2.5 shrink-0 group" aria-label="Programme Ce Soir - Accueil">
+        <img
+          src="/favicon.svg"
+          alt="Logo ProgrammeCeSoir"
+          width="32"
+          height="32"
+          class="w-8 h-8 rounded-lg shadow-xs group-hover:scale-105 transition-transform"
+        />
+        <span class="text-base sm:text-lg font-black text-slate-900 hidden sm:inline tracking-tight">
+          Programme<span class="text-[#E10600]">CeSoir</span>
+        </span>
+      </a>
+
+      <!-- Desktop nav -->
+      <nav class="hidden md:flex items-center gap-5 flex-1 justify-center" aria-label="Navigation principale">
+        {navLinks.map((link) => (
+          <a
+            href={link.href}
+            class={`pb-0.5 text-sm font-semibold transition-all border-b-2 ${
+              isActive(link.href)
+                ? 'text-red-600 border-red-600'
+                : 'text-slate-500 border-transparent hover:text-slate-800'
+            }`}
+          >
+            {link.label}
+          </a>
+        ))}
+      </nav>
+
+      <div class="flex items-center gap-2 sm:gap-3 shrink-0">
+        <!-- Desktop search -->
+        <form action="/recherche" method="get" class="relative hidden lg:block w-56 xl:w-64">
+          <input
+            type="text"
+            name="qs"
+            placeholder="Rechercher..."
+            class="w-full pl-9 pr-3 py-1.5 rounded-full bg-slate-100 border-transparent focus:bg-white focus:border-blue-300 focus:ring-4 focus:ring-blue-100 transition-all text-sm outline-none"
+            autocomplete="off"
+          />
+          <svg class="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+        </form>
+
+        <!-- Desktop Explorer -->
+        <div class="relative hidden lg:block" id="explore-menu-wrap">
+          <button
+            type="button"
+            id="explore-menu-btn"
+            class="inline-flex items-center gap-1.5 px-3 py-1.5 text-sm font-semibold text-slate-600 hover:text-slate-900 rounded-lg hover:bg-slate-100 transition-colors"
+            aria-expanded="false"
+            aria-controls="explore-menu-panel"
+          >
+            Explorer
+            <svg class="w-4 h-4 transition-transform" id="explore-menu-chevron" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 011.08 1.04l-4.25 4.51a.75.75 0 01-1.08 0l-4.25-4.51a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
+            </svg>
+          </button>
+          <div
+            id="explore-menu-panel"
+            class="hidden absolute right-0 top-full z-50 mt-2 w-80 overflow-hidden rounded-2xl border border-slate-200 bg-white p-2 shadow-xl"
+          >
+            <div class="space-y-2 max-h-[70vh] overflow-y-auto">
+              <div class="rounded-xl bg-slate-50 p-2">
+                <p class="px-2 pb-1 text-[10px] font-black uppercase tracking-wider text-slate-400">Thématiques</p>
+                {exploreLinks.map((link) => (
+                  <a href={link.href} class="block rounded-xl px-3 py-2.5 hover:bg-white transition-colors">
+                    <span class="block text-sm font-bold text-slate-900">{link.title}</span>
+                    <span class="block text-xs text-slate-500 leading-snug">{link.detail}</span>
+                  </a>
+                ))}
+              </div>
+              <div class="rounded-xl bg-slate-50 p-2">
+                <p class="px-2 pb-1 text-[10px] font-black uppercase tracking-wider text-slate-400">Catalogues</p>
+                {catalogLinks.map((link) => (
+                  <a href={link.href} class="block rounded-xl px-3 py-2.5 hover:bg-white transition-colors">
+                    <span class="block text-sm font-bold text-slate-900">{link.title}</span>
+                    <span class="block text-xs text-slate-500 leading-snug">{link.detail}</span>
+                  </a>
+                ))}
+              </div>
+              <div class="rounded-xl bg-slate-50 p-2">
+                <p class="px-2 pb-1 text-[10px] font-black uppercase tracking-wider text-slate-400">Chaînes</p>
+                <div class="grid grid-cols-2 gap-0.5">
+                  {channelLinks.map((link) => (
+                    <a href={link.href} class="rounded-xl px-3 py-2 text-sm font-bold text-slate-900 hover:bg-white transition-colors">
+                      {link.title}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Mobile: quick time tabs -->
+        <div class="md:hidden flex items-center rounded-full bg-slate-100 p-0.5">
+          <a href="/en-direct" class={`px-2 py-1 text-[10px] font-black uppercase tracking-wide rounded-full transition-all ${isTimeActive('direct') ? 'bg-blue-600 text-white shadow-sm' : 'text-slate-600'}`}>Direct</a>
+          <a href="/" class={`px-2 py-1 text-[10px] font-black uppercase tracking-wide rounded-full transition-all ${isTimeActive('soir') ? 'bg-blue-600 text-white shadow-sm' : 'text-slate-600'}`}>Soir</a>
+          <a href="/demain" class={`px-2 py-1 text-[10px] font-black uppercase tracking-wide rounded-full transition-all ${isTimeActive('demain') ? 'bg-blue-600 text-white shadow-sm' : 'text-slate-600'}`}>Demain</a>
+        </div>
+
+        <!-- Mobile menu button -->
+        <button
+          type="button"
+          id="mobile-menu-btn"
+          class="md:hidden w-9 h-9 flex items-center justify-center rounded-lg hover:bg-slate-100 text-slate-700 transition-colors"
+          aria-label="Ouvrir le menu"
+          aria-expanded="false"
+          aria-controls="mobile-menu-panel"
+        >
+          <svg id="menu-icon-open" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+          <svg id="menu-icon-close" class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile: channel scroll strip -->
+    <nav class="md:hidden flex items-center gap-1.5 overflow-x-auto pb-2 scrollbar-none -mx-1 px-1" aria-label="Chaînes TV">
+      {channelLinks.map((link) => (
+        <a
+          href={link.href}
+          class:list={[
+            'flex-shrink-0 px-2.5 py-1 rounded-full text-[11px] font-semibold whitespace-nowrap transition-colors',
+            isActive(link.href)
+              ? 'bg-blue-600 text-white'
+              : 'bg-slate-100 text-slate-600 hover:bg-slate-200',
+          ]}
+        >
+          {link.title}
+        </a>
+      ))}
+    </nav>
+  </div>
+
+  <!-- Mobile drawer overlay -->
+  <div id="mobile-menu-overlay" class="fixed inset-0 bg-black/40 z-40 hidden md:hidden" aria-hidden="true"></div>
+
+  <!-- Mobile drawer panel -->
+  <div
+    id="mobile-menu-panel"
+    class="fixed top-0 right-0 z-50 h-full w-[min(100vw,320px)] bg-white shadow-2xl transform translate-x-full transition-transform duration-300 ease-out md:hidden flex flex-col"
+    aria-hidden="true"
+  >
+    <div class="flex items-center justify-between px-4 h-14 border-b border-slate-100 shrink-0">
+      <span class="text-sm font-black text-slate-900">Menu</span>
+      <button type="button" id="mobile-menu-close" class="w-9 h-9 flex items-center justify-center rounded-lg hover:bg-slate-100" aria-label="Fermer le menu">
+        <svg class="w-5 h-5 text-slate-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+
+    <div class="flex-1 overflow-y-auto px-4 py-4 space-y-5">
+      <!-- Search -->
+      <form action="/recherche" method="get" class="relative">
+        <input
+          type="text"
+          name="qs"
+          placeholder="Rechercher un programme..."
+          class="w-full pl-9 pr-3 py-2.5 rounded-xl bg-slate-100 border border-slate-200 focus:bg-white focus:border-blue-300 text-sm outline-none"
+          autocomplete="off"
+        />
+        <svg class="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg>
+      </form>
+
+      <!-- Primary nav -->
+      <div>
+        <p class="text-[10px] font-black uppercase tracking-wider text-slate-400 mb-2">Navigation</p>
+        <div class="grid grid-cols-2 gap-1.5">
+          {navLinks.map((link) => (
+            <a
+              href={link.href}
+              class:list={[
+                'px-3 py-2.5 rounded-xl text-sm font-bold transition-colors',
+                isActive(link.href)
+                  ? 'bg-red-600 text-white shadow-xs'
+                  : 'bg-slate-50 text-slate-800 hover:bg-slate-100',
+              ]}
+            >
+              {link.label}
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- Explore hubs -->
+      <div>
+        <p class="text-[10px] font-black uppercase tracking-wider text-slate-400 mb-2">Thématiques</p>
+        <div class="space-y-0.5">
+          {exploreLinks.map((link) => (
+            <a href={link.href} class="flex items-center justify-between px-3 py-2.5 rounded-xl hover:bg-slate-50 transition-colors">
+              <span class="text-sm font-semibold text-slate-800">{link.title}</span>
+              <svg class="w-4 h-4 text-slate-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- Catalogues -->
+      <div>
+        <p class="text-[10px] font-black uppercase tracking-wider text-slate-400 mb-2">Catalogues</p>
+        <div class="space-y-0.5">
+          {catalogLinks.map((link) => (
+            <a href={link.href} class="flex items-center justify-between px-3 py-2.5 rounded-xl hover:bg-slate-50 transition-colors">
+              <span class="text-sm font-semibold text-slate-800">{link.title}</span>
+              <svg class="w-4 h-4 text-slate-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- All channels -->
+      <div>
+        <p class="text-[10px] font-black uppercase tracking-wider text-slate-400 mb-2">Chaînes</p>
+        <div class="grid grid-cols-2 gap-1.5">
+          {channelLinks.map((link) => (
+            <a href={link.href} class="px-3 py-2 rounded-xl bg-slate-50 text-sm font-bold text-slate-800 hover:bg-slate-100 transition-colors text-center">
+              {link.title}
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<style>
+  .scrollbar-none::-webkit-scrollbar { display: none; }
+  .scrollbar-none { -ms-overflow-style: none; scrollbar-width: none; }
+  body.menu-open { overflow: hidden; }
+</style>
+
+<script>
+  const header = document.getElementById('main-header');
+  if (header) {
+    let ticking = false;
+    window.addEventListener('scroll', () => {
+      if (!ticking) {
+        requestAnimationFrame(() => {
+          header.classList.toggle('shadow-md', window.scrollY > 20);
+          ticking = false;
+        });
+        ticking = true;
+      }
+    });
+  }
+
+  // Desktop explore dropdown
+  const exploreBtn = document.getElementById('explore-menu-btn');
+  const explorePanel = document.getElementById('explore-menu-panel');
+  const exploreChevron = document.getElementById('explore-menu-chevron');
+  const exploreWrap = document.getElementById('explore-menu-wrap');
+
+  function closeExploreMenu() {
+    explorePanel?.classList.add('hidden');
+    exploreBtn?.setAttribute('aria-expanded', 'false');
+    exploreChevron?.classList.remove('rotate-180');
+  }
+
+  exploreBtn?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const open = explorePanel?.classList.toggle('hidden') === false;
+    exploreBtn.setAttribute('aria-expanded', String(open));
+    exploreChevron?.classList.toggle('rotate-180', open);
+  });
+
+  document.addEventListener('click', (e) => {
+    if (exploreWrap && !exploreWrap.contains(e.target as Node)) {
+      closeExploreMenu();
+    }
+  });
+
+  // Mobile drawer
+  const menuBtn = document.getElementById('mobile-menu-btn');
+  const menuClose = document.getElementById('mobile-menu-close');
+  const menuPanel = document.getElementById('mobile-menu-panel');
+  const menuOverlay = document.getElementById('mobile-menu-overlay');
+  const iconOpen = document.getElementById('menu-icon-open');
+  const iconClose = document.getElementById('menu-icon-close');
+
+  function openMobileMenu() {
+    menuPanel?.classList.remove('translate-x-full');
+    menuPanel?.setAttribute('aria-hidden', 'false');
+    menuOverlay?.classList.remove('hidden');
+    menuOverlay?.setAttribute('aria-hidden', 'false');
+    menuBtn?.setAttribute('aria-expanded', 'true');
+    iconOpen?.classList.add('hidden');
+    iconClose?.classList.remove('hidden');
+    document.body.classList.add('menu-open');
+  }
+
+  function closeMobileMenu() {
+    menuPanel?.classList.add('translate-x-full');
+    menuPanel?.setAttribute('aria-hidden', 'true');
+    menuOverlay?.classList.add('hidden');
+    menuOverlay?.setAttribute('aria-hidden', 'true');
+    menuBtn?.setAttribute('aria-expanded', 'false');
+    iconOpen?.classList.remove('hidden');
+    iconClose?.classList.add('hidden');
+    document.body.classList.remove('menu-open');
+  }
+
+  menuBtn?.addEventListener('click', () => {
+    if (menuPanel?.classList.contains('translate-x-full')) {
+      openMobileMenu();
+    } else {
+      closeMobileMenu();
+    }
+  });
+
+  menuClose?.addEventListener('click', closeMobileMenu);
+  menuOverlay?.addEventListener('click', closeMobileMenu);
+
+  menuPanel?.querySelectorAll('a').forEach((link) => {
+    link.addEventListener('click', closeMobileMenu);
+  });
+
+  window.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      closeMobileMenu();
+      closeExploreMenu();
+    }
+  });
+</script>
