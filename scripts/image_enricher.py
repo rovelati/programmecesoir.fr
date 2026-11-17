@@ -42,6 +42,11 @@ HEAD_CHANNELS = (
     "cstar",
 )
 
+ADULT_CHANNEL_RE = re.compile(
+    r"dorcel|xxx|pink|hustler|vixen|brazzers|adult|playboy|penthouse|porn|sex|private-?tv",
+    re.I,
+)
+
 
 def setup_logging() -> logging.Logger:
     log_level = os.getenv("LOG_LEVEL", "INFO").upper()
@@ -94,7 +99,7 @@ def infer_program_kind(title: str, genre: str | None) -> str:
     if any(token in normalized_genre for token in ("film", "cinéma", "cinema", "movie", "téléfilm", "telefilm")):
         return "movie"
 
-    if any(token in normalized_genre for token in ("série", "serie", "fiction", "sitcom", "soap", "dessin animé", "dessin anime", "animation")):
+    if any(token in normalized_genre for token in ("série", "serie", "fiction", "sitcom", "soap", "dessin animé", "dessin anime", "animation", "téléréalité", "telerealite", "divertissement", "jeu", "doc", "documentaire", "découverte", "histoire", "nature", "société", "reportage", "magazine", "talk")):
         if re.search(r"(saison|season|st\.?|episode|épisode|ep\.?)\s*\d+", normalized_title, re.IGNORECASE):
             return "episode"
         return "series"
@@ -137,6 +142,7 @@ class ProgramImageEnricher:
         self.logger = setup_logging()
 
         self.database_url = os.getenv("DATABASE_URL")
+        self.disable_supabase_fallback = os.getenv("DISABLE_SUPABASE_FALLBACK", "0").lower() in {"1", "true", "yes", "on"}
         self.supabase_url = os.getenv("SUPABASE_URL")
         self.supabase_key = os.getenv("SUPABASE_SERVICE_KEY") or os.getenv("SUPABASE_READ_KEY")
         self.programs_table = os.getenv("SUPABASE_PROGRAMS_TABLE", "programs_fr")
@@ -163,6 +169,8 @@ class ProgramImageEnricher:
                     cur.fetchone()
                 self.logger.info("Using PostgreSQL adapter for image enrichment updates")
             except Exception as e:
+                if self.disable_supabase_fallback:
+                    raise RuntimeError(f"DATABASE_URL unavailable and Supabase fallback is disabled: {str(e)}") from e
                 self.logger.warning(f"DATABASE_URL unavailable for image enrichment, falling back to Supabase REST: {str(e)}")
                 try:
                     self.db.close()
@@ -170,11 +178,11 @@ class ProgramImageEnricher:
                     pass
                 self.db = None
 
-        if self.db is None and self.supabase_url and self.supabase_key:
+        if self.db is None and not self.disable_supabase_fallback and self.supabase_url and self.supabase_key:
             self.logger.info("Using Supabase client for image enrichment updates")
             self.db = create_client(self.supabase_url, self.supabase_key)
         if self.db is None:
-            raise RuntimeError("Missing working DATABASE_URL or SUPABASE_URL with SUPABASE_SERVICE_KEY/SUPABASE_READ_KEY")
+            raise RuntimeError("Missing working DATABASE_URL; Supabase fallback is disabled or credentials are absent")
 
         self.tmdb = TMDBClient(
             api_key=self.tmdb_api_key,
@@ -238,6 +246,7 @@ class ProgramImageEnricher:
             WHERE poster_url IS NULL
               AND image_fetched_at IS NULL
               AND end_time > NOW()
+              AND NOT (LOWER(COALESCE(channel_id, '')) ~ %s)
               AND (
                 LOWER(COALESCE(genre, '')) LIKE ANY(%s)
                 OR LOWER(COALESCE(title, '')) ~ %s
@@ -268,6 +277,7 @@ class ProgramImageEnricher:
             cursor.execute(
                 query,
                 (
+                    ADULT_CHANNEL_RE.pattern,
                     list(genre_patterns),
                     r"(saison|season|st\.?|episode|épisode|ep\.?)\s*\d+",
                     list(HEAD_CHANNELS),
@@ -304,6 +314,9 @@ class ProgramImageEnricher:
         return normalize_text(strip_episode_markers(program.title))
 
     def resolve_image(self, program: ProgramRow) -> tuple[str | None, str | None, int | None, int | None]:
+        if ADULT_CHANNEL_RE.search(program.channel_id or ""):
+            return None, None, None, None
+
         kind = infer_program_kind(program.title, program.genre)
         if kind == "skip":
             return None, None, None, None

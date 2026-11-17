@@ -148,9 +148,9 @@ const jsonLd = [
 
   <div class="container mx-auto px-3 sm:px-4 py-5 sm:py-8 max-w-5xl">
     <!-- Channel Header Banner with Neuromarketing Styling -->
-    <div class="p-5 sm:p-7 bg-white rounded-3xl border border-slate-200 shadow-xs mb-6 flex flex-col md:flex-row md:items-center justify-between gap-5">
+    <div class="p-5 sm:p-7 bg-[#111827]/95 rounded-3xl border border-gray-800/90 shadow-2xl mb-6 flex flex-col md:flex-row md:items-center justify-between gap-5">
       <div class="flex items-center gap-4 sm:gap-5">
-        <div class="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-slate-900 border border-slate-200/80 p-2.5 flex items-center justify-center shrink-0 shadow-sm">
+        <div class="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-black/60 border border-gray-800 p-2.5 flex items-center justify-center shrink-0 shadow-sm">
           <img
             src={resolvedLogo}
             alt={`Logo ${seoName}`}
@@ -162,32 +162,32 @@ const jsonLd = [
         <div>
           <div class="flex items-center gap-2 mb-1 flex-wrap">
             {tntNum != null ? (
-              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-slate-900 text-white tracking-wider">
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-gray-900 text-white border border-gray-800 tracking-wider">
                 TNT {tntNum}
               </span>
             ) : isSwiss ? (
-              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-rose-50 text-rose-700 border border-rose-200 tracking-wider">
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-rose-950/60 text-rose-300 border border-rose-800/50 tracking-wider">
                 🇨🇭 Suisse
               </span>
             ) : isPaid ? (
-              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-amber-50 text-amber-700 border border-amber-200 tracking-wider">
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-amber-950/60 text-amber-300 border border-amber-800/50 tracking-wider">
                 Payant
               </span>
             ) : isLocal ? (
-              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-emerald-50 text-emerald-700 border border-emerald-200 tracking-wider">
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-emerald-950/60 text-emerald-300 border border-emerald-800/50 tracking-wider">
                 TNT Locale
               </span>
             ) : null}
-            <span class="inline-flex items-center gap-1.5 text-[11px] font-bold text-slate-500" id="live-paris-clock">
+            <span class="inline-flex items-center gap-1.5 text-[11px] font-bold text-gray-400" id="live-paris-clock">
               <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
               <span id="paris-clock-text">En direct</span>
             </span>
           </div>
 
-          <h1 class="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+          <h1 class="text-2xl sm:text-3xl font-black text-white tracking-tight">
             Programme TV {seoName} aujourd'hui
           </h1>
-          <p class="text-xs sm:text-sm text-slate-500 capitalize mt-0.5">
+          <p class="text-xs sm:text-sm text-gray-400 capitalize mt-0.5">
             Grille complète des émissions • {todayFormatted}
           </p>
         </div>
@@ -200,7 +200,7 @@ const jsonLd = [
             href={tvStream.streamUrl}
             target="_blank"
             rel="noopener noreferrer nofollow"
-            class="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-red-600 hover:bg-red-700 text-white font-extrabold rounded-xl text-xs sm:text-sm shadow-md transition-all cursor-pointer"
+            class="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-[#E10600] hover:bg-red-700 text-white font-extrabold rounded-xl text-xs sm:text-sm shadow-lg hover:shadow-red-600/30 transition-all cursor-pointer"
             aria-label={`Regarder ${seoName} en direct streaming officiel sur ${tvStream.provider}`}
           >
             <span class="w-2 h-2 rounded-full bg-white animate-pulse"></span>
@@ -215,10 +215,10 @@ const jsonLd = [
 
     <!-- Navigation temporelle -->
     <nav class="flex gap-2 sm:gap-3 mb-6 overflow-x-auto pb-1 scrollbar-none" aria-label="Navigation temporelle">
-      <a href={`/${chSlug}`} class="shrink-0 px-4 py-2 bg-red-600 text-white rounded-full text-xs sm:text-sm font-bold shadow-xs">Aujourd'hui</a>
-      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Ce soir (21h10)</a>
-      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">En direct</a>
-      <a href={`/demain/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Demain</a>
+      <a href={`/${chSlug}`} class="shrink-0 px-4 py-2 bg-[#E10600] text-white rounded-full text-xs sm:text-sm font-bold shadow-md">Aujourd'hui</a>
+      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-4 py-2 bg-gray-900/80 border border-gray-800 rounded-full text-xs sm:text-sm font-semibold text-gray-300 hover:text-white hover:border-gray-700 transition-all">Ce soir (21h10)</a>
+      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-4 py-2 bg-gray-900/80 border border-gray-800 rounded-full text-xs sm:text-sm font-semibold text-gray-300 hover:text-white hover:border-gray-700 transition-all">En direct</a>
+      <a href={`/demain/${chSlug}`} class="shrink-0 px-4 py-2 bg-gray-900/80 border border-gray-800 rounded-full text-xs sm:text-sm font-semibold text-gray-300 hover:text-white hover:border-gray-700 transition-all">Demain</a>
     </nav>
 
     <!-- High-Viewability Mid-Content Ad -->
@@ -230,7 +230,7 @@ const jsonLd = [
     />
 
     {programs.length === 0 ? (
-      <div class="text-center py-16 text-slate-400 bg-white rounded-2xl border border-slate-200">
+      <div class="text-center py-16 text-gray-400 bg-[#111827]/90 rounded-2xl border border-gray-800">
         <p class="text-lg font-semibold">Aucun programme disponible pour aujourd'hui.</p>
       </div>
     ) : (
@@ -238,8 +238,8 @@ const jsonLd = [
         <!-- 1. En Direct À l'antenne -->
         {currentProgram && (
           <section class="mb-6">
-            <h2 class="text-lg font-black text-slate-900 mb-3 flex items-center gap-2">
-              <span class="w-2 h-2 rounded-full bg-red-600 animate-pulse"></span>
+            <h2 class="text-lg font-black text-white mb-3 flex items-center gap-2">
+              <span class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
               À l'antenne en ce moment sur {seoName}
             </h2>
             <ScheduleProgramRow
@@ -257,7 +257,7 @@ const jsonLd = [
             <button
               id="btn-toggle-past"
               type="button"
-              class="w-full py-3 px-4 rounded-2xl bg-slate-100 hover:bg-slate-200/80 text-slate-700 text-xs sm:text-sm font-bold flex items-center justify-between transition-colors cursor-pointer"
+              class="w-full py-3 px-4 rounded-2xl bg-gray-900/80 hover:bg-gray-800/90 border border-gray-800 text-gray-300 text-xs sm:text-sm font-bold flex items-center justify-between transition-colors cursor-pointer"
               aria-expanded="false"
             >
               <span class="flex items-center gap-2">
@@ -314,30 +314,30 @@ const jsonLd = [
     />
 
     <!-- FAQ & Guide SEO Section -->
-    <section class="mt-10 mb-8 p-5 sm:p-6 bg-slate-50 border border-slate-200 rounded-2xl">
-      <h2 class="text-base sm:text-lg font-black text-slate-900 mb-3 flex items-center gap-2">
+    <section class="mt-10 mb-8 p-5 sm:p-6 bg-[#111827]/90 border border-gray-800/90 rounded-2xl shadow-xl">
+      <h2 class="text-base sm:text-lg font-black text-white mb-3 flex items-center gap-2">
         ℹ️ Guide et horaires {seoName}
       </h2>
-      <div class="space-y-3 text-xs sm:text-sm text-slate-600 leading-relaxed">
+      <div class="space-y-3 text-xs sm:text-sm text-gray-300 leading-relaxed">
         <p>
           Retrouvez toute la journée la programmation officielle de <strong>{seoName}</strong>. Suivez les rendez-vous d'information, les magazines, séries et films diffusés à l'antenne.
         </p>
         <p>
-          Besoin de savoir ce qui passe maintenant ? Consultez directement notre page <a href={`/en-direct/${chSlug}`} class="text-red-600 font-semibold underline">{seoName} en direct</a> ou préparez votre soirée avec <a href={`/ce-soir/${chSlug}`} class="text-red-600 font-semibold underline">{seoName} ce soir</a>.
+          Besoin de savoir ce qui passe maintenant ? Consultez directement notre page <a href={`/en-direct/${chSlug}`} class="text-red-400 font-semibold hover:underline">{seoName} en direct</a> ou préparez votre soirée avec <a href={`/ce-soir/${chSlug}`} class="text-red-400 font-semibold hover:underline">{seoName} ce soir</a>.
         </p>
       </div>
     </section>
 
     <!-- Maillage rapide autres chaînes -->
-    <section class="mb-10 pt-6 border-t border-slate-200">
-      <h2 class="text-sm font-black text-slate-900 uppercase tracking-wider mb-3">
+    <section class="mb-10 pt-6 border-t border-gray-800">
+      <h2 class="text-sm font-black text-white uppercase tracking-wider mb-3">
         📺 Programmes des autres chaînes aujourd'hui
       </h2>
       <div class="flex flex-wrap gap-1.5 sm:gap-2">
         {TOP_CHANNELS.filter(c => c.slug !== chSlug).map((c) => (
           <a
             href={`/${c.slug}`}
-            class="px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-lg text-xs font-semibold bg-white border border-slate-200 text-slate-700 hover:bg-red-50 hover:text-red-600 hover:border-red-200 transition-colors shadow-2xs"
+            class="px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-lg text-xs font-semibold bg-gray-900/80 border border-gray-800 text-gray-300 hover:bg-[#E10600]/20 hover:text-red-400 hover:border-red-500/40 transition-colors shadow-2xs"
           >
             Programme {c.name}
           </a>
@@ -347,10 +347,10 @@ const jsonLd = [
 
     <RelatedChannels suggestions={relatedChannels} viewMode="aujourdhui" channelName={channel.name} />
 
-    <nav class="mt-10 pt-6 border-t border-slate-200 flex flex-wrap gap-4 text-xs sm:text-sm" aria-label="Retour">
-      <a href={`/en-direct/${chSlug}`} class="text-red-600 font-semibold hover:underline">&larr; {seoName} en direct</a>
-      <a href={`/ce-soir/${chSlug}`} class="text-red-600 font-semibold hover:underline">&larr; {seoName} ce soir</a>
-      <a href="/" class="text-red-600 font-semibold hover:underline">&larr; Tous les programmes ce soir</a>
+    <nav class="mt-10 pt-6 border-t border-gray-800 flex flex-wrap gap-4 text-xs sm:text-sm" aria-label="Retour">
+      <a href={`/en-direct/${chSlug}`} class="text-red-400 font-semibold hover:underline">&larr; {seoName} en direct</a>
+      <a href={`/ce-soir/${chSlug}`} class="text-red-400 font-semibold hover:underline">&larr; {seoName} ce soir</a>
+      <a href="/" class="text-red-400 font-semibold hover:underline">&larr; Tous les programmes ce soir</a>
     </nav>
   </div>
 

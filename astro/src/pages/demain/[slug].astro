@@ -1,0 +1,126 @@
+---
+export const prerender = false;
+
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getChannelBySlug, getChannelSlugFromId, getProgramsByChannelAndDate, getTomorrowDateFR, slugify } from '../../utils/supabase';
+import { formatDateFR, getParisHour } from '../../utils/dates';
+import { getRelatedChannelsForSchedule } from '../../utils/relatedChannels';
+import RelatedChannels from '../../components/RelatedChannels.astro';
+import ScheduleProgramCard from '../../components/ScheduleProgramCard.astro';
+import { channelSeoName, channelTomorrowSeo } from '../../utils/seoCopy';
+import { isAdultOrJunkChannel } from '../../utils/programSeo';
+import { buildChannelScheduleJsonLd } from '../../utils/channelJsonLd';
+
+const { slug } = Astro.params;
+if (!slug) return Astro.redirect('/');
+
+const channel = await getChannelBySlug(slug);
+
+if (!channel) return new Response(null, { status: 404 });
+
+const tomorrow = await getTomorrowDateFR();
+const programs = await getProgramsByChannelAndDate(channel.channel_id, tomorrow);
+const relatedChannels = await getRelatedChannelsForSchedule(channel, programs, 'demain', tomorrow, 6);
+const tomorrowFormatted = formatDateFR(new Date(Date.now() + 86400000));
+const chSlug = getChannelSlugFromId(channel.channel_id);
+const canonical = `https://programmecesoir.fr/demain/${chSlug}`;
+const seoName = channelSeoName(chSlug, channel.name);
+const { title: pageTitle, description: pageDescription } = channelTomorrowSeo(seoName);
+const noindex = isAdultOrJunkChannel(chSlug);
+import { pickFeaturedProgram } from '../../utils/programPick';
+import { resolveProgramPoster } from '../../utils/programPoster';
+import { resolveOgImage } from '../../utils/seoImage';
+
+const primeProgram = pickFeaturedProgram(programs, 'demain');
+const primePoster = primeProgram ? resolveProgramPoster(primeProgram) : null;
+const ogImage = resolveOgImage(primePoster, channel.logo_url);
+
+const timeSlots = [
+  { label: 'Matin', filter: (p: { start_time: string }) => { const h = getParisHour(p.start_time); return h >= 6 && h < 12; } },
+  { label: 'Après-midi', filter: (p: { start_time: string }) => { const h = getParisHour(p.start_time); return h >= 12 && h < 18; } },
+  { label: 'Soirée', filter: (p: { start_time: string }) => { const h = getParisHour(p.start_time); return h >= 18 || h < 6; } },
+];
+
+const jsonLd = buildChannelScheduleJsonLd({
+  channel,
+  channelSlug: chSlug,
+  channelName: seoName,
+  canonical,
+  view: 'demain',
+  programs,
+  breadcrumbs: [
+    { name: 'Accueil', item: 'https://programmecesoir.fr' },
+    { name: seoName, item: `https://programmecesoir.fr/${chSlug}` },
+    { name: 'Demain', item: canonical },
+  ],
+});
+---
+
+<Layout
+  title={pageTitle}
+  description={pageDescription}
+  canonical={canonical}
+  noindex={noindex}
+  image={ogImage}
+  jsonLd={jsonLd}
+>
+  <Header slot="header" activePath="/demain" />
+
+  <div class="container mx-auto px-4 py-8 max-w-5xl">
+    <div class="flex items-center gap-4 mb-8 p-5 sm:p-7 bg-[#111827]/95 rounded-3xl border border-gray-800/90 shadow-2xl">
+      {channel.logo_url && (
+        <div class="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-black/60 border border-gray-800 p-2.5 flex items-center justify-center shrink-0 shadow-sm">
+          <img src={channel.logo_url} alt={seoName} class="max-h-full max-w-full object-contain" width="80" height="80" />
+        </div>
+      )}
+      <div>
+        <h1 class="text-2xl md:text-3xl font-black text-white">{seoName} demain — programme TV</h1>
+        <p class="text-gray-400 capitalize mt-0.5">{tomorrowFormatted}</p>
+      </div>
+    </div>
+
+    <nav class="flex gap-2 sm:gap-3 mb-8 overflow-x-auto pb-1 scrollbar-none" aria-label="Navigation temporelle">
+      <a href={`/${chSlug}`} class="shrink-0 px-4 py-2 bg-gray-900/80 border border-gray-800 rounded-full text-xs sm:text-sm font-semibold text-gray-300 hover:text-white hover:border-gray-700 transition-all">Aujourd'hui</a>
+      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-4 py-2 bg-gray-900/80 border border-gray-800 rounded-full text-xs sm:text-sm font-semibold text-gray-300 hover:text-white hover:border-gray-700 transition-all">Ce soir</a>
+      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-4 py-2 bg-gray-900/80 border border-gray-800 rounded-full text-xs sm:text-sm font-semibold text-gray-300 hover:text-white hover:border-gray-700 transition-all">En direct</a>
+      <a href={`/demain/${chSlug}`} class="shrink-0 px-4 py-2 bg-[#E10600] text-white rounded-full text-xs sm:text-sm font-bold shadow-md">Demain</a>
+    </nav>
+
+    {programs.length === 0 ? (
+      <div class="text-center py-16 text-gray-400 bg-[#111827]/90 rounded-2xl border border-gray-800">
+        <p class="text-lg font-semibold">Aucun programme trouvé pour demain.</p>
+      </div>
+    ) : (
+      <div class="space-y-10">
+        {timeSlots.map(({ label, filter }) => {
+          const slotPrograms = programs.filter(filter);
+          if (slotPrograms.length === 0) return null;
+          return (
+            <section>
+              <h2 class="text-lg font-black text-white mb-4 flex items-center gap-2">
+                <span class="w-1.5 h-6 bg-[#E10600] rounded-full"></span>
+                {label}
+              </h2>
+              <div class="space-y-2">
+                {slotPrograms.map((p) => (
+                  <ScheduleProgramRow program={p} channel={channel} channelSlug={chSlug} />
+                ))}
+              </div>
+            </section>
+          );
+        })}
+      </div>
+    )}
+
+    <RelatedChannels suggestions={relatedChannels} viewMode="demain" channelName={channel.name} />
+
+    <nav class="mt-12 pt-8 border-t border-gray-800 flex flex-wrap gap-4 text-xs sm:text-sm" aria-label="Retour">
+      <a href={`/${chSlug}`} class="text-red-400 font-semibold hover:underline">&larr; Programme {channel.name} complet</a>
+      <a href="/demain" class="text-red-400 font-semibold hover:underline">&larr; Tous les programmes demain</a>
+    </nav>
+  </div>
+
+  <Footer slot="footer" />
+</Layout>

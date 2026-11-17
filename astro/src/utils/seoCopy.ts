@@ -121,22 +121,22 @@ export function homeSeo() {
 /** Brand-first titles to improve CTR on channel queries. */
 export function channelTonightSeo(channelName: string) {
   return {
-    title: `Programme TV ${channelName} ce soir – Prime time (21h10)`,
-    description: `Programme TV ${channelName} de ce soir : retrouvez le film, la série ou l'émission de première partie de soirée à 21h10 et la suite des programmes sur ${channelName}.`,
+    title: `Programme TV ${channelName} ce soir : Prime Time 21h10 & Soirée Télé`,
+    description: `⭐ Programme TV de ${channelName} ce soir : film ou série en prime time à 21h10, streaming en direct, résumés détaillés et grille complète de votre soirée télé sur ${channelName}.`,
   };
 }
 
 export function channelTodaySeo(channelName: string) {
   return {
-    title: `Programme TV ${channelName} aujourd'hui & ce soir`,
+    title: `Programme TV ${channelName} aujourd'hui & ce soir : Grille Complète`,
     description: `Programme TV complet de ${channelName} aujourd'hui : retrouvez tous les horaires des films, séries, journaux et émissions diffusés du matin au soir sur ${channelName}.`,
   };
 }
 
 export function channelTomorrowSeo(channelName: string) {
   return {
-    title: `Programme TV ${channelName} demain – Grille TV & horaires`,
-    description: `Programme TV ${channelName} de demain : consultez la grille complète des programmes et horaires de diffusion pour toute la journée et soirée de demain sur ${channelName}.`,
+    title: `Programme TV ${channelName} demain : Grille TV & Soirée Prime Time`,
+    description: `📅 Programme TV ${channelName} de demain : consultez la grille complète des programmes et horaires de diffusion pour toute la journée et soirée de demain sur ${channelName}.`,
   };
 }
 

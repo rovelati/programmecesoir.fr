@@ -13,6 +13,7 @@ import requests
 
 TMDB_API_BASE = "https://api.themoviedb.org/3"
 TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
+TMDB_BACKDROP_BASE = "https://image.tmdb.org/t/p/w780"
 
 
 def normalize_text(value: str | None) -> str:
@@ -103,8 +104,8 @@ class TMDBClient:
         best_score = float("-inf")
 
         for item in results:
-            poster_path = item.get("poster_path")
-            if not poster_path:
+            chosen_path = item.get("backdrop_path") or item.get("poster_path")
+            if not chosen_path:
                 continue
 
             candidate_title = ""
@@ -126,6 +127,9 @@ class TMDBClient:
             elif normalized_title and normalized_title in normalized_query:
                 score += 4
 
+            if item.get("backdrop_path"):
+                score += 2.0
+
             popularity = float(item.get("popularity") or 0)
             score += min(popularity / 100.0, 2.0)
 
@@ -143,13 +147,18 @@ class TMDBClient:
             return None
 
         tmdb_id = int(best_item["id"])
-        poster_path = str(best_item["poster_path"])
+        backdrop = best_item.get("backdrop_path")
+        poster = best_item.get("poster_path")
+        if backdrop:
+            img_url = f"{TMDB_BACKDROP_BASE}{backdrop}"
+        else:
+            img_url = f"{TMDB_IMAGE_BASE}{poster}"
         title = next((str(best_item.get(k)) for k in title_keys if best_item.get(k)), query)
         raw_year = best_item.get(year_key) or ""
         match_year = int(raw_year[:4]) if isinstance(raw_year, str) and raw_year[:4].isdigit() else None
         return TMDBMatch(
             tmdb_id=tmdb_id,
-            poster_url=f"{TMDB_IMAGE_BASE}{poster_path}",
+            poster_url=img_url,
             title=title,
             year=match_year,
         )

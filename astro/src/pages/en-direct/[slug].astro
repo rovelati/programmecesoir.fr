@@ -177,9 +177,9 @@ const jsonLd = [
 
   <div class="container mx-auto px-3 sm:px-4 py-6 sm:py-8 max-w-5xl">
     <!-- Channel Header Banner -->
-    <div class="p-5 sm:p-7 bg-white rounded-3xl border border-slate-200 shadow-xs mb-6 flex flex-col md:flex-row md:items-center justify-between gap-5">
+    <div class="p-5 sm:p-7 bg-[#111827]/95 rounded-3xl border border-gray-800/90 shadow-2xl mb-6 flex flex-col md:flex-row md:items-center justify-between gap-5">
       <div class="flex items-center gap-4 sm:gap-5">
-        <div class="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-slate-900 border border-slate-200/80 p-2.5 flex items-center justify-center shrink-0 shadow-sm">
+        <div class="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-black/60 border border-gray-800 p-2.5 flex items-center justify-center shrink-0 shadow-sm">
           <img
             src={resolvedLogo}
             alt={`Logo ${seoName}`}
@@ -190,24 +190,24 @@ const jsonLd = [
         </div>
         <div>
           <div class="flex items-center gap-2 mb-1 flex-wrap">
-            <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-[10px] sm:text-[11px] font-black uppercase bg-red-600 text-white shadow-2xs">
+            <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-[10px] sm:text-[11px] font-black uppercase bg-[#E10600] text-white shadow-2xs">
               <span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
               En direct maintenant
             </span>
             {tntNum != null && (
-              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-slate-900 text-white tracking-wider">
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-gray-900 text-white border border-gray-800 tracking-wider">
                 TNT {tntNum}
               </span>
             )}
-            <span class="inline-flex items-center gap-1.5 text-[11px] font-bold text-slate-500" id="live-paris-clock">
+            <span class="inline-flex items-center gap-1.5 text-[11px] font-bold text-gray-400" id="live-paris-clock">
               <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
               <span id="paris-clock-text">En direct</span>
             </span>
           </div>
-          <h1 class="text-2xl sm:text-3xl md:text-4xl font-black text-slate-900 tracking-tight">
+          <h1 class="text-2xl sm:text-3xl md:text-4xl font-black text-white tracking-tight">
             {seoName} en direct : programme TV & streaming
           </h1>
-          <p class="text-slate-500 text-xs sm:text-sm capitalize mt-1">
+          <p class="text-gray-400 text-xs sm:text-sm capitalize mt-1">
             Grille en direct à l'antenne &bull; {todayFormatted}
           </p>
         </div>
@@ -219,7 +219,7 @@ const jsonLd = [
             href={tvStream.streamUrl}
             target="_blank"
             rel="noopener noreferrer nofollow"
-            class="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-red-600 hover:bg-red-700 text-white font-extrabold rounded-xl text-xs sm:text-sm shadow-md transition-all cursor-pointer"
+            class="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-[#E10600] hover:bg-red-700 text-white font-extrabold rounded-xl text-xs sm:text-sm shadow-lg hover:shadow-red-600/30 transition-all cursor-pointer"
             aria-label={`Regarder ${seoName} en streaming direct officiel sur ${tvStream.provider}`}
           >
             <span class="w-2 h-2 rounded-full bg-white animate-pulse"></span>
@@ -234,32 +234,32 @@ const jsonLd = [
 
     <!-- Navigation temporelle -->
     <nav class="flex gap-2 sm:gap-3 mb-6 overflow-x-auto pb-1 scrollbar-none" aria-label="Navigation temporelle">
-      <a href={`/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Aujourd'hui</a>
-      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Ce soir (21h10)</a>
-      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-4 py-2 bg-red-600 text-white rounded-full text-xs sm:text-sm font-bold shadow-xs">En direct</a>
-      <a href={`/demain/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Demain</a>
+      <a href={`/${chSlug}`} class="shrink-0 px-4 py-2 bg-gray-900/80 border border-gray-800 rounded-full text-xs sm:text-sm font-semibold text-gray-300 hover:text-white hover:border-gray-700 transition-all">Aujourd'hui</a>
+      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-4 py-2 bg-gray-900/80 border border-gray-800 rounded-full text-xs sm:text-sm font-semibold text-gray-300 hover:text-white hover:border-gray-700 transition-all">Ce soir (21h10)</a>
+      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-4 py-2 bg-[#E10600] text-white rounded-full text-xs sm:text-sm font-bold shadow-md">En direct</a>
+      <a href={`/demain/${chSlug}`} class="shrink-0 px-4 py-2 bg-gray-900/80 border border-gray-800 rounded-full text-xs sm:text-sm font-semibold text-gray-300 hover:text-white hover:border-gray-700 transition-all">Demain</a>
     </nav>
 
     <!-- Hero Live Card Widescreen 16:9 -->
     {currentProgram ? (
       <section class="mb-8 sm:mb-10" id="hero-live-container">
-        <h2 class="text-lg sm:text-xl font-black text-slate-900 mb-3 sm:mb-4 flex items-center gap-2">
-          <span class="w-2 h-2 rounded-full bg-red-600 animate-pulse"></span>
+        <h2 class="text-lg sm:text-xl font-black text-white mb-3 sm:mb-4 flex items-center gap-2">
+          <span class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
           À l'antenne actuellement sur {seoName}
         </h2>
 
-        <div class="bg-white rounded-3xl border border-slate-200/90 shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden flex flex-col md:flex-row group">
+        <div class="bg-[#111827]/95 rounded-3xl border border-gray-800/90 shadow-2xl hover:border-gray-700/80 transition-all duration-300 overflow-hidden flex flex-col md:flex-row group">
           <!-- 16:9 Image Box -->
-          <div class="relative md:w-5/12 aspect-video md:aspect-auto overflow-hidden bg-slate-900 shrink-0">
+          <div class="relative md:w-5/12 aspect-video md:aspect-auto overflow-hidden bg-black/60 shrink-0">
             <img
               id="hero-live-img"
               src={currentHeroImg.imageUrl}
               alt={currentProgram.title}
               width="640"
               height="360"
-              class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+              class="w-full h-full object-cover object-[center_20%] group-hover:scale-105 transition-transform duration-500 opacity-90"
             />
-            <div class="absolute inset-0 bg-gradient-to-t md:bg-gradient-to-r from-black/80 via-black/20 to-transparent pointer-events-none"></div>
+            <div class="absolute inset-0 bg-gradient-to-t md:bg-gradient-to-r from-[#111827] via-transparent to-black/40 pointer-events-none"></div>
 
             <!-- Floating Pill -->
             <div class="absolute top-3 left-3 z-10 flex items-center gap-1.5 bg-black/85 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/15 shadow-lg">
@@ -279,7 +279,7 @@ const jsonLd = [
             </div>
 
             <!-- Badge Live -->
-            <span class="absolute top-3 right-3 z-10 inline-flex items-center gap-1.5 px-3 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider bg-red-600 text-white shadow-md">
+            <span class="absolute top-3 right-3 z-10 inline-flex items-center gap-1.5 px-3 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider bg-[#E10600] text-white shadow-md">
               <span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
               Direct
             </span>
@@ -289,51 +289,51 @@ const jsonLd = [
           <div class="p-5 sm:p-6 flex-1 flex flex-col justify-between">
             <div>
               <div class="flex items-center gap-2 mb-2 flex-wrap">
-                <span class="text-[10px] font-black tracking-wider uppercase text-red-600 bg-red-50 px-2.5 py-1 rounded-md border border-red-100" id="hero-live-genre">
+                <span class="text-[10px] font-black tracking-wider uppercase text-red-400 bg-red-950/50 px-2.5 py-1 rounded-md border border-red-800/40" id="hero-live-genre">
                   {currentProgram.genre || 'En direct'}
                 </span>
-                <span class="text-xs font-bold text-slate-500 tabular-nums" id="hero-live-hours">
+                <span class="text-xs font-bold text-gray-300 tabular-nums" id="hero-live-hours">
                   {formatTimeFR(currentProgram.start_time)} – {formatTimeFR(currentProgram.end_time)}
                 </span>
-                <span class="text-xs font-semibold text-slate-400" id="hero-live-duration">
+                <span class="text-xs font-semibold text-gray-400" id="hero-live-duration">
                   ({durationMinutes(currentProgram.start_time, currentProgram.end_time)} min)
                 </span>
               </div>
 
-              <h3 class="text-xl sm:text-2xl font-black text-slate-900 group-hover:text-red-600 transition-colors leading-snug mb-3" id="hero-live-title">
+              <h3 class="text-xl sm:text-2xl font-black text-white group-hover:text-red-400 transition-colors leading-snug mb-3" id="hero-live-title">
                 {currentProgram.title}
               </h3>
 
               <!-- Progress Bar -->
               <div class="mb-3">
-                <div class="flex items-center justify-between text-xs font-bold text-slate-500 mb-1.5">
-                  <span class="text-red-600 flex items-center gap-1">
-                    <span class="w-1.5 h-1.5 rounded-full bg-red-600 animate-pulse"></span>
+                <div class="flex items-center justify-between text-xs font-bold text-gray-400 mb-1.5">
+                  <span class="text-red-400 flex items-center gap-1">
+                    <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
                     <span id="hero-live-remaining">{liveRemainingMin} min restantes</span>
                   </span>
                   <span class="tabular-nums" id="hero-live-pct">{liveProgress}%</span>
                 </div>
-                <div class="h-2 w-full bg-slate-100 rounded-full overflow-hidden">
+                <div class="h-2 w-full bg-gray-800 rounded-full overflow-hidden">
                   <div
                     id="hero-live-progress-bar"
-                    class="h-full bg-red-600 rounded-full transition-all duration-1000 live-progress-bar"
+                    class="h-full bg-[#E10600] rounded-full transition-all duration-1000 live-progress-bar"
                     style={`width: ${liveProgress}%;`}
                   />
                 </div>
               </div>
 
               {currentProgram.description && (
-                <p class="text-xs sm:text-sm text-slate-600 line-clamp-3 leading-relaxed mb-4" id="hero-live-desc">
+                <p class="text-xs sm:text-sm text-gray-300 line-clamp-3 leading-relaxed mb-4" id="hero-live-desc">
                   {currentProgram.description}
                 </p>
               )}
             </div>
 
             <!-- CTA Actions -->
-            <div class="pt-4 border-t border-slate-100 flex flex-wrap items-center justify-between gap-3">
+            <div class="pt-4 border-t border-gray-800/80 flex flex-wrap items-center justify-between gap-3">
               <a
                 href={programPath(chSlug, currentProgram.title)}
-                class="text-xs sm:text-sm font-bold text-slate-700 hover:text-red-600 transition-colors inline-flex items-center gap-1"
+                class="text-xs sm:text-sm font-bold text-gray-300 hover:text-white transition-colors inline-flex items-center gap-1"
                 id="hero-live-link"
               >
                 <span>Fiche complète & résumé</span>
@@ -345,7 +345,7 @@ const jsonLd = [
                   href={tvStream.streamUrl}
                   target="_blank"
                   rel="noopener noreferrer nofollow"
-                  class="px-4 py-2 bg-red-600 hover:bg-red-700 text-white font-bold rounded-xl text-xs sm:text-sm shadow-xs transition-all inline-flex items-center gap-1.5"
+                  class="px-4 py-2 bg-[#E10600] hover:bg-red-700 text-white font-bold rounded-xl text-xs sm:text-sm shadow-md transition-all inline-flex items-center gap-1.5"
                 >
                   <span>Regarder le direct sur {tvStream.provider}</span>
                   <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -358,17 +358,17 @@ const jsonLd = [
         </div>
       </section>
     ) : (
-      <div class="mb-8 sm:mb-10 text-center py-10 bg-slate-50 border border-slate-200 rounded-2xl text-slate-500">
-        <p class="font-bold text-slate-700 text-base">Aucun programme en direct répertorié à cet instant.</p>
-        <p class="text-xs text-slate-500 mt-1">Consultez la liste des prochains rendez-vous ci-dessous.</p>
+      <div class="mb-8 sm:mb-10 text-center py-10 bg-[#111827]/90 border border-gray-800 rounded-2xl text-gray-400">
+        <p class="font-bold text-white text-base">Aucun programme en direct répertorié à cet instant.</p>
+        <p class="text-xs text-gray-400 mt-1">Consultez la liste des prochains rendez-vous ci-dessous.</p>
       </div>
     )}
 
     <!-- Prochains programmes aujourd'hui -->
     {upcomingPrograms.length > 0 && (
       <section class="mb-10 sm:mb-12">
-        <h2 class="text-lg sm:text-xl font-black text-slate-900 mb-3 sm:mb-4 flex items-center gap-2">
-          <span class="w-1.5 h-6 bg-red-600 rounded-full"></span>
+        <h2 class="text-lg sm:text-xl font-black text-white mb-3 sm:mb-4 flex items-center gap-2">
+          <span class="w-1.5 h-6 bg-[#E10600] rounded-full"></span>
           Prochains programmes aujourd'hui sur {seoName}
         </h2>
         <div class="space-y-2">
@@ -385,13 +385,13 @@ const jsonLd = [
     )}
 
     <!-- FAQ & Guide SEO Section -->
-    <section class="mb-10 p-5 sm:p-6 bg-slate-50 border border-slate-200 rounded-2xl">
-      <h2 class="text-base sm:text-lg font-black text-slate-900 mb-4 flex items-center gap-2">
+    <section class="mb-10 p-5 sm:p-6 bg-[#111827]/90 border border-gray-800/90 rounded-2xl shadow-xl">
+      <h2 class="text-base sm:text-lg font-black text-white mb-4 flex items-center gap-2">
         ℹ️ Tout savoir sur {seoName} en direct
       </h2>
-      <div class="space-y-4 text-xs sm:text-sm text-slate-600 leading-relaxed">
+      <div class="space-y-4 text-xs sm:text-sm text-gray-300 leading-relaxed">
         <div>
-          <h3 class="font-bold text-slate-900 text-sm sm:text-base">
+          <h3 class="font-bold text-white text-sm sm:text-base">
             Quel est le programme diffusé sur {seoName} en direct en ce moment ?
           </h3>
           <p class="mt-1">
@@ -403,38 +403,38 @@ const jsonLd = [
           </p>
         </div>
         <div>
-          <h3 class="font-bold text-slate-900 text-sm sm:text-base">
+          <h3 class="font-bold text-white text-sm sm:text-base">
             Comment regarder {seoName} en direct live et replay gratuit ?
           </h3>
           <p class="mt-1">
             {tvStream ? (
-              <>Vous pouvez regarder <strong>{seoName} en direct streaming</strong> et accéder aux replays gratuits directement sur la plateforme officielle <strong>{tvStream.provider}</strong> (<a href={tvStream.streamUrl} target="_blank" rel="noopener noreferrer nofollow" class="text-red-600 font-semibold underline">accéder au direct officiel sur {tvStream.provider}</a>). La chaîne est également accessible gratuitement sur la TNT et les box TV internet (Orange, Free, SFR, Bouygues).</>
+              <>Vous pouvez regarder <strong>{seoName} en direct streaming</strong> et accéder aux replays gratuits directement sur la plateforme officielle <strong>{tvStream.provider}</strong> (<a href={tvStream.streamUrl} target="_blank" rel="noopener noreferrer nofollow" class="text-red-400 font-semibold underline">accéder au direct officiel sur {tvStream.provider}</a>). La chaîne est également accessible gratuitement sur la TNT et les box TV internet (Orange, Free, SFR, Bouygues).</>
             ) : (
               <>{seoName} est accessible gratuitement sur la TNT, via les décodeurs TV de vos fournisseurs d'accès internet (Orange, Free, SFR, Bouygues), le satellite, ainsi que sur les applications et sites de streaming officiels.</>
             )}
           </p>
         </div>
         <div>
-          <h3 class="font-bold text-slate-900 text-sm sm:text-base">
+          <h3 class="font-bold text-white text-sm sm:text-base">
             Où voir la suite des programmes de {seoName} ?
           </h3>
           <p class="mt-1">
-            Accédez facilement au <a href={`/ce-soir/${chSlug}`} class="text-red-600 font-semibold underline">programme {seoName} ce soir à 21h10</a>, à la <a href={`/${chSlug}`} class="text-red-600 font-semibold underline">grille complète d'aujourd'hui</a> ou au <a href={`/demain/${chSlug}`} class="text-red-600 font-semibold underline">programme {seoName} de demain</a>.
+            Accédez facilement au <a href={`/ce-soir/${chSlug}`} class="text-red-400 font-semibold underline">programme {seoName} ce soir à 21h10</a>, à la <a href={`/${chSlug}`} class="text-red-400 font-semibold underline">grille complète d'aujourd'hui</a> ou au <a href={`/demain/${chSlug}`} class="text-red-400 font-semibold underline">programme {seoName} de demain</a>.
           </p>
         </div>
       </div>
     </section>
 
     <!-- Maillage rapide autres chaînes en direct -->
-    <section class="mb-10 pt-6 border-t border-slate-200">
-      <h2 class="text-sm font-black text-slate-900 uppercase tracking-wider mb-3">
+    <section class="mb-10 pt-6 border-t border-gray-800">
+      <h2 class="text-sm font-black text-white uppercase tracking-wider mb-3">
         📺 Autres chaînes en direct en ce moment
       </h2>
       <div class="flex flex-wrap gap-1.5 sm:gap-2">
         {TOP_DIRECT_CHANNELS.filter(c => c.slug !== chSlug).map((c) => (
           <a
             href={`/en-direct/${c.slug}`}
-            class="px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-lg text-xs font-semibold bg-white border border-slate-200 text-slate-700 hover:bg-red-50 hover:text-red-600 hover:border-red-200 transition-colors shadow-2xs"
+            class="px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-lg text-xs font-semibold bg-gray-900/80 border border-gray-800 text-gray-300 hover:bg-[#E10600]/20 hover:text-red-400 hover:border-red-500/40 transition-colors shadow-2xs"
           >
             {c.name} en direct
           </a>
@@ -444,10 +444,10 @@ const jsonLd = [
 
     <RelatedChannels suggestions={relatedChannels} viewMode="en-direct" channelName={channel.name} />
 
-    <nav class="mt-10 pt-6 border-t border-slate-200 flex flex-wrap gap-4 text-xs sm:text-sm" aria-label="Retour">
-      <a href={`/${chSlug}`} class="text-red-600 font-semibold hover:underline">&larr; Grille {seoName} complète aujourd'hui</a>
-      <a href={`/ce-soir/${chSlug}`} class="text-red-600 font-semibold hover:underline">&larr; {seoName} ce soir</a>
-      <a href="/en-direct" class="text-red-600 font-semibold hover:underline">&larr; Tous les programmes en direct</a>
+    <nav class="mt-10 pt-6 border-t border-gray-800 flex flex-wrap gap-4 text-xs sm:text-sm" aria-label="Retour">
+      <a href={`/${chSlug}`} class="text-red-400 font-semibold hover:underline">&larr; Grille {seoName} complète aujourd'hui</a>
+      <a href={`/ce-soir/${chSlug}`} class="text-red-400 font-semibold hover:underline">&larr; {seoName} ce soir</a>
+      <a href="/en-direct" class="text-red-400 font-semibold hover:underline">&larr; Tous les programmes en direct</a>
     </nav>
   </div>
 
