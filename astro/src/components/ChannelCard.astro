@@ -1,0 +1,250 @@
+---
+import type { ChannelRow, ProgramRow } from '../utils/supabase';
+import { getChannelSlugFromId } from '../utils/supabase';
+import { formatTimeFR, isCurrentlyAiring, progressPercent, durationMinutes } from '../utils/dates';
+import { pickFeaturedProgram, pickNextPrograms } from '../utils/programPick';
+import { buildProgramOverlayAttr } from '../utils/programOverlayData';
+import { programPath } from '../utils/programSeo';
+import { getChannelLogo } from '../utils/channelLogos';
+import { isPayant, isSuisse, isTntLocale, getTntNumber, FRANCE_3_REGIONS } from '../utils/channelUrls';
+import { resolveCardHeroImage, detectCategoryGroup } from '../utils/cardImages';
+import { getTvStreamUrl } from '../utils/tvStreams';
+
+interface Props {
+  channel: ChannelRow;
+  programs: ProgramRow[];
+  viewMode?: 'aujourdhui' | 'ce-soir' | 'demain' | 'en-direct';
+  channelIndex?: number;
+  eagerPoster?: boolean;
+  lazyChannelLogo?: boolean;
+}
+
+const {
+  channel,
+  programs,
+  viewMode = 'ce-soir',
+  channelIndex = 0,
+  eagerPoster = true,
+  lazyChannelLogo = false,
+} = Astro.props;
+
+const slug = getChannelSlugFromId(channel.channel_id);
+const resolvedLogo = getChannelLogo(channel.channel_id, channel.logo_url, channel.name);
+const channelHref = viewMode === 'en-direct' ? `/en-direct/${slug}` :
+                    viewMode === 'demain' ? `/demain/${slug}` :
+                    viewMode === 'ce-soir' ? `/ce-soir/${slug}` :
+                    `/${slug}`;
+
+const primeProgram = pickFeaturedProgram(programs, viewMode);
+const nextPrograms = pickNextPrograms(programs, primeProgram, 1);
+const live = primeProgram ? isCurrentlyAiring(primeProgram.start_time, primeProgram.end_time) : false;
+const progress = live && primeProgram ? progressPercent(primeProgram.start_time, primeProgram.end_time) : 0;
+const primeOverlay = primeProgram ? buildProgramOverlayAttr(primeProgram, { ...channel, logo_url: resolvedLogo }, slug) : null;
+const primeHref = primeProgram ? programPath(slug, primeProgram.title) : channelHref;
+const tntNum = getTntNumber(channel.channel_number, slug);
+const isSwissChannel = isSuisse(slug);
+const isPaidChannel = isPayant(channel.channel_number, slug);
+const isLocalTnt = isTntLocale(slug);
+const tvStream = getTvStreamUrl(slug, channel.name);
+
+const logoLoading = lazyChannelLogo ? 'lazy' : (channelIndex < 12 ? 'eager' : 'lazy');
+const posterLoading = eagerPoster && channelIndex < 6 ? 'eager' : 'lazy';
+
+const heroImageInfo = resolveCardHeroImage(primeProgram);
+const catGroup = detectCategoryGroup(primeProgram?.genre, primeProgram?.title);
+
+const initials = (channel.name || slug).slice(0, 2).toUpperCase();
+const fallbackDataUri = `data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='16' fill='%231e293b'/><text x='50%' y='54%' dominant-baseline='middle' text-anchor='middle' fill='%23e10600' font-family='system-ui,sans-serif' font-weight='900' font-size='28'>${initials}</text></svg>`;
+---
+
+<div
+  class="channel-card-item bg-white rounded-2xl shadow-xs hover:shadow-xl transition-all duration-300 border border-slate-200/90 flex flex-col group overflow-hidden"
+  data-channel-card
+  data-channel-name={channel.name.toLowerCase()}
+  data-channel-slug={slug}
+  data-channel-number={channel.channel_number ?? 999}
+  data-program-title={primeProgram?.title?.toLowerCase() ?? ''}
+  data-category={catGroup}
+>
+  <!-- Widescreen 16:9 Hero Image Container -->
+  <div class="relative aspect-video w-full overflow-hidden bg-slate-900">
+    <a
+      href={primeHref}
+      data-program={primeOverlay}
+      class="block w-full h-full cursor-pointer focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red-500"
+      aria-label={`${primeProgram?.title || channel.name} sur ${channel.name}`}
+    >
+      <img
+        src={heroImageInfo.imageUrl}
+        alt={primeProgram?.title ? `${primeProgram.title} — ${channel.name}` : channel.name}
+        width="640"
+        height="360"
+        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+        loading={posterLoading}
+        decoding="async"
+        onerror="this.style.opacity='0.5'"
+      />
+      <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent pointer-events-none"></div>
+    </a>
+
+    <!-- Floating Protected Channel Logo Pill (Top-Left) -->
+    <a
+      href={channelHref}
+      class="absolute top-2.5 left-2.5 z-10 flex items-center gap-1.5 bg-black/85 hover:bg-black/95 backdrop-blur-md px-2.5 py-1.5 rounded-xl border border-white/15 hover:border-red-500/60 shadow-lg group/ch transition-all max-w-[65%]"
+      aria-label={`Palinsesto ${channel.name}`}
+    >
+      {resolvedLogo ? (
+        <span class="inline-flex items-center justify-center h-6 max-h-6 max-w-[70px] sm:max-w-[80px] overflow-hidden shrink-0">
+          <img
+            src={resolvedLogo}
+            alt={channel.name}
+            class="max-h-6 max-w-[70px] sm:max-w-[80px] w-auto h-auto object-contain group-hover/ch:scale-105 transition-transform"
+            style="max-height: 24px; max-width: 80px; height: 24px; width: auto; object-fit: contain;"
+            loading={logoLoading}
+            onerror={`this.onerror=null; this.src='${fallbackDataUri}';`}
+          />
+        </span>
+      ) : (
+        <span class="text-xs font-black text-white truncate">{channel.name}</span>
+      )}
+      {tntNum != null ? (
+        <span class="text-[9px] font-bold text-gray-300 bg-gray-800/90 px-1.5 py-0.5 rounded shrink-0">
+          CH {tntNum}
+        </span>
+      ) : isSwissChannel ? (
+        <span class="text-[9px] font-bold text-rose-300 bg-rose-950/80 px-1.5 py-0.5 rounded shrink-0">
+          🇨🇭
+        </span>
+      ) : isPaidChannel ? (
+        <span class="text-[9px] font-bold text-amber-300 bg-amber-950/80 px-1.5 py-0.5 rounded shrink-0">
+          Payant
+        </span>
+      ) : isLocalTnt ? (
+        <span class="text-[9px] font-bold text-emerald-300 bg-emerald-950/80 px-1.5 py-0.5 rounded shrink-0">
+          Locale
+        </span>
+      ) : null}
+    </a>
+
+    <!-- Floating Status Pill (Top-Right) -->
+    {live ? (
+      <span class="absolute top-2.5 right-2.5 z-10 inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider bg-red-600 text-white shadow-md backdrop-blur-xs">
+        <span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
+        Direct
+      </span>
+    ) : viewMode === 'ce-soir' ? (
+      <span class="absolute top-2.5 right-2.5 z-10 inline-flex items-center gap-1 px-2.5 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider bg-black/80 text-amber-300 border border-amber-400/30 shadow-md backdrop-blur-xs">
+        ✨ 21h10
+      </span>
+    ) : primeProgram?.genre ? (
+      <span class="absolute top-2.5 right-2.5 z-10 inline-flex items-center gap-1 px-2.5 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider bg-black/80 text-white/90 shadow-md backdrop-blur-xs truncate max-w-[120px]">
+        {primeProgram.genre}
+      </span>
+    ) : null}
+
+    <!-- Floating Time & Duration on Image Bottom -->
+    {primeProgram && (
+      <div class="absolute bottom-2 left-3 right-3 flex items-center justify-between text-[11px] font-bold text-white/90 drop-shadow-md pointer-events-none">
+        <span class="tabular-nums bg-black/50 px-2 py-0.5 rounded-md backdrop-blur-xs">
+          {formatTimeFR(primeProgram.start_time)} – {formatTimeFR(primeProgram.end_time)}
+        </span>
+        <span class="bg-black/50 px-2 py-0.5 rounded-md backdrop-blur-xs">
+          {durationMinutes(primeProgram.start_time, primeProgram.end_time)} min
+        </span>
+      </div>
+    )}
+  </div>
+
+  <!-- Card Body -->
+  <div class="p-4 sm:p-5 flex-1 flex flex-col justify-between">
+    <div>
+      <!-- Genre & Category -->
+      <div class="flex items-center justify-between gap-2 mb-2">
+        <span class="text-[10px] font-black tracking-wider uppercase text-red-600 bg-red-50 px-2 py-0.5 rounded-md border border-red-100">
+          {primeProgram?.genre || 'Programme TV'}
+        </span>
+        {slug === 'france-3' && (
+          <div class="inline-block" onclick="event.stopPropagation()">
+            <select
+              class="text-[9px] font-medium text-slate-600 bg-slate-50 border border-slate-200 rounded px-1 py-0.5 focus:outline-none focus:ring-1 focus:ring-red-500 cursor-pointer"
+              onchange="if(this.value) window.location.href=this.value"
+              aria-label="Choisir une région France 3"
+            >
+              <option value="">Régions...</option>
+              {FRANCE_3_REGIONS.filter(r => r.slug !== 'france-3').map((reg) => (
+                <option value={`/${reg.slug}`}>{reg.name}</option>
+              ))}
+            </select>
+          </div>
+        )}
+      </div>
+
+      <!-- Title -->
+      <a
+        href={primeHref}
+        data-program={primeOverlay}
+        class="block focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-red-500 rounded-sm"
+      >
+        <h3 class="font-extrabold text-slate-900 text-[15px] sm:text-base leading-snug group-hover:text-red-600 transition-colors line-clamp-2 min-h-[2.6rem] mb-2">
+          {primeProgram?.title || 'Aucun programme répertorié'}
+        </h3>
+      </a>
+
+      <!-- Progress Bar (Active if Live) -->
+      {live && (
+        <div class="h-1.5 w-full bg-slate-100 rounded-full overflow-hidden mb-3">
+          <div
+            class="h-full bg-red-600 transition-all duration-1000 rounded-full"
+            style={`width: ${progress}%;`}
+          />
+        </div>
+      )}
+
+      <!-- Description / Synopsis -->
+      {primeProgram?.description && (
+        <p class="text-xs text-slate-500 line-clamp-2 mb-3 leading-relaxed">
+          {primeProgram.description}
+        </p>
+      )}
+    </div>
+
+    <!-- Next Program & Footer CTA -->
+    <div class="pt-3 border-t border-slate-100">
+      {nextPrograms.length > 0 && (
+        <div class="mb-3 flex items-baseline justify-between gap-2 text-xs">
+          <span class="text-[10px] font-bold text-slate-400 uppercase tracking-wider shrink-0">Ensuite :</span>
+          <p class="text-xs font-medium text-slate-600 truncate text-right">
+            <span class="font-bold text-slate-800 tabular-nums">{formatTimeFR(nextPrograms[0].start_time)}</span>
+            {' — '}
+            <span>{nextPrograms[0].title}</span>
+          </p>
+        </div>
+      )}
+
+      <div class="flex items-center justify-between gap-2 pt-1">
+        <a
+          href={channelHref}
+          class="text-xs font-bold text-slate-600 group-hover:text-red-600 transition-colors inline-flex items-center gap-1"
+        >
+          <span>Grille {channel.name}</span>
+          <span class="transform group-hover:translate-x-1 transition-transform">→</span>
+        </a>
+
+        {tvStream && (
+          <a
+            href={tvStream.streamUrl}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            class="text-[11px] font-bold text-red-600 hover:text-red-700 bg-red-50 hover:bg-red-100 px-2.5 py-1 rounded-lg border border-red-200 transition-colors inline-flex items-center gap-1"
+            aria-label={`Regarder ${channel.name} en direct streaming officiel`}
+          >
+            <span>Direct</span>
+            <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+        )}
+      </div>
+    </div>
+  </div>
+</div>

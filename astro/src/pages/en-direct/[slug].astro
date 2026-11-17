@@ -4,16 +4,18 @@ export const prerender = false;
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
-import { getChannelBySlug, getChannelSlugFromId, getProgramsByChannelAndDate, getTodayDateFR, slugify } from '../../utils/supabase';
-import { formatDateFR, isCurrentlyAiring } from '../../utils/dates';
+import { getChannelBySlug, getChannelSlugFromId, getProgramsByChannelAndDate, getTodayDateFR } from '../../utils/supabase';
+import { formatDateFR, isCurrentlyAiring, formatTimeFR, durationMinutes } from '../../utils/dates';
 import { getRelatedChannelsForSchedule } from '../../utils/relatedChannels';
 import RelatedChannels from '../../components/RelatedChannels.astro';
 import ScheduleProgramRow from '../../components/ScheduleProgramRow.astro';
-import ScheduleProgramCard from '../../components/ScheduleProgramCard.astro';
 import { channelLiveSeo, channelSeoName } from '../../utils/seoCopy';
-import { isAdultOrJunkChannel } from '../../utils/programSeo';
+import { isAdultOrJunkChannel, programPath } from '../../utils/programSeo';
 import { buildChannelScheduleJsonLd } from '../../utils/channelJsonLd';
 import { getTvStreamUrl } from '../../utils/tvStreams';
+import { getChannelLogo, getDirectCardImage } from '../../utils/channelLogos';
+import { getTntNumber, isSuisse, isPayant, isTntLocale } from '../../utils/channelUrls';
+import { resolveCardHeroImage } from '../../utils/cardImages';
 
 const { slug } = Astro.params;
 if (!slug) return Astro.redirect('/');
@@ -21,6 +23,9 @@ if (!slug) return Astro.redirect('/');
 const channel = await getChannelBySlug(slug);
 
 if (!channel) return new Response(null, { status: 404 });
+
+// Live page caching: fresh response with short CDN revalidation
+Astro.response.headers.set('Cache-Control', 'public, max-age=0, s-maxage=10, must-revalidate');
 
 const today = await getTodayDateFR();
 const programs = await getProgramsByChannelAndDate(channel.channel_id, today);
@@ -32,42 +37,56 @@ const seoName = channelSeoName(chSlug, channel.name);
 const { title: pageTitle, description: pageDescription } = channelLiveSeo(seoName);
 const noindex = isAdultOrJunkChannel(chSlug);
 const tvStream = getTvStreamUrl(chSlug, channel.name);
+const resolvedLogo = getChannelLogo(channel.channel_id, channel.logo_url, channel.name);
+const tntNum = getTntNumber(channel.channel_number, chSlug);
+const isSwiss = isSuisse(chSlug);
+const isPaid = isPayant(channel.channel_number, chSlug);
+const isLocal = isTntLocale(chSlug);
 
+const nowMs = Date.now();
 const currentProgram = programs.find((p) => isCurrentlyAiring(p.start_time, p.end_time));
-const upcomingPrograms = programs.filter((p) => new Date(p.start_time).getTime() > Date.now());
+const upcomingPrograms = programs.filter((p) => new Date(p.start_time).getTime() > nowMs);
 const liveStartTime = currentProgram ? new Date(currentProgram.start_time).getTime() : null;
 const liveEndTime = currentProgram ? new Date(currentProgram.end_time).getTime() : null;
+const liveDurationTotal = liveStartTime && liveEndTime ? Math.max(1, liveEndTime - liveStartTime) : 1;
+const liveProgress = liveStartTime && liveEndTime ? Math.min(100, Math.max(0, Math.round(((nowMs - liveStartTime) / liveDurationTotal) * 100))) : 0;
+const liveRemainingMin = liveEndTime ? Math.max(0, Math.round((liveEndTime - nowMs) / 60000)) : 0;
 
-// Prefer current + upcoming in the graph for live pages
+const currentHeroImg = resolveCardHeroImage(currentProgram);
+
 const liveGraphPrograms = [
   ...(currentProgram ? [currentProgram] : []),
   ...upcomingPrograms.filter((p) => p.id !== currentProgram?.id),
 ];
 
-import { pickFeaturedProgram } from '../../utils/programPick';
-import { resolveProgramPoster } from '../../utils/programPoster';
-import { resolveOgImage } from '../../utils/seoImage';
-import { getDirectCardImage } from '../../utils/channelLogos';
-
-const featuredProg = currentProgram ?? pickFeaturedProgram(programs, 'en-direct');
-const featuredPoster = featuredProg ? resolveProgramPoster(featuredProg) : null;
-// High-CTR dedicated 600x600 thumbnail card (channel logo + '🔴 EN DIRECT' badge)
 const directCardImage = getDirectCardImage(chSlug);
 const ogImage = directCardImage;
 
+const schedulePayload = programs.map((p) => ({
+  id: p.id,
+  title: p.title,
+  start: new Date(p.start_time).getTime(),
+  end: new Date(p.end_time).getTime(),
+  genre: p.genre || '',
+  description: p.description ? p.description.slice(0, 160) : '',
+  href: programPath(chSlug, p.title),
+}));
+
 const TOP_DIRECT_CHANNELS = [
-  { slug: 'kto', name: 'KTO' },
-  { slug: 'france-3', name: 'France 3' },
-  { slug: 'cnews', name: 'CNews' },
-  { slug: 'm6', name: 'M6' },
-  { slug: 'france-5', name: 'France 5' },
+  { slug: 'tf1', name: 'TF1' },
   { slug: 'france-2', name: 'France 2' },
+  { slug: 'france-3', name: 'France 3' },
+  { slug: 'canal-plus', name: 'Canal+' },
+  { slug: 'france-5', name: 'France 5' },
+  { slug: 'm6', name: 'M6' },
   { slug: 'arte', name: 'ARTE' },
-  { slug: 'antenne-reunion', name: 'Antenne Réunion' },
-  { slug: '2m-maroc', name: '2M Maroc' },
+  { slug: 'c8', name: 'C8' },
   { slug: 'w9', name: 'W9' },
   { slug: 'tmc', name: 'TMC' },
-  { slug: 'tf1', name: 'TF1' },
+  { slug: 'cnews', name: 'CNews' },
+  { slug: 'kto', name: 'KTO' },
+  { slug: 'antenne-reunion', name: 'Antenne Réunion' },
+  { slug: '2m-maroc', name: '2M Maroc' },
   { slug: 'rts-1', name: 'RTS 1' },
   { slug: 'france-24', name: 'France 24' },
   { slug: 'bfm-tv', name: 'BFM TV' },
@@ -130,7 +149,7 @@ const webPageJsonLd = {
 const jsonLd = [
   webPageJsonLd,
   ...buildChannelScheduleJsonLd({
-    channel,
+    channel: { ...channel, logo_url: resolvedLogo },
     channelSlug: chSlug,
     channelName: seoName,
     canonical,
@@ -157,94 +176,209 @@ const jsonLd = [
   <Header slot="header" activePath="/en-direct" />
 
   <div class="container mx-auto px-3 sm:px-4 py-6 sm:py-8 max-w-5xl">
-    <div class="flex items-center gap-3.5 sm:gap-4 mb-6">
-      {channel.logo_url && (
-        <img
-          src={channel.logo_url}
-          alt={`Logo ${seoName}`}
-          class="w-14 h-14 sm:w-16 sm:h-16 object-contain rounded-xl bg-white border border-slate-200 p-2 shadow-xs shrink-0"
-          width="64"
-          height="64"
-        />
-      )}
-      <div>
-        <div class="flex items-center gap-2 mb-1">
-          <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-[10px] sm:text-[11px] font-black uppercase bg-red-50 text-red-600 border border-red-200">
-            <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
-            Direct & En ce moment
-          </span>
+    <!-- Channel Header Banner -->
+    <div class="p-5 sm:p-7 bg-white rounded-3xl border border-slate-200 shadow-xs mb-6 flex flex-col md:flex-row md:items-center justify-between gap-5">
+      <div class="flex items-center gap-4 sm:gap-5">
+        <div class="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-slate-900 border border-slate-200/80 p-2.5 flex items-center justify-center shrink-0 shadow-sm">
+          <img
+            src={resolvedLogo}
+            alt={`Logo ${seoName}`}
+            class="max-h-full max-w-full object-contain"
+            width="80"
+            height="80"
+          />
         </div>
-        <h1 class="text-2xl sm:text-3xl md:text-4xl font-black text-slate-900 tracking-tight">
-          {seoName} en direct : programme TV en ce moment et streaming
-        </h1>
-        <p class="text-slate-500 text-xs sm:text-sm capitalize mt-1">
-          Grille des programmes en direct à l'antenne &bull; {todayFormatted}
-        </p>
+        <div>
+          <div class="flex items-center gap-2 mb-1 flex-wrap">
+            <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-[10px] sm:text-[11px] font-black uppercase bg-red-600 text-white shadow-2xs">
+              <span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
+              En direct maintenant
+            </span>
+            {tntNum != null && (
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-slate-900 text-white tracking-wider">
+                TNT {tntNum}
+              </span>
+            )}
+            <span class="inline-flex items-center gap-1.5 text-[11px] font-bold text-slate-500" id="live-paris-clock">
+              <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+              <span id="paris-clock-text">En direct</span>
+            </span>
+          </div>
+          <h1 class="text-2xl sm:text-3xl md:text-4xl font-black text-slate-900 tracking-tight">
+            {seoName} en direct : programme TV & streaming
+          </h1>
+          <p class="text-slate-500 text-xs sm:text-sm capitalize mt-1">
+            Grille en direct à l'antenne &bull; {todayFormatted}
+          </p>
+        </div>
       </div>
+
+      {tvStream && (
+        <div class="shrink-0">
+          <a
+            href={tvStream.streamUrl}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            class="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-red-600 hover:bg-red-700 text-white font-extrabold rounded-xl text-xs sm:text-sm shadow-md transition-all cursor-pointer"
+            aria-label={`Regarder ${seoName} en streaming direct officiel sur ${tvStream.provider}`}
+          >
+            <span class="w-2 h-2 rounded-full bg-white animate-pulse"></span>
+            <span>Regarder sur {tvStream.provider}</span>
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+        </div>
+      )}
     </div>
 
     <!-- Navigation temporelle -->
     <nav class="flex gap-2 sm:gap-3 mb-6 overflow-x-auto pb-1 scrollbar-none" aria-label="Navigation temporelle">
-      <a href={`/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">Aujourd'hui</a>
-      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">Ce soir (21h10)</a>
-      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-red-600 text-white rounded-full text-xs sm:text-sm font-bold shadow-xs">En direct</a>
-      <a href={`/demain/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">Demain</a>
+      <a href={`/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Aujourd'hui</a>
+      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Ce soir (21h10)</a>
+      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-4 py-2 bg-red-600 text-white rounded-full text-xs sm:text-sm font-bold shadow-xs">En direct</a>
+      <a href={`/demain/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Demain</a>
     </nav>
 
-    {tvStream && (
-      <div class="mb-6 p-4 bg-gradient-to-r from-red-500/10 via-red-500/5 to-white border border-red-200 rounded-2xl flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 shadow-xs">
-        <div class="flex items-center gap-3">
-          <span class="flex h-3 w-3 relative shrink-0">
-            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
-            <span class="relative inline-flex rounded-full h-3 w-3 bg-red-600"></span>
-          </span>
-          <div>
-            <p class="text-sm font-black text-slate-900">
-              Regarder {seoName} en direct live & replay
-            </p>
-            <p class="text-xs text-slate-500">
-              Streaming officiel gratuit sur la plateforme {tvStream.provider}
-            </p>
-          </div>
-        </div>
-        <a
-          href={tvStream.streamUrl}
-          target="_blank"
-          rel="noopener noreferrer nofollow"
-          class="inline-flex items-center gap-2 px-4 py-2 bg-red-600 hover:bg-red-700 text-white font-bold rounded-xl text-xs sm:text-sm shadow-sm transition-all shrink-0 cursor-pointer"
-        >
-          <span>Regarder {seoName} sur {tvStream.provider}</span>
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-          </svg>
-        </a>
-      </div>
-    )}
-
+    <!-- Hero Live Card Widescreen 16:9 -->
     {currentProgram ? (
-      <section class="mb-8 sm:mb-10">
+      <section class="mb-8 sm:mb-10" id="hero-live-container">
         <h2 class="text-lg sm:text-xl font-black text-slate-900 mb-3 sm:mb-4 flex items-center gap-2">
-          <span class="w-1.5 h-6 bg-red-500 rounded-full"></span>
+          <span class="w-2 h-2 rounded-full bg-red-600 animate-pulse"></span>
           À l'antenne actuellement sur {seoName}
         </h2>
-        <ScheduleProgramRow program={currentProgram} channel={channel} channelSlug={chSlug} />
+
+        <div class="bg-white rounded-3xl border border-slate-200/90 shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden flex flex-col md:flex-row group">
+          <!-- 16:9 Image Box -->
+          <div class="relative md:w-5/12 aspect-video md:aspect-auto overflow-hidden bg-slate-900 shrink-0">
+            <img
+              id="hero-live-img"
+              src={currentHeroImg.imageUrl}
+              alt={currentProgram.title}
+              width="640"
+              height="360"
+              class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+            />
+            <div class="absolute inset-0 bg-gradient-to-t md:bg-gradient-to-r from-black/80 via-black/20 to-transparent pointer-events-none"></div>
+
+            <!-- Floating Pill -->
+            <div class="absolute top-3 left-3 z-10 flex items-center gap-1.5 bg-black/85 backdrop-blur-md px-3 py-1.5 rounded-xl border border-white/15 shadow-lg">
+              <span class="inline-flex items-center justify-center h-6 max-h-6 max-w-[70px] overflow-hidden shrink-0">
+                <img
+                  src={resolvedLogo}
+                  alt={channel.name}
+                  class="max-h-6 max-w-[70px] w-auto h-auto object-contain"
+                  style="max-height: 24px; max-width: 70px; height: 24px; width: auto; object-fit: contain;"
+                />
+              </span>
+              {tntNum != null && (
+                <span class="text-[9px] font-bold text-gray-300 bg-gray-800/90 px-1.5 py-0.5 rounded">
+                  CH {tntNum}
+                </span>
+              )}
+            </div>
+
+            <!-- Badge Live -->
+            <span class="absolute top-3 right-3 z-10 inline-flex items-center gap-1.5 px-3 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider bg-red-600 text-white shadow-md">
+              <span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
+              Direct
+            </span>
+          </div>
+
+          <!-- Content Body -->
+          <div class="p-5 sm:p-6 flex-1 flex flex-col justify-between">
+            <div>
+              <div class="flex items-center gap-2 mb-2 flex-wrap">
+                <span class="text-[10px] font-black tracking-wider uppercase text-red-600 bg-red-50 px-2.5 py-1 rounded-md border border-red-100" id="hero-live-genre">
+                  {currentProgram.genre || 'En direct'}
+                </span>
+                <span class="text-xs font-bold text-slate-500 tabular-nums" id="hero-live-hours">
+                  {formatTimeFR(currentProgram.start_time)} – {formatTimeFR(currentProgram.end_time)}
+                </span>
+                <span class="text-xs font-semibold text-slate-400" id="hero-live-duration">
+                  ({durationMinutes(currentProgram.start_time, currentProgram.end_time)} min)
+                </span>
+              </div>
+
+              <h3 class="text-xl sm:text-2xl font-black text-slate-900 group-hover:text-red-600 transition-colors leading-snug mb-3" id="hero-live-title">
+                {currentProgram.title}
+              </h3>
+
+              <!-- Progress Bar -->
+              <div class="mb-3">
+                <div class="flex items-center justify-between text-xs font-bold text-slate-500 mb-1.5">
+                  <span class="text-red-600 flex items-center gap-1">
+                    <span class="w-1.5 h-1.5 rounded-full bg-red-600 animate-pulse"></span>
+                    <span id="hero-live-remaining">{liveRemainingMin} min restantes</span>
+                  </span>
+                  <span class="tabular-nums" id="hero-live-pct">{liveProgress}%</span>
+                </div>
+                <div class="h-2 w-full bg-slate-100 rounded-full overflow-hidden">
+                  <div
+                    id="hero-live-progress-bar"
+                    class="h-full bg-red-600 rounded-full transition-all duration-1000 live-progress-bar"
+                    style={`width: ${liveProgress}%;`}
+                  />
+                </div>
+              </div>
+
+              {currentProgram.description && (
+                <p class="text-xs sm:text-sm text-slate-600 line-clamp-3 leading-relaxed mb-4" id="hero-live-desc">
+                  {currentProgram.description}
+                </p>
+              )}
+            </div>
+
+            <!-- CTA Actions -->
+            <div class="pt-4 border-t border-slate-100 flex flex-wrap items-center justify-between gap-3">
+              <a
+                href={programPath(chSlug, currentProgram.title)}
+                class="text-xs sm:text-sm font-bold text-slate-700 hover:text-red-600 transition-colors inline-flex items-center gap-1"
+                id="hero-live-link"
+              >
+                <span>Fiche complète & résumé</span>
+                <span>→</span>
+              </a>
+
+              {tvStream && (
+                <a
+                  href={tvStream.streamUrl}
+                  target="_blank"
+                  rel="noopener noreferrer nofollow"
+                  class="px-4 py-2 bg-red-600 hover:bg-red-700 text-white font-bold rounded-xl text-xs sm:text-sm shadow-xs transition-all inline-flex items-center gap-1.5"
+                >
+                  <span>Regarder le direct sur {tvStream.provider}</span>
+                  <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                  </svg>
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
       </section>
     ) : (
-      <div class="mb-8 sm:mb-10 text-center py-8 bg-slate-50 border border-slate-200 rounded-2xl text-slate-500">
-        <p class="font-bold text-slate-700">Aucun programme en direct répertorié à cet instant.</p>
-        <p class="text-xs text-slate-500 mt-1">Consultez la liste des prochains programmes ci-dessous.</p>
+      <div class="mb-8 sm:mb-10 text-center py-10 bg-slate-50 border border-slate-200 rounded-2xl text-slate-500">
+        <p class="font-bold text-slate-700 text-base">Aucun programme en direct répertorié à cet instant.</p>
+        <p class="text-xs text-slate-500 mt-1">Consultez la liste des prochains rendez-vous ci-dessous.</p>
       </div>
     )}
 
+    <!-- Prochains programmes aujourd'hui -->
     {upcomingPrograms.length > 0 && (
       <section class="mb-10 sm:mb-12">
         <h2 class="text-lg sm:text-xl font-black text-slate-900 mb-3 sm:mb-4 flex items-center gap-2">
-          <span class="w-1.5 h-6 bg-blue-600 rounded-full"></span>
+          <span class="w-1.5 h-6 bg-red-600 rounded-full"></span>
           Prochains programmes aujourd'hui sur {seoName}
         </h2>
         <div class="space-y-2">
           {upcomingPrograms.map((p) => (
-            <ScheduleProgramCard program={p} channel={channel} channelSlug={chSlug} />
+            <ScheduleProgramRow
+              program={p}
+              channel={{ ...channel, logo_url: resolvedLogo }}
+              channelSlug={chSlug}
+              showEndTime
+            />
           ))}
         </div>
       </section>
@@ -285,7 +419,7 @@ const jsonLd = [
             Où voir la suite des programmes de {seoName} ?
           </h3>
           <p class="mt-1">
-            Accédez facilement au <a href={`/ce-soir/${chSlug}`} class="text-blue-600 font-semibold underline">programme {seoName} ce soir à 21h10</a>, à la <a href={`/${chSlug}`} class="text-blue-600 font-semibold underline">grille complète d'aujourd'hui</a> ou au <a href={`/demain/${chSlug}`} class="text-blue-600 font-semibold underline">programme {seoName} de demain</a>.
+            Accédez facilement au <a href={`/ce-soir/${chSlug}`} class="text-red-600 font-semibold underline">programme {seoName} ce soir à 21h10</a>, à la <a href={`/${chSlug}`} class="text-red-600 font-semibold underline">grille complète d'aujourd'hui</a> ou au <a href={`/demain/${chSlug}`} class="text-red-600 font-semibold underline">programme {seoName} de demain</a>.
           </p>
         </div>
       </div>
@@ -300,7 +434,7 @@ const jsonLd = [
         {TOP_DIRECT_CHANNELS.filter(c => c.slug !== chSlug).map((c) => (
           <a
             href={`/en-direct/${c.slug}`}
-            class="px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-lg text-xs font-semibold bg-white border border-slate-200 text-slate-700 hover:bg-slate-100 hover:text-blue-600 transition-colors shadow-2xs"
+            class="px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-lg text-xs font-semibold bg-white border border-slate-200 text-slate-700 hover:bg-red-50 hover:text-red-600 hover:border-red-200 transition-colors shadow-2xs"
           >
             {c.name} en direct
           </a>
@@ -311,62 +445,94 @@ const jsonLd = [
     <RelatedChannels suggestions={relatedChannels} viewMode="en-direct" channelName={channel.name} />
 
     <nav class="mt-10 pt-6 border-t border-slate-200 flex flex-wrap gap-4 text-xs sm:text-sm" aria-label="Retour">
-      <a href={`/${chSlug}`} class="text-blue-600 font-semibold hover:underline">&larr; Grille {seoName} complète aujourd'hui</a>
-      <a href={`/ce-soir/${chSlug}`} class="text-blue-600 font-semibold hover:underline">&larr; {seoName} ce soir</a>
-      <a href="/en-direct" class="text-blue-600 font-semibold hover:underline">&larr; Tous les programmes en direct</a>
+      <a href={`/${chSlug}`} class="text-red-600 font-semibold hover:underline">&larr; Grille {seoName} complète aujourd'hui</a>
+      <a href={`/ce-soir/${chSlug}`} class="text-red-600 font-semibold hover:underline">&larr; {seoName} ce soir</a>
+      <a href="/en-direct" class="text-red-600 font-semibold hover:underline">&larr; Tous les programmes en direct</a>
     </nav>
   </div>
+
+  <!-- Embedded Schedule JSON for Dual-Layer Sync -->
+  <script id="channel-schedule-json" type="application/json" set:html={JSON.stringify(schedulePayload)} />
 
   <Footer slot="footer" />
 </Layout>
 
-<script is:inline define:vars={{ liveStartTime, liveEndTime }}>
+<script is:inline>
+  // Dual-Layer Live Client Synchronization
   (function () {
-    const pageLoadedAt = Date.now();
+    var raw = document.getElementById('channel-schedule-json');
+    var schedule = [];
+    try {
+      if (raw) schedule = JSON.parse(raw.textContent || '[]');
+    } catch (e) {}
 
-    function updateProgressBar() {
-      const bar = document.querySelector('.live-progress-bar');
-      const text = document.querySelector('.live-progress-text');
-      if (!bar || !liveStartTime || !liveEndTime) return;
+    var clockEl = document.getElementById('paris-clock-text');
+    var bar = document.getElementById('hero-live-progress-bar');
+    var pctText = document.getElementById('hero-live-pct');
+    var remText = document.getElementById('hero-live-remaining');
+    var titleEl = document.getElementById('hero-live-title');
+    var hoursEl = document.getElementById('hero-live-hours');
+    var descEl = document.getElementById('hero-live-desc');
+    var linkEl = document.getElementById('hero-live-link');
 
-      const now = Date.now();
-      if (now >= liveEndTime) {
-        // Le programme en direct est terminé -> rafraîchissement automatique
-        window.location.reload();
-        return;
+    function formatTime(ms) {
+      var d = new Date(ms);
+      return d.toLocaleTimeString('fr-FR', { timeZone: 'Europe/Paris', hour: '2-digit', minute: '2-digit' });
+    }
+
+    function syncLive() {
+      var now = Date.now();
+
+      // Update live clock
+      if (clockEl) {
+        var clockDate = new Date();
+        clockEl.textContent = 'En direct · ' + clockDate.toLocaleTimeString('fr-FR', {
+          timeZone: 'Europe/Paris',
+          hour: '2-digit',
+          minute: '2-digit'
+        });
       }
 
-      const total = liveEndTime - liveStartTime;
-      const pct = Math.min(100, Math.max(0, Math.round(((now - liveStartTime) / total) * 100)));
-      bar.style.width = pct + '%';
-      if (text) text.textContent = pct + '%';
-    }
+      if (!schedule.length) return;
 
-    // Mise à jour de la barre toutes les 5 secondes
-    if (liveStartTime && liveEndTime) {
-      setInterval(updateProgressBar, 5000);
+      var active = null;
+      for (var i = 0; i < schedule.length; i++) {
+        if (schedule[i].start <= now && schedule[i].end > now) {
+          active = schedule[i];
+          break;
+        }
+      }
 
-      // Timeout programmé pour la fin exacte de l'émission + 2s de marge
-      const msUntilEnd = Math.max(3000, liveEndTime - Date.now() + 2000);
-      setTimeout(function () {
-        window.location.reload();
-      }, msUntilEnd);
-    }
+      if (active) {
+        var total = active.end - active.start;
+        var pct = Math.min(100, Math.max(0, Math.round(((now - active.start) / total) * 100)));
+        var rem = Math.max(0, Math.round((active.end - now) / 60000));
 
-    // Rechargement immédiat si l'onglet redevient actif après > 60s ou si l'émission a changé
-    document.addEventListener('visibilitychange', function () {
-      if (document.visibilityState === 'visible') {
-        const elapsed = Date.now() - pageLoadedAt;
-        if (elapsed > 60000 || (liveEndTime && Date.now() >= liveEndTime)) {
+        if (bar) bar.style.width = pct + '%';
+        if (pctText) pctText.textContent = pct + '%';
+        if (remText) remText.textContent = rem + ' min restantes';
+
+        if (titleEl && titleEl.textContent !== active.title) {
+          titleEl.textContent = active.title;
+          if (hoursEl) hoursEl.textContent = formatTime(active.start) + ' – ' + formatTime(active.end);
+          if (descEl) descEl.textContent = active.description;
+          if (linkEl) linkEl.href = active.href;
+        }
+      } else {
+        // If current schedule finished and no current program found, reload to get tomorrow/fresh EPG
+        if (schedule.length > 0 && now > schedule[schedule.length - 1].end) {
           window.location.reload();
         }
       }
-    });
+    }
 
-    // Rechargement si la page est restaurée depuis le bfcache (bouton précédent/suivant du navigateur)
-    window.addEventListener('pageshow', function (event) {
-      if (event.persisted) {
-        window.location.reload();
+    syncLive();
+    setInterval(syncLive, 5000);
+
+    // Recheck immediately on tab focus
+    document.addEventListener('visibilitychange', function () {
+      if (document.visibilityState === 'visible') {
+        syncLive();
       }
     });
   })();

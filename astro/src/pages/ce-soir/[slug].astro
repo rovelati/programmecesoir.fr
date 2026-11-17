@@ -17,6 +17,8 @@ import { ADSENSE_SLOTS } from '../../utils/adsense';
 import { channelSeoName, channelTonightSeo } from '../../utils/seoCopy';
 import { isAdultOrJunkChannel } from '../../utils/programSeo';
 import { buildChannelScheduleJsonLd } from '../../utils/channelJsonLd';
+import { getChannelLogo } from '../../utils/channelLogos';
+import { getTntNumber, isSuisse, isPayant, isTntLocale } from '../../utils/channelUrls';
 
 import { pickFeaturedProgram } from '../../utils/programPick';
 import { resolveProgramPoster } from '../../utils/programPoster';
@@ -35,14 +37,19 @@ const relatedChannels = await getRelatedChannelsForSchedule(channel, programs, '
 const todayFormatted = formatDateFR(new Date());
 const chSlug = getChannelSlugFromId(channel.channel_id);
 const canonical = `https://programmecesoir.fr/ce-soir/${chSlug}`;
-const tvStream = getTvStreamUrl(channel.channel_id, channel.name);
+const tvStream = getTvStreamUrl(chSlug, channel.name);
 const seoName = channelSeoName(chSlug, channel.name);
 const { title: pageTitle, description: pageDescription } = channelTonightSeo(seoName);
 const noindex = isAdultOrJunkChannel(chSlug);
+const resolvedLogo = getChannelLogo(channel.channel_id, channel.logo_url, channel.name);
+const tntNum = getTntNumber(channel.channel_number, chSlug);
+const isSwiss = isSuisse(chSlug);
+const isPaid = isPayant(channel.channel_number, chSlug);
+const isLocal = isTntLocale(chSlug);
 
 const primeProgram = pickFeaturedProgram(programs, 'ce-soir');
 const primePoster = primeProgram ? resolveProgramPoster(primeProgram) : null;
-const ogImage = resolveOgImage(primePoster, channel.logo_url);
+const ogImage = resolveOgImage(primePoster, resolvedLogo);
 
 const TOP_CHANNELS = [
   { slug: 'tf1', name: 'TF1' },
@@ -79,10 +86,10 @@ const faqJsonLd = {
     },
     {
       '@type': 'Question',
-      name: `Comment voir ${seoName} en direct maintenant ?`,
+      name: `À quelle heure commence la première partie de soirée sur ${seoName} ?`,
       acceptedAnswer: {
         '@type': 'Answer',
-        text: `Consultez https://programmecesoir.fr/en-direct/${chSlug} pour découvrir l'émission en cours de diffusion en direct sur ${seoName}.`,
+        text: `En France, le prime-time de ${seoName} démarre généralement entre 21h05 et 21h15.`,
       },
     },
   ],
@@ -90,7 +97,7 @@ const faqJsonLd = {
 
 const jsonLd = [
   ...buildChannelScheduleJsonLd({
-    channel,
+    channel: { ...channel, logo_url: resolvedLogo },
     channelSlug: chSlug,
     channelName: seoName,
     canonical,
@@ -114,47 +121,80 @@ const jsonLd = [
   image={ogImage}
   jsonLd={jsonLd}
 >
-  <Header slot="header" activePath="/" />
+  <Header slot="header" activePath={`/ce-soir/${chSlug}`} />
 
   <div class="container mx-auto px-3 sm:px-4 py-5 sm:py-8 max-w-5xl">
-    <div class="flex items-center gap-3 sm:gap-4 mb-5 sm:mb-8">
-      {channel.logo_url && (
-        <img
-          src={channel.logo_url}
-          alt={`Logo ${seoName}`}
-          class="w-12 h-12 sm:w-16 sm:h-16 object-contain rounded-xl bg-white border border-slate-200 p-1.5 sm:p-2 shadow-xs shrink-0"
-          width="64"
-          height="64"
-        />
-      )}
-      <div>
-        <h1 class="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
-          Programme TV {seoName} ce soir — Prime time (21h10)
-        </h1>
-        <p class="text-xs sm:text-sm text-slate-500 capitalize mt-0.5">{todayFormatted}</p>
-        <p class="mt-1.5 text-xs sm:text-sm text-slate-600">{PRIME_TIME_DESCRIPTION}</p>
+    <!-- Header Banner -->
+    <div class="p-5 sm:p-7 bg-white rounded-3xl border border-slate-200 shadow-xs mb-6 flex flex-col md:flex-row md:items-center justify-between gap-5">
+      <div class="flex items-center gap-4 sm:gap-5">
+        <div class="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-slate-900 border border-slate-200/80 p-2.5 flex items-center justify-center shrink-0 shadow-sm">
+          <img
+            src={resolvedLogo}
+            alt={`Logo ${seoName}`}
+            class="max-h-full max-w-full object-contain"
+            width="80"
+            height="80"
+          />
+        </div>
+        <div>
+          <div class="flex items-center gap-2 mb-1 flex-wrap">
+            <span class="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[10px] sm:text-[11px] font-black uppercase bg-black/80 text-amber-300 border border-amber-400/30 shadow-2xs">
+              ✨ Prime Time 21:10
+            </span>
+            {tntNum != null ? (
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-slate-900 text-white tracking-wider">
+                TNT {tntNum}
+              </span>
+            ) : isSwiss ? (
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-rose-50 text-rose-700 border border-rose-200 tracking-wider">
+                🇨🇭 Suisse
+              </span>
+            ) : isPaid ? (
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-amber-50 text-amber-700 border border-amber-200 tracking-wider">
+                Payant
+              </span>
+            ) : isLocal ? (
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-emerald-50 text-emerald-700 border border-emerald-200 tracking-wider">
+                TNT Locale
+              </span>
+            ) : null}
+          </div>
+          <h1 class="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+            Programme TV {seoName} ce soir — Prime time (21h10)
+          </h1>
+          <p class="text-xs sm:text-sm text-slate-500 capitalize mt-0.5">{todayFormatted}</p>
+          <p class="mt-1 text-xs sm:text-sm text-slate-600">{PRIME_TIME_DESCRIPTION}</p>
+        </div>
       </div>
+
+      {tvStream && (
+        <div class="shrink-0">
+          <a
+            href={tvStream.streamUrl}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            class="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-red-600 hover:bg-red-700 text-white font-extrabold rounded-xl text-xs sm:text-sm shadow-md transition-all cursor-pointer"
+            aria-label={`Regarder ${seoName} en direct streaming officiel`}
+          >
+            <span class="w-2 h-2 rounded-full bg-white animate-pulse"></span>
+            <span>Direct {tvStream.provider}</span>
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+        </div>
+      )}
     </div>
 
+    <!-- Navigation temporelle -->
     <nav class="flex gap-2 sm:gap-3 mb-6 overflow-x-auto pb-1 scrollbar-none" aria-label="Navigation temporelle">
-      <a href={`/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">Aujourd'hui</a>
-      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-blue-600 text-white rounded-full text-xs sm:text-sm font-bold shadow-xs">Ce soir (21h10)</a>
-      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">En direct</a>
-      <a href={`/demain/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">Demain</a>
+      <a href={`/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Aujourd'hui</a>
+      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-4 py-2 bg-red-600 text-white rounded-full text-xs sm:text-sm font-bold shadow-xs">Ce soir (21h10)</a>
+      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">En direct</a>
+      <a href={`/demain/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Demain</a>
     </nav>
 
-    {tvStream && (
-      <a
-        href={tvStream.streamUrl}
-        target="_blank"
-        rel="nofollow noopener noreferrer"
-        class="mb-6 inline-flex items-center gap-2 px-4 py-2.5 bg-blue-600 text-white rounded-xl font-bold text-xs sm:text-sm hover:bg-blue-700 transition-colors shadow-xs"
-      >
-        Regarder {seoName} en direct
-      </a>
-    )}
-
-    <!-- High-Viewability Mid-Content Ad (After header & quick navigation, before schedule) -->
+    <!-- High-Viewability Mid-Content Ad -->
     <AdSlot
       slot={ADSENSE_SLOTS.CHANNEL_MID_CONTENT}
       minHeight={250}
@@ -163,14 +203,23 @@ const jsonLd = [
     />
 
     {programs.length === 0 ? (
-      <div class="text-center py-16 text-slate-400 bg-slate-50 rounded-2xl border border-slate-200">
+      <div class="text-center py-16 text-slate-400 bg-white rounded-2xl border border-slate-200">
         <p class="text-lg font-semibold">Aucun programme trouvé pour ce soir.</p>
       </div>
     ) : (
-      <div class="space-y-2 mb-10">
-        {programs.map((p) => (
-          <ScheduleProgramRow program={p} channel={channel} channelSlug={chSlug} />
-        ))}
+      <div class="space-y-3 mb-10">
+        {programs.map((p) => {
+          const isPrime = primeProgram?.id === p.id;
+          return (
+            <ScheduleProgramRow
+              program={p}
+              channel={{ ...channel, logo_url: resolvedLogo }}
+              channelSlug={chSlug}
+              showEndTime
+              isPrimeTime={isPrime}
+            />
+          );
+        })}
       </div>
     )}
 
@@ -192,7 +241,7 @@ const jsonLd = [
           Retrouvez la programmation de soirée sur <strong>{seoName}</strong>. Que vous cherchiez un film, une série policière, un grand documentaire ou un magazine, consultez les résumés et horaires précis.
         </p>
         <p>
-          Pour suivre l'antenne en temps réel, rendez-vous sur <a href={`/en-direct/${chSlug}`} class="text-blue-600 font-semibold underline">{seoName} en direct</a>, ou explorez la <a href={`/${chSlug}`} class="text-blue-600 font-semibold underline">grille complète d'aujourd'hui</a>.
+          Pour suivre l'antenne en temps réel, rendez-vous sur <a href={`/en-direct/${chSlug}`} class="text-red-600 font-semibold underline">{seoName} en direct</a>, ou explorez la <a href={`/${chSlug}`} class="text-red-600 font-semibold underline">grille complète d'aujourd'hui</a>.
         </p>
       </div>
     </section>
@@ -206,7 +255,7 @@ const jsonLd = [
         {TOP_CHANNELS.filter(c => c.slug !== chSlug).map((c) => (
           <a
             href={`/ce-soir/${c.slug}`}
-            class="px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-lg text-xs font-semibold bg-white border border-slate-200 text-slate-700 hover:bg-slate-100 hover:text-blue-600 transition-colors shadow-2xs"
+            class="px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-lg text-xs font-semibold bg-white border border-slate-200 text-slate-700 hover:bg-red-50 hover:text-red-600 hover:border-red-200 transition-colors shadow-2xs"
           >
             {c.name} ce soir
           </a>
@@ -217,9 +266,9 @@ const jsonLd = [
     <RelatedChannels suggestions={relatedChannels} viewMode="ce-soir" channelName={channel.name} />
 
     <nav class="mt-10 pt-6 border-t border-slate-200 flex flex-wrap gap-4 text-xs sm:text-sm" aria-label="Retour">
-      <a href={`/${chSlug}`} class="text-blue-600 font-semibold hover:underline">&larr; Programme {seoName} complet</a>
-      <a href={`/en-direct/${chSlug}`} class="text-blue-600 font-semibold hover:underline">&larr; {seoName} en direct</a>
-      <a href="/" class="text-blue-600 font-semibold hover:underline">&larr; Tous les programmes ce soir</a>
+      <a href={`/${chSlug}`} class="text-red-600 font-semibold hover:underline">&larr; Programme {seoName} complet</a>
+      <a href={`/en-direct/${chSlug}`} class="text-red-600 font-semibold hover:underline">&larr; {seoName} en direct</a>
+      <a href="/" class="text-red-600 font-semibold hover:underline">&larr; Tous les programmes ce soir</a>
     </nav>
   </div>
 

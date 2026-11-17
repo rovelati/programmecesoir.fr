@@ -1,28 +1,30 @@
 ---
 import type { ChannelRow, ProgramRow } from '../utils/supabase';
-import { formatTimeFR, isCurrentlyAiring } from '../utils/dates';
+import { formatTimeFR, isCurrentlyAiring, durationMinutes } from '../utils/dates';
 import { programAnchorId } from '../utils/channelUrls';
 import { buildProgramOverlayAttr } from '../utils/programOverlayData';
-import { resolveProgramPoster } from '../utils/programPoster';
 import { programPath } from '../utils/programSeo';
+import { resolveCardHeroImage } from '../utils/cardImages';
 
 interface Props {
   program: ProgramRow;
   channel: Pick<ChannelRow, 'channel_id' | 'name' | 'logo_url'>;
   channelSlug: string;
   showEndTime?: boolean;
+  isPrimeTime?: boolean;
 }
 
-const { program, channel, channelSlug, showEndTime = false } = Astro.props;
+const { program, channel, channelSlug, showEndTime = true, isPrimeTime = false } = Astro.props;
 const live = isCurrentlyAiring(program.start_time, program.end_time);
 const overlayData = buildProgramOverlayAttr(program, channel, channelSlug);
-const posterUrl = resolveProgramPoster(program);
+const imageInfo = resolveCardHeroImage(program);
 const href = programPath(channelSlug, program.title);
 
 const startMs = new Date(program.start_time).getTime();
 const endMs = new Date(program.end_time).getTime();
 const totalMs = Math.max(1, endMs - startMs);
 const currentProgress = live ? Math.min(100, Math.max(0, Math.round(((Date.now() - startMs) / totalMs) * 100))) : 0;
+const duration = durationMinutes(program.start_time, program.end_time);
 ---
 
 <a
@@ -31,33 +33,79 @@ const currentProgress = live ? Math.min(100, Math.max(0, Math.round(((Date.now()
   data-program={overlayData}
   aria-label={`${program.title} — ${formatTimeFR(program.start_time)}`}
   class:list={[
-    'group grid gap-2.5 sm:gap-3 px-3 py-2.5 sm:px-4 sm:py-3 bg-white rounded-xl border border-slate-200 hover:border-blue-200 hover:shadow-sm transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-inset items-center',
-    program.poster_url || posterUrl ? 'grid-cols-[48px_64px_1fr] sm:grid-cols-[56px_84px_1fr]' : 'grid-cols-[48px_1fr] sm:grid-cols-[56px_1fr]',
-    live && 'border-red-100 bg-red-50/30',
+    'group grid gap-3 p-3 sm:p-4 bg-white rounded-2xl border transition-all duration-200 items-center cursor-pointer hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red-500',
+    'grid-cols-[56px_72px_1fr] sm:grid-cols-[70px_110px_1fr]',
+    live
+      ? 'border-red-300 bg-red-50/20 ring-1 ring-red-100 shadow-xs'
+      : isPrimeTime
+      ? 'border-amber-300 bg-amber-50/20 shadow-xs'
+      : 'border-slate-200/90 hover:border-red-200',
   ]}
 >
-  <div class="text-right flex-shrink-0">
-    <span class="text-[14px] sm:text-[15px] font-extrabold text-slate-900 tabular-nums block">{formatTimeFR(program.start_time)}</span>
+  <!-- Heure & Durée -->
+  <div class="text-left flex-shrink-0">
+    <span class:list={[
+      'text-[15px] sm:text-[17px] font-black tabular-nums block leading-tight',
+      live ? 'text-red-600' : isPrimeTime ? 'text-amber-800' : 'text-slate-900',
+    ]}>
+      {formatTimeFR(program.start_time)}
+    </span>
     {showEndTime && (
-      <span class="text-[11px] sm:text-[12px] font-medium text-slate-400 tabular-nums block">{formatTimeFR(program.end_time)}</span>
+      <span class="text-[11px] font-semibold text-slate-400 tabular-nums block mt-0.5">
+        jusqu'à {formatTimeFR(program.end_time)}
+      </span>
     )}
-    {live && (
-      <span class="inline-flex items-center gap-1 mt-0.5 px-1.5 py-0.5 bg-red-50 text-red-600 text-[9px] font-bold uppercase rounded-full border border-red-100">
-        <span class="w-1 h-1 bg-red-500 rounded-full animate-pulse"></span>
-        Live
+    {live ? (
+      <span class="inline-flex items-center gap-1 mt-1 px-1.5 py-0.5 bg-red-600 text-white text-[9px] font-black uppercase rounded-md shadow-2xs">
+        <span class="w-1 h-1 bg-white rounded-full animate-pulse"></span>
+        Direct
+      </span>
+    ) : isPrimeTime ? (
+      <span class="inline-flex items-center gap-0.5 mt-1 px-1.5 py-0.5 bg-amber-100 text-amber-800 text-[9px] font-black uppercase rounded-md border border-amber-200">
+        ⭐ 21h10
+      </span>
+    ) : (
+      <span class="text-[10px] font-medium text-slate-400 block mt-0.5">
+        {duration} min
       </span>
     )}
   </div>
-  {posterUrl && (
-    <div class="w-16 h-10 sm:w-21 sm:h-13 rounded-lg overflow-hidden bg-slate-100 border border-slate-200 shadow-2xs flex-shrink-0">
-      <img src={posterUrl} alt={program.title} width="84" height="52" class="w-full h-full object-cover" loading="lazy" decoding="async" />
+
+  <!-- Image 16:9 Thumbnail -->
+  <div class="w-18 h-12 sm:w-28 sm:h-16 rounded-xl overflow-hidden bg-slate-900 border border-slate-200 shadow-2xs flex-shrink-0 relative group-hover:scale-102 transition-transform">
+    <img
+      src={imageInfo.imageUrl}
+      alt={program.title}
+      width="112"
+      height="64"
+      class="w-full h-full object-cover"
+      loading="lazy"
+      decoding="async"
+      onerror="this.style.opacity='0.5'"
+    />
+  </div>
+
+  <!-- Contenu & Titre -->
+  <div class="min-w-0 flex-1">
+    <div class="flex items-center gap-2 mb-1 flex-wrap">
+      {program.genre && (
+        <span class="text-[10px] font-black uppercase tracking-wider text-slate-500 bg-slate-100 px-2 py-0.5 rounded">
+          {program.genre}
+        </span>
+      )}
+      {isPrimeTime && (
+        <span class="text-[10px] font-black uppercase tracking-wider text-amber-700 bg-amber-100/80 px-2 py-0.5 rounded">
+          Prime Time
+        </span>
+      )}
     </div>
-  )}
-  <div class="min-w-0">
-    <h3 class="text-[15px] font-extrabold text-slate-900 leading-snug group-hover:text-blue-600 transition-colors line-clamp-2">{program.title}</h3>
-    {program.genre && <span class="text-[11px] uppercase tracking-wide font-bold text-slate-400">{program.genre}</span>}
+
+    <h3 class="text-[15px] sm:text-base font-extrabold text-slate-900 leading-snug group-hover:text-red-600 transition-colors line-clamp-2">
+      {program.title}
+    </h3>
+
     {live && (
-      <div class="mt-1.5 flex items-center gap-2 max-w-md">
+      <div class="mt-2 flex items-center gap-2.5 max-w-md">
         <div class="h-1.5 flex-1 overflow-hidden rounded-full bg-red-100">
           <div
             class="h-full rounded-full bg-red-600 transition-all duration-500 live-progress-bar"
@@ -66,9 +114,16 @@ const currentProgress = live ? Math.min(100, Math.max(0, Math.round(((Date.now()
             style={`width: ${currentProgress}%;`}
           />
         </div>
-        <span class="text-[10px] font-bold text-red-600 tabular-nums live-progress-text shrink-0">{currentProgress}%</span>
+        <span class="text-[11px] font-bold text-red-600 tabular-nums live-progress-text shrink-0">
+          {currentProgress}%
+        </span>
       </div>
     )}
-    {program.description && <p class="text-[13px] text-slate-500 mt-1 line-clamp-2 leading-snug">{program.description.substring(0, 150)}</p>}
+
+    {program.description && (
+      <p class="text-xs text-slate-500 mt-1 line-clamp-2 leading-relaxed hidden sm:block">
+        {program.description.substring(0, 150)}
+      </p>
+    )}
   </div>
 </a>

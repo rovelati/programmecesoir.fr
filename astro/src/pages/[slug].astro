@@ -4,8 +4,8 @@ export const prerender = false;
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { getChannelBySlug, getChannelSlugFromId, getProgramsByChannelAndDate, getTodayDateFR, slugify } from '../utils/supabase';
-import { formatDateFR, getParisHour } from '../utils/dates';
+import { getChannelBySlug, getChannelSlugFromId, getProgramsByChannelAndDate, getTodayDateFR } from '../utils/supabase';
+import { formatDateFR, isCurrentlyAiring } from '../utils/dates';
 import { getRelatedChannelsForSchedule } from '../utils/relatedChannels';
 import RelatedChannels from '../components/RelatedChannels.astro';
 import ScheduleProgramRow from '../components/ScheduleProgramRow.astro';
@@ -13,8 +13,14 @@ import AdSlot from '../components/AdSlot.astro';
 import { ADSENSE_SLOTS } from '../utils/adsense';
 import { setCacheControl, CACHE_TEN_MINUTES } from '../utils/cachePolicy';
 import { channelSeoName, channelTodaySeo } from '../utils/seoCopy';
-import { isAdultOrJunkChannel } from '../utils/programSeo';
+import { isAdultOrJunkChannel, programPath } from '../utils/programSeo';
 import { buildChannelScheduleJsonLd } from '../utils/channelJsonLd';
+import { pickFeaturedProgram } from '../utils/programPick';
+import { resolveProgramPoster } from '../utils/programPoster';
+import { resolveOgImage } from '../utils/seoImage';
+import { getTvStreamUrl } from '../utils/tvStreams';
+import { getTntNumber, isSuisse, isPayant, isTntLocale } from '../utils/channelUrls';
+import { getChannelLogo } from '../utils/channelLogos';
 
 const { slug } = Astro.params;
 if (!slug) return Astro.redirect('/');
@@ -39,10 +45,6 @@ if (!channel) {
 setCacheControl(Astro.response, CACHE_TEN_MINUTES);
 
 const today = await getTodayDateFR();
-import { pickFeaturedProgram } from '../utils/programPick';
-import { resolveProgramPoster } from '../utils/programPoster';
-import { resolveOgImage } from '../utils/seoImage';
-
 const programs = await getProgramsByChannelAndDate(channel.channel_id, today);
 const relatedChannels = await getRelatedChannelsForSchedule(channel, programs, 'aujourdhui', today, 6);
 const todayFormatted = formatDateFR(new Date());
@@ -52,15 +54,30 @@ const seoName = channelSeoName(chSlug, channel.name);
 const { title: pageTitle, description: pageDescription } = channelTodaySeo(seoName);
 const noindex = isAdultOrJunkChannel(chSlug);
 
+const resolvedLogo = getChannelLogo(channel.channel_id, channel.logo_url, channel.name);
 const primeProgram = pickFeaturedProgram(programs, 'ce-soir');
 const primePoster = primeProgram ? resolveProgramPoster(primeProgram) : null;
-const ogImage = resolveOgImage(primePoster, channel.logo_url);
+const ogImage = resolveOgImage(primePoster, resolvedLogo);
+const tvStream = getTvStreamUrl(chSlug, channel.name);
+const tntNum = getTntNumber(channel.channel_number, chSlug);
+const isSwiss = isSuisse(chSlug);
+const isPaid = isPayant(channel.channel_number, chSlug);
+const isLocal = isTntLocale(chSlug);
 
-const timeSlots = [
-  { label: 'Matin', filter: (p: { start_time: string }) => { const h = getParisHour(p.start_time); return h >= 6 && h < 12; } },
-  { label: 'Après-midi', filter: (p: { start_time: string }) => { const h = getParisHour(p.start_time); return h >= 12 && h < 18; } },
-  { label: 'Soirée', filter: (p: { start_time: string }) => { const h = getParisHour(p.start_time); return h >= 18 || h < 6; } },
-];
+const nowMs = Date.now();
+const pastPrograms = programs.filter(p => new Date(p.end_time).getTime() < nowMs);
+const currentProgram = programs.find(p => isCurrentlyAiring(p.start_time, p.end_time));
+const upcomingPrograms = programs.filter(p => new Date(p.end_time).getTime() >= nowMs && p.id !== currentProgram?.id);
+
+const schedulePayload = programs.map(p => ({
+  id: p.id,
+  title: p.title,
+  start: new Date(p.start_time).getTime(),
+  end: new Date(p.end_time).getTime(),
+  genre: p.genre || '',
+  description: p.description ? p.description.slice(0, 160) : '',
+  href: programPath(chSlug, p.title),
+}));
 
 const TOP_CHANNELS = [
   { slug: 'tf1', name: 'TF1' },
@@ -108,7 +125,7 @@ const faqJsonLd = {
 
 const jsonLd = [
   ...buildChannelScheduleJsonLd({
-    channel,
+    channel: { ...channel, logo_url: resolvedLogo },
     channelSlug: chSlug,
     channelName: seoName,
     canonical,
@@ -130,32 +147,81 @@ const jsonLd = [
   <Header slot="header" activePath={`/${chSlug}`} />
 
   <div class="container mx-auto px-3 sm:px-4 py-5 sm:py-8 max-w-5xl">
-    <div class="flex items-center gap-3 sm:gap-4 mb-5 sm:mb-8">
-      {channel.logo_url && (
-        <img
-          src={channel.logo_url}
-          alt={`Logo ${seoName}`}
-          class="w-12 h-12 sm:w-16 sm:h-16 object-contain rounded-xl bg-white border border-slate-200 p-1.5 sm:p-2 shadow-xs shrink-0"
-          width="64"
-          height="64"
-        />
-      )}
-      <div>
-        <h1 class="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
-          Programme TV {seoName} aujourd'hui — Grille complète
-        </h1>
-        <p class="text-xs sm:text-sm text-slate-500 capitalize mt-0.5">{todayFormatted}</p>
+    <!-- Channel Header Banner with Neuromarketing Styling -->
+    <div class="p-5 sm:p-7 bg-white rounded-3xl border border-slate-200 shadow-xs mb-6 flex flex-col md:flex-row md:items-center justify-between gap-5">
+      <div class="flex items-center gap-4 sm:gap-5">
+        <div class="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-slate-900 border border-slate-200/80 p-2.5 flex items-center justify-center shrink-0 shadow-sm">
+          <img
+            src={resolvedLogo}
+            alt={`Logo ${seoName}`}
+            class="max-h-full max-w-full object-contain"
+            width="80"
+            height="80"
+          />
+        </div>
+        <div>
+          <div class="flex items-center gap-2 mb-1 flex-wrap">
+            {tntNum != null ? (
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-slate-900 text-white tracking-wider">
+                TNT {tntNum}
+              </span>
+            ) : isSwiss ? (
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-rose-50 text-rose-700 border border-rose-200 tracking-wider">
+                🇨🇭 Suisse
+              </span>
+            ) : isPaid ? (
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-amber-50 text-amber-700 border border-amber-200 tracking-wider">
+                Payant
+              </span>
+            ) : isLocal ? (
+              <span class="inline-flex items-center px-2 py-0.5 rounded-md text-[10px] font-black uppercase bg-emerald-50 text-emerald-700 border border-emerald-200 tracking-wider">
+                TNT Locale
+              </span>
+            ) : null}
+            <span class="inline-flex items-center gap-1.5 text-[11px] font-bold text-slate-500" id="live-paris-clock">
+              <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+              <span id="paris-clock-text">En direct</span>
+            </span>
+          </div>
+
+          <h1 class="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
+            Programme TV {seoName} aujourd'hui
+          </h1>
+          <p class="text-xs sm:text-sm text-slate-500 capitalize mt-0.5">
+            Grille complète des émissions • {todayFormatted}
+          </p>
+        </div>
       </div>
+
+      <!-- Streaming CTA Button -->
+      {tvStream && (
+        <div class="shrink-0">
+          <a
+            href={tvStream.streamUrl}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            class="inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-red-600 hover:bg-red-700 text-white font-extrabold rounded-xl text-xs sm:text-sm shadow-md transition-all cursor-pointer"
+            aria-label={`Regarder ${seoName} en direct streaming officiel sur ${tvStream.provider}`}
+          >
+            <span class="w-2 h-2 rounded-full bg-white animate-pulse"></span>
+            <span>Direct {tvStream.provider}</span>
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+            </svg>
+          </a>
+        </div>
+      )}
     </div>
 
+    <!-- Navigation temporelle -->
     <nav class="flex gap-2 sm:gap-3 mb-6 overflow-x-auto pb-1 scrollbar-none" aria-label="Navigation temporelle">
-      <a href={`/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-blue-600 text-white rounded-full text-xs sm:text-sm font-bold shadow-xs">Aujourd'hui</a>
-      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">Ce soir (21h10)</a>
-      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">En direct</a>
-      <a href={`/demain/${chSlug}`} class="shrink-0 px-3.5 py-1.5 sm:px-4 sm:py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-blue-300 transition-all">Demain</a>
+      <a href={`/${chSlug}`} class="shrink-0 px-4 py-2 bg-red-600 text-white rounded-full text-xs sm:text-sm font-bold shadow-xs">Aujourd'hui</a>
+      <a href={`/ce-soir/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Ce soir (21h10)</a>
+      <a href={`/en-direct/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">En direct</a>
+      <a href={`/demain/${chSlug}`} class="shrink-0 px-4 py-2 bg-white border border-slate-200 rounded-full text-xs sm:text-sm font-semibold text-slate-700 hover:border-red-300 transition-all">Demain</a>
     </nav>
 
-    <!-- High-Viewability Mid-Content Ad (After header & quick navigation, before schedule) -->
+    <!-- High-Viewability Mid-Content Ad -->
     <AdSlot
       slot={ADSENSE_SLOTS.CHANNEL_MID_CONTENT}
       minHeight={250}
@@ -164,28 +230,78 @@ const jsonLd = [
     />
 
     {programs.length === 0 ? (
-      <div class="text-center py-16 text-slate-400 bg-slate-50 rounded-2xl border border-slate-200">
-        <p class="text-lg font-semibold">Aucun programme trouvé pour aujourd'hui.</p>
+      <div class="text-center py-16 text-slate-400 bg-white rounded-2xl border border-slate-200">
+        <p class="text-lg font-semibold">Aucun programme disponible pour aujourd'hui.</p>
       </div>
     ) : (
-      <div class="space-y-8 sm:space-y-10">
-        {timeSlots.map(({ label, filter }) => {
-          const slotPrograms = programs.filter(filter);
-          if (slotPrograms.length === 0) return null;
-          return (
-            <section>
-              <h2 class="text-lg font-black text-slate-900 mb-3 sm:mb-4 flex items-center gap-2">
-                <span class="w-1.5 h-6 bg-blue-600 rounded-full"></span>
-                {label}
-              </h2>
-              <div class="space-y-2">
-                {slotPrograms.map((p) => (
-                  <ScheduleProgramRow program={p} channel={channel} channelSlug={chSlug} showEndTime />
-                ))}
-              </div>
-            </section>
-          );
-        })}
+      <div class="space-y-6">
+        <!-- 1. En Direct À l'antenne -->
+        {currentProgram && (
+          <section class="mb-6">
+            <h2 class="text-lg font-black text-slate-900 mb-3 flex items-center gap-2">
+              <span class="w-2 h-2 rounded-full bg-red-600 animate-pulse"></span>
+              À l'antenne en ce moment sur {seoName}
+            </h2>
+            <ScheduleProgramRow
+              program={currentProgram}
+              channel={{ ...channel, logo_url: resolvedLogo }}
+              channelSlug={chSlug}
+              showEndTime
+            />
+          </section>
+        )}
+
+        <!-- 2. Accordion pour les programmes passés (matinées déjà diffusées) -->
+        {pastPrograms.length > 0 && (
+          <div class="mb-6">
+            <button
+              id="btn-toggle-past"
+              type="button"
+              class="w-full py-3 px-4 rounded-2xl bg-slate-100 hover:bg-slate-200/80 text-slate-700 text-xs sm:text-sm font-bold flex items-center justify-between transition-colors cursor-pointer"
+              aria-expanded="false"
+            >
+              <span class="flex items-center gap-2">
+                <span>⏮️</span>
+                <span>Afficher les programmes précédents ({pastPrograms.length} émissions depuis 06h00)</span>
+              </span>
+              <span id="past-arrow" class="transform transition-transform text-slate-400 font-bold">▼</span>
+            </button>
+            <div id="past-programs-list" class="hidden mt-3 space-y-2 opacity-80">
+              {pastPrograms.map((p) => (
+                <ScheduleProgramRow
+                  program={p}
+                  channel={{ ...channel, logo_url: resolvedLogo }}
+                  channelSlug={chSlug}
+                  showEndTime
+                />
+              ))}
+            </div>
+          </div>
+        )}
+
+        <!-- 3. Programmes suivants aujourd'hui et Prime Time -->
+        {upcomingPrograms.length > 0 && (
+          <section>
+            <h2 class="text-lg font-black text-slate-900 mb-3 flex items-center gap-2">
+              <span class="w-1.5 h-6 bg-red-600 rounded-full"></span>
+              Suite de la programmation aujourd'hui & Prime Time 21:10
+            </h2>
+            <div class="space-y-2">
+              {upcomingPrograms.map((p) => {
+                const isPrime = primeProgram?.id === p.id;
+                return (
+                  <ScheduleProgramRow
+                    program={p}
+                    channel={{ ...channel, logo_url: resolvedLogo }}
+                    channelSlug={chSlug}
+                    showEndTime
+                    isPrimeTime={isPrime}
+                  />
+                );
+              })}
+            </div>
+          </section>
+        )}
       </div>
     )}
 
@@ -207,7 +323,7 @@ const jsonLd = [
           Retrouvez toute la journée la programmation officielle de <strong>{seoName}</strong>. Suivez les rendez-vous d'information, les magazines, séries et films diffusés à l'antenne.
         </p>
         <p>
-          Besoin de savoir ce qui passe maintenant ? Consultez directement notre page <a href={`/en-direct/${chSlug}`} class="text-blue-600 font-semibold underline">{seoName} en direct</a> ou préparez votre soirée avec <a href={`/ce-soir/${chSlug}`} class="text-blue-600 font-semibold underline">{seoName} ce soir</a>.
+          Besoin de savoir ce qui passe maintenant ? Consultez directement notre page <a href={`/en-direct/${chSlug}`} class="text-red-600 font-semibold underline">{seoName} en direct</a> ou préparez votre soirée avec <a href={`/ce-soir/${chSlug}`} class="text-red-600 font-semibold underline">{seoName} ce soir</a>.
         </p>
       </div>
     </section>
@@ -221,7 +337,7 @@ const jsonLd = [
         {TOP_CHANNELS.filter(c => c.slug !== chSlug).map((c) => (
           <a
             href={`/${c.slug}`}
-            class="px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-lg text-xs font-semibold bg-white border border-slate-200 text-slate-700 hover:bg-slate-100 hover:text-blue-600 transition-colors shadow-2xs"
+            class="px-2.5 py-1 sm:px-3 sm:py-1.5 rounded-lg text-xs font-semibold bg-white border border-slate-200 text-slate-700 hover:bg-red-50 hover:text-red-600 hover:border-red-200 transition-colors shadow-2xs"
           >
             Programme {c.name}
           </a>
@@ -232,11 +348,53 @@ const jsonLd = [
     <RelatedChannels suggestions={relatedChannels} viewMode="aujourdhui" channelName={channel.name} />
 
     <nav class="mt-10 pt-6 border-t border-slate-200 flex flex-wrap gap-4 text-xs sm:text-sm" aria-label="Retour">
-      <a href={`/en-direct/${chSlug}`} class="text-blue-600 font-semibold hover:underline">&larr; {seoName} en direct</a>
-      <a href={`/ce-soir/${chSlug}`} class="text-blue-600 font-semibold hover:underline">&larr; {seoName} ce soir</a>
-      <a href="/" class="text-blue-600 font-semibold hover:underline">&larr; Tous les programmes ce soir</a>
+      <a href={`/en-direct/${chSlug}`} class="text-red-600 font-semibold hover:underline">&larr; {seoName} en direct</a>
+      <a href={`/ce-soir/${chSlug}`} class="text-red-600 font-semibold hover:underline">&larr; {seoName} ce soir</a>
+      <a href="/" class="text-red-600 font-semibold hover:underline">&larr; Tous les programmes ce soir</a>
     </nav>
   </div>
+
+  <!-- Embedded Schedule JSON for Client-Side Dual-Layer Synchronization -->
+  <script id="channel-schedule-json" type="application/json" set:html={JSON.stringify(schedulePayload)} />
+
+  <script is:inline>
+    // Accordion Toggle for Past Programs
+    (function () {
+      var btn = document.getElementById('btn-toggle-past');
+      var list = document.getElementById('past-programs-list');
+      var arrow = document.getElementById('past-arrow');
+      if (btn && list) {
+        btn.addEventListener('click', function () {
+          var isExpanded = btn.getAttribute('aria-expanded') === 'true';
+          btn.setAttribute('aria-expanded', String(!isExpanded));
+          if (isExpanded) {
+            list.classList.add('hidden');
+            if (arrow) arrow.style.transform = 'rotate(0deg)';
+          } else {
+            list.classList.remove('hidden');
+            if (arrow) arrow.style.transform = 'rotate(180deg)';
+          }
+        });
+      }
+    })();
+
+    // Live Paris Clock
+    (function () {
+      var clockEl = document.getElementById('paris-clock-text');
+      function updateClock() {
+        if (!clockEl) return;
+        var now = new Date();
+        var timeStr = now.toLocaleTimeString('fr-FR', {
+          timeZone: 'Europe/Paris',
+          hour: '2-digit',
+          minute: '2-digit'
+        });
+        clockEl.textContent = 'En direct · ' + timeStr;
+      }
+      updateClock();
+      setInterval(updateClock, 30000);
+    })();
+  </script>
 
   <Footer slot="footer" />
 </Layout>

@@ -11,7 +11,7 @@ import CeSoirPourVous from '../components/CeSoirPourVous.astro';
 import AdSlot from '../components/AdSlot.astro';
 import { ADSENSE_SLOTS } from '../utils/adsense';
 import { getTonightPrograms, getChannelSlugFromId, slugify } from '../utils/supabase';
-import { channelScheduleUrl, isRegionalFrance3, getTntNumber } from '../utils/channelUrls';
+import { channelScheduleUrl, isRegionalFrance3, getChannelSortOrder } from '../utils/channelUrls';
 import { resolveProgramPoster } from '../utils/programPoster';
 import { formatDateLongFR } from '../utils/dates';
 import { pickFeaturedProgram } from '../utils/programPick';
@@ -42,8 +42,8 @@ const channels = [...new Map(
   .sort((a, b) => {
     const slugA = getChannelSlugFromId(a.channel_id);
     const slugB = getChannelSlugFromId(b.channel_id);
-    const numA = getTntNumber(a.channel_number, slugA) ?? 999;
-    const numB = getTntNumber(b.channel_number, slugB) ?? 999;
+    const numA = getChannelSortOrder(a.channel_number, slugA);
+    const numB = getChannelSortOrder(b.channel_number, slugB);
     return numA - numB;
   });
 
@@ -279,7 +279,7 @@ const jsonLd = [
     {initialCards.length > 0 ? (
       <section aria-label={`${totalChannelCount} chaînes avec programmes ce soir`} class="mb-10">
         <h2 class="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 mb-6">Grille des programmes TV ce soir</h2>
-        <div id="channels-grid" class="divide-y divide-slate-100 rounded-2xl border border-slate-200 overflow-hidden bg-white shadow-sm">
+        <div id="channels-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6">
           {initialCards.map(({ channel, programs, channelIndex, eagerPoster, lazyChannelLogo }, idx) => (
             <>
               <ChannelCard
@@ -291,7 +291,7 @@ const jsonLd = [
                 lazyChannelLogo={lazyChannelLogo}
               />
               {idx === 1 && (
-                <div class="px-2 py-1 bg-slate-50/70" data-infeed-container>
+                <div class="col-span-full rounded-2xl overflow-hidden bg-slate-50/80 p-2 sm:p-4 border border-slate-200/80 my-2" data-infeed-container>
                   <AdSlot
                     slot={ADSENSE_SLOTS.IN_FEED_CHANNELS}
                     minHeight={250}
@@ -302,7 +302,7 @@ const jsonLd = [
                 </div>
               )}
               {idx === 6 && (
-                <div class="px-2 py-1 bg-slate-50/70" data-infeed-container>
+                <div class="col-span-full rounded-2xl overflow-hidden bg-slate-50/80 p-2 sm:p-4 border border-slate-200/80 my-2" data-infeed-container>
                   <AdSlot
                     slot={ADSENSE_SLOTS.IN_FEED_CHANNELS}
                     minHeight={250}
@@ -432,7 +432,7 @@ const jsonLd = [
 
     function createChannelCard(item: any) {
       const card = document.createElement('div');
-      card.className = 'channel-card-item block group border-b border-slate-100 hover:bg-slate-50/80 transition-colors';
+      card.className = 'channel-card-item bg-white rounded-2xl shadow-xs hover:shadow-xl transition-all duration-300 border border-slate-200/90 flex flex-col group overflow-hidden';
       card.setAttribute('data-channel-card', '');
       card.setAttribute('data-channel-name', (item.name || '').toLowerCase());
       card.setAttribute('data-channel-slug', item.slug);
@@ -442,61 +442,79 @@ const jsonLd = [
 
       const prime = item.prime;
       const tntBadge = item.tntNum != null
-        ? `<span class="inline-flex items-center px-1 py-0.2 rounded text-[9px] font-bold bg-slate-100 text-slate-700 border border-slate-200">TNT ${item.tntNum}</span>`
+        ? `<span class="text-[9px] font-bold text-gray-300 bg-gray-800/90 px-1.5 py-0.5 rounded shrink-0">CH ${item.tntNum}</span>`
+        : item.isSwiss
+        ? `<span class="text-[9px] font-bold text-rose-300 bg-rose-950/80 px-1.5 py-0.5 rounded shrink-0">🇨🇭</span>`
         : item.isPaid
-        ? `<span class="inline-flex items-center px-1 py-0.2 rounded text-[9px] font-bold bg-amber-50 text-amber-700 border border-amber-200">Payant</span>`
+        ? `<span class="text-[9px] font-bold text-amber-300 bg-amber-950/80 px-1.5 py-0.5 rounded shrink-0">Payant</span>`
         : item.isLocal
-        ? `<span class="inline-flex items-center px-1 py-0.2 rounded text-[9px] font-bold bg-emerald-50 text-emerald-700 border border-emerald-200">TNT Locale</span>`
+        ? `<span class="text-[9px] font-bold text-emerald-300 bg-emerald-950/80 px-1.5 py-0.5 rounded shrink-0">Locale</span>`
         : '';
 
-      const primeBlock = prime && prime.href ? `
-        <a href="${prime.href}" ${prime.overlayAttr ? `data-program='${prime.overlayAttr.replace(/'/g, '&#39;')}'` : ''} class="block cursor-pointer group/prog focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded-lg p-1 -m-1" title="Cliquez pour les détails complets">
-          <div class="flex gap-2.5 sm:gap-3 items-start">
-            ${prime.posterUrl ? `
-              <div class="w-16 h-10 sm:w-20 sm:h-12 flex-shrink-0 rounded-lg overflow-hidden bg-slate-100 border border-slate-200 shadow-2xs block">
-                <img src="${prime.posterUrl}" alt="${prime.title}" width="80" height="48" class="w-full h-full object-cover poster-img" loading="lazy" decoding="async" onerror="this.parentElement.style.display='none'" />
-              </div>
-            ` : ''}
-            <div class="min-w-0 flex-1">
-              <p class="text-[10px] sm:text-[11px] text-slate-500 mb-0.5 flex items-center gap-1.5 flex-wrap">
-                ${prime.live ? `
-                  <span class="inline-flex items-center gap-1 px-1.5 py-0.2 bg-red-50 text-red-600 text-[9px] font-bold uppercase rounded-full border border-red-100 shrink-0">
-                    <span class="w-1.5 h-1.5 bg-red-500 rounded-full animate-pulse"></span> Direct
-                  </span>
-                ` : ''}
-                <span class="tabular-nums font-semibold text-slate-700">${prime.time}</span>
-                ${prime.genre ? `<span class="uppercase tracking-wide font-bold text-slate-400 text-[9px] sm:text-[10px]">${prime.genre}</span>` : ''}
-              </p>
-              <h3 class="text-[13px] sm:text-sm font-extrabold text-slate-900 leading-snug mb-1 group-hover/prog:text-blue-600 transition-colors line-clamp-2">
-                ${prime.title}
-              </h3>
-              <div class="h-[3px] w-full overflow-hidden rounded-full bg-slate-100 mb-1.5">
-                <div class="h-full rounded-full transition-all" style="width:${prime.progress}%;background:${prime.live ? '#ef4444' : '#3b82f6'}"></div>
-              </div>
-              ${item.next ? `
-                <p class="text-[11px] text-slate-400 truncate">
-                  <span class="tabular-nums font-medium text-slate-500">${item.next.time}</span> — <span class="text-slate-600 font-medium">${item.next.title}</span>
-                </p>
-              ` : ''}
-            </div>
-          </div>
-        </a>
-      ` : `<p class="text-xs text-slate-400 italic py-1">Aucun programme disponible pour ce créneau</p>`;
+      const statusBadge = prime?.live
+        ? `<span class="absolute top-2.5 right-2.5 z-10 inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider bg-red-600 text-white shadow-md backdrop-blur-xs"><span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span> Direct</span>`
+        : `<span class="absolute top-2.5 right-2.5 z-10 inline-flex items-center gap-1 px-2.5 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider bg-black/80 text-amber-300 border border-amber-400/30 shadow-md backdrop-blur-xs">✨ 21h10</span>`;
+
+      const heroImg = item.heroImageUrl || 'https://images.unsplash.com/photo-1594909122845-11baa439b7bf?auto=format&fit=crop&w=1280&q=80';
 
       card.innerHTML = `
-        <div class="grid grid-cols-[76px_1fr] sm:grid-cols-[100px_1fr_24px] gap-3 px-3 py-2.5 sm:px-4 sm:py-3.5 items-start">
-          <a href="${item.channelHref}" class="flex flex-col items-start gap-1 focus:outline-none group/chan" aria-label="Programme ${item.name}">
-            <div class="w-8 h-8 sm:w-9 sm:h-9 flex-shrink-0 flex items-center justify-center overflow-hidden rounded-lg border border-slate-200 bg-white shadow-xs p-1 group-hover/chan:scale-105 transition-transform">
-              <img src="${item.logo}" alt="Logo ${item.name}" width="36" height="36" class="w-full h-full object-contain" loading="lazy" decoding="async" />
-            </div>
-            <div class="min-w-0 w-full">
-              <p class="text-[11px] sm:text-xs font-extrabold text-slate-900 leading-tight truncate group-hover/chan:text-blue-600 transition-colors">${item.name}</p>
-              <div class="flex items-center gap-1 mt-0.5 flex-wrap">${tntBadge}</div>
-            </div>
+        <div class="relative aspect-video w-full overflow-hidden bg-slate-900">
+          <a href="${prime?.href || item.channelHref}" ${prime?.overlayAttr ? `data-program='${prime.overlayAttr.replace(/'/g, '&#39;')}'` : ''} class="block w-full h-full cursor-pointer focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red-500" aria-label="${prime?.title || item.name} sur ${item.name}">
+            <img src="${heroImg}" alt="${prime?.title || item.name}" width="640" height="360" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" onerror="this.style.opacity='0.5'" />
+            <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent pointer-events-none"></div>
           </a>
-          <div class="min-w-0 py-0.5">${primeBlock}</div>
-          <div class="hidden sm:flex items-center justify-center pt-2 text-slate-300 group-hover:text-blue-500 transition-colors">
-            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+          <a href="${item.channelHref}" class="absolute top-2.5 left-2.5 z-10 flex items-center gap-1.5 bg-black/85 hover:bg-black/95 backdrop-blur-md px-2.5 py-1.5 rounded-xl border border-white/15 hover:border-red-500/60 shadow-lg group/ch transition-all max-w-[65%]" aria-label="Programme ${item.name}">
+            <span class="inline-flex items-center justify-center h-6 max-h-6 max-w-[70px] sm:max-w-[80px] overflow-hidden shrink-0">
+              <img src="${item.logo}" alt="${item.name}" class="max-h-6 max-w-[70px] sm:max-w-[80px] w-auto h-auto object-contain group-hover/ch:scale-105 transition-transform" style="max-height: 24px; max-width: 80px; height: 24px; width: auto; object-fit: contain;" loading="lazy" onerror="this.style.display='none'" />
+            </span>
+            ${tntBadge}
+          </a>
+          ${statusBadge}
+          ${prime ? `
+            <div class="absolute bottom-2 left-3 right-3 flex items-center justify-between text-[11px] font-bold text-white/90 drop-shadow-md pointer-events-none">
+              <span class="tabular-nums bg-black/50 px-2 py-0.5 rounded-md backdrop-blur-xs">${prime.time}</span>
+              ${prime.duration ? `<span class="bg-black/50 px-2 py-0.5 rounded-md backdrop-blur-xs">${prime.duration} min</span>` : ''}
+            </div>
+          ` : ''}
+        </div>
+        <div class="p-4 sm:p-5 flex-1 flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-[10px] font-black tracking-wider uppercase text-red-600 bg-red-50 px-2 py-0.5 rounded-md border border-red-100">${prime?.genre || 'Programme TV'}</span>
+            </div>
+            <a href="${prime?.href || item.channelHref}" ${prime?.overlayAttr ? `data-program='${prime.overlayAttr.replace(/'/g, '&#39;')}'` : ''} class="block focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-red-500 rounded-sm">
+              <h3 class="font-extrabold text-slate-900 text-[15px] sm:text-base leading-snug group-hover:text-red-600 transition-colors line-clamp-2 min-h-[2.6rem] mb-2">${prime?.title || 'Aucun programme répertorié'}</h3>
+            </a>
+            ${prime?.live ? `
+              <div class="h-1.5 w-full bg-slate-100 rounded-full overflow-hidden mb-3">
+                <div class="h-full bg-red-600 transition-all duration-1000 rounded-full" style="width: ${prime.progress}%;"></div>
+              </div>
+            ` : ''}
+            ${prime?.description ? `
+              <p class="text-xs text-slate-500 line-clamp-2 mb-3 leading-relaxed">${prime.description}</p>
+            ` : ''}
+          </div>
+          <div class="pt-3 border-t border-slate-100">
+            ${item.next ? `
+              <div class="mb-3 flex items-baseline justify-between gap-2 text-xs">
+                <span class="text-[10px] font-bold text-slate-400 uppercase tracking-wider shrink-0">Ensuite :</span>
+                <p class="text-xs font-medium text-slate-600 truncate text-right">
+                  <span class="font-bold text-slate-800 tabular-nums">${item.next.time}</span> — <span>${item.next.title}</span>
+                </p>
+              </div>
+            ` : ''}
+            <div class="flex items-center justify-between gap-2 pt-1">
+              <a href="${item.channelHref}" class="text-xs font-bold text-slate-600 group-hover:text-red-600 transition-colors inline-flex items-center gap-1">
+                <span>Grille ${item.name}</span>
+                <span class="transform group-hover:translate-x-1 transition-transform">→</span>
+              </a>
+              ${item.streamUrl ? `
+                <a href="${item.streamUrl}" target="_blank" rel="noopener noreferrer nofollow" class="text-[11px] font-bold text-red-600 hover:text-red-700 bg-red-50 hover:bg-red-100 px-2.5 py-1 rounded-lg border border-red-200 transition-colors inline-flex items-center gap-1" aria-label="Regarder ${item.name} en direct streaming officiel">
+                  <span>Direct</span>
+                  <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
+                </a>
+              ` : ''}
+            </div>
           </div>
         </div>
       `;
