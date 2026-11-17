@@ -1,0 +1,103 @@
+---
+interface Props {
+  activeSlot?: 'live' | 'morning' | 'prime' | 'late' | 'demain';
+  activeFilter?: string;
+  totalChannels?: number;
+}
+
+const { activeSlot = 'prime', activeFilter = 'all', totalChannels = 50 } = Astro.props;
+---
+
+<div class="border-t border-gray-800/60 bg-[#0B0F19]/95 backdrop-blur-md border-b border-gray-800/80 px-3 sm:px-6 py-2 overflow-x-auto scrollbar-none shadow-md">
+  <div class="max-w-6xl mx-auto flex items-center justify-between gap-3 sm:gap-6 min-w-max">
+    
+    <!-- Time Slot Buttons -->
+    <div class="flex items-center gap-1.5 sm:gap-2 text-xs font-bold" id="slot-button-group">
+      <a
+        href="/en-direct"
+        class={`time-slot-btn px-3 py-1.5 rounded-xl transition-all duration-200 cursor-pointer flex items-center gap-1.5 ${activeSlot === 'live' ? 'bg-[#E10600] text-white shadow-lg shadow-red-900/40 font-black scale-[1.02]' : 'bg-gray-800/90 text-gray-300 hover:text-white hover:bg-gray-700/80 border border-gray-700/60'}`}
+        data-slot="live"
+        aria-label="En direct"
+      >
+        <span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span>
+        <span>En direct</span>
+      </a>
+
+      <a
+        href="/#matin"
+        class={`time-slot-btn px-3 py-1.5 rounded-xl transition-all duration-200 cursor-pointer flex items-center gap-1.5 ${activeSlot === 'morning' ? 'bg-[#E10600] text-white shadow-lg shadow-red-900/40 font-black scale-[1.02]' : 'bg-gray-800/90 text-gray-300 hover:text-white hover:bg-gray-700/80 border border-gray-700/60'}`}
+        data-slot="morning"
+        aria-label="Matin"
+      >
+        <span>🌅 Matin</span>
+      </a>
+
+      <a
+        href="/"
+        class={`time-slot-btn px-3 py-1.5 rounded-xl transition-all duration-200 cursor-pointer flex items-center gap-1.5 ${activeSlot === 'prime' ? 'bg-[#E10600] text-white shadow-lg shadow-red-900/40 font-black scale-[1.02]' : 'bg-gray-800/90 text-gray-300 hover:text-white hover:bg-gray-700/80 border border-gray-700/60'}`}
+        data-slot="prime"
+        aria-label="21h10 Ce soir"
+      >
+        <span>⭐ 21h10 Ce soir</span>
+      </a>
+
+      <a
+        href="/#nuit"
+        class={`time-slot-btn px-3 py-1.5 rounded-xl transition-all duration-200 cursor-pointer flex items-center gap-1.5 ${activeSlot === 'late' ? 'bg-[#E10600] text-white shadow-lg shadow-red-900/40 font-black scale-[1.02]' : 'bg-gray-800/90 text-gray-300 hover:text-white hover:bg-gray-700/80 border border-gray-700/60'}`}
+        data-slot="late"
+        aria-label="23h00 Fin de soirée"
+      >
+        <span>🌙 23h00</span>
+      </a>
+
+      <a
+        href="/demain"
+        class={`time-slot-btn px-3 py-1.5 rounded-xl transition-all duration-200 cursor-pointer flex items-center gap-1.5 ${activeSlot === 'demain' ? 'bg-[#E10600] text-white shadow-lg shadow-red-900/40 font-black scale-[1.02]' : 'bg-gray-800/90 text-gray-300 hover:text-white hover:bg-gray-700/80 border border-gray-700/60'}`}
+        data-slot="demain"
+        aria-label="Demain"
+      >
+        <span>📅 Demain</span>
+      </a>
+    </div>
+
+    <!-- Category Filter Chips -->
+    <div class="flex items-center gap-1 sm:gap-1.5 text-xs font-medium" id="category-filter-chips">
+      <button
+        type="button"
+        class={`filter-chip px-3 py-1.5 rounded-xl transition-colors cursor-pointer ${activeFilter === 'all' ? 'bg-gray-800 text-white font-bold border border-gray-700' : 'bg-gray-900/80 text-gray-400 hover:text-white hover:bg-gray-800/80 border border-transparent'}`}
+        data-filter="all"
+      >
+        Toutes les chaînes
+      </button>
+      <button
+        type="button"
+        class="filter-chip px-3 py-1.5 rounded-xl bg-gray-900/80 text-gray-400 hover:text-white hover:bg-gray-800/80 border border-transparent cursor-pointer transition-colors"
+        data-filter="film"
+      >
+        🎬 Films
+      </button>
+      <button
+        type="button"
+        class="filter-chip px-3 py-1.5 rounded-xl bg-gray-900/80 text-gray-400 hover:text-white hover:bg-gray-800/80 border border-transparent cursor-pointer transition-colors"
+        data-filter="serie"
+      >
+        🍿 Séries
+      </button>
+      <button
+        type="button"
+        class="filter-chip px-3 py-1.5 rounded-xl bg-gray-900/80 text-gray-400 hover:text-white hover:bg-gray-800/80 border border-transparent cursor-pointer transition-colors"
+        data-filter="sport"
+      >
+        ⚽ Sport
+      </button>
+      <button
+        type="button"
+        class="filter-chip px-3 py-1.5 rounded-xl bg-gray-900/80 text-gray-400 hover:text-white hover:bg-gray-800/80 border border-transparent cursor-pointer transition-colors"
+        data-filter="news"
+      >
+        📰 Infos
+      </button>
+    </div>
+
+  </div>
+</div>

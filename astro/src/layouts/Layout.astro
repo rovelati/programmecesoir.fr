@@ -139,8 +139,33 @@ const robotsContent = noindex
     ))}
 
     <SpeculationRules prefetchUrls={prefetchUrls} prerenderUrls={prerenderUrls} />
+
+    <style is:global>
+      html {
+        scroll-behavior: smooth;
+        -webkit-tap-highlight-color: transparent;
+      }
+      .snap-item {
+        scroll-margin-top: 120px;
+      }
+      /* Custom dark scrollbar */
+      ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #0B0F19;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #2D3748;
+        border-radius: 4px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #E10600;
+      }
+    </style>
   </head>
-  <body class="bg-slate-50 text-slate-900 font-[Inter,system-ui,sans-serif] antialiased min-h-screen flex flex-col">
+  <body class="bg-[#0B0F19] text-[#E2E8F0] font-[Inter,system-ui,sans-serif] antialiased min-h-screen flex flex-col selection:bg-[#E10600] selection:text-white">
     <GeoExperience />
     <slot name="header" />
     <main class="flex-1">

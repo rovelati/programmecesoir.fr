@@ -5,10 +5,10 @@ interface Props {
 const { activePath = '/' } = Astro.props;
 
 const navLinks = [
-  { href: '/en-direct', label: 'En direct' },
-  { href: '/', label: 'Ce soir' },
-  { href: '/demain', label: 'Demain' },
-  { href: '/recommandes', label: 'Pour vous' },
+  { href: '/en-direct', label: 'En direct', icon: 'live' },
+  { href: '/', label: 'Ce soir', icon: 'star' },
+  { href: '/demain', label: 'Demain', icon: 'calendar' },
+  { href: '/recommandes', label: 'Pour vous', icon: 'sparkle' },
 ];
 
 const exploreLinks = [
@@ -32,7 +32,6 @@ const channelLinks = [
   { href: '/m6', title: 'M6' },
   { href: '/arte', title: 'ARTE' },
   { href: '/canal-plus', title: 'Canal+' },
-  { href: '/antenne-reunion', title: 'Antenne Réunion' },
   { href: '/w9', title: 'W9' },
   { href: '/tmc', title: 'TMC' },
   { href: '/france-5', title: 'France 5' },
@@ -50,96 +49,117 @@ function isActive(href: string): boolean {
 }
 ---
 
-<header class="sticky top-0 z-50 w-full bg-white shadow-sm transition-shadow" id="main-header">
-  <div class="container mx-auto px-3 sm:px-4">
+<header class="sticky top-0 z-50 w-full bg-[#0B0F19]/95 backdrop-blur-md border-b border-gray-800/80 transition-all" id="main-header">
+  <div class="max-w-7xl mx-auto px-3 sm:px-6">
     <!-- Top bar -->
-    <div class="flex items-center justify-between gap-2 h-14 sm:h-16">
-      <a href="/" class="flex items-center gap-2.5 shrink-0 group" aria-label="Programme Ce Soir - Accueil">
-        <img
-          src="/favicon.svg"
-          alt="Logo ProgrammeCeSoir"
-          width="32"
-          height="32"
-          class="w-8 h-8 rounded-lg shadow-xs group-hover:scale-105 transition-transform"
-        />
-        <span class="text-base sm:text-lg font-black text-slate-900 hidden sm:inline tracking-tight">
-          Programme<span class="text-[#E10600]">CeSoir</span>
-        </span>
+    <div class="flex items-center justify-between gap-3 h-14 sm:h-16">
+      
+      <!-- Brand / Logo -->
+      <a href="/" class="flex items-center gap-2 sm:gap-2.5 shrink-0 group" aria-label="Programme Ce Soir - Accueil">
+        <div class="w-8 h-8 sm:w-10 sm:h-10 rounded-xl bg-[#E10600] flex items-center justify-center shadow-lg shadow-red-900/40 group-hover:scale-105 transition-transform shrink-0">
+          <svg class="w-4 h-4 sm:w-5 sm:h-5 text-white translate-x-0.5" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M8 5v14l11-7z" />
+          </svg>
+        </div>
+        <div>
+          <div class="flex items-center gap-1.5">
+            <span class="text-base sm:text-xl font-black tracking-tight text-white group-hover:text-red-400 transition-colors">
+              Programme<span class="text-[#E10600]">CeSoir</span>
+            </span>
+            <span class="text-[9px] sm:text-[10px] font-bold bg-[#E10600]/20 text-[#E10600] border border-[#E10600]/30 px-1.5 py-0.5 rounded uppercase hidden xs:inline">
+              FR
+            </span>
+          </div>
+          <p class="text-[10px] text-gray-400 font-medium hidden sm:block">Guide TV TNT & Direct</p>
+        </div>
       </a>
 
-      <!-- Desktop nav -->
-      <nav class="hidden md:flex items-center gap-5 flex-1 justify-center" aria-label="Navigation principale">
-        {navLinks.map((link) => (
-          <a
-            href={link.href}
-            class={`pb-0.5 text-sm font-semibold transition-all border-b-2 ${
-              isActive(link.href)
-                ? 'text-red-600 border-red-600'
-                : 'text-slate-500 border-transparent hover:text-slate-800'
-            }`}
-          >
-            {link.label}
-          </a>
-        ))}
+      <!-- Desktop nav tabs (like tvch.ch) -->
+      <nav class="hidden md:flex items-center bg-gray-900/90 p-1 rounded-xl border border-gray-800 shrink-0" aria-label="Navigation principale">
+        {navLinks.map((link) => {
+          const active = isActive(link.href);
+          return (
+            <a
+              href={link.href}
+              class={`flex items-center gap-1.5 px-3 sm:px-4 py-1.5 rounded-lg text-xs sm:text-sm font-bold transition-all ${
+                active
+                  ? 'bg-[#E10600] text-white shadow-md'
+                  : 'text-gray-300 hover:text-white hover:bg-gray-800/60'
+              }`}
+            >
+              {link.icon === 'live' && (
+                <span class={`w-2 h-2 rounded-full ${active ? 'bg-white' : 'bg-[#E10600]'} animate-pulse`}></span>
+              )}
+              {link.icon === 'star' && (
+                <span class="text-xs">⭐</span>
+              )}
+              {link.icon === 'calendar' && (
+                <span class="text-xs">📅</span>
+              )}
+              {link.label}
+            </a>
+          );
+        })}
       </nav>
 
+      <!-- Right controls: Search, Explorer, Mobile buttons -->
       <div class="flex items-center gap-2 sm:gap-3 shrink-0">
         <!-- Desktop search -->
-        <form action="/recherche" method="get" class="relative hidden lg:block w-56 xl:w-64">
+        <form action="/recherche" method="get" class="relative hidden lg:block w-52 xl:w-60">
           <input
             type="text"
             name="qs"
-            placeholder="Rechercher..."
-            class="w-full pl-9 pr-3 py-1.5 rounded-full bg-slate-100 border-transparent focus:bg-white focus:border-blue-300 focus:ring-4 focus:ring-blue-100 transition-all text-sm outline-none"
+            placeholder="Rechercher une chaîne..."
+            class="w-full pl-9 pr-3 py-1.5 rounded-full bg-gray-900 border border-gray-800 text-white placeholder:text-gray-500 focus:outline-none focus:border-red-500 text-xs sm:text-sm transition-all"
             autocomplete="off"
           />
-          <svg class="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg class="w-4 h-4 text-gray-400 absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
           </svg>
         </form>
 
-        <!-- Desktop Explorer -->
+        <!-- Desktop Explorer Dropdown -->
         <div class="relative hidden lg:block" id="explore-menu-wrap">
           <button
             type="button"
             id="explore-menu-btn"
-            class="inline-flex items-center gap-1.5 px-3 py-1.5 text-sm font-semibold text-slate-600 hover:text-slate-900 rounded-lg hover:bg-slate-100 transition-colors"
+            class="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs sm:text-sm font-bold text-gray-300 hover:text-white rounded-lg bg-gray-900/80 hover:bg-gray-800 border border-gray-800 transition-colors cursor-pointer"
             aria-expanded="false"
             aria-controls="explore-menu-panel"
           >
-            Explorer
-            <svg class="w-4 h-4 transition-transform" id="explore-menu-chevron" fill="currentColor" viewBox="0 0 20 20">
+            <span>Explorer</span>
+            <svg class="w-3.5 h-3.5 text-gray-400 transition-transform" id="explore-menu-chevron" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 011.08 1.04l-4.25 4.51a.75.75 0 01-1.08 0l-4.25-4.51a.75.75 0 01.02-1.06z" clip-rule="evenodd" />
             </svg>
           </button>
           <div
             id="explore-menu-panel"
-            class="hidden absolute right-0 top-full z-50 mt-2 w-80 overflow-hidden rounded-2xl border border-slate-200 bg-white p-2 shadow-xl"
+            class="hidden absolute right-0 top-full z-50 mt-2 w-80 overflow-hidden rounded-2xl border border-gray-800 bg-[#111827] p-2 shadow-2xl"
           >
             <div class="space-y-2 max-h-[70vh] overflow-y-auto">
-              <div class="rounded-xl bg-slate-50 p-2">
-                <p class="px-2 pb-1 text-[10px] font-black uppercase tracking-wider text-slate-400">Thématiques</p>
+              <div class="rounded-xl bg-gray-900/60 p-2 border border-gray-800/60">
+                <p class="px-2 pb-1 text-[10px] font-black uppercase tracking-wider text-red-400">Thématiques</p>
                 {exploreLinks.map((link) => (
-                  <a href={link.href} class="block rounded-xl px-3 py-2.5 hover:bg-white transition-colors">
-                    <span class="block text-sm font-bold text-slate-900">{link.title}</span>
-                    <span class="block text-xs text-slate-500 leading-snug">{link.detail}</span>
+                  <a href={link.href} class="block rounded-xl px-3 py-2 hover:bg-gray-800/80 transition-colors">
+                    <span class="block text-xs font-bold text-white">{link.title}</span>
+                    <span class="block text-[11px] text-gray-400 leading-snug">{link.detail}</span>
                   </a>
                 ))}
               </div>
-              <div class="rounded-xl bg-slate-50 p-2">
-                <p class="px-2 pb-1 text-[10px] font-black uppercase tracking-wider text-slate-400">Catalogues</p>
+              <div class="rounded-xl bg-gray-900/60 p-2 border border-gray-800/60">
+                <p class="px-2 pb-1 text-[10px] font-black uppercase tracking-wider text-gray-400">Catalogues</p>
                 {catalogLinks.map((link) => (
-                  <a href={link.href} class="block rounded-xl px-3 py-2.5 hover:bg-white transition-colors">
-                    <span class="block text-sm font-bold text-slate-900">{link.title}</span>
-                    <span class="block text-xs text-slate-500 leading-snug">{link.detail}</span>
+                  <a href={link.href} class="block rounded-xl px-3 py-2 hover:bg-gray-800/80 transition-colors">
+                    <span class="block text-xs font-bold text-white">{link.title}</span>
+                    <span class="block text-[11px] text-gray-400 leading-snug">{link.detail}</span>
                   </a>
                 ))}
               </div>
-              <div class="rounded-xl bg-slate-50 p-2">
-                <p class="px-2 pb-1 text-[10px] font-black uppercase tracking-wider text-slate-400">Chaînes</p>
-                <div class="grid grid-cols-2 gap-0.5">
+              <div class="rounded-xl bg-gray-900/60 p-2 border border-gray-800/60">
+                <p class="px-2 pb-1 text-[10px] font-black uppercase tracking-wider text-gray-400">Chaînes TNT</p>
+                <div class="grid grid-cols-3 gap-1">
                   {channelLinks.map((link) => (
-                    <a href={link.href} class="rounded-xl px-3 py-2 text-sm font-bold text-slate-900 hover:bg-white transition-colors">
+                    <a href={link.href} class="rounded-lg px-2 py-1 text-xs font-bold text-gray-300 hover:text-white hover:bg-gray-800 transition-colors text-center">
                       {link.title}
                     </a>
                   ))}
@@ -150,17 +170,17 @@ function isActive(href: string): boolean {
         </div>
 
         <!-- Mobile: quick time tabs -->
-        <div class="md:hidden flex items-center rounded-full bg-slate-100 p-0.5">
-          <a href="/en-direct" class={`px-2 py-1 text-[10px] font-black uppercase tracking-wide rounded-full transition-all ${isTimeActive('direct') ? 'bg-blue-600 text-white shadow-sm' : 'text-slate-600'}`}>Direct</a>
-          <a href="/" class={`px-2 py-1 text-[10px] font-black uppercase tracking-wide rounded-full transition-all ${isTimeActive('soir') ? 'bg-blue-600 text-white shadow-sm' : 'text-slate-600'}`}>Soir</a>
-          <a href="/demain" class={`px-2 py-1 text-[10px] font-black uppercase tracking-wide rounded-full transition-all ${isTimeActive('demain') ? 'bg-blue-600 text-white shadow-sm' : 'text-slate-600'}`}>Demain</a>
+        <div class="md:hidden flex items-center rounded-xl bg-gray-900 p-0.5 border border-gray-800">
+          <a href="/en-direct" class={`px-2.5 py-1 text-[11px] font-black uppercase tracking-wide rounded-lg transition-all ${isTimeActive('direct') ? 'bg-[#E10600] text-white shadow-sm' : 'text-gray-400'}`}>Direct</a>
+          <a href="/" class={`px-2.5 py-1 text-[11px] font-black uppercase tracking-wide rounded-lg transition-all ${isTimeActive('soir') ? 'bg-[#E10600] text-white shadow-sm' : 'text-gray-400'}`}>Soir</a>
+          <a href="/demain" class={`px-2.5 py-1 text-[11px] font-black uppercase tracking-wide rounded-lg transition-all ${isTimeActive('demain') ? 'bg-[#E10600] text-white shadow-sm' : 'text-gray-400'}`}>Demain</a>
         </div>
 
-        <!-- Mobile menu button -->
+        <!-- Mobile menu toggle button -->
         <button
           type="button"
           id="mobile-menu-btn"
-          class="md:hidden w-9 h-9 flex items-center justify-center rounded-lg hover:bg-slate-100 text-slate-700 transition-colors"
+          class="md:hidden w-9 h-9 flex items-center justify-center rounded-xl bg-gray-900 hover:bg-gray-800 border border-gray-800 text-gray-300 hover:text-white transition-colors"
           aria-label="Ouvrir le menu"
           aria-expanded="false"
           aria-controls="mobile-menu-panel"
@@ -173,6 +193,7 @@ function isActive(href: string): boolean {
           </svg>
         </button>
       </div>
+
     </div>
 
     <!-- Mobile: channel scroll strip -->
@@ -181,10 +202,10 @@ function isActive(href: string): boolean {
         <a
           href={link.href}
           class:list={[
-            'flex-shrink-0 px-2.5 py-1 rounded-full text-[11px] font-semibold whitespace-nowrap transition-colors',
+            'flex-shrink-0 px-2.5 py-1 rounded-lg text-[11px] font-bold whitespace-nowrap transition-colors',
             isActive(link.href)
-              ? 'bg-blue-600 text-white'
-              : 'bg-slate-100 text-slate-600 hover:bg-slate-200',
+              ? 'bg-[#E10600] text-white shadow-sm'
+              : 'bg-gray-900/80 text-gray-300 hover:bg-gray-800 border border-gray-800/80',
           ]}
         >
           {link.title}
@@ -194,18 +215,18 @@ function isActive(href: string): boolean {
   </div>
 
   <!-- Mobile drawer overlay -->
-  <div id="mobile-menu-overlay" class="fixed inset-0 bg-black/40 z-40 hidden md:hidden" aria-hidden="true"></div>
+  <div id="mobile-menu-overlay" class="fixed inset-0 bg-black/70 z-40 hidden md:hidden backdrop-blur-xs" aria-hidden="true"></div>
 
   <!-- Mobile drawer panel -->
   <div
     id="mobile-menu-panel"
-    class="fixed top-0 right-0 z-50 h-full w-[min(100vw,320px)] bg-white shadow-2xl transform translate-x-full transition-transform duration-300 ease-out md:hidden flex flex-col"
+    class="fixed top-0 right-0 z-50 h-full w-[min(100vw,320px)] bg-[#111827] border-l border-gray-800 shadow-2xl transform translate-x-full transition-transform duration-300 ease-out md:hidden flex flex-col"
     aria-hidden="true"
   >
-    <div class="flex items-center justify-between px-4 h-14 border-b border-slate-100 shrink-0">
-      <span class="text-sm font-black text-slate-900">Menu</span>
-      <button type="button" id="mobile-menu-close" class="w-9 h-9 flex items-center justify-center rounded-lg hover:bg-slate-100" aria-label="Fermer le menu">
-        <svg class="w-5 h-5 text-slate-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
+    <div class="flex items-center justify-between px-4 h-14 border-b border-gray-800 shrink-0">
+      <span class="text-sm font-black text-white">Menu</span>
+      <button type="button" id="mobile-menu-close" class="w-9 h-9 flex items-center justify-center rounded-lg hover:bg-gray-800 text-gray-400 hover:text-white" aria-label="Fermer le menu">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2">
           <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
         </svg>
       </button>
@@ -218,26 +239,26 @@ function isActive(href: string): boolean {
           type="text"
           name="qs"
           placeholder="Rechercher un programme..."
-          class="w-full pl-9 pr-3 py-2.5 rounded-xl bg-slate-100 border border-slate-200 focus:bg-white focus:border-blue-300 text-sm outline-none"
+          class="w-full pl-9 pr-3 py-2 rounded-xl bg-gray-900 border border-gray-800 focus:border-red-500 text-white text-sm outline-none"
           autocomplete="off"
         />
-        <svg class="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <svg class="w-4 h-4 text-gray-400 absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
         </svg>
       </form>
 
       <!-- Primary nav -->
       <div>
-        <p class="text-[10px] font-black uppercase tracking-wider text-slate-400 mb-2">Navigation</p>
+        <p class="text-[10px] font-black uppercase tracking-wider text-gray-400 mb-2">Navigation</p>
         <div class="grid grid-cols-2 gap-1.5">
           {navLinks.map((link) => (
             <a
               href={link.href}
               class:list={[
-                'px-3 py-2.5 rounded-xl text-sm font-bold transition-colors',
+                'px-3 py-2.5 rounded-xl text-xs font-bold transition-colors text-center',
                 isActive(link.href)
-                  ? 'bg-red-600 text-white shadow-xs'
-                  : 'bg-slate-50 text-slate-800 hover:bg-slate-100',
+                  ? 'bg-[#E10600] text-white shadow-xs'
+                  : 'bg-gray-900 text-gray-300 hover:bg-gray-800 border border-gray-800',
               ]}
             >
               {link.label}
@@ -248,37 +269,12 @@ function isActive(href: string): boolean {
 
       <!-- Explore hubs -->
       <div>
-        <p class="text-[10px] font-black uppercase tracking-wider text-slate-400 mb-2">Thématiques</p>
-        <div class="space-y-0.5">
+        <p class="text-[10px] font-black uppercase tracking-wider text-gray-400 mb-2">Thématiques</p>
+        <div class="space-y-1">
           {exploreLinks.map((link) => (
-            <a href={link.href} class="flex items-center justify-between px-3 py-2.5 rounded-xl hover:bg-slate-50 transition-colors">
-              <span class="text-sm font-semibold text-slate-800">{link.title}</span>
-              <svg class="w-4 h-4 text-slate-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
-            </a>
-          ))}
-        </div>
-      </div>
-
-      <!-- Catalogues -->
-      <div>
-        <p class="text-[10px] font-black uppercase tracking-wider text-slate-400 mb-2">Catalogues</p>
-        <div class="space-y-0.5">
-          {catalogLinks.map((link) => (
-            <a href={link.href} class="flex items-center justify-between px-3 py-2.5 rounded-xl hover:bg-slate-50 transition-colors">
-              <span class="text-sm font-semibold text-slate-800">{link.title}</span>
-              <svg class="w-4 h-4 text-slate-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
-            </a>
-          ))}
-        </div>
-      </div>
-
-      <!-- All channels -->
-      <div>
-        <p class="text-[10px] font-black uppercase tracking-wider text-slate-400 mb-2">Chaînes</p>
-        <div class="grid grid-cols-2 gap-1.5">
-          {channelLinks.map((link) => (
-            <a href={link.href} class="px-3 py-2 rounded-xl bg-slate-50 text-sm font-bold text-slate-800 hover:bg-slate-100 transition-colors text-center">
-              {link.title}
+            <a href={link.href} class="flex items-center justify-between px-3 py-2 rounded-xl bg-gray-900/60 hover:bg-gray-800 text-gray-300 hover:text-white transition-colors border border-gray-800/60">
+              <span class="text-xs font-semibold">{link.title}</span>
+              <svg class="w-3.5 h-3.5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
             </a>
           ))}
         </div>
@@ -287,101 +283,75 @@ function isActive(href: string): boolean {
   </div>
 </header>
 
-<style>
-  .scrollbar-none::-webkit-scrollbar { display: none; }
-  .scrollbar-none { -ms-overflow-style: none; scrollbar-width: none; }
-  body.menu-open { overflow: hidden; }
-</style>
-
 <script>
-  const header = document.getElementById('main-header');
-  if (header) {
-    let ticking = false;
-    window.addEventListener('scroll', () => {
-      if (!ticking) {
-        requestAnimationFrame(() => {
-          header.classList.toggle('shadow-md', window.scrollY > 20);
-          ticking = false;
-        });
-        ticking = true;
+  (function () {
+    // Explorer Menu Dropdown Toggle
+    const exploreBtn = document.getElementById('explore-menu-btn');
+    const explorePanel = document.getElementById('explore-menu-panel');
+    const exploreChevron = document.getElementById('explore-menu-chevron');
+
+    if (exploreBtn && explorePanel) {
+      exploreBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const isOpen = !explorePanel.classList.contains('hidden');
+        if (isOpen) {
+          explorePanel.classList.add('hidden');
+          exploreBtn.setAttribute('aria-expanded', 'false');
+          if (exploreChevron) exploreChevron.classList.remove('rotate-180');
+        } else {
+          explorePanel.classList.remove('hidden');
+          exploreBtn.setAttribute('aria-expanded', 'true');
+          if (exploreChevron) exploreChevron.classList.add('rotate-180');
+        }
+      });
+
+      document.addEventListener('click', (e) => {
+        if (!explorePanel.contains(e.target as Node) && !exploreBtn.contains(e.target as Node)) {
+          explorePanel.classList.add('hidden');
+          exploreBtn.setAttribute('aria-expanded', 'false');
+          if (exploreChevron) exploreChevron.classList.remove('rotate-180');
+        }
+      });
+    }
+
+    // Mobile Drawer Toggle
+    const mobileBtn = document.getElementById('mobile-menu-btn');
+    const mobileClose = document.getElementById('mobile-menu-close');
+    const mobilePanel = document.getElementById('mobile-menu-panel');
+    const mobileOverlay = document.getElementById('mobile-menu-overlay');
+    const iconOpen = document.getElementById('menu-icon-open');
+    const iconClose = document.getElementById('menu-icon-close');
+
+    function toggleMobileMenu(open: boolean) {
+      if (!mobilePanel || !mobileOverlay) return;
+      if (open) {
+        mobilePanel.classList.remove('translate-x-full');
+        mobileOverlay.classList.remove('hidden');
+        document.body.classList.add('overflow-hidden');
+        if (iconOpen) iconOpen.classList.add('hidden');
+        if (iconClose) iconClose.classList.remove('hidden');
+      } else {
+        mobilePanel.classList.add('translate-x-full');
+        mobileOverlay.classList.add('hidden');
+        document.body.classList.remove('overflow-hidden');
+        if (iconOpen) iconOpen.classList.remove('hidden');
+        if (iconClose) iconClose.classList.add('hidden');
       }
-    });
-  }
-
-  // Desktop explore dropdown
-  const exploreBtn = document.getElementById('explore-menu-btn');
-  const explorePanel = document.getElementById('explore-menu-panel');
-  const exploreChevron = document.getElementById('explore-menu-chevron');
-  const exploreWrap = document.getElementById('explore-menu-wrap');
-
-  function closeExploreMenu() {
-    explorePanel?.classList.add('hidden');
-    exploreBtn?.setAttribute('aria-expanded', 'false');
-    exploreChevron?.classList.remove('rotate-180');
-  }
-
-  exploreBtn?.addEventListener('click', (e) => {
-    e.stopPropagation();
-    const open = explorePanel?.classList.toggle('hidden') === false;
-    exploreBtn.setAttribute('aria-expanded', String(open));
-    exploreChevron?.classList.toggle('rotate-180', open);
-  });
-
-  document.addEventListener('click', (e) => {
-    if (exploreWrap && !exploreWrap.contains(e.target as Node)) {
-      closeExploreMenu();
     }
-  });
 
-  // Mobile drawer
-  const menuBtn = document.getElementById('mobile-menu-btn');
-  const menuClose = document.getElementById('mobile-menu-close');
-  const menuPanel = document.getElementById('mobile-menu-panel');
-  const menuOverlay = document.getElementById('mobile-menu-overlay');
-  const iconOpen = document.getElementById('menu-icon-open');
-  const iconClose = document.getElementById('menu-icon-close');
-
-  function openMobileMenu() {
-    menuPanel?.classList.remove('translate-x-full');
-    menuPanel?.setAttribute('aria-hidden', 'false');
-    menuOverlay?.classList.remove('hidden');
-    menuOverlay?.setAttribute('aria-hidden', 'false');
-    menuBtn?.setAttribute('aria-expanded', 'true');
-    iconOpen?.classList.add('hidden');
-    iconClose?.classList.remove('hidden');
-    document.body.classList.add('menu-open');
-  }
-
-  function closeMobileMenu() {
-    menuPanel?.classList.add('translate-x-full');
-    menuPanel?.setAttribute('aria-hidden', 'true');
-    menuOverlay?.classList.add('hidden');
-    menuOverlay?.setAttribute('aria-hidden', 'true');
-    menuBtn?.setAttribute('aria-expanded', 'false');
-    iconOpen?.classList.remove('hidden');
-    iconClose?.classList.add('hidden');
-    document.body.classList.remove('menu-open');
-  }
-
-  menuBtn?.addEventListener('click', () => {
-    if (menuPanel?.classList.contains('translate-x-full')) {
-      openMobileMenu();
-    } else {
-      closeMobileMenu();
+    if (mobileBtn) {
+      mobileBtn.addEventListener('click', () => {
+        const isOpen = mobilePanel && !mobilePanel.classList.contains('translate-x-full');
+        toggleMobileMenu(!isOpen);
+      });
     }
-  });
 
-  menuClose?.addEventListener('click', closeMobileMenu);
-  menuOverlay?.addEventListener('click', closeMobileMenu);
-
-  menuPanel?.querySelectorAll('a').forEach((link) => {
-    link.addEventListener('click', closeMobileMenu);
-  });
-
-  window.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') {
-      closeMobileMenu();
-      closeExploreMenu();
+    if (mobileClose) {
+      mobileClose.addEventListener('click', () => toggleMobileMenu(false));
     }
-  });
+
+    if (mobileOverlay) {
+      mobileOverlay.addEventListener('click', () => toggleMobileMenu(false));
+    }
+  })();
 </script>

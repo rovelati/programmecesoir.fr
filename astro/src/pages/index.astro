@@ -4,6 +4,7 @@ export const prerender = true;
 import { PRIME_TIME_DESCRIPTION } from '../utils/primeTime';
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
+import CalendarBar from '../components/CalendarBar.astro';
 import Footer from '../components/Footer.astro';
 import ChannelCard from '../components/ChannelCard.astro';
 import CategoryPills from '../components/CategoryPills.astro';
@@ -217,69 +218,48 @@ const jsonLd = [
   jsonLd={jsonLd}
 >
   <Header slot="header" activePath="/" />
+  <CalendarBar activeSlot="prime" totalChannels={totalChannelCount} />
 
-  <!-- ── Hero Section ─────────────────────────────────────────────────────── -->
-  <section class="bg-gradient-to-b from-slate-50 to-white border-b border-slate-200/80 py-6 sm:py-9">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6">
-      <div class="flex items-center gap-2 mb-2.5">
-        <span class="inline-flex items-center gap-1.5 text-[11px] font-black uppercase tracking-wider text-rose-600 bg-rose-50 border border-rose-200 px-2.5 py-1 rounded-full shadow-xs">
-          <span class="w-2 h-2 bg-rose-500 rounded-full animate-pulse inline-block"></span>
-          Direct & Prime Time 21:10
+  <!-- Top Section H1 Title Bar (Compact & Sleek like tvch.ch) -->
+  <section class="max-w-6xl mx-auto px-3 sm:px-6 pt-3 pb-1">
+    <div class="flex items-center justify-between gap-3 border-b border-gray-800/60 pb-2">
+      <div class="min-w-0 flex items-center gap-2">
+        <h1 class="text-sm sm:text-base font-extrabold text-white tracking-tight flex items-center gap-2 truncate">
+          <span id="page-section-h1-text">Ce qui passe ce soir à la télévision</span>
+        </h1>
+        <span class="text-xs text-gray-400 truncate hidden xl:inline">
+          • <span id="page-section-desc">Programmes sur TF1, France 2, France 3, M6 et toutes les chaînes TNT</span>
         </span>
       </div>
-      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-slate-950">
-        Programme TV <span class="text-blue-600">ce soir</span> & 21h10
-      </h1>
-      <p class="text-slate-600 mt-2.5 text-sm sm:text-base max-w-3xl leading-relaxed">
-        <span class="font-semibold text-slate-800 capitalize" data-live-date>{tonightDate}</span> &mdash; Que regarder à la télé ce soir ?
-        {PRIME_TIME_DESCRIPTION}
-      </p>
-
-      <!-- Search & Category Quick-Filter Bar -->
-      <div class="mt-6 pt-4 border-t border-slate-200/60 flex flex-col md:flex-row gap-3 items-stretch md:items-center justify-between">
-        <!-- Live Search Input -->
-        <div class="relative flex-1 max-w-md">
-          <input
-            id="channel-search-input"
-            type="search"
-            placeholder="🔍 Rechercher une chaîne ou un programme (ex. TF1, Koh-Lanta)..."
-            class="w-full px-4 py-2.5 pl-10 rounded-xl bg-white border border-slate-200 text-slate-900 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-xs placeholder:text-slate-400"
-            aria-label="Rechercher une chaîne ou un programme"
-          />
-          <svg class="w-4 h-4 text-slate-400 absolute left-3.5 top-3.5 pointer-events-none" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
-          </svg>
-        </div>
-
-        <!-- Category Navigation Pills -->
-        <CategoryPills activePath="/" />
-      </div>
-
-      <!-- Direct & Live TV Quick Links -->
-      <div class="mt-4 pt-3 border-t border-slate-200/60 flex items-center gap-2 overflow-x-auto pb-1 scrollbar-none text-xs" aria-label="Chaînes en direct live">
-        <span class="inline-flex items-center gap-1.5 font-bold text-slate-700 shrink-0">
-          <span class="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span>
-          En direct live :
-        </span>
-        <a href="/en-direct/tf1" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">TF1 en direct</a>
-        <a href="/en-direct/france-2" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">France 2 en direct</a>
-        <a href="/en-direct/france-3" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">France 3 en direct</a>
-        <a href="/en-direct/m6" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">M6 en direct</a>
-        <a href="/en-direct/cnews" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">CNews en direct</a>
-        <a href="/en-direct/kto" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">KTO en direct</a>
-        <a href="/en-direct/bein-sports-1" class="shrink-0 px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700 font-semibold hover:border-red-300 hover:text-red-600 transition-colors">beIN SPORTS en direct</a>
-        <a href="/en-direct" class="shrink-0 px-2.5 py-1 rounded-lg bg-red-50 border border-red-200 text-red-700 font-bold hover:bg-red-100 transition-colors">Toutes les chaînes &rarr;</a>
-      </div>
+      <span class="text-[11px] font-bold text-amber-300 bg-amber-950/50 border border-amber-800/40 px-2.5 py-0.5 rounded-lg shrink-0 flex items-center gap-1.5">
+        <span class="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
+        <span id="page-section-badge-text">⭐ 21h10 Ce soir</span>
+      </span>
     </div>
   </section>
 
-  <main id="main-content" class="max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
+  <!-- Live Search Input -->
+  <section class="max-w-6xl mx-auto px-3 sm:px-6 pt-2 pb-1">
+    <div class="relative max-w-md">
+      <input
+        id="channel-search-input"
+        type="search"
+        placeholder="🔍 Rechercher une chaîne ou un programme..."
+        class="w-full px-4 py-2 pl-10 rounded-xl bg-gray-900 border border-gray-800 text-white placeholder:text-gray-500 text-xs sm:text-sm focus:outline-none focus:border-red-500 shadow-sm"
+        aria-label="Rechercher une chaîne ou un programme"
+      />
+      <svg class="w-4 h-4 text-gray-500 absolute left-3 top-2.5 pointer-events-none" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+      </svg>
+    </div>
+  </section>
 
-    <!-- Liste des Chaînes en Lignes (Full-Width Rows) -->
+  <main id="main-content" class="max-w-6xl mx-auto px-3 sm:px-6 py-2">
+
+    <!-- Liste des Chaînes Widescreen (Horizontal Split Cards like tvch.ch) -->
     {initialCards.length > 0 ? (
       <section aria-label={`${totalChannelCount} chaînes avec programmes ce soir`} class="mb-10">
-        <h2 class="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 mb-6">Grille des programmes TV ce soir</h2>
-        <div id="channels-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6">
+        <div id="channels-grid" class="flex flex-col gap-3 sm:gap-4">
           {initialCards.map(({ channel, programs, channelIndex, eagerPoster, lazyChannelLogo }, idx) => (
             <>
               <ChannelCard
@@ -291,7 +271,7 @@ const jsonLd = [
                 lazyChannelLogo={lazyChannelLogo}
               />
               {idx === 1 && (
-                <div class="col-span-full rounded-2xl overflow-hidden bg-slate-50/80 p-2 sm:p-4 border border-slate-200/80 my-2" data-infeed-container>
+                <div class="w-full rounded-2xl overflow-hidden bg-[#111827]/80 p-3 sm:p-5 border border-gray-800/80 my-2" data-infeed-container>
                   <AdSlot
                     slot={ADSENSE_SLOTS.IN_FEED_CHANNELS}
                     minHeight={250}
@@ -302,7 +282,7 @@ const jsonLd = [
                 </div>
               )}
               {idx === 6 && (
-                <div class="col-span-full rounded-2xl overflow-hidden bg-slate-50/80 p-2 sm:p-4 border border-slate-200/80 my-2" data-infeed-container>
+                <div class="w-full rounded-2xl overflow-hidden bg-[#111827]/80 p-3 sm:p-5 border border-gray-800/80 my-2" data-infeed-container>
                   <AdSlot
                     slot={ADSENSE_SLOTS.IN_FEED_CHANNELS}
                     minHeight={250}
@@ -321,7 +301,7 @@ const jsonLd = [
             <button
               id="btn-load-more"
               type="button"
-              class="w-full py-3.5 px-6 rounded-2xl bg-white border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 text-slate-800 hover:text-blue-600 font-extrabold text-sm shadow-xs transition-all flex items-center justify-center gap-2 cursor-pointer group"
+              class="w-full py-3.5 px-6 rounded-2xl bg-gray-900 border border-gray-800 hover:border-red-500/60 hover:bg-gray-800 text-white font-extrabold text-sm shadow-md transition-all flex items-center justify-center gap-2 cursor-pointer group"
             >
               <span class="text-base group-hover:scale-110 transition-transform">📺</span>
               <span>Afficher toutes les chaînes (+{remainingChannelCount} chaînes)</span>
@@ -330,16 +310,16 @@ const jsonLd = [
         )}
 
         <!-- No Results Fallback -->
-        <div id="no-search-results" class="hidden text-center py-16 text-slate-500 bg-white rounded-2xl border border-slate-200 mt-4">
+        <div id="no-search-results" class="hidden text-center py-16 text-gray-400 bg-[#111827]/90 rounded-2xl border border-gray-800 mt-4">
           <p class="text-3xl mb-2">🔍</p>
-          <p class="text-base font-bold text-slate-800">Aucune chaîne ou émission correspondante</p>
-          <p class="text-xs text-slate-500 mt-1">Essayez un autre mot-clé ou réinitialisez les filtres.</p>
+          <p class="text-base font-bold text-white">Aucune chaîne ou émission correspondante</p>
+          <p class="text-xs text-gray-400 mt-1">Essayez un autre mot-clé ou réinitialisez les filtres.</p>
         </div>
       </section>
     ) : (
-      <div class="text-center py-16 text-slate-400 bg-white rounded-2xl border border-slate-200">
+      <div class="text-center py-16 text-gray-400 bg-[#111827]/90 rounded-2xl border border-gray-800">
         <p class="text-4xl mb-4" aria-hidden="true">📺</p>
-        <p class="text-lg font-semibold">Les programmes de ce soir ne sont pas encore disponibles.</p>
+        <p class="text-lg font-semibold text-white">Les programmes de ce soir ne sont pas encore disponibles.</p>
         <p class="text-sm mt-1">Veuillez réessayer dans quelques instants.</p>
       </div>
     )}
@@ -359,43 +339,43 @@ const jsonLd = [
     />
 
     <!-- SEO FAQ Section -->
-    <section class="mt-14 pt-10 border-t border-slate-200" aria-label="Questions fréquentes sur le programme TV">
-      <h2 class="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 mb-6">
+    <section class="mt-14 pt-10 border-t border-gray-800/80" aria-label="Questions fréquentes sur le programme TV">
+      <h2 class="text-xl sm:text-2xl font-bold tracking-tight text-white mb-6">
         Questions fréquentes sur le programme TV ce soir
       </h2>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
-        <div class="bg-white border border-slate-200/80 rounded-2xl p-5 sm:p-6 shadow-xs">
-          <h3 class="font-bold text-slate-900 mb-2 text-base">
+        <div class="bg-[#111827]/90 border border-gray-800/80 rounded-2xl p-5 sm:p-6 shadow-md text-gray-300">
+          <h3 class="font-bold text-white mb-2 text-base">
             Que passe-t-il ce soir à la télévision française ?
           </h3>
-          <p class="text-slate-600 text-sm leading-relaxed">
+          <p class="text-xs sm:text-sm text-gray-300 leading-relaxed">
             Sur Programme Ce Soir, retrouvez les films, séries et émissions de ce soir sur toutes les chaînes gratuites de la TNT (TF1, France 2, France 3, M6, Arte, W9, TMC) et les chaînes thématiques.
           </p>
         </div>
 
-        <div class="bg-white border border-slate-200/80 rounded-2xl p-5 sm:p-6 shadow-xs">
-          <h3 class="font-bold text-slate-900 mb-2 text-base">
+        <div class="bg-[#111827]/90 border border-gray-800/80 rounded-2xl p-5 sm:p-6 shadow-md text-gray-300">
+          <h3 class="font-bold text-white mb-2 text-base">
             Quel film passe ce soir à la télé ?
           </h3>
-          <p class="text-slate-600 text-sm leading-relaxed">
+          <p class="text-xs sm:text-sm text-gray-300 leading-relaxed">
             Consultez notre filtre direct <em>Films</em> ou la rubrique dédiée pour découvrir la sélection des longs-métrages diffusés ce soir avec horaires précis, synopsis détaillés, bandes-annonces et casting.
           </p>
         </div>
 
-        <div class="bg-white border border-slate-200/80 rounded-2xl p-5 sm:p-6 shadow-xs">
-          <h3 class="font-bold text-slate-900 mb-2 text-base">
+        <div class="bg-[#111827]/90 border border-gray-800/80 rounded-2xl p-5 sm:p-6 shadow-md text-gray-300">
+          <h3 class="font-bold text-white mb-2 text-base">
             Quelles séries sont diffusées ce soir ?
           </h3>
-          <p class="text-slate-600 text-sm leading-relaxed">
+          <p class="text-xs sm:text-sm text-gray-300 leading-relaxed">
             Retrouvez tous les épisodes inédits et rediffusions de séries françaises et internationales diffusées ce soir en cliquant sur le filtre <em>Séries</em> ou sur notre page dédiée aux séries du soir.
           </p>
         </div>
 
-        <div class="bg-white border border-slate-200/80 rounded-2xl p-5 sm:p-6 shadow-xs">
-          <h3 class="font-bold text-slate-900 mb-2 text-base">
+        <div class="bg-[#111827]/90 border border-gray-800/80 rounded-2xl p-5 sm:p-6 shadow-md text-gray-300">
+          <h3 class="font-bold text-white mb-2 text-base">
             Comment consulter le programme TV de demain ou en direct ?
           </h3>
-          <p class="text-slate-600 text-sm leading-relaxed">
+          <p class="text-xs sm:text-sm text-gray-300 leading-relaxed">
             Utilisez les liens du menu pour basculer instantanément sur la grille <em>En direct</em> (programmes actuellement diffusés) ou <em>Demain</em> pour anticiper vos soirées télévisées.
           </p>
         </div>
@@ -431,14 +411,15 @@ const jsonLd = [
     ]);
 
     function createChannelCard(item: any) {
-      const card = document.createElement('div');
-      card.className = 'channel-card-item bg-white rounded-2xl shadow-xs hover:shadow-xl transition-all duration-300 border border-slate-200/90 flex flex-col group overflow-hidden';
+      const card = document.createElement('article');
+      card.className = 'snap-item w-full py-2 sm:py-2.5 outline-none focus:ring-2 focus:ring-[#E10600]/50 rounded-2xl';
       card.setAttribute('data-channel-card', '');
       card.setAttribute('data-channel-name', (item.name || '').toLowerCase());
       card.setAttribute('data-channel-slug', item.slug);
       card.setAttribute('data-channel-number', String(item.channelNumber ?? 999));
       card.setAttribute('data-program-title', (item.prime?.title || '').toLowerCase());
       card.setAttribute('data-category', item.catGroup || 'autre');
+      card.setAttribute('tabindex', '-1');
 
       const prime = item.prime;
       const tntBadge = item.tntNum != null
@@ -452,68 +433,92 @@ const jsonLd = [
         : '';
 
       const statusBadge = prime?.live
-        ? `<span class="absolute top-2.5 right-2.5 z-10 inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider bg-red-600 text-white shadow-md backdrop-blur-xs"><span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span> Direct</span>`
-        : `<span class="absolute top-2.5 right-2.5 z-10 inline-flex items-center gap-1 px-2.5 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider bg-black/80 text-amber-300 border border-amber-400/30 shadow-md backdrop-blur-xs">✨ 21h10</span>`;
+        ? `<div class="flex items-center gap-1.5 bg-[#E10600] text-white px-2.5 py-1 rounded-lg text-xs font-black shadow-lg animate-pulse"><span class="w-2 h-2 rounded-full bg-white"></span>EN DIRECT</div>`
+        : `<div class="bg-gray-900/90 text-amber-300 px-2.5 py-1 rounded-lg text-xs font-black border border-amber-400/30 shadow-md">✨ 21h10</div>`;
 
       const heroImg = item.heroImageUrl || 'https://images.unsplash.com/photo-1594909122845-11baa439b7bf?auto=format&fit=crop&w=1280&q=80';
+      const streamUrl = item.streamUrl || item.channelHref;
 
       card.innerHTML = `
-        <div class="relative aspect-video w-full overflow-hidden bg-slate-900">
-          <a href="${prime?.href || item.channelHref}" ${prime?.overlayAttr ? `data-program='${prime.overlayAttr.replace(/'/g, '&#39;')}'` : ''} class="block w-full h-full cursor-pointer focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red-500" aria-label="${prime?.title || item.name} sur ${item.name}">
-            <img src="${heroImg}" alt="${prime?.title || item.name}" width="640" height="360" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" onerror="this.style.opacity='0.5'" />
-            <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent pointer-events-none"></div>
-          </a>
-          <a href="${item.channelHref}" class="absolute top-2.5 left-2.5 z-10 flex items-center gap-1.5 bg-black/85 hover:bg-black/95 backdrop-blur-md px-2.5 py-1.5 rounded-xl border border-white/15 hover:border-red-500/60 shadow-lg group/ch transition-all max-w-[65%]" aria-label="Programme ${item.name}">
-            <span class="inline-flex items-center justify-center h-6 max-h-6 max-w-[70px] sm:max-w-[80px] overflow-hidden shrink-0">
-              <img src="${item.logo}" alt="${item.name}" class="max-h-6 max-w-[70px] sm:max-w-[80px] w-auto h-auto object-contain group-hover/ch:scale-105 transition-transform" style="max-height: 24px; max-width: 80px; height: 24px; width: auto; object-fit: contain;" loading="lazy" onerror="this.style.display='none'" />
-            </span>
-            ${tntBadge}
-          </a>
-          ${statusBadge}
-          ${prime ? `
-            <div class="absolute bottom-2 left-3 right-3 flex items-center justify-between text-[11px] font-bold text-white/90 drop-shadow-md pointer-events-none">
-              <span class="tabular-nums bg-black/50 px-2 py-0.5 rounded-md backdrop-blur-xs">${prime.time}</span>
-              ${prime.duration ? `<span class="bg-black/50 px-2 py-0.5 rounded-md backdrop-blur-xs">${prime.duration} min</span>` : ''}
-            </div>
-          ` : ''}
-        </div>
-        <div class="p-4 sm:p-5 flex-1 flex flex-col justify-between">
-          <div>
-            <div class="flex items-center justify-between gap-2 mb-2">
-              <span class="text-[10px] font-black tracking-wider uppercase text-red-600 bg-red-50 px-2 py-0.5 rounded-md border border-red-100">${prime?.genre || 'Programme TV'}</span>
-            </div>
-            <a href="${prime?.href || item.channelHref}" ${prime?.overlayAttr ? `data-program='${prime.overlayAttr.replace(/'/g, '&#39;')}'` : ''} class="block focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-red-500 rounded-sm">
-              <h3 class="font-extrabold text-slate-900 text-[15px] sm:text-base leading-snug group-hover:text-red-600 transition-colors line-clamp-2 min-h-[2.6rem] mb-2">${prime?.title || 'Aucun programme répertorié'}</h3>
-            </a>
-            ${prime?.live ? `
-              <div class="h-1.5 w-full bg-slate-100 rounded-full overflow-hidden mb-3">
-                <div class="h-full bg-red-600 transition-all duration-1000 rounded-full" style="width: ${prime.progress}%;"></div>
-              </div>
-            ` : ''}
-            ${prime?.description ? `
-              <p class="text-xs text-slate-500 line-clamp-2 mb-3 leading-relaxed">${prime.description}</p>
-            ` : ''}
-          </div>
-          <div class="pt-3 border-t border-slate-100">
-            ${item.next ? `
-              <div class="mb-3 flex items-baseline justify-between gap-2 text-xs">
-                <span class="text-[10px] font-bold text-slate-400 uppercase tracking-wider shrink-0">Ensuite :</span>
-                <p class="text-xs font-medium text-slate-600 truncate text-right">
-                  <span class="font-bold text-slate-800 tabular-nums">${item.next.time}</span> — <span>${item.next.title}</span>
-                </p>
-              </div>
-            ` : ''}
-            <div class="flex items-center justify-between gap-2 pt-1">
-              <a href="${item.channelHref}" class="text-xs font-bold text-slate-600 group-hover:text-red-600 transition-colors inline-flex items-center gap-1">
-                <span>Grille ${item.name}</span>
-                <span class="transform group-hover:translate-x-1 transition-transform">→</span>
-              </a>
-              ${item.streamUrl ? `
-                <a href="${item.streamUrl}" target="_blank" rel="noopener noreferrer nofollow" class="text-[11px] font-bold text-red-600 hover:text-red-700 bg-red-50 hover:bg-red-100 px-2.5 py-1 rounded-lg border border-red-200 transition-colors inline-flex items-center gap-1" aria-label="Regarder ${item.name} en direct streaming officiel">
-                  <span>Direct</span>
-                  <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" /></svg>
+        <div class="max-w-6xl mx-auto bg-[#111827]/95 border border-gray-800/90 rounded-2xl overflow-hidden shadow-2xl hover:border-gray-700/80 transition-all duration-300">
+          <div class="grid grid-cols-1 lg:grid-cols-12 gap-0">
+            <!-- Left Column: 16:9 Image -->
+            <div class="relative lg:col-span-7 aspect-video bg-black/60 overflow-hidden group">
+              <img src="${heroImg}" alt="${prime?.title || item.name}" width="640" height="360" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 opacity-90" loading="lazy" decoding="async" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1594909122845-11baa439b7bf?auto=format&fit=crop&w=1280&q=80';" />
+              <div class="absolute inset-0 bg-gradient-to-t from-[#111827] via-transparent to-black/40 pointer-events-none"></div>
+
+              <!-- Top Badges Overlay -->
+              <div class="absolute top-3 sm:top-4 left-3 sm:left-4 right-3 sm:right-4 flex items-center justify-between gap-2 z-30">
+                <a href="${item.channelHref}" class="flex items-center gap-1.5 bg-black/85 hover:bg-black/95 backdrop-blur-md px-2.5 sm:px-3 py-1.5 rounded-xl border border-white/15 hover:border-red-500/60 shadow-lg group/ch transition-all max-w-[65%]" title="Programme ${item.name}">
+                  <span class="inline-flex items-center justify-center h-6 max-h-6 max-w-[70px] sm:max-w-[80px] overflow-hidden shrink-0">
+                    <img src="${item.logo}" alt="${item.name}" class="max-h-6 max-w-[70px] sm:max-w-[80px] w-auto h-auto object-contain group-hover/ch:scale-105 transition-transform" style="max-height: 24px; max-width: 80px; height: 24px; width: auto; object-fit: contain;" loading="lazy" onerror="this.style.display='none'" />
+                  </span>
+                  ${tntBadge}
+                  <svg class="w-3 h-3 text-gray-400 group-hover/ch:text-red-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/></svg>
                 </a>
-              ` : ''}
+                ${statusBadge}
+              </div>
+
+              <!-- Central Play Button -->
+              <a href="${streamUrl}" target="_blank" rel="noopener noreferrer nofollow" class="absolute inset-0 flex flex-col items-center justify-center group/play z-20" aria-label="Voir le direct de ${item.name}">
+                <div class="w-12 h-12 sm:w-16 sm:h-16 rounded-full bg-[#E10600]/90 text-white flex items-center justify-center shadow-2xl shadow-red-900/50 group-hover:scale-110 group-hover:bg-[#E10600] transition-all duration-300 border border-white/40 sm:border-2 backdrop-blur-sm">
+                  <svg class="w-6 h-6 sm:w-8 sm:h-8 text-white translate-x-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+                </div>
+              </a>
+
+              <!-- Bottom Timeline -->
+              <div class="absolute bottom-0 left-0 right-0 p-3 sm:p-4 z-10 pointer-events-none">
+                <div class="flex items-center justify-between text-xs text-white/90 font-medium mb-1.5 drop-shadow">
+                  <span>${prime?.time || ''}</span>
+                  ${prime?.duration ? `<span>${prime.duration} min</span>` : ''}
+                </div>
+                ${prime?.live ? `
+                  <div class="w-full h-1.5 bg-white/20 rounded-full overflow-hidden backdrop-blur-sm">
+                    <div class="live-progress-fill h-full bg-[#E10600] rounded-full transition-all duration-500" style="width: ${prime.progress}%;"></div>
+                  </div>
+                ` : ''}
+              </div>
+            </div>
+
+            <!-- Right Column: Metadata & Controls -->
+            <div class="lg:col-span-5 p-4 sm:p-5 flex flex-col justify-between bg-[#111827]">
+              <div>
+                <div class="flex items-center gap-2 mb-2.5 flex-wrap">
+                  <span class="text-[11px] font-bold uppercase tracking-wider text-red-400 bg-red-950/50 border border-red-800/40 px-2 py-0.5 rounded">${prime?.genre || 'Programme TV'}</span>
+                  <a href="${item.channelHref}" class="text-[11px] font-bold text-gray-400 hover:text-white bg-gray-800/80 hover:bg-gray-700/80 border border-gray-700/60 px-2 py-0.5 rounded transition-colors flex items-center gap-1">
+                    <span>${item.name}</span>
+                    <svg class="w-2.5 h-2.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/></svg>
+                  </a>
+                </div>
+                <h2 class="text-lg sm:text-xl font-black text-white tracking-tight leading-snug mb-2 hover:text-red-400 transition-colors line-clamp-2">
+                  <a href="${prime?.href || item.channelHref}">${prime?.title || 'Aucun programme répertorié'}</a>
+                </h2>
+                ${prime?.description ? `<p class="text-xs sm:text-sm text-gray-300 leading-relaxed line-clamp-2 sm:line-clamp-3 mb-3">${prime.description}</p>` : ''}
+              </div>
+
+              <div class="pt-3 border-t border-gray-800/80 space-y-2.5">
+                <div class="flex items-center gap-2.5">
+                  <a href="${streamUrl}" target="_blank" rel="noopener noreferrer nofollow" class="flex-1 flex items-center justify-center gap-2 bg-[#E10600] hover:bg-red-700 text-white font-bold text-xs sm:text-sm py-2.5 px-3 rounded-xl shadow-lg shadow-red-900/30 hover:scale-[1.02] transition-all">
+                    <svg class="w-4 h-4 fill-current shrink-0" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                    <span class="truncate">${prime?.live ? 'Regarder en direct' : 'Voir le direct officiel'}</span>
+                  </a>
+                  ${prime ? `
+                    <button type="button" class="push-remind-btn flex items-center gap-1.5 bg-gray-800 hover:bg-gray-700 text-gray-200 font-semibold text-xs py-2.5 px-3.5 rounded-xl border border-gray-700 transition-colors shrink-0 cursor-pointer" data-title="${(prime.title || '').replace(/"/g, '&quot;')}" data-channel="${(item.name || '').replace(/"/g, '&quot;')}" title="M'avertir">
+                      <svg class="w-4 h-4 text-amber-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/></svg>
+                      <span class="hidden sm:inline">M'avertir</span>
+                    </button>
+                  ` : ''}
+                </div>
+                ${item.next ? `
+                  <div class="flex items-center justify-between text-xs text-gray-400 bg-gray-900/70 p-2.5 rounded-xl border border-gray-800/60">
+                    <div class="flex items-center gap-2 truncate">
+                      <span class="text-gray-500 uppercase text-[10px] font-bold">À suivre :</span>
+                      <span class="text-gray-300 font-medium truncate">${item.next.title}</span>
+                    </div>
+                    <span class="text-red-400 font-bold ml-2 shrink-0">${item.next.time}</span>
+                  </div>
+                ` : ''}
+              </div>
             </div>
           </div>
         </div>
@@ -551,6 +556,23 @@ const jsonLd = [
       loadMoreBtn.addEventListener('click', loadRemainingChannels);
     }
 
+    // Category filter chips click handlers
+    chips.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        activeFilter = chip.getAttribute('data-filter') || 'all';
+        chips.forEach((c) => {
+          if (c === chip) {
+            c.classList.add('bg-gray-800', 'text-white', 'font-bold', 'border-gray-700');
+            c.classList.remove('bg-gray-900/80', 'text-gray-400', 'border-transparent');
+          } else {
+            c.classList.remove('bg-gray-800', 'text-white', 'font-bold', 'border-gray-700');
+            c.classList.add('bg-gray-900/80', 'text-gray-400', 'border-transparent');
+          }
+        });
+        applyFilters();
+      });
+    });
+
     // Auto load on scroll near bottom
     window.addEventListener('scroll', () => {
       if (!extraLoaded && !extraLoading && window.innerHeight + window.scrollY >= document.body.offsetHeight - 800) {
@@ -574,28 +596,30 @@ const jsonLd = [
           title.includes(searchQuery) ||
           (chNum <= 50 && `ch ${chNum}`.includes(searchQuery));
 
-      const isVisible = matchesSearch;
-      card.style.display = isVisible ? '' : 'none';
-      if (isVisible) visible++;
-    });
+        const matchesCategory = activeFilter === 'all' || cat === activeFilter;
 
-    const infeedContainers = document.querySelectorAll<HTMLElement>('[data-infeed-container]');
-    infeedContainers.forEach(container => {
-      container.style.display = searchQuery ? 'none' : '';
-    });
+        const isVisible = matchesSearch && matchesCategory;
+        card.style.display = isVisible ? '' : 'none';
+        if (isVisible) visible++;
+      });
 
-    if (noResultsEl) noResultsEl.classList.toggle('hidden', visible > 0);
-  }
+      const infeedContainers = document.querySelectorAll<HTMLElement>('[data-infeed-container]');
+      infeedContainers.forEach(container => {
+        container.style.display = searchQuery || activeFilter !== 'all' ? 'none' : '';
+      });
 
-  if (searchInput) {
-    searchInput.addEventListener('input', (e) => {
-      searchQuery = (e.target as HTMLInputElement).value.toLowerCase().trim();
-      if (searchQuery && !extraLoaded) {
-        loadRemainingChannels();
-      } else {
-        applyFilters();
-      }
-    });
-  }
-})();
+      if (noResultsEl) noResultsEl.classList.toggle('hidden', visible > 0);
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        searchQuery = (e.target as HTMLInputElement).value.toLowerCase().trim();
+        if (searchQuery && !extraLoaded) {
+          loadRemainingChannels();
+        } else {
+          applyFilters();
+        }
+      });
+    }
+  })();
 </script>

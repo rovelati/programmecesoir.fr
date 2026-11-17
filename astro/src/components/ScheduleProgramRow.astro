@@ -33,25 +33,25 @@ const duration = durationMinutes(program.start_time, program.end_time);
   data-program={overlayData}
   aria-label={`${program.title} — ${formatTimeFR(program.start_time)}`}
   class:list={[
-    'group grid gap-3 p-3 sm:p-4 bg-white rounded-2xl border transition-all duration-200 items-center cursor-pointer hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red-500',
+    'group grid gap-3 p-3 sm:p-4 bg-[#111827]/90 text-white rounded-2xl border transition-all duration-200 items-center cursor-pointer hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red-500',
     'grid-cols-[56px_72px_1fr] sm:grid-cols-[70px_110px_1fr]',
     live
-      ? 'border-red-300 bg-red-50/20 ring-1 ring-red-100 shadow-xs'
+      ? 'border-red-500/60 bg-red-950/30 ring-1 ring-red-500/30 shadow-xs'
       : isPrimeTime
-      ? 'border-amber-300 bg-amber-50/20 shadow-xs'
-      : 'border-slate-200/90 hover:border-red-200',
+      ? 'border-amber-500/40 bg-amber-950/20 shadow-xs'
+      : 'border-gray-800/80 hover:border-gray-700',
   ]}
 >
   <!-- Heure & Durée -->
   <div class="text-left flex-shrink-0">
     <span class:list={[
       'text-[15px] sm:text-[17px] font-black tabular-nums block leading-tight',
-      live ? 'text-red-600' : isPrimeTime ? 'text-amber-800' : 'text-slate-900',
+      live ? 'text-red-400' : isPrimeTime ? 'text-amber-300' : 'text-white',
     ]}>
       {formatTimeFR(program.start_time)}
     </span>
     {showEndTime && (
-      <span class="text-[11px] font-semibold text-slate-400 tabular-nums block mt-0.5">
+      <span class="text-[11px] font-semibold text-gray-400 tabular-nums block mt-0.5">
         jusqu'à {formatTimeFR(program.end_time)}
       </span>
     )}
@@ -61,18 +61,18 @@ const duration = durationMinutes(program.start_time, program.end_time);
         Direct
       </span>
     ) : isPrimeTime ? (
-      <span class="inline-flex items-center gap-0.5 mt-1 px-1.5 py-0.5 bg-amber-100 text-amber-800 text-[9px] font-black uppercase rounded-md border border-amber-200">
+      <span class="inline-flex items-center gap-0.5 mt-1 px-1.5 py-0.5 bg-amber-950/60 text-amber-300 text-[9px] font-black uppercase rounded-md border border-amber-500/30">
         ⭐ 21h10
       </span>
     ) : (
-      <span class="text-[10px] font-medium text-slate-400 block mt-0.5">
+      <span class="text-[10px] font-medium text-gray-400 block mt-0.5">
         {duration} min
       </span>
     )}
   </div>
 
   <!-- Image 16:9 Thumbnail -->
-  <div class="w-18 h-12 sm:w-28 sm:h-16 rounded-xl overflow-hidden bg-slate-900 border border-slate-200 shadow-2xs flex-shrink-0 relative group-hover:scale-102 transition-transform">
+  <div class="w-18 h-12 sm:w-28 sm:h-16 rounded-xl overflow-hidden bg-black/60 border border-gray-800 shadow-2xs flex-shrink-0 relative group-hover:scale-102 transition-transform">
     <img
       src={imageInfo.imageUrl}
       alt={program.title}
@@ -89,24 +89,24 @@ const duration = durationMinutes(program.start_time, program.end_time);
   <div class="min-w-0 flex-1">
     <div class="flex items-center gap-2 mb-1 flex-wrap">
       {program.genre && (
-        <span class="text-[10px] font-black uppercase tracking-wider text-slate-500 bg-slate-100 px-2 py-0.5 rounded">
+        <span class="text-[10px] font-bold uppercase tracking-wider text-red-400 bg-red-950/50 border border-red-800/40 px-2 py-0.5 rounded">
           {program.genre}
         </span>
       )}
       {isPrimeTime && (
-        <span class="text-[10px] font-black uppercase tracking-wider text-amber-700 bg-amber-100/80 px-2 py-0.5 rounded">
+        <span class="text-[10px] font-bold uppercase tracking-wider text-amber-300 bg-amber-950/50 border border-amber-800/40 px-2 py-0.5 rounded">
           Prime Time
         </span>
       )}
     </div>
 
-    <h3 class="text-[15px] sm:text-base font-extrabold text-slate-900 leading-snug group-hover:text-red-600 transition-colors line-clamp-2">
+    <h3 class="text-[15px] sm:text-base font-extrabold text-white leading-snug group-hover:text-red-400 transition-colors line-clamp-2">
       {program.title}
     </h3>
 
     {live && (
       <div class="mt-2 flex items-center gap-2.5 max-w-md">
-        <div class="h-1.5 flex-1 overflow-hidden rounded-full bg-red-100">
+        <div class="h-1.5 flex-1 overflow-hidden rounded-full bg-gray-800">
           <div
             class="h-full rounded-full bg-red-600 transition-all duration-500 live-progress-bar"
             data-start={startMs}
@@ -114,14 +114,14 @@ const duration = durationMinutes(program.start_time, program.end_time);
             style={`width: ${currentProgress}%;`}
           />
         </div>
-        <span class="text-[11px] font-bold text-red-600 tabular-nums live-progress-text shrink-0">
+        <span class="text-[11px] font-bold text-red-400 tabular-nums live-progress-text shrink-0">
           {currentProgress}%
         </span>
       </div>
     )}
 
     {program.description && (
-      <p class="text-xs text-slate-500 mt-1 line-clamp-2 leading-relaxed hidden sm:block">
+      <p class="text-xs text-gray-400 mt-1 line-clamp-2 leading-relaxed hidden sm:block">
         {program.description.substring(0, 150)}
       </p>
     )}
